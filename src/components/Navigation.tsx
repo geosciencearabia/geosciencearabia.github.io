@@ -1,6 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import { cn } from "@/lib/utils";
 import { ThemeToggle } from "./ThemeToggle";
+import { Layers } from "lucide-react";
 
 export const Navigation = () => {
   const location = useLocation();
@@ -36,6 +37,15 @@ export const Navigation = () => {
               >
                 Announcements
               </Link>
+              <a
+                href="https://geoarabia.com/idb"
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-2 rounded-full border border-border/60 px-3 py-1.5 transition-colors hover:border-primary hover:text-primary"
+              >
+                <Layers className="h-4 w-4" />
+                Dashboard
+              </a>
             </div>
             <ThemeToggle />
           </div>
