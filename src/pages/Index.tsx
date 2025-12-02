@@ -60,7 +60,7 @@ const Index = () => {
                 </Link>
 
                 <a
-                  href="https://geoarabia.com/dashboard"
+                  href="https://geoarabia.com/idb"
                   target="_blank"
                   rel="noreferrer"
                   className="w-full sm:w-auto"
