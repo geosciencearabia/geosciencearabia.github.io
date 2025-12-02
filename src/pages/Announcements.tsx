@@ -1,11 +1,19 @@
 import { Navigation } from "@/components/Navigation";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { ArrowRight, Calendar, User } from "lucide-react";
 import { announcements } from "@/data/announcements";
+import clsx from "clsx";
 
 const Announcements = () => {
+  const [searchParams] = useSearchParams();
+  const activeTag = searchParams.get("tag");
+
+  const filtered = activeTag
+    ? announcements.filter((a) => a.tags.map((t) => t.toLowerCase()).includes(activeTag.toLowerCase()))
+    : announcements;
+
   return (
     <div className="min-h-screen">
       <Navigation />
@@ -19,43 +27,92 @@ const Announcements = () => {
             <p className="text-xl text-muted-foreground">
               Stay up to date with the latest news from Geoscience Arabia
             </p>
+            {activeTag && (
+              <div className="mt-4 inline-flex items-center gap-2 text-sm text-primary">
+                <span className="font-medium">Filtered by tag:</span>
+                <Badge variant="outline" className="border-primary/30 text-primary">{activeTag}</Badge>
+                <Link to="/announcements" className="underline hover:text-foreground">Clear</Link>
+              </div>
+            )}
           </div>
           
           <div className="grid gap-6">
-            {announcements.map((announcement) => (
+            {filtered.length === 0 && (
+              <div className="text-center text-muted-foreground border border-dashed border-border rounded-xl py-12">
+                No announcements yet. Please check back soon.
+              </div>
+            )}
+
+            {filtered.map((announcement) => (
               <Link 
                 key={announcement.id} 
                 to={`/announcements/${announcement.id}`}
                 className="block group"
               >
-                <Card className="bg-card/50 backdrop-blur-sm border-border hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/10">
-                  <CardHeader>
-                    <div className="flex items-start justify-between gap-4 mb-2">
-                      <CardTitle className="text-2xl group-hover:text-primary transition-colors">
-                        {announcement.title}
-                      </CardTitle>
-                      <ArrowRight className="w-5 h-5 text-muted-foreground group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0" />
-                    </div>
-                    <CardDescription className="text-base">
-                      {announcement.excerpt}
-                    </CardDescription>
-                  </CardHeader>
-                  <CardContent>
-                    <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
-                      <Badge variant="secondary" className="bg-secondary/50">
-                        <Calendar className="w-3 h-3 mr-1" />
-                        {new Date(announcement.date).toLocaleDateString('en-US', {
-                          year: 'numeric',
-                          month: 'long',
-                          day: 'numeric'
-                        })}
-                      </Badge>
-                      <div className="flex items-center gap-1">
-                        <User className="w-3 h-3" />
-                        {announcement.author}
+                <Card
+                  className={clsx(
+                    "bg-card/50 backdrop-blur-sm border-border hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/10",
+                    announcement.classes
+                  )}
+                >
+                  <div className="flex flex-col md:flex-row gap-6">
+                    {announcement.image && (
+                      <div className="md:w-48 flex-shrink-0 overflow-hidden rounded-xl border border-border/60">
+                        <img
+                          src={announcement.image}
+                          alt={announcement.title}
+                          className="w-full h-full object-cover aspect-[4/3]"
+                          loading="lazy"
+                        />
                       </div>
+                    )}
+                    <div className="flex-1">
+                      <CardHeader className="pb-4">
+                        <div className="flex items-start justify-between gap-4 mb-2">
+                          <CardTitle className="text-2xl group-hover:text-primary transition-colors">
+                            {announcement.title}
+                          </CardTitle>
+                          <ArrowRight className="w-5 h-5 text-muted-foreground group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0" />
+                        </div>
+                        <CardDescription className="text-base">
+                          {announcement.excerpt}
+                        </CardDescription>
+                      </CardHeader>
+                      <CardContent>
+                        <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
+                          <Badge variant="secondary" className="bg-secondary/50">
+                            <Calendar className="w-3 h-3 mr-1" />
+                            {new Date(announcement.date).toLocaleDateString('en-US', {
+                              year: 'numeric',
+                              month: 'long',
+                              day: 'numeric'
+                            })}
+                          </Badge>
+                          <div className="flex items-center gap-3 flex-wrap">
+                            <div className="flex items-center gap-1">
+                              <User className="w-3 h-3" />
+                              {announcement.author}
+                            </div>
+                            {announcement.tags.length > 0 && (
+                              <div className="flex flex-wrap gap-2">
+                                {announcement.tags.map((tag) => (
+                                  <Link
+                                    key={tag}
+                                    to={`/announcements?tag=${encodeURIComponent(tag)}`}
+                                    onClick={(e) => e.stopPropagation()}
+                                  >
+                                    <Badge variant="outline" className="border-primary/30 text-primary hover:bg-primary/10">
+                                      {tag}
+                                    </Badge>
+                                  </Link>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </CardContent>
                     </div>
-                  </CardContent>
+                  </div>
                 </Card>
               </Link>
             ))}

@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Rocket, ArrowRight } from "lucide-react";
+import { Mountain, Layers, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Index = () => {
@@ -13,14 +13,14 @@ const Index = () => {
         <div className="max-w-4xl mx-auto">
           <div className="bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-12 shadow-2xl">
             <div className="flex items-center gap-3 mb-8">
-              <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-primary to-cyan-400 flex items-center justify-center shadow-lg shadow-primary/30">
-                <Rocket className="w-9 h-9 text-primary-foreground" />
+              <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center shadow-lg shadow-primary/30 text-primary-foreground">
+                <img src="/geoarabia-logo.svg" alt="GeoArabia logo" className="w-12 h-12" />
               </div>
               <h1 className="text-2xl font-bold">Geoscience Arabia</h1>
             </div>
 
             <Badge variant="secondary" className="mb-6 bg-secondary/80 text-primary border border-primary/30">
-              <Rocket className="w-3 h-3 mr-1" />
+              <Mountain className="w-3 h-3 mr-1" />
               Coming Soon
             </Badge>
 
@@ -69,13 +69,12 @@ const Index = () => {
                     size="lg"
                     className="w-full bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/30 transition-all hover:shadow-primary/50 group"
                   >
-                    <Rocket className="w-4 h-4 mr-2" />
+                    <Layers className="w-4 h-4 mr-2" />
                     Dashboard
                     <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
                   </Button>
                 </a>
               </div>
-
 
               <p className="text-sm text-muted-foreground">
                 Registration is handled via a secure Google Form.
@@ -84,7 +83,16 @@ const Index = () => {
 
             <footer className="pt-8 border-t border-border/50">
               <p className="text-sm text-muted-foreground text-center">
-                Developed and maintained by <a href="https://DigitalGeosciences.com" className="text-primary hover:underline" target="_blank" rel="noreferrer">Digital Geosciences</a>.
+                Developed and maintained by{" "}
+                <a
+                  href="https://DigitalGeosciences.com"
+                  className="text-primary hover:underline"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Digital Geosciences
+                </a>
+                .
               </p>
             </footer>
           </div>

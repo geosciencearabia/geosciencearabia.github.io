@@ -1,5 +1,4 @@
 import { Link, useLocation } from "react-router-dom";
-import { Rocket } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ThemeToggle } from "./ThemeToggle";
 
@@ -11,8 +10,8 @@ export const Navigation = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <Link to="/" className="flex items-center gap-3 group">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-cyan-400 text-primary-foreground shadow-lg shadow-primary/25 transition group-hover:scale-105">
-              <Rocket className="h-6 w-6" />
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-accent text-primary-foreground shadow-lg shadow-primary/25 transition group-hover:scale-105">
+              <img src="/geoarabia-logo.svg" alt="GeoArabia logo" className="h-7 w-7" />
             </div>
             <span className="text-xl font-semibold tracking-tight">Geoscience Arabia</span>
           </Link>
