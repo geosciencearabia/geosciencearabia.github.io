@@ -1,4 +1,3 @@
-import { Navigation } from "@/components/Navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { useParams, useNavigate, Link } from "react-router-dom";
@@ -17,10 +16,9 @@ const AnnouncementDetail = () => {
   if (!announcement) {
     return (
       <div className="min-h-screen">
-        <Navigation />
-        <main className="container mx-auto px-6 pt-32 pb-20">
+        <main className="container mx-auto px-4 sm:px-6 py-12 sm:py-16">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl font-bold mb-4">Announcement Not Found</h1>
+            <h1 className="text-3xl sm:text-4xl font-bold mb-4">Announcement Not Found</h1>
             <Button onClick={() => navigate("/announcements")}>
               <ArrowLeft className="w-4 h-4 mr-2" />
               Back to Announcements
@@ -33,9 +31,7 @@ const AnnouncementDetail = () => {
   
   return (
     <div className="min-h-screen">
-      <Navigation />
-      
-      <main className="container mx-auto px-6 pt-32 pb-20">
+      <main className="container mx-auto px-4 sm:px-6 py-12 sm:py-16">
         <div className="max-w-4xl mx-auto">
           <Button 
             variant="ghost" 
@@ -48,7 +44,7 @@ const AnnouncementDetail = () => {
           
           <article
             className={clsx(
-              "bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-8 md:p-12 shadow-xl",
+              "bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-6 sm:p-8 md:p-12 shadow-xl",
               announcement.classes
             )}
           >
@@ -57,13 +53,13 @@ const AnnouncementDetail = () => {
                 <img
                   src={announcement.image}
                   alt={announcement.title}
-                  className="w-full h-64 object-cover"
+                  className="w-full h-48 sm:h-56 md:h-64 object-cover"
                   loading="lazy"
                 />
               </div>
             )}
             <header className="mb-8 pb-8 border-b border-border/50">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">
                 {announcement.title}
               </h1>
               

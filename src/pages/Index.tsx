@@ -1,22 +1,18 @@
-import { Navigation } from "@/components/Navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Mountain, Layers, ArrowRight } from "lucide-react";
-import { Link } from "react-router-dom";
 
 const Index = () => {
   return (
-    <div className="min-h-screen">
-      <Navigation />
-
-      <main className="container mx-auto px-6 pt-32 pb-20">
+    <div className="min-h-screen flex items-center justify-center px-4 py-12 sm:px-6 sm:py-16">
+      <main className="w-full">
         <div className="max-w-4xl mx-auto">
-          <div className="bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-12 shadow-2xl">
+          <div className="bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-8 sm:p-12 shadow-2xl">
             <div className="flex items-center gap-3 mb-8">
               <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center shadow-lg shadow-primary/30 text-primary-foreground">
                 <img src="/geoarabia-logo.svg" alt="GeoArabia logo" className="w-12 h-12" />
               </div>
-              <h1 className="text-2xl font-bold">Geoscience Arabia</h1>
+              <h1 className="text-2xl sm:text-3xl font-bold">Geoscience Arabia</h1>
             </div>
 
             <Badge variant="secondary" className="mb-6 bg-secondary/80 text-primary border border-primary/30">
@@ -24,12 +20,12 @@ const Index = () => {
               Coming Soon
             </Badge>
 
-            <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent">
+            <h2 className="text-4xl sm:text-5xl font-bold mb-6 bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent leading-tight">
               Join the GeoArabia Community
             </h2>
 
-            <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Geoscience Arabia is almost here. Be part of the GeoArabia community—register your interest today and be the first to know when we launch.
+            <p className="text-lg sm:text-xl text-muted-foreground mb-8 leading-relaxed">
+              Geoscience Arabia is almost here. Be part of the GeoArabia community: register your interest today and be the first to know when we launch.
             </p>
 
             <div className="space-y-5">
@@ -45,20 +41,9 @@ const Index = () => {
                     variant="outline"
                     className="w-full border-border bg-secondary/40 hover:bg-secondary/60 dark:bg-secondary/30 dark:hover:bg-secondary/50"
                   >
-                    Register for GeoArabia Community
+                    Join GeoArabia Community
                   </Button>
                 </a>
-
-                <Link to="/announcements" className="w-full sm:w-auto">
-                  <Button
-                    size="lg"
-                    variant="outline"
-                    className="w-full border-border bg-secondary/40 hover:bg-secondary/60 dark:bg-secondary/30 dark:hover:bg-secondary/50"
-                  >
-                    View Announcements
-                  </Button>
-                </Link>
-
                 <a
                   href="https://geoarabia.com/idb"
                   target="_blank"
