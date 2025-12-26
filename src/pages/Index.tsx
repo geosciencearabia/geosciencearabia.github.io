@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Mountain, Layers, ArrowRight } from "lucide-react";
@@ -5,6 +6,16 @@ import { Mountain, Layers, ArrowRight } from "lucide-react";
 const Index = () => {
   const primaryButtonClass =
     "w-full bg-secondary text-foreground border border-border transition-all shadow-sm hover:bg-primary hover:text-primary-foreground hover:shadow-primary/40";
+
+  // Auto-redirect to /idb after 4s (remove this block to disable)
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      window.location.href = "https://geoarabia.com/idb";
+    }, 10000);
+
+    return () => clearTimeout(timer);
+  }, []);
+  // End auto-redirect block
 
   return (
     <div className="min-h-screen flex items-center justify-center px-4 py-12 sm:px-6 sm:py-16">
@@ -55,7 +66,7 @@ const Index = () => {
               </a>
             </div>
 
-            <p className="text-sm text-muted-foreground">Registration is handled via a secure Google Form.</p>
+            <p className="text-sm text-muted-foreground">Redirecting to the dashboard in 10 seconds...</p>
           </div>
 
           <footer className="pt-8 border-t border-border/50 mt-10">
