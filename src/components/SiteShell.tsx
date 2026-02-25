@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Award } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import siteInfo from "../../data/config/siteinfo.json";
@@ -21,23 +21,33 @@ interface AnnouncementConfig {
   linkHref?: string;
 }
 
+type ThemeOption = { id: string; label: string; vars: Record<string, string> };
+type ThemeConfig = { themes?: ThemeOption[] };
+type NavLink = { label: string; href: string };
+type SiteInfoConfig = {
+  enableThemeSelection?: boolean;
+  activeTheme?: string;
+  navLinks?: NavLink[];
+  shortTitle?: string;
+  title?: string;
+  description?: string;
+  author?: string;
+  logoSrc?: string;
+  faviconSrc?: string;
+};
+
 const typedAnnouncement = announcement as AnnouncementConfig;
+const siteInfoConfig = siteInfo as SiteInfoConfig;
+const themeConfig = themesConfig as ThemeConfig;
 
 export const SiteShell = ({ children }: SiteShellProps) => {
-  const themes = Array.isArray((themesConfig as any).themes)
-    ? ((themesConfig as any).themes as Array<{
-        id: string;
-        label: string;
-        vars: Record<string, string>;
-      }>)
-    : [];
+  const themes = useMemo(
+    () => (Array.isArray(themeConfig.themes) ? themeConfig.themes : []),
+    [themeConfig.themes],
+  );
   const allowThemeSelection =
-    (siteInfo as any).enableThemeSelection !== undefined
-      ? Boolean((siteInfo as any).enableThemeSelection)
-      : true;
-  const defaultThemeId =
-    (siteInfo as any).activeTheme ||
-    (themes.length ? themes[0].id : "default");
+    siteInfoConfig.enableThemeSelection !== undefined ? Boolean(siteInfoConfig.enableThemeSelection) : true;
+  const defaultThemeId = siteInfoConfig.activeTheme || (themes.length ? themes[0].id : "default");
   const [activeThemeId, setActiveThemeId] = useState(defaultThemeId);
 
   const assetBase =
@@ -113,7 +123,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
     if (stored && themes.some((theme) => theme.id === stored)) {
       setActiveThemeId(stored);
     }
-  }, [themes.length]);
+  }, [themes]);
 
   useEffect(() => {
     if (typeof document === "undefined") return;
@@ -125,9 +135,9 @@ export const SiteShell = ({ children }: SiteShellProps) => {
     document.documentElement.dataset.theme = theme.id;
   }, [activeThemeId, themes]);
 
-  const navLinks =
-    Array.isArray((siteInfo as any).navLinks) && (siteInfo as any).navLinks.length
-      ? (siteInfo as any).navLinks
+  const navLinks: NavLink[] =
+    Array.isArray(siteInfoConfig.navLinks) && siteInfoConfig.navLinks.length
+      ? siteInfoConfig.navLinks
       : [
           { label: "Dashboard", href: "/" },
           { label: "Help", href: "/help" },

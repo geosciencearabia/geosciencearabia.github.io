@@ -54,12 +54,12 @@ This doc explains each script under `scripts/` and how data moves through the da
 - Outputs: `src/data/workCitationTrend.generated.ts`
 
 ### `generate-recent-citations.cjs`
-- Purpose: Daily citation feed for “Recent citations” using citation deltas (no extra API calls).
+- Purpose: Daily citation feed for "Recent citations" using citation deltas (no extra API calls).
 - Inputs: `data/works.csv`
 - Outputs:
-  - `data/recent-citations.json` (only works with a positive citation delta vs. previous day)
+  - `data/recent-citations.json` (only works with a positive citation delta vs. previous run)
   - `data/citation-snapshots/YYYY-MM-DD.json` (stored daily totals for diffing)
-- Env: (none required; optional window is enforced in UI)
+- Env: (none required; UI window is controlled by `recentCitationsWindowDays` in `data/config/dashboardConfig.json`)
 
 ### `generate-topic-institution-stats.cjs`
 - Purpose: Aggregate topic/institution totals for listing pages.
@@ -125,11 +125,11 @@ The `npm run refresh:data` script runs:
 - `src/pages/AuthorNetwork.tsx` (co-author network uses `worksTable` snapshot)
 - `src/pages/Insights.tsx` (topic insights)
 
-### Optional: recent daily citations feed (for “yesterday’s” citations)
+### Recent citations feed (delta-based)
 - File: `data/recent-citations.json`
 - Shape: array of `{ workId, doi, title, venue, publicationDate, year, allAuthors, addedAt, citedByCount }`
-- How to populate: during the daily refresh, query OpenAlex citing works with `updated_since=<yesterday>` (per tracked work), then write that JSON.
-- UI behavior: if this file has entries from the last 31 days, the Dashboard “Recent citations” list uses it (sorted by `addedAt`); otherwise it falls back to the yearly aggregates.
+- How it’s built: during `generate:works`, citation totals are diffed against the previous snapshot; only positive deltas are emitted.
+- UI behavior: shows items from the last window (default 7 days), sorted by `addedAt`. If empty, it falls back to the yearly list sorted by total citations.
 
 ## How the dashboard works (summary)
 

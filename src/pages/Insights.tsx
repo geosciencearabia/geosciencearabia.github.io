@@ -210,7 +210,7 @@ const InsightsPage = () => {
   const [visibleRows, setVisibleRows] = useState(25);
   const [topicColors, setTopicColors] = useState<Record<string, string>>({});
   const initializedSelection = useRef(false);
-  const plotlyRef = useRef<any>(null);
+  const plotlyRef = useRef<unknown>(null);
   const [showChartPopout, setShowChartPopout] = useState(false);
 
   useEffect(() => {
