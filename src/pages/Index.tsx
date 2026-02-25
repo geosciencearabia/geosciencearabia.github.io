@@ -1691,135 +1691,142 @@ const Index = () => {
                 </h2>
               </div>
               <div className="grid grid-cols-1 gap-3">
-                {recentCitedPublications.map((work) => (
-                  <Card key={`cited-${work.workId}`} className="border-border/60">
-                    <CardContent className="p-3 space-y-2">
-                      <div className="flex items-start justify-between gap-3">
-                        <div className="space-y-1">
-                          <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
-                            <FileText className="h-3 w-3 text-primary" />
-                            <span>
-                              {(() => {
-                                const addedAt = (work as WorkWithAddedAt).addedAt;
-                                if (addedAt && !Number.isNaN(Date.parse(addedAt))) {
-                                  return new Date(addedAt).toLocaleString(undefined, {
-                                    year: "numeric",
-                                    month: "short",
-                                    day: "numeric",
-                                    hour: "2-digit",
-                                    minute: "2-digit",
-                                  });
-                                }
-                                return work.publicationDate
-                                  ? new Date(work.publicationDate).toLocaleString(undefined, {
+                {recentCitedPublications.length === 0 ? (
+                  <div className="text-xs text-muted-foreground">
+                    No new citations in the last {recentCitationsWindowDays} day
+                    {recentCitationsWindowDays === 1 ? "" : "s"}.
+                  </div>
+                ) : (
+                  recentCitedPublications.map((work) => (
+                    <Card key={`cited-${work.workId}`} className="border-border/60">
+                      <CardContent className="p-3 space-y-2">
+                        <div className="flex items-start justify-between gap-3">
+                          <div className="space-y-1">
+                            <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
+                              <FileText className="h-3 w-3 text-primary" />
+                              <span>
+                                {(() => {
+                                  const addedAt = (work as WorkWithAddedAt).addedAt;
+                                  if (addedAt && !Number.isNaN(Date.parse(addedAt))) {
+                                    return new Date(addedAt).toLocaleString(undefined, {
                                       year: "numeric",
                                       month: "short",
                                       day: "numeric",
                                       hour: "2-digit",
                                       minute: "2-digit",
-                                    })
-                                  : work.year || "Year n/a";
+                                    });
+                                  }
+                                  return work.publicationDate
+                                    ? new Date(work.publicationDate).toLocaleString(undefined, {
+                                        year: "numeric",
+                                        month: "short",
+                                        day: "numeric",
+                                        hour: "2-digit",
+                                        minute: "2-digit",
+                                      })
+                                    : work.year || "Year n/a";
+                                })()}
+                              </span>
+                              {work.venue ? (
+                                <>
+                                  <span aria-hidden>{"\u2022"}</span>
+                                  <span className="text-primary font-medium">{work.venue}</span>
+                                </>
+                              ) : null}
+                            </div>
+                            <h3 className="text-sm font-semibold text-primary leading-snug hover:underline">
+                              {(() => {
+                                const cleanedDoi = work.doi
+                                  ? work.doi
+                                      .replace(/^https?:\/\/(www\.)?doi\.org\//i, "")
+                                      .replace(/^doi:/i, "")
+                                      .trim()
+                                  : "";
+                                const href = cleanedDoi
+                                  ? `https://doi.org/${cleanedDoi}`
+                                  : work.workId
+                                    ? `https://openalex.org/${work.workId}`
+                                    : undefined;
+                                return (
+                                  <a href={href} target="_blank" rel="noreferrer">
+                                    {renderWorkTitleHtml(work.title)}
+                                  </a>
+                                );
                               })()}
-                            </span>
-                            {work.venue ? (
-                              <>
-                                <span aria-hidden>{"\u2022"}</span>
-                                <span className="text-primary font-medium">{work.venue}</span>
-                              </>
-                            ) : null}
-                          </div>
-                          <h3 className="text-sm font-semibold text-primary leading-snug hover:underline">
-                            {(() => {
-                              const cleanedDoi = work.doi
-                                ? work.doi
-                                    .replace(/^https?:\/\/(www\.)?doi\.org\//i, "")
-                                    .replace(/^doi:/i, "")
-                                    .trim()
-                                : "";
-                              const href = cleanedDoi
-                                ? `https://doi.org/${cleanedDoi}`
-                                : work.workId
-                                  ? `https://openalex.org/${work.workId}`
-                                  : undefined;
+                            </h3>
+                            {work.allAuthors?.length ? (() => {
+                              const names = work.allAuthors.filter(Boolean);
+                              const fullList = names.join(", ");
                               return (
-                                <a href={href} target="_blank" rel="noreferrer">
-                                  {renderWorkTitleHtml(work.title)}
-                                </a>
+                                <p className="text-xs text-muted-foreground mt-1" title={fullList}>
+                                  <User className="mr-1 inline-block h-3 w-3 text-primary" />
+                                  <span>{fullList || "Author n/a"}</span>
+                                </p>
+                              );
+                            })() : null}
+                          </div>
+                          <div className="text-right text-xs text-muted-foreground">
+                            {(() => {
+                              const trend = workCitationTrendByWorkId[work.workId];
+                              const latestYearCitations =
+                                trend?.latestYearCitations ??
+                                (work as WorkWithAddedAt).citedByCount ??
+                                work.citations ??
+                                0;
+                              const totalCites = trend ? work.citations || 0 : undefined;
+                              return (
+                                <button
+                                  type="button"
+                                  className="inline-block text-right hover:underline"
+                                  onClick={() => openCitingDialog(work)}
+                                  title="Citations gained since last run"
+                                >
+                                  <div className="font-semibold text-green-600">
+                                    +{latestYearCitations.toLocaleString()}
+                                  </div>
+                                  {totalCites != null ? (
+                                    <div className="text-[10px] leading-tight">
+                                      {totalCites.toLocaleString()}
+                                    </div>
+                                  ) : null}
+                                </button>
                               );
                             })()}
-                          </h3>
-                          {work.allAuthors?.length ? (() => {
-                            const names = work.allAuthors.filter(Boolean);
-                            const fullList = names.join(", ");
-                            return (
-                              <p
-                                className="text-xs text-muted-foreground mt-1"
-                                title={fullList}
-                              >
-                                <User className="mr-1 inline-block h-3 w-3 text-primary" />
-                                <span>{fullList || "Author n/a"}</span>
-                              </p>
-                            );
-                          })() : null}
+                          </div>
                         </div>
-                        <div className="text-right text-xs text-muted-foreground">
-                          {(() => {
-                            const trend = workCitationTrendByWorkId[work.workId];
-                            const latestYearCitations =
-                              trend?.latestYearCitations ??
-                              (work as WorkWithAddedAt).citedByCount ??
-                              work.citations ??
-                              0;
-                            return (
-                          <button
-                            type="button"
-                            className="inline-block text-right hover:underline"
-                            onClick={() => openCitingDialog(work)}
-                            title="Citations in latest year"
-                          >
-                            <div className="font-semibold text-green-600">
-                              +{latestYearCitations.toLocaleString()}
-                            </div>
-                            {trend ? (
-                              <div className="text-[10px] leading-tight">
-                                {(work.citations || 0).toLocaleString()}
-                              </div>
-                            ) : null}
-                          </button>
-                            );
-                          })()}
-                        </div>
-                      </div>
-                    </CardContent>
-                  </Card>
-                ))}
-              </div>
-              <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
-                {recentCitationsSourceLength > INITIAL_CITED_LIMIT && (
-                  <>
-                    <button
-                      type="button"
-                      className="inline-flex items-center justify-center rounded-md border border-border bg-background px-3 py-1 text-xs font-semibold text-foreground shadow hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50"
-                      onClick={() =>
-                        setCitedLimit((prev) =>
-                          Math.min(prev + CITED_STEP, recentCitationsSourceLength),
-                        )
-                      }
-                      disabled={!hasMoreCited}
-                    >
-                      Load more
-                    </button>
-                  </>
+                      </CardContent>
+                    </Card>
+                  ))
                 )}
-                <button
-                  type="button"
-                  className="inline-flex items-center justify-center gap-1 rounded-md border border-border bg-background px-3 py-1 text-xs font-semibold text-foreground shadow hover:bg-muted"
-                  onClick={() => navigate("/citations")}
-                >
-                  View all
-                  <ArrowUpRight className="h-3 w-3" />
-                </button>
               </div>
+              {recentCitedPublications.length > 0 ? (
+                <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
+                  {recentCitationsSourceLength > INITIAL_CITED_LIMIT && (
+                    <>
+                      <button
+                        type="button"
+                        className="inline-flex items-center justify-center rounded-md border border-border bg-background px-3 py-1 text-xs font-semibold text-foreground shadow hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50"
+                        onClick={() =>
+                          setCitedLimit((prev) =>
+                            Math.min(prev + CITED_STEP, recentCitationsSourceLength),
+                          )
+                        }
+                        disabled={!hasMoreCited}
+                      >
+                        Load more
+                      </button>
+                    </>
+                  )}
+                  <button
+                    type="button"
+                    className="inline-flex items-center justify-center gap-1 rounded-md border border-border bg-background px-3 py-1 text-xs font-semibold text-foreground shadow hover:bg-muted"
+                    onClick={() => navigate("/citations")}
+                  >
+                    View all
+                    <ArrowUpRight className="h-3 w-3" />
+                  </button>
+                </div>
+              ) : null}
             </div>
           </div>
         </section>
