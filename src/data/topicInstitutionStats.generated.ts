@@ -44,12 +44,12 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 624,
-    "citations": 17944
+    "citations": 17945
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
-    "publications": 559,
+    "publications": 558,
     "citations": 11435
   },
   {
@@ -74,7 +74,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
     "publications": 302,
-    "citations": 15235
+    "citations": 15236
   },
   {
     "id": "https://openalex.org/T13193",
@@ -121,7 +121,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
-    "publications": 136,
+    "publications": 137,
     "citations": 3392
   },
   {
@@ -134,7 +134,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13205",
     "name": "Geological and Geophysical Studies Worldwide",
     "publications": 104,
-    "citations": 1996
+    "citations": 1997
   },
   {
     "id": "https://openalex.org/T11757",
@@ -4187,7 +4187,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I63596082",
     "name": "Tunis El Manar University",
     "publications": 9,
-    "citations": 102
+    "citations": 103
   },
   {
     "id": "https://openalex.org/I29891158",
@@ -8075,7 +8075,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210120017",
     "name": "Tunisian Union of Agriculture and Fisheries",
     "publications": 1,
-    "citations": 49
+    "citations": 50
   },
   {
     "id": "https://openalex.org/I126520041",

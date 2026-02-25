@@ -3974,10 +3974,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2086655407": {
     "workId": "https://openalex.org/W2086655407",
-    "latestYear": 2025,
-    "latestYearCitations": 2,
-    "previousYearCitations": 5,
-    "yearOverYearDelta": -3
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 2,
+    "yearOverYearDelta": -1
   },
   "https://openalex.org/W2086944217": {
     "workId": "https://openalex.org/W2086944217",

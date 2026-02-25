@@ -2667,7 +2667,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 10,
-    "cites": 1304
+    "cites": 1305
   },
   {
     "topic": "earthquake and tectonic studies",
@@ -3722,7 +3722,7 @@ export const topicYearStats: TopicYearStats[] = [
   {
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2026,
-    "pubs": 3,
+    "pubs": 4,
     "cites": 0
   },
   {
@@ -4000,12 +4000,6 @@ export const topicYearStats: TopicYearStats[] = [
     "year": 2025,
     "pubs": 38,
     "cites": 47
-  },
-  {
-    "topic": "Geochemistry and Geologic Mapping",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
   },
   {
     "topic": "Geodetic Measurements and Engineering Structures",
@@ -4671,7 +4665,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 5,
-    "cites": 55
+    "cites": 56
   },
   {
     "topic": "Geological and Geophysical Studies Worldwide",
@@ -5031,7 +5025,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 20,
-    "cites": 1144
+    "cites": 1145
   },
   {
     "topic": "Geological formations and processes",
@@ -27379,6 +27373,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5006844997",
+    "topic": "Geochemistry and Elemental Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5006844997",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2019,
     "pubs": 1,
@@ -27397,13 +27398,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 2,
     "cites": 5
-  },
-  {
-    "authorOpenAlexId": "A5006844997",
-    "topic": "Geochemistry and Geologic Mapping",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
   },
   {
     "authorOpenAlexId": "A5006844997",
@@ -50776,21 +50770,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5015413432",
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5015413432",
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5015433529",
@@ -72756,21 +72750,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5026210309",
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5026210309",
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5026251160",
@@ -145990,7 +145984,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5051221143",
@@ -146088,7 +146082,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5051221143",
@@ -146130,7 +146124,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5051221143",
@@ -219872,6 +219866,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5080820696",
+    "topic": "Geochemistry and Elemental Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5080820696",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2018,
     "pubs": 1,
@@ -219883,13 +219884,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2019,
     "pubs": 1,
     "cites": 5
-  },
-  {
-    "authorOpenAlexId": "A5080820696",
-    "topic": "Geochemistry and Geologic Mapping",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
   },
   {
     "authorOpenAlexId": "A5080820696",
@@ -225815,6 +225809,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5082826691",
+    "topic": "Geochemistry and Elemental Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5082826691",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2017,
     "pubs": 1,
@@ -225859,13 +225860,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5082826691",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2025,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5082826691",
-    "topic": "Geochemistry and Geologic Mapping",
-    "year": 2026,
     "pubs": 1,
     "cites": 0
   },
@@ -231165,7 +231159,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5085007251",
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2026,
-    "pubs": 1,
+    "pubs": 2,
     "cites": 0
   },
   {
@@ -231228,13 +231222,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5085007251",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2025,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5085007251",
-    "topic": "Geochemistry and Geologic Mapping",
-    "year": 2026,
     "pubs": 1,
     "cites": 0
   },
@@ -233903,21 +233890,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5085699286",
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5085699286",
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5085722785",
@@ -274545,7 +274532,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5111648436",
@@ -274580,14 +274567,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies Worldwide",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5111648436",
     "topic": "Geological formations and processes",
     "year": 2010,
     "pubs": 1,
-    "cites": 49
+    "cites": 50
   },
   {
     "authorOpenAlexId": "A5111657319",
