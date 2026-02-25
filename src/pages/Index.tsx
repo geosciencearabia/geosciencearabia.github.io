@@ -112,6 +112,7 @@ type DashboardConfig = {
   defaultYearRangeCharts?: { from?: number | null; to?: number | null };
   defaultPublicationType?: VenueType;
   defaultInstitutionFilterId?: string;
+  recentCitationsWindowDays?: number;
   mainPageDefaults?: {
     yearRange?: { from?: number | null; to?: number | null };
     publicationType?: VenueType;
@@ -188,6 +189,7 @@ const dashboardConfig = (dashboardConfigJson as DashboardConfig) || {
   showStats: true,
   showCharts: true,
   showInstitutionFilter: true,
+  recentCitationsWindowDays: 7,
   statCards: {
     members: true,
     topics: true,
@@ -199,6 +201,10 @@ const dashboardConfig = (dashboardConfigJson as DashboardConfig) || {
 };
 const mainPageDefaults = dashboardConfig.mainPageDefaults || {};
 const showInstitutionFilter = dashboardConfig.showInstitutionFilter !== false;
+const recentCitationsWindowDays =
+  typeof dashboardConfig.recentCitationsWindowDays === "number" && dashboardConfig.recentCitationsWindowDays > 0
+    ? Math.min(90, Math.max(1, Math.floor(dashboardConfig.recentCitationsWindowDays)))
+    : 7;
 const defaultYearRangeConfig =
   mainPageDefaults.yearRange ||
   dashboardConfig.defaultYearRangeCharts ||
@@ -235,7 +241,6 @@ const defaultInstitutionFilterOptions: InstitutionFilterOption[] = [
 const recentCitationFeed: RecentCitationFeedItem[] = Array.isArray(recentCitationsJson)
   ? (recentCitationsJson as RecentCitationFeedItem[])
   : [];
-const RECENT_CITATION_WINDOW_DAYS = 31;
 
 const deriveInsight = (pubsA: number, pubsB: number, citesA: number, citesB: number) => {
   const pubsRatio = pubsA === 0 ? (pubsB > 0 ? Infinity : 0) : pubsB / pubsA;
@@ -566,7 +571,7 @@ const Index = () => {
   const recentCitationFeedSorted = useMemo(() => {
     if (!recentCitationFeedNormalized.length) return [];
     const now = Date.now();
-    const cutoff = now - RECENT_CITATION_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    const cutoff = now - recentCitationsWindowDays * 24 * 60 * 60 * 1000;
     return recentCitationFeedNormalized
       .filter((w) => {
         const t = Date.parse(w.addedAt || "");
@@ -578,7 +583,7 @@ const Index = () => {
         if (!Number.isNaN(tb - ta)) return tb - ta;
         return (b.citations || 0) - (a.citations || 0);
       });
-  }, [recentCitationFeedNormalized]);
+  }, [recentCitationFeedNormalized, recentCitationsWindowDays]);
 
   const perYearAggregates = useMemo(() => {
     const map = new Map<
@@ -991,38 +996,26 @@ const Index = () => {
     return sortedRecentTopics.slice(0, Math.max(0, topicLimit));
   }, [sortedRecentTopics, topicLimit]);
 
-  const sortedRecentlyCited = useMemo(() => {
+  const fallbackCitedByCitations = useMemo(() => {
     return [...rangeFilteredDashboardWorks]
-      .map((work) => {
-        const trend = workCitationTrendByWorkId[work.workId];
-        return {
-          work,
-          latestYear: trend?.latestYear ?? 0,
-          latestYearCitations: trend?.latestYearCitations ?? 0,
-        };
-      })
-      .filter((entry) => entry.latestYearCitations > 0)
+      .filter((work) => (work.citations ?? 0) > 0)
       .sort((a, b) => {
-        // Prioritize newest citation activity; if same year, sort alphabetically.
-        const byCitationYear = b.latestYear - a.latestYear;
-        if (byCitationYear !== 0) return byCitationYear;
-        const aTitle = (a.work.title || "").toLocaleLowerCase();
-        const bTitle = (b.work.title || "").toLocaleLowerCase();
-        const byTitle = aTitle.localeCompare(bTitle);
-        if (byTitle !== 0) return byTitle;
-        return (a.work.workId || "").localeCompare(b.work.workId || "");
-      })
-      .map((entry) => entry.work);
+        const byCites = (b.citations ?? 0) - (a.citations ?? 0);
+        if (byCites !== 0) return byCites;
+        const byYear = (b.year ?? 0) - (a.year ?? 0);
+        if (byYear !== 0) return byYear;
+        return (a.title || "").localeCompare(b.title || "", undefined, { sensitivity: "base" });
+      });
   }, [rangeFilteredDashboardWorks]);
 
-  const recentCitationsSourceLength = recentCitationFeedSorted.length || sortedRecentlyCited.length;
+  const displayCitationsSource = recentCitationFeedSorted.length
+    ? recentCitationFeedSorted
+    : fallbackCitedByCitations;
+  const recentCitationsSourceLength = displayCitationsSource.length;
 
   const recentCitedPublications = useMemo(() => {
-    if (recentCitationFeedSorted.length) {
-      return recentCitationFeedSorted.slice(0, Math.max(0, citedLimit));
-    }
-    return sortedRecentlyCited.slice(0, Math.max(0, citedLimit));
-  }, [recentCitationFeedSorted, sortedRecentlyCited, citedLimit]);
+    return displayCitationsSource.slice(0, Math.max(0, citedLimit));
+  }, [displayCitationsSource, citedLimit]);
 
   const hasMorePublications = publicationLimit < publicationPoolSize;
   const hasMoreTopics = topicLimit < sortedRecentTopics.length;
