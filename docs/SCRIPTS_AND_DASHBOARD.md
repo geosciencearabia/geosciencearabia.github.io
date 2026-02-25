@@ -48,6 +48,19 @@ This doc explains each script under `scripts/` and how data moves through the da
 - Inputs: `data/works.csv`, `data/work_topics.csv`, `data/work_institutions.csv`
 - Outputs: `src/data/worksTable.generated.ts`
 
+### `generate-work-citation-trend.cjs`
+- Purpose: Per-work yearly citation deltas for charts.
+- Inputs: `public/author-data/*.json`
+- Outputs: `src/data/workCitationTrend.generated.ts`
+
+### `generate-recent-citations.cjs`
+- Purpose: Daily citation feed for “Recent citations” using citation deltas (no extra API calls).
+- Inputs: `data/works.csv`
+- Outputs:
+  - `data/recent-citations.json` (only works with a positive citation delta vs. previous day)
+  - `data/citation-snapshots/YYYY-MM-DD.json` (stored daily totals for diffing)
+- Env: (none required; optional window is enforced in UI)
+
 ### `generate-topic-institution-stats.cjs`
 - Purpose: Aggregate topic/institution totals for listing pages.
 - Inputs: `data/works.csv`, `data/work_topics.csv`, `data/work_institutions.csv`
@@ -83,7 +96,7 @@ The `npm run refresh:data` script runs:
 2) `generate:authors`
 3) `clean:author-cache`
 4) `cache:openalex-works`
-5) `generate:works` (which chains `export-works`, `generate-works-table`, `generate-topic-institution-stats`, `generate-author-work-metrics`, `generate-rss`)
+5) `generate:works` (chains `export-works`, `generate-recent-citations`, `generate-works-table`, `generate-work-citation-trend`, `generate-topic-institution-stats`, `generate-author-work-metrics`, `generate-insights-aggregates`, `generate-rss`)
 6) `generate:feed`
 
 ## Dashboard data flow (high level)
@@ -111,6 +124,12 @@ The `npm run refresh:data` script runs:
 - `src/pages/Publications.tsx`, `Topics.tsx`, `Institutions.tsx`
 - `src/pages/AuthorNetwork.tsx` (co-author network uses `worksTable` snapshot)
 - `src/pages/Insights.tsx` (topic insights)
+
+### Optional: recent daily citations feed (for “yesterday’s” citations)
+- File: `data/recent-citations.json`
+- Shape: array of `{ workId, doi, title, venue, publicationDate, year, allAuthors, addedAt, citedByCount }`
+- How to populate: during the daily refresh, query OpenAlex citing works with `updated_since=<yesterday>` (per tracked work), then write that JSON.
+- UI behavior: if this file has entries from the last 31 days, the Dashboard “Recent citations” list uses it (sorted by `addedAt`); otherwise it falls back to the yearly aggregates.
 
 ## How the dashboard works (summary)
 

@@ -25,6 +25,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/u
 import insightsConfig from "../../data/config/insightsconfig.json";
 import venueTypeOverridesCsv from "../../data/config/venue-type-overrides.csv?raw";
 import institutionFiltersConfigJson from "../../data/config/institution-filters.json";
+import recentCitationsJson from "../../data/recent-citations.json";
 import { topicYearStats } from "@/data/insightsAggregates.generated";
 import { getCitingWorks, type OpenAlexWork } from "@/services/openAlex";
 import {
@@ -147,6 +148,20 @@ type InstitutionFilterOption = {
   institutions: string[];
   institutionGroups: string[][];
 };
+type RecentCitationFeedItem = {
+  workId?: string;
+  doi?: string;
+  title?: string;
+  venue?: string;
+  publicationDate?: string;
+  year?: number;
+  allAuthors?: string[];
+  addedAt?: string;
+  citationAddedAt?: string;
+  citedByCount?: number;
+};
+
+type WorkWithAddedAt = (typeof worksTable)[number] & { addedAt?: string | null; citedByCount?: number };
 const conferenceKeywords = [
   "conference",
   "proceedings",
@@ -217,6 +232,10 @@ const defaultInstitutionFilterOptions: InstitutionFilterOption[] = [
     institutionGroups: [],
   },
 ];
+const recentCitationFeed: RecentCitationFeedItem[] = Array.isArray(recentCitationsJson)
+  ? (recentCitationsJson as RecentCitationFeedItem[])
+  : [];
+const RECENT_CITATION_WINDOW_DAYS = 31;
 
 const deriveInsight = (pubsA: number, pubsB: number, citesA: number, citesB: number) => {
   const pubsRatio = pubsA === 0 ? (pubsB > 0 ? Infinity : 0) : pubsB / pubsA;
@@ -505,6 +524,61 @@ const Index = () => {
       (work) => classifyVenueType(work.venue, venueOverrides) === venueTypeFilter,
     );
   }, [institutionFilteredWorks, venueTypeFilter, venueOverrides]);
+
+  const recentCitationFeedNormalized = useMemo(() => {
+    return recentCitationFeed
+      .map((entry) => {
+        const workId = (entry.workId || "").trim();
+        const matched = worksTable.find((w) => w.workId === workId);
+        const addedAt = entry.addedAt || entry.citationAddedAt || null;
+        if (matched) {
+          return { ...matched, addedAt, citedByCount: entry.citedByCount ?? matched.citations } as WorkWithAddedAt;
+        }
+        const parsedYear =
+          entry.year ??
+          (() => {
+            const t = Date.parse(entry.publicationDate || "");
+            return Number.isNaN(t) ? undefined : new Date(t).getFullYear();
+          })();
+        return {
+          workId,
+          doi: entry.doi || "",
+          program: "",
+          primaryAuthorOpenAlexId: "",
+          allAuthorOpenAlexIds: [],
+          firstAuthorLastName: "",
+          allAuthors: entry.allAuthors || [],
+          title: entry.title || "",
+          publicationDate: entry.publicationDate || "",
+          year: parsedYear as number,
+          venue: entry.venue || "",
+          citations: entry.citedByCount ?? 0,
+          fwci: null,
+          topics: [],
+          institutions: [],
+          addedAt,
+          citedByCount: entry.citedByCount ?? 0,
+        } as WorkWithAddedAt;
+      })
+      .filter((w) => !!w.addedAt) as WorkWithAddedAt[];
+  }, [recentCitationFeed]);
+
+  const recentCitationFeedSorted = useMemo(() => {
+    if (!recentCitationFeedNormalized.length) return [];
+    const now = Date.now();
+    const cutoff = now - RECENT_CITATION_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    return recentCitationFeedNormalized
+      .filter((w) => {
+        const t = Date.parse(w.addedAt || "");
+        return !Number.isNaN(t) && t >= cutoff;
+      })
+      .sort((a, b) => {
+        const ta = Date.parse(a.addedAt || "");
+        const tb = Date.parse(b.addedAt || "");
+        if (!Number.isNaN(tb - ta)) return tb - ta;
+        return (b.citations || 0) - (a.citations || 0);
+      });
+  }, [recentCitationFeedNormalized]);
 
   const perYearAggregates = useMemo(() => {
     const map = new Map<
@@ -941,14 +1015,18 @@ const Index = () => {
       .map((entry) => entry.work);
   }, [rangeFilteredDashboardWorks]);
 
-  const recentCitedPublications = useMemo(
-    () => sortedRecentlyCited.slice(0, Math.max(0, citedLimit)),
-    [sortedRecentlyCited, citedLimit],
-  );
+  const recentCitationsSourceLength = recentCitationFeedSorted.length || sortedRecentlyCited.length;
+
+  const recentCitedPublications = useMemo(() => {
+    if (recentCitationFeedSorted.length) {
+      return recentCitationFeedSorted.slice(0, Math.max(0, citedLimit));
+    }
+    return sortedRecentlyCited.slice(0, Math.max(0, citedLimit));
+  }, [recentCitationFeedSorted, sortedRecentlyCited, citedLimit]);
 
   const hasMorePublications = publicationLimit < publicationPoolSize;
   const hasMoreTopics = topicLimit < sortedRecentTopics.length;
-  const hasMoreCited = citedLimit < sortedRecentlyCited.length;
+  const hasMoreCited = citedLimit < recentCitationsSourceLength;
 
   const openCitingDialog = useCallback((work: (typeof worksTable)[number]) => {
     setSelectedCitedWork(work);
@@ -1628,15 +1706,27 @@ const Index = () => {
                           <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
                             <FileText className="h-3 w-3 text-primary" />
                             <span>
-                              {work.publicationDate
-                                ? new Date(work.publicationDate).toLocaleString(undefined, {
+                              {(() => {
+                                const addedAt = (work as WorkWithAddedAt).addedAt;
+                                if (addedAt && !Number.isNaN(Date.parse(addedAt))) {
+                                  return new Date(addedAt).toLocaleString(undefined, {
                                     year: "numeric",
                                     month: "short",
                                     day: "numeric",
                                     hour: "2-digit",
                                     minute: "2-digit",
-                                  })
-                                : work.year || "Year n/a"}
+                                  });
+                                }
+                                return work.publicationDate
+                                  ? new Date(work.publicationDate).toLocaleString(undefined, {
+                                      year: "numeric",
+                                      month: "short",
+                                      day: "numeric",
+                                      hour: "2-digit",
+                                      minute: "2-digit",
+                                    })
+                                  : work.year || "Year n/a";
+                              })()}
                             </span>
                             {work.venue ? (
                               <>
@@ -1682,7 +1772,11 @@ const Index = () => {
                         <div className="text-right text-xs text-muted-foreground">
                           {(() => {
                             const trend = workCitationTrendByWorkId[work.workId];
-                            const latestYearCitations = trend?.latestYearCitations ?? 0;
+                            const latestYearCitations =
+                              trend?.latestYearCitations ??
+                              (work as WorkWithAddedAt).citedByCount ??
+                              work.citations ??
+                              0;
                             return (
                           <button
                             type="button"
@@ -1708,14 +1802,14 @@ const Index = () => {
                 ))}
               </div>
               <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
-                {sortedRecentlyCited.length > INITIAL_CITED_LIMIT && (
+                {recentCitationsSourceLength > INITIAL_CITED_LIMIT && (
                   <>
                     <button
                       type="button"
                       className="inline-flex items-center justify-center rounded-md border border-border bg-background px-3 py-1 text-xs font-semibold text-foreground shadow hover:bg-muted disabled:cursor-not-allowed disabled:opacity-50"
                       onClick={() =>
                         setCitedLimit((prev) =>
-                          Math.min(prev + CITED_STEP, sortedRecentlyCited.length),
+                          Math.min(prev + CITED_STEP, recentCitationsSourceLength),
                         )
                       }
                       disabled={!hasMoreCited}
