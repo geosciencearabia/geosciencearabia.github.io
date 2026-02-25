@@ -147,6 +147,8 @@ const authorTopJournalsCountRaw =
 const insightsDefaultSelectedTopicsCount =
   (insightsConfig as { insightsDefaultSelectedTopicsCount?: number })?.insightsDefaultSelectedTopicsCount ??
   5;
+const showInstitutionFilter =
+  ((dashboardConfigJson as { showInstitutionFilter?: boolean }).showInstitutionFilter ?? true) !== false;
 const insightsDefaultCompare =
   (insightsConfig as { insightsDefaultCompare?: boolean })?.insightsDefaultCompare ?? true;
 const insightsDefaultMetric =
@@ -2450,21 +2452,25 @@ export default function AuthorDetail() {
                       <option value="conference">Conference</option>
                       <option value="other">Other</option>
                     </select>
-                    <span className="font-semibold text-foreground ml-2">Institution:</span>
-                    <select
-                      className="h-7 rounded border border-border bg-background px-2 text-xs"
-                      value={institutionFilterId}
-                      onChange={(e) => {
-                        setInstitutionFilterId(e.target.value);
-                        setVisibleCount(PAGE_SIZE);
-                      }}
-                    >
-                      {institutionFilterOptions.map((option) => (
-                        <option key={option.id} value={option.id}>
-                          {option.shortLabel || option.label}
-                        </option>
-                      ))}
-                    </select>
+                    {showInstitutionFilter && (
+                      <>
+                        <span className="font-semibold text-foreground ml-2">Institution:</span>
+                        <select
+                          className="h-7 rounded border border-border bg-background px-2 text-xs"
+                          value={institutionFilterId}
+                          onChange={(e) => {
+                            setInstitutionFilterId(e.target.value);
+                            setVisibleCount(PAGE_SIZE);
+                          }}
+                        >
+                          {institutionFilterOptions.map((option) => (
+                            <option key={option.id} value={option.id}>
+                              {option.shortLabel || option.label}
+                            </option>
+                          ))}
+                        </select>
+                      </>
+                    )}
                   </div>
 
                   <div className="flex flex-wrap items-center gap-3">
@@ -3506,21 +3512,25 @@ export default function AuthorDetail() {
                       <option value="conference">Conferences ({venueTypeCounts.conference})</option>
                       <option value="other">Others ({venueTypeCounts.other})</option>
                     </select>
-                    <span className="font-semibold text-foreground">Institution:</span>
-                    <select
-                      className="h-7 rounded border border-border bg-background px-2 text-xs"
-                      value={institutionFilterId}
-                      onChange={(e) => {
-                        setInstitutionFilterId(e.target.value);
-                        setVisibleCount(PAGE_SIZE);
-                      }}
-                    >
-                      {institutionFilterOptions.map((option) => (
-                        <option key={option.id} value={option.id}>
-                          {option.shortLabel || option.label}
-                        </option>
-                      ))}
-                    </select>
+                    {showInstitutionFilter && (
+                      <>
+                        <span className="font-semibold text-foreground">Institution:</span>
+                        <select
+                          className="h-7 rounded border border-border bg-background px-2 text-xs"
+                          value={institutionFilterId}
+                          onChange={(e) => {
+                            setInstitutionFilterId(e.target.value);
+                            setVisibleCount(PAGE_SIZE);
+                          }}
+                        >
+                          {institutionFilterOptions.map((option) => (
+                            <option key={option.id} value={option.id}>
+                              {option.shortLabel || option.label}
+                            </option>
+                          ))}
+                        </select>
+                      </>
+                    )}
                     <span className="font-semibold text-foreground">Year range:</span>
                     <select
                       className="h-7 rounded border border-border bg-background px-2 text-xs"

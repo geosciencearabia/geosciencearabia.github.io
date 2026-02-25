@@ -172,6 +172,7 @@ const classifyVenueType = (
 const dashboardConfig = (dashboardConfigJson as DashboardConfig) || {
   showStats: true,
   showCharts: true,
+  showInstitutionFilter: true,
   statCards: {
     members: true,
     topics: true,
@@ -182,6 +183,7 @@ const dashboardConfig = (dashboardConfigJson as DashboardConfig) || {
   },
 };
 const mainPageDefaults = dashboardConfig.mainPageDefaults || {};
+const showInstitutionFilter = dashboardConfig.showInstitutionFilter !== false;
 const defaultYearRangeConfig =
   mainPageDefaults.yearRange ||
   dashboardConfig.defaultYearRangeCharts ||
@@ -1236,20 +1238,22 @@ const Index = () => {
                       <option value="other">Other</option>
                     </select>
                   </div>
-                  <div className="flex flex-wrap items-center gap-2">
-                    <span className="font-semibold text-foreground">Institution:</span>
-                    <select
-                      className="h-7 rounded border border-border bg-background px-2 text-xs"
-                      value={institutionFilterId}
-                      onChange={(e) => setInstitutionFilterId(e.target.value)}
-                    >
-                      {institutionFilterOptions.map((option) => (
-                        <option key={option.id} value={option.id}>
-                          {option.shortLabel || option.label}
-                        </option>
-                      ))}
-                    </select>
-                  </div>
+                  {showInstitutionFilter && (
+                    <div className="flex flex-wrap items-center gap-2">
+                      <span className="font-semibold text-foreground">Institution:</span>
+                      <select
+                        className="h-7 rounded border border-border bg-background px-2 text-xs"
+                        value={institutionFilterId}
+                        onChange={(e) => setInstitutionFilterId(e.target.value)}
+                      >
+                        {institutionFilterOptions.map((option) => (
+                          <option key={option.id} value={option.id}>
+                            {option.shortLabel || option.label}
+                          </option>
+                        ))}
+                      </select>
+                    </div>
+                  )}
                   <div className="ml-auto flex flex-wrap items-center gap-3 pr-10">
                     {[
                       { key: "topics", label: "Topics", visible: showTopics, toggle: setShowTopics },

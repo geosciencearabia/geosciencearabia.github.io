@@ -21,6 +21,7 @@ import { toast } from "@/components/ui/use-toast";
 import { Input } from "@/components/ui/input";
 import { repairUtf8 } from "@/lib/textRepair";
 import { authors } from "@/data/authors.generated";
+import dashboardConfigJson from "../../data/config/dashboardConfig.json";
 import insightsConfig from "../../data/config/insightsconfig.json";
 import siteInfo from "../../data/config/siteinfo.json";
 import authorAltNameExclusions from "../../data/config/author-alternate-name-exclusions.json";
@@ -75,6 +76,8 @@ const normalizeVenueType = (value?: string | null): VenueType | null => {
 
 const defaultVenueType =
   normalizeVenueType((siteInfo as { defaultVenueType?: string }).defaultVenueType) ?? "all";
+const showInstitutionFilter =
+  ((dashboardConfigJson as { showInstitutionFilter?: boolean }).showInstitutionFilter ?? true) !== false;
 const institutionFiltersConfig = (institutionFiltersConfigJson as InstitutionFilterConfig) || {};
 const defaultInstitutionFilterOptions: InstitutionFilterOption[] = [
   {
@@ -1068,23 +1071,25 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
                   <option value="other">Others ({venueTypeCounts.other})</option>
                 </select>
               </div>
-              <div className="flex items-center gap-2 text-xs text-muted-foreground">
-                <span className="font-semibold text-foreground">Institution:</span>
-                <select
-                  className="h-8 rounded border border-border bg-background px-2 text-xs"
-                  value={institutionFilterId}
-                  onChange={(e) => {
-                    setInstitutionFilterId(e.target.value);
-                    setVisibleCount(PAGE_SIZE);
-                  }}
-                >
-                  {institutionFilterOptions.map((option) => (
-                    <option key={option.id} value={option.id}>
-                      {option.shortLabel || option.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
+              {showInstitutionFilter && (
+                <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                  <span className="font-semibold text-foreground">Institution:</span>
+                  <select
+                    className="h-8 rounded border border-border bg-background px-2 text-xs"
+                    value={institutionFilterId}
+                    onChange={(e) => {
+                      setInstitutionFilterId(e.target.value);
+                      setVisibleCount(PAGE_SIZE);
+                    }}
+                  >
+                    {institutionFilterOptions.map((option) => (
+                      <option key={option.id} value={option.id}>
+                        {option.shortLabel || option.label}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+              )}
               <div className="flex items-center gap-2 text-xs text-muted-foreground">
                 <span className="font-semibold text-foreground">Retracted:</span>
                 <select
