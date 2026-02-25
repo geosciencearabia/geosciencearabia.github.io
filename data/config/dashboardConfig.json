@@ -1,0 +1,28 @@
+{
+  "showStats": true,
+  "showCharts": true,
+  "mainPageDefaults": {
+    "yearRange": {
+      "from": null,
+      "to": null
+    },
+    "publicationType": "journal",
+    "institutionFilterId": "KFUPM"
+  },
+  "authorDetailDefaults": {
+    "yearRange": {
+      "from": null,
+      "to": null
+    },
+    "publicationType": "all",
+    "institutionFilterId": "all"
+  },
+  "statCards": {
+    "members": true,
+    "topics": true,
+    "insights": true,
+    "institutions": true,
+    "publications": true,
+    "citations": true
+  }
+}

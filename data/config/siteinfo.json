@@ -1,0 +1,16 @@
+{
+  "title": "GeoArabia Dashboard",
+  "shortTitle": "GeoArabia Dashboard",
+  "tagline": "Research Output & Impact Tracking",
+  "logoSrc": "logo.png",
+  "faviconSrc": "favicon.ico",
+  "description": "GeoArabia Dashboard provides an offline view of research programs, authors, topics, institutions, publications, and citations",
+  "author": "Abdullah Alqubalee",
+  "navLinks": [
+    { "label": "Dashboard", "href": "/" },
+    { "label": "Insights", "href": "/insights" },
+    { "label": "About", "href": "/about" },
+    { "label": "IDs Finder", "href": "/authors" },
+    { "label": "Feedback", "href": "https://forms.gle/RP1WPT9AsvZqwqBw7" }
+  ]
+}
