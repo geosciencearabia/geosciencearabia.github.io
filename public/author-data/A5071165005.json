@@ -8,9 +8,9 @@
       "Rayan Kanfar"
     ],
     "works_count": 8,
-    "cited_by_count": 89,
+    "cited_by_count": 90,
     "summary_stats": {
-      "2yr_mean_citedness": 4,
+      "2yr_mean_citedness": 4.25,
       "h_index": 4,
       "i10_index": 3
     },
@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000252,
+        "value": 0.0000248,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000229,
+        "value": 0.0000226,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -307,7 +307,7 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2025,
@@ -326,8 +326,8 @@
     },
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
-    "updated_date": "2026-02-03T19:50:13.913683",
-    "created_date": "2025-10-10"
+    "updated_date": "2026-02-25T12:19:17",
+    "created_date": "2025-10-10T00:00:00"
   },
   "works": [
     {
@@ -827,9 +827,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -1531,9 +1531,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -2441,11 +2441,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3911,
+      "fwci": 2.3554,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84958774,
+        "value": 0.84997247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3308,11 +3308,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4498,
+      "fwci": 1.4455,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.78949233,
+        "value": 0.78890201,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3659,9 +3659,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/8"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -4221,9 +4221,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -4853,7 +4853,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30079317,
+        "value": 0.3006798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

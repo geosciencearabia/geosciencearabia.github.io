@@ -16,7 +16,7 @@
       "P.R.A. Johnson"
     ],
     "works_count": 81,
-    "cited_by_count": 5866,
+    "cited_by_count": 5871,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -197,7 +197,8 @@
           ]
         },
         "years": [
-          1978
+          1978,
+          1975
         ]
       },
       {
@@ -262,6 +263,21 @@
         },
         "years": [
           2017
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210138511",
+          "ror": "https://ror.org/031va0421",
+          "display_name": "Hospital San Pedro",
+          "country_code": "ES",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210138511"
+          ]
+        },
+        "years": [
+          1962
         ]
       },
       {
@@ -424,7 +440,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.000089,
+        "value": 0.0000889,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -688,7 +704,7 @@
         "year": 2004,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 411
+        "cited_by_count": 412
       },
       {
         "year": 2005,
@@ -724,19 +740,19 @@
         "year": 2010,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 936
+        "cited_by_count": 937
       },
       {
         "year": 2011,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 771
+        "cited_by_count": 772
       },
       {
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 1001
+        "cited_by_count": 1003
       },
       {
         "year": 2014,
@@ -803,7 +819,7 @@
     },
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-02-24T12:19:58",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1461,16 +1477,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 312,
@@ -2932,16 +2948,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 316,
@@ -3275,7 +3291,754 @@
         "https://openalex.org/W2021346206",
         "https://openalex.org/W2028864600"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "550": [
+          67
+        ],
+        "620": [
+          107,
+          152,
+          173
+        ],
+        "The": [
+          0,
+          69,
+          92,
+          215,
+          286,
+          307,
+          340
+        ],
+        "East": [
+          1,
+          158,
+          176,
+          216,
+          271
+        ],
+        "African": [
+          2,
+          159,
+          217,
+          272
+        ],
+        "Orogen,": [
+          3,
+          273
+        ],
+        "extending": [
+          4
+        ],
+        "from": [
+          5,
+          300,
+          323
+        ],
+        "southern": [
+          6,
+          124,
+          179,
+          207,
+          252
+        ],
+        "Israel,": [
+          7
+        ],
+        "Sinai": [
+          8
+        ],
+        "and": [
+          9,
+          16,
+          38,
+          49,
+          66,
+          86,
+          101,
+          106,
+          127,
+          139,
+          161,
+          185,
+          213,
+          218,
+          238,
+          251,
+          344
+        ],
+        "Jordan": [
+          10
+        ],
+        "in": [
+          11,
+          18,
+          46,
+          52,
+          85,
+          234,
+          278
+        ],
+        "the": [
+          12,
+          19,
+          22,
+          42,
+          47,
+          53,
+          73,
+          75,
+          89,
+          110,
+          113,
+          117,
+          148,
+          157,
+          167,
+          182,
+          186,
+          192,
+          235,
+          239,
+          261,
+          267,
+          270,
+          279,
+          301,
+          348
+        ],
+        "north": [
+          13
+        ],
+        "to": [
+          14,
+          26,
+          88,
+          136,
+          164,
+          318
+        ],
+        "Mozambique": [
+          15,
+          90,
+          128,
+          168,
+          250
+        ],
+        "Madagascar": [
+          17,
+          212,
+          345
+        ],
+        "south,": [
+          20
+        ],
+        "is": [
+          21,
+          78,
+          154,
+          232,
+          289,
+          313
+        ],
+        "world́s": [
+          23
+        ],
+        "largest": [
+          24
+        ],
+        "Neoproterozoic": [
+          25,
+          50,
+          81
+        ],
+        "Cambrian": [
+          27
+        ],
+        "orogenic": [
+          28
+        ],
+        "complex.": [
+          29
+        ],
+        "It": [
+          30
+        ],
+        "comprises": [
+          31
+        ],
+        "a": [
+          32,
+          96,
+          141,
+          199,
+          294,
+          316,
+          324,
+          336,
+          353
+        ],
+        "collage": [
+          33
+        ],
+        "of": [
+          34,
+          62,
+          72,
+          99,
+          112,
+          123,
+          147,
+          166,
+          181,
+          206,
+          225,
+          263,
+          269,
+          281,
+          296,
+          304,
+          342,
+          357
+        ],
+        "individual": [
+          35
+        ],
+        "oceanic": [
+          36
+        ],
+        "domains": [
+          37
+        ],
+        "continental": [
+          39
+        ],
+        "fragments": [
+          40
+        ],
+        "between": [
+          41,
+          64,
+          104,
+          175
+        ],
+        "Archean": [
+          43
+        ],
+        "Sahara-Congo-Kalahari": [
+          44
+        ],
+        "Cratons": [
+          45,
+          184
+        ],
+        "west": [
+          48
+        ],
+        "India": [
+          51
+        ],
+        "east.": [
+          54
+        ],
+        "Orogen": [
+          55
+        ],
+        "consolidation": [
+          56
+        ],
+        "was": [
+          57,
+          129,
+          162
+        ],
+        "achieved": [
+          58
+        ],
+        "during": [
+          59,
+          95,
+          191
+        ],
+        "distinct": [
+          60
+        ],
+        "phases": [
+          61,
+          224
+        ],
+        "orogeny": [
+          63
+        ],
+        "∼850": [
+          65,
+          105
+        ],
+        "Ma.": [
+          68,
+          108
+        ],
+        "northern": [
+          70
+        ],
+        "part": [
+          71
+        ],
+        "orogen,": [
+          74
+        ],
+        "Arabian-Nubian": [
+          76,
+          236,
+          287
+        ],
+        "Shield,": [
+          77,
+          116
+        ],
+        "predominantly": [
+          79
+        ],
+        "juvenile": [
+          80
+        ],
+        "crust": [
+          82,
+          132,
+          331
+        ],
+        "that": [
+          83,
+          133,
+          202,
+          321
+        ],
+        "formed": [
+          84,
+          134
+        ],
+        "adjacent": [
+          87,
+          135
+        ],
+        "Ocean.": [
+          91,
+          169
+        ],
+        "ocean": [
+          93
+        ],
+        "closed": [
+          94,
+          190
+        ],
+        "protracted": [
+          97
+        ],
+        "period": [
+          98
+        ],
+        "island-arc": [
+          100
+        ],
+        "microcontinent": [
+          102
+        ],
+        "accretion": [
+          103
+        ],
+        "To": [
+          109
+        ],
+        "south": [
+          111
+        ],
+        "Arabian": [
+          114
+        ],
+        "Nubian": [
+          115
+        ],
+        "Eastern": [
+          118,
+          240,
+          308
+        ],
+        "Granulite-Cabo": [
+          119,
+          241,
+          309
+        ],
+        "Delgado": [
+          120,
+          242,
+          310
+        ],
+        "Nappe": [
+          121,
+          243,
+          311
+        ],
+        "Complex": [
+          122,
+          312
+        ],
+        "Kenya,": [
+          125
+        ],
+        "Tanzania": [
+          126,
+          343
+        ],
+        "an": [
+          130,
+          290
+        ],
+        "extended": [
+          131,
+          326
+        ],
+        "theMozambique": [
+          137
+        ],
+        "Ocean": [
+          138
+        ],
+        "experienced": [
+          140
+        ],
+        "∼650-620": [
+          142
+        ],
+        "Ma": [
+          143,
+          153,
+          174,
+          194,
+          230,
+          247
+        ],
+        "granulite-facies": [
+          144
+        ],
+        "metamorphism.": [
+          145
+        ],
+        "Completion": [
+          146
+        ],
+        "nappe": [
+          149
+        ],
+        "assembly": [
+          150
+        ],
+        "around": [
+          151
+        ],
+        "defined": [
+          155
+        ],
+        "as": [
+          156,
+          260,
+          315
+        ],
+        "Orogeny": [
+          160,
+          350
+        ],
+        "related": [
+          163
+        ],
+        "closure": [
+          165
+        ],
+        "Oceans": [
+          170
+        ],
+        "persisted": [
+          171
+        ],
+        "after": [
+          172
+        ],
+        "Antarctica,": [
+          177
+        ],
+        "India,": [
+          178
+        ],
+        "parts": [
+          180
+        ],
+        "Congo-Tanzania-Bangweulu": [
+          183
+        ],
+        "Zimbabwe-Kalahari": [
+          187
+        ],
+        "Craton.": [
+          188
+        ],
+        "They": [
+          189
+        ],
+        "∼600-500": [
+          193
+        ],
+        "Kuungan": [
+          195,
+          219,
+          349
+        ],
+        "or": [
+          196
+        ],
+        "Malagasy": [
+          197
+        ],
+        "Orogeny,": [
+          198
+        ],
+        "tectonothermal": [
+          200
+        ],
+        "event": [
+          201
+        ],
+        "affected": [
+          203,
+          249,
+          346
+        ],
+        "large": [
+          204
+        ],
+        "portions": [
+          205
+        ],
+        "Tanzania,": [
+          208
+        ],
+        "Zambia,": [
+          209
+        ],
+        "Malawi,": [
+          210
+        ],
+        "Mozambique,": [
+          211
+        ],
+        "Antarctica.": [
+          214
+        ],
+        "Orogenies": [
+          220
+        ],
+        "were": [
+          221
+        ],
+        "followed": [
+          222
+        ],
+        "by": [
+          223,
+          347
+        ],
+        "post-orogenic": [
+          226
+        ],
+        "extension.": [
+          227
+        ],
+        "Early": [
+          228
+        ],
+        "∼600-550": [
+          229
+        ],
+        "extension": [
+          231,
+          248,
+          255
+        ],
+        "recorded": [
+          233
+        ],
+        "Shield": [
+          237,
+          288
+        ],
+        "Complex.": [
+          244
+        ],
+        "Later": [
+          245
+        ],
+        "∼550-480": [
+          246
+        ],
+        "Madagascar.": [
+          253
+        ],
+        "Both": [
+          254
+        ],
+        "phases,": [
+          256
+        ],
+        "although": [
+          257
+        ],
+        "diachronous,are": [
+          258
+        ],
+        "interpreted": [
+          259,
+          314
+        ],
+        "result": [
+          262
+        ],
+        "lithospheric": [
+          264
+        ],
+        "delamination.": [
+          265
+        ],
+        "Along": [
+          266
+        ],
+        "strike": [
+          268
+        ],
+        "different": [
+          274,
+          283
+        ],
+        "geodynamic": [
+          275
+        ],
+        "settings": [
+          276
+        ],
+        "resulted": [
+          277
+        ],
+        "evolution": [
+          280
+        ],
+        "distinctly": [
+          282
+        ],
+        "orogen": [
+          284,
+          292,
+          320,
+          338,
+          355
+        ],
+        "styles.": [
+          285
+        ],
+        "accretion-type": [
+          291
+        ],
+        "comprising": [
+          293
+        ],
+        "stack": [
+          295
+        ],
+        "thin-skinned": [
+          297
+        ],
+        "nappes": [
+          298
+        ],
+        "resulting": [
+          299
+        ],
+        "oblique": [
+          302
+        ],
+        "convergence": [
+          303
+        ],
+        "bounding": [
+          305
+        ],
+        "plates.": [
+          306
+        ],
+        "hot-": [
+          317
+        ],
+        "ultra-hot": [
+          319
+        ],
+        "evolved": [
+          322
+        ],
+        "formerly": [
+          325
+        ],
+        "crust.": [
+          327,
+          361
+        ],
+        "Low": [
+          328
+        ],
+        "viscosity": [
+          329
+        ],
+        "lower": [
+          330
+        ],
+        "resisted": [
+          332
+        ],
+        "one-sided": [
+          333
+        ],
+        "subduction,": [
+          334
+        ],
+        "instead": [
+          335
+        ],
+        "sagduction-type": [
+          337
+        ],
+        "developed.": [
+          339
+        ],
+        "regions": [
+          341
+        ],
+        "are": [
+          351
+        ],
+        "considered": [
+          352
+        ],
+        "Himalayan-type": [
+          354
+        ],
+        "composed": [
+          356
+        ],
+        "partly": [
+          358
+        ],
+        "doubly": [
+          359
+        ],
+        "thickened": [
+          360
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -3334,7 +4097,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-02-25T23:00:34.991745",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3894,16 +4657,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 214,
@@ -4601,16 +5364,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -5745,16 +6508,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -6424,9 +7187,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6448,8 +7211,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -7226,9 +7989,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -7240,8 +8003,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -7961,7 +8724,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8135,7 +8898,7 @@
       "has_fulltext": false,
       "cited_by_count": 132,
       "citation_normalized_percentile": {
-        "value": 0.75567358,
+        "value": 0.75567731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8514,8 +9277,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -8712,11 +9475,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.72769683,
+      "fwci": 6.5442,
       "has_fulltext": true,
       "cited_by_count": 104,
       "citation_normalized_percentile": {
-        "value": 0.96856787,
+        "value": 0.96685517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8975,16 +9738,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -9103,13 +9866,13 @@
       ],
       "abstract_inverted_index": {
         "2": [
-          213
+          221
         ],
         "6": [
-          211
+          219
         ],
         "10": [
-          210
+          218
         ],
         "Geologic": [
           0
@@ -9120,48 +9883,48 @@
         "of": [
           2,
           14,
-          78,
           81,
-          120,
-          141,
-          153,
-          168,
-          186,
+          84,
+          124,
+          146,
+          159,
+          174,
           193,
-          197,
-          207,
-          270
+          201,
+          205,
+          215,
+          282
         ],
         "the": [
           3,
-          63,
-          68,
-          72,
-          79,
+          66,
+          71,
+          75,
           82,
-          111,
-          126,
-          135,
-          139,
-          150,
-          181,
-          187,
+          85,
+          115,
+          131,
+          140,
+          144,
+          156,
+          188,
           194,
-          225,
-          232,
-          238
+          202,
+          234,
+          242,
+          248
         ],
         "Arabian-Nubian": [
           4,
-          173
+          180
         ],
         "Shield": [
           5,
-          174
+          181
         ],
         "(ANS)": [
           6,
-          175
+          182
         ],
         "are": [
           7
@@ -9171,586 +9934,618 @@
         ],
         "by": [
           9,
-          116
+          120
         ],
         "a": [
           10,
-          154,
-          218,
-          250,
-          257,
+          160,
+          227,
+          261,
           268,
-          281
+          280,
+          293
         ],
         "valuable,": [
           11
         ],
         "expanding": [
           12,
-          127
+          132
         ],
         "dataset": [
           13,
-          128
+          133
         ],
         "geochronologic": [
           15,
-          84
+          88
         ],
         "ages": [
           16
         ],
         "and": [
           17,
-          23,
-          33,
-          48,
-          58,
-          75,
-          85,
-          94,
-          102,
-          137,
-          228,
-          241,
-          280
+          24,
+          34,
+          50,
+          61,
+          78,
+          89,
+          98,
+          106,
+          142,
+          237,
+          251,
+          292
         ],
         "isotopic": [
           18,
-          41,
-          86
-        ],
-        "analyses.U-Pb": [
-          19
-        ],
-        "zircon": [
-          20
-        ],
-        "SIMS,": [
-          21
-        ],
-        "TIMS,": [
-          22
-        ],
-        "evaporation": [
-          24
-        ],
-        "data": [
-          25,
-          69,
-          87
-        ],
-        "provide": [
-          26,
-          43
-        ],
-        "robust": [
-          27
-        ],
-        "temporal": [
-          28
-        ],
-        "control": [
-          29
-        ],
-        "on": [
-          30,
-          50,
-          202
-        ],
-        "depositional,": [
-          31
-        ],
-        "volcanic,": [
-          32,
-          93
-        ],
-        "intrusive": [
-          34
-        ],
-        "events.Nd,": [
-          35
-        ],
-        "Sr,": [
-          36
-        ],
-        "O": [
-          37
-        ],
-        "and,": [
-          38
-        ],
-        "increasingly,": [
-          39
-        ],
-        "Hf": [
-          40
-        ],
-        "studies": [
-          42
-        ],
-        "insights": [
-          44
-        ],
-        "into": [
-          45
-        ],
-        "magma": [
-          46
-        ],
-        "sources": [
-          47
-        ],
-        "constraints": [
-          49
-        ],
-        "crustal": [
-          51,
-          170,
-          258
-        ],
-        "recycling.Apart": [
-          52
-        ],
-        "from": [
-          53
-        ],
-        "well-established": [
-          54
-        ],
-        "exceptions": [
-          55
-        ],
-        "where": [
-          56,
-          132
-        ],
-        "Paleoproterozoic": [
-          57
-        ],
-        "Archean": [
-          59
-        ],
-        "rocks": [
-          60,
-          96
-        ],
-        "intercalated": [
-          61
-        ],
-        "in": [
-          62,
-          134,
-          160,
-          164,
-          235,
-          277,
-          290
-        ],
-        "ANS": [
-          64,
-          91,
-          112,
-          130,
-          151,
-          233,
-          245,
-          265
-        ],
-        "underwent": [
-          65
-        ],
-        "Neoproterozoic": [
-          66,
-          73,
-          169,
-          200
-        ],
-        "reworking,": [
-          67
-        ],
-        "elegantly": [
-          70
-        ],
-        "confirm": [
-          71
-        ],
-        "age": [
-          74
-        ],
-        "juvenile": [
-          76,
-          199
-        ],
-        "character": [
-          77
-        ],
-        "bulk": [
-          80
-        ],
-        "ANS.The": [
-          83
-        ],
-        "reveal": [
-          88
-        ],
-        "that": [
-          89,
-          110,
-          149
-        ],
-        "some": [
+          43,
           90
         ],
-        "sedimentary,": [
-          92
+        "analyses.": [
+          19
         ],
-        "igneous": [
-          95
+        "U-Pb": [
+          20
         ],
-        "contain": [
+        "zircon": [
+          21
+        ],
+        "SIMS,": [
+          22
+        ],
+        "TIMS,": [
+          23
+        ],
+        "evaporation": [
+          25
+        ],
+        "data": [
+          26,
+          72,
+          91
+        ],
+        "provide": [
+          27,
+          45
+        ],
+        "robust": [
+          28
+        ],
+        "temporal": [
+          29
+        ],
+        "control": [
+          30
+        ],
+        "on": [
+          31,
+          52,
+          210
+        ],
+        "depositional,": [
+          32
+        ],
+        "volcanic,": [
+          33,
           97
         ],
-        "pre-Neoproterozoic": [
-          98,
-          221,
-          253
+        "intrusive": [
+          35
         ],
-        "material": [
-          99
+        "events.": [
+          36
         ],
-        "as": [
-          100,
-          249,
-          262
+        "Nd,": [
+          37
         ],
-        "xenocrysts": [
-          101
+        "Sr,": [
+          38
         ],
-        "possible": [
-          103
+        "O": [
+          39
         ],
-        "glaciogenic": [
-          104
+        "and,": [
+          40
         ],
-        "clasts,": [
-          105
+        "increasingly,": [
+          41
         ],
-        "but": [
-          106
+        "Hf": [
+          42
         ],
-        "give": [
-          107
+        "studies": [
+          44
         ],
-        "no": [
-          108
+        "insights": [
+          46
         ],
-        "evidence": [
-          109
+        "into": [
+          47
         ],
-        "is": [
-          113,
-          152,
+        "magma": [
+          48
+        ],
+        "sources": [
+          49
+        ],
+        "constraints": [
+          51
+        ],
+        "crustal": [
+          53,
           176,
-          191,
-          217,
-          234,
-          247,
-          272,
-          288
-        ],
-        "otherwise": [
-          114
-        ],
-        "underlain": [
-          115
-        ],
-        "any": [
-          117
-        ],
-        "extensive": [
-          118
-        ],
-        "tracts": [
-          119
-        ],
-        "older": [
-          121
-        ],
-        "crust.Together": [
-          122
-        ],
-        "with": [
-          123,
-          220,
-          237,
-          252,
-          284
-        ],
-        "structural": [
-          124
-        ],
-        "mapping,": [
-          125
-        ],
-        "confirms": [
-          129
-        ],
-        "boundaries": [
-          131,
-          144,
-          147
-        ],
-        "long-inferred": [
-          133
-        ],
-        "west": [
-          136
-        ],
-        "suggests": [
-          138
-        ],
-        "placement": [
-          140
-        ],
-        "hitherto": [
-          142
-        ],
-        "uncertain": [
-          143
-        ],
-        "elsewhere.The": [
-          145
-        ],
-        "suggested": [
-          146
-        ],
-        "imply": [
-          148
-        ],
-        "somewhat": [
-          155
-        ],
-        "smaller": [
-          156
-        ],
-        "size": [
-          157
-        ],
-        "than": [
-          158
-        ],
-        "considered": [
-          159
-        ],
-        "published": [
-          161
-        ],
-        "discussions,": [
-          162
-        ],
-        "which": [
-          163
-        ],
-        "turn": [
-          165
-        ],
-        "impacts": [
-          166
-        ],
-        "assessment": [
-          167
-        ],
-        "growth": [
-          171
-        ],
-        "rate.The": [
-          172
-        ],
-        "an": [
-          177,
-          205
-        ],
-        "accretionary": [
-          178
-        ],
-        "orogen": [
-          179
-        ],
-        "at": [
-          180
-        ],
-        "northern": [
-          182
-        ],
-        "end": [
-          183
-        ],
-        "(present-day": [
-          184
-        ],
-        "coordinates)": [
-          185
-        ],
-        "East": [
-          188
-        ],
-        "African": [
-          189
-        ],
-        "Orogen.It": [
-          190
-        ],
-        "one": [
-          192
-        ],
-        "largest": [
-          195
-        ],
-        "expanses": [
-          196
-        ],
-        "mantle-derived,": [
-          198
-        ],
-        "crust": [
-          201,
-          222,
-          287
-        ],
-        "Earth,": [
-          203
-        ],
-        "underlying": [
-          204
-        ],
-        "area": [
-          206
-        ],
-        "~2.7": [
-          208
-        ],
-        "x": [
-          209
-        ],
-        "km": [
-          212
-        ],
-        ".Its": [
-          214
-        ],
-        "western": [
-          215
-        ],
-        "boundary": [
-          216
-        ],
-        "contact": [
-          219,
-          236,
-          251
-        ],
-        "belonging": [
-          223,
-          255
-        ],
-        "to": [
-          224,
-          256,
-          261
-        ],
-        "Saharan": [
-          226
-        ],
-        "Metacraton": [
-          227
-        ],
-        "Congo-Tanzania": [
-          229,
-          239
-        ],
-        "Craton.Farther": [
-          230
-        ],
-        "south,": [
-          231
-        ],
-        "Craton": [
-          240
-        ],
-        "Mozambique": [
-          242
-        ],
-        "Belt.A": [
-          243
-        ],
-        "southeastern": [
-          244
-        ],
-        "margin": [
-          246,
-          283
-        ],
-        "recognized": [
-          248
-        ],
-        "gneiss": [
-          254
-        ],
-        "block": [
-          259
-        ],
-        "referred": [
-          260
-        ],
-        "Azania.An": [
-          263
-        ],
-        "eastern": [
-          264
-        ],
-        "margin,": [
-          266
-        ],
-        "long": [
-          267
-        ],
-        "topic": [
           269
         ],
-        "debate,": [
+        "recycling.": [
+          54
+        ],
+        "Apart": [
+          55
+        ],
+        "from": [
+          56
+        ],
+        "well-established": [
+          57
+        ],
+        "exceptions": [
+          58
+        ],
+        "where": [
+          59,
+          137
+        ],
+        "Paleoproterozoic": [
+          60
+        ],
+        "Archean": [
+          62
+        ],
+        "rocks": [
+          63,
+          100
+        ],
+        "intercalated": [
+          64
+        ],
+        "in": [
+          65,
+          139,
+          166,
+          170,
+          245,
+          289,
+          302
+        ],
+        "ANS": [
+          67,
+          95,
+          116,
+          135,
+          157,
+          243,
+          256,
+          277
+        ],
+        "underwent": [
+          68
+        ],
+        "Neoproterozoic": [
+          69,
+          76,
+          175,
+          208
+        ],
+        "reworking,": [
+          70
+        ],
+        "elegantly": [
+          73
+        ],
+        "confirm": [
+          74
+        ],
+        "age": [
+          77
+        ],
+        "juvenile": [
+          79,
+          207
+        ],
+        "character": [
+          80
+        ],
+        "bulk": [
+          83
+        ],
+        "ANS.": [
+          86
+        ],
+        "The": [
+          87,
+          151,
+          179
+        ],
+        "reveal": [
+          92
+        ],
+        "that": [
+          93,
+          114,
+          155
+        ],
+        "some": [
+          94
+        ],
+        "sedimentary,": [
+          96
+        ],
+        "igneous": [
+          99
+        ],
+        "contain": [
+          101
+        ],
+        "pre-Neoproterozoic": [
+          102,
+          230,
+          264
+        ],
+        "material": [
+          103
+        ],
+        "as": [
+          104,
+          260,
+          273
+        ],
+        "xenocrysts": [
+          105
+        ],
+        "possible": [
+          107
+        ],
+        "glaciogenic": [
+          108
+        ],
+        "clasts,": [
+          109
+        ],
+        "but": [
+          110
+        ],
+        "give": [
+          111
+        ],
+        "no": [
+          112
+        ],
+        "evidence": [
+          113
+        ],
+        "is": [
+          117,
+          158,
+          183,
+          199,
+          226,
+          244,
+          258,
+          284,
+          300
+        ],
+        "otherwise": [
+          118
+        ],
+        "underlain": [
+          119
+        ],
+        "any": [
+          121
+        ],
+        "extensive": [
+          122
+        ],
+        "tracts": [
+          123
+        ],
+        "older": [
+          125
+        ],
+        "crust.": [
+          126
+        ],
+        "Together": [
+          127
+        ],
+        "with": [
+          128,
+          229,
+          247,
+          263,
+          296
+        ],
+        "structural": [
+          129
+        ],
+        "mapping,": [
+          130
+        ],
+        "confirms": [
+          134
+        ],
+        "boundaries": [
+          136,
+          149,
+          153
+        ],
+        "long-inferred": [
+          138
+        ],
+        "west": [
+          141
+        ],
+        "suggests": [
+          143
+        ],
+        "placement": [
+          145
+        ],
+        "hitherto": [
+          147
+        ],
+        "uncertain": [
+          148
+        ],
+        "elsewhere.": [
+          150
+        ],
+        "suggested": [
+          152
+        ],
+        "imply": [
+          154
+        ],
+        "somewhat": [
+          161
+        ],
+        "smaller": [
+          162
+        ],
+        "size": [
+          163
+        ],
+        "than": [
+          164
+        ],
+        "considered": [
+          165
+        ],
+        "published": [
+          167
+        ],
+        "discussions,": [
+          168
+        ],
+        "which": [
+          169
+        ],
+        "turn": [
+          171
+        ],
+        "impacts": [
+          172
+        ],
+        "assessment": [
+          173
+        ],
+        "growth": [
+          177
+        ],
+        "rate.": [
+          178
+        ],
+        "an": [
+          184,
+          213
+        ],
+        "accretionary": [
+          185
+        ],
+        "orogen": [
+          186
+        ],
+        "at": [
+          187
+        ],
+        "northern": [
+          189
+        ],
+        "end": [
+          190
+        ],
+        "(present-day": [
+          191
+        ],
+        "coordinates)": [
+          192
+        ],
+        "East": [
+          195
+        ],
+        "African": [
+          196
+        ],
+        "Orogen.": [
+          197
+        ],
+        "It": [
+          198
+        ],
+        "one": [
+          200
+        ],
+        "largest": [
+          203
+        ],
+        "expanses": [
+          204
+        ],
+        "mantle-derived,": [
+          206
+        ],
+        "crust": [
+          209,
+          231,
+          299
+        ],
+        "Earth,": [
+          211
+        ],
+        "underlying": [
+          212
+        ],
+        "area": [
+          214
+        ],
+        "~2.7": [
+          216
+        ],
+        "x": [
+          217
+        ],
+        "km": [
+          220
+        ],
+        ".": [
+          222
+        ],
+        "Its": [
+          223
+        ],
+        "western": [
+          224
+        ],
+        "boundary": [
+          225
+        ],
+        "contact": [
+          228,
+          246,
+          262
+        ],
+        "belonging": [
+          232,
+          266
+        ],
+        "to": [
+          233,
+          267,
+          272
+        ],
+        "Saharan": [
+          235
+        ],
+        "Metacraton": [
+          236
+        ],
+        "Congo-Tanzania": [
+          238,
+          249
+        ],
+        "Craton.": [
+          239
+        ],
+        "Farther": [
+          240
+        ],
+        "south,": [
+          241
+        ],
+        "Craton": [
+          250
+        ],
+        "Mozambique": [
+          252
+        ],
+        "Belt.": [
+          253
+        ],
+        "A": [
+          254
+        ],
+        "southeastern": [
+          255
+        ],
+        "margin": [
+          257,
+          295
+        ],
+        "recognized": [
+          259
+        ],
+        "gneiss": [
+          265
+        ],
+        "block": [
+          270
+        ],
+        "referred": [
           271
         ],
-        "suspected": [
-          273,
-          289
-        ],
-        "beneath": [
+        "Azania.": [
           274
         ],
-        "Phanerozoic": [
+        "An": [
           275
         ],
-        "cover": [
+        "eastern": [
           276
         ],
-        "central": [
+        "margin,": [
           278
         ],
-        "Arabia,": [
+        "long": [
           279
         ],
-        "northwestern": [
-          282
+        "topic": [
+          281
         ],
-        "late": [
-          285
+        "debate,": [
+          283
         ],
-        "Mesoproterozoic": [
+        "suspected": [
+          285,
+          301
+        ],
+        "beneath": [
           286
         ],
-        "Sinai.": [
+        "Phanerozoic": [
+          287
+        ],
+        "cover": [
+          288
+        ],
+        "central": [
+          290
+        ],
+        "Arabia,": [
           291
+        ],
+        "northwestern": [
+          294
+        ],
+        "late": [
+          297
+        ],
+        "Mesoproterozoic": [
+          298
+        ],
+        "Sinai.": [
+          303
         ]
       },
       "counts_by_year": [
@@ -10086,11 +10881,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 8.1418,
+      "fwci": 8.1429,
       "has_fulltext": false,
       "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.9688504,
+        "value": 0.96885475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10449,16 +11244,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2076675713.pdf",
@@ -11125,7 +11920,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-24T08:05:00.420983",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11409,11 +12204,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5272035,
+      "fwci": 4.178,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.92916151,
+        "value": 0.9292752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11691,9 +12486,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -11705,8 +12500,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -12080,11 +12875,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 7.0597,
+      "fwci": 7.0603,
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.98051789,
+        "value": 0.98051968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12408,16 +13203,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 226,
@@ -12692,7 +13487,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-02-24T08:05:00.420983",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12943,11 +13738,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6294,
+      "fwci": 4.629,
       "has_fulltext": false,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.95042151,
+        "value": 0.95041685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13151,16 +13946,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -14582,7 +15377,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-24T08:05:00.420983",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14916,11 +15711,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 3.6489,
+      "fwci": 3.6495,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.91830458,
+        "value": 0.91831828,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15186,9 +15981,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -15220,8 +16015,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 157,
@@ -16399,16 +17194,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -17016,8 +17811,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 177,
@@ -17659,16 +18454,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -18267,9 +19062,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -18286,8 +19081,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -18918,16 +19713,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -19169,11 +19964,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 4.8064,
+      "fwci": 4.8061,
       "has_fulltext": false,
       "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.94944296,
+        "value": 0.94937781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19487,9 +20282,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -19501,8 +20296,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -20302,16 +21097,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -20933,8 +21728,8 @@
         "https://openalex.org/A5072324055"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2800858616",
-        "https://openalex.org/I129604602"
+        "https://openalex.org/I129604602",
+        "https://openalex.org/I2800858616"
       ],
       "apc_list": {
         "value": 4000,
@@ -20942,11 +21737,11 @@
         "value_usd": 4000
       },
       "apc_paid": null,
-      "fwci": 5.1900074,
+      "fwci": 4.3443,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.94362209,
+        "value": 0.94441221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21264,10 +22059,17 @@
       ],
       "mesh": [
         {
-          "descriptor_ui": "D015105",
-          "descriptor_name": "3',5'-Cyclic-AMP Phosphodiesterases",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
@@ -21280,6 +22082,34 @@
         {
           "descriptor_ui": "D000631",
           "descriptor_name": "Aminopyridines",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000631",
+          "descriptor_name": "Aminopyridines",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000631",
+          "descriptor_name": "Aminopyridines",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001549",
+          "descriptor_name": "Benzamides",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001549",
+          "descriptor_name": "Benzamides",
           "qualifier_ui": "Q000494",
           "qualifier_name": "pharmacology",
           "is_major_topic": false
@@ -21301,8 +22131,50 @@
         {
           "descriptor_ui": "D001980",
           "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
           "qualifier_ui": "Q000201",
           "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001980",
+          "descriptor_name": "Bronchi",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
           "is_major_topic": false
         },
         {
@@ -21320,36 +22192,15 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055513",
-          "descriptor_name": "Connective Tissue Growth Factor",
+          "descriptor_ui": "D002478",
+          "descriptor_name": "Cells, Cultured",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D054703",
-          "descriptor_name": "Cyclic Nucleotide Phosphodiesterases, Type 4",
+          "descriptor_ui": "D002478",
+          "descriptor_name": "Cells, Cultured",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -21362,17 +22213,17 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
+          "descriptor_ui": "D003521",
+          "descriptor_name": "Cyclopropanes",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
+          "descriptor_ui": "D003521",
+          "descriptor_name": "Cyclopropanes",
+          "qualifier_ui": "Q000494",
+          "qualifier_name": "pharmacology",
           "is_major_topic": false
         },
         {
@@ -21380,6 +22231,34 @@
           "descriptor_name": "Fibronectins",
           "qualifier_ui": "Q000037",
           "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005353",
+          "descriptor_name": "Fibronectins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005353",
+          "descriptor_name": "Fibronectins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005353",
+          "descriptor_name": "Fibronectins",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005353",
+          "descriptor_name": "Fibronectins",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
           "is_major_topic": false
         },
         {
@@ -21397,38 +22276,31 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
           "is_major_topic": false
         },
         {
@@ -21443,6 +22315,34 @@
           "descriptor_name": "Lung",
           "qualifier_ui": "Q000201",
           "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008168",
+          "descriptor_name": "Lung",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
           "is_major_topic": false
         },
         {
@@ -21460,24 +22360,17 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
+          "descriptor_ui": "D008875",
+          "descriptor_name": "Middle Aged",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
+          "descriptor_ui": "D008875",
+          "descriptor_name": "Middle Aged",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
@@ -21485,6 +22378,34 @@
           "descriptor_name": "RNA, Messenger",
           "qualifier_ui": "Q000037",
           "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012333",
+          "descriptor_name": "RNA, Messenger",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012333",
+          "descriptor_name": "RNA, Messenger",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012333",
+          "descriptor_name": "RNA, Messenger",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012333",
+          "descriptor_name": "RNA, Messenger",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
           "is_major_topic": false
         },
         {
@@ -21502,227 +22423,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000631",
-          "descriptor_name": "Aminopyridines",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001549",
-          "descriptor_name": "Benzamides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002478",
-          "descriptor_name": "Cells, Cultured",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
+          "descriptor_ui": "D015105",
+          "descriptor_name": "3',5'-Cyclic-AMP Phosphodiesterases",
           "qualifier_ui": "Q000037",
           "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D024042",
-          "descriptor_name": "Collagen Type I",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055513",
-          "descriptor_name": "Connective Tissue Growth Factor",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054703",
-          "descriptor_name": "Cyclic Nucleotide Phosphodiesterases, Type 4",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003521",
-          "descriptor_name": "Cyclopropanes",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005353",
-          "descriptor_name": "Fibronectins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005353",
-          "descriptor_name": "Fibronectins",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008875",
-          "descriptor_name": "Middle Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012333",
-          "descriptor_name": "RNA, Messenger",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012333",
-          "descriptor_name": "RNA, Messenger",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
           "is_major_topic": false
         },
         {
@@ -21733,52 +22437,122 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000631",
-          "descriptor_name": "Aminopyridines",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D001549",
-          "descriptor_name": "Benzamides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
+          "descriptor_ui": "D016326",
+          "descriptor_name": "Extracellular Matrix Proteins",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D002478",
-          "descriptor_name": "Cells, Cultured",
-          "qualifier_ui": null,
-          "qualifier_name": null,
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017874",
+          "descriptor_name": "Immediate-Early Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000037",
+          "qualifier_name": "antagonists & inhibitors",
           "is_major_topic": false
         },
         {
@@ -21798,13 +22572,146 @@
         {
           "descriptor_ui": "D024042",
           "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
           "qualifier_ui": "Q000378",
           "qualifier_name": "metabolism",
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D055513",
-          "descriptor_name": "Connective Tissue Growth Factor",
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D024042",
+          "descriptor_name": "Collagen Type I",
+          "qualifier_ui": "Q000378",
+          "qualifier_name": "metabolism",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000187",
+          "qualifier_name": "drug effects",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000201",
+          "qualifier_name": "enzymology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D032389",
+          "descriptor_name": "Myocytes, Smooth Muscle",
+          "qualifier_ui": "Q000473",
+          "qualifier_name": "pathology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000096",
+          "qualifier_name": "biosynthesis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D036341",
+          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
+          "qualifier_ui": "Q000235",
+          "qualifier_name": "genetics",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D054703",
+          "descriptor_name": "Cyclic Nucleotide Phosphodiesterases, Type 4",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -21817,143 +22724,31 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D003521",
-          "descriptor_name": "Cyclopropanes",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005353",
-          "descriptor_name": "Fibronectins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005353",
-          "descriptor_name": "Fibronectins",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
+          "descriptor_ui": "D054703",
+          "descriptor_name": "Cyclic Nucleotide Phosphodiesterases, Type 4",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000235",
-          "qualifier_name": "genetics",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008875",
-          "descriptor_name": "Middle Aged",
+          "descriptor_ui": "D055513",
+          "descriptor_name": "Connective Tissue Growth Factor",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
+          "descriptor_ui": "D055513",
+          "descriptor_name": "Connective Tissue Growth Factor",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000201",
-          "qualifier_name": "enzymology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": "Q000473",
-          "qualifier_name": "pathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012333",
-          "descriptor_name": "RNA, Messenger",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012333",
-          "descriptor_name": "RNA, Messenger",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
+          "descriptor_ui": "D055513",
+          "descriptor_name": "Connective Tissue Growth Factor",
+          "qualifier_ui": null,
+          "qualifier_name": null,
           "is_major_topic": false
         }
       ],
@@ -22027,16 +22822,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -22636,9 +23431,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -22650,8 +23445,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -22948,11 +23743,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 1.284,
+      "fwci": 1.2834,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.76839672,
+        "value": 0.76840264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23268,16 +24063,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -23741,11 +24536,11 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 3.69541025,
+      "fwci": 4.2903,
       "has_fulltext": false,
       "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.9338315,
+        "value": 0.9345705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24033,16 +24828,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -24372,11 +25167,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5525,
+      "fwci": 3.4515,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.93685714,
+        "value": 0.93553714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24604,9 +25399,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/16"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -24631,8 +25426,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -25718,11 +26513,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 1.40115736,
+      "fwci": 3.2572,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.91208198,
+        "value": 0.90893855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26058,9 +26853,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -26077,8 +26872,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -26601,7 +27396,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -27211,9 +28006,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -27225,8 +28020,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -29163,9 +29958,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -29182,8 +29977,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -29979,16 +30774,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -30445,16 +31240,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -30635,11 +31430,11 @@
         "value_usd": 3460
       },
       "apc_paid": null,
-      "fwci": 2.0248,
+      "fwci": 1.9707,
       "has_fulltext": false,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.8745701,
+        "value": 0.87184622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31177,8 +31972,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -31570,16 +32365,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -32753,8 +33548,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -34217,9 +35012,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -34236,8 +35031,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -34669,8 +35464,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -35241,8 +36036,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36525,16 +37320,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -37101,16 +37896,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38408,16 +39203,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -39651,11 +40446,11 @@
         "value_usd": 3180
       },
       "apc_paid": null,
-      "fwci": 2.4582,
+      "fwci": 2.3061,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.90763219,
+        "value": 0.90100372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40214,8 +41009,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -40402,11 +41197,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.32836086,
+      "fwci": 1.304,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.83038585,
+        "value": 0.83205094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40556,16 +41351,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/5",
           "display_name": "Gender equality",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/5"
+          "score": 0.75
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40710,11 +41505,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 0.8631,
+      "fwci": 0.8632,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.69849546,
+        "value": 0.69854036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40966,16 +41761,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -42317,8 +43112,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2048987162.pdf",
@@ -43354,16 +44149,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -45198,8 +45993,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -46466,16 +47261,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -47736,16 +48531,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47981,7 +48776,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-24T19:35:01.260952",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48344,16 +49139,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49286,8 +50081,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50047,7 +50842,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.28675136,
+        "value": 0.28633563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50339,16 +51134,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51214,11 +52009,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7877,
+      "fwci": 1.6966,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.90853204,
+        "value": 0.90755835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51434,16 +52229,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51611,7 +52406,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.14417649,
+        "value": 0.14133594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52043,16 +52838,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2248607991.pdf",
@@ -52139,7 +52934,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2025-11-06T06:51:31.235846",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52417,8 +53212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -52559,7 +53354,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.12454167,
+        "value": 0.12452203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52864,8 +53659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53932,16 +54727,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54164,11 +54959,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.62146848,
+      "fwci": 0.6364,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.67437001,
+        "value": 0.67655678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54456,9 +55251,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -54470,8 +55265,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55999,8 +56794,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -56783,8 +57578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -57288,14 +58083,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8465,
+      "fwci": null,
       "has_fulltext": true,
       "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.91017867,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -57650,8 +58441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -59448,8 +60239,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60105,7 +60896,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.21355932,
+        "value": 0.21212121,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60216,16 +61007,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60364,11 +61155,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.781,
+      "fwci": 0.7819,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.8377487,
+        "value": 0.83794184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60549,8 +61340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60690,7 +61481,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.62901843,
+        "value": 0.62905818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60962,8 +61753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61320,16 +62111,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61573,8 +62364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61705,7 +62496,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00731134,
+        "value": 0.0070447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62035,8 +62826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62461,14 +63252,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": true,
       "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.01435431,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -62788,8 +63575,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W94473743.pdf",
@@ -63165,14 +63952,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.02252673,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -63558,16 +64341,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -64119,8 +64902,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64822,16 +65605,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65000,14 +65783,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.23097685,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -65320,8 +66099,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -65805,16 +66584,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66290,8 +67069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -66846,7 +67625,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59508687,
+        "value": 0.59316214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67116,16 +67895,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67560,8 +68339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67864,7 +68643,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11429654,
+        "value": 0.11426768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68089,8 +68868,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68437,16 +69216,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/4",
           "display_name": "Quality Education",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/4"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72475,9 +73254,9 @@
         "https://openalex.org/A5089299204"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I1286329397",
         "https://openalex.org/I165733156",
         "https://openalex.org/I170897317",
-        "https://openalex.org/I1286329397",
         "https://openalex.org/I2799922383"
       ],
       "apc_list": null,
@@ -72691,16 +73470,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4241819938.pdf",
@@ -72721,48 +73500,29 @@
         "https://openalex.org/W2946327900"
       ],
       "abstract_inverted_index": {
-        "210PB": [
+        "Shelf:": [
           0
         ],
-        "in": [
+        "estimates": [
           1
         ],
-        "sediment": [
-          2,
-          12
-        ],
-        "cores": [
-          3
-        ],
-        "from": [
-          4
-        ],
-        "the": [
-          5
-        ],
-        "Atlantic": [
-          6
-        ],
-        "ContinentalShelf:": [
-          7
-        ],
-        "estimates": [
-          8
-        ],
         "and": [
-          9
+          2
         ],
         "rates": [
-          10
+          3
         ],
         "of": [
-          11
+          4
+        ],
+        "sediment": [
+          5
         ],
         "mixing\"": [
-          13
+          6
         ],
         "by": [
-          14
+          7
         ]
       },
       "counts_by_year": [],
@@ -73096,8 +73856,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73578,8 +74338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

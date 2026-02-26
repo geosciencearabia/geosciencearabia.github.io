@@ -8,7 +8,7 @@
       "Khalid Ramadan"
     ],
     "works_count": 11,
-    "cited_by_count": 62,
+    "cited_by_count": 63,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000009,
+        "value": 0.0000089,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000089,
+        "value": 0.0000088,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -293,7 +293,7 @@
         "year": 2011,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 42
+        "cited_by_count": 43
       },
       {
         "year": 2014,
@@ -330,7 +330,7 @@
     },
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
-    "updated_date": "2026-02-16T12:19:24",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2020-10-08T00:00:00"
   },
   "works": [
@@ -1081,8 +1081,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -1105,8 +1105,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1793,11 +1793,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2138,
+      "fwci": 1.2139,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.84132642,
+        "value": 0.841333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2149,16 +2149,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4222,11 +4222,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.27106623,
+      "fwci": 3.2851,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.93489538,
+        "value": 0.93489304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4465,16 +4465,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4251869326.pdf",
@@ -4549,8 +4549,7 @@
           0
         ],
         "this": [
-          1,
-          41
+          1
         ],
         "concept,": [
           2
@@ -4559,47 +4558,26 @@
           3,
           6,
           12,
-          21,
-          45,
-          58,
-          67,
-          83,
-          105,
-          112,
-          116
+          21
         ],
         "objective": [
-          4,
-          81
+          4
         ],
         "of": [
           5,
-          35,
-          40,
-          60,
-          74,
-          82,
-          94,
-          97,
-          107,
-          121
+          35
         ],
         "present": [
-          7,
-          84
+          7
         ],
         "study": [
           8
         ],
         "is": [
-          9,
-          86
+          9
         ],
         "to": [
-          10,
-          47,
-          57,
-          87
+          10
         ],
         "examine": [
           11
@@ -4609,35 +4587,22 @@
         ],
         "perceptions": [
           14,
-          28,
-          120
+          28
         ],
         "and": [
           15,
           19,
-          29,
-          54,
-          78,
-          102,
-          119,
-          135,
-          144,
-          149
+          29
         ],
         "attitudes": [
           16,
-          30,
-          103,
-          118
+          30
         ],
         "toward": [
           17
         ],
         "e-learning": [
-          18,
-          52,
-          61,
-          134
+          18
         ],
         "also": [
           20
@@ -4649,16 +4614,13 @@
           23
         ],
         "that": [
-          24,
-          70,
-          110
+          24
         ],
         "might": [
           25
         ],
         "influence": [
-          26,
-          71
+          26
         ],
         "these": [
           27
@@ -4667,8 +4629,7 @@
           31
         ],
         "MU": [
-          32,
-          98
+          32
         ],
         "as": [
           33
@@ -4680,210 +4641,10 @@
           36
         ],
         "in": [
-          37,
-          63
+          37
         ],
-        "Libya.The": [
+        "Libya.": [
           38
-        ],
-        "findings": [
-          39
-        ],
-        "research": [
-          42,
-          85
-        ],
-        "may": [
-          43,
-          55
-        ],
-        "pave": [
-          44
-        ],
-        "way": [
-          46
-        ],
-        "develop": [
-          48
-        ],
-        "a": [
-          49
-        ],
-        "paradigm": [
-          50
-        ],
-        "for": [
-          51
-        ],
-        "implementation": [
-          53
-        ],
-        "contribute": [
-          56
-        ],
-        "field": [
-          59
-        ],
-        "development": [
-          62
-        ],
-        "Libya": [
-          64
-        ],
-        "by": [
-          65
-        ],
-        "exploring": [
-          66
-        ],
-        "main": [
-          68
-        ],
-        "challenges": [
-          69
-        ],
-        "learners'": [
-          72,
-          131
-        ],
-        "acceptance": [
-          73
-        ],
-        "e-learning.": [
-          75
-        ],
-        "Research": [
-          76
-        ],
-        "Objectives": [
-          77
-        ],
-        "QuestionsThe": [
-          79
-        ],
-        "overall": [
-          80,
-          117
-        ],
-        "explore": [
-          88
-        ],
-        "if": [
-          89
-        ],
-        "there": [
-          90,
-          127
-        ],
-        "are": [
-          91,
-          115
-        ],
-        "significant": [
-          92
-        ],
-        "variances": [
-          93
-        ],
-        "demographic": [
-          95,
-          137
-        ],
-        "profiles": [
-          96
-        ],
-        "learners": [
-          99,
-          122
-        ],
-        "on": [
-          100
-        ],
-        "perception": [
-          101
-        ],
-        "towards": [
-          104,
-          123,
-          133
-        ],
-        "amalgamation": [
-          106
-        ],
-        "e-learning.Research": [
-          108
-        ],
-        "questions": [
-          109
-        ],
-        "guided": [
-          111
-        ],
-        "study;": [
-          113
-        ],
-        "1.What": [
-          114
-        ],
-        "e-learning?": [
-          124
-        ],
-        "2.": [
-          125
-        ],
-        "Is": [
-          126
-        ],
-        "any": [
-          128
-        ],
-        "association": [
-          129
-        ],
-        "between": [
-          130
-        ],
-        "attitude": [
-          132
-        ],
-        "their": [
-          136
-        ],
-        "characteristics": [
-          138
-        ],
-        "including": [
-          139
-        ],
-        "age,": [
-          140
-        ],
-        "gender,": [
-          141
-        ],
-        "ICT": [
-          142
-        ],
-        "experience": [
-          143
-        ],
-        "skills,": [
-          145
-        ],
-        "English": [
-          146
-        ],
-        "language": [
-          147
-        ],
-        "proficiency": [
-          148
-        ],
-        "academic": [
-          150
-        ],
-        "area?": [
-          151
         ]
       },
       "counts_by_year": [
@@ -5089,7 +4850,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.10704896,
+        "value": 0.10297931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5352,8 +5113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -7444,16 +7205,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231640444.pdf",
@@ -8664,11 +8425,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.36401004,
+      "fwci": 0.3391,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.75326748,
+        "value": 0.75345377,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8866,16 +8627,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth",
           "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4246434093.pdf",
@@ -8941,12 +8702,12 @@
         ],
         "security": [
           1,
-          27,
-          37,
-          65,
-          156,
-          188,
-          244
+          28,
+          38,
+          67,
+          162,
+          195,
+          252
         ],
         "(InfoSec)": [
           2
@@ -8954,17 +8715,17 @@
         "is": [
           3,
           8,
-          49,
-          218
+          51,
+          226
         ],
         "an": [
           4,
-          88,
-          219
+          91,
+          227
         ],
         "important": [
           5,
-          220
+          228
         ],
         "issue": [
           6
@@ -8981,496 +8742,512 @@
         ],
         "and": [
           11,
-          31,
-          54,
-          86,
-          138,
-          147,
-          160,
-          164,
-          184,
-          206,
-          210,
-          251
+          32,
+          56,
+          89,
+          144,
+          153,
+          166,
+          170,
+          191,
+          213,
+          217,
+          259
         ],
         "interest": [
           13
         ],
         "by": [
           14,
-          59,
-          84
+          61,
+          87
         ],
         "organizations": [
           15,
-          223,
-          225
-        ],
-        "worldwide.This": [
-          16
-        ],
-        "study": [
-          17,
-          48,
-          72,
-          93,
-          174,
-          217
-        ],
-        "aims": [
-          18
-        ],
-        "to": [
-          19,
-          33,
-          50,
-          79,
-          91,
-          104,
-          121,
-          133,
-          149,
-          192,
-          201,
-          238,
-          247,
-          253,
-          256
-        ],
-        "evaluate": [
-          20,
-          51,
-          150
-        ],
-        "the": [
-          21,
-          40,
-          52,
-          55,
-          61,
-          69,
-          81,
-          92,
-          108,
-          111,
-          125,
-          134,
-          145,
-          151,
-          172,
-          231
-        ],
-        "service": [
-          22
-        ],
-        "management": [
-          23,
-          28,
-          38,
-          66,
-          157,
-          245
-        ],
-        "approach": [
-          24,
-          78
-        ],
-        "of": [
-          25,
-          46,
-          57,
-          63,
-          153,
-          180,
-          186,
-          230,
-          242
-        ],
-        "information": [
-          26,
-          36,
-          64,
-          155,
-          187,
-          195,
-          243
-        ],
-        "that": [
-          29,
-          117
-        ],
-        "applied": [
-          30,
-          143
-        ],
-        "utilized": [
-          32
-        ],
-        "improve": [
-          34
-        ],
-        "effective": [
-          35
-        ],
-        "in": [
-          39,
-          171
-        ],
-        "Hatif": [
-          41
-        ],
-        "Libya": [
-          42
-        ],
-        "Company": [
-          43
-        ],
-        "(HLC).The": [
-          44
-        ],
-        "aim": [
-          45
-        ],
-        "this": [
-          47,
-          181,
-          214
-        ],
-        "processes": [
-          53,
-          140
-        ],
-        "performance": [
-          56,
-          250
-        ],
-        "HLC": [
-          58,
-          159,
-          199
-        ],
-        "following": [
-          60
-        ],
-        "improvements": [
-          62
-        ],
-        "standards": [
-          67
-        ],
-        "at": [
-          68,
-          228
-        ],
-        "company.This": [
-          70
-        ],
-        "research": [
-          71,
-          77,
-          135,
-          216
-        ],
-        "has": [
-          73,
-          141
-        ],
-        "used": [
-          74
-        ],
-        "a": [
-          75
-        ],
-        "descriptive": [
-          76
-        ],
-        "collect": [
-          80
-        ],
-        "required": [
-          82
-        ],
-        "data": [
-          83,
-          106
-        ],
-        "designing": [
-          85
-        ],
-        "distributing": [
-          87
-        ],
-        "online": [
-          89
-        ],
-        "questionnaire": [
-          90
-        ],
-        "participants.An": [
-          94
-        ],
-        "interpretive": [
-          95
-        ],
-        "case-study": [
-          96
-        ],
-        "approach,": [
-          97
-        ],
-        "as": [
-          98,
-          100,
-          127,
-          129,
-          224
-        ],
-        "well": [
-          99,
-          128
-        ],
-        "questionnaires,": [
-          101
-        ],
-        "were": [
-          102
-        ],
-        "employed": [
-          103
-        ],
-        "support": [
-          105
-        ],
-        "gathering.On": [
-          107
-        ],
-        "other": [
-          109
-        ],
-        "hand,": [
-          110
-        ],
-        "researchers": [
-          112
-        ],
-        "have": [
-          113,
-          189
-        ],
-        "reviewed": [
-          114
-        ],
-        "previous": [
-          115
-        ],
-        "studies": [
-          116
-        ],
-        "talked": [
-          118
-        ],
-        "about": [
-          119
-        ],
-        "subjects": [
-          120
-        ],
-        "compare": [
-          122
-        ],
-        "among": [
-          123,
-          131
-        ],
-        "identifying": [
-          124
-        ],
-        "similarities": [
-          126
-        ],
-        "differences": [
-          130
-        ],
-        "related": [
-          132,
-          162
-        ],
-        "topic.The": [
-          136
-        ],
-        "discussion": [
-          137
-        ],
-        "analysis": [
-          139
-        ],
-        "been": [
-          142,
-          190
-        ],
-        "for": [
-          144,
-          158,
-          166,
-          196,
-          221
-        ],
-        "findings": [
-          146
-        ],
-        "results": [
-          148
-        ],
-        "importance": [
-          152
-        ],
-        "considering": [
-          154
-        ],
-        "Libyan": [
-          161,
-          222
-        ],
-        "companies;": [
-          163
-        ],
-        "also,": [
-          165
-        ],
-        "those": [
-          167
-        ],
-        "who": [
-          168,
-          234
-        ],
-        "are": [
-          169,
-          226,
-          236
-        ],
-        "interested": [
-          170
-        ],
-        "same": [
-          173
-        ],
-        "subject.In": [
-          175
-        ],
-        "conclusion,": [
-          176
-        ],
-        "The": [
-          177
-        ],
-        "main": [
-          178
-        ],
-        "objective": [
-          179
-        ],
-        "research,": [
-          182
-        ],
-        "concepts": [
-          183
-        ],
-        "principles": [
-          185
-        ],
-        "tested": [
-          191
-        ],
-        "deliver": [
-          193
-        ],
-        "actionable": [
-          194
-        ],
-        "decision-makers": [
-          197
-        ],
-        "within": [
-          198
-        ],
-        "firm": [
-          200
-        ],
-        "manage": [
-          202
-        ],
-        "their": [
-          203,
-          208
-        ],
-        "corporate": [
-          204
-        ],
-        "assets": [
-          205
-        ],
-        "ensure": [
-          207,
-          239
-        ],
-        "resilience": [
-          209
-        ],
-        "increase": [
-          211,
-          248
-        ],
-        "productivity.In": [
-          212
-        ],
-        "addition,": [
-          213
-        ],
-        "practical": [
-          215
-        ],
-        "working": [
-          227
-        ],
-        "one": [
-          229
-        ],
-        "development": [
-          232
-        ],
-        "countries": [
+          231,
           233
         ],
-        "they": [
+        "worldwide.": [
+          16
+        ],
+        "This": [
+          17,
+          73
+        ],
+        "study": [
+          18,
+          50,
+          75,
+          96,
+          180,
+          225
+        ],
+        "aims": [
+          19
+        ],
+        "to": [
+          20,
+          34,
+          52,
+          82,
+          94,
+          108,
+          126,
+          138,
+          155,
+          199,
+          208,
+          246,
+          255,
+          261,
+          264
+        ],
+        "evaluate": [
+          21,
+          53,
+          156
+        ],
+        "the": [
+          22,
+          41,
+          54,
+          57,
+          63,
+          71,
+          84,
+          95,
+          113,
+          116,
+          130,
+          139,
+          151,
+          157,
+          178,
+          239
+        ],
+        "service": [
+          23
+        ],
+        "management": [
+          24,
+          29,
+          39,
+          68,
+          163,
+          253
+        ],
+        "approach": [
+          25,
+          81
+        ],
+        "of": [
+          26,
+          48,
+          59,
+          65,
+          159,
+          187,
+          193,
+          238,
+          250
+        ],
+        "information": [
+          27,
+          37,
+          66,
+          161,
+          194,
+          202,
+          251
+        ],
+        "that": [
+          30,
+          122
+        ],
+        "applied": [
+          31,
+          149
+        ],
+        "utilized": [
+          33
+        ],
+        "improve": [
+          35
+        ],
+        "effective": [
+          36
+        ],
+        "in": [
+          40,
+          177
+        ],
+        "Hatif": [
+          42
+        ],
+        "Libya": [
+          43
+        ],
+        "Company": [
+          44
+        ],
+        "(HLC).": [
+          45
+        ],
+        "The": [
+          46,
+          142,
+          184
+        ],
+        "aim": [
+          47
+        ],
+        "this": [
+          49,
+          188,
+          222
+        ],
+        "processes": [
+          55,
+          146
+        ],
+        "performance": [
+          58,
+          258
+        ],
+        "HLC": [
+          60,
+          165,
+          206
+        ],
+        "following": [
+          62
+        ],
+        "improvements": [
+          64
+        ],
+        "standards": [
+          69
+        ],
+        "at": [
+          70,
+          236
+        ],
+        "company.": [
+          72
+        ],
+        "research": [
+          74,
+          80,
+          140,
+          224
+        ],
+        "has": [
+          76,
+          147
+        ],
+        "used": [
+          77
+        ],
+        "a": [
+          78
+        ],
+        "descriptive": [
+          79
+        ],
+        "collect": [
+          83
+        ],
+        "required": [
+          85
+        ],
+        "data": [
+          86,
+          110
+        ],
+        "designing": [
+          88
+        ],
+        "distributing": [
+          90
+        ],
+        "online": [
+          92
+        ],
+        "questionnaire": [
+          93
+        ],
+        "participants.": [
+          97
+        ],
+        "An": [
+          98
+        ],
+        "interpretive": [
+          99
+        ],
+        "case-study": [
+          100
+        ],
+        "approach,": [
+          101
+        ],
+        "as": [
+          102,
+          104,
+          132,
+          134,
+          232
+        ],
+        "well": [
+          103,
+          133
+        ],
+        "questionnaires,": [
+          105
+        ],
+        "were": [
+          106
+        ],
+        "employed": [
+          107
+        ],
+        "support": [
+          109
+        ],
+        "gathering.": [
+          111
+        ],
+        "On": [
+          112
+        ],
+        "other": [
+          114
+        ],
+        "hand,": [
+          115
+        ],
+        "researchers": [
+          117
+        ],
+        "have": [
+          118,
+          196
+        ],
+        "reviewed": [
+          119
+        ],
+        "previous": [
+          120
+        ],
+        "studies": [
+          121
+        ],
+        "talked": [
+          123
+        ],
+        "about": [
+          124
+        ],
+        "subjects": [
+          125
+        ],
+        "compare": [
+          127
+        ],
+        "among": [
+          128,
+          136
+        ],
+        "identifying": [
+          129
+        ],
+        "similarities": [
+          131
+        ],
+        "differences": [
+          135
+        ],
+        "related": [
+          137,
+          168
+        ],
+        "topic.": [
+          141
+        ],
+        "discussion": [
+          143
+        ],
+        "analysis": [
+          145
+        ],
+        "been": [
+          148,
+          197
+        ],
+        "for": [
+          150,
+          164,
+          172,
+          203,
+          229
+        ],
+        "findings": [
+          152
+        ],
+        "results": [
+          154
+        ],
+        "importance": [
+          158
+        ],
+        "considering": [
+          160
+        ],
+        "Libyan": [
+          167,
+          230
+        ],
+        "companies;": [
+          169
+        ],
+        "also,": [
+          171
+        ],
+        "those": [
+          173
+        ],
+        "who": [
+          174,
+          242
+        ],
+        "are": [
+          175,
+          234,
+          244
+        ],
+        "interested": [
+          176
+        ],
+        "same": [
+          179
+        ],
+        "subject.": [
+          181
+        ],
+        "In": [
+          182,
+          220
+        ],
+        "conclusion,": [
+          183
+        ],
+        "main": [
+          185
+        ],
+        "objective": [
+          186
+        ],
+        "research,": [
+          189
+        ],
+        "concepts": [
+          190
+        ],
+        "principles": [
+          192
+        ],
+        "tested": [
+          198
+        ],
+        "deliver": [
+          200
+        ],
+        "actionable": [
+          201
+        ],
+        "decision-makers": [
+          204
+        ],
+        "within": [
+          205
+        ],
+        "firm": [
+          207
+        ],
+        "manage": [
+          209
+        ],
+        "their": [
+          210,
+          215
+        ],
+        "corporate": [
+          211
+        ],
+        "assets": [
+          212
+        ],
+        "ensure": [
+          214,
+          247
+        ],
+        "resilience": [
+          216
+        ],
+        "increase": [
+          218,
+          256
+        ],
+        "productivity.": [
+          219
+        ],
+        "addition,": [
+          221
+        ],
+        "practical": [
+          223
+        ],
+        "working": [
           235
         ],
-        "seeking": [
+        "one": [
           237
         ],
-        "high": [
+        "development": [
           240
         ],
-        "level": [
+        "countries": [
           241
         ],
-        "factors": [
-          246
+        "they": [
+          243
         ],
-        "company's": [
+        "seeking": [
+          245
+        ],
+        "high": [
+          248
+        ],
+        "level": [
           249
         ],
-        "productivity": [
-          252
-        ],
-        "make": [
+        "factors": [
           254
         ],
+        "company's": [
+          257
+        ],
+        "productivity": [
+          260
+        ],
+        "make": [
+          262
+        ],
         "time": [
-          255
+          263
         ],
         "market.": [
-          257
+          265
         ]
       },
       "counts_by_year": [
@@ -9948,8 +9725,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -9962,8 +9739,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -10477,7 +10254,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1648726,
+        "value": 0.16494002,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10776,16 +10553,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11679,16 +11456,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12558,7 +12335,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69212783,
+        "value": 0.69188768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12759,16 +12536,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13286,16 +13063,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
