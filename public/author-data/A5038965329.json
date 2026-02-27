@@ -1018,16 +1018,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2287111010.pdf",
@@ -2698,16 +2698,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -3186,16 +3186,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4411,16 +4411,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -5366,16 +5366,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2571373978.pdf",
@@ -6886,9 +6886,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6900,8 +6900,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -7592,9 +7592,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7606,8 +7606,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -8129,16 +8129,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
@@ -8626,6 +8626,962 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1989814715",
+      "doi": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
+      "title": "A relative water-depth model for the Normandy Chalk (Cenomanian–Middle Coniacian, Paris Basin, France) based on facies patterns of metre-scale cycles",
+      "display_name": "A relative water-depth model for the Normandy Chalk (Cenomanian–Middle Coniacian, Paris Basin, France) based on facies patterns of metre-scale cycles",
+      "publication_year": 2008,
+      "publication_date": "2008-10-29",
+      "ids": {
+        "openalex": "https://openalex.org/W1989814715",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
+        "mag": "1989814715"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.sedgeo.2008.10.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S85417211",
+          "display_name": "Sedimentary Geology",
+          "issn_l": "0037-0738",
+          "issn": [
+            "0037-0738",
+            "1879-0968"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sedimentary Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087267351",
+            "display_name": "Éric Lasseur",
+            "orcid": "https://orcid.org/0000-0002-9857-2052"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eric Lasseur",
+          "raw_affiliation_strings": [
+            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006281942",
+            "display_name": "François Guillocheau",
+            "orcid": "https://orcid.org/0000-0002-8299-439X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "François Guillocheau",
+          "raw_affiliation_strings": [
+            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072904044",
+            "display_name": "Cécile Robin",
+            "orcid": "https://orcid.org/0000-0002-7394-4438"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Cécile Robin",
+          "raw_affiliation_strings": [
+            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113134771",
+            "display_name": "Franck Hanot",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Franck Hanot",
+          "raw_affiliation_strings": [
+            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079349772",
+            "display_name": "Renaud Couëffé",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Renaud Coueffe",
+          "raw_affiliation_strings": [
+            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5015411092",
+            "display_name": "Didier Néraudeau",
+            "orcid": "https://orcid.org/0000-0002-5719-6468"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Didier Neraudeau",
+          "raw_affiliation_strings": [
+            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5072904044"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I4210096833",
+        "https://openalex.org/I56067802"
+      ],
+      "apc_list": {
+        "value": 3070,
+        "currency": "USD",
+        "value_usd": 3070
+      },
+      "apc_paid": null,
+      "fwci": 1.3924,
+      "has_fulltext": false,
+      "cited_by_count": 46,
+      "citation_normalized_percentile": {
+        "value": 0.79174765,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "213",
+        "issue": "1-2",
+        "first_page": "1",
+        "last_page": "26"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cenomanian",
+          "display_name": "Cenomanian",
+          "score": 0.9485883712768555
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8505269289016724
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.830272912979126
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8284423351287842
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6390662789344788
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.6036286354064941
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.4906836748123169
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.46440601348876953
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.4539898633956909
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.4380427598953247
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.9485883712768555
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8505269289016724
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.830272912979126
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8284423351287842
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6390662789344788
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.6036286354064941
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.4906836748123169
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.46440601348876953
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4539898633956909
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.4380427598953247
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.sedgeo.2008.10.007",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S85417211",
+            "display_name": "Sedimentary Geology",
+            "issn_l": "0037-0738",
+            "issn": [
+              "0037-0738",
+              "1879-0968"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sedimentary Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:insu-00379798v1",
+          "is_oa": false,
+          "landing_page_url": "https://insu.hal.science/insu-00379798",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Sedimentary Geology, 2009, 213 (1-2), pp.1-26. &#x27E8;10.1016/j.sedgeo.2008.10.007&#x27E9;",
+          "raw_type": "Journal articles"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323731",
+          "display_name": "Bureau de Recherches Géologiques et Minières",
+          "ror": "https://ror.org/05hnb7x64"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 90,
+      "referenced_works": [
+        "https://openalex.org/W19943757",
+        "https://openalex.org/W25529066",
+        "https://openalex.org/W146503911",
+        "https://openalex.org/W568135640",
+        "https://openalex.org/W616711343",
+        "https://openalex.org/W636072265",
+        "https://openalex.org/W646436013",
+        "https://openalex.org/W1483227763",
+        "https://openalex.org/W1486171460",
+        "https://openalex.org/W1486418785",
+        "https://openalex.org/W1514517709",
+        "https://openalex.org/W1574350531",
+        "https://openalex.org/W1580779233",
+        "https://openalex.org/W1584354900",
+        "https://openalex.org/W1587340106",
+        "https://openalex.org/W1630322587",
+        "https://openalex.org/W1646260529",
+        "https://openalex.org/W1673688546",
+        "https://openalex.org/W1832764887",
+        "https://openalex.org/W1837032272",
+        "https://openalex.org/W1909319766",
+        "https://openalex.org/W1934538501",
+        "https://openalex.org/W1974326153",
+        "https://openalex.org/W1986562513",
+        "https://openalex.org/W1989763349",
+        "https://openalex.org/W1999883999",
+        "https://openalex.org/W2007126131",
+        "https://openalex.org/W2008464568",
+        "https://openalex.org/W2014541485",
+        "https://openalex.org/W2015148341",
+        "https://openalex.org/W2019581563",
+        "https://openalex.org/W2021838482",
+        "https://openalex.org/W2027147592",
+        "https://openalex.org/W2027475580",
+        "https://openalex.org/W2033979744",
+        "https://openalex.org/W2034716029",
+        "https://openalex.org/W2038559845",
+        "https://openalex.org/W2040677013",
+        "https://openalex.org/W2048037774",
+        "https://openalex.org/W2052346014",
+        "https://openalex.org/W2053139688",
+        "https://openalex.org/W2054916301",
+        "https://openalex.org/W2057480651",
+        "https://openalex.org/W2065768706",
+        "https://openalex.org/W2069284975",
+        "https://openalex.org/W2069407025",
+        "https://openalex.org/W2070280603",
+        "https://openalex.org/W2072849891",
+        "https://openalex.org/W2077767913",
+        "https://openalex.org/W2080273902",
+        "https://openalex.org/W2094507725",
+        "https://openalex.org/W2099406928",
+        "https://openalex.org/W2105843077",
+        "https://openalex.org/W2119005578",
+        "https://openalex.org/W2136201253",
+        "https://openalex.org/W2141093796",
+        "https://openalex.org/W2148467474",
+        "https://openalex.org/W2162549555",
+        "https://openalex.org/W2166545671",
+        "https://openalex.org/W2168590197",
+        "https://openalex.org/W2169964049",
+        "https://openalex.org/W2253497759",
+        "https://openalex.org/W2304009554",
+        "https://openalex.org/W2313959254",
+        "https://openalex.org/W2461249790",
+        "https://openalex.org/W2477429971",
+        "https://openalex.org/W2506554653",
+        "https://openalex.org/W2921375740",
+        "https://openalex.org/W2931574751",
+        "https://openalex.org/W3170978372",
+        "https://openalex.org/W3185378312",
+        "https://openalex.org/W4214634148",
+        "https://openalex.org/W4232835124",
+        "https://openalex.org/W4251087221",
+        "https://openalex.org/W4361761908",
+        "https://openalex.org/W6600805876",
+        "https://openalex.org/W6601050600",
+        "https://openalex.org/W6605960959",
+        "https://openalex.org/W6616076113",
+        "https://openalex.org/W6628914254",
+        "https://openalex.org/W6629149146",
+        "https://openalex.org/W6630760853",
+        "https://openalex.org/W6636704262",
+        "https://openalex.org/W6674235113",
+        "https://openalex.org/W6680131500",
+        "https://openalex.org/W6691694409",
+        "https://openalex.org/W6697708477",
+        "https://openalex.org/W6725232051",
+        "https://openalex.org/W6795978236",
+        "https://openalex.org/W6808654544"
+      ],
+      "related_works": [
+        "https://openalex.org/W4313208625",
+        "https://openalex.org/W2170731154",
+        "https://openalex.org/W2768565527",
+        "https://openalex.org/W4361215143",
+        "https://openalex.org/W2059039157",
+        "https://openalex.org/W2392482295",
+        "https://openalex.org/W2370005162",
+        "https://openalex.org/W2743211649",
+        "https://openalex.org/W2986318339",
+        "https://openalex.org/W2368062105"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9199,16 +10155,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2581167478.pdf",
@@ -11038,16 +11994,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -12164,16 +13120,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -13318,8 +14274,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -14923,9 +15879,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14937,8 +15893,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -15034,958 +15990,6 @@
         {
           "year": 2012,
           "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1989814715",
-      "doi": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
-      "title": "A relative water-depth model for the Normandy Chalk (Cenomanian–Middle Coniacian, Paris Basin, France) based on facies patterns of metre-scale cycles",
-      "display_name": "A relative water-depth model for the Normandy Chalk (Cenomanian–Middle Coniacian, Paris Basin, France) based on facies patterns of metre-scale cycles",
-      "publication_year": 2008,
-      "publication_date": "2008-10-29",
-      "ids": {
-        "openalex": "https://openalex.org/W1989814715",
-        "doi": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
-        "mag": "1989814715"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.sedgeo.2008.10.007",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S85417211",
-          "display_name": "Sedimentary Geology",
-          "issn_l": "0037-0738",
-          "issn": [
-            "0037-0738",
-            "1879-0968"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sedimentary Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5087267351",
-            "display_name": "Éric Lasseur",
-            "orcid": "https://orcid.org/0000-0002-9857-2052"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210096833",
-              "display_name": "Géosciences Rennes",
-              "ror": "https://ror.org/00vn0zc62",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2800285241",
-                "https://openalex.org/I3124938446",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210117091",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210150854",
-                "https://openalex.org/I4387156395",
-                "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Eric Lasseur",
-          "raw_affiliation_strings": [
-            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5006281942",
-            "display_name": "François Guillocheau",
-            "orcid": "https://orcid.org/0000-0002-8299-439X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210096833",
-              "display_name": "Géosciences Rennes",
-              "ror": "https://ror.org/00vn0zc62",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2800285241",
-                "https://openalex.org/I3124938446",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210117091",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210150854",
-                "https://openalex.org/I4387156395",
-                "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "François Guillocheau",
-          "raw_affiliation_strings": [
-            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072904044",
-            "display_name": "Cécile Robin",
-            "orcid": "https://orcid.org/0000-0002-7394-4438"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210096833",
-              "display_name": "Géosciences Rennes",
-              "ror": "https://ror.org/00vn0zc62",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2800285241",
-                "https://openalex.org/I3124938446",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210117091",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210150854",
-                "https://openalex.org/I4387156395",
-                "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I56067802"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Cécile Robin",
-          "raw_affiliation_strings": [
-            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113134771",
-            "display_name": "Franck Hanot",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Franck Hanot",
-          "raw_affiliation_strings": [
-            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038965329",
-            "display_name": "Denis Vaslet",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Denis Vaslet",
-          "raw_affiliation_strings": [
-            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079349772",
-            "display_name": "Renaud Couëffé",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Renaud Coueffe",
-          "raw_affiliation_strings": [
-            "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, 3 avenue Claude Guillemin, BP 6009, 45060 Orléans Cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5015411092",
-            "display_name": "Didier Néraudeau",
-            "orcid": "https://orcid.org/0000-0002-5719-6468"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210096833",
-              "display_name": "Géosciences Rennes",
-              "ror": "https://ror.org/00vn0zc62",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2800285241",
-                "https://openalex.org/I3124938446",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210117091",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210150854",
-                "https://openalex.org/I4387156395",
-                "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Didier Neraudeau",
-          "raw_affiliation_strings": [
-            "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5072904044"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1294671590",
-        "https://openalex.org/I4210096833",
-        "https://openalex.org/I56067802"
-      ],
-      "apc_list": {
-        "value": 3070,
-        "currency": "USD",
-        "value_usd": 3070
-      },
-      "apc_paid": null,
-      "fwci": 1.3909,
-      "has_fulltext": false,
-      "cited_by_count": 45,
-      "citation_normalized_percentile": {
-        "value": 0.79152948,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "213",
-        "issue": "1-2",
-        "first_page": "1",
-        "last_page": "26"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.9485883712768555
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.8505269289016724
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.830272912979126
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8284423351287842
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6390662789344788
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.6036286354064941
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.4906836748123169
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.46440601348876953
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.4539898633956909
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.4380427598953247
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.9485883712768555
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.8505269289016724
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.830272912979126
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8284423351287842
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6390662789344788
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.6036286354064941
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.4906836748123169
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.46440601348876953
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4539898633956909
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.4380427598953247
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.sedgeo.2008.10.007",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S85417211",
-            "display_name": "Sedimentary Geology",
-            "issn_l": "0037-0738",
-            "issn": [
-              "0037-0738",
-              "1879-0968"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sedimentary Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:insu-00379798v1",
-          "is_oa": false,
-          "landing_page_url": "https://insu.hal.science/insu-00379798",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sedimentary Geology, 2009, 213 (1-2), pp.1-26. &#x27E8;10.1016/j.sedgeo.2008.10.007&#x27E9;",
-          "raw_type": "Journal articles"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320323731",
-          "display_name": "Bureau de Recherches Géologiques et Minières",
-          "ror": "https://ror.org/05hnb7x64"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 90,
-      "referenced_works": [
-        "https://openalex.org/W19943757",
-        "https://openalex.org/W25529066",
-        "https://openalex.org/W146503911",
-        "https://openalex.org/W568135640",
-        "https://openalex.org/W616711343",
-        "https://openalex.org/W636072265",
-        "https://openalex.org/W646436013",
-        "https://openalex.org/W1483227763",
-        "https://openalex.org/W1486171460",
-        "https://openalex.org/W1486418785",
-        "https://openalex.org/W1514517709",
-        "https://openalex.org/W1574350531",
-        "https://openalex.org/W1580779233",
-        "https://openalex.org/W1584354900",
-        "https://openalex.org/W1587340106",
-        "https://openalex.org/W1630322587",
-        "https://openalex.org/W1646260529",
-        "https://openalex.org/W1673688546",
-        "https://openalex.org/W1832764887",
-        "https://openalex.org/W1837032272",
-        "https://openalex.org/W1909319766",
-        "https://openalex.org/W1934538501",
-        "https://openalex.org/W1974326153",
-        "https://openalex.org/W1986562513",
-        "https://openalex.org/W1989763349",
-        "https://openalex.org/W1999883999",
-        "https://openalex.org/W2007126131",
-        "https://openalex.org/W2008464568",
-        "https://openalex.org/W2014541485",
-        "https://openalex.org/W2015148341",
-        "https://openalex.org/W2019581563",
-        "https://openalex.org/W2021838482",
-        "https://openalex.org/W2027147592",
-        "https://openalex.org/W2027475580",
-        "https://openalex.org/W2033979744",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W2038559845",
-        "https://openalex.org/W2040677013",
-        "https://openalex.org/W2048037774",
-        "https://openalex.org/W2052346014",
-        "https://openalex.org/W2053139688",
-        "https://openalex.org/W2054916301",
-        "https://openalex.org/W2057480651",
-        "https://openalex.org/W2065768706",
-        "https://openalex.org/W2069284975",
-        "https://openalex.org/W2069407025",
-        "https://openalex.org/W2070280603",
-        "https://openalex.org/W2072849891",
-        "https://openalex.org/W2077767913",
-        "https://openalex.org/W2080273902",
-        "https://openalex.org/W2094507725",
-        "https://openalex.org/W2099406928",
-        "https://openalex.org/W2105843077",
-        "https://openalex.org/W2119005578",
-        "https://openalex.org/W2136201253",
-        "https://openalex.org/W2141093796",
-        "https://openalex.org/W2148467474",
-        "https://openalex.org/W2162549555",
-        "https://openalex.org/W2166545671",
-        "https://openalex.org/W2168590197",
-        "https://openalex.org/W2169964049",
-        "https://openalex.org/W2253497759",
-        "https://openalex.org/W2304009554",
-        "https://openalex.org/W2313959254",
-        "https://openalex.org/W2461249790",
-        "https://openalex.org/W2477429971",
-        "https://openalex.org/W2506554653",
-        "https://openalex.org/W2921375740",
-        "https://openalex.org/W2931574751",
-        "https://openalex.org/W3170978372",
-        "https://openalex.org/W3185378312",
-        "https://openalex.org/W4214634148",
-        "https://openalex.org/W4232835124",
-        "https://openalex.org/W4251087221",
-        "https://openalex.org/W4361761908",
-        "https://openalex.org/W6600805876",
-        "https://openalex.org/W6601050600",
-        "https://openalex.org/W6605960959",
-        "https://openalex.org/W6616076113",
-        "https://openalex.org/W6628914254",
-        "https://openalex.org/W6629149146",
-        "https://openalex.org/W6630760853",
-        "https://openalex.org/W6636704262",
-        "https://openalex.org/W6674235113",
-        "https://openalex.org/W6680131500",
-        "https://openalex.org/W6691694409",
-        "https://openalex.org/W6697708477",
-        "https://openalex.org/W6725232051",
-        "https://openalex.org/W6795978236",
-        "https://openalex.org/W6808654544"
-      ],
-      "related_works": [
-        "https://openalex.org/W4313208625",
-        "https://openalex.org/W2170731154",
-        "https://openalex.org/W2768565527",
-        "https://openalex.org/W4361215143",
-        "https://openalex.org/W2059039157",
-        "https://openalex.org/W2392482295",
-        "https://openalex.org/W2370005162",
-        "https://openalex.org/W2743211649",
-        "https://openalex.org/W2986318339",
-        "https://openalex.org/W2368062105"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -16262,16 +16266,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -17038,16 +17042,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -17635,16 +17639,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -18121,16 +18125,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
@@ -19015,8 +19019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
@@ -19993,16 +19997,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
@@ -20767,16 +20771,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf",
@@ -22011,16 +22015,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -22582,16 +22586,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23836,16 +23840,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
@@ -24748,16 +24752,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25115,8 +25119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25886,16 +25890,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27297,16 +27301,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28293,8 +28297,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -29198,8 +29202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29967,8 +29971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30535,16 +30539,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2252368023.pdf"
@@ -32390,8 +32394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33128,8 +33132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33436,8 +33440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34044,8 +34048,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34484,8 +34488,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34843,16 +34847,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35378,8 +35382,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35836,16 +35840,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
