@@ -6167,8 +6167,8 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
     "workId": "https://openalex.org/W2325350710",
     "latestYear": 2026,
     "latestYearCitations": 3,
-    "previousYearCitations": 15,
-    "yearOverYearDelta": -12
+    "previousYearCitations": 16,
+    "yearOverYearDelta": -13
   },
   "https://openalex.org/W2326513286": {
     "workId": "https://openalex.org/W2326513286",
@@ -16504,10 +16504,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W4401628572": {
     "workId": "https://openalex.org/W4401628572",
-    "latestYear": 2025,
-    "latestYearCitations": 2,
-    "previousYearCitations": 0,
-    "yearOverYearDelta": 2
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 2,
+    "yearOverYearDelta": -1
   },
   "https://openalex.org/W4401646659": {
     "workId": "https://openalex.org/W4401646659",

@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1225,
-    "citations": 21460
+    "citations": 21461
   },
   {
     "id": "https://openalex.org/T10109",
@@ -32,7 +32,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 734,
-    "citations": 17156
+    "citations": 17157
   },
   {
     "id": "https://openalex.org/T10001",
@@ -50,7 +50,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 558,
-    "citations": 11459
+    "citations": 11460
   },
   {
     "id": "https://openalex.org/T13177",
@@ -68,7 +68,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 314,
-    "citations": 4922
+    "citations": 4923
   },
   {
     "id": "https://openalex.org/T10110",
@@ -80,7 +80,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 270,
-    "citations": 4738
+    "citations": 4739
   },
   {
     "id": "https://openalex.org/T10271",
@@ -152,7 +152,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 98,
-    "citations": 2107
+    "citations": 2108
   },
   {
     "id": "https://openalex.org/T12073",
@@ -3275,7 +3275,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 899,
-    "citations": 9763
+    "citations": 9764
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3293,7 +3293,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 167,
-    "citations": 3945
+    "citations": 3946
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3311,7 +3311,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I33849332",
     "name": "University of Malaya",
     "publications": 106,
-    "citations": 3096
+    "citations": 3097
   },
   {
     "id": "https://openalex.org/I47818738",
@@ -3329,7 +3329,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 90,
-    "citations": 898
+    "citations": 899
   },
   {
     "id": "https://openalex.org/I201726411",
@@ -3383,13 +3383,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
     "publications": 48,
-    "citations": 348
+    "citations": 349
   },
   {
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 46,
-    "citations": 677
+    "citations": 678
   },
   {
     "id": "https://openalex.org/I176601375",
@@ -3413,7 +3413,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4576418",
     "name": "University of Technology Malaysia",
     "publications": 38,
-    "citations": 217
+    "citations": 218
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -3569,7 +3569,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I85507684",
     "name": "Yarmouk University",
     "publications": 21,
-    "citations": 306
+    "citations": 307
   },
   {
     "id": "https://openalex.org/I157674565",
@@ -4445,7 +4445,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I180437899",
     "name": "University of Bremen",
     "publications": 7,
-    "citations": 375
+    "citations": 376
   },
   {
     "id": "https://openalex.org/I141945490",
@@ -4811,7 +4811,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I127251866",
     "name": "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung",
     "publications": 5,
-    "citations": 693
+    "citations": 694
   },
   {
     "id": "https://openalex.org/I67581229",
@@ -6290,16 +6290,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 148
   },
   {
-    "id": "https://openalex.org/I183859904",
-    "name": "Islamic Azad University, Mashhad",
+    "id": "https://openalex.org/I78037679",
+    "name": "UiT The Arctic University of Norway",
     "publications": 2,
     "citations": 148
   },
   {
-    "id": "https://openalex.org/I78037679",
-    "name": "UiT The Arctic University of Norway",
+    "id": "https://openalex.org/I183859904",
+    "name": "Islamic Azad University, Mashhad",
     "publications": 2,
-    "citations": 147
+    "citations": 148
   },
   {
     "id": "https://openalex.org/I1325733142",
@@ -7583,7 +7583,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210093716",
     "name": "Korea Polar Research Institute",
     "publications": 1,
-    "citations": 131
+    "citations": 132
   },
   {
     "id": "https://openalex.org/I76835614",
