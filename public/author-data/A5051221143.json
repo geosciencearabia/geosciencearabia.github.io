@@ -75,7 +75,6 @@
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
         "count": 13,
-        "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -93,7 +92,6 @@
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
         "count": 6,
-        "score": 0.9995999932289124,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -111,7 +109,6 @@
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
         "count": 4,
-        "score": 0.9997000098228455,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -129,7 +126,6 @@
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
         "count": 4,
-        "score": 0.9987000226974487,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -147,7 +143,6 @@
         "id": "https://openalex.org/T10033",
         "display_name": "Concrete and Cement Materials Research",
         "count": 3,
-        "score": 0.9994999766349792,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -166,7 +161,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001151,
+        "value": 0.0001127,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -183,7 +178,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000249,
+        "value": 0.0000239,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -217,7 +212,7 @@
       {
         "id": "https://openalex.org/T13404",
         "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0000155,
+        "value": 0.0000148,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -234,7 +229,7 @@
       {
         "id": "https://openalex.org/T10033",
         "display_name": "Concrete and Cement Materials Research",
-        "value": 0.0000136,
+        "value": 0.0000135,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -371,7 +366,7 @@
     },
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-02-17T12:23:37",
+    "updated_date": "2026-03-02T21:45:40",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -991,9 +986,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1671,9 +1666,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2735,9 +2730,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4374,9 +4369,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5730,9 +5725,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8330,9 +8325,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9315,9 +9310,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11154,9 +11149,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -11892,9 +11887,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12299,9 +12294,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14609,9 +14604,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14903,10 +14898,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.4968383,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -14917,8 +14916,76 @@
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
-      "primary_topic": null,
-      "topics": [],
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.9804999828338623,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9804999828338623,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.003700000001117587,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.0015999999595806003,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
       "keywords": [],
       "concepts": [],
       "mesh": [],
@@ -14981,7 +15048,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-03T08:47:05.690250",
       "created_date": "2025-10-30T00:00:00"
     }
   ]

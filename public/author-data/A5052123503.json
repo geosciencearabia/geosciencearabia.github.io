@@ -103,7 +103,6 @@
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
         "count": 15,
-        "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -121,7 +120,6 @@
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
         "count": 13,
-        "score": 0.9998999834060669,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -139,7 +137,6 @@
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
         "count": 8,
-        "score": 0.9991000294685364,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -157,7 +154,6 @@
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
         "count": 5,
-        "score": 0.9970999956130981,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -175,7 +171,6 @@
         "id": "https://openalex.org/T10205",
         "display_name": "Advanced Fiber Optic Sensors",
         "count": 4,
-        "score": 0.9983999729156494,
         "subfield": {
           "id": "https://openalex.org/subfields/2208",
           "display_name": "Electrical and Electronic Engineering"
@@ -194,7 +189,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000517,
+        "value": 0.0000516,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -211,7 +206,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0000349,
+        "value": 0.0000348,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -245,7 +240,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0000293,
+        "value": 0.0000292,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -262,7 +257,7 @@
       {
         "id": "https://openalex.org/T11133",
         "display_name": "UAV Applications and Optimization",
-        "value": 0.0000187,
+        "value": 0.000018,
         "subfield": {
           "id": "https://openalex.org/subfields/2202",
           "display_name": "Aerospace Engineering"
@@ -369,7 +364,7 @@
     },
     "block_key": "e alfataierge",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5052123503",
-    "updated_date": "2026-02-11T12:21:17",
+    "updated_date": "2026-03-02T21:45:40",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [

@@ -42,7 +42,6 @@
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
         "count": 6,
-        "score": 0.9998999834060669,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -60,7 +59,6 @@
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
         "count": 5,
-        "score": 0.9994999766349792,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -78,7 +76,6 @@
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
         "count": 4,
-        "score": 0.9998999834060669,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -96,7 +93,6 @@
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
         "count": 2,
-        "score": 0.9993000030517578,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -114,7 +110,6 @@
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
         "count": 1,
-        "score": 0.9945999979972839,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -133,7 +128,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000353,
+        "value": 0.0000347,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -150,7 +145,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000268,
+        "value": 0.0000266,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -184,7 +179,7 @@
       {
         "id": "https://openalex.org/T12097",
         "display_name": "Aquatic Invertebrate Ecology and Behavior",
-        "value": 0.000007,
+        "value": 0.0000069,
         "subfield": {
           "id": "https://openalex.org/subfields/2303",
           "display_name": "Ecology"
@@ -296,7 +291,7 @@
     },
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-03-02T21:45:40",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -739,9 +734,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1227,9 +1222,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2452,9 +2447,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5073,9 +5068,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6121,9 +6116,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

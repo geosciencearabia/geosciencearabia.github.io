@@ -70,7 +70,6 @@
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
         "count": 4,
-        "score": 0.9997000098228455,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -88,7 +87,6 @@
         "id": "https://openalex.org/T10995",
         "display_name": "Methane Hydrates and Related Phenomena",
         "count": 4,
-        "score": 0.9954000115394592,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -106,7 +104,6 @@
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 3,
-        "score": 0.9973999857902527,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -124,7 +121,6 @@
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
         "count": 3,
-        "score": 0.9968000054359436,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -142,7 +138,6 @@
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
         "count": 2,
-        "score": 0.9941999912261963,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -195,7 +190,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000088,
+        "value": 0.0000087,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -330,7 +325,7 @@
     },
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-03-02T21:45:40",
     "created_date": "2020-10-08T00:00:00"
   },
   "works": [
@@ -1082,8 +1077,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2150,8 +2145,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4466,8 +4461,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality Education"
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "awards": [],
@@ -7206,8 +7201,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality Education"
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "awards": [],
@@ -8628,8 +8623,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -9726,8 +9721,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10554,8 +10549,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11457,8 +11452,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12537,8 +12532,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -13064,8 +13059,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],

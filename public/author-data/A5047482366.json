@@ -42,7 +42,6 @@
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
         "count": 6,
-        "score": 0.9987999796867371,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -60,7 +59,6 @@
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 5,
-        "score": 0.9998000264167786,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -78,7 +76,6 @@
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
         "count": 5,
-        "score": 0.9987999796867371,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -96,7 +93,6 @@
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
         "count": 3,
-        "score": 0.9995999932289124,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -114,7 +110,6 @@
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
         "count": 3,
-        "score": 0.9987000226974487,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -133,7 +128,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000288,
+        "value": 0.0000283,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -148,12 +143,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T12083",
-        "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000248,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "value": 0.0000242,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -165,12 +160,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000242,
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.0000239,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -201,7 +196,7 @@
       {
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
-        "value": 0.0000161,
+        "value": 0.000016,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -302,7 +297,7 @@
     },
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": "2026-02-26T12:20:15",
+    "updated_date": "2026-03-02T21:45:40",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
