@@ -163,7 +163,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "count": 29,
+        "count": 30,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001126,
+        "value": 0.0001115,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001125,
+        "value": 0.0001058,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -267,7 +267,7 @@
       {
         "id": "https://openalex.org/T10765",
         "display_name": "Marine Biology and Ecology Research",
-        "value": 0.0000896,
+        "value": 0.0000881,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -282,26 +282,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000887,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0000876,
+        "value": 0.0000868,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -309,6 +292,23 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000859,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -426,7 +426,7 @@
     },
     "block_key": "a amao",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5027197211",
-    "updated_date": "2026-03-02T21:45:40",
+    "updated_date": "2026-03-03T12:20:50",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1295,16 +1295,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8978,
+      "fwci": 5.0491,
       "has_fulltext": false,
-      "cited_by_count": 39,
+      "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.96064376,
+        "value": 0.96196109,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 98,
         "max": 100
       },
       "biblio": {
@@ -2412,7 +2412,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -2427,7 +2427,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3139,8 +3139,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3734,8 +3734,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -5247,8 +5247,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6033,8 +6033,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -9626,8 +9626,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -12030,8 +12030,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12893,8 +12893,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -14374,6 +14374,722 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4403310698",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
+      "title": "Depositional and diagenetic controls on the reservoir quality of marginal marine sandstones: An example from the Early Devonian subbat member, jauf formation, northwest Saudi Arabia",
+      "display_name": "Depositional and diagenetic controls on the reservoir quality of marginal marine sandstones: An example from the Early Devonian subbat member, jauf formation, northwest Saudi Arabia",
+      "publication_year": 2024,
+      "publication_date": "2024-10-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4403310698",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107147"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2024.107147",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076343814",
+            "display_name": "Hasan Algheryafi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hasan Algheryafi",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Saudi Aramco, Exploration"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, Exploration",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014657720",
+            "display_name": "Abdulwahab Muhammad Bello",
+            "orcid": "https://orcid.org/0000-0002-4637-9883"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulwahab Muhammad Bello",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu O. Amao",
+            "orcid": "https://orcid.org/0000-0001-8203-851X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abduljamiu O. Amao",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053747503",
+            "display_name": "Bandar Alotaibi",
+            "orcid": "https://orcid.org/0000-0001-9956-2027"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bandar Al-Otaibi",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5085007251"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "apc_paid": null,
+      "fwci": 4.2836,
+      "has_fulltext": false,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.9530039,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "170",
+        "issue": null,
+        "first_page": "107147",
+        "last_page": "107147"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8830251693725586
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.8807976245880127
+        },
+        {
+          "id": "https://openalex.org/keywords/devonian",
+          "display_name": "Devonian",
+          "score": 0.83194500207901
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8095287084579468
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.537956953048706
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.4483180046081543
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.10955467820167542
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8830251693725586
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.8807976245880127
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.83194500207901
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8095287084579468
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.537956953048706
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4483180046081543
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.10955467820167542
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2024.107147",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 125,
+      "referenced_works": [
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1516566041",
+        "https://openalex.org/W1540632399",
+        "https://openalex.org/W1571804710",
+        "https://openalex.org/W1592669541",
+        "https://openalex.org/W1768373658",
+        "https://openalex.org/W1965701923",
+        "https://openalex.org/W1966101546",
+        "https://openalex.org/W1970347966",
+        "https://openalex.org/W1975890505",
+        "https://openalex.org/W1979768410",
+        "https://openalex.org/W1991540761",
+        "https://openalex.org/W1996133323",
+        "https://openalex.org/W2007652423",
+        "https://openalex.org/W2011307050",
+        "https://openalex.org/W2022517585",
+        "https://openalex.org/W2025474462",
+        "https://openalex.org/W2031952526",
+        "https://openalex.org/W2034744635",
+        "https://openalex.org/W2044514104",
+        "https://openalex.org/W2048327052",
+        "https://openalex.org/W2058684456",
+        "https://openalex.org/W2067261112",
+        "https://openalex.org/W2067628429",
+        "https://openalex.org/W2068558701",
+        "https://openalex.org/W2079375834",
+        "https://openalex.org/W2096402342",
+        "https://openalex.org/W2103809450",
+        "https://openalex.org/W2111867986",
+        "https://openalex.org/W2121586459",
+        "https://openalex.org/W2123607694",
+        "https://openalex.org/W2126799938",
+        "https://openalex.org/W2126963790",
+        "https://openalex.org/W2128118921",
+        "https://openalex.org/W2130520939",
+        "https://openalex.org/W2138023984",
+        "https://openalex.org/W2138092443",
+        "https://openalex.org/W2139326036",
+        "https://openalex.org/W2143252260",
+        "https://openalex.org/W2151557469",
+        "https://openalex.org/W2156373425",
+        "https://openalex.org/W2161960613",
+        "https://openalex.org/W2166270526",
+        "https://openalex.org/W2280864744",
+        "https://openalex.org/W2322715126",
+        "https://openalex.org/W2489797200",
+        "https://openalex.org/W2515402386",
+        "https://openalex.org/W2533883320",
+        "https://openalex.org/W2607039879",
+        "https://openalex.org/W2787387931",
+        "https://openalex.org/W2799066259",
+        "https://openalex.org/W2807735381",
+        "https://openalex.org/W2913321817",
+        "https://openalex.org/W2922019937",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2964097576",
+        "https://openalex.org/W2973226432",
+        "https://openalex.org/W2973443179",
+        "https://openalex.org/W2980217397",
+        "https://openalex.org/W2986862998",
+        "https://openalex.org/W2991480490",
+        "https://openalex.org/W3012276169",
+        "https://openalex.org/W3133851408",
+        "https://openalex.org/W3134191898",
+        "https://openalex.org/W3139134923",
+        "https://openalex.org/W3147913709",
+        "https://openalex.org/W3158594263",
+        "https://openalex.org/W3199164646",
+        "https://openalex.org/W3208396686",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W4220873824",
+        "https://openalex.org/W4229376096",
+        "https://openalex.org/W4237811443",
+        "https://openalex.org/W4281646739",
+        "https://openalex.org/W4281667962",
+        "https://openalex.org/W4284969105",
+        "https://openalex.org/W4290729580",
+        "https://openalex.org/W4291222571",
+        "https://openalex.org/W4307637027",
+        "https://openalex.org/W4307639349",
+        "https://openalex.org/W4313367735",
+        "https://openalex.org/W4319441783",
+        "https://openalex.org/W4378190373",
+        "https://openalex.org/W4382051178",
+        "https://openalex.org/W4385728002",
+        "https://openalex.org/W4387760936",
+        "https://openalex.org/W4388202676",
+        "https://openalex.org/W4388205616",
+        "https://openalex.org/W4388923668",
+        "https://openalex.org/W4395688030",
+        "https://openalex.org/W4395702086",
+        "https://openalex.org/W4399072009",
+        "https://openalex.org/W4399534445",
+        "https://openalex.org/W4400619648",
+        "https://openalex.org/W4401946709",
+        "https://openalex.org/W6617164366",
+        "https://openalex.org/W6630246771",
+        "https://openalex.org/W6632509500",
+        "https://openalex.org/W6635313253",
+        "https://openalex.org/W6641539590",
+        "https://openalex.org/W6645123810",
+        "https://openalex.org/W6667303381",
+        "https://openalex.org/W6674544772",
+        "https://openalex.org/W6675268337",
+        "https://openalex.org/W6676500605",
+        "https://openalex.org/W6678203267",
+        "https://openalex.org/W6678606565",
+        "https://openalex.org/W6679046073",
+        "https://openalex.org/W6680411673",
+        "https://openalex.org/W6680608552",
+        "https://openalex.org/W6681567154",
+        "https://openalex.org/W6682813203",
+        "https://openalex.org/W6684753312",
+        "https://openalex.org/W6695485842",
+        "https://openalex.org/W6728268514",
+        "https://openalex.org/W6748148280",
+        "https://openalex.org/W6769508726",
+        "https://openalex.org/W6770500792",
+        "https://openalex.org/W6791789463",
+        "https://openalex.org/W6801309078",
+        "https://openalex.org/W6853336119",
+        "https://openalex.org/W6858064551",
+        "https://openalex.org/W6865284352",
+        "https://openalex.org/W6869612182",
+        "https://openalex.org/W7023541243"
+      ],
+      "related_works": [
+        "https://openalex.org/W127180227",
+        "https://openalex.org/W2068230831",
+        "https://openalex.org/W2905921901",
+        "https://openalex.org/W2355854193",
+        "https://openalex.org/W2188111331",
+        "https://openalex.org/W2348770016",
+        "https://openalex.org/W2588374251",
+        "https://openalex.org/W2525052636",
+        "https://openalex.org/W1535683959",
+        "https://openalex.org/W2745984289"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-04T09:10:02.777135",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4401946709",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107073",
       "title": "Diagenesis and reservoir quality evolution of estuarine sandstones: Insights from the Cenomanian-Turonian Yolde Formation, northern Benue Trough, NE Nigeria",
@@ -15294,8 +16010,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15472,722 +16188,6 @@
         }
       ],
       "updated_date": "2026-02-03T00:53:05.648605",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4403310698",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
-      "title": "Depositional and diagenetic controls on the reservoir quality of marginal marine sandstones: An example from the Early Devonian subbat member, jauf formation, northwest Saudi Arabia",
-      "display_name": "Depositional and diagenetic controls on the reservoir quality of marginal marine sandstones: An example from the Early Devonian subbat member, jauf formation, northwest Saudi Arabia",
-      "publication_year": 2024,
-      "publication_date": "2024-10-10",
-      "ids": {
-        "openalex": "https://openalex.org/W4403310698",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107147"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2024.107147",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5072935704",
-            "display_name": "Anas Muhammad Salisu",
-            "orcid": "https://orcid.org/0009-0002-6134-0511"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Anas Muhammad Salisu",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5076343814",
-            "display_name": "Hasan Algheryafi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hasan Algheryafi",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Saudi Aramco, Exploration"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Exploration",
-              "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014657720",
-            "display_name": "Abdulwahab Muhammad Bello",
-            "orcid": "https://orcid.org/0000-0002-4637-9883"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulwahab Muhammad Bello",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053747503",
-            "display_name": "Bandar Alotaibi",
-            "orcid": "https://orcid.org/0000-0001-9956-2027"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bandar Al-Otaibi",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5085007251"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "apc_paid": null,
-      "fwci": 4.0023,
-      "has_fulltext": false,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.94690319,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "170",
-        "issue": null,
-        "first_page": "107147",
-        "last_page": "107147"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8830251693725586
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.8807976245880127
-        },
-        {
-          "id": "https://openalex.org/keywords/devonian",
-          "display_name": "Devonian",
-          "score": 0.83194500207901
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.8095287084579468
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.537956953048706
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.4483180046081543
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.10955467820167542
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8830251693725586
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.8807976245880127
-        },
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.83194500207901
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.8095287084579468
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.537956953048706
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4483180046081543
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.10955467820167542
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2024.107147",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.107147",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 125,
-      "referenced_works": [
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1516566041",
-        "https://openalex.org/W1540632399",
-        "https://openalex.org/W1571804710",
-        "https://openalex.org/W1592669541",
-        "https://openalex.org/W1768373658",
-        "https://openalex.org/W1965701923",
-        "https://openalex.org/W1966101546",
-        "https://openalex.org/W1970347966",
-        "https://openalex.org/W1975890505",
-        "https://openalex.org/W1979768410",
-        "https://openalex.org/W1991540761",
-        "https://openalex.org/W1996133323",
-        "https://openalex.org/W2007652423",
-        "https://openalex.org/W2011307050",
-        "https://openalex.org/W2022517585",
-        "https://openalex.org/W2025474462",
-        "https://openalex.org/W2031952526",
-        "https://openalex.org/W2034744635",
-        "https://openalex.org/W2044514104",
-        "https://openalex.org/W2048327052",
-        "https://openalex.org/W2058684456",
-        "https://openalex.org/W2067261112",
-        "https://openalex.org/W2067628429",
-        "https://openalex.org/W2068558701",
-        "https://openalex.org/W2079375834",
-        "https://openalex.org/W2096402342",
-        "https://openalex.org/W2103809450",
-        "https://openalex.org/W2111867986",
-        "https://openalex.org/W2121586459",
-        "https://openalex.org/W2123607694",
-        "https://openalex.org/W2126799938",
-        "https://openalex.org/W2126963790",
-        "https://openalex.org/W2128118921",
-        "https://openalex.org/W2130520939",
-        "https://openalex.org/W2138023984",
-        "https://openalex.org/W2138092443",
-        "https://openalex.org/W2139326036",
-        "https://openalex.org/W2143252260",
-        "https://openalex.org/W2151557469",
-        "https://openalex.org/W2156373425",
-        "https://openalex.org/W2161960613",
-        "https://openalex.org/W2166270526",
-        "https://openalex.org/W2280864744",
-        "https://openalex.org/W2322715126",
-        "https://openalex.org/W2489797200",
-        "https://openalex.org/W2515402386",
-        "https://openalex.org/W2533883320",
-        "https://openalex.org/W2607039879",
-        "https://openalex.org/W2787387931",
-        "https://openalex.org/W2799066259",
-        "https://openalex.org/W2807735381",
-        "https://openalex.org/W2913321817",
-        "https://openalex.org/W2922019937",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2964097576",
-        "https://openalex.org/W2973226432",
-        "https://openalex.org/W2973443179",
-        "https://openalex.org/W2980217397",
-        "https://openalex.org/W2986862998",
-        "https://openalex.org/W2991480490",
-        "https://openalex.org/W3012276169",
-        "https://openalex.org/W3133851408",
-        "https://openalex.org/W3134191898",
-        "https://openalex.org/W3139134923",
-        "https://openalex.org/W3147913709",
-        "https://openalex.org/W3158594263",
-        "https://openalex.org/W3199164646",
-        "https://openalex.org/W3208396686",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W4220873824",
-        "https://openalex.org/W4229376096",
-        "https://openalex.org/W4237811443",
-        "https://openalex.org/W4281646739",
-        "https://openalex.org/W4281667962",
-        "https://openalex.org/W4284969105",
-        "https://openalex.org/W4290729580",
-        "https://openalex.org/W4291222571",
-        "https://openalex.org/W4307637027",
-        "https://openalex.org/W4307639349",
-        "https://openalex.org/W4313367735",
-        "https://openalex.org/W4319441783",
-        "https://openalex.org/W4378190373",
-        "https://openalex.org/W4382051178",
-        "https://openalex.org/W4385728002",
-        "https://openalex.org/W4387760936",
-        "https://openalex.org/W4388202676",
-        "https://openalex.org/W4388205616",
-        "https://openalex.org/W4388923668",
-        "https://openalex.org/W4395688030",
-        "https://openalex.org/W4395702086",
-        "https://openalex.org/W4399072009",
-        "https://openalex.org/W4399534445",
-        "https://openalex.org/W4400619648",
-        "https://openalex.org/W4401946709",
-        "https://openalex.org/W6617164366",
-        "https://openalex.org/W6630246771",
-        "https://openalex.org/W6632509500",
-        "https://openalex.org/W6635313253",
-        "https://openalex.org/W6641539590",
-        "https://openalex.org/W6645123810",
-        "https://openalex.org/W6667303381",
-        "https://openalex.org/W6674544772",
-        "https://openalex.org/W6675268337",
-        "https://openalex.org/W6676500605",
-        "https://openalex.org/W6678203267",
-        "https://openalex.org/W6678606565",
-        "https://openalex.org/W6679046073",
-        "https://openalex.org/W6680411673",
-        "https://openalex.org/W6680608552",
-        "https://openalex.org/W6681567154",
-        "https://openalex.org/W6682813203",
-        "https://openalex.org/W6684753312",
-        "https://openalex.org/W6695485842",
-        "https://openalex.org/W6728268514",
-        "https://openalex.org/W6748148280",
-        "https://openalex.org/W6769508726",
-        "https://openalex.org/W6770500792",
-        "https://openalex.org/W6791789463",
-        "https://openalex.org/W6801309078",
-        "https://openalex.org/W6853336119",
-        "https://openalex.org/W6858064551",
-        "https://openalex.org/W6865284352",
-        "https://openalex.org/W6869612182",
-        "https://openalex.org/W7023541243"
-      ],
-      "related_works": [
-        "https://openalex.org/W127180227",
-        "https://openalex.org/W2068230831",
-        "https://openalex.org/W2905921901",
-        "https://openalex.org/W2355854193",
-        "https://openalex.org/W2188111331",
-        "https://openalex.org/W2348770016",
-        "https://openalex.org/W2588374251",
-        "https://openalex.org/W2525052636",
-        "https://openalex.org/W1535683959",
-        "https://openalex.org/W2745984289"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-02-25T23:00:34.991745",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16721,8 +16721,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -20384,8 +20384,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -21663,8 +21663,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -23014,8 +23014,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24528,6 +24528,781 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4412386547",
+      "doi": "https://doi.org/10.1039/d5ta02765a",
+      "title": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
+      "display_name": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4412386547",
+        "doi": "https://doi.org/10.1039/d5ta02765a"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1039/d5ta02765a",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1039/d5ta02765a",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764437742",
+          "display_name": "Journal of Materials Chemistry A",
+          "issn_l": "2050-7488",
+          "issn": [
+            "2050-7488",
+            "2050-7496"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320556",
+          "host_organization_name": "Royal Society of Chemistry",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320556"
+          ],
+          "host_organization_lineage_names": [
+            "Royal Society of Chemistry"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Materials Chemistry A",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071817303",
+            "display_name": "Sobia Dilpazir",
+            "orcid": "https://orcid.org/0000-0002-0495-7294"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sobia Dilpazir",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057002559",
+            "display_name": "Yuda Prima Hardianto",
+            "orcid": "https://orcid.org/0000-0002-8785-0408"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yuda Prima Hardianto",
+          "raw_affiliation_strings": [
+            "Physics Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5047, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5047, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101655110",
+            "display_name": "Muhammad Imran",
+            "orcid": "https://orcid.org/0009-0006-2839-2941"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I194348271",
+              "display_name": "Government College University, Faisalabad",
+              "ror": "https://ror.org/051zgra59",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I194348271"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Imran",
+          "raw_affiliation_strings": [
+            "Department of Chemistry, Government College University, Faisalabad, Pakpattan Road, Sahiwal, Punjab, 57000, Pakistan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry, Government College University, Faisalabad, Pakpattan Road, Sahiwal, Punjab, 57000, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I194348271"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042532738",
+            "display_name": "Mohd Yusuf Khan",
+            "orcid": "https://orcid.org/0000-0002-1199-6232"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohd. Yusuf Khan",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
+            "Materials Science and Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Materials Science and Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067724271",
+            "display_name": "Md. Abdul Aziz",
+            "orcid": "https://orcid.org/0000-0002-1537-2785"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md. Abdul Aziz",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu O. Amao",
+            "orcid": "https://orcid.org/0000-0001-8203-851X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abduljamiu Amao",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5017037187",
+            "display_name": "Abuzar Khan",
+            "orcid": "https://orcid.org/0000-0001-9122-2247"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abuzar Khan",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5017037187"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.07,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.87467387,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "31",
+        "first_page": "25892",
+        "last_page": "25903"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10030",
+        "display_name": "Electrocatalysts for Energy Conversion",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10030",
+          "display_name": "Electrocatalysts for Energy Conversion",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12240",
+          "display_name": "Nanomaterials for catalytic reactions",
+          "score": 0.9973000288009644,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1605",
+            "display_name": "Organic Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12112",
+          "display_name": "Ammonia Synthesis and Nitrogen Reduction",
+          "score": 0.9966999888420105,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1503",
+            "display_name": "Catalysis"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/15",
+            "display_name": "Chemical Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/biomass",
+          "display_name": "Biomass (ecology)",
+          "score": 0.5220877528190613
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-fibers",
+          "display_name": "Carbon fibers",
+          "score": 0.49393993616104126
+        },
+        {
+          "id": "https://openalex.org/keywords/alloy",
+          "display_name": "Alloy",
+          "score": 0.49351561069488525
+        },
+        {
+          "id": "https://openalex.org/keywords/catalysis",
+          "display_name": "Catalysis",
+          "score": 0.4771801233291626
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.3760013282299042
+        },
+        {
+          "id": "https://openalex.org/keywords/pulp-and-paper-industry",
+          "display_name": "Pulp and paper industry",
+          "score": 0.32610395550727844
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.2852967083454132
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.2644807994365692
+        },
+        {
+          "id": "https://openalex.org/keywords/agronomy",
+          "display_name": "Agronomy",
+          "score": 0.21357908844947815
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.17586377263069153
+        },
+        {
+          "id": "https://openalex.org/keywords/metallurgy",
+          "display_name": "Metallurgy",
+          "score": 0.17566466331481934
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.12594816088676453
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.10379520058631897
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.06474778056144714
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C115540264",
+          "wikidata": "https://www.wikidata.org/wiki/Q2945560",
+          "display_name": "Biomass (ecology)",
+          "level": 2,
+          "score": 0.5220877528190613
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.49393993616104126
+        },
+        {
+          "id": "https://openalex.org/C2780026712",
+          "wikidata": "https://www.wikidata.org/wiki/Q37756",
+          "display_name": "Alloy",
+          "level": 2,
+          "score": 0.49351561069488525
+        },
+        {
+          "id": "https://openalex.org/C161790260",
+          "wikidata": "https://www.wikidata.org/wiki/Q82264",
+          "display_name": "Catalysis",
+          "level": 2,
+          "score": 0.4771801233291626
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3760013282299042
+        },
+        {
+          "id": "https://openalex.org/C528095902",
+          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
+          "display_name": "Pulp and paper industry",
+          "level": 1,
+          "score": 0.32610395550727844
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.2852967083454132
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.2644807994365692
+        },
+        {
+          "id": "https://openalex.org/C6557445",
+          "wikidata": "https://www.wikidata.org/wiki/Q173113",
+          "display_name": "Agronomy",
+          "level": 1,
+          "score": 0.21357908844947815
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.17586377263069153
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0.17566466331481934
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.12594816088676453
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.10379520058631897
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.06474778056144714
+        },
+        {
+          "id": "https://openalex.org/C104779481",
+          "wikidata": "https://www.wikidata.org/wiki/Q50707",
+          "display_name": "Composite number",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1039/d5ta02765a",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1039/d5ta02765a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764437742",
+            "display_name": "Journal of Materials Chemistry A",
+            "issn_l": "2050-7488",
+            "issn": [
+              "2050-7488",
+              "2050-7496"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320556",
+            "host_organization_name": "Royal Society of Chemistry",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320556"
+            ],
+            "host_organization_lineage_names": [
+              "Royal Society of Chemistry"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Materials Chemistry A",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W1989715904",
+        "https://openalex.org/W2033507953",
+        "https://openalex.org/W2228940409",
+        "https://openalex.org/W2293360780",
+        "https://openalex.org/W2518287568",
+        "https://openalex.org/W2580932403",
+        "https://openalex.org/W2757183262",
+        "https://openalex.org/W2781536405",
+        "https://openalex.org/W2789648932",
+        "https://openalex.org/W2793115313",
+        "https://openalex.org/W2810542220",
+        "https://openalex.org/W2886308237",
+        "https://openalex.org/W2890961624",
+        "https://openalex.org/W2906792404",
+        "https://openalex.org/W2948468694",
+        "https://openalex.org/W3000720923",
+        "https://openalex.org/W3015831555",
+        "https://openalex.org/W3026794793",
+        "https://openalex.org/W3027891319",
+        "https://openalex.org/W3037415921",
+        "https://openalex.org/W3040592396",
+        "https://openalex.org/W3087954963",
+        "https://openalex.org/W3092377708",
+        "https://openalex.org/W3093682767",
+        "https://openalex.org/W3124690154",
+        "https://openalex.org/W3133662571",
+        "https://openalex.org/W3158925200",
+        "https://openalex.org/W3169220044",
+        "https://openalex.org/W3175357804",
+        "https://openalex.org/W3192688886",
+        "https://openalex.org/W3208623964",
+        "https://openalex.org/W4205433788",
+        "https://openalex.org/W4210458441",
+        "https://openalex.org/W4210878923",
+        "https://openalex.org/W4283207981",
+        "https://openalex.org/W4296903764",
+        "https://openalex.org/W4307180132",
+        "https://openalex.org/W4309247691",
+        "https://openalex.org/W4310020998",
+        "https://openalex.org/W4366606539",
+        "https://openalex.org/W4367315588",
+        "https://openalex.org/W4387342318",
+        "https://openalex.org/W4388706337",
+        "https://openalex.org/W4391908113",
+        "https://openalex.org/W4392119334",
+        "https://openalex.org/W4392238969",
+        "https://openalex.org/W4392395886",
+        "https://openalex.org/W4394629630",
+        "https://openalex.org/W4395109925",
+        "https://openalex.org/W4399176480",
+        "https://openalex.org/W4399699147",
+        "https://openalex.org/W4400614606",
+        "https://openalex.org/W4400658332",
+        "https://openalex.org/W4400905267",
+        "https://openalex.org/W4401808265",
+        "https://openalex.org/W4402635829",
+        "https://openalex.org/W4402851665",
+        "https://openalex.org/W4402922726"
+      ],
+      "related_works": [
+        "https://openalex.org/W2092275170",
+        "https://openalex.org/W2383621719",
+        "https://openalex.org/W3193749472",
+        "https://openalex.org/W1967978480",
+        "https://openalex.org/W1974837029",
+        "https://openalex.org/W2760087092",
+        "https://openalex.org/W4281624531",
+        "https://openalex.org/W2347907208",
+        "https://openalex.org/W2371671355",
+        "https://openalex.org/W2043114582"
+      ],
+      "abstract_inverted_index": {
+        "Sustainable": [
+          0
+        ],
+        "energy": [
+          1
+        ],
+        "solutions": [
+          2
+        ],
+        "demand": [
+          3
+        ],
+        "efficient": [
+          4
+        ],
+        "electrocatalysts": [
+          5
+        ],
+        "for": [
+          6
+        ],
+        "hydrogen": [
+          7
+        ],
+        "and": [
+          8
+        ],
+        "oxygen": [
+          9
+        ],
+        "evolution": [
+          10
+        ],
+        "reactions.": [
+          11
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-03-04T09:10:02.777135",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4292403343",
       "doi": "https://doi.org/10.47894/mpal.62.3.01",
       "title": "Diversity of foraminifera in a shallow restricted lagoon in Bahrain",
@@ -24869,8 +25644,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -26996,8 +27771,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29934,8 +30709,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30579,8 +31354,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -31129,8 +31904,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33424,8 +34199,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -33872,11 +34647,11 @@
         "currency": "USD",
         "value_usd": 600
       },
-      "fwci": 2.1737,
+      "fwci": 2.174,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.86395145,
+        "value": 0.86397688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34337,7 +35112,657 @@
         "https://openalex.org/W2028908489",
         "https://openalex.org/W4220695597"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "1": [
+          122
+        ],
+        "12": [
+          100
+        ],
+        "18": [
+          102
+        ],
+        "24": [
+          120
+        ],
+        "28": [
+          128
+        ],
+        "414": [
+          117
+        ],
+        "The": [
+          0,
+          178
+        ],
+        "production": [
+          1
+        ],
+        "of": [
+          2,
+          9,
+          18,
+          43,
+          64,
+          69,
+          86,
+          95,
+          142,
+          149,
+          182,
+          205,
+          214,
+          222,
+          250,
+          269,
+          284,
+          288
+        ],
+        "Portland": [
+          3
+        ],
+        "cement": [
+          4,
+          20,
+          44,
+          54,
+          79,
+          150,
+          215
+        ],
+        "is": [
+          5
+        ],
+        "a": [
+          6,
+          19,
+          260
+        ],
+        "significant": [
+          7
+        ],
+        "source": [
+          8
+        ],
+        "carbon": [
+          10,
+          24,
+          30,
+          52,
+          59,
+          227,
+          245
+        ],
+        "emission": [
+          11
+        ],
+        "into": [
+          12
+        ],
+        "the": [
+          13,
+          16,
+          41,
+          58,
+          83,
+          131,
+          152,
+          175,
+          193,
+          273
+        ],
+        "atmosphere.": [
+          14
+        ],
+        "Therefore,": [
+          15
+        ],
+        "utilization": [
+          17
+        ],
+        "byproduct": [
+          21
+        ],
+        "to": [
+          22,
+          29,
+          110,
+          207,
+          266,
+          275
+        ],
+        "enhance": [
+          23
+        ],
+        "sequestration": [
+          25,
+          247
+        ],
+        "in": [
+          26,
+          82,
+          135,
+          158,
+          174,
+          279
+        ],
+        "concrete": [
+          27,
+          65,
+          89,
+          270,
+          281
+        ],
+        "contributes": [
+          28
+        ],
+        "and": [
+          31,
+          97,
+          119,
+          124,
+          166,
+          169,
+          195,
+          199,
+          210
+        ],
+        "waste": [
+          32,
+          50
+        ],
+        "cycling,": [
+          33
+        ],
+        "thus": [
+          34
+        ],
+        "promotes": [
+          35
+        ],
+        "cleaner": [
+          36
+        ],
+        "production.": [
+          37
+        ],
+        "This": [
+          38
+        ],
+        "study": [
+          39
+        ],
+        "evaluated": [
+          40
+        ],
+        "impact": [
+          42
+        ],
+        "kiln": [
+          45
+        ],
+        "dust": [
+          46
+        ],
+        "(CKD),": [
+          47
+        ],
+        "an": [
+          48,
+          186
+        ],
+        "industrial": [
+          49
+        ],
+        "from": [
+          51
+        ],
+        "dioxide-generating": [
+          53
+        ],
+        "manufacturing": [
+          55
+        ],
+        "process,": [
+          56
+        ],
+        "on": [
+          57
+        ],
+        "dioxide": [
+          60,
+          228,
+          246
+        ],
+        "(CO2)": [
+          61
+        ],
+        "uptake": [
+          62,
+          155,
+          181
+        ],
+        "characteristics": [
+          63
+        ],
+        "mixtures.": [
+          66,
+          144,
+          177
+        ],
+        "Two": [
+          67
+        ],
+        "variants": [
+          68,
+          202
+        ],
+        "CKD": [
+          70,
+          162,
+          171,
+          201,
+          254,
+          257
+        ],
+        "having": [
+          71
+        ],
+        "remarkably": [
+          72
+        ],
+        "different": [
+          73
+        ],
+        "fineness": [
+          74
+        ],
+        "were": [
+          75,
+          108,
+          138
+        ],
+        "individually": [
+          76
+        ],
+        "used": [
+          77
+        ],
+        "as": [
+          78,
+          147,
+          259
+        ],
+        "replacement": [
+          80
+        ],
+        "(0–60%)": [
+          81
+        ],
+        "mortar": [
+          84,
+          106
+        ],
+        "phase": [
+          85
+        ],
+        "two": [
+          87
+        ],
+        "base": [
+          88
+        ],
+        "mixtures": [
+          90,
+          137,
+          159,
+          184,
+          196,
+          219
+        ],
+        "at": [
+          91,
+          116,
+          163,
+          167
+        ],
+        "water-binder": [
+          92
+        ],
+        "ratio": [
+          93
+        ],
+        "(w/b)": [
+          94
+        ],
+        "0.5": [
+          96,
+          223
+        ],
+        "0.425.": [
+          98
+        ],
+        "Following": [
+          99
+        ],
+        "or": [
+          101
+        ],
+        "h": [
+          103
+        ],
+        "in-mold": [
+          104
+        ],
+        "pre-curing,": [
+          105
+        ],
+        "specimens": [
+          107
+        ],
+        "subjected": [
+          109
+        ],
+        "12-h": [
+          111,
+          240
+        ],
+        "accelerated": [
+          112
+        ],
+        "carbonation": [
+          113
+        ],
+        "curing": [
+          114,
+          242
+        ],
+        "(ACC)": [
+          115
+        ],
+        "kPa": [
+          118
+        ],
+        "±": [
+          121
+        ],
+        "℃,": [
+          123
+        ],
+        "then": [
+          125
+        ],
+        "moist-cured": [
+          126
+        ],
+        "until": [
+          127
+        ],
+        "days.": [
+          129
+        ],
+        "Generally,": [
+          130
+        ],
+        "total": [
+          132
+        ],
+        "CO2": [
+          133,
+          154,
+          180,
+          204
+        ],
+        "uptakes": [
+          134
+        ],
+        "CKD-modified": [
+          136,
+          183
+        ],
+        "less": [
+          139
+        ],
+        "than": [
+          140,
+          173,
+          229
+        ],
+        "those": [
+          141
+        ],
+        "control": [
+          143,
+          176,
+          194
+        ],
+        "However,": [
+          145
+        ],
+        "expressed": [
+          146
+        ],
+        "percentage": [
+          148
+        ],
+        "content,": [
+          151,
+          216
+        ],
+        "‘relative’": [
+          153
+        ],
+        "was": [
+          156,
+          237
+        ],
+        "higher": [
+          157,
+          164
+        ],
+        "incorporating": [
+          160
+        ],
+        "finer-grained": [
+          161
+        ],
+        "w/b": [
+          165,
+          221,
+          231
+        ],
+        "low": [
+          168,
+          285
+        ],
+        "high": [
+          170
+        ],
+        "content": [
+          172
+        ],
+        "relative": [
+          179
+        ],
+        "exhibited": [
+          185
+        ],
+        "inverse": [
+          187
+        ],
+        "correlation": [
+          188
+        ],
+        "with": [
+          189,
+          220,
+          253
+        ],
+        "pre-ACC": [
+          190,
+          241
+        ],
+        "strength.": [
+          191
+        ],
+        "Further,": [
+          192
+        ],
+        "containing": [
+          197
+        ],
+        "fine": [
+          198
+        ],
+        "coarse": [
+          200
+        ],
+        "sequestered": [
+          203,
+          224
+        ],
+        "up": [
+          206
+        ],
+        "11%,": [
+          208
+        ],
+        "14%": [
+          209
+        ],
+        "8%": [
+          211
+        ],
+        "by": [
+          212
+        ],
+        "mass": [
+          213
+        ],
+        "respectively.": [
+          217
+        ],
+        "Additionally,": [
+          218
+        ],
+        "significantly": [
+          225
+        ],
+        "more": [
+          226
+        ],
+        "0.425": [
+          230
+        ],
+        "counterparts.": [
+          232
+        ],
+        "In": [
+          233
+        ],
+        "all": [
+          234
+        ],
+        "cases,": [
+          235
+        ],
+        "it": [
+          236
+        ],
+        "found": [
+          238
+        ],
+        "that": [
+          239
+        ],
+        "offered": [
+          243
+        ],
+        "better": [
+          244
+        ],
+        "performance.": [
+          248
+        ],
+        "Values": [
+          249
+        ],
+        "pH": [
+          251
+        ],
+        "increased": [
+          252
+        ],
+        "content.": [
+          255
+        ],
+        "Thus,": [
+          256
+        ],
+        "served": [
+          258
+        ],
+        "hyper-alkaline": [
+          261
+        ],
+        "constituent": [
+          262
+        ],
+        "offering": [
+          263
+        ],
+        "viable": [
+          264
+        ],
+        "remedy": [
+          265
+        ],
+        "ACC-induced": [
+          267
+        ],
+        "dealkalization": [
+          268
+        ],
+        "and,": [
+          271
+        ],
+        "consequently,": [
+          272
+        ],
+        "freedom": [
+          274
+        ],
+        "apply": [
+          276
+        ],
+        "full-depth": [
+          277
+        ],
+        "ACC": [
+          278
+        ],
+        "reinforced": [
+          280
+        ],
+        "without": [
+          282
+        ],
+        "concerns": [
+          283
+        ],
+        "corrosion": [
+          286
+        ],
+        "protection": [
+          287
+        ],
+        "embedded": [
+          289
+        ],
+        "rebars.": [
+          290
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -34360,7 +35785,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35260,8 +36685,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36150,8 +37575,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -38447,11 +39872,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.7218,
+      "fwci": 6.7239,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95925747,
+        "value": 0.9592722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -39035,8 +40460,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -39170,7 +40595,635 @@
         "https://openalex.org/W2323144091",
         "https://openalex.org/W2169921515"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          176,
+          205
+        ],
+        "Toarcian": [
+          1,
+          106,
+          282
+        ],
+        "Oceanic": [
+          2
+        ],
+        "Anoxic": [
+          3
+        ],
+        "Event": [
+          4
+        ],
+        "(T-OAE)": [
+          5
+        ],
+        "and": [
+          6,
+          21,
+          25,
+          89,
+          117,
+          148,
+          169,
+          238,
+          265,
+          283
+        ],
+        "its": [
+          7
+        ],
+        "corresponding": [
+          8
+        ],
+        "Carbon": [
+          9
+        ],
+        "Isotope": [
+          10
+        ],
+        "Excursion": [
+          11
+        ],
+        "(CIE)": [
+          12
+        ],
+        "have": [
+          13,
+          74,
+          183,
+          254
+        ],
+        "been": [
+          14,
+          75
+        ],
+        "reported": [
+          15,
+          57
+        ],
+        "widely": [
+          16
+        ],
+        "across": [
+          17
+        ],
+        "the": [
+          18,
+          30,
+          34,
+          38,
+          41,
+          46,
+          53,
+          87,
+          105,
+          111,
+          114,
+          126,
+          143,
+          152,
+          157,
+          165,
+          173,
+          186,
+          192,
+          210,
+          217,
+          223,
+          232,
+          236,
+          240,
+          249,
+          258,
+          262,
+          278,
+          281
+        ],
+        "Tethyan": [
+          19
+        ],
+        "region": [
+          20
+        ],
+        "globally.": [
+          22,
+          175
+        ],
+        "In": [
+          23,
+          95
+        ],
+        "Arabia,": [
+          24
+        ],
+        "based": [
+          26
+        ],
+        "on": [
+          27,
+          104
+        ],
+        "ammonite": [
+          28
+        ],
+        "dating,": [
+          29
+        ],
+        "time": [
+          31,
+          285
+        ],
+        "window": [
+          32
+        ],
+        "of": [
+          33,
+          40,
+          45,
+          52,
+          91,
+          113,
+          120,
+          129,
+          159,
+          167,
+          178,
+          194,
+          213,
+          235,
+          242,
+          261,
+          271
+        ],
+        "T-OAE": [
+          35,
+          174,
+          224
+        ],
+        "coincided": [
+          36,
+          163
+        ],
+        "with": [
+          37,
+          164,
+          277
+        ],
+        "deposition": [
+          39,
+          158,
+          189
+        ],
+        "reddish": [
+          42
+        ],
+        "siliciclastic": [
+          43,
+          245
+        ],
+        "unit": [
+          44
+        ],
+        "Marrat": [
+          47,
+          107,
+          160,
+          188
+        ],
+        "Formation.": [
+          48
+        ],
+        "However,": [
+          49
+        ],
+        "no": [
+          50
+        ],
+        "evidence": [
+          51
+        ],
+        "T-OAE/CIE": [
+          54,
+          122
+        ],
+        "was": [
+          55,
+          102
+        ],
+        "ever": [
+          56
+        ],
+        "from": [
+          58
+        ],
+        "Arabia": [
+          59
+        ],
+        "because": [
+          60
+        ],
+        "these": [
+          61,
+          71
+        ],
+        "red": [
+          62,
+          72,
+          161,
+          246
+        ],
+        "beds": [
+          63,
+          73,
+          162,
+          247
+        ],
+        "were": [
+          64
+        ],
+        "previously": [
+          65
+        ],
+        "interpreted": [
+          66,
+          181
+        ],
+        "as": [
+          67,
+          77
+        ],
+        "continental": [
+          68
+        ],
+        "deposits.": [
+          69
+        ],
+        "Recently,": [
+          70
+        ],
+        "recognized": [
+          76
+        ],
+        "shallow": [
+          78,
+          139,
+          243
+        ],
+        "marine": [
+          79,
+          141,
+          203,
+          244
+        ],
+        "deposits": [
+          80
+        ],
+        "which": [
+          81
+        ],
+        "opened": [
+          82
+        ],
+        "an": [
+          83
+        ],
+        "opportunity": [
+          84
+        ],
+        "to": [
+          85,
+          109,
+          172,
+          182,
+          191,
+          199
+        ],
+        "assess": [
+          86
+        ],
+        "occurrence": [
+          88
+        ],
+        "expression": [
+          90
+        ],
+        "T-OAE-CIE": [
+          92
+        ],
+        "in": [
+          93,
+          123,
+          151,
+          216,
+          248,
+          280
+        ],
+        "Arabia.": [
+          94,
+          124
+        ],
+        "this": [
+          96,
+          252
+        ],
+        "study,": [
+          97
+        ],
+        "a": [
+          98,
+          138
+        ],
+        "multiproxy": [
+          99
+        ],
+        "geochemical": [
+          100
+        ],
+        "characterization": [
+          101
+        ],
+        "performed": [
+          103
+        ],
+        "Formation": [
+          108
+        ],
+        "infer": [
+          110
+        ],
+        "chemistry": [
+          112
+        ],
+        "paleowater": [
+          115
+        ],
+        "column": [
+          116
+        ],
+        "identify": [
+          118
+        ],
+        "intervals": [
+          119
+        ],
+        "possible": [
+          121,
+          211
+        ],
+        "While": [
+          125
+        ],
+        "low": [
+          127
+        ],
+        "concentrations": [
+          128
+        ],
+        "redox-sensitive": [
+          130
+        ],
+        "elements": [
+          131
+        ],
+        "(Mo,": [
+          132
+        ],
+        "U,": [
+          133
+        ],
+        "V,": [
+          134
+        ],
+        "Cr)": [
+          135
+        ],
+        "may": [
+          136,
+          225
+        ],
+        "indicate": [
+          137
+        ],
+        "oxic": [
+          140,
+          202
+        ],
+        "settings,": [
+          142
+        ],
+        "coupled": [
+          144
+        ],
+        "negative": [
+          145
+        ],
+        "δ<sup>13</sup>C<sub>organic</sub>": [
+          146
+        ],
+        "excursion": [
+          147
+        ],
+        "apparent": [
+          149
+        ],
+        "increase": [
+          150
+        ],
+        "chemical": [
+          153
+        ],
+        "weathering": [
+          154
+        ],
+        "suggests": [
+          155
+        ],
+        "that": [
+          156
+        ],
+        "development": [
+          166,
+          212
+        ],
+        "T-CIE": [
+          168,
+          237,
+          263
+        ],
+        "possibly": [
+          170
+        ],
+        "time-equivalent": [
+          171
+        ],
+        "origin": [
+          177,
+          241
+        ],
+        "reddening": [
+          179
+        ],
+        "is": [
+          180
+        ],
+        "occurred": [
+          184
+        ],
+        "during": [
+          185
+        ],
+        "middle": [
+          187
+        ],
+        "due": [
+          190
+        ],
+        "stabilization": [
+          193
+        ],
+        "unstable": [
+          195
+        ],
+        "hydrous": [
+          196
+        ],
+        "iron": [
+          197
+        ],
+        "oxides": [
+          198
+        ],
+        "hematite": [
+          200
+        ],
+        "under": [
+          201
+        ],
+        "conditions.": [
+          204
+        ],
+        "proposed": [
+          206
+        ],
+        "model": [
+          207
+        ],
+        "further": [
+          208
+        ],
+        "indicates": [
+          209
+        ],
+        "source": [
+          214,
+          274
+        ],
+        "rocks": [
+          215,
+          275
+        ],
+        "deep,": [
+          218
+        ],
+        "anoxic": [
+          219
+        ],
+        "environment": [
+          220
+        ],
+        "counterpart": [
+          221
+        ],
+        "where": [
+          222
+        ],
+        "be": [
+          226
+        ],
+        "expressed.": [
+          227
+        ],
+        "Since": [
+          228
+        ],
+        "our": [
+          229
+        ],
+        "study": [
+          230
+        ],
+        "documents": [
+          231
+        ],
+        "first": [
+          233
+        ],
+        "record": [
+          234
+        ],
+        "discuss": [
+          239
+        ],
+        "Arabian": [
+          250
+        ],
+        "Plate,": [
+          251
+        ],
+        "will": [
+          253
+        ],
+        "significant": [
+          255
+        ],
+        "implications": [
+          256
+        ],
+        "for": [
+          257,
+          266
+        ],
+        "overall": [
+          259
+        ],
+        "understanding": [
+          260
+        ],
+        "globally": [
+          264
+        ],
+        "hydrocarbon": [
+          267
+        ],
+        "exploration": [
+          268
+        ],
+        "through": [
+          269
+        ],
+        "realizations": [
+          270
+        ],
+        "potential": [
+          272
+        ],
+        "new": [
+          273
+        ],
+        "associated": [
+          276
+        ],
+        "OAEs": [
+          279
+        ],
+        "other": [
+          284
+        ],
+        "intervals.": [
+          286
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -39189,7 +41242,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39799,8 +41852,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41362,8 +43415,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -42023,8 +44076,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -42831,8 +44884,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44325,8 +46378,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -47336,8 +49389,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -49816,11 +51869,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.0139,
+      "fwci": 1.0216,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.74836256,
+        "value": 0.75057427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50312,7 +52365,518 @@
         "https://openalex.org/W2386857624",
         "https://openalex.org/W2365529261"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "50": [
+          159
+        ],
+        "The": [
+          0,
+          24,
+          106,
+          125,
+          189
+        ],
+        "occurrence": [
+          1
+        ],
+        "of": [
+          2,
+          9,
+          26,
+          31,
+          41,
+          78,
+          111,
+          143,
+          192,
+          214,
+          223
+        ],
+        "wellbore": [
+          3,
+          225
+        ],
+        "mechanical": [
+          4,
+          64,
+          107,
+          141,
+          221
+        ],
+        "failure": [
+          5,
+          101
+        ],
+        "is": [
+          6,
+          57,
+          130
+        ],
+        "a": [
+          7,
+          42,
+          85,
+          131,
+          203
+        ],
+        "consequence": [
+          8
+        ],
+        "the": [
+          10,
+          35,
+          39,
+          50,
+          61,
+          76,
+          140,
+          144,
+          166,
+          186,
+          197,
+          212,
+          224
+        ],
+        "interaction": [
+          11
+        ],
+        "among": [
+          12
+        ],
+        "factors": [
+          13
+        ],
+        "such": [
+          14
+        ],
+        "as": [
+          15,
+          84,
+          202
+        ],
+        "in": [
+          16,
+          38,
+          90,
+          170,
+          173,
+          206
+        ],
+        "situ": [
+          17
+        ],
+        "stress,": [
+          18
+        ],
+        "rock": [
+          19,
+          62,
+          114,
+          135,
+          167
+        ],
+        "strength,": [
+          20
+        ],
+        "and": [
+          21,
+          54,
+          68,
+          100,
+          104,
+          108,
+          158,
+          178,
+          228
+        ],
+        "engineering": [
+          22
+        ],
+        "procedures.": [
+          23
+        ],
+        "process": [
+          25
+        ],
+        "hydrocarbons": [
+          27
+        ],
+        "production,": [
+          28
+        ],
+        "causing": [
+          29
+        ],
+        "reduction": [
+          30
+        ],
+        "pore": [
+          32
+        ],
+        "pressure,": [
+          33
+        ],
+        "alters": [
+          34
+        ],
+        "effective": [
+          36,
+          133,
+          217
+        ],
+        "stresses": [
+          37,
+          99
+        ],
+        "vicinity": [
+          40
+        ],
+        "borehole,": [
+          43
+        ],
+        "leading": [
+          44
+        ],
+        "to": [
+          45,
+          59,
+          74,
+          93,
+          97,
+          182,
+          185,
+          211
+        ],
+        "borehole": [
+          46
+        ],
+        "instability": [
+          47
+        ],
+        "issues.": [
+          48
+        ],
+        "Estimating": [
+          49
+        ],
+        "rocks'": [
+          51
+        ],
+        "elastic": [
+          52,
+          179
+        ],
+        "modulus": [
+          53,
+          180
+        ],
+        "compressive": [
+          55,
+          175
+        ],
+        "strength": [
+          56,
+          142,
+          176
+        ],
+        "essential": [
+          58
+        ],
+        "comprehend": [
+          60
+        ],
+        "matrix's": [
+          63
+        ],
+        "response": [
+          65
+        ],
+        "during": [
+          66,
+          102,
+          226
+        ],
+        "drilling": [
+          67,
+          103,
+          227
+        ],
+        "production": [
+          69
+        ],
+        "operations.": [
+          70
+        ],
+        "This": [
+          71,
+          209
+        ],
+        "study": [
+          72
+        ],
+        "aimed": [
+          73
+        ],
+        "assess": [
+          75
+        ],
+        "practicality": [
+          77
+        ],
+        "Diammonium": [
+          79
+        ],
+        "Hydrogen": [
+          80
+        ],
+        "Phosphate": [
+          81
+        ],
+        "(DAP)": [
+          82
+        ],
+        "application": [
+          83
+        ],
+        "chemical": [
+          86
+        ],
+        "for": [
+          87,
+          219
+        ],
+        "strengthening": [
+          88
+        ],
+        "chalk": [
+          89,
+          113
+        ],
+        "hydrocarbon": [
+          91,
+          207
+        ],
+        "reservoirs,": [
+          92
+        ],
+        "make": [
+          94
+        ],
+        "it": [
+          95
+        ],
+        "resistant": [
+          96
+        ],
+        "high": [
+          98
+        ],
+        "production.": [
+          105,
+          229
+        ],
+        "physical": [
+          109
+        ],
+        "properties": [
+          110
+        ],
+        "Austin": [
+          112
+        ],
+        "samples": [
+          115
+        ],
+        "treated": [
+          116,
+          152
+        ],
+        "with": [
+          117
+        ],
+        "DAP": [
+          118,
+          129,
+          163,
+          198
+        ],
+        "under": [
+          119
+        ],
+        "mimicked": [
+          120
+        ],
+        "reservoir": [
+          121
+        ],
+        "conditions": [
+          122
+        ],
+        "were": [
+          123
+        ],
+        "studied.": [
+          124
+        ],
+        "results": [
+          126
+        ],
+        "showed": [
+          127,
+          161
+        ],
+        "that": [
+          128,
+          138,
+          162,
+          196
+        ],
+        "highly": [
+          132
+        ],
+        "carbonate": [
+          134
+        ],
+        "consolidating": [
+          136
+        ],
+        "agent": [
+          137,
+          205
+        ],
+        "improves": [
+          139
+        ],
+        "chalk.": [
+          145
+        ],
+        "Compressive": [
+          146
+        ],
+        "test": [
+          147
+        ],
+        "measurements": [
+          148
+        ],
+        "conducted": [
+          149
+        ],
+        "on": [
+          150
+        ],
+        "rocks": [
+          151
+        ],
+        "at": [
+          153
+        ],
+        "two": [
+          154
+        ],
+        "different": [
+          155
+        ],
+        "temperatures": [
+          156
+        ],
+        "(ambient": [
+          157
+        ],
+        "°C)": [
+          160
+        ],
+        "effectively": [
+          164
+        ],
+        "strengthened": [
+          165
+        ],
+        "matrix,": [
+          168
+        ],
+        "resulting": [
+          169
+        ],
+        "an": [
+          171
+        ],
+        "increase": [
+          172
+        ],
+        "its": [
+          174
+        ],
+        "(22-24%)": [
+          177
+        ],
+        "(up": [
+          181
+        ],
+        "115%)": [
+          183
+        ],
+        "compared": [
+          184
+        ],
+        "untreated": [
+          187
+        ],
+        "sample.": [
+          188
+        ],
+        "favorable": [
+          190
+        ],
+        "outcomes": [
+          191
+        ],
+        "this": [
+          193
+        ],
+        "research": [
+          194
+        ],
+        "suggest": [
+          195
+        ],
+        "solution": [
+          199
+        ],
+        "holds": [
+          200
+        ],
+        "promise": [
+          201
+        ],
+        "consolidation": [
+          204
+        ],
+        "reservoirs.": [
+          208
+        ],
+        "contributes": [
+          210
+        ],
+        "advancement": [
+          213
+        ],
+        "knowledge": [
+          215
+        ],
+        "regarding": [
+          216
+        ],
+        "strategies": [
+          218
+        ],
+        "mitigating": [
+          220
+        ],
+        "failures": [
+          222
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -50323,7 +52887,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-02T08:37:19.008085",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53434,781 +55998,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4412386547",
-      "doi": "https://doi.org/10.1039/d5ta02765a",
-      "title": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
-      "display_name": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
-      "publication_year": 2025,
-      "publication_date": "2025-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4412386547",
-        "doi": "https://doi.org/10.1039/d5ta02765a"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1039/d5ta02765a",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1039/d5ta02765a",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764437742",
-          "display_name": "Journal of Materials Chemistry A",
-          "issn_l": "2050-7488",
-          "issn": [
-            "2050-7488",
-            "2050-7496"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320556",
-          "host_organization_name": "Royal Society of Chemistry",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320556"
-          ],
-          "host_organization_lineage_names": [
-            "Royal Society of Chemistry"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Materials Chemistry A",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5071817303",
-            "display_name": "Sobia Dilpazir",
-            "orcid": "https://orcid.org/0000-0002-0495-7294"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sobia Dilpazir",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057002559",
-            "display_name": "Yuda Prima Hardianto",
-            "orcid": "https://orcid.org/0000-0002-8785-0408"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yuda Prima Hardianto",
-          "raw_affiliation_strings": [
-            "Physics Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5047, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physics Department, King Fahd University of Petroleum & Minerals, KFUPM Box 5047, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101655110",
-            "display_name": "Muhammad Imran",
-            "orcid": "https://orcid.org/0009-0006-2839-2941"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I194348271",
-              "display_name": "Government College University, Faisalabad",
-              "ror": "https://ror.org/051zgra59",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I194348271"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Imran",
-          "raw_affiliation_strings": [
-            "Department of Chemistry, Government College University, Faisalabad, Pakpattan Road, Sahiwal, Punjab, 57000, Pakistan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry, Government College University, Faisalabad, Pakpattan Road, Sahiwal, Punjab, 57000, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I194348271"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5042532738",
-            "display_name": "Mohd Yusuf Khan",
-            "orcid": "https://orcid.org/0000-0002-1199-6232"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohd. Yusuf Khan",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
-            "Materials Science and Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Materials Science and Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067724271",
-            "display_name": "Md. Abdul Aziz",
-            "orcid": "https://orcid.org/0000-0002-1537-2785"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md. Abdul Aziz",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abduljamiu Amao",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5017037187",
-            "display_name": "Abuzar Khan",
-            "orcid": "https://orcid.org/0000-0001-9122-2247"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abuzar Khan",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), Core Research Facilities, King Fahd University of Petroleum & Minerals, Box 5040, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5017037187"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.4943,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.82629316,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "13",
-        "issue": "31",
-        "first_page": "25892",
-        "last_page": "25903"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10030",
-        "display_name": "Electrocatalysts for Energy Conversion",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10030",
-          "display_name": "Electrocatalysts for Energy Conversion",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12240",
-          "display_name": "Nanomaterials for catalytic reactions",
-          "score": 0.9973000288009644,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1605",
-            "display_name": "Organic Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12112",
-          "display_name": "Ammonia Synthesis and Nitrogen Reduction",
-          "score": 0.9966999888420105,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1503",
-            "display_name": "Catalysis"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/15",
-            "display_name": "Chemical Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/biomass",
-          "display_name": "Biomass (ecology)",
-          "score": 0.5220877528190613
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-fibers",
-          "display_name": "Carbon fibers",
-          "score": 0.49393993616104126
-        },
-        {
-          "id": "https://openalex.org/keywords/alloy",
-          "display_name": "Alloy",
-          "score": 0.49351561069488525
-        },
-        {
-          "id": "https://openalex.org/keywords/catalysis",
-          "display_name": "Catalysis",
-          "score": 0.4771801233291626
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.3760013282299042
-        },
-        {
-          "id": "https://openalex.org/keywords/pulp-and-paper-industry",
-          "display_name": "Pulp and paper industry",
-          "score": 0.32610395550727844
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.2852967083454132
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.2644807994365692
-        },
-        {
-          "id": "https://openalex.org/keywords/agronomy",
-          "display_name": "Agronomy",
-          "score": 0.21357908844947815
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.17586377263069153
-        },
-        {
-          "id": "https://openalex.org/keywords/metallurgy",
-          "display_name": "Metallurgy",
-          "score": 0.17566466331481934
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.12594816088676453
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.10379520058631897
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.06474778056144714
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C115540264",
-          "wikidata": "https://www.wikidata.org/wiki/Q2945560",
-          "display_name": "Biomass (ecology)",
-          "level": 2,
-          "score": 0.5220877528190613
-        },
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.49393993616104126
-        },
-        {
-          "id": "https://openalex.org/C2780026712",
-          "wikidata": "https://www.wikidata.org/wiki/Q37756",
-          "display_name": "Alloy",
-          "level": 2,
-          "score": 0.49351561069488525
-        },
-        {
-          "id": "https://openalex.org/C161790260",
-          "wikidata": "https://www.wikidata.org/wiki/Q82264",
-          "display_name": "Catalysis",
-          "level": 2,
-          "score": 0.4771801233291626
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.3760013282299042
-        },
-        {
-          "id": "https://openalex.org/C528095902",
-          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
-          "display_name": "Pulp and paper industry",
-          "level": 1,
-          "score": 0.32610395550727844
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.2852967083454132
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.2644807994365692
-        },
-        {
-          "id": "https://openalex.org/C6557445",
-          "wikidata": "https://www.wikidata.org/wiki/Q173113",
-          "display_name": "Agronomy",
-          "level": 1,
-          "score": 0.21357908844947815
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.17586377263069153
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0.17566466331481934
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.12594816088676453
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.10379520058631897
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.06474778056144714
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1039/d5ta02765a",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1039/d5ta02765a",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764437742",
-            "display_name": "Journal of Materials Chemistry A",
-            "issn_l": "2050-7488",
-            "issn": [
-              "2050-7488",
-              "2050-7496"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320556",
-            "host_organization_name": "Royal Society of Chemistry",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320556"
-            ],
-            "host_organization_lineage_names": [
-              "Royal Society of Chemistry"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Materials Chemistry A",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 58,
-      "referenced_works": [
-        "https://openalex.org/W1989715904",
-        "https://openalex.org/W2033507953",
-        "https://openalex.org/W2228940409",
-        "https://openalex.org/W2293360780",
-        "https://openalex.org/W2518287568",
-        "https://openalex.org/W2580932403",
-        "https://openalex.org/W2757183262",
-        "https://openalex.org/W2781536405",
-        "https://openalex.org/W2789648932",
-        "https://openalex.org/W2793115313",
-        "https://openalex.org/W2810542220",
-        "https://openalex.org/W2886308237",
-        "https://openalex.org/W2890961624",
-        "https://openalex.org/W2906792404",
-        "https://openalex.org/W2948468694",
-        "https://openalex.org/W3000720923",
-        "https://openalex.org/W3015831555",
-        "https://openalex.org/W3026794793",
-        "https://openalex.org/W3027891319",
-        "https://openalex.org/W3037415921",
-        "https://openalex.org/W3040592396",
-        "https://openalex.org/W3087954963",
-        "https://openalex.org/W3092377708",
-        "https://openalex.org/W3093682767",
-        "https://openalex.org/W3124690154",
-        "https://openalex.org/W3133662571",
-        "https://openalex.org/W3158925200",
-        "https://openalex.org/W3169220044",
-        "https://openalex.org/W3175357804",
-        "https://openalex.org/W3192688886",
-        "https://openalex.org/W3208623964",
-        "https://openalex.org/W4205433788",
-        "https://openalex.org/W4210458441",
-        "https://openalex.org/W4210878923",
-        "https://openalex.org/W4283207981",
-        "https://openalex.org/W4296903764",
-        "https://openalex.org/W4307180132",
-        "https://openalex.org/W4309247691",
-        "https://openalex.org/W4310020998",
-        "https://openalex.org/W4366606539",
-        "https://openalex.org/W4367315588",
-        "https://openalex.org/W4387342318",
-        "https://openalex.org/W4388706337",
-        "https://openalex.org/W4391908113",
-        "https://openalex.org/W4392119334",
-        "https://openalex.org/W4392238969",
-        "https://openalex.org/W4392395886",
-        "https://openalex.org/W4394629630",
-        "https://openalex.org/W4395109925",
-        "https://openalex.org/W4399176480",
-        "https://openalex.org/W4399699147",
-        "https://openalex.org/W4400614606",
-        "https://openalex.org/W4400658332",
-        "https://openalex.org/W4400905267",
-        "https://openalex.org/W4401808265",
-        "https://openalex.org/W4402635829",
-        "https://openalex.org/W4402851665",
-        "https://openalex.org/W4402922726"
-      ],
-      "related_works": [
-        "https://openalex.org/W2092275170",
-        "https://openalex.org/W2383621719",
-        "https://openalex.org/W3193749472",
-        "https://openalex.org/W1967978480",
-        "https://openalex.org/W1974837029",
-        "https://openalex.org/W2760087092",
-        "https://openalex.org/W4281624531",
-        "https://openalex.org/W2347907208",
-        "https://openalex.org/W2371671355",
-        "https://openalex.org/W2043114582"
-      ],
-      "abstract_inverted_index": {
-        "Sustainable": [
-          0
-        ],
-        "energy": [
-          1
-        ],
-        "solutions": [
-          2
-        ],
-        "demand": [
-          3
-        ],
-        "efficient": [
-          4
-        ],
-        "electrocatalysts": [
-          5
-        ],
-        "for": [
-          6
-        ],
-        "hydrogen": [
-          7
-        ],
-        "and": [
-          8
-        ],
-        "oxygen": [
-          9
-        ],
-        "evolution": [
-          10
-        ],
-        "reactions.": [
-          11
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4379280029",
       "doi": "https://doi.org/10.2118/214368-ms",
       "title": "High-Temperature DAP Treatments of Carbonate Rocks for Proppant Embedment Severity Mitigation",
@@ -54748,8 +56537,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -55926,11 +57715,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 0.3241,
+      "fwci": 0.3258,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.46926203,
+        "value": 0.47375617,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56303,7 +58092,432 @@
         "https://openalex.org/W2895938959",
         "https://openalex.org/W2010872403"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "17": [
+          148
+        ],
+        "The": [
+          0
+        ],
+        "electrocatalytic": [
+          1
+        ],
+        "conversion": [
+          2,
+          101
+        ],
+        "of": [
+          3,
+          74,
+          80,
+          120,
+          132,
+          143,
+          158,
+          165
+        ],
+        "carbon": [
+          4,
+          17,
+          50
+        ],
+        "dioxide": [
+          5
+        ],
+        "(CO2)": [
+          6
+        ],
+        "into": [
+          7,
+          49
+        ],
+        "valuable": [
+          8
+        ],
+        "chemicals": [
+          9
+        ],
+        "presents": [
+          10
+        ],
+        "a": [
+          11,
+          104,
+          118,
+          154,
+          161
+        ],
+        "promising": [
+          12
+        ],
+        "strategy": [
+          13
+        ],
+        "for": [
+          14,
+          98,
+          145
+        ],
+        "closing": [
+          15
+        ],
+        "the": [
+          16,
+          72,
+          95,
+          99
+        ],
+        "cycle.": [
+          18
+        ],
+        "In": [
+          19,
+          103
+        ],
+        "this": [
+          20,
+          141
+        ],
+        "study,": [
+          21
+        ],
+        "we": [
+          22,
+          88
+        ],
+        "synthesized": [
+          23,
+          58
+        ],
+        "zinc": [
+          24
+        ],
+        "(Zn)": [
+          25
+        ],
+        "catalysts": [
+          26,
+          42,
+          107,
+          139,
+          152
+        ],
+        "through": [
+          27
+        ],
+        "hydrothermal": [
+          28
+        ],
+        "methods": [
+          29
+        ],
+        "using": [
+          30
+        ],
+        "either": [
+          31
+        ],
+        "polyvinylpyrrolidone": [
+          32
+        ],
+        "(PVP)": [
+          33
+        ],
+        "or": [
+          34
+        ],
+        "cetyltrimethylammonium": [
+          35
+        ],
+        "bromide": [
+          36
+        ],
+        "(CTAB)": [
+          37
+        ],
+        "as": [
+          38,
+          94
+        ],
+        "stabilizing": [
+          39
+        ],
+        "agents.": [
+          40
+        ],
+        "These": [
+          41
+        ],
+        "proved": [
+          43
+        ],
+        "highly": [
+          44
+        ],
+        "efficient": [
+          45
+        ],
+        "in": [
+          46
+        ],
+        "converting": [
+          47
+        ],
+        "CO2": [
+          48
+        ],
+        "monoxide": [
+          51
+        ],
+        "(CO).": [
+          52
+        ],
+        "Our": [
+          53
+        ],
+        "findings": [
+          54
+        ],
+        "revealed": [
+          55
+        ],
+        "that": [
+          56,
+          90
+        ],
+        "ZnO,": [
+          57
+        ],
+        "with": [
+          59
+        ],
+        "different": [
+          60
+        ],
+        "morphologies—namely,": [
+          61
+        ],
+        "nanoneedles": [
+          62
+        ],
+        "(ZnO-NN)": [
+          63
+        ],
+        "and": [
+          64,
+          111
+        ],
+        "nanorods": [
+          65
+        ],
+        "(ZnO-NR)—underwent": [
+          66
+        ],
+        "significant": [
+          67
+        ],
+        "electro-reconstruction,": [
+          68
+        ],
+        "ultimately": [
+          69
+        ],
+        "leading": [
+          70
+        ],
+        "to": [
+          71,
+          129,
+          134
+        ],
+        "formation": [
+          73
+        ],
+        "hexagonal": [
+          75
+        ],
+        "metallic": [
+          76,
+          91,
+          135
+        ],
+        "Zn": [
+          77,
+          92
+        ],
+        "crystals,": [
+          78
+        ],
+        "regardless": [
+          79
+        ],
+        "their": [
+          81
+        ],
+        "initial": [
+          82
+        ],
+        "characteristics.": [
+          83
+        ],
+        "Utilizing": [
+          84
+        ],
+        "ex-situ": [
+          85
+        ],
+        "operando": [
+          86
+        ],
+        "techniques,": [
+          87
+        ],
+        "elucidated": [
+          89
+        ],
+        "serves": [
+          93
+        ],
+        "active": [
+          96
+        ],
+        "phase": [
+          97
+        ],
+        "CO2-to-CO": [
+          100
+        ],
+        "process.": [
+          102
+        ],
+        "comparison,": [
+          105
+        ],
+        "ZnO-NN": [
+          106
+        ],
+        "demonstrated": [
+          108
+        ],
+        "superior": [
+          109
+        ],
+        "selectivity": [
+          110,
+          116,
+          157
+        ],
+        "stability,": [
+          112
+        ],
+        "achieving": [
+          113
+        ],
+        "91.3%": [
+          114
+        ],
+        "CO": [
+          115,
+          156
+        ],
+        "at": [
+          117,
+          160
+        ],
+        "potential": [
+          119,
+          164
+        ],
+        "-0.88": [
+          121
+        ],
+        "V": [
+          122,
+          167
+        ],
+        "vs": [
+          123,
+          168
+        ],
+        "RHE": [
+          124
+        ],
+        "(Reversible": [
+          125
+        ],
+        "Hydrogen": [
+          126
+        ],
+        "Electrode)": [
+          127
+        ],
+        "due": [
+          128
+        ],
+        "facile": [
+          130
+        ],
+        "transformation": [
+          131
+        ],
+        "ZnO": [
+          133
+        ],
+        "Zn.": [
+          136
+        ],
+        "Remarkably,": [
+          137
+        ],
+        "these": [
+          138
+        ],
+        "maintained": [
+          140
+        ],
+        "level": [
+          142
+        ],
+        "performance": [
+          144
+        ],
+        "more": [
+          146
+        ],
+        "than": [
+          147
+        ],
+        "hours.": [
+          149
+        ],
+        "Conversely,": [
+          150
+        ],
+        "ZnO-NR": [
+          151
+        ],
+        "exhibited": [
+          153
+        ],
+        "lower": [
+          155
+        ],
+        "62.5%": [
+          159
+        ],
+        "relatively": [
+          162
+        ],
+        "higher": [
+          163
+        ],
+        "-0.98": [
+          166
+        ],
+        "RHE.": [
+          169
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -56314,7 +58528,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57256,8 +59470,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58921,8 +61135,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -62210,8 +64424,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -65225,8 +67439,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -67942,8 +70156,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -68699,8 +70913,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -69901,8 +72115,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -71402,8 +73616,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -74361,8 +76575,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -76389,13 +78603,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/11"
         },
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -77082,8 +79296,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -77776,8 +79990,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -80054,8 +82268,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -83126,8 +85340,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -83782,8 +85996,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -85729,8 +87943,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -88201,8 +90415,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -88631,8 +90845,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -89400,8 +91614,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -90334,8 +92548,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -91215,8 +93429,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -93293,8 +95507,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -94016,8 +96230,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -94931,7 +97145,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60007344,
+        "value": 0.60011296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95338,8 +97552,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -95376,663 +97590,7 @@
         "https://openalex.org/W3083054601",
         "https://openalex.org/W2955233720"
       ],
-      "abstract_inverted_index": {
-        "1": [
-          61,
-          105
-        ],
-        "30": [
-          35
-        ],
-        "1991": [
-          275
-        ],
-        "25000": [
-          42
-        ],
-        "This": [
-          0
-        ],
-        "dataset": [
-          1,
-          137,
-          237
-        ],
-        "supports": [
-          2
-        ],
-        "the": [
-          3,
-          22,
-          45,
-          59,
-          79,
-          113,
-          166,
-          198,
-          209,
-          215,
-          227,
-          232,
-          239,
-          249,
-          252,
-          267,
-          274,
-          283
-        ],
-        "paper": [
-          4
-        ],
-        "entitled": [
-          5
-        ],
-        "\"A": [
-          6
-        ],
-        "baseline": [
-          7,
-          143
-        ],
-        "investigation": [
-          8
-        ],
-        "of": [
-          9,
-          21,
-          71,
-          159,
-          165,
-          211,
-          242,
-          270,
-          288
-        ],
-        "benthic": [
-          10,
-          67,
-          149,
-          190,
-          222,
-          244,
-          290
-        ],
-        "foraminifera": [
-          11,
-          245,
-          291
-        ],
-        "in": [
-          12,
-          18,
-          37,
-          44,
-          128,
-          147,
-          178,
-          193,
-          197,
-          231
-        ],
-        "relation": [
-          13
-        ],
-        "to": [
-          14,
-          75,
-          140,
-          157,
-          226,
-          258
-        ],
-        "marine": [
-          15
-        ],
-        "sediments": [
-          16,
-          216
-        ],
-        "parameters": [
-          17,
-          89
-        ],
-        "western": [
-          19
-        ],
-        "parts": [
-          20
-        ],
-        "Arabian": [
-          23,
-          48
-        ],
-        "Gulf\".": [
-          24
-        ],
-        "Duplicate": [
-          25
-        ],
-        "sediment": [
-          26,
-          84,
-          129,
-          187
-        ],
-        "samples": [
-          27,
-          72
-        ],
-        "(sets": [
-          28
-        ],
-        "A": [
-          29,
-          69
-        ],
-        "and": [
-          30,
-          58,
-          96,
-          115,
-          130,
-          152,
-          161,
-          189,
-          214,
-          220,
-          251,
-          285
-        ],
-        "B)": [
-          31
-        ],
-        "were": [
-          32,
-          98,
-          134
-        ],
-        "collected": [
-          33
-        ],
-        "from": [
-          34,
-          112,
-          201,
-          248
-        ],
-        "stations": [
-          36
-        ],
-        "an": [
-          38
-        ],
-        "area": [
-          39
-        ],
-        "covering": [
-          40
-        ],
-        "approximately": [
-          41
-        ],
-        "km<sup>2</sup>": [
-          43
-        ],
-        "offshore": [
-          46
-        ],
-        "northern": [
-          47
-        ],
-        "Gulf,": [
-          49,
-          250
-        ],
-        "using": [
-          50,
-          117
-        ],
-        "a": [
-          51,
-          142
-        ],
-        "van": [
-          52
-        ],
-        "Veen": [
-          53
-        ],
-        "grab": [
-          54,
-          114
-        ],
-        "(0.1": [
-          55
-        ],
-        "m<sup>2</sup>": [
-          56
-        ],
-        "area)": [
-          57
-        ],
-        "top": [
-          60,
-          104
-        ],
-        "cm": [
-          62,
-          106
-        ],
-        "was": [
-          63,
-          73,
-          107
-        ],
-        "analysed": [
-          64
-        ],
-        "for": [
-          65,
-          83,
-          109,
-          144,
-          266
-        ],
-        "living": [
-          66,
-          243,
-          255,
-          289
-        ],
-        "foraminifera.": [
-          68
-        ],
-        "set": [
-          70,
-          81
-        ],
-        "devoted": [
-          74
-        ],
-        "foraminiferal": [
-          76,
-          110,
-          150,
-          223
-        ],
-        "analysis": [
-          77
-        ],
-        "while": [
-          78
-        ],
-        "other,": [
-          80
-        ],
-        "B,": [
-          82
-        ],
-        "analyses.": [
-          85
-        ],
-        "<i>In": [
-          86
-        ],
-        "situ</i>": [
-          87
-        ],
-        "hydrographical": [
-          88
-        ],
-        "such": [
-          90
-        ],
-        "as": [
-          91,
-          181
-        ],
-        "temperature,": [
-          92
-        ],
-        "salinity,": [
-          93
-        ],
-        "pH,": [
-          94
-        ],
-        "turbidity": [
-          95
-        ],
-        "DO": [
-          97
-        ],
-        "measured": [
-          99
-        ],
-        "at": [
-          100
-        ],
-        "surface": [
-          101
-        ],
-        "waters.": [
-          102
-        ],
-        "The": [
-          103,
-          136
-        ],
-        "subsampled": [
-          108
-        ],
-        "analyses": [
-          111
-        ],
-        "preserved": [
-          116
-        ],
-        "70%": [
-          118
-        ],
-        "ethanol": [
-          119
-        ],
-        "with": [
-          120
-        ],
-        "Rose-Bengal": [
-          121
-        ],
-        "stain.": [
-          122
-        ],
-        "Potentially": [
-          123
-        ],
-        "Toxic": [
-          124
-        ],
-        "Elements": [
-          125
-        ],
-        "(PTE)": [
-          126
-        ],
-        "levels": [
-          127,
-          146
-        ],
-        "grain": [
-          131
-        ],
-        "size": [
-          132
-        ],
-        "distributions": [
-          133
-        ],
-        "analysed.": [
-          135
-        ],
-        "is": [
-          138,
-          280
-        ],
-        "expected": [
-          139
-        ],
-        "provide": [
-          141
-        ],
-        "PTE": [
-          145
-        ],
-        "sediment,": [
-          148
-        ],
-        "communities,": [
-          151
-        ],
-        "identify": [
-          153
-        ],
-        "endemic": [
-          154
-        ],
-        "species": [
-          155,
-          246
-        ],
-        "adapted": [
-          156,
-          225
-        ],
-        "extremes": [
-          158
-        ],
-        "temperature": [
-          160
-        ],
-        "saline": [
-          162
-        ],
-        "conditions": [
-          163,
-          184,
-          230
-        ],
-        "typical": [
-          164
-        ],
-        "Gulf.": [
-          167,
-          233
-        ],
-        "It": [
-          168,
-          262
-        ],
-        "can": [
-          169
-        ],
-        "also": [
-          170,
-          263
-        ],
-        "be": [
-          171
-        ],
-        "used": [
-          172
-        ],
-        "by": [
-          173,
-          282
-        ],
-        "environmental": [
-          174,
-          195,
-          229
-        ],
-        "managers,": [
-          175
-        ],
-        "micropaleotologists,": [
-          176
-        ],
-        "students": [
-          177
-        ],
-        "environmental/geology/marine": [
-          179
-        ],
-        "science": [
-          180
-        ],
-        "reference": [
-          182
-        ],
-        "background": [
-          183,
-          212
-        ],
-        "based": [
-          185
-        ],
-        "on": [
-          186
-        ],
-        "toxicity": [
-          188
-        ],
-        "community": [
-          191,
-          256
-        ],
-        "information": [
-          192
-        ],
-        "revising": [
-          194
-        ],
-        "guidelines": [
-          196
-        ],
-        "region.": [
-          199
-        ],
-        "Data": [
-          200
-        ],
-        "this": [
-          202,
-          236
-        ],
-        "study": [
-          203
-        ],
-        "suggest": [
-          204
-        ],
-        "that": [
-          205
-        ],
-        "PTEs": [
-          206
-        ],
-        "are": [
-          207
-        ],
-        "within": [
-          208
-        ],
-        "range": [
-          210
-        ],
-        "values,": [
-          213
-        ],
-        "support": [
-          217
-        ],
-        "highly": [
-          218
-        ],
-        "diversified": [
-          219
-        ],
-        "stable": [
-          221
-        ],
-        "communities": [
-          224
-        ],
-        "unique": [
-          228
-        ],
-        "To": [
-          234
-        ],
-        "date,": [
-          235
-        ],
-        "documents": [
-          238
-        ],
-        "highest": [
-          240
-        ],
-        "number": [
-          241
-        ],
-        "reported": [
-          247
-        ],
-        "most": [
-          253
-        ],
-        "diverse": [
-          254,
-          284
-        ],
-        "compared": [
-          257
-        ],
-        "all": [
-          259
-        ],
-        "previous": [
-          260
-        ],
-        "studies.": [
-          261
-        ],
-        "provides": [
-          264
-        ],
-        "evidence": [
-          265
-        ],
-        "full": [
-          268
-        ],
-        "recovery": [
-          269
-        ],
-        "areas": [
-          271
-        ],
-        "impacted": [
-          272
-        ],
-        "during": [
-          273
-        ],
-        "Gulf": [
-          276
-        ],
-        "oil": [
-          277
-        ],
-        "spill": [
-          278
-        ],
-        "which": [
-          279
-        ],
-        "evident": [
-          281
-        ],
-        "flourishing": [
-          286
-        ],
-        "assemblages": [
-          287
-        ],
-        "documented.": [
-          292
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -96055,7 +97613,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96634,8 +98192,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -98785,8 +100343,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -99767,8 +101325,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -100228,8 +101786,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.9200000166893005
+          "score": 0.9200000166893005,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -101054,8 +102612,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -101928,8 +103486,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -103246,8 +104804,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -103804,8 +105362,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -104478,8 +106036,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -105576,8 +107134,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -105951,8 +107509,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -106231,8 +107789,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -106634,8 +108192,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -106973,8 +108531,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -107738,8 +109296,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -108317,8 +109875,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -110602,8 +112160,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -112806,8 +114364,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -113537,8 +115095,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -117559,8 +119117,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -119650,8 +121208,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -120697,8 +122255,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -121848,8 +123406,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -122847,8 +124405,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -123334,8 +124892,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -124390,8 +125948,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -125667,8 +127225,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -126300,8 +127858,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -128095,8 +129653,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -129707,8 +131265,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -130169,8 +131727,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -130733,8 +132291,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

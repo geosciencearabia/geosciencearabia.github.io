@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 34,
+        "count": 35,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -187,7 +187,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 23,
+        "count": 24,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -221,7 +221,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "count": 17,
+        "count": 19,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -257,7 +257,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001508,
+        "value": 0.0001503,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -274,7 +274,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000508,
+        "value": 0.0000525,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -289,26 +289,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000488,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000484,
+        "value": 0.0000475,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -323,12 +306,29 @@
         }
       },
       {
-        "id": "https://openalex.org/T10955",
-        "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000371,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000474,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "value": 0.0000375,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -546,7 +546,7 @@
     },
     "block_key": "m al‐husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-03-02T21:45:40",
+    "updated_date": "2026-03-03T12:20:50",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -19864,6 +19864,1052 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2964097576",
+      "doi": "https://doi.org/10.2113/geoarabia110253",
+      "title": "Devonian Jauf Formation, Saudi Arabia: Orbital Second-order Depositional Sequence 28",
+      "display_name": "Devonian Jauf Formation, Saudi Arabia: Orbital Second-order Depositional Sequence 28",
+      "publication_year": 2006,
+      "publication_date": "2006-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2964097576",
+        "doi": "https://doi.org/10.2113/geoarabia110253",
+        "mag": "2964097576"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia110253",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Moujahed Al-Husseini",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5003614553",
+            "display_name": "R. K. Matthews",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robley K. Matthews",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6476,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.77183742,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "2",
+        "first_page": "53",
+        "last_page": "70"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/devonian",
+          "display_name": "Devonian",
+          "score": 0.9385777711868286
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.9273907542228699
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8185222744941711
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.6419922113418579
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6391786932945251
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence",
+          "display_name": "Sequence (biology)",
+          "score": 0.5719171762466431
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.43959182500839233
+        },
+        {
+          "id": "https://openalex.org/keywords/group",
+          "display_name": "Group (periodic table)",
+          "score": 0.41607725620269775
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3505885601043701
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.21920019388198853
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.13651242852210999
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.0653742253780365
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.9385777711868286
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.9273907542228699
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8185222744941711
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.6419922113418579
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6391786932945251
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.5719171762466431
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.43959182500839233
+        },
+        {
+          "id": "https://openalex.org/C2781311116",
+          "wikidata": "https://www.wikidata.org/wiki/Q83306",
+          "display_name": "Group (periodic table)",
+          "level": 2,
+          "score": 0.41607725620269775
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3505885601043701
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.21920019388198853
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.13651242852210999
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.0653742253780365
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia110253",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia110253",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2964097576.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2964097576.grobid-xml"
+      },
+      "referenced_works_count": 29,
+      "referenced_works": [
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1525628619",
+        "https://openalex.org/W1608914262",
+        "https://openalex.org/W1630322587",
+        "https://openalex.org/W1971240109",
+        "https://openalex.org/W1994705921",
+        "https://openalex.org/W2068101248",
+        "https://openalex.org/W2068979390",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2091539779",
+        "https://openalex.org/W2120554062",
+        "https://openalex.org/W2412279685",
+        "https://openalex.org/W2501683605",
+        "https://openalex.org/W2782942463",
+        "https://openalex.org/W2910189912",
+        "https://openalex.org/W2937684811",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W2974346296",
+        "https://openalex.org/W2989049194",
+        "https://openalex.org/W3092335825",
+        "https://openalex.org/W3128695080",
+        "https://openalex.org/W4232328127",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6608040782",
+        "https://openalex.org/W6620578880",
+        "https://openalex.org/W6724313067",
+        "https://openalex.org/W6758166751",
+        "https://openalex.org/W6783869690"
+      ],
+      "related_works": [
+        "https://openalex.org/W1937777925",
+        "https://openalex.org/W2122544454",
+        "https://openalex.org/W3175455724",
+        "https://openalex.org/W3027033422",
+        "https://openalex.org/W2904450955",
+        "https://openalex.org/W2073880501",
+        "https://openalex.org/W2103355267",
+        "https://openalex.org/W2135550999",
+        "https://openalex.org/W1998222979",
+        "https://openalex.org/W1987033329"
+      ],
+      "abstract_inverted_index": {
+        "21": [
+          116
+        ],
+        "27": [
+          179
+        ],
+        "28": [
+          171
+        ],
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          45,
+          84,
+          119,
+          148,
+          185,
+          211
+        ],
+        "Devonian": [
+          2,
+          121
+        ],
+        "Jauf": [
+          3,
+          85,
+          149,
+          186
+        ],
+        "Formation": [
+          4,
+          86,
+          150,
+          187
+        ],
+        "(Huj": [
+          5
+        ],
+        "Group)": [
+          6
+        ],
+        "froms": [
+          7
+        ],
+        "part": [
+          8
+        ],
+        "of": [
+          9,
+          37,
+          88,
+          133,
+          191,
+          220
+        ],
+        "a": [
+          10,
+          140
+        ],
+        "regional": [
+          11
+        ],
+        "transgressive-regressive": [
+          12
+        ],
+        "depositional": [
+          13,
+          157,
+          194
+        ],
+        "sequence": [
+          14,
+          158,
+          168
+        ],
+        "that": [
+          15,
+          91,
+          143,
+          200
+        ],
+        "extends": [
+          16
+        ],
+        "more": [
+          17
+        ],
+        "than": [
+          18
+        ],
+        "1,500": [
+          19
+        ],
+        "km": [
+          20
+        ],
+        "across": [
+          21
+        ],
+        "the": [
+          22,
+          26,
+          35,
+          69,
+          80,
+          108,
+          126,
+          204
+        ],
+        "Arabian": [
+          23
+        ],
+        "Platform": [
+          24
+        ],
+        "from": [
+          25,
+          50,
+          95
+        ],
+        "Al": [
+          27
+        ],
+        "Jawf": [
+          28
+        ],
+        "outcrops": [
+          29
+        ],
+        "in": [
+          30,
+          48,
+          53,
+          61,
+          203,
+          231
+        ],
+        "northwest": [
+          31,
+          62
+        ],
+        "Saudi": [
+          32,
+          39,
+          55,
+          63
+        ],
+        "Arabia,": [
+          33
+        ],
+        "to": [
+          34,
+          57,
+          71,
+          189,
+          198,
+          218,
+          227
+        ],
+        "subsurface": [
+          36
+        ],
+        "eastern": [
+          38,
+          54
+        ],
+        "Arabia": [
+          40,
+          56
+        ],
+        "and": [
+          41,
+          75,
+          105,
+          177,
+          208
+        ],
+        "Oman": [
+          42
+        ],
+        "(Misfar": [
+          43
+        ],
+        "Group).": [
+          44
+        ],
+        "formation": [
+          46
+        ],
+        "ranges": [
+          47
+        ],
+        "thickness": [
+          49
+        ],
+        "200–335": [
+          51
+        ],
+        "m": [
+          52,
+          60
+        ],
+        "about": [
+          58
+        ],
+        "300–330": [
+          59
+        ],
+        "Arabia.": [
+          64
+        ],
+        "It": [
+          65
+        ],
+        "disconformably": [
+          66
+        ],
+        "(?unconformably)": [
+          67
+        ],
+        "overlies": [
+          68
+        ],
+        "continental": [
+          70,
+          81
+        ],
+        "shallow-marine": [
+          72
+        ],
+        "Tawil": [
+          73
+        ],
+        "Formation,": [
+          74
+        ],
+        "is": [
+          76,
+          113,
+          144,
+          151,
+          163,
+          216
+        ],
+        "unconformably": [
+          77
+        ],
+        "overlain": [
+          78
+        ],
+        "by": [
+          79,
+          139,
+          146,
+          165
+        ],
+        "Jubah": [
+          82
+        ],
+        "Formation.": [
+          83
+        ],
+        "consists": [
+          87,
+          132
+        ],
+        "five": [
+          89
+        ],
+        "members": [
+          90
+        ],
+        "are": [
+          92
+        ],
+        "apparently": [
+          93
+        ],
+        "conformable;": [
+          94
+        ],
+        "base-up:": [
+          96
+        ],
+        "Sha’iba": [
+          97
+        ],
+        "Shale,": [
+          98,
+          102
+        ],
+        "Qasr": [
+          99
+        ],
+        "Limestone,": [
+          100
+        ],
+        "Subbat": [
+          101
+        ],
+        "Hammamiyat": [
+          103,
+          123,
+          134,
+          212
+        ],
+        "Limestone": [
+          104
+        ],
+        "Murayr.": [
+          106
+        ],
+        "In": [
+          107
+        ],
+        "Al-Qalibah": [
+          109
+        ],
+        "reference": [
+          110
+        ],
+        "section,": [
+          111
+        ],
+        "it": [
+          112,
+          131
+        ],
+        "divided": [
+          114
+        ],
+        "into": [
+          115
+        ],
+        "informal": [
+          117
+        ],
+        "units.": [
+          118
+        ],
+        "Early": [
+          120,
+          205
+        ],
+        "Emsian": [
+          122,
+          209
+        ],
+        "Member": [
+          124,
+          213
+        ],
+        "represents": [
+          125
+        ],
+        "main": [
+          127
+        ],
+        "marine": [
+          128
+        ],
+        "flooding": [
+          129
+        ],
+        "event;": [
+          130
+        ],
+        "units": [
+          135
+        ],
+        "1–6": [
+          136
+        ],
+        "each": [
+          137,
+          229
+        ],
+        "characterized": [
+          138
+        ],
+        "clastic": [
+          141
+        ],
+        "section": [
+          142
+        ],
+        "capped": [
+          145
+        ],
+        "limestone.": [
+          147
+        ],
+        "interpreted": [
+          152,
+          217
+        ],
+        "as": [
+          153
+        ],
+        "an": [
+          154
+        ],
+        "orbital": [
+          155,
+          223
+        ],
+        "second-order": [
+          156,
+          167
+        ],
+        "(denoted": [
+          159
+        ],
+        "DS2": [
+          160
+        ],
+        "28),": [
+          161
+        ],
+        "which": [
+          162
+        ],
+        "bounded": [
+          164
+        ],
+        "two": [
+          166
+        ],
+        "boundaries:": [
+          169
+        ],
+        "SB2": [
+          170,
+          178
+        ],
+        "=": [
+          172,
+          180
+        ],
+        "Jauf/Tawil": [
+          173
+        ],
+        "(c.": [
+          174,
+          182
+        ],
+        "407.6": [
+          175
+        ],
+        "Ma)": [
+          176
+        ],
+        "Jubah/Jauf": [
+          181
+        ],
+        "393.0": [
+          183
+        ],
+        "Ma).": [
+          184
+        ],
+        "appears": [
+          188
+        ],
+        "consist": [
+          190,
+          219
+        ],
+        "six": [
+          192,
+          221
+        ],
+        "third-order": [
+          193
+        ],
+        "sequences": [
+          195
+        ],
+        "(DS3": [
+          196,
+          214
+        ],
+        "28.1": [
+          197
+        ],
+        "28.6)": [
+          199
+        ],
+        "were": [
+          201
+        ],
+        "deposited": [
+          202,
+          230
+        ],
+        "Devonian,": [
+          206
+        ],
+        "?Pragian": [
+          207
+        ],
+        "stages": [
+          210
+        ],
+        "28.4)": [
+          215
+        ],
+        "fourth-order": [
+          222
+        ],
+        "cycles": [
+          224
+        ],
+        "(DS4": [
+          225
+        ],
+        "28.4.1": [
+          226
+        ],
+        "28.4.6)": [
+          228
+        ],
+        "0.405": [
+          232
+        ],
+        "million": [
+          233
+        ],
+        "years.": [
+          234
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-04T09:10:02.777135",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3096033924",
       "doi": "https://doi.org/10.1016/bs.sats.2020.08.005",
       "title": "Interpreting Phanerozoic δ13C patterns as periodic glacio-eustatic sequences",
@@ -37788,1048 +38834,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2964097576",
-      "doi": "https://doi.org/10.2113/geoarabia110253",
-      "title": "Devonian Jauf Formation, Saudi Arabia: Orbital Second-order Depositional Sequence 28",
-      "display_name": "Devonian Jauf Formation, Saudi Arabia: Orbital Second-order Depositional Sequence 28",
-      "publication_year": 2006,
-      "publication_date": "2006-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2964097576",
-        "doi": "https://doi.org/10.2113/geoarabia110253",
-        "mag": "2964097576"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia110253",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Robley K. Matthews",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6416,
-      "has_fulltext": false,
-      "cited_by_count": 10,
-      "citation_normalized_percentile": {
-        "value": 0.77024284,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "11",
-        "issue": "2",
-        "first_page": "53",
-        "last_page": "70"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/devonian",
-          "display_name": "Devonian",
-          "score": 0.9385777711868286
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.9273907542228699
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8185222744941711
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.6419922113418579
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6391786932945251
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.5719171762466431
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.43959182500839233
-        },
-        {
-          "id": "https://openalex.org/keywords/group",
-          "display_name": "Group (periodic table)",
-          "score": 0.41607725620269775
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3505885601043701
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.21920019388198853
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.13651242852210999
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.0653742253780365
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.9385777711868286
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.9273907542228699
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8185222744941711
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.6419922113418579
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6391786932945251
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.5719171762466431
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.43959182500839233
-        },
-        {
-          "id": "https://openalex.org/C2781311116",
-          "wikidata": "https://www.wikidata.org/wiki/Q83306",
-          "display_name": "Group (periodic table)",
-          "level": 2,
-          "score": 0.41607725620269775
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3505885601043701
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.21920019388198853
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.13651242852210999
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.0653742253780365
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia110253",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia110253",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia110253",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/53/5442737/jauf_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2964097576.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2964097576.grobid-xml"
-      },
-      "referenced_works_count": 29,
-      "referenced_works": [
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1525628619",
-        "https://openalex.org/W1608914262",
-        "https://openalex.org/W1630322587",
-        "https://openalex.org/W1971240109",
-        "https://openalex.org/W1994705921",
-        "https://openalex.org/W2068101248",
-        "https://openalex.org/W2068979390",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2091539779",
-        "https://openalex.org/W2120554062",
-        "https://openalex.org/W2412279685",
-        "https://openalex.org/W2501683605",
-        "https://openalex.org/W2782942463",
-        "https://openalex.org/W2910189912",
-        "https://openalex.org/W2937684811",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W2974346296",
-        "https://openalex.org/W2989049194",
-        "https://openalex.org/W3092335825",
-        "https://openalex.org/W3128695080",
-        "https://openalex.org/W4232328127",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6620578880",
-        "https://openalex.org/W6724313067",
-        "https://openalex.org/W6758166751",
-        "https://openalex.org/W6783869690"
-      ],
-      "related_works": [
-        "https://openalex.org/W1937777925",
-        "https://openalex.org/W2122544454",
-        "https://openalex.org/W3175455724",
-        "https://openalex.org/W3027033422",
-        "https://openalex.org/W2904450955",
-        "https://openalex.org/W2073880501",
-        "https://openalex.org/W2103355267",
-        "https://openalex.org/W2135550999",
-        "https://openalex.org/W1998222979",
-        "https://openalex.org/W1987033329"
-      ],
-      "abstract_inverted_index": {
-        "21": [
-          116
-        ],
-        "27": [
-          179
-        ],
-        "28": [
-          171
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          45,
-          84,
-          119,
-          148,
-          185,
-          211
-        ],
-        "Devonian": [
-          2,
-          121
-        ],
-        "Jauf": [
-          3,
-          85,
-          149,
-          186
-        ],
-        "Formation": [
-          4,
-          86,
-          150,
-          187
-        ],
-        "(Huj": [
-          5
-        ],
-        "Group)": [
-          6
-        ],
-        "froms": [
-          7
-        ],
-        "part": [
-          8
-        ],
-        "of": [
-          9,
-          37,
-          88,
-          133,
-          191,
-          220
-        ],
-        "a": [
-          10,
-          140
-        ],
-        "regional": [
-          11
-        ],
-        "transgressive-regressive": [
-          12
-        ],
-        "depositional": [
-          13,
-          157,
-          194
-        ],
-        "sequence": [
-          14,
-          158,
-          168
-        ],
-        "that": [
-          15,
-          91,
-          143,
-          200
-        ],
-        "extends": [
-          16
-        ],
-        "more": [
-          17
-        ],
-        "than": [
-          18
-        ],
-        "1,500": [
-          19
-        ],
-        "km": [
-          20
-        ],
-        "across": [
-          21
-        ],
-        "the": [
-          22,
-          26,
-          35,
-          69,
-          80,
-          108,
-          126,
-          204
-        ],
-        "Arabian": [
-          23
-        ],
-        "Platform": [
-          24
-        ],
-        "from": [
-          25,
-          50,
-          95
-        ],
-        "Al": [
-          27
-        ],
-        "Jawf": [
-          28
-        ],
-        "outcrops": [
-          29
-        ],
-        "in": [
-          30,
-          48,
-          53,
-          61,
-          203,
-          231
-        ],
-        "northwest": [
-          31,
-          62
-        ],
-        "Saudi": [
-          32,
-          39,
-          55,
-          63
-        ],
-        "Arabia,": [
-          33
-        ],
-        "to": [
-          34,
-          57,
-          71,
-          189,
-          198,
-          218,
-          227
-        ],
-        "subsurface": [
-          36
-        ],
-        "eastern": [
-          38,
-          54
-        ],
-        "Arabia": [
-          40,
-          56
-        ],
-        "and": [
-          41,
-          75,
-          105,
-          177,
-          208
-        ],
-        "Oman": [
-          42
-        ],
-        "(Misfar": [
-          43
-        ],
-        "Group).": [
-          44
-        ],
-        "formation": [
-          46
-        ],
-        "ranges": [
-          47
-        ],
-        "thickness": [
-          49
-        ],
-        "200–335": [
-          51
-        ],
-        "m": [
-          52,
-          60
-        ],
-        "about": [
-          58
-        ],
-        "300–330": [
-          59
-        ],
-        "Arabia.": [
-          64
-        ],
-        "It": [
-          65
-        ],
-        "disconformably": [
-          66
-        ],
-        "(?unconformably)": [
-          67
-        ],
-        "overlies": [
-          68
-        ],
-        "continental": [
-          70,
-          81
-        ],
-        "shallow-marine": [
-          72
-        ],
-        "Tawil": [
-          73
-        ],
-        "Formation,": [
-          74
-        ],
-        "is": [
-          76,
-          113,
-          144,
-          151,
-          163,
-          216
-        ],
-        "unconformably": [
-          77
-        ],
-        "overlain": [
-          78
-        ],
-        "by": [
-          79,
-          139,
-          146,
-          165
-        ],
-        "Jubah": [
-          82
-        ],
-        "Formation.": [
-          83
-        ],
-        "consists": [
-          87,
-          132
-        ],
-        "five": [
-          89
-        ],
-        "members": [
-          90
-        ],
-        "are": [
-          92
-        ],
-        "apparently": [
-          93
-        ],
-        "conformable;": [
-          94
-        ],
-        "base-up:": [
-          96
-        ],
-        "Sha’iba": [
-          97
-        ],
-        "Shale,": [
-          98,
-          102
-        ],
-        "Qasr": [
-          99
-        ],
-        "Limestone,": [
-          100
-        ],
-        "Subbat": [
-          101
-        ],
-        "Hammamiyat": [
-          103,
-          123,
-          134,
-          212
-        ],
-        "Limestone": [
-          104
-        ],
-        "Murayr.": [
-          106
-        ],
-        "In": [
-          107
-        ],
-        "Al-Qalibah": [
-          109
-        ],
-        "reference": [
-          110
-        ],
-        "section,": [
-          111
-        ],
-        "it": [
-          112,
-          131
-        ],
-        "divided": [
-          114
-        ],
-        "into": [
-          115
-        ],
-        "informal": [
-          117
-        ],
-        "units.": [
-          118
-        ],
-        "Early": [
-          120,
-          205
-        ],
-        "Emsian": [
-          122,
-          209
-        ],
-        "Member": [
-          124,
-          213
-        ],
-        "represents": [
-          125
-        ],
-        "main": [
-          127
-        ],
-        "marine": [
-          128
-        ],
-        "flooding": [
-          129
-        ],
-        "event;": [
-          130
-        ],
-        "units": [
-          135
-        ],
-        "1–6": [
-          136
-        ],
-        "each": [
-          137,
-          229
-        ],
-        "characterized": [
-          138
-        ],
-        "clastic": [
-          141
-        ],
-        "section": [
-          142
-        ],
-        "capped": [
-          145
-        ],
-        "limestone.": [
-          147
-        ],
-        "interpreted": [
-          152,
-          217
-        ],
-        "as": [
-          153
-        ],
-        "an": [
-          154
-        ],
-        "orbital": [
-          155,
-          223
-        ],
-        "second-order": [
-          156,
-          167
-        ],
-        "(denoted": [
-          159
-        ],
-        "DS2": [
-          160
-        ],
-        "28),": [
-          161
-        ],
-        "which": [
-          162
-        ],
-        "bounded": [
-          164
-        ],
-        "two": [
-          166
-        ],
-        "boundaries:": [
-          169
-        ],
-        "SB2": [
-          170,
-          178
-        ],
-        "=": [
-          172,
-          180
-        ],
-        "Jauf/Tawil": [
-          173
-        ],
-        "(c.": [
-          174,
-          182
-        ],
-        "407.6": [
-          175
-        ],
-        "Ma)": [
-          176
-        ],
-        "Jubah/Jauf": [
-          181
-        ],
-        "393.0": [
-          183
-        ],
-        "Ma).": [
-          184
-        ],
-        "appears": [
-          188
-        ],
-        "consist": [
-          190,
-          219
-        ],
-        "six": [
-          192,
-          221
-        ],
-        "third-order": [
-          193
-        ],
-        "sequences": [
-          195
-        ],
-        "(DS3": [
-          196,
-          214
-        ],
-        "28.1": [
-          197
-        ],
-        "28.6)": [
-          199
-        ],
-        "were": [
-          201
-        ],
-        "deposited": [
-          202,
-          230
-        ],
-        "Devonian,": [
-          206
-        ],
-        "?Pragian": [
-          207
-        ],
-        "stages": [
-          210
-        ],
-        "28.4)": [
-          215
-        ],
-        "fourth-order": [
-          222
-        ],
-        "cycles": [
-          224
-        ],
-        "(DS4": [
-          225
-        ],
-        "28.4.1": [
-          226
-        ],
-        "28.4.6)": [
-          228
-        ],
-        "0.405": [
-          232
-        ],
-        "million": [
-          233
-        ],
-        "years.": [
-          234
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2888951861",
       "doi": "https://doi.org/10.1016/bs.sats.2018.08.001",
       "title": "Arabian Orbital Sequences",
@@ -48753,34 +48757,12 @@
             "display_name": "Thomas De Keyser",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210165345",
-              "display_name": "Wound Care Strategies (United States)",
-              "ror": "https://ror.org/05p3vnz07",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210165345"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
           "raw_author_name": "Thomas De Keyser",
-          "raw_affiliation_strings": [
-            "Previously Technically Write Consulting, LLC, 21091 Powerline Rd., Harrisburg, OR 97446, United States"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Previously Technically Write Consulting, LLC, 21091 Powerline Rd., Harrisburg, OR 97446, United States",
-              "institution_ids": [
-                "https://openalex.org/I4210165345"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -48789,34 +48771,12 @@
             "display_name": "Wolfgang Ruebsam",
             "orcid": "https://orcid.org/0000-0003-3952-7830"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I32021983",
-              "display_name": "Christian-Albrechts-Universität zu Kiel",
-              "ror": "https://ror.org/04v76ef78",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I32021983"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
           "raw_author_name": "Wolfgang Ruebsam",
-          "raw_affiliation_strings": [
-            "Department of Organic and Isotope Geochemistry, Institute of Geoscience, University of Kiel, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Organic and Isotope Geochemistry, Institute of Geoscience, University of Kiel, Germany",
-              "institution_ids": [
-                "https://openalex.org/I32021983"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -48825,34 +48785,12 @@
             "display_name": "Moujahed Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134662",
-              "display_name": "Bahrain Center for Strategic International and Energy Studies",
-              "ror": "https://ror.org/03ht6cj06",
-              "country_code": "BH",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210134662"
-              ]
-            }
-          ],
-          "countries": [
-            "BH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [
-            "Previously Aramco, Saudi Arabia, and GeoArabia, Bahrain P.O.B. 20393, Manama, Bahrain"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Previously Aramco, Saudi Arabia, and GeoArabia, Bahrain P.O.B. 20393, Manama, Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I4210134662"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -48861,34 +48799,12 @@
             "display_name": "Sandra Crespo de Cabrera",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122749",
-              "display_name": "International Hospital of Bahrain",
-              "ror": "https://ror.org/037w1y594",
-              "country_code": "BH",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210122749"
-              ]
-            }
-          ],
-          "countries": [
-            "BH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Sandra Crespo de Cabrera",
-          "raw_affiliation_strings": [
-            "Building No. 4682, Road No. 2468, Block No. 324, Manama, Bahrain"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Building No. 4682, Road No. 2468, Block No. 324, Manama, Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I4210122749"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         },
         {
           "author_position": "last",
@@ -48897,45 +48813,21 @@
             "display_name": "Ghaida Al-Sahlan",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799345387",
-              "display_name": "Kuwait Petroleum Corporation (Kuwait)",
-              "ror": "https://ror.org/04wacmk20",
-              "country_code": "KW",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I2799345387"
-              ]
-            }
-          ],
-          "countries": [
-            "KW"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ghaida Al-Sahlan",
-          "raw_affiliation_strings": [
-            "Kuwait Oil Company Geological & Geophysical Solutions Team, Exploration Group, Kuwait"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kuwait Oil Company Geological & Geophysical Solutions Team, Exploration Group, Kuwait",
-              "institution_ids": [
-                "https://openalex.org/I2799345387"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
+      "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [
-        "https://openalex.org/A5050324042"
+        "https://openalex.org/A5025244768"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I32021983"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3700,
         "currency": "USD",
@@ -48946,11 +48838,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 3.409,
+      "fwci": 3.3609,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92193492,
+        "value": 0.92079689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -50037,7 +49929,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-22T13:39:03.778224",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56723,15 +56615,8 @@
           "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [
-            "Independent Researcher, Bahrain"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent Researcher, Bahrain",
-              "institution_ids": []
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         },
         {
           "author_position": "last",
@@ -56740,40 +56625,16 @@
             "display_name": "Ian Stewart",
             "orcid": "https://orcid.org/0000-0002-4968-527X"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ian C.F. Stewart",
-          "raw_affiliation_strings": [
-            "Stewart Geophysical Consultant Pty. Ltd., Australia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Stewart Geophysical Consultant Pty. Ltd., Australia",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
+          "raw_affiliation_strings": [],
+          "affiliations": []
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5081811780"
@@ -56793,7 +56654,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44500757,
+        "value": 0.44378659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57443,7 +57304,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-04T09:10:02.777135",
       "created_date": "2025-12-13T00:00:00"
     }
   ]
