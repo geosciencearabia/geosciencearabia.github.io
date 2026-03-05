@@ -918,8 +918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1804,9 +1804,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -1841,8 +1841,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -2802,9 +2802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7099999785423279,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2829,8 +2829,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -4257,9 +4257,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6100000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -4303,8 +4303,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -5434,16 +5434,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2057879200.pdf",
@@ -6798,9 +6798,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -6812,8 +6812,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3129310095.pdf",
@@ -7925,8 +7925,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -8682,9 +8682,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -8714,8 +8714,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -9227,11 +9227,11 @@
         "currency": "EUR",
         "value_usd": 3690
       },
-      "fwci": 5.2748,
+      "fwci": 5.2142,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.9620306,
+        "value": 0.96142194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9893,8 +9893,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412083068.pdf",
@@ -10001,7 +10001,552 @@
         "https://openalex.org/W4313358197",
         "https://openalex.org/W3210213316"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Heavy": [
+          0
+        ],
+        "metal": [
+          1
+        ],
+        "(HM)": [
+          2
+        ],
+        "contamination": [
+          3,
+          35,
+          57,
+          91,
+          102,
+          139,
+          195
+        ],
+        "in": [
+          4,
+          36,
+          141,
+          172,
+          207,
+          220
+        ],
+        "marine": [
+          5,
+          80,
+          218
+        ],
+        "sediments": [
+          6,
+          39,
+          81
+        ],
+        "is": [
+          7,
+          103,
+          144
+        ],
+        "a": [
+          8,
+          24,
+          41
+        ],
+        "critical": [
+          9,
+          200
+        ],
+        "environmental": [
+          10,
+          203
+        ],
+        "concern": [
+          11
+        ],
+        "due": [
+          12
+        ],
+        "to": [
+          13,
+          94,
+          106,
+          134,
+          147,
+          167,
+          188
+        ],
+        "its": [
+          14
+        ],
+        "potential": [
+          15
+        ],
+        "ecological": [
+          16,
+          68
+        ],
+        "and": [
+          17,
+          30,
+          67,
+          85,
+          111,
+          125,
+          192,
+          205,
+          213
+        ],
+        "human": [
+          18
+        ],
+        "health": [
+          19
+        ],
+        "impacts.": [
+          20
+        ],
+        "This": [
+          21,
+          100
+        ],
+        "study": [
+          22,
+          157
+        ],
+        "provides": [
+          23
+        ],
+        "comprehensive": [
+          25
+        ],
+        "assessment": [
+          26
+        ],
+        "of": [
+          27,
+          33,
+          96,
+          184,
+          217
+        ],
+        "the": [
+          28,
+          56,
+          83,
+          130,
+          142,
+          159,
+          182,
+          215,
+          221
+        ],
+        "spatial": [
+          29
+        ],
+        "temporal": [
+          31,
+          190
+        ],
+        "evolution": [
+          32
+        ],
+        "HM": [
+          34,
+          138,
+          169
+        ],
+        "Arabian": [
+          37,
+          87,
+          222
+        ],
+        "Gulf": [
+          38,
+          98
+        ],
+        "over": [
+          40
+        ],
+        "33-year": [
+          42
+        ],
+        "period": [
+          43
+        ],
+        "(1991-2024).": [
+          44
+        ],
+        "Contamination": [
+          45
+        ],
+        "levels": [
+          46,
+          92
+        ],
+        "were": [
+          47
+        ],
+        "evaluated": [
+          48
+        ],
+        "using": [
+          49
+        ],
+        "key": [
+          50
+        ],
+        "sediment": [
+          51,
+          135
+        ],
+        "quality": [
+          52
+        ],
+        "indices": [
+          53
+        ],
+        "such": [
+          54
+        ],
+        "as": [
+          55,
+          129
+        ],
+        "factor": [
+          58
+        ],
+        "(CF),": [
+          59
+        ],
+        "geoaccumulation": [
+          60
+        ],
+        "index": [
+          61,
+          65,
+          70
+        ],
+        "(I<sub>g</sub>ₑₒ),": [
+          62
+        ],
+        "pollution": [
+          63,
+          210
+        ],
+        "load": [
+          64
+        ],
+        "(PLI),": [
+          66
+        ],
+        "risk": [
+          69
+        ],
+        "(ERI)": [
+          71
+        ],
+        "based": [
+          72
+        ],
+        "on": [
+          73
+        ],
+        "available": [
+          74
+        ],
+        "meta-data.": [
+          75
+        ],
+        "Spatial": [
+          76
+        ],
+        "analysis": [
+          77
+        ],
+        "revealed": [
+          78
+        ],
+        "that": [
+          79
+        ],
+        "along": [
+          82
+        ],
+        "Iranian": [
+          84
+        ],
+        "Saudi": [
+          86
+        ],
+        "coasts": [
+          88
+        ],
+        "exhibited": [
+          89
+        ],
+        "higher": [
+          90
+        ],
+        "compared": [
+          93
+        ],
+        "those": [
+          95
+        ],
+        "other": [
+          97
+        ],
+        "countries.": [
+          99
+        ],
+        "elevated": [
+          101
+        ],
+        "likely": [
+          104
+        ],
+        "attributed": [
+          105
+        ],
+        "industrial": [
+          107,
+          177
+        ],
+        "discharges,": [
+          108
+        ],
+        "oil": [
+          109
+        ],
+        "spills": [
+          110
+        ],
+        "effluent": [
+          112
+        ],
+        "releases": [
+          113
+        ],
+        "from": [
+          114
+        ],
+        "desalination": [
+          115
+        ],
+        "plants.": [
+          116
+        ],
+        "Arsenic": [
+          117
+        ],
+        "(As),": [
+          118
+        ],
+        "cadmium": [
+          119
+        ],
+        "(Cd),": [
+          120
+        ],
+        "copper": [
+          121
+        ],
+        "(Cu),": [
+          122
+        ],
+        "nickel": [
+          123
+        ],
+        "(Ni),": [
+          124
+        ],
+        "lead": [
+          126
+        ],
+        "(Pb)": [
+          127
+        ],
+        "emerged": [
+          128
+        ],
+        "primary": [
+          131
+        ],
+        "toxic": [
+          132
+        ],
+        "contributors": [
+          133
+        ],
+        "pollution.": [
+          136
+        ],
+        "Overall,": [
+          137
+        ],
+        "status": [
+          140
+        ],
+        "region": [
+          143
+        ],
+        "predominantly": [
+          145
+        ],
+        "low": [
+          146
+        ],
+        "moderate,": [
+          148
+        ],
+        "with": [
+          149
+        ],
+        "localized": [
+          150
+        ],
+        "hotspots": [
+          151
+        ],
+        "near": [
+          152
+        ],
+        "industrialized": [
+          153
+        ],
+        "coastal": [
+          154
+        ],
+        "zones.": [
+          155
+        ],
+        "The": [
+          156
+        ],
+        "highlights": [
+          158
+        ],
+        "need": [
+          160
+        ],
+        "for": [
+          161,
+          202
+        ],
+        "scientifically": [
+          162
+        ],
+        "informed": [
+          163
+        ],
+        "waste": [
+          164
+        ],
+        "management": [
+          165
+        ],
+        "strategies": [
+          166
+        ],
+        "mitigate": [
+          168
+        ],
+        "contamination,": [
+          170
+        ],
+        "particularly": [
+          171
+        ],
+        "nearshore": [
+          173
+        ],
+        "environments": [
+          174
+        ],
+        "impacted": [
+          175
+        ],
+        "by": [
+          176
+        ],
+        "activities.": [
+          178
+        ],
+        "Furthermore,": [
+          179
+        ],
+        "it": [
+          180
+        ],
+        "recommends": [
+          181
+        ],
+        "implementation": [
+          183
+        ],
+        "continuous": [
+          185
+        ],
+        "monitoring": [
+          186
+        ],
+        "programs": [
+          187
+        ],
+        "track": [
+          189
+        ],
+        "trends": [
+          191
+        ],
+        "identify": [
+          193
+        ],
+        "emerging": [
+          194
+        ],
+        "sources.": [
+          196
+        ],
+        "These": [
+          197
+        ],
+        "findings": [
+          198
+        ],
+        "provide": [
+          199
+        ],
+        "insights": [
+          201
+        ],
+        "managers": [
+          204
+        ],
+        "policymakers": [
+          206
+        ],
+        "developing": [
+          208
+        ],
+        "sustainable": [
+          209
+        ],
+        "mitigation": [
+          211
+        ],
+        "frameworks": [
+          212
+        ],
+        "enhancing": [
+          214
+        ],
+        "resilience": [
+          216
+        ],
+        "ecosystems": [
+          219
+        ],
+        "Gulf.": [
+          223
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -10012,7 +10557,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10544,9 +11089,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -10571,8 +11116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -11161,11 +11706,11 @@
         "currency": "EUR",
         "value_usd": 3290
       },
-      "fwci": 9.8737,
+      "fwci": 9.8268,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.97384836,
+        "value": 0.97370643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11619,8 +12164,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4406405554.pdf"
@@ -11704,7 +12249,35 @@
         "https://openalex.org/W2333554664",
         "https://openalex.org/W3205947674"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "online": [
+          1
+        ],
+        "version": [
+          2
+        ],
+        "contains": [
+          3
+        ],
+        "supplementary": [
+          4
+        ],
+        "material": [
+          5
+        ],
+        "available": [
+          6
+        ],
+        "at": [
+          7
+        ],
+        "10.1007/s10533-024-01204-5.": [
+          8
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -11715,7 +12288,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12517,8 +13090,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -13506,16 +14079,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -14398,16 +14971,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -14830,16 +15403,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -15714,16 +16287,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -17224,16 +17797,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -17734,16 +18307,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18975,9 +19548,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -18997,8 +19570,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -19668,9 +20241,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19682,8 +20255,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2044971387.pdf"
@@ -20624,11 +21197,11 @@
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.2935,
+      "fwci": 1.2932,
       "has_fulltext": true,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.77242519,
+        "value": 0.77243025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21125,8 +21698,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -21178,7 +21751,510 @@
         "https://openalex.org/W2359691516",
         "https://openalex.org/W2261979314"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          129
+        ],
+        "3": [
+          127
+        ],
+        "Although": [
+          0
+        ],
+        "several": [
+          1,
+          20
+        ],
+        "indices": [
+          2,
+          24
+        ],
+        "have": [
+          3,
+          25
+        ],
+        "been": [
+          4,
+          26
+        ],
+        "constructed": [
+          5,
+          33
+        ],
+        "and": [
+          6,
+          18,
+          43,
+          76,
+          91,
+          128,
+          136,
+          144,
+          172,
+          183,
+          208,
+          223
+        ],
+        "available": [
+          7
+        ],
+        "at": [
+          8
+        ],
+        "the": [
+          9,
+          52,
+          66,
+          69,
+          77,
+          82,
+          93,
+          100,
+          107,
+          116,
+          123,
+          132,
+          138,
+          153,
+          166,
+          203,
+          218,
+          228,
+          238
+        ],
+        "Index": [
+          10
+        ],
+        "database": [
+          11
+        ],
+        "(IDB)": [
+          12
+        ],
+        "for": [
+          13,
+          190,
+          237
+        ],
+        "Sentinel-2": [
+          14,
+          63,
+          229
+        ],
+        "satellite": [
+          15
+        ],
+        "to": [
+          16,
+          28,
+          81,
+          87,
+          98,
+          179,
+          188,
+          197,
+          212,
+          235,
+          244
+        ],
+        "map": [
+          17,
+          29,
+          99,
+          180,
+          198,
+          213,
+          245
+        ],
+        "study": [
+          19,
+          201
+        ],
+        "earth": [
+          21
+        ],
+        "resources,": [
+          22
+        ],
+        "no": [
+          23
+        ],
+        "developed": [
+          27
+        ],
+        "oil": [
+          30,
+          89,
+          102,
+          117,
+          158,
+          181,
+          199,
+          214,
+          219,
+          246
+        ],
+        "spill.": [
+          31,
+          247
+        ],
+        "We": [
+          32,
+          120
+        ],
+        "band": [
+          34,
+          78,
+          134,
+          206
+        ],
+        "ratios": [
+          35,
+          171,
+          207
+        ],
+        "(5": [
+          36
+        ],
+        "+": [
+          37,
+          40,
+          46,
+          49
+        ],
+        "6)/7,": [
+          38
+        ],
+        "(3": [
+          39,
+          45
+        ],
+        "4)/2,": [
+          41,
+          47
+        ],
+        "(11+12)/8": [
+          42
+        ],
+        "3/2,": [
+          44
+        ],
+        "(6": [
+          48
+        ],
+        "7)/5": [
+          50
+        ],
+        "using": [
+          51
+        ],
+        "high-resolution": [
+          53
+        ],
+        "MSI": [
+          54
+        ],
+        "(multi-spectral": [
+          55
+        ],
+        "instrument)": [
+          56
+        ],
+        "visible-near": [
+          57
+        ],
+        "infrared-shortwave": [
+          58
+        ],
+        "infrared": [
+          59
+        ],
+        "spectral": [
+          60,
+          124,
+          133,
+          192,
+          239
+        ],
+        "bands": [
+          61,
+          67,
+          125,
+          193,
+          240
+        ],
+        "of": [
+          62,
+          71,
+          95,
+          148,
+          155,
+          157,
+          194,
+          205,
+          241
+        ],
+        "by": [
+          64,
+          130
+        ],
+        "summing-up": [
+          65
+        ],
+        "representing": [
+          68
+        ],
+        "shoulders": [
+          70
+        ],
+        "absorption": [
+          72,
+          83
+        ],
+        "features": [
+          73
+        ],
+        "as": [
+          74,
+          85,
+          140
+        ],
+        "numerator": [
+          75
+        ],
+        "located": [
+          79
+        ],
+        "nearest": [
+          80
+        ],
+        "feature": [
+          84
+        ],
+        "denominator": [
+          86
+        ],
+        "discriminate": [
+          88
+        ],
+        "spill,": [
+          90
+        ],
+        "demonstrate": [
+          92
+        ],
+        "potential": [
+          94
+        ],
+        "this": [
+          96
+        ],
+        "method": [
+          97,
+          151
+        ],
+        "Wakashio": [
+          101
+        ],
+        "spill": [
+          103,
+          118,
+          139,
+          159,
+          220,
+          225
+        ],
+        "which": [
+          104
+        ],
+        "occurred": [
+          105
+        ],
+        "in": [
+          106,
+          160
+        ],
+        "Indian": [
+          108
+        ],
+        "Ocean,": [
+          109
+        ],
+        "off": [
+          110,
+          221
+        ],
+        "Mauritius.": [
+          111
+        ],
+        "The": [
+          112,
+          146
+        ],
+        "resulted": [
+          113
+        ],
+        "images": [
+          114
+        ],
+        "discriminated": [
+          115,
+          137,
+          217
+        ],
+        "well.": [
+          119
+        ],
+        "also": [
+          121
+        ],
+        "decorrelated": [
+          122
+        ],
+        "4,": [
+          126
+        ],
+        "studying": [
+          131
+        ],
+        "absorptions": [
+          135
+        ],
+        "very": [
+          141
+        ],
+        "thick,": [
+          142
+        ],
+        "thick": [
+          143
+        ],
+        "thin.": [
+          145
+        ],
+        "results": [
+          147
+        ],
+        "decorrelation": [
+          149,
+          173,
+          209
+        ],
+        "stretch": [
+          150,
+          174,
+          210
+        ],
+        "exhibited": [
+          152
+        ],
+        "distribution": [
+          154
+        ],
+        "types": [
+          156
+        ],
+        "a": [
+          161
+        ],
+        "different": [
+          162
+        ],
+        "tone,": [
+          163
+        ],
+        "distinctly.": [
+          164
+        ],
+        "Both": [
+          165
+        ],
+        "image": [
+          167
+        ],
+        "transformation": [
+          168
+        ],
+        "methods": [
+          169,
+          185,
+          211,
+          216,
+          232
+        ],
+        "(band": [
+          170
+        ],
+        "methods)": [
+          175
+        ],
+        "showed": [
+          176,
+          224
+        ],
+        "their": [
+          177
+        ],
+        "capability": [
+          178
+        ],
+        "spills,": [
+          182
+        ],
+        "these": [
+          184
+        ],
+        "are": [
+          186,
+          233
+        ],
+        "recommended": [
+          187,
+          234
+        ],
+        "use": [
+          189,
+          236
+        ],
+        "similar": [
+          191
+        ],
+        "other": [
+          195,
+          242
+        ],
+        "sensors": [
+          196,
+          243
+        ],
+        "spills.•This": [
+          200
+        ],
+        "demonstrated": [
+          202
+        ],
+        "application": [
+          204
+        ],
+        "spill.•The": [
+          215
+        ],
+        "Mauritius,": [
+          222
+        ],
+        "thicknesses": [
+          226
+        ],
+        "from": [
+          227
+        ],
+        "data.•The": [
+          230
+        ],
+        "new": [
+          231
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -21201,7 +22277,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21358,11 +22434,11 @@
         "currency": "EUR",
         "value_usd": 2426
       },
-      "fwci": 4.9283,
+      "fwci": 4.9285,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.9504899,
+        "value": 0.95051195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21736,9 +22812,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21750,8 +22826,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2966398131.pdf",
@@ -21811,457 +22887,7 @@
         "https://openalex.org/W4210931276",
         "https://openalex.org/W2354380496"
       ],
-      "abstract_inverted_index": {
-        "Major": [
-          0
-        ],
-        "global": [
-          1
-        ],
-        "events": [
-          2,
-          28
-        ],
-        "during": [
-          3,
-          54
-        ],
-        "the": [
-          4,
-          22,
-          42,
-          51,
-          57,
-          60,
-          63,
-          66,
-          68,
-          75,
-          78,
-          84,
-          91,
-          107,
-          123,
-          127,
-          134,
-          139,
-          150,
-          157,
-          174,
-          178,
-          200
-        ],
-        "Oligocene": [
-          5,
-          99
-        ],
-        "epoch": [
-          6
-        ],
-        "included": [
-          7
-        ],
-        "a": [
-          8,
-          15
-        ],
-        "climatic": [
-          9
-        ],
-        "change": [
-          10
-        ],
-        "from": [
-          11,
-          95,
-          103,
-          160
-        ],
-        "warm": [
-          12
-        ],
-        "“greenhouse”": [
-          13
-        ],
-        "to": [
-          14,
-          30,
-          90,
-          199
-        ],
-        "cooler": [
-          16
-        ],
-        "“icehouse”": [
-          17
-        ],
-        "that": [
-          18,
-          196
-        ],
-        "was": [
-          19
-        ],
-        "accompanied": [
-          20
-        ],
-        "by": [
-          21
-        ],
-        "onset": [
-          23
-        ],
-        "of": [
-          24,
-          44,
-          59,
-          65,
-          70,
-          77,
-          83,
-          93,
-          106,
-          126,
-          138,
-          152,
-          177
-        ],
-        "Antarctic": [
-          25
-        ],
-        "glaciation.": [
-          26
-        ],
-        "These": [
-          27
-        ],
-        "led": [
-          29,
-          88
-        ],
-        "decline": [
-          31
-        ],
-        "in": [
-          32,
-          113,
-          130,
-          142,
-          156,
-          163,
-          166,
-          171,
-          203
-        ],
-        "water": [
-          33,
-          136
-        ],
-        "temperature,": [
-          34
-        ],
-        "salinity,": [
-          35
-        ],
-        "nutrient": [
-          36
-        ],
-        "supply": [
-          37
-        ],
-        "and": [
-          38,
-          41,
-          48,
-          62,
-          74,
-          81,
-          115,
-          133,
-          168
-        ],
-        "oxygen": [
-          39
-        ],
-        "levels,": [
-          40
-        ],
-        "extinction": [
-          43
-        ],
-        "some": [
-          45
-        ],
-        "major": [
-          46
-        ],
-        "fauna": [
-          47
-        ],
-        "flora.": [
-          49
-        ],
-        "Within": [
-          50
-        ],
-        "study": [
-          52,
-          146
-        ],
-        "area,": [
-          53
-        ],
-        "this": [
-          55
-        ],
-        "epoch,": [
-          56
-        ],
-        "shrinkage": [
-          58
-        ],
-        "Neotethys": [
-          61
-        ],
-        "development": [
-          64,
-          76
-        ],
-        "Paratethys,": [
-          67
-        ],
-        "collision": [
-          69
-        ],
-        "Arabia": [
-          71,
-          94
-        ],
-        "with": [
-          72
-        ],
-        "Eurasia": [
-          73
-        ],
-        "Zagros": [
-          79
-        ],
-        "mountains": [
-          80
-        ],
-        "opening": [
-          82
-        ],
-        "Red": [
-          85
-        ],
-        "Sea": [
-          86
-        ],
-        "which": [
-          87
-        ],
-        "eventually": [
-          89
-        ],
-        "separation": [
-          92
-        ],
-        "Africa": [
-          96
-        ],
-        "were": [
-          97
-        ],
-        "witnessed.": [
-          98
-        ],
-        "sediments": [
-          100,
-          162
-        ],
-        "are": [
-          101,
-          111,
-          122,
-          197
-        ],
-        "absent": [
-          102
-        ],
-        "most": [
-          104,
-          119
-        ],
-        "parts": [
-          105
-        ],
-        "Arabian": [
-          108
-        ],
-        "Plate": [
-          109
-        ],
-        "but": [
-          110
-        ],
-        "well-preserved": [
-          112
-        ],
-        "western": [
-          114
-        ],
-        "southwestern": [
-          116,
-          143
-        ],
-        "Iran.": [
-          117,
-          144,
-          204
-        ],
-        "The": [
-          118,
-          145
-        ],
-        "well-developed": [
-          120
-        ],
-        "strata": [
-          121,
-          195
-        ],
-        "coral": [
-          124,
-          191
-        ],
-        "reefs": [
-          125
-        ],
-        "Kirkuk": [
-          128,
-          169
-        ],
-        "Group": [
-          129
-        ],
-        "northern": [
-          131
-        ],
-        "Iraq": [
-          132,
-          172
-        ],
-        "shallow": [
-          135
-        ],
-        "carbonates": [
-          137
-        ],
-        "Asmari": [
-          140,
-          201
-        ],
-        "Formation": [
-          141,
-          202
-        ],
-        "area": [
-          147
-        ],
-        "also": [
-          148
-        ],
-        "represents": [
-          149
-        ],
-        "birthplace": [
-          151
-        ],
-        "commercial": [
-          153
-        ],
-        "hydrocarbons": [
-          154,
-          184
-        ],
-        "production": [
-          155
-        ],
-        "Middle": [
-          158
-        ],
-        "East": [
-          159
-        ],
-        "these": [
-          161
-        ],
-        "Masjid-i-Sulaiman": [
-          164
-        ],
-        "Field": [
-          165,
-          170
-        ],
-        "Iran": [
-          167
-        ],
-        "at": [
-          173
-        ],
-        "first": [
-          175
-        ],
-        "decade": [
-          176
-        ],
-        "last": [
-          179
-        ],
-        "century.": [
-          180
-        ],
-        "Future": [
-          181
-        ],
-        "exploration": [
-          182
-        ],
-        "for": [
-          183
-        ],
-        "potential": [
-          185
-        ],
-        "should": [
-          186
-        ],
-        "focus": [
-          187
-        ],
-        "on": [
-          188
-        ],
-        "identifying": [
-          189
-        ],
-        "subsurface": [
-          190
-        ],
-        "buildups": [
-          192
-        ],
-        "or": [
-          193
-        ],
-        "clastic": [
-          194
-        ],
-        "equivalent": [
-          198
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -22292,7 +22918,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -22866,8 +23492,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -23681,8 +24307,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -24266,11 +24892,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 3.825,
+      "fwci": 3.8798,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.93184499,
+        "value": 0.93279345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24798,9 +25424,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -24847,8 +25473,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385602287.pdf"
@@ -24922,7 +25548,425 @@
         "https://openalex.org/W1633252436",
         "https://openalex.org/W1967663177"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Coastal": [
+          0,
+          43
+        ],
+        "Sabkhas": [
+          1,
+          69,
+          91,
+          138,
+          155,
+          177
+        ],
+        "are": [
+          2,
+          10,
+          36
+        ],
+        "mudflats": [
+          3
+        ],
+        "found": [
+          4
+        ],
+        "in": [
+          5,
+          48,
+          117,
+          136,
+          139,
+          150,
+          160,
+          184
+        ],
+        "arid": [
+          6,
+          185
+        ],
+        "coastal": [
+          7,
+          137,
+          176
+        ],
+        "regions": [
+          8
+        ],
+        "that": [
+          9,
+          88,
+          175
+        ],
+        "located": [
+          11
+        ],
+        "within": [
+          12,
+          129
+        ],
+        "the": [
+          13,
+          31,
+          33,
+          39,
+          51,
+          58,
+          63,
+          80,
+          130,
+          140,
+          147,
+          151,
+          154,
+          161
+        ],
+        "supratidal": [
+          14
+        ],
+        "zone": [
+          15
+        ],
+        "when": [
+          16
+        ],
+        "high": [
+          17,
+          23
+        ],
+        "rates": [
+          18
+        ],
+        "of": [
+          19,
+          41,
+          67,
+          79,
+          103,
+          153,
+          163
+        ],
+        "evaporation": [
+          20
+        ],
+        "lead": [
+          21
+        ],
+        "to": [
+          22,
+          53
+        ],
+        "salinity.": [
+          24
+        ],
+        "While": [
+          25
+        ],
+        "evaporitic": [
+          26
+        ],
+        "minerals": [
+          27
+        ],
+        "often": [
+          28
+        ],
+        "accumulate": [
+          29
+        ],
+        "underneath": [
+          30
+        ],
+        "surface,": [
+          32
+        ],
+        "microbial": [
+          34
+        ],
+        "mats": [
+          35
+        ],
+        "present": [
+          37,
+          59
+        ],
+        "on": [
+          38
+        ],
+        "surface": [
+          40
+        ],
+        "Sabkhas.": [
+          42
+        ],
+        "Sabkha,": [
+          44
+        ],
+        "an": [
+          45
+        ],
+        "under-studied": [
+          46
+        ],
+        "ecosystem": [
+          47
+        ],
+        "Qatar,": [
+          49
+        ],
+        "has": [
+          50
+        ],
+        "potential": [
+          52,
+          95
+        ],
+        "store": [
+          54
+        ],
+        "blue": [
+          55,
+          181
+        ],
+        "carbon.": [
+          56
+        ],
+        "In": [
+          57
+        ],
+        "study,": [
+          60
+        ],
+        "we": [
+          61
+        ],
+        "investigated": [
+          62
+        ],
+        "carbon": [
+          64,
+          81,
+          98,
+          101,
+          134,
+          148,
+          182
+        ],
+        "storage": [
+          65,
+          99
+        ],
+        "capacity": [
+          66
+        ],
+        "two": [
+          68
+        ],
+        "from": [
+          70
+        ],
+        "contrasting": [
+          71
+        ],
+        "geological": [
+          72
+        ],
+        "backgrounds.": [
+          73
+        ],
+        "The": [
+          74,
+          85
+        ],
+        "spatial": [
+          75
+        ],
+        "and": [
+          76,
+          110,
+          120
+        ],
+        "temporal": [
+          77
+        ],
+        "variabilities": [
+          78
+        ],
+        "stocks": [
+          82,
+          102,
+          135,
+          149
+        ],
+        "were": [
+          83,
+          156
+        ],
+        "examined.": [
+          84
+        ],
+        "results": [
+          86
+        ],
+        "showed": [
+          87
+        ],
+        "both": [
+          89
+        ],
+        "studied": [
+          90
+        ],
+        "exhibit": [
+          92
+        ],
+        "a": [
+          93
+        ],
+        "considerable": [
+          94
+        ],
+        "for": [
+          96,
+          133
+        ],
+        "soil": [
+          97
+        ],
+        "with": [
+          100
+        ],
+        "109.11": [
+          104
+        ],
+        "±": [
+          105,
+          112,
+          167
+        ],
+        "7.07": [
+          106
+        ],
+        "Mg": [
+          107,
+          114,
+          143,
+          169
+        ],
+        "C": [
+          108,
+          115,
+          144,
+          170
+        ],
+        "ha<sup>-1</sup>": [
+          109,
+          116
+        ],
+        "67.77": [
+          111
+        ],
+        "18.10": [
+          113
+        ],
+        "Dohat": [
+          118
+        ],
+        "Faishakh": [
+          119
+        ],
+        "Khor": [
+          121
+        ],
+        "al": [
+          122
+        ],
+        "Adaid": [
+          123
+        ],
+        "Sabkha": [
+          124
+        ],
+        "respectively.": [
+          125
+        ],
+        "These": [
+          126,
+          172
+        ],
+        "values": [
+          127
+        ],
+        "fall": [
+          128
+        ],
+        "reported": [
+          131
+        ],
+        "range": [
+          132
+        ],
+        "region": [
+          141
+        ],
+        "(51-194": [
+          142
+        ],
+        "ha<sup>-1</sup>).": [
+          145,
+          171
+        ],
+        "Interestingly,": [
+          146
+        ],
+        "sediments": [
+          152,
+          162
+        ],
+        "higher": [
+          157
+        ],
+        "than": [
+          158
+        ],
+        "those": [
+          159
+        ],
+        "Qatari": [
+          164
+        ],
+        "mangroves": [
+          165
+        ],
+        "(50.17": [
+          166
+        ],
+        "6.27": [
+          168
+        ],
+        "finding": [
+          173
+        ],
+        "suggest": [
+          174
+        ],
+        "can": [
+          178
+        ],
+        "serve": [
+          179
+        ],
+        "as": [
+          180
+        ],
+        "ecosystems": [
+          183
+        ],
+        "environments.": [
+          186
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -24941,7 +25985,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-02T08:37:19.008085",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25544,16 +26588,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -26095,8 +27139,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26930,9 +27974,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -26974,8 +28018,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3214716846.pdf",
@@ -28194,8 +29238,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -28981,9 +30025,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28995,8 +30039,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -30371,9 +31415,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -30408,8 +31452,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -31616,9 +32660,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -31657,8 +32701,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -32587,9 +33631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -32614,8 +33658,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -33509,16 +34553,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -34795,16 +35839,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36566,8 +37610,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -37274,9 +38318,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -37288,8 +38332,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -38170,16 +39214,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -38948,16 +39992,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -40044,16 +41088,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -40973,16 +42017,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -41757,16 +42801,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -42620,8 +43664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43800,9 +44844,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -43814,8 +44858,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -44419,16 +45463,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -45008,16 +46052,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46040,8 +47084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -47063,9 +48107,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -47107,8 +48151,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -47638,9 +48682,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -47652,8 +48696,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49050,9 +50094,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -49089,8 +50133,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393006178.pdf"
@@ -49616,16 +50660,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3113164394.pdf",
@@ -50710,9 +51754,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -50724,8 +51768,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -51360,9 +52404,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -51374,8 +52418,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -51863,16 +52907,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52398,9 +53442,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -52412,8 +53456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -53003,9 +54047,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -53017,8 +54061,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2942466463.pdf",
@@ -53894,9 +54938,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -53908,8 +54952,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -54693,9 +55737,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5099999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5099999904632568
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -54715,8 +55759,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -56059,8 +57103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -56824,11 +57868,11 @@
         "currency": "EUR",
         "value_usd": 2890
       },
-      "fwci": 0.346,
+      "fwci": 0.3457,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.48534905,
+        "value": 0.48520902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57268,9 +58312,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -57305,8 +58349,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362584973.pdf"
@@ -57343,500 +58387,14 @@
         "https://openalex.org/W1548670372",
         "https://openalex.org/W1562536427"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Core": [
-          1
-        ],
-        "samples": [
-          2,
-          21
-        ],
-        "were": [
-          3,
-          22,
-          85,
-          149
-        ],
-        "collected": [
-          4
-        ],
-        "from": [
-          5,
-          13,
-          109
-        ],
-        "three": [
-          6
-        ],
-        "wells,": [
-          7
-        ],
-        "one": [
-          8
-        ],
-        "onshore": [
-          9
-        ],
-        "and": [
-          10,
-          27,
-          34,
-          37,
-          41,
-          47,
-          67,
-          80,
-          111,
-          125,
-          135,
-          167,
-          199
-        ],
-        "two": [
-          11
-        ],
-        "offshore,": [
-          12
-        ],
-        "Qatar’s": [
-          14
-        ],
-        "Upper": [
-          15
-        ],
-        "Jurassic": [
-          16
-        ],
-        "Arab": [
-          17,
-          54,
-          207
-        ],
-        "D": [
-          18,
-          55
-        ],
-        "reservoir.": [
-          19
-        ],
-        "The": [
-          20,
-          115,
-          187
-        ],
-        "subjected": [
-          23
-        ],
-        "to": [
-          24,
-          30,
-          120,
-          141,
-          178
-        ],
-        "multiproxy": [
-          25
-        ],
-        "petrographic": [
-          26,
-          46
-        ],
-        "chemical": [
-          28
-        ],
-        "analyses": [
-          29
-        ],
-        "identify": [
-          31
-        ],
-        "their": [
-          32,
-          39
-        ],
-        "micro-": [
-          33
-        ],
-        "nanoporosity": [
-          35
-        ],
-        "types": [
-          36,
-          71
-        ],
-        "understand": [
-          38
-        ],
-        "evolution": [
-          40
-        ],
-        "destruction.": [
-          42
-        ],
-        "Based": [
-          43
-        ],
-        "on": [
-          44
-        ],
-        "the": [
-          45,
-          53,
-          89,
-          93,
-          98,
-          101,
-          121,
-          129,
-          172,
-          191,
-          197,
-          202,
-          206
-        ],
-        "petrophysical": [
-          48
-        ],
-        "properties": [
-          49
-        ],
-        "of": [
-          50,
-          103,
-          123,
-          184,
-          190,
-          201,
-          205
-        ],
-        "studied": [
-          51,
-          192
-        ],
-        "rocks,": [
-          52
-        ],
-        "succession": [
-          56
-        ],
-        "was": [
-          57,
-          163
-        ],
-        "divided": [
-          58
-        ],
-        "into": [
-          59
-        ],
-        "seven": [
-          60
-        ],
-        "rock": [
-          61
-        ],
-        "types.": [
-          62
-        ],
-        "Primary": [
-          63,
-          83
-        ],
-        "microporosity": [
-          64
-        ],
-        "includes": [
-          65
-        ],
-        "intergranular": [
-          66
-        ],
-        "interplanar,": [
-          68
-        ],
-        "while": [
-          69,
-          128
-        ],
-        "secondary": [
-          70
-        ],
-        "include": [
-          72
-        ],
-        "vuggy,": [
-          73
-        ],
-        "intercrystalline,": [
-          74
-        ],
-        "moldic,": [
-          75
-        ],
-        "dissolution,": [
-          76
-        ],
-        "pyrite": [
-          77,
-          133
-        ],
-        "displacement,": [
-          78
-        ],
-        "microfracture,": [
-          79
-        ],
-        "microbial": [
-          81,
-          159
-        ],
-        "boring.": [
-          82
-        ],
-        "micropores": [
-          84,
-          107
-        ],
-        "found": [
-          86
-        ],
-        "mainly": [
-          87
-        ],
-        "between": [
-          88,
-          97
-        ],
-        "micrite": [
-          90
-        ],
-        "grains": [
-          91,
-          99
-        ],
-        "in": [
-          92,
-          165,
-          169,
-          171,
-          180
-        ],
-        "lime": [
-          94
-        ],
-        "mudstone": [
-          95
-        ],
-        "facies,": [
-          96
-        ],
-        "or": [
-          100,
-          144,
-          158
-        ],
-        "plates": [
-          102
-        ],
-        "clay": [
-          104,
-          154
-        ],
-        "minerals.": [
-          105
-        ],
-        "Secondary": [
-          106
-        ],
-        "result": [
-          108
-        ],
-        "open": [
-          110,
-          116
-        ],
-        "closed": [
-          112,
-          130
-        ],
-        "diagenetic": [
-          113,
-          117
-        ],
-        "systems.": [
-          114
-        ],
-        "system": [
-          118,
-          131,
-          204
-        ],
-        "led": [
-          119
-        ],
-        "development": [
-          122,
-          198
-        ],
-        "dissolution": [
-          124
-        ],
-        "moldic": [
-          126
-        ],
-        "micropores,": [
-          127
-        ],
-        "created": [
-          132
-        ],
-        "displacement": [
-          134,
-          145
-        ],
-        "boring": [
-          136
-        ],
-        "porosity.": [
-          137
-        ],
-        "Mechanical": [
-          138
-        ],
-        "stress": [
-          139
-        ],
-        "due": [
-          140
-        ],
-        "crystal": [
-          142
-        ],
-        "growth": [
-          143
-        ],
-        "generated": [
-          146
-        ],
-        "microfractures.": [
-          147
-        ],
-        "Micropores": [
-          148
-        ],
-        "destroyed": [
-          150
-        ],
-        "either": [
-          151
-        ],
-        "by": [
-          152
-        ],
-        "cementation,": [
-          153
-        ],
-        "minerals": [
-          155
-        ],
-        "growth,": [
-          156
-        ],
-        "dolomitization,": [
-          157
-        ],
-        "pustular": [
-          160
-        ],
-        "overgrowth.": [
-          161
-        ],
-        "Microporosity": [
-          162
-        ],
-        "important": [
-          164
-        ],
-        "quantity": [
-          166
-        ],
-        "varied": [
-          168
-        ],
-        "nature": [
-          170
-        ],
-        "mud-supported": [
-          173
-        ],
-        "rocks.": [
-          174
-        ],
-        "They": [
-          175
-        ],
-        "are": [
-          176
-        ],
-        "similar": [
-          177
-        ],
-        "macropores": [
-          179
-        ],
-        "grain-supported": [
-          181
-        ],
-        "sediments": [
-          182
-        ],
-        "but": [
-          183
-        ],
-        "less": [
-          185
-        ],
-        "importance.": [
-          186
-        ],
-        "complex": [
-          188
-        ],
-        "lithology": [
-          189
-        ],
-        "rocks": [
-          193
-        ],
-        "has": [
-          194
-        ],
-        "significantly": [
-          195
-        ],
-        "influenced": [
-          196
-        ],
-        "destruction": [
-          200
-        ],
-        "porosity": [
-          203
-        ],
-        "Formation.": [
-          208
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58377,16 +58935,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59992,8 +60550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf"
@@ -60955,11 +61513,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8007,
+      "fwci": 1.9668,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.81476716,
+        "value": 0.8308692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61319,8 +61877,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -61374,500 +61932,14 @@
         "https://openalex.org/W2575121716",
         "https://openalex.org/W2438534850"
       ],
-      "abstract_inverted_index": {
-        "Shale": [
-          0,
-          44,
-          94,
-          121
-        ],
-        "gas": [
-          1,
-          9,
-          20,
-          30
-        ],
-        "is": [
-          2,
-          83,
-          178
-        ],
-        "considered": [
-          3
-        ],
-        "one": [
-          4
-        ],
-        "of": [
-          5,
-          42,
-          92,
-          110,
-          141,
-          158,
-          206
-        ],
-        "the": [
-          6,
-          15,
-          36,
-          48,
-          65,
-          84,
-          119,
-          138,
-          175,
-          197
-        ],
-        "promising": [
-          7
-        ],
-        "unconventional": [
-          8
-        ],
-        "reservoirs": [
-          10,
-          31
-        ],
-        "that": [
-          11,
-          81,
-          132,
-          174
-        ],
-        "would": [
-          12
-        ],
-        "help": [
-          13
-        ],
-        "meet": [
-          14
-        ],
-        "current": [
-          16
-        ],
-        "demand": [
-          17
-        ],
-        "for": [
-          18,
-          191
-        ],
-        "natural": [
-          19
-        ],
-        "as": [
-          21,
-          100,
-          105,
-          107,
-          126,
-          164,
-          187
-        ],
-        "a": [
-          22,
-          188,
-          202,
-          211
-        ],
-        "clean": [
-          23
-        ],
-        "energy": [
-          24
-        ],
-        "resource.": [
-          25
-        ],
-        "Qatar": [
-          26
-        ],
-        "has": [
-          27,
-          184,
-          201
-        ],
-        "several": [
-          28
-        ],
-        "shale": [
-          29,
-          143
-        ],
-        "from": [
-          32,
-          47
-        ],
-        "diverse": [
-          33
-        ],
-        "epochs,": [
-          34
-        ],
-        "including": [
-          35,
-          113
-        ],
-        "Eocene": [
-          37
-        ],
-        "Midra": [
-          38,
-          43,
-          88,
-          93,
-          120,
-          161
-        ],
-        "Shale.": [
-          39,
-          89
-        ],
-        "Outcrop": [
-          40
-        ],
-        "samples": [
-          41
-        ],
-        "were": [
-          45,
-          61
-        ],
-        "collected": [
-          46
-        ],
-        "Umm": [
-          49,
-          198
-        ],
-        "Bab": [
-          50,
-          199
-        ],
-        "and": [
-          51,
-          54,
-          57,
-          68,
-          76,
-          103,
-          116,
-          129,
-          167,
-          183
-        ],
-        "Dukhan": [
-          52,
-          176
-        ],
-        "areas,": [
-          53
-        ],
-        "multiple": [
-          55
-        ],
-        "measuring": [
-          56
-        ],
-        "geochemical": [
-          58,
-          171
-        ],
-        "analysis": [
-          59,
-          75,
-          172
-        ],
-        "techniques": [
-          60
-        ],
-        "utilized": [
-          62
-        ],
-        "to": [
-          63
-        ],
-        "characterize": [
-          64
-        ],
-        "mineralogy,": [
-          66
-        ],
-        "microstructure,": [
-          67
-        ],
-        "pores": [
-          69,
-          159
-        ],
-        "type.": [
-          70
-        ],
-        "X-ray": [
-          71,
-          77
-        ],
-        "diffraction": [
-          72
-        ],
-        "(XRD)": [
-          73
-        ],
-        "mineralogy": [
-          74,
-          91
-        ],
-        "Fluorescence": [
-          78
-        ],
-        "(XRF)": [
-          79
-        ],
-        "indicated": [
-          80
-        ],
-        "palygorskite": [
-          82
-        ],
-        "dominant": [
-          85
-        ],
-        "clay": [
-          86
-        ],
-        "in": [
-          87,
-          160,
-          180
-        ],
-        "The": [
-          90,
-          170
-        ],
-        "includes": [
-          95
-        ],
-        "other": [
-          96,
-          111
-        ],
-        "minor": [
-          97
-        ],
-        "minerals": [
-          98
-        ],
-        "such": [
-          99,
-          125,
-          163
-        ],
-        "calcite,": [
-          101
-        ],
-        "quartz,": [
-          102
-        ],
-        "halite,": [
-          104
-        ],
-        "well": [
-          106
-        ],
-        "low": [
-          108,
-          185
-        ],
-        "content": [
-          109
-        ],
-        "clays,": [
-          112
-        ],
-        "sepiolite,": [
-          114
-        ],
-        "smectite,": [
-          115
-        ],
-        "illite.": [
-          117
-        ],
-        "Although": [
-          118
-        ],
-        "contains": [
-          122
-        ],
-        "many": [
-          123
-        ],
-        "elements,": [
-          124
-        ],
-        "shark": [
-          127
-        ],
-        "teeth": [
-          128
-        ],
-        "large": [
-          130
-        ],
-        "foraminifera": [
-          131
-        ],
-        "support": [
-          133
-        ],
-        "deposition": [
-          134
-        ],
-        "under": [
-          135
-        ],
-        "marine": [
-          136,
-          146
-        ],
-        "conditions,": [
-          137
-        ],
-        "existence": [
-          139
-        ],
-        "horizons": [
-          140
-        ],
-        "laminated": [
-          142
-        ],
-        "designate": [
-          144
-        ],
-        "mixed": [
-          145
-        ],
-        "continental": [
-          147
-        ],
-        "depositional": [
-          148
-        ],
-        "settings.": [
-          149
-        ],
-        "Scanning": [
-          150
-        ],
-        "electron": [
-          151
-        ],
-        "microscope": [
-          152
-        ],
-        "(SEM)": [
-          153
-        ],
-        "images": [
-          154
-        ],
-        "revealed": [
-          155,
-          173
-        ],
-        "various": [
-          156
-        ],
-        "types": [
-          157
-        ],
-        "Shale,": [
-          162
-        ],
-        "intragranular,": [
-          165
-        ],
-        "intergranular,": [
-          166
-        ],
-        "organic": [
-          168,
-          181,
-          207
-        ],
-        "pores.": [
-          169
-        ],
-        "section": [
-          177
-        ],
-        "poor": [
-          179
-        ],
-        "matter": [
-          182
-        ],
-        "potential": [
-          186,
-          212
-        ],
-        "source": [
-          189,
-          213
-        ],
-        "rock": [
-          190
-        ],
-        "oil": [
-          192
-        ],
-        "or": [
-          193
-        ],
-        "gas.": [
-          194
-        ],
-        "In": [
-          195
-        ],
-        "contrast,": [
-          196
-        ],
-        "Section": [
-          200
-        ],
-        "relatively": [
-          203
-        ],
-        "high": [
-          204
-        ],
-        "amount": [
-          205
-        ],
-        "carbon,": [
-          208
-        ],
-        "making": [
-          209
-        ],
-        "it": [
-          210
-        ],
-        "rock.": [
-          214
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62377,9 +62449,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -62391,8 +62463,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -63548,16 +63620,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6100000143051147,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65270,16 +65342,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2796282768.pdf",
@@ -66966,16 +67038,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68708,8 +68780,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389947940.pdf"
@@ -70187,16 +70259,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71662,9 +71734,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -71681,8 +71753,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -72900,16 +72972,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74371,9 +74443,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -74395,8 +74467,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -74938,8 +75010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -75376,16 +75448,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2126440970.pdf",
@@ -76710,8 +76782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -77451,16 +77523,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79421,8 +79493,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -80571,8 +80643,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81836,16 +81908,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -82629,16 +82701,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -85341,16 +85413,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224294682.pdf",
@@ -86347,9 +86419,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -86393,8 +86465,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 129,
@@ -87019,8 +87091,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87419,16 +87491,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87962,16 +88034,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89247,16 +89319,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90744,16 +90816,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91247,8 +91319,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91570,16 +91642,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91944,16 +92016,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92491,16 +92563,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6000000238418579,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92834,16 +92906,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5400000214576721,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93165,16 +93237,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93496,16 +93568,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.550000011920929,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94202,9 +94274,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -94221,8 +94293,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -95278,8 +95350,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -96581,9 +96653,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -96595,8 +96667,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -97617,16 +97689,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -98165,16 +98237,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.699999988079071
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -98837,8 +98909,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99395,16 +99467,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100053,16 +100125,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100454,8 +100526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf"
@@ -101224,8 +101296,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391532219.pdf"
@@ -102032,8 +102104,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399515790.pdf"
@@ -102873,8 +102945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -103246,8 +103318,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104128,16 +104200,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105407,16 +105479,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105902,8 +105974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf"
@@ -106194,8 +106266,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414525693.pdf"
@@ -106486,8 +106558,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -106822,8 +106894,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -107140,8 +107212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -107460,8 +107532,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -107786,8 +107858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -108119,8 +108191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -108445,8 +108517,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -108791,8 +108863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -109124,8 +109196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,

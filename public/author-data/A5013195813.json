@@ -297,7 +297,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003061,
+        "value": 0.0003059,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -314,7 +314,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002835,
+        "value": 0.0002832,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -331,7 +331,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001876,
+        "value": 0.0001873,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -568,7 +568,7 @@
     },
     "block_key": "k dirk",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-03-03T12:20:50",
+    "updated_date": "2026-03-04T12:21:33",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -978,9 +978,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -1445,11 +1445,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.2642,
+      "fwci": 13.8625,
       "has_fulltext": false,
-      "cited_by_count": 161,
+      "cited_by_count": 162,
       "citation_normalized_percentile": {
-        "value": 0.98404255,
+        "value": 0.98461538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1712,9 +1712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -1761,7 +1761,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 29
+          "cited_by_count": 30
         },
         {
           "year": 2024,
@@ -1792,7 +1792,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2144,9 +2144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -3968,11 +3968,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 101.82,
+      "fwci": 101.9129,
       "has_fulltext": false,
       "cited_by_count": 84,
       "citation_normalized_percentile": {
-        "value": 0.99940733,
+        "value": 0.99940789,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4467,7 +4467,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4888,9 +4888,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6522,9 +6522,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -6662,6 +6662,825 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W155005340",
+      "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
+      "title": "Shallow-Marine Carbonates",
+      "display_name": "Shallow-Marine Carbonates",
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W155005340",
+        "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
+        "mag": "155005340"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-444-53813-0.00023-x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2765064486",
+          "display_name": "Developments in sedimentology",
+          "issn_l": "0070-4571",
+          "issn": [
+            "0070-4571",
+            "2352-2844"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Developments in Sedimentology",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Statoil ASA, Stavanger, Norway"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA, Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033708506",
+            "display_name": "H. Allen Curran",
+            "orcid": "https://orcid.org/0000-0002-1477-3798"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I202524275",
+              "display_name": "Smith College",
+              "ror": "https://ror.org/0497crr92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I202524275"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "H. Allen Curran",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Smith College, Northampton, Massachusetts, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Smith College, Northampton, Massachusetts, USA",
+              "institution_ids": [
+                "https://openalex.org/I202524275"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5082408066",
+            "display_name": "A. V. Dronov",
+            "orcid": "https://orcid.org/0000-0002-0229-8598"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124538",
+              "display_name": "Geological Institute",
+              "ror": "https://ror.org/02f0cra24",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210124538",
+                "https://openalex.org/I4210163714"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrei V. Dronov",
+          "raw_affiliation_strings": [
+            "Russian Academy of Sciences, Geological Institute, Moscow, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Russian Academy of Sciences, Geological Institute, Moscow, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210124538"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013195813"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I49324905"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 11.8904,
+      "has_fulltext": false,
+      "cited_by_count": 67,
+      "citation_normalized_percentile": {
+        "value": 0.9822294,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "705",
+        "last_page": "750"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ichnofacies",
+          "display_name": "Ichnofacies",
+          "score": 0.922533392906189
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8798017501831055
+        },
+        {
+          "id": "https://openalex.org/keywords/siliciclastic",
+          "display_name": "Siliciclastic",
+          "score": 0.818647027015686
+        },
+        {
+          "id": "https://openalex.org/keywords/ichnology",
+          "display_name": "Ichnology",
+          "score": 0.7083016633987427
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-fossil",
+          "display_name": "Trace fossil",
+          "score": 0.6891182661056519
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.6727825999259949
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6646325588226318
+        },
+        {
+          "id": "https://openalex.org/keywords/ooid",
+          "display_name": "Ooid",
+          "score": 0.6379808783531189
+        },
+        {
+          "id": "https://openalex.org/keywords/bioerosion",
+          "display_name": "Bioerosion",
+          "score": 0.5951619148254395
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5636503100395203
+        },
+        {
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "Bioturbation",
+          "score": 0.5034179091453552
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.47933468222618103
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-structures",
+          "display_name": "Sedimentary structures",
+          "score": 0.41053104400634766
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3374546766281128
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.17868560552597046
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.15460145473480225
+        },
+        {
+          "id": "https://openalex.org/keywords/reef",
+          "display_name": "Reef",
+          "score": 0.12508517503738403
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778053807",
+          "wikidata": "https://www.wikidata.org/wiki/Q5986365",
+          "display_name": "Ichnofacies",
+          "level": 4,
+          "score": 0.922533392906189
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8798017501831055
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.818647027015686
+        },
+        {
+          "id": "https://openalex.org/C186847809",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Ichnology",
+          "level": 3,
+          "score": 0.7083016633987427
+        },
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.6891182661056519
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6727825999259949
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6646325588226318
+        },
+        {
+          "id": "https://openalex.org/C2781471533",
+          "wikidata": "https://www.wikidata.org/wiki/Q642735",
+          "display_name": "Ooid",
+          "level": 4,
+          "score": 0.6379808783531189
+        },
+        {
+          "id": "https://openalex.org/C156137136",
+          "wikidata": "https://www.wikidata.org/wiki/Q4120531",
+          "display_name": "Bioerosion",
+          "level": 3,
+          "score": 0.5951619148254395
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5636503100395203
+        },
+        {
+          "id": "https://openalex.org/C153018869",
+          "wikidata": "https://www.wikidata.org/wiki/Q864907",
+          "display_name": "Bioturbation",
+          "level": 3,
+          "score": 0.5034179091453552
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.47933468222618103
+        },
+        {
+          "id": "https://openalex.org/C134872888",
+          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
+          "display_name": "Sedimentary structures",
+          "level": 4,
+          "score": 0.41053104400634766
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3374546766281128
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.17868560552597046
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.15460145473480225
+        },
+        {
+          "id": "https://openalex.org/C77044568",
+          "wikidata": "https://www.wikidata.org/wiki/Q184358",
+          "display_name": "Reef",
+          "level": 2,
+          "score": 0.12508517503738403
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-444-53813-0.00023-x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2765064486",
+            "display_name": "Developments in sedimentology",
+            "issn_l": "0070-4571",
+            "issn": [
+              "0070-4571",
+              "2352-2844"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Developments in Sedimentology",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 185,
+      "referenced_works": [
+        "https://openalex.org/W19943757",
+        "https://openalex.org/W27971037",
+        "https://openalex.org/W57472241",
+        "https://openalex.org/W104048482",
+        "https://openalex.org/W199967141",
+        "https://openalex.org/W560158229",
+        "https://openalex.org/W562514871",
+        "https://openalex.org/W580827773",
+        "https://openalex.org/W583387922",
+        "https://openalex.org/W612472691",
+        "https://openalex.org/W621497027",
+        "https://openalex.org/W623411409",
+        "https://openalex.org/W631439509",
+        "https://openalex.org/W633821327",
+        "https://openalex.org/W635410625",
+        "https://openalex.org/W940242772",
+        "https://openalex.org/W983936503",
+        "https://openalex.org/W1445124937",
+        "https://openalex.org/W1495725605",
+        "https://openalex.org/W1500381962",
+        "https://openalex.org/W1582475895",
+        "https://openalex.org/W1593195006",
+        "https://openalex.org/W1596243404",
+        "https://openalex.org/W1846717169",
+        "https://openalex.org/W1892420698",
+        "https://openalex.org/W1921761581",
+        "https://openalex.org/W1939820890",
+        "https://openalex.org/W1965243051",
+        "https://openalex.org/W1967038285",
+        "https://openalex.org/W1968457267",
+        "https://openalex.org/W1969706710",
+        "https://openalex.org/W1971780496",
+        "https://openalex.org/W1972203238",
+        "https://openalex.org/W1972236156",
+        "https://openalex.org/W1973755068",
+        "https://openalex.org/W1974997190",
+        "https://openalex.org/W1975115126",
+        "https://openalex.org/W1978128032",
+        "https://openalex.org/W1982215144",
+        "https://openalex.org/W1984990588",
+        "https://openalex.org/W1989335306",
+        "https://openalex.org/W1990582102",
+        "https://openalex.org/W1992878607",
+        "https://openalex.org/W1999047362",
+        "https://openalex.org/W1999626549",
+        "https://openalex.org/W2000521198",
+        "https://openalex.org/W2010535835",
+        "https://openalex.org/W2011887770",
+        "https://openalex.org/W2012657889",
+        "https://openalex.org/W2013181797",
+        "https://openalex.org/W2013432809",
+        "https://openalex.org/W2013789424",
+        "https://openalex.org/W2015219053",
+        "https://openalex.org/W2017749108",
+        "https://openalex.org/W2018223085",
+        "https://openalex.org/W2020594208",
+        "https://openalex.org/W2021627647",
+        "https://openalex.org/W2028415292",
+        "https://openalex.org/W2033621187",
+        "https://openalex.org/W2035087866",
+        "https://openalex.org/W2036426854",
+        "https://openalex.org/W2038362045",
+        "https://openalex.org/W2040928855",
+        "https://openalex.org/W2042222106",
+        "https://openalex.org/W2043158198",
+        "https://openalex.org/W2049073934",
+        "https://openalex.org/W2049985560",
+        "https://openalex.org/W2053593932",
+        "https://openalex.org/W2056560769",
+        "https://openalex.org/W2057215350",
+        "https://openalex.org/W2059079395",
+        "https://openalex.org/W2066250998",
+        "https://openalex.org/W2067357877",
+        "https://openalex.org/W2071210567",
+        "https://openalex.org/W2077294101",
+        "https://openalex.org/W2081009732",
+        "https://openalex.org/W2084148629",
+        "https://openalex.org/W2084750921",
+        "https://openalex.org/W2087108071",
+        "https://openalex.org/W2091424027",
+        "https://openalex.org/W2092791864",
+        "https://openalex.org/W2092878706",
+        "https://openalex.org/W2096125967",
+        "https://openalex.org/W2099404564",
+        "https://openalex.org/W2102197957",
+        "https://openalex.org/W2105182242",
+        "https://openalex.org/W2119913064",
+        "https://openalex.org/W2124693350",
+        "https://openalex.org/W2125204970",
+        "https://openalex.org/W2137092317",
+        "https://openalex.org/W2138099875",
+        "https://openalex.org/W2143999902",
+        "https://openalex.org/W2144134336",
+        "https://openalex.org/W2147576281",
+        "https://openalex.org/W2147981386",
+        "https://openalex.org/W2151935137",
+        "https://openalex.org/W2154346409",
+        "https://openalex.org/W2155013368",
+        "https://openalex.org/W2158888928",
+        "https://openalex.org/W2169964049",
+        "https://openalex.org/W2170597649",
+        "https://openalex.org/W2171429034",
+        "https://openalex.org/W2173206775",
+        "https://openalex.org/W2175799887",
+        "https://openalex.org/W2191061991",
+        "https://openalex.org/W2223885932",
+        "https://openalex.org/W2240259745",
+        "https://openalex.org/W2244098520",
+        "https://openalex.org/W2248608004",
+        "https://openalex.org/W2253966156",
+        "https://openalex.org/W2269143928",
+        "https://openalex.org/W2315458053",
+        "https://openalex.org/W2329547329",
+        "https://openalex.org/W2336522318",
+        "https://openalex.org/W2341108047",
+        "https://openalex.org/W2344196537",
+        "https://openalex.org/W2405913621",
+        "https://openalex.org/W2416583025",
+        "https://openalex.org/W2464807182",
+        "https://openalex.org/W2476147674",
+        "https://openalex.org/W2479749307",
+        "https://openalex.org/W2481645860",
+        "https://openalex.org/W2495478982",
+        "https://openalex.org/W2587430983",
+        "https://openalex.org/W2593235997",
+        "https://openalex.org/W2598808698",
+        "https://openalex.org/W2606961253",
+        "https://openalex.org/W2741025674",
+        "https://openalex.org/W2757163403",
+        "https://openalex.org/W2908488897",
+        "https://openalex.org/W2976043901",
+        "https://openalex.org/W2982501932",
+        "https://openalex.org/W2982550512",
+        "https://openalex.org/W2982757741",
+        "https://openalex.org/W3211086015",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W4214634148",
+        "https://openalex.org/W4245823893",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6600805876",
+        "https://openalex.org/W6601138127",
+        "https://openalex.org/W6602306961",
+        "https://openalex.org/W6604217534",
+        "https://openalex.org/W6608093480",
+        "https://openalex.org/W6620551025",
+        "https://openalex.org/W6624540214",
+        "https://openalex.org/W6625641032",
+        "https://openalex.org/W6628529999",
+        "https://openalex.org/W6638657134",
+        "https://openalex.org/W6640088405",
+        "https://openalex.org/W6640307871",
+        "https://openalex.org/W6647848268",
+        "https://openalex.org/W6658990461",
+        "https://openalex.org/W6660057852",
+        "https://openalex.org/W6663203351",
+        "https://openalex.org/W6666950654",
+        "https://openalex.org/W6670562747",
+        "https://openalex.org/W6674736995",
+        "https://openalex.org/W6678675288",
+        "https://openalex.org/W6680039869",
+        "https://openalex.org/W6680289203",
+        "https://openalex.org/W6681715352",
+        "https://openalex.org/W6682435159",
+        "https://openalex.org/W6682486066",
+        "https://openalex.org/W6686985491",
+        "https://openalex.org/W6704205406",
+        "https://openalex.org/W6704557326",
+        "https://openalex.org/W6713643550",
+        "https://openalex.org/W6716402548",
+        "https://openalex.org/W6720858351",
+        "https://openalex.org/W6721564435",
+        "https://openalex.org/W6727380279",
+        "https://openalex.org/W6733176360",
+        "https://openalex.org/W6734586931",
+        "https://openalex.org/W6735696945",
+        "https://openalex.org/W6742035698",
+        "https://openalex.org/W6742818879",
+        "https://openalex.org/W6742992632",
+        "https://openalex.org/W6743191895",
+        "https://openalex.org/W6743956162",
+        "https://openalex.org/W6757942714",
+        "https://openalex.org/W6769705177",
+        "https://openalex.org/W6808654544",
+        "https://openalex.org/W7055279259",
+        "https://openalex.org/W7057137084"
+      ],
+      "related_works": [
+        "https://openalex.org/W2624479552",
+        "https://openalex.org/W4385754251",
+        "https://openalex.org/W4382243992",
+        "https://openalex.org/W2754536002",
+        "https://openalex.org/W3143524442",
+        "https://openalex.org/W2805759255",
+        "https://openalex.org/W4206105019",
+        "https://openalex.org/W4289450225",
+        "https://openalex.org/W2012335291",
+        "https://openalex.org/W155005340"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6994,9 +7813,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -8218,9 +9037,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -8687,9 +9506,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -9662,9 +10481,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -10174,9 +10993,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -11631,9 +12450,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -12309,9 +13128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -12843,825 +13662,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W155005340",
-      "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
-      "title": "Shallow-Marine Carbonates",
-      "display_name": "Shallow-Marine Carbonates",
-      "publication_year": 2012,
-      "publication_date": "2012-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W155005340",
-        "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
-        "mag": "155005340"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-444-53813-0.00023-x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2765064486",
-          "display_name": "Developments in sedimentology",
-          "issn_l": "0070-4571",
-          "issn": [
-            "0070-4571",
-            "2352-2844"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Developments in Sedimentology",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Statoil ASA, Stavanger, Norway"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Statoil ASA, Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5033708506",
-            "display_name": "H. Allen Curran",
-            "orcid": "https://orcid.org/0000-0002-1477-3798"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I202524275",
-              "display_name": "Smith College",
-              "ror": "https://ror.org/0497crr92",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I202524275"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "H. Allen Curran",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Smith College, Northampton, Massachusetts, USA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Smith College, Northampton, Massachusetts, USA",
-              "institution_ids": [
-                "https://openalex.org/I202524275"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5082408066",
-            "display_name": "A. V. Dronov",
-            "orcid": "https://orcid.org/0000-0002-0229-8598"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210124538",
-              "display_name": "Geological Institute",
-              "ror": "https://ror.org/02f0cra24",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210124538",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrei V. Dronov",
-          "raw_affiliation_strings": [
-            "Russian Academy of Sciences, Geological Institute, Moscow, Russia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Russian Academy of Sciences, Geological Institute, Moscow, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210124538"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 11.5294,
-      "has_fulltext": false,
-      "cited_by_count": 66,
-      "citation_normalized_percentile": {
-        "value": 0.98126065,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "705",
-        "last_page": "750"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ichnofacies",
-          "display_name": "Ichnofacies",
-          "score": 0.922533392906189
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8798017501831055
-        },
-        {
-          "id": "https://openalex.org/keywords/siliciclastic",
-          "display_name": "Siliciclastic",
-          "score": 0.818647027015686
-        },
-        {
-          "id": "https://openalex.org/keywords/ichnology",
-          "display_name": "Ichnology",
-          "score": 0.7083016633987427
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.6891182661056519
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6727825999259949
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6646325588226318
-        },
-        {
-          "id": "https://openalex.org/keywords/ooid",
-          "display_name": "Ooid",
-          "score": 0.6379808783531189
-        },
-        {
-          "id": "https://openalex.org/keywords/bioerosion",
-          "display_name": "Bioerosion",
-          "score": 0.5951619148254395
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5636503100395203
-        },
-        {
-          "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "Bioturbation",
-          "score": 0.5034179091453552
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.47933468222618103
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-structures",
-          "display_name": "Sedimentary structures",
-          "score": 0.41053104400634766
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3374546766281128
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.17868560552597046
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.15460145473480225
-        },
-        {
-          "id": "https://openalex.org/keywords/reef",
-          "display_name": "Reef",
-          "score": 0.12508517503738403
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778053807",
-          "wikidata": "https://www.wikidata.org/wiki/Q5986365",
-          "display_name": "Ichnofacies",
-          "level": 4,
-          "score": 0.922533392906189
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8798017501831055
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.818647027015686
-        },
-        {
-          "id": "https://openalex.org/C186847809",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Ichnology",
-          "level": 3,
-          "score": 0.7083016633987427
-        },
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.6891182661056519
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6727825999259949
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6646325588226318
-        },
-        {
-          "id": "https://openalex.org/C2781471533",
-          "wikidata": "https://www.wikidata.org/wiki/Q642735",
-          "display_name": "Ooid",
-          "level": 4,
-          "score": 0.6379808783531189
-        },
-        {
-          "id": "https://openalex.org/C156137136",
-          "wikidata": "https://www.wikidata.org/wiki/Q4120531",
-          "display_name": "Bioerosion",
-          "level": 3,
-          "score": 0.5951619148254395
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5636503100395203
-        },
-        {
-          "id": "https://openalex.org/C153018869",
-          "wikidata": "https://www.wikidata.org/wiki/Q864907",
-          "display_name": "Bioturbation",
-          "level": 3,
-          "score": 0.5034179091453552
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.47933468222618103
-        },
-        {
-          "id": "https://openalex.org/C134872888",
-          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
-          "display_name": "Sedimentary structures",
-          "level": 4,
-          "score": 0.41053104400634766
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3374546766281128
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.17868560552597046
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.15460145473480225
-        },
-        {
-          "id": "https://openalex.org/C77044568",
-          "wikidata": "https://www.wikidata.org/wiki/Q184358",
-          "display_name": "Reef",
-          "level": 2,
-          "score": 0.12508517503738403
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-444-53813-0.00023-x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2765064486",
-            "display_name": "Developments in sedimentology",
-            "issn_l": "0070-4571",
-            "issn": [
-              "0070-4571",
-              "2352-2844"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Developments in Sedimentology",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 185,
-      "referenced_works": [
-        "https://openalex.org/W19943757",
-        "https://openalex.org/W27971037",
-        "https://openalex.org/W57472241",
-        "https://openalex.org/W104048482",
-        "https://openalex.org/W199967141",
-        "https://openalex.org/W560158229",
-        "https://openalex.org/W562514871",
-        "https://openalex.org/W580827773",
-        "https://openalex.org/W583387922",
-        "https://openalex.org/W612472691",
-        "https://openalex.org/W621497027",
-        "https://openalex.org/W623411409",
-        "https://openalex.org/W631439509",
-        "https://openalex.org/W633821327",
-        "https://openalex.org/W635410625",
-        "https://openalex.org/W940242772",
-        "https://openalex.org/W983936503",
-        "https://openalex.org/W1445124937",
-        "https://openalex.org/W1495725605",
-        "https://openalex.org/W1500381962",
-        "https://openalex.org/W1582475895",
-        "https://openalex.org/W1593195006",
-        "https://openalex.org/W1596243404",
-        "https://openalex.org/W1846717169",
-        "https://openalex.org/W1892420698",
-        "https://openalex.org/W1921761581",
-        "https://openalex.org/W1939820890",
-        "https://openalex.org/W1965243051",
-        "https://openalex.org/W1967038285",
-        "https://openalex.org/W1968457267",
-        "https://openalex.org/W1969706710",
-        "https://openalex.org/W1971780496",
-        "https://openalex.org/W1972203238",
-        "https://openalex.org/W1972236156",
-        "https://openalex.org/W1973755068",
-        "https://openalex.org/W1974997190",
-        "https://openalex.org/W1975115126",
-        "https://openalex.org/W1978128032",
-        "https://openalex.org/W1982215144",
-        "https://openalex.org/W1984990588",
-        "https://openalex.org/W1989335306",
-        "https://openalex.org/W1990582102",
-        "https://openalex.org/W1992878607",
-        "https://openalex.org/W1999047362",
-        "https://openalex.org/W1999626549",
-        "https://openalex.org/W2000521198",
-        "https://openalex.org/W2010535835",
-        "https://openalex.org/W2011887770",
-        "https://openalex.org/W2012657889",
-        "https://openalex.org/W2013181797",
-        "https://openalex.org/W2013432809",
-        "https://openalex.org/W2013789424",
-        "https://openalex.org/W2015219053",
-        "https://openalex.org/W2017749108",
-        "https://openalex.org/W2018223085",
-        "https://openalex.org/W2020594208",
-        "https://openalex.org/W2021627647",
-        "https://openalex.org/W2028415292",
-        "https://openalex.org/W2033621187",
-        "https://openalex.org/W2035087866",
-        "https://openalex.org/W2036426854",
-        "https://openalex.org/W2038362045",
-        "https://openalex.org/W2040928855",
-        "https://openalex.org/W2042222106",
-        "https://openalex.org/W2043158198",
-        "https://openalex.org/W2049073934",
-        "https://openalex.org/W2049985560",
-        "https://openalex.org/W2053593932",
-        "https://openalex.org/W2056560769",
-        "https://openalex.org/W2057215350",
-        "https://openalex.org/W2059079395",
-        "https://openalex.org/W2066250998",
-        "https://openalex.org/W2067357877",
-        "https://openalex.org/W2071210567",
-        "https://openalex.org/W2077294101",
-        "https://openalex.org/W2081009732",
-        "https://openalex.org/W2084148629",
-        "https://openalex.org/W2084750921",
-        "https://openalex.org/W2087108071",
-        "https://openalex.org/W2091424027",
-        "https://openalex.org/W2092791864",
-        "https://openalex.org/W2092878706",
-        "https://openalex.org/W2096125967",
-        "https://openalex.org/W2099404564",
-        "https://openalex.org/W2102197957",
-        "https://openalex.org/W2105182242",
-        "https://openalex.org/W2119913064",
-        "https://openalex.org/W2124693350",
-        "https://openalex.org/W2125204970",
-        "https://openalex.org/W2137092317",
-        "https://openalex.org/W2138099875",
-        "https://openalex.org/W2143999902",
-        "https://openalex.org/W2144134336",
-        "https://openalex.org/W2147576281",
-        "https://openalex.org/W2147981386",
-        "https://openalex.org/W2151935137",
-        "https://openalex.org/W2154346409",
-        "https://openalex.org/W2155013368",
-        "https://openalex.org/W2158888928",
-        "https://openalex.org/W2169964049",
-        "https://openalex.org/W2170597649",
-        "https://openalex.org/W2171429034",
-        "https://openalex.org/W2173206775",
-        "https://openalex.org/W2175799887",
-        "https://openalex.org/W2191061991",
-        "https://openalex.org/W2223885932",
-        "https://openalex.org/W2240259745",
-        "https://openalex.org/W2244098520",
-        "https://openalex.org/W2248608004",
-        "https://openalex.org/W2253966156",
-        "https://openalex.org/W2269143928",
-        "https://openalex.org/W2315458053",
-        "https://openalex.org/W2329547329",
-        "https://openalex.org/W2336522318",
-        "https://openalex.org/W2341108047",
-        "https://openalex.org/W2344196537",
-        "https://openalex.org/W2405913621",
-        "https://openalex.org/W2416583025",
-        "https://openalex.org/W2464807182",
-        "https://openalex.org/W2476147674",
-        "https://openalex.org/W2479749307",
-        "https://openalex.org/W2481645860",
-        "https://openalex.org/W2495478982",
-        "https://openalex.org/W2587430983",
-        "https://openalex.org/W2593235997",
-        "https://openalex.org/W2598808698",
-        "https://openalex.org/W2606961253",
-        "https://openalex.org/W2741025674",
-        "https://openalex.org/W2757163403",
-        "https://openalex.org/W2908488897",
-        "https://openalex.org/W2976043901",
-        "https://openalex.org/W2982501932",
-        "https://openalex.org/W2982550512",
-        "https://openalex.org/W2982757741",
-        "https://openalex.org/W3211086015",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W4214634148",
-        "https://openalex.org/W4245823893",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6600805876",
-        "https://openalex.org/W6601138127",
-        "https://openalex.org/W6602306961",
-        "https://openalex.org/W6604217534",
-        "https://openalex.org/W6608093480",
-        "https://openalex.org/W6620551025",
-        "https://openalex.org/W6624540214",
-        "https://openalex.org/W6625641032",
-        "https://openalex.org/W6628529999",
-        "https://openalex.org/W6638657134",
-        "https://openalex.org/W6640088405",
-        "https://openalex.org/W6640307871",
-        "https://openalex.org/W6647848268",
-        "https://openalex.org/W6658990461",
-        "https://openalex.org/W6660057852",
-        "https://openalex.org/W6663203351",
-        "https://openalex.org/W6666950654",
-        "https://openalex.org/W6670562747",
-        "https://openalex.org/W6674736995",
-        "https://openalex.org/W6678675288",
-        "https://openalex.org/W6680039869",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6681715352",
-        "https://openalex.org/W6682435159",
-        "https://openalex.org/W6682486066",
-        "https://openalex.org/W6686985491",
-        "https://openalex.org/W6704205406",
-        "https://openalex.org/W6704557326",
-        "https://openalex.org/W6713643550",
-        "https://openalex.org/W6716402548",
-        "https://openalex.org/W6720858351",
-        "https://openalex.org/W6721564435",
-        "https://openalex.org/W6727380279",
-        "https://openalex.org/W6733176360",
-        "https://openalex.org/W6734586931",
-        "https://openalex.org/W6735696945",
-        "https://openalex.org/W6742035698",
-        "https://openalex.org/W6742818879",
-        "https://openalex.org/W6742992632",
-        "https://openalex.org/W6743191895",
-        "https://openalex.org/W6743956162",
-        "https://openalex.org/W6757942714",
-        "https://openalex.org/W6769705177",
-        "https://openalex.org/W6808654544",
-        "https://openalex.org/W7055279259",
-        "https://openalex.org/W7057137084"
-      ],
-      "related_works": [
-        "https://openalex.org/W2624479552",
-        "https://openalex.org/W4385754251",
-        "https://openalex.org/W4382243992",
-        "https://openalex.org/W2754536002",
-        "https://openalex.org/W3143524442",
-        "https://openalex.org/W2805759255",
-        "https://openalex.org/W4206105019",
-        "https://openalex.org/W4289450225",
-        "https://openalex.org/W2012335291",
-        "https://openalex.org/W155005340"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 7
-        }
-      ],
-      "updated_date": "2026-02-24T08:05:00.420983",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W293229073",
       "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00005-8",
       "title": "The Ichnofabric Concept",
@@ -14133,9 +14133,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -14997,9 +14997,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -15919,9 +15919,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -16340,9 +16340,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -18119,9 +18119,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -19322,9 +19322,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -20377,9 +20377,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -20893,9 +20893,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -21386,9 +21386,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -22436,9 +22436,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -23560,9 +23560,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -24854,9 +24854,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -27283,9 +27283,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -27850,9 +27850,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -28420,9 +28420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -28907,14 +28907,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.47999998927116394
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -29523,9 +29523,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -30826,9 +30826,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -31381,9 +31381,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -31836,9 +31836,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -32990,9 +32990,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -33607,9 +33607,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -34381,9 +34381,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -35046,9 +35046,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -35962,9 +35962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -36809,9 +36809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -37765,9 +37765,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -38219,9 +38219,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -38846,9 +38846,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -39437,9 +39437,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -40128,9 +40128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -41255,9 +41255,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -41390,7 +41390,508 @@
         "https://openalex.org/W3102452392",
         "https://openalex.org/W1984990175"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "1": [
+          45,
+          90
+        ],
+        "2": [
+          57,
+          92
+        ],
+        "3": [
+          70,
+          171
+        ],
+        "4": [
+          165
+        ],
+        "510": [
+          167
+        ],
+        "Recent": [
+          0
+        ],
+        "excavations": [
+          1
+        ],
+        "of": [
+          2,
+          77,
+          117,
+          146,
+          154,
+          180,
+          187,
+          195,
+          200,
+          204,
+          213
+        ],
+        "the": [
+          3,
+          7,
+          11,
+          38,
+          104,
+          114,
+          125,
+          133,
+          162,
+          178,
+          211,
+          226
+        ],
+        "Guanshan": [
+          4,
+          126
+        ],
+        "biota": [
+          5,
+          127
+        ],
+        "at": [
+          6,
+          224
+        ],
+        "Shijiangjun": [
+          8
+        ],
+        "section": [
+          9
+        ],
+        "in": [
+          10,
+          88,
+          161,
+          217
+        ],
+        "eastern": [
+          12
+        ],
+        "Yunnan": [
+          13
+        ],
+        "Province,": [
+          14
+        ],
+        "South": [
+          15
+        ],
+        "China,": [
+          16
+        ],
+        "have": [
+          17,
+          35
+        ],
+        "revealed": [
+          18
+        ],
+        "many": [
+          19
+        ],
+        "well-defined": [
+          20
+        ],
+        "faecal": [
+          21,
+          54,
+          67,
+          78,
+          86,
+          181,
+          207
+        ],
+        "pellets": [
+          22,
+          79,
+          87,
+          182,
+          208
+        ],
+        "and": [
+          23,
+          42,
+          80,
+          91,
+          128,
+          140,
+          149,
+          183
+        ],
+        "related": [
+          24,
+          176
+        ],
+        "trace": [
+          25
+        ],
+        "fossils.": [
+          26
+        ],
+        "These": [
+          27
+        ],
+        "can": [
+          28,
+          93,
+          219
+        ],
+        "be": [
+          29,
+          94,
+          175,
+          220
+        ],
+        "assigned": [
+          30,
+          95
+        ],
+        "to": [
+          31,
+          96,
+          103,
+          174,
+          177,
+          223
+        ],
+        "three": [
+          32
+        ],
+        "morphotypes,": [
+          33
+        ],
+        "which": [
+          34,
+          189
+        ],
+        "affinities": [
+          36
+        ],
+        "with": [
+          37,
+          51,
+          74,
+          206
+        ],
+        "ichnogenera": [
+          39
+        ],
+        "Tomaculum,": [
+          40
+        ],
+        "Alcyonidiopsis": [
+          41
+        ],
+        "Tubulichnium.": [
+          43
+        ],
+        "Morphotype": [
+          44,
+          56,
+          69,
+          170
+        ],
+        "is": [
+          46,
+          58,
+          172
+        ],
+        "an": [
+          47,
+          192
+        ],
+        "unbranched": [
+          48,
+          72
+        ],
+        "burrow": [
+          49,
+          61
+        ],
+        "filled": [
+          50
+        ],
+        "randomly": [
+          52
+        ],
+        "distributed": [
+          53
+        ],
+        "pellets.": [
+          55,
+          68
+        ],
+        "a": [
+          59,
+          75,
+          81,
+          151
+        ],
+        "string-shaped": [
+          60
+        ],
+        "without": [
+          62
+        ],
+        "branching,": [
+          63
+        ],
+        "containing": [
+          64
+        ],
+        "intensely": [
+          65
+        ],
+        "compacted": [
+          66
+        ],
+        "comprises": [
+          71
+        ],
+        "burrows": [
+          73,
+          148,
+          205
+        ],
+        "fill": [
+          76
+        ],
+        "central": [
+          82
+        ],
+        "cavity.": [
+          83
+        ],
+        "The": [
+          84,
+          198
+        ],
+        "ellipsoidal": [
+          85
+        ],
+        "morphotype": [
+          89
+        ],
+        "Coprulus": [
+          97
+        ],
+        "oblongus.": [
+          98
+        ],
+        "They": [
+          99
+        ],
+        "are": [
+          100
+        ],
+        "morphologically": [
+          101
+        ],
+        "similar": [
+          102
+        ],
+        "excrements": [
+          105
+        ],
+        "produced": [
+          106
+        ],
+        "by": [
+          107
+        ],
+        "modern": [
+          108
+        ],
+        "deposit-feeding": [
+          109,
+          215
+        ],
+        "polychaetes,": [
+          110
+        ],
+        "as": [
+          111,
+          113,
+          143
+        ],
+        "well": [
+          112
+        ],
+        "gut": [
+          115
+        ],
+        "content": [
+          116
+        ],
+        "early": [
+          118,
+          193
+        ],
+        "Cambrian": [
+          119,
+          163,
+          227
+        ],
+        "polychaete": [
+          120
+        ],
+        "worms": [
+          121,
+          130,
+          142,
+          218
+        ],
+        "(Guanshanchaeta": [
+          122
+        ],
+        "felicia)": [
+          123
+        ],
+        "from": [
+          124,
+          132
+        ],
+        "priapulid": [
+          129,
+          141
+        ],
+        "(Selkirkia)": [
+          131
+        ],
+        "Xiaoshiba": [
+          134
+        ],
+        "Lagerstätte.": [
+          135
+        ],
+        "This": [
+          136
+        ],
+        "analogy": [
+          137
+        ],
+        "suggests": [
+          138
+        ],
+        "polychaetes": [
+          139
+        ],
+        "potential": [
+          144
+        ],
+        "producers": [
+          145
+        ],
+        "these": [
+          147
+        ],
+        "that": [
+          150,
+          210
+        ],
+        "diverse": [
+          152,
+          202,
+          214
+        ],
+        "range": [
+          153
+        ],
+        "digestive": [
+          155
+        ],
+        "methods": [
+          156
+        ],
+        "had": [
+          157
+        ],
+        "already": [
+          158
+        ],
+        "been": [
+          159
+        ],
+        "established": [
+          160
+        ],
+        "Stage": [
+          164,
+          228
+        ],
+        "ca.": [
+          166
+        ],
+        "Ma": [
+          168
+        ],
+        "ago.": [
+          169
+        ],
+        "interpreted": [
+          173
+        ],
+        "storage": [
+          179
+        ],
+        "possibly": [
+          184
+        ],
+        "for": [
+          185
+        ],
+        "cultivation": [
+          186
+        ],
+        "bacteria,": [
+          188
+        ],
+        "would": [
+          190
+        ],
+        "represent": [
+          191
+        ],
+        "case": [
+          194
+        ],
+        "this": [
+          196,
+          201
+        ],
+        "behaviour.": [
+          197
+        ],
+        "discovery": [
+          199
+        ],
+        "suite": [
+          203
+        ],
+        "indicates": [
+          209
+        ],
+        "origin": [
+          212
+        ],
+        "strategies": [
+          216
+        ],
+        "traced": [
+          221
+        ],
+        "back": [
+          222
+        ],
+        "least": [
+          225
+        ],
+        "4.": [
+          229
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -41409,7 +41910,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41995,9 +42496,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -43463,9 +43964,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -44157,9 +44658,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -44638,9 +45139,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -44966,11 +45467,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.778,
+      "fwci": 1.8087,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.82665466,
+        "value": 0.82970253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45260,9 +45761,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [
@@ -45361,489 +45862,7 @@
         "https://openalex.org/W2232946413",
         "https://openalex.org/W1681366743"
       ],
-      "abstract_inverted_index": {
-        "1990": [
-          15,
-          69
-        ],
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          25,
-          143,
-          167
-        ],
-        "ichnotaxonomy,": [
-          2
-        ],
-        "producers": [
-          3
-        ],
-        "and": [
-          4,
-          13,
-          18,
-          39,
-          51,
-          67,
-          72,
-          84,
-          88,
-          121,
-          159,
-          165,
-          181,
-          184,
-          206
-        ],
-        "ethology": [
-          5
-        ],
-        "of": [
-          6,
-          21,
-          63,
-          82,
-          119,
-          132,
-          169,
-          178,
-          213,
-          221
-        ],
-        "the": [
-          7,
-          19,
-          45,
-          79,
-          97,
-          179,
-          207,
-          214
-        ],
-        "bivalve": [
-          8,
-          92,
-          136,
-          150
-        ],
-        "trace": [
-          9,
-          32,
-          48
-        ],
-        "fossil": [
-          10
-        ],
-        "Oravaichnium": [
-          11,
-          59,
-          64,
-          74,
-          133,
-          173
-        ],
-        "Plička": [
-          12,
-          66
-        ],
-        "Uhrová,": [
-          14,
-          68
-        ],
-        "are": [
-          16,
-          55,
-          127,
-          152,
-          160
-        ],
-        "revised,": [
-          17
-        ],
-        "mode": [
-          20
-        ],
-        "formation": [
-          22
-        ],
-        "is": [
-          23,
-          27,
-          70,
-          86,
-          195,
-          211
-        ],
-        "discussed.": [
-          24
-        ],
-        "ichnogenus": [
-          26
-        ],
-        "compared": [
-          28
-        ],
-        "with": [
-          29,
-          124,
-          134
-        ],
-        "other": [
-          30,
-          135,
-          175
-        ],
-        "mollusc": [
-          31
-        ],
-        "fossils": [
-          33,
-          49
-        ],
-        "such": [
-          34
-        ],
-        "as": [
-          35,
-          42,
-          44,
-          90
-        ],
-        "Protovirgularia": [
-          36,
-          139
-        ],
-        ",": [
-          37,
-          41,
-          53,
-          140
-        ],
-        "Lockeia": [
-          38
-        ],
-        "Ptychoplasma": [
-          40
-        ],
-        "well": [
-          43
-        ],
-        "common,": [
-          46
-        ],
-        "cosmopolitan": [
-          47
-        ],
-        "Planolites": [
-          50
-        ],
-        "Palaeophycus": [
-          52
-        ],
-        "which": [
-          54
-        ],
-        "morphologically": [
-          56
-        ],
-        "similar": [
-          57,
-          170
-        ],
-        "to": [
-          58
-        ],
-        ".": [
-          60
-        ],
-        "A": [
-          61
-        ],
-        "lectotype": [
-          62
-        ],
-        "hrabei": [
-          65,
-          101,
-          126
-        ],
-        "defined": [
-          71
-        ],
-        "illustrated.": [
-          73
-        ],
-        "carinatum": [
-          75,
-          112
-        ],
-        "isp.": [
-          76,
-          113
-        ],
-        "nov.": [
-          77,
-          114
-        ],
-        "from": [
-          78,
-          96
-        ],
-        "Middle": [
-          80,
-          208
-        ],
-        "Triassic": [
-          81,
-          145,
-          176,
-          209
-        ],
-        "Poland": [
-          83
-        ],
-        "Germany": [
-          85
-        ],
-        "described": [
-          87
-        ],
-        "interpreted": [
-          89
-        ],
-        "a": [
-          91,
-          103,
-          116,
-          187
-        ],
-        "burrow.": [
-          93
-        ],
-        "It": [
-          94,
-          194
-        ],
-        "differs": [
-          95
-        ],
-        "relatively": [
-          98
-        ],
-        "rare": [
-          99
-        ],
-        "O.": [
-          100,
-          111,
-          125
-        ],
-        "by": [
-          102,
-          162
-        ],
-        "carinate": [
-          104
-        ],
-        "rather": [
-          105
-        ],
-        "than": [
-          106,
-          156,
-          191
-        ],
-        "subquadrate": [
-          107
-        ],
-        "cross": [
-          108
-        ],
-        "section.": [
-          109
-        ],
-        "However,": [
-          110
-        ],
-        "shows": [
-          115
-        ],
-        "great": [
-          117
-        ],
-        "variation": [
-          118
-        ],
-        "morphology": [
-          120
-        ],
-        "transitional": [
-          122,
-          130
-        ],
-        "forms": [
-          123,
-          131
-        ],
-        "common.": [
-          128
-        ],
-        "Similarly,": [
-          129
-        ],
-        "ichnogenera,": [
-          137
-        ],
-        "especially": [
-          138
-        ],
-        "also": [
-          141
-        ],
-        "occur.": [
-          142
-        ],
-        "studied": [
-          144
-        ],
-        "ichnoassemblage": [
-          146
-        ],
-        "clearly": [
-          147
-        ],
-        "indicates": [
-          148
-        ],
-        "that": [
-          149,
-          197
-        ],
-        "burrows": [
-          151
-        ],
-        "much": [
-          153,
-          188
-        ],
-        "more": [
-          154
-        ],
-        "common": [
-          155
-        ],
-        "previously": [
-          157
-        ],
-        "believed": [
-          158
-        ],
-        "represented": [
-          161
-        ],
-        "repichnia,": [
-          163
-        ],
-        "fodinichnia": [
-          164
-        ],
-        "cubichnia.": [
-          166
-        ],
-        "occurrence": [
-          168
-        ],
-        "ichnofabrics": [
-          171
-        ],
-        "containing": [
-          172
-        ],
-        "in": [
-          174,
-          204,
-          218
-        ],
-        "succession": [
-          177
-        ],
-        "Germanic": [
-          180
-        ],
-        "Tethys": [
-          182
-        ],
-        "basins": [
-          183
-        ],
-        "elsewhere": [
-          185
-        ],
-        "suggests": [
-          186
-        ],
-        "wider": [
-          189
-        ],
-        "distribution": [
-          190
-        ],
-        "hitherto": [
-          192
-        ],
-        "known.": [
-          193
-        ],
-        "evident": [
-          196
-        ],
-        "bivalves,": [
-          198
-        ],
-        "most": [
-          199,
-          215
-        ],
-        "likely": [
-          200
-        ],
-        "nuculids,": [
-          201
-        ],
-        "participated": [
-          202
-        ],
-        "greatly": [
-          203
-        ],
-        "bioturbation,": [
-          205
-        ],
-        "infaunalisation": [
-          210
-        ],
-        "one": [
-          212
-        ],
-        "important": [
-          216
-        ],
-        "steps": [
-          217
-        ],
-        "Phanerozoic": [
-          219
-        ],
-        "evolution": [
-          220
-        ],
-        "ichnocoenoses.": [
-          222
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -45862,7 +45881,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-02T08:37:19.008085",
+      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46373,9 +46392,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -46936,9 +46955,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -47868,9 +47887,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -48598,9 +48617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -50017,9 +50036,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -50492,9 +50511,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -51140,9 +51159,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -51705,9 +51724,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -52787,9 +52806,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -53317,9 +53336,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -54330,9 +54349,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -55161,9 +55180,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -55622,9 +55641,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -56670,9 +56689,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -57267,9 +57286,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -59018,9 +59037,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -59951,9 +59970,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -60746,9 +60765,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -62107,9 +62126,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -62662,9 +62681,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -63123,9 +63142,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -63941,9 +63960,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -65043,9 +65062,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -66120,9 +66139,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -67203,9 +67222,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -67904,9 +67923,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -69102,9 +69121,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -71040,9 +71059,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -71817,9 +71836,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -73598,9 +73617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -76061,9 +76080,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -79054,9 +79073,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -80127,9 +80146,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -80952,9 +80971,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
