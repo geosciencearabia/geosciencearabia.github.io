@@ -11,7 +11,7 @@
       "Septriandi Chan"
     ],
     "works_count": 34,
-    "cited_by_count": 470,
+    "cited_by_count": 471,
     "summary_stats": {
       "2yr_mean_citedness": 1.4,
       "h_index": 9,
@@ -377,7 +377,7 @@
         "year": 2022,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 42
+        "cited_by_count": 43
       },
       {
         "year": 2023,
@@ -414,7 +414,7 @@
     },
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-03-04T12:21:33",
+    "updated_date": "2026-03-05T12:21:08",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -959,9 +959,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -1633,9 +1633,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3233,9 +3233,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/8"
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -3319,6 +3319,639 @@
         }
       ],
       "updated_date": "2026-03-05T09:29:38.588285",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2224953029",
+      "doi": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
+      "title": "Discrimination of inland and coastal dunes in Eastern Saudi Arabia desert system: An approach from particle size and textural parameter variations",
+      "display_name": "Discrimination of inland and coastal dunes in Eastern Saudi Arabia desert system: An approach from particle size and textural parameter variations",
+      "publication_year": 2016,
+      "publication_date": "2016-01-05",
+      "ids": {
+        "openalex": "https://openalex.org/W2224953029",
+        "doi": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
+        "mag": "2224953029"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jafrearsci.2016.01.003",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125636905",
+          "display_name": "Journal of African Earth Sciences",
+          "issn_l": "1464-343X",
+          "issn": [
+            "1464-343X",
+            "1879-1956"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of African Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059881838",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0001-7558-8783"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ardiansyah Koeshidayatullah",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080643603",
+            "display_name": "Septriandi A. Chan",
+            "orcid": "https://orcid.org/0000-0002-3681-7464"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Septriandi Asmaidi Chan",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112016746",
+            "display_name": "Majed Al-Ghamdi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Majed Al-Ghamdi",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057145968",
+            "display_name": "Tariq Akif",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tariq Akif",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid Al–Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5059881838"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2650,
+        "currency": "USD",
+        "value_usd": 2650
+      },
+      "apc_paid": null,
+      "fwci": 0.8581,
+      "has_fulltext": false,
+      "cited_by_count": 10,
+      "citation_normalized_percentile": {
+        "value": 0.74898052,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "117",
+        "issue": null,
+        "first_page": "102",
+        "last_page": "113"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12383",
+        "display_name": "Aeolian processes and effects",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12383",
+          "display_name": "Aeolian processes and effects",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10889",
+          "display_name": "Soil erosion and sediment transport",
+          "score": 0.9926999807357788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1111",
+            "display_name": "Soil Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9915000200271606,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/berm",
+          "display_name": "Berm",
+          "score": 0.7632062435150146
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7245378494262695
+        },
+        {
+          "id": "https://openalex.org/keywords/intertidal-zone",
+          "display_name": "Intertidal zone",
+          "score": 0.6708317399024963
+        },
+        {
+          "id": "https://openalex.org/keywords/sand-dune-stabilization",
+          "display_name": "Sand dune stabilization",
+          "score": 0.6205535531044006
+        },
+        {
+          "id": "https://openalex.org/keywords/silt",
+          "display_name": "Silt",
+          "score": 0.5734836459159851
+        },
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.5392566919326782
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.48433148860931396
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.3726434111595154
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-geography",
+          "display_name": "Physical geography",
+          "score": 0.32377880811691284
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.2431740164756775
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.11607435345649719
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C158048082",
+          "wikidata": "https://www.wikidata.org/wiki/Q81957",
+          "display_name": "Berm",
+          "level": 2,
+          "score": 0.7632062435150146
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7245378494262695
+        },
+        {
+          "id": "https://openalex.org/C174580923",
+          "wikidata": "https://www.wikidata.org/wiki/Q421069",
+          "display_name": "Intertidal zone",
+          "level": 2,
+          "score": 0.6708317399024963
+        },
+        {
+          "id": "https://openalex.org/C167110946",
+          "wikidata": "https://www.wikidata.org/wiki/Q4185006",
+          "display_name": "Sand dune stabilization",
+          "level": 2,
+          "score": 0.6205535531044006
+        },
+        {
+          "id": "https://openalex.org/C161222754",
+          "wikidata": "https://www.wikidata.org/wiki/Q270699",
+          "display_name": "Silt",
+          "level": 2,
+          "score": 0.5734836459159851
+        },
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.5392566919326782
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.48433148860931396
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3726434111595154
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.32377880811691284
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.2431740164756775
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.11607435345649719
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C149923435",
+          "wikidata": "https://www.wikidata.org/wiki/Q37732",
+          "display_name": "Demography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jafrearsci.2016.01.003",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S125636905",
+            "display_name": "Journal of African Earth Sciences",
+            "issn_l": "1464-343X",
+            "issn": [
+              "1464-343X",
+              "1879-1956"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of African Earth Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 37,
+      "referenced_works": [
+        "https://openalex.org/W138409176",
+        "https://openalex.org/W591341838",
+        "https://openalex.org/W1601973361",
+        "https://openalex.org/W1965594613",
+        "https://openalex.org/W1981786999",
+        "https://openalex.org/W1991253872",
+        "https://openalex.org/W1992179448",
+        "https://openalex.org/W2003386210",
+        "https://openalex.org/W2009061085",
+        "https://openalex.org/W2011314235",
+        "https://openalex.org/W2042191937",
+        "https://openalex.org/W2047412183",
+        "https://openalex.org/W2051554313",
+        "https://openalex.org/W2056944196",
+        "https://openalex.org/W2060571299",
+        "https://openalex.org/W2061653653",
+        "https://openalex.org/W2070159208",
+        "https://openalex.org/W2071260058",
+        "https://openalex.org/W2077267127",
+        "https://openalex.org/W2081434831",
+        "https://openalex.org/W2094930953",
+        "https://openalex.org/W2104127878",
+        "https://openalex.org/W2104723353",
+        "https://openalex.org/W2109352911",
+        "https://openalex.org/W2115348482",
+        "https://openalex.org/W2143634249",
+        "https://openalex.org/W2151713515",
+        "https://openalex.org/W2159525271",
+        "https://openalex.org/W2165735256",
+        "https://openalex.org/W2499877093",
+        "https://openalex.org/W2521695896",
+        "https://openalex.org/W3001465591",
+        "https://openalex.org/W3003066840",
+        "https://openalex.org/W4212798058",
+        "https://openalex.org/W6666404566",
+        "https://openalex.org/W6668148030",
+        "https://openalex.org/W6675876173"
+      ],
+      "related_works": [
+        "https://openalex.org/W2767475620",
+        "https://openalex.org/W2392974220",
+        "https://openalex.org/W2970002027",
+        "https://openalex.org/W1972993639",
+        "https://openalex.org/W2351820654",
+        "https://openalex.org/W2373089377",
+        "https://openalex.org/W2781732033",
+        "https://openalex.org/W4235967571",
+        "https://openalex.org/W1979193521",
+        "https://openalex.org/W2351127520"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6051,9 +6684,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7253,9 +7886,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9444,9 +10077,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -9538,635 +10171,6 @@
         {
           "year": 2020,
           "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2224953029",
-      "doi": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
-      "title": "Discrimination of inland and coastal dunes in Eastern Saudi Arabia desert system: An approach from particle size and textural parameter variations",
-      "display_name": "Discrimination of inland and coastal dunes in Eastern Saudi Arabia desert system: An approach from particle size and textural parameter variations",
-      "publication_year": 2016,
-      "publication_date": "2016-01-05",
-      "ids": {
-        "openalex": "https://openalex.org/W2224953029",
-        "doi": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
-        "mag": "2224953029"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jafrearsci.2016.01.003",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S125636905",
-          "display_name": "Journal of African Earth Sciences",
-          "issn_l": "1464-343X",
-          "issn": [
-            "1464-343X",
-            "1879-1956"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of African Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ardiansyah Koeshidayatullah",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Septriandi Asmaidi Chan",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112016746",
-            "display_name": "Majed Al-Ghamdi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Majed Al-Ghamdi",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057145968",
-            "display_name": "Tariq Akif",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tariq Akif",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, P.O Box 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5059881838"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2650,
-        "currency": "USD",
-        "value_usd": 2650
-      },
-      "apc_paid": null,
-      "fwci": 0.8389,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.74338747,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "117",
-        "issue": null,
-        "first_page": "102",
-        "last_page": "113"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12383",
-        "display_name": "Aeolian processes and effects",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12383",
-          "display_name": "Aeolian processes and effects",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10889",
-          "display_name": "Soil erosion and sediment transport",
-          "score": 0.9926999807357788,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1111",
-            "display_name": "Soil Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9915000200271606,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/berm",
-          "display_name": "Berm",
-          "score": 0.7632062435150146
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7245378494262695
-        },
-        {
-          "id": "https://openalex.org/keywords/intertidal-zone",
-          "display_name": "Intertidal zone",
-          "score": 0.6708317399024963
-        },
-        {
-          "id": "https://openalex.org/keywords/sand-dune-stabilization",
-          "display_name": "Sand dune stabilization",
-          "score": 0.6205535531044006
-        },
-        {
-          "id": "https://openalex.org/keywords/silt",
-          "display_name": "Silt",
-          "score": 0.5734836459159851
-        },
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.5392566919326782
-        },
-        {
-          "id": "https://openalex.org/keywords/population",
-          "display_name": "Population",
-          "score": 0.48433148860931396
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3726434111595154
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.32377880811691284
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.2431740164756775
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.11607435345649719
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C158048082",
-          "wikidata": "https://www.wikidata.org/wiki/Q81957",
-          "display_name": "Berm",
-          "level": 2,
-          "score": 0.7632062435150146
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7245378494262695
-        },
-        {
-          "id": "https://openalex.org/C174580923",
-          "wikidata": "https://www.wikidata.org/wiki/Q421069",
-          "display_name": "Intertidal zone",
-          "level": 2,
-          "score": 0.6708317399024963
-        },
-        {
-          "id": "https://openalex.org/C167110946",
-          "wikidata": "https://www.wikidata.org/wiki/Q4185006",
-          "display_name": "Sand dune stabilization",
-          "level": 2,
-          "score": 0.6205535531044006
-        },
-        {
-          "id": "https://openalex.org/C161222754",
-          "wikidata": "https://www.wikidata.org/wiki/Q270699",
-          "display_name": "Silt",
-          "level": 2,
-          "score": 0.5734836459159851
-        },
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.5392566919326782
-        },
-        {
-          "id": "https://openalex.org/C2908647359",
-          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
-          "display_name": "Population",
-          "level": 2,
-          "score": 0.48433148860931396
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3726434111595154
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.32377880811691284
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.2431740164756775
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.11607435345649719
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C149923435",
-          "wikidata": "https://www.wikidata.org/wiki/Q37732",
-          "display_name": "Demography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C144024400",
-          "wikidata": "https://www.wikidata.org/wiki/Q21201",
-          "display_name": "Sociology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jafrearsci.2016.01.003",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S125636905",
-            "display_name": "Journal of African Earth Sciences",
-            "issn_l": "1464-343X",
-            "issn": [
-              "1464-343X",
-              "1879-1956"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of African Earth Sciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 37,
-      "referenced_works": [
-        "https://openalex.org/W138409176",
-        "https://openalex.org/W591341838",
-        "https://openalex.org/W1601973361",
-        "https://openalex.org/W1965594613",
-        "https://openalex.org/W1981786999",
-        "https://openalex.org/W1991253872",
-        "https://openalex.org/W1992179448",
-        "https://openalex.org/W2003386210",
-        "https://openalex.org/W2009061085",
-        "https://openalex.org/W2011314235",
-        "https://openalex.org/W2042191937",
-        "https://openalex.org/W2047412183",
-        "https://openalex.org/W2051554313",
-        "https://openalex.org/W2056944196",
-        "https://openalex.org/W2060571299",
-        "https://openalex.org/W2061653653",
-        "https://openalex.org/W2070159208",
-        "https://openalex.org/W2071260058",
-        "https://openalex.org/W2077267127",
-        "https://openalex.org/W2081434831",
-        "https://openalex.org/W2094930953",
-        "https://openalex.org/W2104127878",
-        "https://openalex.org/W2104723353",
-        "https://openalex.org/W2109352911",
-        "https://openalex.org/W2115348482",
-        "https://openalex.org/W2143634249",
-        "https://openalex.org/W2151713515",
-        "https://openalex.org/W2159525271",
-        "https://openalex.org/W2165735256",
-        "https://openalex.org/W2499877093",
-        "https://openalex.org/W2521695896",
-        "https://openalex.org/W3001465591",
-        "https://openalex.org/W3003066840",
-        "https://openalex.org/W4212798058",
-        "https://openalex.org/W6666404566",
-        "https://openalex.org/W6668148030",
-        "https://openalex.org/W6675876173"
-      ],
-      "related_works": [
-        "https://openalex.org/W2767475620",
-        "https://openalex.org/W2392974220",
-        "https://openalex.org/W2970002027",
-        "https://openalex.org/W1972993639",
-        "https://openalex.org/W2351820654",
-        "https://openalex.org/W2373089377",
-        "https://openalex.org/W2781732033",
-        "https://openalex.org/W4235967571",
-        "https://openalex.org/W1979193521",
-        "https://openalex.org/W2351127520"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -14617,9 +14621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -15092,9 +15096,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16048,9 +16052,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -16446,9 +16450,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -18147,9 +18151,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19840,9 +19844,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -20935,9 +20939,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22523,9 +22527,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -24418,7 +24422,7 @@
         "is_oa": true,
         "oa_status": "gold",
         "oa_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "any_repository_has_fulltext": false
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -24675,9 +24679,9 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92905763,
+        "value": 0.8998093,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
@@ -25038,7 +25042,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.jaesx.2026.100220",
@@ -25072,6 +25076,36 @@
           "is_published": true,
           "raw_source_name": "Journal of Asian Earth Sciences: X",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:bcac1de2bbf44c9ba46765b8fe77059f",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/bcac1de2bbf44c9ba46765b8fe77059f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Asian Earth Sciences: X, Vol 15, Iss , Pp 100220- (2026)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -25896,7 +25930,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-04T07:04:00.330322",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2026-03-03T00:00:00"
     }
   ]

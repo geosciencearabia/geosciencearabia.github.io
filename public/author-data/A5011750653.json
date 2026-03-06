@@ -342,7 +342,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0001836,
+        "value": 0.0001835,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -359,7 +359,7 @@
       {
         "id": "https://openalex.org/T13925",
         "display_name": "Offshore Engineering and Technologies",
-        "value": 0.0001693,
+        "value": 0.0001692,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -376,7 +376,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.000155,
+        "value": 0.0001549,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -393,7 +393,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001267,
+        "value": 0.0001266,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -3008,11 +3008,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 11.8812,
+      "fwci": 12.0521,
       "has_fulltext": false,
-      "cited_by_count": 413,
+      "cited_by_count": 414,
       "citation_normalized_percentile": {
-        "value": 0.99143919,
+        "value": 0.99155837,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3397,7 +3397,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -3456,7 +3456,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8637,11 +8637,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 4.7398,
+      "fwci": 4.8101,
       "has_fulltext": false,
-      "cited_by_count": 173,
+      "cited_by_count": 174,
       "citation_normalized_percentile": {
-        "value": 0.94618508,
+        "value": 0.94698191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9121,7 +9121,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -9168,7 +9168,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19156,6 +19156,1586 @@
         }
       ],
       "updated_date": "2026-02-28T09:26:25.869077",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4200559166",
+      "doi": "https://doi.org/10.1016/j.chemgeo.2021.120681",
+      "title": "Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes",
+      "display_name": "Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes",
+      "publication_year": 2021,
+      "publication_date": "2021-12-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4200559166",
+        "doi": "https://doi.org/10.1016/j.chemgeo.2021.120681"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.chemgeo.2021.120681",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.chemgeo.2021.120681",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S141585851",
+          "display_name": "Chemical Geology",
+          "issn_l": "0009-2541",
+          "issn": [
+            "0009-2541",
+            "1872-6836"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Chemical Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011750653",
+            "display_name": "Scott Whattam",
+            "orcid": "https://orcid.org/0000-0001-9193-9002"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Scott A. Whattam",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "KFUPM - King Fahd University of Petroleum and Minerals (University Blvd, King Fahd University of Petroleum and Minerals, Az Zahran - Saudi Arabia)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "KFUPM - King Fahd University of Petroleum and Minerals (University Blvd, King Fahd University of Petroleum and Minerals, Az Zahran - Saudi Arabia)",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042065911",
+            "display_name": "Gretchen L. Früh‐Green",
+            "orcid": "https://orcid.org/0000-0003-0353-7842"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799323385",
+              "display_name": "Board of the Swiss Federal Institutes of Technology",
+              "ror": "https://ror.org/01rvn4p91",
+              "country_code": "CH",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799323385"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I35440088",
+              "display_name": "ETH Zurich",
+              "ror": "https://ror.org/05a28rw58",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gretchen L. Früh-Green",
+          "raw_affiliation_strings": [
+            "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
+            "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)",
+              "institution_ids": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039871223",
+            "display_name": "Mathilde Cannat",
+            "orcid": "https://orcid.org/0000-0002-5157-8473"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I148261361",
+              "display_name": "Institut de physique du globe de Paris",
+              "ror": "https://ror.org/004gzqz66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I148261361",
+                "https://openalex.org/I204730241",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mathilde Cannat",
+          "raw_affiliation_strings": [
+            "Institut de Physique du Globe de Paris, CNRS, 1 rue Jussieu, 75238 Paris, Cedex 05, France",
+            "IPGP (UMR_7154) - Institut de Physique du Globe de Paris (1 rue Jussieu, 75238 Paris cedex 05 et Bât. Lamarck A case postale 7011, 75205 Paris CEDEX 13 - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut de Physique du Globe de Paris, CNRS, 1 rue Jussieu, 75238 Paris, Cedex 05, France",
+              "institution_ids": [
+                "https://openalex.org/I148261361",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IPGP (UMR_7154) - Institut de Physique du Globe de Paris (1 rue Jussieu, 75238 Paris cedex 05 et Bât. Lamarck A case postale 7011, 75205 Paris CEDEX 13 - France)",
+              "institution_ids": [
+                "https://openalex.org/I148261361"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058038066",
+            "display_name": "Jan C.M. De Hoog",
+            "orcid": "https://orcid.org/0000-0002-5930-3597"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3130638677",
+              "display_name": "Edinburgh College",
+              "ror": "https://ror.org/04vpa6h32",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3130638677"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jan C.M. De Hoog",
+          "raw_affiliation_strings": [
+            "School of Geosciences, Grant Institute, The University of Edinburgh, James Hutton Road, EH9 3FE, United Kingdom",
+            "Edin. - University of Edinburgh (Old College South Bridge Edinburgh EH8 9YL - United Kingdom)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geosciences, Grant Institute, The University of Edinburgh, James Hutton Road, EH9 3FE, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Edin. - University of Edinburgh (Old College South Bridge Edinburgh EH8 9YL - United Kingdom)",
+              "institution_ids": [
+                "https://openalex.org/I3130638677",
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062812133",
+            "display_name": "Esther M. Schwarzenbach",
+            "orcid": "https://orcid.org/0000-0002-4549-4660"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75951250",
+              "display_name": "Freie Universität Berlin",
+              "ror": "https://ror.org/046ak2485",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Esther M. Schwarzenbach",
+          "raw_affiliation_strings": [
+            "Institute of Geological Sciences, Freie Universität Berlin, Malteserstrasse 74-100, 12249 Berlin, Germany",
+            "Freie Universität Berlin (Kaiserswerther Str. 16-18, 14195 Berlin - Germany)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geological Sciences, Freie Universität Berlin, Malteserstrasse 74-100, 12249 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I75951250"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Freie Universität Berlin (Kaiserswerther Str. 16-18, 14195 Berlin - Germany)",
+              "institution_ids": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053075814",
+            "display_name": "J. Escartı́n",
+            "orcid": "https://orcid.org/0000-0002-3416-6856"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2746051580",
+              "display_name": "Université Paris Sciences et Lettres",
+              "ror": "https://ror.org/013cjyk83",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2746051580"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I29607241",
+              "display_name": "École Normale Supérieure - PSL",
+              "ror": "https://ror.org/05a0dhs15",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129651",
+              "display_name": "Laboratoire de Physique de l'Ecole Normale Supérieure",
+              "ror": "https://ror.org/03a26mh11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I204730241",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210129651",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148430"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210162280",
+              "display_name": "Laboratoire de Géologie de l’École Normale Supérieure",
+              "ror": "https://ror.org/05vg9cw43",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210162280"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Javier Escartin",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géologie – CNRS, UMR 8538, École Normale Supérieure, PSL University, Paris, France",
+            "LGENS - Laboratoire de géologie de l'ENS (24 Rue Lhomond 75231 PARIS CEDEX 05 - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géologie – CNRS, UMR 8538, École Normale Supérieure, PSL University, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210162280",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LGENS - Laboratoire de géologie de l'ENS (24 Rue Lhomond 75231 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210129651"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036336925",
+            "display_name": "Barbara E. John",
+            "orcid": "https://orcid.org/0000-0002-7518-8736"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12834331",
+              "display_name": "University of Wyoming",
+              "ror": "https://ror.org/01485tq96",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12834331"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Barbara E. John",
+          "raw_affiliation_strings": [
+            "Department of Geology and Geophysics, University of Wyoming, Laramie, WY 82071, United States of America",
+            "UW - University of Wyoming (1000 E. University Ave. Laramie, WY 82071 - United States)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Geophysics, University of Wyoming, Laramie, WY 82071, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I12834331"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UW - University of Wyoming (1000 E. University Ave. Laramie, WY 82071 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I12834331"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042158045",
+            "display_name": "Matthew I. Leybourne",
+            "orcid": "https://orcid.org/0000-0002-2361-6014"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204722609",
+              "display_name": "Queen's University",
+              "ror": "https://ror.org/02y72wh86",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204722609"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210100002",
+              "display_name": "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
+              "ror": "https://ror.org/013q1e562",
+              "country_code": "CA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210100002"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mathew I. Leybourne",
+          "raw_affiliation_strings": [
+            "Queen's Facility for Isotope Research, Department of Geological Sciences and Geological Engineering, and Arthur B. McDonald Canadian Astroparticle Physics Research Institute, Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, ON K7L 3N6, Canada",
+            "Queen's University [Kingston, Canada] (99 University Ave, Kingston, ON K7L 3N6 - Canada)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Queen's Facility for Isotope Research, Department of Geological Sciences and Geological Engineering, and Arthur B. McDonald Canadian Astroparticle Physics Research Institute, Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, ON K7L 3N6, Canada",
+              "institution_ids": [
+                "https://openalex.org/I4210100002"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Queen's University [Kingston, Canada] (99 University Ave, Kingston, ON K7L 3N6 - Canada)",
+              "institution_ids": [
+                "https://openalex.org/I204722609"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032492856",
+            "display_name": "Morgan Williams",
+            "orcid": "https://orcid.org/0000-0003-4764-9555"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1292875679",
+              "display_name": "Commonwealth Scientific and Industrial Research Organisation",
+              "ror": "https://ror.org/03qn8fb07",
+              "country_code": "AU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I4387156119"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210130959",
+              "display_name": "Mineral Resources",
+              "ror": "https://ror.org/039b65w79",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I4210130959",
+                "https://openalex.org/I4387156119"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210138528",
+              "display_name": "Australian Resources Research Centre",
+              "ror": "https://ror.org/03rzhkf33",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I4210138528",
+                "https://openalex.org/I4387156119"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Morgan J. Williams",
+          "raw_affiliation_strings": [
+            "CSIRO Mineral Resources, 26 Dick Perry Avenue, Kensington, WA 6151, Australia",
+            "CSIRO Mineral Resources (Canberra Australia - Australia)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CSIRO Mineral Resources, 26 Dick Perry Avenue, Kensington, WA 6151, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210138528",
+                "https://openalex.org/I4210130959",
+                "https://openalex.org/I1292875679"
+              ]
+            },
+            {
+              "raw_affiliation_string": "CSIRO Mineral Resources (Canberra Australia - Australia)",
+              "institution_ids": [
+                "https://openalex.org/I4210138528",
+                "https://openalex.org/I4210130959",
+                "https://openalex.org/I1292875679"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045130370",
+            "display_name": "S. Rouméjon",
+            "orcid": "https://orcid.org/0000-0002-1847-6790"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799323385",
+              "display_name": "Board of the Swiss Federal Institutes of Technology",
+              "ror": "https://ror.org/01rvn4p91",
+              "country_code": "CH",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799323385"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I35440088",
+              "display_name": "ETH Zurich",
+              "ror": "https://ror.org/05a28rw58",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stéphane Rouméjon",
+          "raw_affiliation_strings": [
+            "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
+            "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)",
+              "institution_ids": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011505825",
+            "display_name": "Norikatsu Akizawa",
+            "orcid": "https://orcid.org/0000-0003-4210-1160"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10091056",
+              "display_name": "Kanazawa University",
+              "ror": "https://ror.org/02hwp6a56",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10091056"
+              ]
+            }
+          ],
+          "countries": [
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Norikatsu Akizawa",
+          "raw_affiliation_strings": [
+            "Kanazawa University, Department of Earth Sciences, Kakuma Kanazawa, Ishikawa 920-1192, Japan",
+            "KU - Kanazawa University (Kanazawa, Ishikawa - Japan)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Kanazawa University, Department of Earth Sciences, Kakuma Kanazawa, Ishikawa 920-1192, Japan",
+              "institution_ids": [
+                "https://openalex.org/I10091056"
+              ]
+            },
+            {
+              "raw_affiliation_string": "KU - Kanazawa University (Kanazawa, Ishikawa - Japan)",
+              "institution_ids": [
+                "https://openalex.org/I10091056"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038274001",
+            "display_name": "Chiara Boschi",
+            "orcid": "https://orcid.org/0000-0001-8972-4432"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210099513",
+              "display_name": "Institute of Geosciences and Earth Resources",
+              "ror": "https://ror.org/015bmra78",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210099513",
+                "https://openalex.org/I4210155236"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chiara Boschi",
+          "raw_affiliation_strings": [
+            "Institute of Geosciences and Earth Resources – CNR, Via Moruzzi 1, 56124 Pisa, Italy",
+            "IGG - CNR Institute of Geosciences and Earth Resources (Via G. Moruzzi 1 56124 - Pisa - Italy)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geosciences and Earth Resources – CNR, Via Moruzzi 1, 56124 Pisa, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210099513"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IGG - CNR Institute of Geosciences and Earth Resources (Via G. Moruzzi 1 56124 - Pisa - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I4210099513"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035973549",
+            "display_name": "Michelle Harris",
+            "orcid": "https://orcid.org/0000-0001-9618-2862"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I897542642",
+              "display_name": "University of Plymouth",
+              "ror": "https://ror.org/008n7pv89",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I897542642"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michelle Harris",
+          "raw_affiliation_strings": [
+            "School of Geography, Earth and Environmental Sciences, Plymouth University, 109 Fitzroy Building, Plymouth PL4 8AA, United Kingdom",
+            "Plymouth University ( Drake Circus Plymouth Devon PL4 8AA United Kingdom  - United Kingdom)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geography, Earth and Environmental Sciences, Plymouth University, 109 Fitzroy Building, Plymouth PL4 8AA, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I897542642"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Plymouth University ( Drake Circus Plymouth Devon PL4 8AA United Kingdom  - United Kingdom)",
+              "institution_ids": [
+                "https://openalex.org/I897542642"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034786055",
+            "display_name": "Kirsten T. Wenzel",
+            "orcid": "https://orcid.org/0000-0001-9459-8768"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181369854",
+              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+              "ror": "https://ror.org/00f7hpc57",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kirsten Wenzel",
+          "raw_affiliation_strings": [
+            "GeoZentrum Nordbayern, Friedrich-Alexander-University Erlangen-Nuremberg, Schlossgarten 5a, 91054 Erlangen, Germany",
+            "FAU - Friedrich-Alexander Universität Erlangen-Nürnberg = University of Erlangen-Nuremberg (Schlossplatz 4, 91054 Erlangen, Germany - Germany)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GeoZentrum Nordbayern, Friedrich-Alexander-University Erlangen-Nuremberg, Schlossgarten 5a, 91054 Erlangen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FAU - Friedrich-Alexander Universität Erlangen-Nürnberg = University of Erlangen-Nuremberg (Schlossplatz 4, 91054 Erlangen, Germany - Germany)",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017639088",
+            "display_name": "Andrew McCaig",
+            "orcid": "https://orcid.org/0000-0001-7416-4911"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew McCaig",
+          "raw_affiliation_strings": [
+            "School of Earth and Environment, Leeds University, Woodhouse, Leeds LS2 9JT, United Kingdom",
+            "University of Leeds (Woodhouse Lane, Leeds  LS2 9JT - United Kingdom)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Environment, Leeds University, Woodhouse, Leeds LS2 9JT, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Leeds (Woodhouse Lane, Leeds  LS2 9JT - United Kingdom)",
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086662700",
+            "display_name": "Dominique Weis",
+            "orcid": "https://orcid.org/0000-0002-6638-5543"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I141945490",
+              "display_name": "University of British Columbia",
+              "ror": "https://ror.org/03rmrcq20",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I141945490"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802850869",
+              "display_name": "Pacific Institute for the Mathematical Sciences",
+              "ror": "https://ror.org/04w49dw51",
+              "country_code": "CA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2802850869"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260628",
+              "display_name": "University of British Columbia, Okanagan Campus",
+              "ror": "https://ror.org/04241wz75",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I141945490",
+                "https://openalex.org/I4405260628"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I822440",
+              "display_name": "Okanagan University College",
+              "ror": "https://ror.org/02mxmh518",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I822440"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dominique Weis",
+          "raw_affiliation_strings": [
+            "Pacific Centre for Isotopic and Geochemical Research, Earth, Ocean and Atmospheric Sciences, University of British Columbia, 2020-2207 Main Mall, Vancouver, BC V6T-1Z4, Canada",
+            "UBC - University of British Columbia (Vancouver Campus, , 2329 West Mall, Vancouver, BC, V6T 1Z4 / \r\nOkanagan Campus, 3333 University Way, Kelowna, BC, V1V 1V7 - Canada)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Pacific Centre for Isotopic and Geochemical Research, Earth, Ocean and Atmospheric Sciences, University of British Columbia, 2020-2207 Main Mall, Vancouver, BC V6T-1Z4, Canada",
+              "institution_ids": [
+                "https://openalex.org/I2802850869"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UBC - University of British Columbia (Vancouver Campus, , 2329 West Mall, Vancouver, BC, V6T 1Z4 / \r\nOkanagan Campus, 3333 University Way, Kelowna, BC, V1V 1V7 - Canada)",
+              "institution_ids": [
+                "https://openalex.org/I822440",
+                "https://openalex.org/I141945490",
+                "https://openalex.org/I4405260628"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5022432037",
+            "display_name": "Laura Bilenker",
+            "orcid": "https://orcid.org/0000-0003-3297-9164"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82497590",
+              "display_name": "Auburn University",
+              "ror": "https://ror.org/02v80fc35",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82497590"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Laura Bilenker",
+          "raw_affiliation_strings": [
+            "Deparment of Geosciences, Auburn University, Auburn, AL 36849, United States of America",
+            "AU - Auburn University (Auburn, Alabama 36849 - United States)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Deparment of Geosciences, Auburn University, Auburn, AL 36849, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I82497590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "AU - Auburn University (Auburn, Alabama 36849 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I82497590"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 10,
+      "institutions_distinct_count": 17,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5011750653"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3140,
+        "currency": "USD",
+        "value_usd": 3140
+      },
+      "apc_paid": null,
+      "fwci": 2.9623,
+      "has_fulltext": false,
+      "cited_by_count": 23,
+      "citation_normalized_percentile": {
+        "value": 0.91094018,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "594",
+        "issue": null,
+        "first_page": "120681",
+        "last_page": "120681"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9134577512741089
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.7569577693939209
+        },
+        {
+          "id": "https://openalex.org/keywords/metasomatism",
+          "display_name": "Metasomatism",
+          "score": 0.7554594278335571
+        },
+        {
+          "id": "https://openalex.org/keywords/massif",
+          "display_name": "Massif",
+          "score": 0.7530910968780518
+        },
+        {
+          "id": "https://openalex.org/keywords/amphibole",
+          "display_name": "Amphibole",
+          "score": 0.5992499589920044
+        },
+        {
+          "id": "https://openalex.org/keywords/ultramafic-rock",
+          "display_name": "Ultramafic rock",
+          "score": 0.5366266369819641
+        },
+        {
+          "id": "https://openalex.org/keywords/olivine",
+          "display_name": "Olivine",
+          "score": 0.5337748527526855
+        },
+        {
+          "id": "https://openalex.org/keywords/mantle",
+          "display_name": "Mantle (geology)",
+          "score": 0.5131972432136536
+        },
+        {
+          "id": "https://openalex.org/keywords/plagioclase",
+          "display_name": "Plagioclase",
+          "score": 0.46900248527526855
+        },
+        {
+          "id": "https://openalex.org/keywords/mafic",
+          "display_name": "Mafic",
+          "score": 0.4628296196460724
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-element",
+          "display_name": "Trace element",
+          "score": 0.44863268733024597
+        },
+        {
+          "id": "https://openalex.org/keywords/incompatible-element",
+          "display_name": "Incompatible element",
+          "score": 0.44044411182403564
+        },
+        {
+          "id": "https://openalex.org/keywords/peridotite",
+          "display_name": "Peridotite",
+          "score": 0.4257497787475586
+        },
+        {
+          "id": "https://openalex.org/keywords/partial-melting",
+          "display_name": "Partial melting",
+          "score": 0.3606988191604614
+        },
+        {
+          "id": "https://openalex.org/keywords/quartz",
+          "display_name": "Quartz",
+          "score": 0.12339317798614502
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.05330979824066162
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9134577512741089
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.7569577693939209
+        },
+        {
+          "id": "https://openalex.org/C167919410",
+          "wikidata": "https://www.wikidata.org/wiki/Q222814",
+          "display_name": "Metasomatism",
+          "level": 3,
+          "score": 0.7554594278335571
+        },
+        {
+          "id": "https://openalex.org/C160776313",
+          "wikidata": "https://www.wikidata.org/wiki/Q1061151",
+          "display_name": "Massif",
+          "level": 2,
+          "score": 0.7530910968780518
+        },
+        {
+          "id": "https://openalex.org/C4992710",
+          "wikidata": "https://www.wikidata.org/wiki/Q17159",
+          "display_name": "Amphibole",
+          "level": 3,
+          "score": 0.5992499589920044
+        },
+        {
+          "id": "https://openalex.org/C195081551",
+          "wikidata": "https://www.wikidata.org/wiki/Q1143398",
+          "display_name": "Ultramafic rock",
+          "level": 2,
+          "score": 0.5366266369819641
+        },
+        {
+          "id": "https://openalex.org/C2780364934",
+          "wikidata": "https://www.wikidata.org/wiki/Q22693",
+          "display_name": "Olivine",
+          "level": 2,
+          "score": 0.5337748527526855
+        },
+        {
+          "id": "https://openalex.org/C67236022",
+          "wikidata": "https://www.wikidata.org/wiki/Q4364434",
+          "display_name": "Mantle (geology)",
+          "level": 2,
+          "score": 0.5131972432136536
+        },
+        {
+          "id": "https://openalex.org/C2779181077",
+          "wikidata": "https://www.wikidata.org/wiki/Q714830",
+          "display_name": "Plagioclase",
+          "level": 3,
+          "score": 0.46900248527526855
+        },
+        {
+          "id": "https://openalex.org/C167284885",
+          "wikidata": "https://www.wikidata.org/wiki/Q764372",
+          "display_name": "Mafic",
+          "level": 2,
+          "score": 0.4628296196460724
+        },
+        {
+          "id": "https://openalex.org/C34682378",
+          "wikidata": "https://www.wikidata.org/wiki/Q351792",
+          "display_name": "Trace element",
+          "level": 2,
+          "score": 0.44863268733024597
+        },
+        {
+          "id": "https://openalex.org/C83948199",
+          "wikidata": "https://www.wikidata.org/wiki/Q1663708",
+          "display_name": "Incompatible element",
+          "level": 4,
+          "score": 0.44044411182403564
+        },
+        {
+          "id": "https://openalex.org/C84372278",
+          "wikidata": "https://www.wikidata.org/wiki/Q239918",
+          "display_name": "Peridotite",
+          "level": 3,
+          "score": 0.4257497787475586
+        },
+        {
+          "id": "https://openalex.org/C79572550",
+          "wikidata": "https://www.wikidata.org/wiki/Q2054924",
+          "display_name": "Partial melting",
+          "level": 3,
+          "score": 0.3606988191604614
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.12339317798614502
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.05330979824066162
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.chemgeo.2021.120681",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.chemgeo.2021.120681",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S141585851",
+            "display_name": "Chemical Geology",
+            "issn_l": "0009-2541",
+            "issn": [
+              "0009-2541",
+              "1872-6836"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Chemical Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:pure.ed.ac.uk:openaire/06408319-9cea-4383-b3d0-cb2f039eff6c",
+          "is_oa": true,
+          "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922455",
+            "display_name": "Edinburgh Research Explorer",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Whattam, S A, Früh-green, G L, Cannat, M, De Hoog, J C M, Schwarzenbach, E M, Escartin, J, John, B E, Leybourne, M I, Williams, M J, Rouméjon, S, Akizawa, N, Boschi, C, Harris, M, Wenzel, K, Mccaig, A, Weis, D & Bilenker, L 2021, 'Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes', Chemical Geology. https://doi.org/10.1016/j.chemgeo.2021.120681",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-03644003v1",
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-03644003",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Chemical Geology, 2022, 594, pp.120681. &#x27E8;10.1016/j.chemgeo.2021.120681&#x27E9;",
+          "raw_type": "Journal articles"
+        },
+        {
+          "id": "pmh:oai:pure.ed.ac.uk:publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
+          "is_oa": true,
+          "landing_page_url": "https://www.sciencedirect.com/science/article/abs/pii/S0009254121006240",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922455",
+            "display_name": "Edinburgh Research Explorer",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": ""
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:pure.ed.ac.uk:openaire/06408319-9cea-4383-b3d0-cb2f039eff6c",
+        "is_oa": true,
+        "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4406922455",
+          "display_name": "Edinburgh Research Explorer",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Whattam, S A, Früh-green, G L, Cannat, M, De Hoog, J C M, Schwarzenbach, E M, Escartin, J, John, B E, Leybourne, M I, Williams, M J, Rouméjon, S, Akizawa, N, Boschi, C, Harris, M, Wenzel, K, Mccaig, A, Weis, D & Bilenker, L 2021, 'Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes', Chemical Geology. https://doi.org/10.1016/j.chemgeo.2021.120681",
+        "raw_type": "info:eu-repo/semantics/publishedVersion"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3524298666",
+          "display_name": null,
+          "funder_award_id": "NE/P000061/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G6582689996",
+          "display_name": null,
+          "funder_award_id": "NE/P000061/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G665730910",
+          "display_name": null,
+          "funder_award_id": "NE/P000711/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G7554979097",
+          "display_name": null,
+          "funder_award_id": "NE/P000711/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320022",
+          "display_name": "Sight Research UK",
+          "ror": "https://ror.org/03z2py885"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W655426040",
+        "https://openalex.org/W1489938111",
+        "https://openalex.org/W1524569802",
+        "https://openalex.org/W1535363067",
+        "https://openalex.org/W1542454633",
+        "https://openalex.org/W1611710073",
+        "https://openalex.org/W1634224673",
+        "https://openalex.org/W1674991382",
+        "https://openalex.org/W1759368051",
+        "https://openalex.org/W1849376237",
+        "https://openalex.org/W1965296664",
+        "https://openalex.org/W1969859799",
+        "https://openalex.org/W1970767963",
+        "https://openalex.org/W1980123658",
+        "https://openalex.org/W1986522418",
+        "https://openalex.org/W1991351712",
+        "https://openalex.org/W2004245447",
+        "https://openalex.org/W2007711398",
+        "https://openalex.org/W2008934623",
+        "https://openalex.org/W2011607179",
+        "https://openalex.org/W2014892075",
+        "https://openalex.org/W2015767858",
+        "https://openalex.org/W2020810253",
+        "https://openalex.org/W2032466071",
+        "https://openalex.org/W2033055469",
+        "https://openalex.org/W2033804331",
+        "https://openalex.org/W2058646051",
+        "https://openalex.org/W2063193941",
+        "https://openalex.org/W2068641796",
+        "https://openalex.org/W2070590123",
+        "https://openalex.org/W2089044527",
+        "https://openalex.org/W2097274806",
+        "https://openalex.org/W2113369720",
+        "https://openalex.org/W2113810005",
+        "https://openalex.org/W2114270007",
+        "https://openalex.org/W2119247793",
+        "https://openalex.org/W2124972127",
+        "https://openalex.org/W2126671525",
+        "https://openalex.org/W2126907882",
+        "https://openalex.org/W2135406745",
+        "https://openalex.org/W2145501287",
+        "https://openalex.org/W2154908592",
+        "https://openalex.org/W2162849934",
+        "https://openalex.org/W2171071807",
+        "https://openalex.org/W2271113515",
+        "https://openalex.org/W2328830054",
+        "https://openalex.org/W2463619610",
+        "https://openalex.org/W2492865770",
+        "https://openalex.org/W2589638263",
+        "https://openalex.org/W2793211549",
+        "https://openalex.org/W2808931462",
+        "https://openalex.org/W2846582958",
+        "https://openalex.org/W2890962879",
+        "https://openalex.org/W2891990432",
+        "https://openalex.org/W2997714959",
+        "https://openalex.org/W3108379505",
+        "https://openalex.org/W4234573133",
+        "https://openalex.org/W4313421639",
+        "https://openalex.org/W6637131322",
+        "https://openalex.org/W6638535954",
+        "https://openalex.org/W6653620656",
+        "https://openalex.org/W6654509502",
+        "https://openalex.org/W6812467634",
+        "https://openalex.org/W6848650857"
+      ],
+      "related_works": [
+        "https://openalex.org/W4210542178",
+        "https://openalex.org/W2594356413",
+        "https://openalex.org/W2077124226",
+        "https://openalex.org/W4245581407",
+        "https://openalex.org/W3198912574",
+        "https://openalex.org/W4379507126",
+        "https://openalex.org/W4254107674",
+        "https://openalex.org/W2108785961",
+        "https://openalex.org/W2085848982",
+        "https://openalex.org/W2030670948"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44297,1586 +45877,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4200559166",
-      "doi": "https://doi.org/10.1016/j.chemgeo.2021.120681",
-      "title": "Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes",
-      "display_name": "Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes",
-      "publication_year": 2021,
-      "publication_date": "2021-12-15",
-      "ids": {
-        "openalex": "https://openalex.org/W4200559166",
-        "doi": "https://doi.org/10.1016/j.chemgeo.2021.120681"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.chemgeo.2021.120681",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.chemgeo.2021.120681",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S141585851",
-          "display_name": "Chemical Geology",
-          "issn_l": "0009-2541",
-          "issn": [
-            "0009-2541",
-            "1872-6836"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Chemical Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5011750653",
-            "display_name": "Scott Whattam",
-            "orcid": "https://orcid.org/0000-0001-9193-9002"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Scott A. Whattam",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "KFUPM - King Fahd University of Petroleum and Minerals (University Blvd, King Fahd University of Petroleum and Minerals, Az Zahran - Saudi Arabia)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "KFUPM - King Fahd University of Petroleum and Minerals (University Blvd, King Fahd University of Petroleum and Minerals, Az Zahran - Saudi Arabia)",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5042065911",
-            "display_name": "Gretchen L. Früh‐Green",
-            "orcid": "https://orcid.org/0000-0003-0353-7842"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799323385",
-              "display_name": "Board of the Swiss Federal Institutes of Technology",
-              "ror": "https://ror.org/01rvn4p91",
-              "country_code": "CH",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799323385"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I35440088",
-              "display_name": "ETH Zurich",
-              "ror": "https://ror.org/05a28rw58",
-              "country_code": "CH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2799323385",
-                "https://openalex.org/I35440088"
-              ]
-            }
-          ],
-          "countries": [
-            "CH"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Gretchen L. Früh-Green",
-          "raw_affiliation_strings": [
-            "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
-            "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
-              "institution_ids": [
-                "https://openalex.org/I35440088"
-              ]
-            },
-            {
-              "raw_affiliation_string": "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)",
-              "institution_ids": [
-                "https://openalex.org/I2799323385",
-                "https://openalex.org/I35440088"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039871223",
-            "display_name": "Mathilde Cannat",
-            "orcid": "https://orcid.org/0000-0002-5157-8473"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I148261361",
-              "display_name": "Institut de physique du globe de Paris",
-              "ror": "https://ror.org/004gzqz66",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I148261361",
-                "https://openalex.org/I204730241",
-                "https://openalex.org/I4210148025"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mathilde Cannat",
-          "raw_affiliation_strings": [
-            "Institut de Physique du Globe de Paris, CNRS, 1 rue Jussieu, 75238 Paris, Cedex 05, France",
-            "IPGP (UMR_7154) - Institut de Physique du Globe de Paris (1 rue Jussieu, 75238 Paris cedex 05 et Bât. Lamarck A case postale 7011, 75205 Paris CEDEX 13 - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institut de Physique du Globe de Paris, CNRS, 1 rue Jussieu, 75238 Paris, Cedex 05, France",
-              "institution_ids": [
-                "https://openalex.org/I148261361",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "IPGP (UMR_7154) - Institut de Physique du Globe de Paris (1 rue Jussieu, 75238 Paris cedex 05 et Bât. Lamarck A case postale 7011, 75205 Paris CEDEX 13 - France)",
-              "institution_ids": [
-                "https://openalex.org/I148261361"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5058038066",
-            "display_name": "Jan C.M. De Hoog",
-            "orcid": "https://orcid.org/0000-0002-5930-3597"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3130638677",
-              "display_name": "Edinburgh College",
-              "ror": "https://ror.org/04vpa6h32",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3130638677"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I98677209",
-              "display_name": "University of Edinburgh",
-              "ror": "https://ror.org/01nrxwf90",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98677209"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jan C.M. De Hoog",
-          "raw_affiliation_strings": [
-            "School of Geosciences, Grant Institute, The University of Edinburgh, James Hutton Road, EH9 3FE, United Kingdom",
-            "Edin. - University of Edinburgh (Old College South Bridge Edinburgh EH8 9YL - United Kingdom)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geosciences, Grant Institute, The University of Edinburgh, James Hutton Road, EH9 3FE, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I98677209"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Edin. - University of Edinburgh (Old College South Bridge Edinburgh EH8 9YL - United Kingdom)",
-              "institution_ids": [
-                "https://openalex.org/I3130638677",
-                "https://openalex.org/I98677209"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5062812133",
-            "display_name": "Esther M. Schwarzenbach",
-            "orcid": "https://orcid.org/0000-0002-4549-4660"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I75951250",
-              "display_name": "Freie Universität Berlin",
-              "ror": "https://ror.org/046ak2485",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I75951250"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Esther M. Schwarzenbach",
-          "raw_affiliation_strings": [
-            "Institute of Geological Sciences, Freie Universität Berlin, Malteserstrasse 74-100, 12249 Berlin, Germany",
-            "Freie Universität Berlin (Kaiserswerther Str. 16-18, 14195 Berlin - Germany)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geological Sciences, Freie Universität Berlin, Malteserstrasse 74-100, 12249 Berlin, Germany",
-              "institution_ids": [
-                "https://openalex.org/I75951250"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Freie Universität Berlin (Kaiserswerther Str. 16-18, 14195 Berlin - Germany)",
-              "institution_ids": [
-                "https://openalex.org/I75951250"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053075814",
-            "display_name": "J. Escartı́n",
-            "orcid": "https://orcid.org/0000-0002-3416-6856"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2746051580",
-              "display_name": "Université Paris Sciences et Lettres",
-              "ror": "https://ror.org/013cjyk83",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2746051580"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I29607241",
-              "display_name": "École Normale Supérieure - PSL",
-              "ror": "https://ror.org/05a0dhs15",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210129651",
-              "display_name": "Laboratoire de Physique de l'Ecole Normale Supérieure",
-              "ror": "https://ror.org/03a26mh11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I204730241",
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I29607241",
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4210129651",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148430"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210162280",
-              "display_name": "Laboratoire de Géologie de l’École Normale Supérieure",
-              "ror": "https://ror.org/05vg9cw43",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I29607241",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210162280"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Javier Escartin",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géologie – CNRS, UMR 8538, École Normale Supérieure, PSL University, Paris, France",
-            "LGENS - Laboratoire de géologie de l'ENS (24 Rue Lhomond 75231 PARIS CEDEX 05 - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géologie – CNRS, UMR 8538, École Normale Supérieure, PSL University, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I4210162280",
-                "https://openalex.org/I29607241",
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LGENS - Laboratoire de géologie de l'ENS (24 Rue Lhomond 75231 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210129651"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036336925",
-            "display_name": "Barbara E. John",
-            "orcid": "https://orcid.org/0000-0002-7518-8736"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12834331",
-              "display_name": "University of Wyoming",
-              "ror": "https://ror.org/01485tq96",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12834331"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Barbara E. John",
-          "raw_affiliation_strings": [
-            "Department of Geology and Geophysics, University of Wyoming, Laramie, WY 82071, United States of America",
-            "UW - University of Wyoming (1000 E. University Ave. Laramie, WY 82071 - United States)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Geophysics, University of Wyoming, Laramie, WY 82071, United States of America",
-              "institution_ids": [
-                "https://openalex.org/I12834331"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UW - University of Wyoming (1000 E. University Ave. Laramie, WY 82071 - United States)",
-              "institution_ids": [
-                "https://openalex.org/I12834331"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5042158045",
-            "display_name": "Matthew I. Leybourne",
-            "orcid": "https://orcid.org/0000-0002-2361-6014"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I204722609",
-              "display_name": "Queen's University",
-              "ror": "https://ror.org/02y72wh86",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204722609"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210100002",
-              "display_name": "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
-              "ror": "https://ror.org/013q1e562",
-              "country_code": "CA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210100002"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mathew I. Leybourne",
-          "raw_affiliation_strings": [
-            "Queen's Facility for Isotope Research, Department of Geological Sciences and Geological Engineering, and Arthur B. McDonald Canadian Astroparticle Physics Research Institute, Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, ON K7L 3N6, Canada",
-            "Queen's University [Kingston, Canada] (99 University Ave, Kingston, ON K7L 3N6 - Canada)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Queen's Facility for Isotope Research, Department of Geological Sciences and Geological Engineering, and Arthur B. McDonald Canadian Astroparticle Physics Research Institute, Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, ON K7L 3N6, Canada",
-              "institution_ids": [
-                "https://openalex.org/I4210100002"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Queen's University [Kingston, Canada] (99 University Ave, Kingston, ON K7L 3N6 - Canada)",
-              "institution_ids": [
-                "https://openalex.org/I204722609"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032492856",
-            "display_name": "Morgan Williams",
-            "orcid": "https://orcid.org/0000-0003-4764-9555"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1292875679",
-              "display_name": "Commonwealth Scientific and Industrial Research Organisation",
-              "ror": "https://ror.org/03qn8fb07",
-              "country_code": "AU",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1292875679",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4387156119"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210130959",
-              "display_name": "Mineral Resources",
-              "ror": "https://ror.org/039b65w79",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1292875679",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210130959",
-                "https://openalex.org/I4387156119"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210138528",
-              "display_name": "Australian Resources Research Centre",
-              "ror": "https://ror.org/03rzhkf33",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1292875679",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210138528",
-                "https://openalex.org/I4387156119"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Morgan J. Williams",
-          "raw_affiliation_strings": [
-            "CSIRO Mineral Resources, 26 Dick Perry Avenue, Kensington, WA 6151, Australia",
-            "CSIRO Mineral Resources (Canberra Australia - Australia)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CSIRO Mineral Resources, 26 Dick Perry Avenue, Kensington, WA 6151, Australia",
-              "institution_ids": [
-                "https://openalex.org/I4210138528",
-                "https://openalex.org/I4210130959",
-                "https://openalex.org/I1292875679"
-              ]
-            },
-            {
-              "raw_affiliation_string": "CSIRO Mineral Resources (Canberra Australia - Australia)",
-              "institution_ids": [
-                "https://openalex.org/I4210138528",
-                "https://openalex.org/I4210130959",
-                "https://openalex.org/I1292875679"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045130370",
-            "display_name": "S. Rouméjon",
-            "orcid": "https://orcid.org/0000-0002-1847-6790"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799323385",
-              "display_name": "Board of the Swiss Federal Institutes of Technology",
-              "ror": "https://ror.org/01rvn4p91",
-              "country_code": "CH",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799323385"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I35440088",
-              "display_name": "ETH Zurich",
-              "ror": "https://ror.org/05a28rw58",
-              "country_code": "CH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2799323385",
-                "https://openalex.org/I35440088"
-              ]
-            }
-          ],
-          "countries": [
-            "CH"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Stéphane Rouméjon",
-          "raw_affiliation_strings": [
-            "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
-            "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geochemistry and Petrology, ETH Zurich, Clausiusstrasse 25, 8092 Zürich, Switzerland",
-              "institution_ids": [
-                "https://openalex.org/I35440088"
-              ]
-            },
-            {
-              "raw_affiliation_string": "ETH Zürich - Eidgenössische Technische Hochschule - Swiss Federal Institute of Technology  [Zürich] (Hauptgebäude, Rämistrasse 101, 8092 Zürich - Switzerland)",
-              "institution_ids": [
-                "https://openalex.org/I2799323385",
-                "https://openalex.org/I35440088"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011505825",
-            "display_name": "Norikatsu Akizawa",
-            "orcid": "https://orcid.org/0000-0003-4210-1160"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I10091056",
-              "display_name": "Kanazawa University",
-              "ror": "https://ror.org/02hwp6a56",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I10091056"
-              ]
-            }
-          ],
-          "countries": [
-            "JP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Norikatsu Akizawa",
-          "raw_affiliation_strings": [
-            "Kanazawa University, Department of Earth Sciences, Kakuma Kanazawa, Ishikawa 920-1192, Japan",
-            "KU - Kanazawa University (Kanazawa, Ishikawa - Japan)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kanazawa University, Department of Earth Sciences, Kakuma Kanazawa, Ishikawa 920-1192, Japan",
-              "institution_ids": [
-                "https://openalex.org/I10091056"
-              ]
-            },
-            {
-              "raw_affiliation_string": "KU - Kanazawa University (Kanazawa, Ishikawa - Japan)",
-              "institution_ids": [
-                "https://openalex.org/I10091056"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038274001",
-            "display_name": "Chiara Boschi",
-            "orcid": "https://orcid.org/0000-0001-8972-4432"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210099513",
-              "display_name": "Institute of Geosciences and Earth Resources",
-              "ror": "https://ror.org/015bmra78",
-              "country_code": "IT",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210099513",
-                "https://openalex.org/I4210155236"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chiara Boschi",
-          "raw_affiliation_strings": [
-            "Institute of Geosciences and Earth Resources – CNR, Via Moruzzi 1, 56124 Pisa, Italy",
-            "IGG - CNR Institute of Geosciences and Earth Resources (Via G. Moruzzi 1 56124 - Pisa - Italy)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geosciences and Earth Resources – CNR, Via Moruzzi 1, 56124 Pisa, Italy",
-              "institution_ids": [
-                "https://openalex.org/I4210099513"
-              ]
-            },
-            {
-              "raw_affiliation_string": "IGG - CNR Institute of Geosciences and Earth Resources (Via G. Moruzzi 1 56124 - Pisa - Italy)",
-              "institution_ids": [
-                "https://openalex.org/I4210099513"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035973549",
-            "display_name": "Michelle Harris",
-            "orcid": "https://orcid.org/0000-0001-9618-2862"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I897542642",
-              "display_name": "University of Plymouth",
-              "ror": "https://ror.org/008n7pv89",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I897542642"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michelle Harris",
-          "raw_affiliation_strings": [
-            "School of Geography, Earth and Environmental Sciences, Plymouth University, 109 Fitzroy Building, Plymouth PL4 8AA, United Kingdom",
-            "Plymouth University ( Drake Circus Plymouth Devon PL4 8AA United Kingdom  - United Kingdom)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geography, Earth and Environmental Sciences, Plymouth University, 109 Fitzroy Building, Plymouth PL4 8AA, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I897542642"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Plymouth University ( Drake Circus Plymouth Devon PL4 8AA United Kingdom  - United Kingdom)",
-              "institution_ids": [
-                "https://openalex.org/I897542642"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034786055",
-            "display_name": "Kirsten T. Wenzel",
-            "orcid": "https://orcid.org/0000-0001-9459-8768"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181369854",
-              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-              "ror": "https://ror.org/00f7hpc57",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181369854"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kirsten Wenzel",
-          "raw_affiliation_strings": [
-            "GeoZentrum Nordbayern, Friedrich-Alexander-University Erlangen-Nuremberg, Schlossgarten 5a, 91054 Erlangen, Germany",
-            "FAU - Friedrich-Alexander Universität Erlangen-Nürnberg = University of Erlangen-Nuremberg (Schlossplatz 4, 91054 Erlangen, Germany - Germany)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GeoZentrum Nordbayern, Friedrich-Alexander-University Erlangen-Nuremberg, Schlossgarten 5a, 91054 Erlangen, Germany",
-              "institution_ids": [
-                "https://openalex.org/I181369854"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FAU - Friedrich-Alexander Universität Erlangen-Nürnberg = University of Erlangen-Nuremberg (Schlossplatz 4, 91054 Erlangen, Germany - Germany)",
-              "institution_ids": [
-                "https://openalex.org/I181369854"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017639088",
-            "display_name": "Andrew McCaig",
-            "orcid": "https://orcid.org/0000-0001-7416-4911"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I130828816",
-              "display_name": "University of Leeds",
-              "ror": "https://ror.org/024mrxd33",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I130828816"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrew McCaig",
-          "raw_affiliation_strings": [
-            "School of Earth and Environment, Leeds University, Woodhouse, Leeds LS2 9JT, United Kingdom",
-            "University of Leeds (Woodhouse Lane, Leeds  LS2 9JT - United Kingdom)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth and Environment, Leeds University, Woodhouse, Leeds LS2 9JT, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I130828816"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Leeds (Woodhouse Lane, Leeds  LS2 9JT - United Kingdom)",
-              "institution_ids": [
-                "https://openalex.org/I130828816"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086662700",
-            "display_name": "Dominique Weis",
-            "orcid": "https://orcid.org/0000-0002-6638-5543"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I141945490",
-              "display_name": "University of British Columbia",
-              "ror": "https://ror.org/03rmrcq20",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I141945490"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2802850869",
-              "display_name": "Pacific Institute for the Mathematical Sciences",
-              "ror": "https://ror.org/04w49dw51",
-              "country_code": "CA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2802850869"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405260628",
-              "display_name": "University of British Columbia, Okanagan Campus",
-              "ror": "https://ror.org/04241wz75",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I141945490",
-                "https://openalex.org/I4405260628"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I822440",
-              "display_name": "Okanagan University College",
-              "ror": "https://ror.org/02mxmh518",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I822440"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dominique Weis",
-          "raw_affiliation_strings": [
-            "Pacific Centre for Isotopic and Geochemical Research, Earth, Ocean and Atmospheric Sciences, University of British Columbia, 2020-2207 Main Mall, Vancouver, BC V6T-1Z4, Canada",
-            "UBC - University of British Columbia (Vancouver Campus, , 2329 West Mall, Vancouver, BC, V6T 1Z4 / \r\nOkanagan Campus, 3333 University Way, Kelowna, BC, V1V 1V7 - Canada)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Pacific Centre for Isotopic and Geochemical Research, Earth, Ocean and Atmospheric Sciences, University of British Columbia, 2020-2207 Main Mall, Vancouver, BC V6T-1Z4, Canada",
-              "institution_ids": [
-                "https://openalex.org/I2802850869"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UBC - University of British Columbia (Vancouver Campus, , 2329 West Mall, Vancouver, BC, V6T 1Z4 / \r\nOkanagan Campus, 3333 University Way, Kelowna, BC, V1V 1V7 - Canada)",
-              "institution_ids": [
-                "https://openalex.org/I822440",
-                "https://openalex.org/I141945490",
-                "https://openalex.org/I4405260628"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5022432037",
-            "display_name": "Laura Bilenker",
-            "orcid": "https://orcid.org/0000-0003-3297-9164"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I82497590",
-              "display_name": "Auburn University",
-              "ror": "https://ror.org/02v80fc35",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I82497590"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Laura Bilenker",
-          "raw_affiliation_strings": [
-            "Deparment of Geosciences, Auburn University, Auburn, AL 36849, United States of America",
-            "AU - Auburn University (Auburn, Alabama 36849 - United States)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Deparment of Geosciences, Auburn University, Auburn, AL 36849, United States of America",
-              "institution_ids": [
-                "https://openalex.org/I82497590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "AU - Auburn University (Auburn, Alabama 36849 - United States)",
-              "institution_ids": [
-                "https://openalex.org/I82497590"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 10,
-      "institutions_distinct_count": 17,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5011750653"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3140,
-        "currency": "USD",
-        "value_usd": 3140
-      },
-      "apc_paid": null,
-      "fwci": 2.9191,
-      "has_fulltext": false,
-      "cited_by_count": 22,
-      "citation_normalized_percentile": {
-        "value": 0.90980559,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "594",
-        "issue": null,
-        "first_page": "120681",
-        "last_page": "120681"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9134577512741089
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.7569577693939209
-        },
-        {
-          "id": "https://openalex.org/keywords/metasomatism",
-          "display_name": "Metasomatism",
-          "score": 0.7554594278335571
-        },
-        {
-          "id": "https://openalex.org/keywords/massif",
-          "display_name": "Massif",
-          "score": 0.7530910968780518
-        },
-        {
-          "id": "https://openalex.org/keywords/amphibole",
-          "display_name": "Amphibole",
-          "score": 0.5992499589920044
-        },
-        {
-          "id": "https://openalex.org/keywords/ultramafic-rock",
-          "display_name": "Ultramafic rock",
-          "score": 0.5366266369819641
-        },
-        {
-          "id": "https://openalex.org/keywords/olivine",
-          "display_name": "Olivine",
-          "score": 0.5337748527526855
-        },
-        {
-          "id": "https://openalex.org/keywords/mantle",
-          "display_name": "Mantle (geology)",
-          "score": 0.5131972432136536
-        },
-        {
-          "id": "https://openalex.org/keywords/plagioclase",
-          "display_name": "Plagioclase",
-          "score": 0.46900248527526855
-        },
-        {
-          "id": "https://openalex.org/keywords/mafic",
-          "display_name": "Mafic",
-          "score": 0.4628296196460724
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-element",
-          "display_name": "Trace element",
-          "score": 0.44863268733024597
-        },
-        {
-          "id": "https://openalex.org/keywords/incompatible-element",
-          "display_name": "Incompatible element",
-          "score": 0.44044411182403564
-        },
-        {
-          "id": "https://openalex.org/keywords/peridotite",
-          "display_name": "Peridotite",
-          "score": 0.4257497787475586
-        },
-        {
-          "id": "https://openalex.org/keywords/partial-melting",
-          "display_name": "Partial melting",
-          "score": 0.3606988191604614
-        },
-        {
-          "id": "https://openalex.org/keywords/quartz",
-          "display_name": "Quartz",
-          "score": 0.12339317798614502
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.05330979824066162
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9134577512741089
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.7569577693939209
-        },
-        {
-          "id": "https://openalex.org/C167919410",
-          "wikidata": "https://www.wikidata.org/wiki/Q222814",
-          "display_name": "Metasomatism",
-          "level": 3,
-          "score": 0.7554594278335571
-        },
-        {
-          "id": "https://openalex.org/C160776313",
-          "wikidata": "https://www.wikidata.org/wiki/Q1061151",
-          "display_name": "Massif",
-          "level": 2,
-          "score": 0.7530910968780518
-        },
-        {
-          "id": "https://openalex.org/C4992710",
-          "wikidata": "https://www.wikidata.org/wiki/Q17159",
-          "display_name": "Amphibole",
-          "level": 3,
-          "score": 0.5992499589920044
-        },
-        {
-          "id": "https://openalex.org/C195081551",
-          "wikidata": "https://www.wikidata.org/wiki/Q1143398",
-          "display_name": "Ultramafic rock",
-          "level": 2,
-          "score": 0.5366266369819641
-        },
-        {
-          "id": "https://openalex.org/C2780364934",
-          "wikidata": "https://www.wikidata.org/wiki/Q22693",
-          "display_name": "Olivine",
-          "level": 2,
-          "score": 0.5337748527526855
-        },
-        {
-          "id": "https://openalex.org/C67236022",
-          "wikidata": "https://www.wikidata.org/wiki/Q4364434",
-          "display_name": "Mantle (geology)",
-          "level": 2,
-          "score": 0.5131972432136536
-        },
-        {
-          "id": "https://openalex.org/C2779181077",
-          "wikidata": "https://www.wikidata.org/wiki/Q714830",
-          "display_name": "Plagioclase",
-          "level": 3,
-          "score": 0.46900248527526855
-        },
-        {
-          "id": "https://openalex.org/C167284885",
-          "wikidata": "https://www.wikidata.org/wiki/Q764372",
-          "display_name": "Mafic",
-          "level": 2,
-          "score": 0.4628296196460724
-        },
-        {
-          "id": "https://openalex.org/C34682378",
-          "wikidata": "https://www.wikidata.org/wiki/Q351792",
-          "display_name": "Trace element",
-          "level": 2,
-          "score": 0.44863268733024597
-        },
-        {
-          "id": "https://openalex.org/C83948199",
-          "wikidata": "https://www.wikidata.org/wiki/Q1663708",
-          "display_name": "Incompatible element",
-          "level": 4,
-          "score": 0.44044411182403564
-        },
-        {
-          "id": "https://openalex.org/C84372278",
-          "wikidata": "https://www.wikidata.org/wiki/Q239918",
-          "display_name": "Peridotite",
-          "level": 3,
-          "score": 0.4257497787475586
-        },
-        {
-          "id": "https://openalex.org/C79572550",
-          "wikidata": "https://www.wikidata.org/wiki/Q2054924",
-          "display_name": "Partial melting",
-          "level": 3,
-          "score": 0.3606988191604614
-        },
-        {
-          "id": "https://openalex.org/C2779870107",
-          "wikidata": "https://www.wikidata.org/wiki/Q43010",
-          "display_name": "Quartz",
-          "level": 2,
-          "score": 0.12339317798614502
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.05330979824066162
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.chemgeo.2021.120681",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.chemgeo.2021.120681",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S141585851",
-            "display_name": "Chemical Geology",
-            "issn_l": "0009-2541",
-            "issn": [
-              "0009-2541",
-              "1872-6836"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Chemical Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:pure.ed.ac.uk:openaire/06408319-9cea-4383-b3d0-cb2f039eff6c",
-          "is_oa": true,
-          "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922455",
-            "display_name": "Edinburgh Research Explorer",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Whattam, S A, Früh-green, G L, Cannat, M, De Hoog, J C M, Schwarzenbach, E M, Escartin, J, John, B E, Leybourne, M I, Williams, M J, Rouméjon, S, Akizawa, N, Boschi, C, Harris, M, Wenzel, K, Mccaig, A, Weis, D & Bilenker, L 2021, 'Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes', Chemical Geology. https://doi.org/10.1016/j.chemgeo.2021.120681",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-03644003v1",
-          "is_oa": false,
-          "landing_page_url": "https://hal.science/hal-03644003",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Chemical Geology, 2022, 594, pp.120681. &#x27E8;10.1016/j.chemgeo.2021.120681&#x27E9;",
-          "raw_type": "Journal articles"
-        },
-        {
-          "id": "pmh:oai:pure.ed.ac.uk:publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
-          "is_oa": true,
-          "landing_page_url": "https://www.sciencedirect.com/science/article/abs/pii/S0009254121006240",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922455",
-            "display_name": "Edinburgh Research Explorer",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": ""
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:pure.ed.ac.uk:openaire/06408319-9cea-4383-b3d0-cb2f039eff6c",
-        "is_oa": true,
-        "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4406922455",
-          "display_name": "Edinburgh Research Explorer",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Whattam, S A, Früh-green, G L, Cannat, M, De Hoog, J C M, Schwarzenbach, E M, Escartin, J, John, B E, Leybourne, M I, Williams, M J, Rouméjon, S, Akizawa, N, Boschi, C, Harris, M, Wenzel, K, Mccaig, A, Weis, D & Bilenker, L 2021, 'Geochemistry of serpentinized and multiphase altered Atlantis Massif peridotites (IODP Expedition 357): Petrogenesis and discrimination of melt-rock vs. fluid-rock processes', Chemical Geology. https://doi.org/10.1016/j.chemgeo.2021.120681",
-        "raw_type": "info:eu-repo/semantics/publishedVersion"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G3524298666",
-          "display_name": null,
-          "funder_award_id": "NE/P000061/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G6582689996",
-          "display_name": null,
-          "funder_award_id": "NE/P000061/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        },
-        {
-          "id": "https://openalex.org/G665730910",
-          "display_name": null,
-          "funder_award_id": "NE/P000711/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G7554979097",
-          "display_name": null,
-          "funder_award_id": "NE/P000711/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320022",
-          "display_name": "Sight Research UK",
-          "ror": "https://ror.org/03z2py885"
-        },
-        {
-          "id": "https://openalex.org/F4320334631",
-          "display_name": "Natural Environment Research Council",
-          "ror": "https://ror.org/02b5d8509"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 64,
-      "referenced_works": [
-        "https://openalex.org/W655426040",
-        "https://openalex.org/W1489938111",
-        "https://openalex.org/W1524569802",
-        "https://openalex.org/W1535363067",
-        "https://openalex.org/W1542454633",
-        "https://openalex.org/W1611710073",
-        "https://openalex.org/W1634224673",
-        "https://openalex.org/W1674991382",
-        "https://openalex.org/W1759368051",
-        "https://openalex.org/W1849376237",
-        "https://openalex.org/W1965296664",
-        "https://openalex.org/W1969859799",
-        "https://openalex.org/W1970767963",
-        "https://openalex.org/W1980123658",
-        "https://openalex.org/W1986522418",
-        "https://openalex.org/W1991351712",
-        "https://openalex.org/W2004245447",
-        "https://openalex.org/W2007711398",
-        "https://openalex.org/W2008934623",
-        "https://openalex.org/W2011607179",
-        "https://openalex.org/W2014892075",
-        "https://openalex.org/W2015767858",
-        "https://openalex.org/W2020810253",
-        "https://openalex.org/W2032466071",
-        "https://openalex.org/W2033055469",
-        "https://openalex.org/W2033804331",
-        "https://openalex.org/W2058646051",
-        "https://openalex.org/W2063193941",
-        "https://openalex.org/W2068641796",
-        "https://openalex.org/W2070590123",
-        "https://openalex.org/W2089044527",
-        "https://openalex.org/W2097274806",
-        "https://openalex.org/W2113369720",
-        "https://openalex.org/W2113810005",
-        "https://openalex.org/W2114270007",
-        "https://openalex.org/W2119247793",
-        "https://openalex.org/W2124972127",
-        "https://openalex.org/W2126671525",
-        "https://openalex.org/W2126907882",
-        "https://openalex.org/W2135406745",
-        "https://openalex.org/W2145501287",
-        "https://openalex.org/W2154908592",
-        "https://openalex.org/W2162849934",
-        "https://openalex.org/W2171071807",
-        "https://openalex.org/W2271113515",
-        "https://openalex.org/W2328830054",
-        "https://openalex.org/W2463619610",
-        "https://openalex.org/W2492865770",
-        "https://openalex.org/W2589638263",
-        "https://openalex.org/W2793211549",
-        "https://openalex.org/W2808931462",
-        "https://openalex.org/W2846582958",
-        "https://openalex.org/W2890962879",
-        "https://openalex.org/W2891990432",
-        "https://openalex.org/W2997714959",
-        "https://openalex.org/W3108379505",
-        "https://openalex.org/W4234573133",
-        "https://openalex.org/W4313421639",
-        "https://openalex.org/W6637131322",
-        "https://openalex.org/W6638535954",
-        "https://openalex.org/W6653620656",
-        "https://openalex.org/W6654509502",
-        "https://openalex.org/W6812467634",
-        "https://openalex.org/W6848650857"
-      ],
-      "related_works": [
-        "https://openalex.org/W4210542178",
-        "https://openalex.org/W2594356413",
-        "https://openalex.org/W2077124226",
-        "https://openalex.org/W4245581407",
-        "https://openalex.org/W3198912574",
-        "https://openalex.org/W4379507126",
-        "https://openalex.org/W4254107674",
-        "https://openalex.org/W2108785961",
-        "https://openalex.org/W2085848982",
-        "https://openalex.org/W2030670948"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-02-26T08:16:20.718346",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4367396984",
       "doi": "https://doi.org/10.1016/j.lithos.2023.107192",
       "title": "Petrogenesis of Gerf Neoproterozoic carbonatized peridotites (Egypt): Evidence of convergent margin metasomatism of depleted sub-arc mantle",
@@ -59408,11 +59408,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 0.1866,
+      "fwci": 0.1864,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.49776253,
+        "value": 0.49780748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59840,7 +59840,178 @@
         "https://openalex.org/W2080475125",
         "https://openalex.org/W2912200707"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Recently,": [
+          0
+        ],
+        "Pandey": [
+          1,
+          41
+        ],
+        "et": [
+          2,
+          20,
+          42,
+          47
+        ],
+        "al.": [
+          3,
+          21,
+          43
+        ],
+        "proposed": [
+          4
+        ],
+        "relict": [
+          5,
+          63
+        ],
+        "subduction": [
+          6,
+          26,
+          64
+        ],
+        "initiation": [
+          7
+        ],
+        "occurred": [
+          8
+        ],
+        "along": [
+          9
+        ],
+        "a": [
+          10
+        ],
+        "passive": [
+          11
+        ],
+        "margin": [
+          12
+        ],
+        "in": [
+          13
+        ],
+        "the": [
+          14,
+          37
+        ],
+        "northwest": [
+          15
+        ],
+        "Indian": [
+          16
+        ],
+        "Ocean,": [
+          17
+        ],
+        "however,": [
+          18
+        ],
+        "Clift": [
+          19,
+          46
+        ],
+        "questioned": [
+          22
+        ],
+        "their": [
+          23
+        ],
+        "evidence": [
+          24
+        ],
+        "for": [
+          25,
+          57
+        ],
+        "initiation,": [
+          27
+        ],
+        "suggesting": [
+          28
+        ],
+        "that": [
+          29,
+          52
+        ],
+        "simpler": [
+          30
+        ],
+        "rifting-related": [
+          31
+        ],
+        "processes": [
+          32
+        ],
+        "could": [
+          33
+        ],
+        "more": [
+          34
+        ],
+        "simply": [
+          35
+        ],
+        "explain": [
+          36
+        ],
+        "available": [
+          38
+        ],
+        "data.": [
+          39
+        ],
+        "Here,": [
+          40
+        ],
+        "reply": [
+          44
+        ],
+        "to": [
+          45
+        ],
+        "al.’s": [
+          48
+        ],
+        "comment,": [
+          49
+        ],
+        "and": [
+          50,
+          54
+        ],
+        "argue": [
+          51
+        ],
+        "geochemical": [
+          53
+        ],
+        "isotope": [
+          55
+        ],
+        "data": [
+          56
+        ],
+        "Laxmi": [
+          58
+        ],
+        "basin": [
+          59
+        ],
+        "lavas": [
+          60
+        ],
+        "distinctly": [
+          61
+        ],
+        "imply": [
+          62
+        ],
+        "initiation.": [
+          65
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -59859,7 +60030,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -107279,7 +107450,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30624967,
+        "value": 0.30622571,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -107604,7 +107775,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -213039,8 +213210,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -213253,7 +213424,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01856207,
+        "value": 0.01854712,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -214849,7 +215020,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03413655,
+        "value": 0.03106245,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -215094,10 +215265,11 @@
       "funders": [],
       "has_content": {
         "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4407686626.pdf"
+        "pdf": "https://content.openalex.org/works/W4407686626.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4407686626.grobid-xml"
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -215225,7 +215397,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-06T13:50:29.536080",
       "created_date": "2025-10-10T00:00:00"
     },
     {
