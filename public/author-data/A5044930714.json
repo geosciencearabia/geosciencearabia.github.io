@@ -2574,9 +2574,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4096,9 +4096,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -4987,9 +4987,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6094,9 +6094,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6912,16 +6912,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I39706905",
-              "display_name": "German University of Technology",
-              "ror": "https://ror.org/055hq4920",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
               "id": "https://openalex.org/I185163786",
               "display_name": "King Abdulaziz University",
               "ror": "https://ror.org/02ma4wv74",
@@ -6929,6 +6919,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39706905",
+              "display_name": "German University of Technology",
+              "ror": "https://ror.org/055hq4920",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39706905"
               ]
             },
             {
@@ -6949,18 +6949,12 @@
           "is_corresponding": false,
           "raw_author_name": "M. ELHAG",
           "raw_affiliation_strings": [
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
             "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
             "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,"
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman"
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -6976,6 +6970,12 @@
             {
               "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
             }
           ]
         },
@@ -7025,22 +7025,12 @@
           "is_corresponding": false,
           "raw_author_name": "Y. MUFRREH",
           "raw_affiliation_strings": [
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
             "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,"
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
               "institution_ids": [
@@ -7052,6 +7042,16 @@
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
             }
           ]
         },
@@ -7160,11 +7160,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.194,
+      "fwci": 1.233,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.84213233,
+        "value": 0.84734733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7343,9 +7343,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7930,7 +7930,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8613,9 +8613,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -15176,9 +15176,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16748,9 +16748,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17226,9 +17226,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17926,7 +17926,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17973,7 +17973,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -18431,8 +18431,8 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 12,
       "corresponding_author_ids": [
+        "https://openalex.org/A5006640587",
         "https://openalex.org/A5030898494",
-        "https://openalex.org/A5101699144",
         "https://openalex.org/A5109396102"
       ],
       "corresponding_institution_ids": [
@@ -18449,11 +18449,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8646,
+      "fwci": 2.8643,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89048161,
+        "value": 0.89048576,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18837,9 +18837,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19421,7 +19421,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19966,9 +19966,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20992,11 +20992,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6826,
+      "fwci": 1.66,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8641099,
+        "value": 0.86275543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22139,7 +22139,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-15T23:16:33.117629",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23617,9 +23617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24429,7 +24429,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14176146,
+        "value": 0.14033805,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24513,8 +24513,164 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "Foraminifera",
+          "score": 0.8048999905586243
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogene",
+          "display_name": "Paleogene",
+          "score": 0.7103000283241272
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoecology",
+          "display_name": "Paleoecology",
+          "score": 0.545799970626831
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-zone",
+          "display_name": "Benthic zone",
+          "score": 0.4932999908924103
+        },
+        {
+          "id": "https://openalex.org/keywords/range",
+          "display_name": "Range (aeronautics)",
+          "score": 0.42010000348091125
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.3790000081062317
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.8675000071525574
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8456000089645386
+        },
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.8048999905586243
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.7103000283241272
+        },
+        {
+          "id": "https://openalex.org/C177882397",
+          "wikidata": "https://www.wikidata.org/wiki/Q1337995",
+          "display_name": "Paleoecology",
+          "level": 2,
+          "score": 0.545799970626831
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.4932999908924103
+        },
+        {
+          "id": "https://openalex.org/C204323151",
+          "wikidata": "https://www.wikidata.org/wiki/Q905424",
+          "display_name": "Range (aeronautics)",
+          "level": 2,
+          "score": 0.42010000348091125
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.3790000081062317
+        },
+        {
+          "id": "https://openalex.org/C71640776",
+          "wikidata": "https://www.wikidata.org/wiki/Q16521",
+          "display_name": "Taxon",
+          "level": 2,
+          "score": 0.3610999882221222
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.35920000076293945
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.3240000009536743
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.3122999966144562
+        },
+        {
+          "id": "https://openalex.org/C2777798969",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Assemblage (archaeology)",
+          "level": 2,
+          "score": 0.28540000319480896
+        },
+        {
+          "id": "https://openalex.org/C47559259",
+          "wikidata": "https://www.wikidata.org/wiki/Q778143",
+          "display_name": "Biological dispersal",
+          "level": 3,
+          "score": 0.2630999982357025
+        },
+        {
+          "id": "https://openalex.org/C118886033",
+          "wikidata": "https://www.wikidata.org/wiki/Q5438230",
+          "display_name": "Faunal assemblage",
+          "level": 3,
+          "score": 0.2581999897956848
+        },
+        {
+          "id": "https://openalex.org/C40616122",
+          "wikidata": "https://www.wikidata.org/wiki/Q856124",
+          "display_name": "Lithostratigraphy",
+          "level": 3,
+          "score": 0.250900000333786
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -25134,7 +25290,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-28T00:00:00"
     },
     {
@@ -25534,7 +25690,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1438728,
+        "value": 0.14244549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25618,8 +25774,157 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "Foraminifera",
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-zone",
+          "display_name": "Benthic zone",
+          "score": 0.8310999870300293
+        },
+        {
+          "id": "https://openalex.org/keywords/plankton",
+          "display_name": "Plankton",
+          "score": 0.7172999978065491
+        },
+        {
+          "id": "https://openalex.org/keywords/dominance",
+          "display_name": "Dominance (genetics)",
+          "score": 0.5130000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-carbon",
+          "display_name": "Isotopes of carbon",
+          "score": 0.46160000562667847
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.45339998602867126
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-oxygen",
+          "display_name": "Isotopes of oxygen",
+          "score": 0.4325000047683716
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.8310999870300293
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7911999821662903
+        },
+        {
+          "id": "https://openalex.org/C108469399",
+          "wikidata": "https://www.wikidata.org/wiki/Q25367",
+          "display_name": "Plankton",
+          "level": 2,
+          "score": 0.7172999978065491
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6169999837875366
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.5439000129699707
+        },
+        {
+          "id": "https://openalex.org/C151913843",
+          "wikidata": "https://www.wikidata.org/wiki/Q3454555",
+          "display_name": "Dominance (genetics)",
+          "level": 3,
+          "score": 0.5130000114440918
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.46160000562667847
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.45339998602867126
+        },
+        {
+          "id": "https://openalex.org/C71468253",
+          "wikidata": "https://www.wikidata.org/wiki/Q785643",
+          "display_name": "Isotopes of oxygen",
+          "level": 2,
+          "score": 0.4325000047683716
+        },
+        {
+          "id": "https://openalex.org/C117935615",
+          "wikidata": "https://www.wikidata.org/wiki/Q2511922",
+          "display_name": "Holocene climatic optimum",
+          "level": 3,
+          "score": 0.4260999858379364
+        },
+        {
+          "id": "https://openalex.org/C22117777",
+          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
+          "display_name": "Stable isotope ratio",
+          "level": 2,
+          "score": 0.38420000672340393
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.34599998593330383
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.3377000093460083
+        },
+        {
+          "id": "https://openalex.org/C2780134711",
+          "wikidata": "https://www.wikidata.org/wiki/Q7115954",
+          "display_name": "Oxygen minimum zone",
+          "level": 3,
+          "score": 0.2687000036239624
+        },
+        {
+          "id": "https://openalex.org/C69384203",
+          "wikidata": "https://www.wikidata.org/wiki/Q344117",
+          "display_name": "δ18O",
+          "level": 3,
+          "score": 0.25940001010894775
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -26164,7 +26469,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -27239,7 +27544,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40033119,
+        "value": 0.39763718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27323,8 +27628,159 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.835099995136261
+        },
+        {
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.6855999827384949
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeological-record",
+          "display_name": "Archaeological record",
+          "score": 0.5194000005722046
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.5159000158309937
+        },
+        {
+          "id": "https://openalex.org/keywords/middle-stone-age",
+          "display_name": "Middle Stone Age",
+          "score": 0.4713999927043915
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-change",
+          "display_name": "Environmental change",
+          "score": 0.3808000087738037
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.835099995136261
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.6855999827384949
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.6773999929428101
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.6097999811172485
+        },
+        {
+          "id": "https://openalex.org/C2779269003",
+          "wikidata": "https://www.wikidata.org/wiki/Q2686349",
+          "display_name": "Archaeological record",
+          "level": 2,
+          "score": 0.5194000005722046
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.5159000158309937
+        },
+        {
+          "id": "https://openalex.org/C2776258062",
+          "wikidata": "https://www.wikidata.org/wiki/Q1931902",
+          "display_name": "Middle Stone Age",
+          "level": 3,
+          "score": 0.4713999927043915
+        },
+        {
+          "id": "https://openalex.org/C16989226",
+          "wikidata": "https://www.wikidata.org/wiki/Q16934857",
+          "display_name": "Environmental change",
+          "level": 3,
+          "score": 0.3808000087738037
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.3596999943256378
+        },
+        {
+          "id": "https://openalex.org/C2779987252",
+          "wikidata": "https://www.wikidata.org/wiki/Q635162",
+          "display_name": "Hominidae",
+          "level": 3,
+          "score": 0.29649999737739563
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2791999876499176
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.27219998836517334
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.27140000462532043
+        },
+        {
+          "id": "https://openalex.org/C541743481",
+          "wikidata": "https://www.wikidata.org/wiki/Q637284",
+          "display_name": "Archaeological science",
+          "level": 2,
+          "score": 0.2689000070095062
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.2644999921321869
+        },
+        {
+          "id": "https://openalex.org/C185554395",
+          "wikidata": "https://www.wikidata.org/wiki/Q83944",
+          "display_name": "Human evolution",
+          "level": 2,
+          "score": 0.2603999972343445
+        },
+        {
+          "id": "https://openalex.org/C189338579",
+          "wikidata": "https://www.wikidata.org/wiki/Q290447",
+          "display_name": "Ancient DNA",
+          "level": 3,
+          "score": 0.2597000002861023
+        }
+      ],
       "mesh": [
         {
           "descriptor_ui": "D000818",
@@ -28242,7 +28698,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -28413,7 +28869,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19247673,
+        "value": 0.19048643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28497,8 +28953,100 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mesozoic",
+          "display_name": "Mesozoic",
+          "score": 0.2612000107765198
+        },
+        {
+          "id": "https://openalex.org/keywords/paleozoic",
+          "display_name": "Paleozoic",
+          "score": 0.25040000677108765
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.23729999363422394
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "Unconformity",
+          "score": 0.23360000550746918
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7660999894142151
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7073000073432922
+        },
+        {
+          "id": "https://openalex.org/C202783661",
+          "wikidata": "https://www.wikidata.org/wiki/Q83222",
+          "display_name": "Mesozoic",
+          "level": 3,
+          "score": 0.2612000107765198
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.25040000677108765
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.23729999363422394
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.23360000550746918
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.1923999935388565
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.1867000013589859
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.18160000443458557
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.18140000104904175
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -28550,7 +29098,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

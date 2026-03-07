@@ -1057,8 +1057,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -2589,8 +2589,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5899999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2603,8 +2603,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -3536,16 +3536,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "score": 0.6800000071525574,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -4073,21 +4073,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
           "score": 0.49000000953674316,
+          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16"
         },
         {
-          "display_name": "Reduced inequalities",
           "score": 0.4699999988079071,
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5396,8 +5396,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -6478,16 +6478,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5299999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -7587,16 +7587,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.75,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -8699,8 +8699,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8713,8 +8713,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -9766,16 +9766,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -11046,8 +11046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11864,7 +11864,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24933048,
+        "value": 0.21938846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11948,8 +11948,237 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.9197999835014343
+        },
+        {
+          "id": "https://openalex.org/keywords/cementation",
+          "display_name": "Cementation (geology)",
+          "score": 0.9132999777793884
+        },
+        {
+          "id": "https://openalex.org/keywords/aragonite",
+          "display_name": "Aragonite",
+          "score": 0.7699000239372253
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.7559000253677368
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.7404000163078308
+        },
+        {
+          "id": "https://openalex.org/keywords/flume",
+          "display_name": "Flume",
+          "score": 0.5971999764442444
+        },
+        {
+          "id": "https://openalex.org/keywords/lithification",
+          "display_name": "Lithification",
+          "score": 0.5040000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/intertidal-zone",
+          "display_name": "Intertidal zone",
+          "score": 0.45669999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.4489000141620636
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.9197999835014343
+        },
+        {
+          "id": "https://openalex.org/C94556721",
+          "wikidata": "https://www.wikidata.org/wiki/Q189315",
+          "display_name": "Cementation (geology)",
+          "level": 3,
+          "score": 0.9132999777793884
+        },
+        {
+          "id": "https://openalex.org/C2779866092",
+          "wikidata": "https://www.wikidata.org/wiki/Q23775",
+          "display_name": "Aragonite",
+          "level": 3,
+          "score": 0.7699000239372253
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.7559000253677368
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7556999921798706
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.7404000163078308
+        },
+        {
+          "id": "https://openalex.org/C2778320725",
+          "wikidata": "https://www.wikidata.org/wiki/Q68530",
+          "display_name": "Flume",
+          "level": 3,
+          "score": 0.5971999764442444
+        },
+        {
+          "id": "https://openalex.org/C164430837",
+          "wikidata": "https://www.wikidata.org/wiki/Q1191052",
+          "display_name": "Lithification",
+          "level": 3,
+          "score": 0.5040000081062317
+        },
+        {
+          "id": "https://openalex.org/C174580923",
+          "wikidata": "https://www.wikidata.org/wiki/Q421069",
+          "display_name": "Intertidal zone",
+          "level": 2,
+          "score": 0.45669999718666077
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.4489000141620636
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4471000134944916
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.429500013589859
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4187999963760376
+        },
+        {
+          "id": "https://openalex.org/C523993062",
+          "wikidata": "https://www.wikidata.org/wiki/Q45190",
+          "display_name": "Cement",
+          "level": 2,
+          "score": 0.4115999937057495
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.4034000039100647
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.399399995803833
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.3666999936103821
+        },
+        {
+          "id": "https://openalex.org/C63662990",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
+          "display_name": "Dolomitization",
+          "level": 4,
+          "score": 0.3409000039100647
+        },
+        {
+          "id": "https://openalex.org/C41440632",
+          "wikidata": "https://www.wikidata.org/wiki/Q516553",
+          "display_name": "Arenite",
+          "level": 4,
+          "score": 0.311599999666214
+        },
+        {
+          "id": "https://openalex.org/C197248824",
+          "wikidata": "https://www.wikidata.org/wiki/Q184395",
+          "display_name": "Seawater",
+          "level": 2,
+          "score": 0.3034000098705292
+        },
+        {
+          "id": "https://openalex.org/C123157820",
+          "wikidata": "https://www.wikidata.org/wiki/Q80026",
+          "display_name": "Erosion",
+          "level": 2,
+          "score": 0.29339998960494995
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.2816999852657318
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.2809999883174896
+        },
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.27549999952316284
+        },
+        {
+          "id": "https://openalex.org/C2780897241",
+          "wikidata": "https://www.wikidata.org/wiki/Q1761229",
+          "display_name": "Micrite",
+          "level": 4,
+          "score": 0.26499998569488525
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.25049999356269836
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -11973,8 +12202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -12758,7 +12987,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13489,16 +13718,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8669640421867371,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,

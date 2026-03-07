@@ -1170,8 +1170,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.44999998807907104
         }
       ],
@@ -3733,8 +3733,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7099999785423279
         }
       ],
@@ -4801,11 +4801,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 4.3214,
+      "fwci": 4.3079,
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.95007976,
+        "value": 0.94990344,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5155,8 +5155,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.800000011920929
         }
       ],
@@ -5328,7 +5328,626 @@
         "https://openalex.org/W2076393078",
         "https://openalex.org/W1994307594"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Suspended": [
+          0,
+          69,
+          74
+        ],
+        "sediment": [
+          1,
+          296
+        ],
+        "concentration": [
+          2,
+          108,
+          121
+        ],
+        "(SSC)": [
+          3
+        ],
+        "in": [
+          4,
+          27,
+          50,
+          97,
+          187,
+          275,
+          293
+        ],
+        "water": [
+          5,
+          43,
+          99,
+          198
+        ],
+        "increases": [
+          6
+        ],
+        "temperature": [
+          7
+        ],
+        "and": [
+          8,
+          16,
+          47,
+          72,
+          87,
+          115,
+          118,
+          125,
+          138,
+          149,
+          176,
+          180,
+          185,
+          205,
+          213,
+          220,
+          237,
+          245,
+          269,
+          278,
+          289
+        ],
+        "turbidity,": [
+          9
+        ],
+        "limits": [
+          10
+        ],
+        "the": [
+          11,
+          28,
+          32,
+          39,
+          54,
+          58,
+          66,
+          82,
+          98,
+          103,
+          144,
+          151,
+          178,
+          188,
+          232,
+          250,
+          266,
+          276,
+          283,
+          294
+        ],
+        "photosynthesis": [
+          12
+        ],
+        "of": [
+          13,
+          31,
+          41,
+          57,
+          62,
+          95,
+          105,
+          109,
+          130,
+          146,
+          153,
+          157,
+          182,
+          272
+        ],
+        "aquatic": [
+          14
+        ],
+        "plants,": [
+          15
+        ],
+        "reduces": [
+          17
+        ],
+        "biologically": [
+          18
+        ],
+        "available": [
+          19
+        ],
+        "oxygen.": [
+          20
+        ],
+        "It": [
+          21
+        ],
+        "is": [
+          22
+        ],
+        "important": [
+          23
+        ],
+        "to": [
+          24,
+          172,
+          195,
+          222,
+          226,
+          243
+        ],
+        "study": [
+          25,
+          37,
+          156
+        ],
+        "SSC": [
+          26,
+          40,
+          96
+        ],
+        "coastal": [
+          29,
+          42
+        ],
+        "waters": [
+          30
+        ],
+        "Arabian": [
+          33
+        ],
+        "Gulf.": [
+          34
+        ],
+        "Thus,": [
+          35
+        ],
+        "this": [
+          36
+        ],
+        "mapped": [
+          38
+        ],
+        "between": [
+          44,
+          112,
+          122,
+          134,
+          210,
+          235
+        ],
+        "Al": [
+          45,
+          48,
+          113,
+          116,
+          123,
+          126
+        ],
+        "Arish": [
+          46,
+          114
+        ],
+        "Ghariyah": [
+          49
+        ],
+        "northern": [
+          51
+        ],
+        "Qatar": [
+          52
+        ],
+        "using": [
+          53,
+          81,
+          100,
+          159
+        ],
+        "spectral": [
+          55
+        ],
+        "bands": [
+          56
+        ],
+        "MultiSpectral": [
+          59
+        ],
+        "Imager": [
+          60
+        ],
+        "(MSI)": [
+          61
+        ],
+        "Sentinel-2": [
+          63
+        ],
+        "by": [
+          64,
+          264
+        ],
+        "calculating": [
+          65
+        ],
+        "Normalized": [
+          67,
+          73,
+          83,
+          89
+        ],
+        "Difference": [
+          68,
+          84,
+          90
+        ],
+        "Sediment": [
+          70
+        ],
+        "Index": [
+          71,
+          86
+        ],
+        "Material": [
+          75
+        ],
+        "Index.": [
+          76,
+          92
+        ],
+        "The": [
+          77,
+          93,
+          128,
+          155,
+          190,
+          208,
+          258
+        ],
+        "results": [
+          78,
+          152,
+          261
+        ],
+        "are": [
+          79
+        ],
+        "studied": [
+          80,
+          221
+        ],
+        "Turbidity": [
+          85
+        ],
+        "Modified": [
+          88
+        ],
+        "Water": [
+          91
+        ],
+        "mapping": [
+          94,
+          129
+        ],
+        "NDSSI": [
+          101,
+          244,
+          254
+        ],
+        "showed": [
+          102,
+          132,
+          163,
+          231
+        ],
+        "presence": [
+          104
+        ],
+        "a": [
+          106,
+          119
+        ],
+        "high": [
+          107
+        ],
+        "suspended": [
+          110,
+          141,
+          147,
+          183,
+          273
+        ],
+        "sediments": [
+          111,
+          184,
+          274
+        ],
+        "Mafjar": [
+          117,
+          124
+        ],
+        "low": [
+          120
+        ],
+        "Ghariyah.": [
+          127
+        ],
+        "NSMI": [
+          131,
+          236
+        ],
+        "values": [
+          133,
+          166
+        ],
+        "0.012": [
+          135
+        ],
+        "(clear": [
+          136,
+          170
+        ],
+        "water)": [
+          137,
+          171
+        ],
+        "0.430": [
+          139
+        ],
+        "(more": [
+          140
+        ],
+        "material)": [
+          142
+        ],
+        "for": [
+          143
+        ],
+        "occurrence": [
+          145,
+          179
+        ],
+        "materials": [
+          148,
+          186
+        ],
+        "supported": [
+          150
+        ],
+        "NDSSI.": [
+          154
+        ],
+        "turbidity": [
+          158,
+          164
+        ],
+        "an": [
+          160
+        ],
+        "NDTI": [
+          161,
+          214,
+          238,
+          248
+        ],
+        "image": [
+          162,
+          192
+        ],
+        "index": [
+          165
+        ],
+        "ranging": [
+          167
+        ],
+        "from": [
+          168,
+          202
+        ],
+        "-0.44": [
+          169
+        ],
+        "0.12": [
+          173
+        ],
+        "(high": [
+          174
+        ],
+        "turbidity)": [
+          175
+        ],
+        "confirmed": [
+          177
+        ],
+        "distribution": [
+          181,
+          271
+        ],
+        "water.": [
+          189
+        ],
+        "MNDWI": [
+          191
+        ],
+        "was": [
+          193
+        ],
+        "able": [
+          194
+        ],
+        "discriminate": [
+          196
+        ],
+        "clear": [
+          197
+        ],
+        "with": [
+          199,
+          217
+        ],
+        "bright": [
+          200
+        ],
+        "pixels": [
+          201
+        ],
+        "silty": [
+          203
+        ],
+        "sand": [
+          204
+        ],
+        "mud": [
+          206
+        ],
+        "flats.": [
+          207
+        ],
+        "relationships": [
+          209
+        ],
+        "NDSSI,": [
+          211
+        ],
+        "NSMI,": [
+          212
+        ],
+        "were": [
+          215,
+          262,
+          298
+        ],
+        "correlated": [
+          216
+        ],
+        "in-situ": [
+          218
+        ],
+        "measurements": [
+          219
+        ],
+        "find": [
+          223
+        ],
+        "suitable": [
+          224
+        ],
+        "indices": [
+          225
+        ],
+        "map": [
+          227
+        ],
+        "SSC.": [
+          228
+        ],
+        "Regression": [
+          229
+        ],
+        "analyses": [
+          230
+        ],
+        "strongest": [
+          233,
+          251
+        ],
+        "relationship": [
+          234
+        ],
+        "(R<sup>2</sup>": [
+          239,
+          255
+        ],
+        "=": [
+          240,
+          256
+        ],
+        "0.95)": [
+          241
+        ],
+        "next": [
+          242
+        ],
+        "NDTI,": [
+          246
+        ],
+        "where": [
+          247
+        ],
+        "had": [
+          249
+        ],
+        "effect": [
+          252
+        ],
+        "on": [
+          253
+        ],
+        "0.86).": [
+          257
+        ],
+        "satellite": [
+          259
+        ],
+        "data": [
+          260
+        ],
+        "evaluated": [
+          263
+        ],
+        "studying": [
+          265
+        ],
+        "physical": [
+          267
+        ],
+        "parameters": [
+          268
+        ],
+        "spatial": [
+          270
+        ],
+        "surface": [
+          277
+        ],
+        "bottom": [
+          279,
+          295
+        ],
+        "waters.": [
+          280
+        ],
+        "In": [
+          281
+        ],
+        "addition,": [
+          282
+        ],
+        "grain": [
+          284
+        ],
+        "size": [
+          285
+        ],
+        "distributions,": [
+          286
+        ],
+        "mineral": [
+          287
+        ],
+        "identification,": [
+          288
+        ],
+        "chemical": [
+          290
+        ],
+        "element": [
+          291
+        ],
+        "concentrations": [
+          292
+        ],
+        "samples": [
+          297
+        ],
+        "studied.": [
+          299
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -5343,7 +5962,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5875,8 +6494,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.8299999833106995
         }
       ],
@@ -6804,8 +7423,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -7316,7 +7935,7 @@
       "has_fulltext": true,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.77243025,
+        "value": 0.77241025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7866,510 +8485,7 @@
         "https://openalex.org/W2359691516",
         "https://openalex.org/W2261979314"
       ],
-      "abstract_inverted_index": {
-        "2": [
-          129
-        ],
-        "3": [
-          127
-        ],
-        "Although": [
-          0
-        ],
-        "several": [
-          1,
-          20
-        ],
-        "indices": [
-          2,
-          24
-        ],
-        "have": [
-          3,
-          25
-        ],
-        "been": [
-          4,
-          26
-        ],
-        "constructed": [
-          5,
-          33
-        ],
-        "and": [
-          6,
-          18,
-          43,
-          76,
-          91,
-          128,
-          136,
-          144,
-          172,
-          183,
-          208,
-          223
-        ],
-        "available": [
-          7
-        ],
-        "at": [
-          8
-        ],
-        "the": [
-          9,
-          52,
-          66,
-          69,
-          77,
-          82,
-          93,
-          100,
-          107,
-          116,
-          123,
-          132,
-          138,
-          153,
-          166,
-          203,
-          218,
-          228,
-          238
-        ],
-        "Index": [
-          10
-        ],
-        "database": [
-          11
-        ],
-        "(IDB)": [
-          12
-        ],
-        "for": [
-          13,
-          190,
-          237
-        ],
-        "Sentinel-2": [
-          14,
-          63,
-          229
-        ],
-        "satellite": [
-          15
-        ],
-        "to": [
-          16,
-          28,
-          81,
-          87,
-          98,
-          179,
-          188,
-          197,
-          212,
-          235,
-          244
-        ],
-        "map": [
-          17,
-          29,
-          99,
-          180,
-          198,
-          213,
-          245
-        ],
-        "study": [
-          19,
-          201
-        ],
-        "earth": [
-          21
-        ],
-        "resources,": [
-          22
-        ],
-        "no": [
-          23
-        ],
-        "developed": [
-          27
-        ],
-        "oil": [
-          30,
-          89,
-          102,
-          117,
-          158,
-          181,
-          199,
-          214,
-          219,
-          246
-        ],
-        "spill.": [
-          31,
-          247
-        ],
-        "We": [
-          32,
-          120
-        ],
-        "band": [
-          34,
-          78,
-          134,
-          206
-        ],
-        "ratios": [
-          35,
-          171,
-          207
-        ],
-        "(5": [
-          36
-        ],
-        "+": [
-          37,
-          40,
-          46,
-          49
-        ],
-        "6)/7,": [
-          38
-        ],
-        "(3": [
-          39,
-          45
-        ],
-        "4)/2,": [
-          41,
-          47
-        ],
-        "(11+12)/8": [
-          42
-        ],
-        "3/2,": [
-          44
-        ],
-        "(6": [
-          48
-        ],
-        "7)/5": [
-          50
-        ],
-        "using": [
-          51
-        ],
-        "high-resolution": [
-          53
-        ],
-        "MSI": [
-          54
-        ],
-        "(multi-spectral": [
-          55
-        ],
-        "instrument)": [
-          56
-        ],
-        "visible-near": [
-          57
-        ],
-        "infrared-shortwave": [
-          58
-        ],
-        "infrared": [
-          59
-        ],
-        "spectral": [
-          60,
-          124,
-          133,
-          192,
-          239
-        ],
-        "bands": [
-          61,
-          67,
-          125,
-          193,
-          240
-        ],
-        "of": [
-          62,
-          71,
-          95,
-          148,
-          155,
-          157,
-          194,
-          205,
-          241
-        ],
-        "by": [
-          64,
-          130
-        ],
-        "summing-up": [
-          65
-        ],
-        "representing": [
-          68
-        ],
-        "shoulders": [
-          70
-        ],
-        "absorption": [
-          72,
-          83
-        ],
-        "features": [
-          73
-        ],
-        "as": [
-          74,
-          85,
-          140
-        ],
-        "numerator": [
-          75
-        ],
-        "located": [
-          79
-        ],
-        "nearest": [
-          80
-        ],
-        "feature": [
-          84
-        ],
-        "denominator": [
-          86
-        ],
-        "discriminate": [
-          88
-        ],
-        "spill,": [
-          90
-        ],
-        "demonstrate": [
-          92
-        ],
-        "potential": [
-          94
-        ],
-        "this": [
-          96
-        ],
-        "method": [
-          97,
-          151
-        ],
-        "Wakashio": [
-          101
-        ],
-        "spill": [
-          103,
-          118,
-          139,
-          159,
-          220,
-          225
-        ],
-        "which": [
-          104
-        ],
-        "occurred": [
-          105
-        ],
-        "in": [
-          106,
-          160
-        ],
-        "Indian": [
-          108
-        ],
-        "Ocean,": [
-          109
-        ],
-        "off": [
-          110,
-          221
-        ],
-        "Mauritius.": [
-          111
-        ],
-        "The": [
-          112,
-          146
-        ],
-        "resulted": [
-          113
-        ],
-        "images": [
-          114
-        ],
-        "discriminated": [
-          115,
-          137,
-          217
-        ],
-        "well.": [
-          119
-        ],
-        "also": [
-          121
-        ],
-        "decorrelated": [
-          122
-        ],
-        "4,": [
-          126
-        ],
-        "studying": [
-          131
-        ],
-        "absorptions": [
-          135
-        ],
-        "very": [
-          141
-        ],
-        "thick,": [
-          142
-        ],
-        "thick": [
-          143
-        ],
-        "thin.": [
-          145
-        ],
-        "results": [
-          147
-        ],
-        "decorrelation": [
-          149,
-          173,
-          209
-        ],
-        "stretch": [
-          150,
-          174,
-          210
-        ],
-        "exhibited": [
-          152
-        ],
-        "distribution": [
-          154
-        ],
-        "types": [
-          156
-        ],
-        "a": [
-          161
-        ],
-        "different": [
-          162
-        ],
-        "tone,": [
-          163
-        ],
-        "distinctly.": [
-          164
-        ],
-        "Both": [
-          165
-        ],
-        "image": [
-          167
-        ],
-        "transformation": [
-          168
-        ],
-        "methods": [
-          169,
-          185,
-          211,
-          216,
-          232
-        ],
-        "(band": [
-          170
-        ],
-        "methods)": [
-          175
-        ],
-        "showed": [
-          176,
-          224
-        ],
-        "their": [
-          177
-        ],
-        "capability": [
-          178
-        ],
-        "spills,": [
-          182
-        ],
-        "these": [
-          184
-        ],
-        "are": [
-          186,
-          233
-        ],
-        "recommended": [
-          187,
-          234
-        ],
-        "use": [
-          189,
-          236
-        ],
-        "similar": [
-          191
-        ],
-        "other": [
-          195,
-          242
-        ],
-        "sensors": [
-          196,
-          243
-        ],
-        "spills.•This": [
-          200
-        ],
-        "demonstrated": [
-          202
-        ],
-        "application": [
-          204
-        ],
-        "spill.•The": [
-          215
-        ],
-        "Mauritius,": [
-          222
-        ],
-        "thicknesses": [
-          226
-        ],
-        "from": [
-          227
-        ],
-        "data.•The": [
-          230
-        ],
-        "new": [
-          231
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -8392,7 +8508,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-05T09:29:38.588285",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11812,8 +11928,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],
@@ -12633,8 +12749,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5799999833106995
         }
       ],
@@ -13461,8 +13577,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5
         }
       ],
@@ -14071,8 +14187,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.7300000190734863
         }
       ],
@@ -18664,8 +18780,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -19902,8 +20018,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6499999761581421
         }
       ],
@@ -20919,11 +21035,11 @@
         "currency": "USD",
         "value_usd": 1840
       },
-      "fwci": 0.9059,
+      "fwci": 0.9029,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.73454474,
+        "value": 0.73389734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21373,8 +21489,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],
@@ -21470,526 +21586,14 @@
         "https://openalex.org/W2373325086",
         "https://openalex.org/W2118957366"
       ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          66,
-          195
-        ],
-        "enzyme": [
-          1
-        ],
-        "carbonic": [
-          2
-        ],
-        "anhydrase": [
-          3
-        ],
-        "(CA)": [
-          4
-        ],
-        "plays": [
-          5
-        ],
-        "a": [
-          6
-        ],
-        "key": [
-          7
-        ],
-        "role": [
-          8,
-          171
-        ],
-        "in": [
-          9,
-          27,
-          45,
-          63,
-          106,
-          122,
-          145,
-          177
-        ],
-        "carbonate": [
-          10,
-          24,
-          61
-        ],
-        "mineral": [
-          11,
-          72,
-          120
-        ],
-        "formation": [
-          12,
-          62,
-          73
-        ],
-        "by": [
-          13
-        ],
-        "facilitating": [
-          14
-        ],
-        "the": [
-          15,
-          33,
-          57,
-          101,
-          169,
-          187
-        ],
-        "interconversion": [
-          16
-        ],
-        "between": [
-          17
-        ],
-        "CO<sub>2</sub>": [
-          18
-        ],
-        "and": [
-          19,
-          50,
-          74,
-          91,
-          111,
-          124,
-          139,
-          152,
-          163,
-          175,
-          200
-        ],
-        "bicarbonate": [
-          20
-        ],
-        "ions,": [
-          21
-        ],
-        "thus": [
-          22
-        ],
-        "influencing": [
-          23
-        ],
-        "precipitation": [
-          25,
-          121
-        ],
-        "processes": [
-          26
-        ],
-        "natural": [
-          28,
-          84
-        ],
-        "environments.": [
-          29,
-          65
-        ],
-        "This": [
-          30,
-          184
-        ],
-        "study": [
-          31
-        ],
-        "investigates": [
-          32
-        ],
-        "biomineralization": [
-          34,
-          179,
-          191
-        ],
-        "potential": [
-          35,
-          180,
-          188
-        ],
-        "of": [
-          36,
-          172,
-          189,
-          197
-        ],
-        "<i>Virgibacillus</i>": [
-          37
-        ],
-        "strains": [
-          38,
-          68,
-          99,
-          128
-        ],
-        "isolated": [
-          39,
-          67
-        ],
-        "from": [
-          40
-        ],
-        "two": [
-          41
-        ],
-        "distinct": [
-          42
-        ],
-        "coastal": [
-          43
-        ],
-        "sabkhas": [
-          44,
-          147
-        ],
-        "Qatar-Dohat": [
-          46
-        ],
-        "Faishakh": [
-          47
-        ],
-        "Sabkha": [
-          48,
-          53
-        ],
-        "(DFS)": [
-          49
-        ],
-        "Khor": [
-          51
-        ],
-        "Al-Adaid": [
-          52
-        ],
-        "(KAS)-to": [
-          54
-        ],
-        "better": [
-          55
-        ],
-        "understand": [
-          56
-        ],
-        "enzymatic": [
-          58,
-          154
-        ],
-        "mechanisms": [
-          59
-        ],
-        "driving": [
-          60
-        ],
-        "hypersaline": [
-          64
-        ],
-        "were": [
-          69,
-          143
-        ],
-        "evaluated": [
-          70
-        ],
-        "for": [
-          71,
-          192,
-          214
-        ],
-        "CA": [
-          75,
-          133,
-          173
-        ],
-        "activity": [
-          76,
-          134,
-          155,
-          174
-        ],
-        "using": [
-          77
-        ],
-        "three": [
-          78
-        ],
-        "artificial": [
-          79
-        ],
-        "media": [
-          80
-        ],
-        "designed": [
-          81
-        ],
-        "to": [
-          82,
-          103,
-          116,
-          136,
-          203
-        ],
-        "simulate": [
-          83
-        ],
-        "conditions:": [
-          85
-        ],
-        "MD1,": [
-          86,
-          107
-        ],
-        "seawater-based": [
-          87,
-          93
-        ],
-        "with": [
-          88,
-          94
-        ],
-        "tryptone": [
-          89,
-          95
-        ],
-        "(SWTr),": [
-          90
-        ],
-        "evaporated": [
-          92
-        ],
-        "(EWTr).": [
-          96
-        ],
-        "While": [
-          97
-        ],
-        "all": [
-          98
-        ],
-        "demonstrated": [
-          100
-        ],
-        "ability": [
-          102,
-          196
-        ],
-        "form": [
-          104
-        ],
-        "minerals": [
-          105
-        ],
-        "only": [
-          108
-        ],
-        "<i>Virgibacillus": [
-          109,
-          112,
-          137,
-          140
-        ],
-        "salarius</i>": [
-          110,
-          199
-        ],
-        "marismortui</i>,": [
-          113
-        ],
-        "both": [
-          114,
-          146
-        ],
-        "exclusive": [
-          115
-        ],
-        "DFS,": [
-          117
-        ],
-        "exhibited": [
-          118
-        ],
-        "robust": [
-          119
-        ],
-        "SWTr": [
-          123
-        ],
-        "EWTr": [
-          125
-        ],
-        "media.": [
-          126
-        ],
-        "These": [
-          127
-        ],
-        "also": [
-          129
-        ],
-        "showed": [
-          130
-        ],
-        "significantly": [
-          131
-        ],
-        "higher": [
-          132
-        ],
-        "compared": [
-          135
-        ],
-        "chiguensis</i>": [
-          138
-        ],
-        "dokdonensis</i>,": [
-          141
-        ],
-        "which": [
-          142
-        ],
-        "present": [
-          144
-        ],
-        "but": [
-          148
-        ],
-        "displayed": [
-          149
-        ],
-        "limited": [
-          150
-        ],
-        "mineralization": [
-          151
-        ],
-        "low": [
-          153
-        ],
-        "under": [
-          156,
-          206
-        ],
-        "saline": [
-          157
-        ],
-        "conditions.": [
-          158
-        ],
-        "Statistical": [
-          159
-        ],
-        "analyses,": [
-          160
-        ],
-        "including": [
-          161
-        ],
-        "ANOVA": [
-          162
-        ],
-        "principal": [
-          164
-        ],
-        "component": [
-          165
-        ],
-        "analysis": [
-          166
-        ],
-        "(PCA),": [
-          167
-        ],
-        "confirmed": [
-          168
-        ],
-        "significant": [
-          170
-        ],
-        "salinity": [
-          176
-        ],
-        "modulating": [
-          178
-        ],
-        "among": [
-          181
-        ],
-        "these": [
-          182
-        ],
-        "strains.": [
-          183
-        ],
-        "research": [
-          185
-        ],
-        "underscores": [
-          186
-        ],
-        "CA-driven": [
-          190
-        ],
-        "environmental": [
-          193
-        ],
-        "applications.": [
-          194
-        ],
-        "<i>V.": [
-          198,
-          201
-        ],
-        "marismortui</i>": [
-          202
-        ],
-        "precipitate": [
-          204
-        ],
-        "carbonates": [
-          205
-        ],
-        "high-salinity": [
-          207
-        ],
-        "conditions": [
-          208
-        ],
-        "positions": [
-          209
-        ],
-        "them": [
-          210
-        ],
-        "as": [
-          211
-        ],
-        "promising": [
-          212
-        ],
-        "candidates": [
-          213
-        ],
-        "bio-based": [
-          215
-        ],
-        "carbon": [
-          216
-        ],
-        "sequestration": [
-          217
-        ],
-        "technologies.": [
-          218
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22451,8 +22055,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.6800000071525574
         }
       ],
@@ -24598,8 +24202,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -27174,8 +26778,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.41999998688697815
         }
       ],
@@ -28321,8 +27925,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -29357,8 +28961,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142
         }
       ],
@@ -29905,8 +29509,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger",
           "score": 0.699999988079071
         }
       ],
@@ -30722,8 +30326,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.5699999928474426
         }
       ],
@@ -32230,8 +31834,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7900000214576721
         }
       ],
@@ -32462,7 +32066,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44493392,
+        "value": 0.41338583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32546,8 +32150,100 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.6047999858856201
+        },
+        {
+          "id": "https://openalex.org/keywords/plan",
+          "display_name": "Plan (archaeology)",
+          "score": 0.22300000488758087
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.21709999442100525
+        },
+        {
+          "id": "https://openalex.org/keywords/quaternary",
+          "display_name": "Quaternary",
+          "score": 0.20739999413490295
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6629999876022339
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.6047999858856201
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.374099999666214
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2727999985218048
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.24310000240802765
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.2361000031232834
+        },
+        {
+          "id": "https://openalex.org/C2776505523",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785468",
+          "display_name": "Plan (archaeology)",
+          "level": 2,
+          "score": 0.22300000488758087
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.21709999442100525
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.20739999413490295
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.2062000036239624
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -32639,7 +32335,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32789,7 +32485,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33646322,
+        "value": 0.35980861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32873,8 +32569,204 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.8668000102043152
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.748199999332428
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.6565999984741211
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.6554999947547913
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.635200023651123
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.588699996471405
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5432000160217285
+        },
+        {
+          "id": "https://openalex.org/keywords/red-beds",
+          "display_name": "Red beds",
+          "score": 0.5202999711036682
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9002000093460083
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.8668000102043152
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7616999745368958
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.748199999332428
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.6565999984741211
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.6554999947547913
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.635200023651123
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.588699996471405
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5432000160217285
+        },
+        {
+          "id": "https://openalex.org/C85124164",
+          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
+          "display_name": "Red beds",
+          "level": 3,
+          "score": 0.5202999711036682
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.47679999470710754
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.46959999203681946
+        },
+        {
+          "id": "https://openalex.org/C113007552",
+          "wikidata": "https://www.wikidata.org/wiki/Q631298",
+          "display_name": "Salt tectonics",
+          "level": 4,
+          "score": 0.4645000100135803
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.39910000562667847
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.39089998602867126
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.36489999294281006
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.34119999408721924
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.34049999713897705
+        },
+        {
+          "id": "https://openalex.org/C189473229",
+          "wikidata": "https://www.wikidata.org/wiki/Q622265",
+          "display_name": "Aptian",
+          "level": 3,
+          "score": 0.33660000562667847
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3255999982357025
+        },
+        {
+          "id": "https://openalex.org/C29941650",
+          "wikidata": "https://www.wikidata.org/wiki/Q635485",
+          "display_name": "Sedimentation",
+          "level": 3,
+          "score": 0.29089999198913574
+        },
+        {
+          "id": "https://openalex.org/C167570900",
+          "wikidata": "https://www.wikidata.org/wiki/Q101313",
+          "display_name": "Phanerozoic",
+          "level": 4,
+          "score": 0.28279998898506165
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -32975,7 +32867,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -33125,7 +33017,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33802817,
+        "value": 0.36076555,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33209,8 +33101,171 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8248999714851379
+        },
+        {
+          "id": "https://openalex.org/keywords/shoal",
+          "display_name": "Shoal",
+          "score": 0.6080999970436096
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-transgression",
+          "display_name": "Marine transgression",
+          "score": 0.5943999886512756
+        },
+        {
+          "id": "https://openalex.org/keywords/ooid",
+          "display_name": "Ooid",
+          "score": 0.5803999900817871
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.47999998927116394
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.47189998626708984
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level",
+          "display_name": "Sea level",
+          "score": 0.4311000108718872
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8726000189781189
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8248999714851379
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6193000078201294
+        },
+        {
+          "id": "https://openalex.org/C83877588",
+          "wikidata": "https://www.wikidata.org/wiki/Q28337",
+          "display_name": "Shoal",
+          "level": 2,
+          "score": 0.6080999970436096
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.5943999886512756
+        },
+        {
+          "id": "https://openalex.org/C2781471533",
+          "wikidata": "https://www.wikidata.org/wiki/Q642735",
+          "display_name": "Ooid",
+          "level": 4,
+          "score": 0.5803999900817871
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.47999998927116394
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.47189998626708984
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.4311000108718872
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.39629998803138733
+        },
+        {
+          "id": "https://openalex.org/C2777025380",
+          "wikidata": "https://www.wikidata.org/wiki/Q726791",
+          "display_name": "Ladinian",
+          "level": 3,
+          "score": 0.373199999332428
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.37209999561309814
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.33660000562667847
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.27630001306533813
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.27549999952316284
+        },
+        {
+          "id": "https://openalex.org/C77044568",
+          "wikidata": "https://www.wikidata.org/wiki/Q184358",
+          "display_name": "Reef",
+          "level": 2,
+          "score": 0.2680000066757202
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.26089999079704285
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.25619998574256897
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -33293,7 +33348,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33443,7 +33498,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4301848,
+        "value": 0.39747064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33527,8 +33582,270 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.8815000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8761000037193298
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogene",
+          "display_name": "Paleogene",
+          "score": 0.7354000210762024
+        },
+        {
+          "id": "https://openalex.org/keywords/foreland-basin",
+          "display_name": "Foreland basin",
+          "score": 0.6661999821662903
+        },
+        {
+          "id": "https://openalex.org/keywords/neogene",
+          "display_name": "Neogene",
+          "score": 0.6567000150680542
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.5755000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.44859999418258667
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.44040000438690186
+        },
+        {
+          "id": "https://openalex.org/keywords/period",
+          "display_name": "Period (music)",
+          "score": 0.3937000036239624
+        },
+        {
+          "id": "https://openalex.org/keywords/tethys-ocean",
+          "display_name": "Tethys Ocean",
+          "score": 0.39309999346733093
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9046000242233276
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.8815000057220459
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8761000037193298
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7957000136375427
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.7354000210762024
+        },
+        {
+          "id": "https://openalex.org/C193748577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
+          "display_name": "Foreland basin",
+          "level": 3,
+          "score": 0.6661999821662903
+        },
+        {
+          "id": "https://openalex.org/C27492601",
+          "wikidata": "https://www.wikidata.org/wiki/Q103924",
+          "display_name": "Neogene",
+          "level": 3,
+          "score": 0.6567000150680542
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.5755000114440918
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.44859999418258667
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.44040000438690186
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.3937000036239624
+        },
+        {
+          "id": "https://openalex.org/C2777598122",
+          "wikidata": "https://www.wikidata.org/wiki/Q208136",
+          "display_name": "Tethys Ocean",
+          "level": 4,
+          "score": 0.39309999346733093
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.3813000023365021
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.3758000135421753
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.3716999888420105
+        },
+        {
+          "id": "https://openalex.org/C167570900",
+          "wikidata": "https://www.wikidata.org/wiki/Q101313",
+          "display_name": "Phanerozoic",
+          "level": 4,
+          "score": 0.3458999991416931
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.3312999904155731
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.33000001311302185
+        },
+        {
+          "id": "https://openalex.org/C85124164",
+          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
+          "display_name": "Red beds",
+          "level": 3,
+          "score": 0.3228999972343445
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.31790000200271606
+        },
+        {
+          "id": "https://openalex.org/C201633675",
+          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
+          "display_name": "Passive margin",
+          "level": 4,
+          "score": 0.311599999666214
+        },
+        {
+          "id": "https://openalex.org/C107385308",
+          "wikidata": "https://www.wikidata.org/wiki/Q43521",
+          "display_name": "Geologic time scale",
+          "level": 3,
+          "score": 0.3041999936103821
+        },
+        {
+          "id": "https://openalex.org/C2779421809",
+          "wikidata": "https://www.wikidata.org/wiki/Q6495247",
+          "display_name": "Late Miocene",
+          "level": 3,
+          "score": 0.3010999858379364
+        },
+        {
+          "id": "https://openalex.org/C99560943",
+          "wikidata": "https://www.wikidata.org/wiki/Q3689394",
+          "display_name": "Contourite",
+          "level": 4,
+          "score": 0.2980000078678131
+        },
+        {
+          "id": "https://openalex.org/C40616122",
+          "wikidata": "https://www.wikidata.org/wiki/Q856124",
+          "display_name": "Lithostratigraphy",
+          "level": 3,
+          "score": 0.2953999936580658
+        },
+        {
+          "id": "https://openalex.org/C84983702",
+          "wikidata": "https://www.wikidata.org/wiki/Q2361456",
+          "display_name": "Subaerial",
+          "level": 2,
+          "score": 0.28940001130104065
+        },
+        {
+          "id": "https://openalex.org/C193298577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1934351",
+          "display_name": "Isopach map",
+          "level": 4,
+          "score": 0.2680000066757202
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.2612000107765198
+        },
+        {
+          "id": "https://openalex.org/C185734153",
+          "wikidata": "https://www.wikidata.org/wiki/Q31566",
+          "display_name": "Coastal plain",
+          "level": 2,
+          "score": 0.26080000400543213
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.2515000104904175
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -33613,7 +33930,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -33763,7 +34080,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51508121,
+        "value": 0.43174061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33847,8 +34164,145 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleozoic",
+          "display_name": "Paleozoic",
+          "score": 0.9363999962806702
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8348000049591064
+        },
+        {
+          "id": "https://openalex.org/keywords/devonian",
+          "display_name": "Devonian",
+          "score": 0.7182999849319458
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.6434999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.6141999959945679
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentology",
+          "display_name": "Sedimentology",
+          "score": 0.35269999504089355
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.9363999962806702
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8762999773025513
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8348000049591064
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.7182999849319458
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6894000172615051
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.6434999704360962
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.6141999959945679
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.35269999504089355
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.3467000126838684
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.3407999873161316
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.30410000681877136
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.2757999897003174
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.2702000141143799
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.2671000063419342
+        },
+        {
+          "id": "https://openalex.org/C181727316",
+          "wikidata": "https://www.wikidata.org/wiki/Q678023",
+          "display_name": "Late Devonian extinction",
+          "level": 4,
+          "score": 0.26429998874664307
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -33939,7 +34393,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -34089,7 +34543,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61379857,
+        "value": 0.53767561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34173,8 +34627,298 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.7936000227928162
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.7756999731063843
+        },
+        {
+          "id": "https://openalex.org/keywords/plateau",
+          "display_name": "Plateau (mathematics)",
+          "score": 0.6883999705314636
+        },
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.6553000211715698
+        },
+        {
+          "id": "https://openalex.org/keywords/karst",
+          "display_name": "Karst",
+          "score": 0.6015999913215637
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.5164999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level",
+          "display_name": "Sea level",
+          "score": 0.5148000121116638
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.49869999289512634
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.4740999937057495
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4715999960899353
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9158999919891357
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.7936000227928162
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.7756999731063843
+        },
+        {
+          "id": "https://openalex.org/C2780030769",
+          "wikidata": "https://www.wikidata.org/wiki/Q4968575",
+          "display_name": "Plateau (mathematics)",
+          "level": 2,
+          "score": 0.6883999705314636
+        },
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.6553000211715698
+        },
+        {
+          "id": "https://openalex.org/C182348080",
+          "wikidata": "https://www.wikidata.org/wiki/Q16817",
+          "display_name": "Karst",
+          "level": 2,
+          "score": 0.6015999913215637
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.5245000123977661
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.5164999961853027
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.5148000121116638
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.49869999289512634
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.49630001187324524
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4740999937057495
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4715999960899353
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4205000102519989
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.3959999978542328
+        },
+        {
+          "id": "https://openalex.org/C49223487",
+          "wikidata": "https://www.wikidata.org/wiki/Q188734",
+          "display_name": "Sinkhole",
+          "level": 3,
+          "score": 0.385699987411499
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.35010001063346863
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.33399999141693115
+        },
+        {
+          "id": "https://openalex.org/C166528214",
+          "wikidata": "https://www.wikidata.org/wiki/Q586117",
+          "display_name": "Ripple marks",
+          "level": 4,
+          "score": 0.3248000144958496
+        },
+        {
+          "id": "https://openalex.org/C84983702",
+          "wikidata": "https://www.wikidata.org/wiki/Q2361456",
+          "display_name": "Subaerial",
+          "level": 2,
+          "score": 0.3151000142097473
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.31040000915527344
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.3043999969959259
+        },
+        {
+          "id": "https://openalex.org/C40724407",
+          "wikidata": "https://www.wikidata.org/wiki/Q179177",
+          "display_name": "Weathering",
+          "level": 2,
+          "score": 0.30000001192092896
+        },
+        {
+          "id": "https://openalex.org/C137527640",
+          "wikidata": "https://www.wikidata.org/wiki/Q570309",
+          "display_name": "Bedrock",
+          "level": 2,
+          "score": 0.29490000009536743
+        },
+        {
+          "id": "https://openalex.org/C39769621",
+          "wikidata": "https://www.wikidata.org/wiki/Q3342272",
+          "display_name": "Water table",
+          "level": 3,
+          "score": 0.2892000079154968
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.2865000069141388
+        },
+        {
+          "id": "https://openalex.org/C171701179",
+          "wikidata": "https://www.wikidata.org/wiki/Q166409",
+          "display_name": "Gneiss",
+          "level": 3,
+          "score": 0.2831999957561493
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.27889999747276306
+        },
+        {
+          "id": "https://openalex.org/C2781119444",
+          "wikidata": "https://www.wikidata.org/wiki/Q176739",
+          "display_name": "Stromatolite",
+          "level": 3,
+          "score": 0.2775000035762787
+        },
+        {
+          "id": "https://openalex.org/C185734153",
+          "wikidata": "https://www.wikidata.org/wiki/Q31566",
+          "display_name": "Coastal plain",
+          "level": 2,
+          "score": 0.275299996137619
+        },
+        {
+          "id": "https://openalex.org/C134872888",
+          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
+          "display_name": "Sedimentary structures",
+          "level": 4,
+          "score": 0.271699994802475
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.27149999141693115
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.2556000053882599
+        },
+        {
+          "id": "https://openalex.org/C8625798",
+          "wikidata": "https://www.wikidata.org/wiki/Q752112",
+          "display_name": "Surface water",
+          "level": 2,
+          "score": 0.25540000200271606
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -34272,7 +35016,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -34422,7 +35166,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35725938,
+        "value": 0.36363636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34506,8 +35250,298 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.7080000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.7063999772071838
+        },
+        {
+          "id": "https://openalex.org/keywords/precambrian",
+          "display_name": "Precambrian",
+          "score": 0.7053999900817871
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.6017000079154968
+        },
+        {
+          "id": "https://openalex.org/keywords/diapir",
+          "display_name": "Diapir",
+          "score": 0.5960999727249146
+        },
+        {
+          "id": "https://openalex.org/keywords/rift",
+          "display_name": "Rift",
+          "score": 0.5753999948501587
+        },
+        {
+          "id": "https://openalex.org/keywords/basement",
+          "display_name": "Basement",
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/keywords/salt-tectonics",
+          "display_name": "Salt tectonics",
+          "score": 0.5250999927520752
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.5170000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.5105999708175659
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8999999761581421
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.7080000042915344
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.7063999772071838
+        },
+        {
+          "id": "https://openalex.org/C173776410",
+          "wikidata": "https://www.wikidata.org/wiki/Q103910",
+          "display_name": "Precambrian",
+          "level": 2,
+          "score": 0.7053999900817871
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6032999753952026
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.6017000079154968
+        },
+        {
+          "id": "https://openalex.org/C199007388",
+          "wikidata": "https://www.wikidata.org/wiki/Q943898",
+          "display_name": "Diapir",
+          "level": 3,
+          "score": 0.5960999727249146
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.5753999948501587
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/C113007552",
+          "wikidata": "https://www.wikidata.org/wiki/Q631298",
+          "display_name": "Salt tectonics",
+          "level": 4,
+          "score": 0.5250999927520752
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.5170000195503235
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5105999708175659
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.4916999936103821
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.42329999804496765
+        },
+        {
+          "id": "https://openalex.org/C2781119444",
+          "wikidata": "https://www.wikidata.org/wiki/Q176739",
+          "display_name": "Stromatolite",
+          "level": 3,
+          "score": 0.40860000252723694
+        },
+        {
+          "id": "https://openalex.org/C2776698055",
+          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
+          "display_name": "Crust",
+          "level": 2,
+          "score": 0.3968000113964081
+        },
+        {
+          "id": "https://openalex.org/C167570900",
+          "wikidata": "https://www.wikidata.org/wiki/Q101313",
+          "display_name": "Phanerozoic",
+          "level": 4,
+          "score": 0.3824000060558319
+        },
+        {
+          "id": "https://openalex.org/C193539361",
+          "wikidata": "https://www.wikidata.org/wiki/Q1887426",
+          "display_name": "Geologic record",
+          "level": 2,
+          "score": 0.37450000643730164
+        },
+        {
+          "id": "https://openalex.org/C134872888",
+          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
+          "display_name": "Sedimentary structures",
+          "level": 4,
+          "score": 0.36910000443458557
+        },
+        {
+          "id": "https://openalex.org/C107729992",
+          "wikidata": "https://www.wikidata.org/wiki/Q477449",
+          "display_name": "Salt dome",
+          "level": 2,
+          "score": 0.3662000000476837
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.3472999930381775
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.3449999988079071
+        },
+        {
+          "id": "https://openalex.org/C2779241739",
+          "wikidata": "https://www.wikidata.org/wiki/Q185161",
+          "display_name": "Rodinia",
+          "level": 4,
+          "score": 0.3447999954223633
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.33070001006126404
+        },
+        {
+          "id": "https://openalex.org/C85124164",
+          "wikidata": "https://www.wikidata.org/wiki/Q2065586",
+          "display_name": "Red beds",
+          "level": 3,
+          "score": 0.3280999958515167
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.3231000006198883
+        },
+        {
+          "id": "https://openalex.org/C2781311116",
+          "wikidata": "https://www.wikidata.org/wiki/Q83306",
+          "display_name": "Group (periodic table)",
+          "level": 2,
+          "score": 0.3019999861717224
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.29910001158714294
+        },
+        {
+          "id": "https://openalex.org/C2781113784",
+          "wikidata": "https://www.wikidata.org/wiki/Q5314",
+          "display_name": "Halite",
+          "level": 3,
+          "score": 0.2858999967575073
+        },
+        {
+          "id": "https://openalex.org/C93033518",
+          "wikidata": "https://www.wikidata.org/wiki/Q104162",
+          "display_name": "Proterozoic",
+          "level": 3,
+          "score": 0.27459999918937683
+        },
+        {
+          "id": "https://openalex.org/C112959462",
+          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
+          "display_name": "Fluvial",
+          "level": 3,
+          "score": 0.265500009059906
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.2587999999523163
+        },
+        {
+          "id": "https://openalex.org/C42787717",
+          "wikidata": "https://www.wikidata.org/wiki/Q42045",
+          "display_name": "Igneous rock",
+          "level": 2,
+          "score": 0.2581999897956848
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.25360000133514404
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -34598,7 +35632,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34748,7 +35782,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36052202,
+        "value": 0.36650718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34832,8 +35866,244 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.8389999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.6680999994277954
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5655999779701233
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.49790000915527344
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.4465000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.4431000053882599
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.4156000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.4142000079154968
+        },
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.40540000796318054
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9125999808311462
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.8389999866485596
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7764999866485596
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.6680999994277954
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5655999779701233
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.49790000915527344
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.4465000033378601
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4431000053882599
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.4156000018119812
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.4142000079154968
+        },
+        {
+          "id": "https://openalex.org/C2781148125",
+          "wikidata": "https://www.wikidata.org/wiki/Q80583",
+          "display_name": "Gondwana",
+          "level": 3,
+          "score": 0.40540000796318054
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.34950000047683716
+        },
+        {
+          "id": "https://openalex.org/C2776322157",
+          "wikidata": "https://www.wikidata.org/wiki/Q132033",
+          "display_name": "Laurasia",
+          "level": 4,
+          "score": 0.3490999937057495
+        },
+        {
+          "id": "https://openalex.org/C2776044767",
+          "wikidata": "https://www.wikidata.org/wiki/Q105439",
+          "display_name": "Anhydrite",
+          "level": 3,
+          "score": 0.34150001406669617
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.3255000114440918
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.3208000063896179
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.31630000472068787
+        },
+        {
+          "id": "https://openalex.org/C63662990",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
+          "display_name": "Dolomitization",
+          "level": 4,
+          "score": 0.31060001254081726
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.3068999946117401
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.2955999970436096
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.27970001101493835
+        },
+        {
+          "id": "https://openalex.org/C2780310495",
+          "wikidata": "https://www.wikidata.org/wiki/Q245586",
+          "display_name": "Cyclothems",
+          "level": 4,
+          "score": 0.27950000762939453
+        },
+        {
+          "id": "https://openalex.org/C2779837711",
+          "wikidata": "https://www.wikidata.org/wiki/Q644757",
+          "display_name": "Stratigraphic section",
+          "level": 3,
+          "score": 0.27709999680519104
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.27090001106262207
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.27059999108314514
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.2574999928474426
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.25690001249313354
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -34944,7 +36214,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-09-27T00:00:00"
     },
     {
@@ -35094,7 +36364,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43384615,
+        "value": 0.40108401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35178,8 +36448,284 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/tectonic-phase",
+          "display_name": "Tectonic phase",
+          "score": 0.6751999855041504
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.6603000164031982
+        },
+        {
+          "id": "https://openalex.org/keywords/supercontinent",
+          "display_name": "Supercontinent",
+          "score": 0.641700029373169
+        },
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.5464000105857849
+        },
+        {
+          "id": "https://openalex.org/keywords/rift",
+          "display_name": "Rift",
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/proterozoic",
+          "display_name": "Proterozoic",
+          "score": 0.4803999960422516
+        },
+        {
+          "id": "https://openalex.org/keywords/plate-tectonics",
+          "display_name": "Plate tectonics",
+          "score": 0.44040000438690186
+        },
+        {
+          "id": "https://openalex.org/keywords/ophiolite",
+          "display_name": "Ophiolite",
+          "score": 0.421099990606308
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.413100004196167
+        },
+        {
+          "id": "https://openalex.org/keywords/extensional-tectonics",
+          "display_name": "Extensional tectonics",
+          "score": 0.3919999897480011
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8956000208854675
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7228000164031982
+        },
+        {
+          "id": "https://openalex.org/C105492442",
+          "wikidata": "https://www.wikidata.org/wiki/Q17139498",
+          "display_name": "Tectonic phase",
+          "level": 3,
+          "score": 0.6751999855041504
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.6603000164031982
+        },
+        {
+          "id": "https://openalex.org/C2780321876",
+          "wikidata": "https://www.wikidata.org/wiki/Q55833",
+          "display_name": "Supercontinent",
+          "level": 4,
+          "score": 0.641700029373169
+        },
+        {
+          "id": "https://openalex.org/C2781148125",
+          "wikidata": "https://www.wikidata.org/wiki/Q80583",
+          "display_name": "Gondwana",
+          "level": 3,
+          "score": 0.5464000105857849
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/C93033518",
+          "wikidata": "https://www.wikidata.org/wiki/Q104162",
+          "display_name": "Proterozoic",
+          "level": 3,
+          "score": 0.4803999960422516
+        },
+        {
+          "id": "https://openalex.org/C119477230",
+          "wikidata": "https://www.wikidata.org/wiki/Q7950",
+          "display_name": "Plate tectonics",
+          "level": 3,
+          "score": 0.44040000438690186
+        },
+        {
+          "id": "https://openalex.org/C23923706",
+          "wikidata": "https://www.wikidata.org/wiki/Q605396",
+          "display_name": "Ophiolite",
+          "level": 3,
+          "score": 0.421099990606308
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.413100004196167
+        },
+        {
+          "id": "https://openalex.org/C203457885",
+          "wikidata": "https://www.wikidata.org/wiki/Q2213536",
+          "display_name": "Extensional tectonics",
+          "level": 4,
+          "score": 0.3919999897480011
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3756999969482422
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.37529999017715454
+        },
+        {
+          "id": "https://openalex.org/C192717286",
+          "wikidata": "https://www.wikidata.org/wiki/Q772239",
+          "display_name": "Obduction",
+          "level": 5,
+          "score": 0.3637000024318695
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.358599990606308
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.32679998874664307
+        },
+        {
+          "id": "https://openalex.org/C139419234",
+          "wikidata": "https://www.wikidata.org/wiki/Q1592877",
+          "display_name": "Tectonic uplift",
+          "level": 3,
+          "score": 0.3140999972820282
+        },
+        {
+          "id": "https://openalex.org/C2776401274",
+          "wikidata": "https://www.wikidata.org/wiki/Q3756855",
+          "display_name": "Accretion (finance)",
+          "level": 2,
+          "score": 0.30559998750686646
+        },
+        {
+          "id": "https://openalex.org/C2776074449",
+          "wikidata": "https://www.wikidata.org/wiki/Q212136",
+          "display_name": "Horst",
+          "level": 3,
+          "score": 0.30480000376701355
+        },
+        {
+          "id": "https://openalex.org/C16942324",
+          "wikidata": "https://www.wikidata.org/wiki/Q83296",
+          "display_name": "Lithosphere",
+          "level": 3,
+          "score": 0.2987000048160553
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.29339998960494995
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.29100000858306885
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.28850001096725464
+        },
+        {
+          "id": "https://openalex.org/C150999391",
+          "wikidata": "https://www.wikidata.org/wiki/Q509037",
+          "display_name": "Terrane",
+          "level": 3,
+          "score": 0.28189998865127563
+        },
+        {
+          "id": "https://openalex.org/C110041135",
+          "wikidata": "https://www.wikidata.org/wiki/Q496325",
+          "display_name": "Thrust fault",
+          "level": 3,
+          "score": 0.26919999718666077
+        },
+        {
+          "id": "https://openalex.org/C202783661",
+          "wikidata": "https://www.wikidata.org/wiki/Q83222",
+          "display_name": "Mesozoic",
+          "level": 3,
+          "score": 0.26750001311302185
+        },
+        {
+          "id": "https://openalex.org/C153220577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
+          "display_name": "Nappe",
+          "level": 3,
+          "score": 0.25940001010894775
+        },
+        {
+          "id": "https://openalex.org/C166839181",
+          "wikidata": "https://www.wikidata.org/wiki/Q192810",
+          "display_name": "Graben",
+          "level": 3,
+          "score": 0.25839999318122864
+        },
+        {
+          "id": "https://openalex.org/C7251660",
+          "wikidata": "https://www.wikidata.org/wiki/Q334823",
+          "display_name": "Structural geology",
+          "level": 2,
+          "score": 0.25769999623298645
+        },
+        {
+          "id": "https://openalex.org/C2777241186",
+          "wikidata": "https://www.wikidata.org/wiki/Q184554",
+          "display_name": "Orogeny",
+          "level": 3,
+          "score": 0.25220000743865967
+        },
+        {
+          "id": "https://openalex.org/C63379926",
+          "wikidata": "https://www.wikidata.org/wiki/Q1515058",
+          "display_name": "Island arc",
+          "level": 4,
+          "score": 0.25
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -35311,7 +36857,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35461,7 +37007,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47963149,
+        "value": 0.43784705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35511,8 +37057,166 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/portuguese",
+          "display_name": "Portuguese",
+          "score": 0.5299000144004822
+        },
+        {
+          "id": "https://openalex.org/keywords/navy",
+          "display_name": "Navy",
+          "score": 0.4636000096797943
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum",
+          "display_name": "Petroleum",
+          "score": 0.42010000348091125
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-industry",
+          "display_name": "Petroleum industry",
+          "score": 0.35019999742507935
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrography",
+          "display_name": "Hydrography",
+          "score": 0.33009999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-exploration",
+          "display_name": "Oil exploration",
+          "score": 0.31349998712539673
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C35219183",
+          "wikidata": "https://www.wikidata.org/wiki/Q5146",
+          "display_name": "Portuguese",
+          "level": 2,
+          "score": 0.5299000144004822
+        },
+        {
+          "id": "https://openalex.org/C2776746162",
+          "wikidata": "https://www.wikidata.org/wiki/Q4508",
+          "display_name": "Navy",
+          "level": 2,
+          "score": 0.4636000096797943
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.435699999332428
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.42010000348091125
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.3562000095844269
+        },
+        {
+          "id": "https://openalex.org/C526740375",
+          "wikidata": "https://www.wikidata.org/wiki/Q862571",
+          "display_name": "Petroleum industry",
+          "level": 2,
+          "score": 0.35019999742507935
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.3400000035762787
+        },
+        {
+          "id": "https://openalex.org/C76256466",
+          "wikidata": "https://www.wikidata.org/wiki/Q182468",
+          "display_name": "Hydrography",
+          "level": 2,
+          "score": 0.33009999990463257
+        },
+        {
+          "id": "https://openalex.org/C2988666330",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Oil exploration",
+          "level": 2,
+          "score": 0.31349998712539673
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0.30809998512268066
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.30329999327659607
+        },
+        {
+          "id": "https://openalex.org/C139676723",
+          "wikidata": "https://www.wikidata.org/wiki/Q1193832",
+          "display_name": "Sign (mathematics)",
+          "level": 2,
+          "score": 0.3027999997138977
+        },
+        {
+          "id": "https://openalex.org/C199776023",
+          "wikidata": "https://www.wikidata.org/wiki/Q202875",
+          "display_name": "Negotiation",
+          "level": 2,
+          "score": 0.29589998722076416
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.29580000042915344
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.27549999952316284
+        },
+        {
+          "id": "https://openalex.org/C2778571376",
+          "wikidata": "https://www.wikidata.org/wiki/Q1355821",
+          "display_name": "Frontier",
+          "level": 2,
+          "score": 0.27379998564720154
+        },
+        {
+          "id": "https://openalex.org/C195244886",
+          "wikidata": "https://www.wikidata.org/wiki/Q41493",
+          "display_name": "Ancient history",
+          "level": 1,
+          "score": 0.2531000077724457
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.2508000135421753
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -35570,7 +37274,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

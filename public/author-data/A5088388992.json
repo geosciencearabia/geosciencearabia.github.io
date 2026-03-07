@@ -11771,7 +11771,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28677344,
+        "value": 0.24259736,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11855,8 +11855,178 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/basalt",
+          "display_name": "Basalt",
+          "score": 0.85589998960495
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralization",
+          "display_name": "Mineralization (soil science)",
+          "score": 0.6621000170707703
+        },
+        {
+          "id": "https://openalex.org/keywords/volcano",
+          "display_name": "Volcano",
+          "score": 0.5866000056266785
+        },
+        {
+          "id": "https://openalex.org/keywords/dissolution",
+          "display_name": "Dissolution",
+          "score": 0.5051000118255615
+        },
+        {
+          "id": "https://openalex.org/keywords/precipitation",
+          "display_name": "Precipitation",
+          "score": 0.42419999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-sequestration",
+          "display_name": "Carbon sequestration",
+          "score": 0.4108000099658966
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.37139999866485596
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C161509811",
+          "wikidata": "https://www.wikidata.org/wiki/Q43338",
+          "display_name": "Basalt",
+          "level": 2,
+          "score": 0.85589998960495
+        },
+        {
+          "id": "https://openalex.org/C111696902",
+          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
+          "display_name": "Mineralization (soil science)",
+          "level": 3,
+          "score": 0.6621000170707703
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5914999842643738
+        },
+        {
+          "id": "https://openalex.org/C120806208",
+          "wikidata": "https://www.wikidata.org/wiki/Q8072",
+          "display_name": "Volcano",
+          "level": 2,
+          "score": 0.5866000056266785
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5238000154495239
+        },
+        {
+          "id": "https://openalex.org/C88380143",
+          "wikidata": "https://www.wikidata.org/wiki/Q416674",
+          "display_name": "Dissolution",
+          "level": 2,
+          "score": 0.5051000118255615
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.4307999908924103
+        },
+        {
+          "id": "https://openalex.org/C107054158",
+          "wikidata": "https://www.wikidata.org/wiki/Q25257",
+          "display_name": "Precipitation",
+          "level": 2,
+          "score": 0.42419999837875366
+        },
+        {
+          "id": "https://openalex.org/C22884784",
+          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
+          "display_name": "Carbon sequestration",
+          "level": 3,
+          "score": 0.4108000099658966
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.37139999866485596
+        },
+        {
+          "id": "https://openalex.org/C192241223",
+          "wikidata": "https://www.wikidata.org/wiki/Q108689",
+          "display_name": "Volcanic rock",
+          "level": 3,
+          "score": 0.3569999933242798
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.3384000062942505
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3160000145435333
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.28529998660087585
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.2815000116825104
+        },
+        {
+          "id": "https://openalex.org/C143050476",
+          "wikidata": "https://www.wikidata.org/wiki/Q194502",
+          "display_name": "Sink (geography)",
+          "level": 2,
+          "score": 0.27570000290870667
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.27309998869895935
+        },
+        {
+          "id": "https://openalex.org/C530467964",
+          "wikidata": "https://www.wikidata.org/wiki/Q1997",
+          "display_name": "Carbon dioxide",
+          "level": 2,
+          "score": 0.2646999955177307
+        },
+        {
+          "id": "https://openalex.org/C149677717",
+          "wikidata": "https://www.wikidata.org/wiki/Q5611523",
+          "display_name": "Carbon sink",
+          "level": 3,
+          "score": 0.26089999079704285
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -12581,7 +12751,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {

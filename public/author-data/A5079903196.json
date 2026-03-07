@@ -1205,9 +1205,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -2006,9 +2006,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -2312,11 +2312,11 @@
         "currency": "USD",
         "value_usd": 4080
       },
-      "fwci": 12.2577,
+      "fwci": 12.2049,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.99599612,
+        "value": 0.99595711,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2846,625 +2846,7 @@
         "https://openalex.org/W2961715276",
         "https://openalex.org/W2035673842"
       ],
-      "abstract_inverted_index": {
-        "45": [
-          98
-        ],
-        "333": [
-          90
-        ],
-        "The": [
-          0,
-          15,
-          105,
-          144,
-          234,
-          247
-        ],
-        "geo-storage": [
-          1
-        ],
-        "of": [
-          2,
-          27,
-          47,
-          64,
-          107,
-          176,
-          184,
-          200,
-          227,
-          276
-        ],
-        "hydrogen": [
-          3
-        ],
-        "(H2)": [
-          4
-        ],
-        "is": [
-          5,
-          118,
-          187,
-          279
-        ],
-        "essential": [
-          6
-        ],
-        "for": [
-          7,
-          223
-        ],
-        "advancing": [
-          8
-        ],
-        "a": [
-          9,
-          20,
-          28,
-          35,
-          72,
-          102,
-          169,
-          193,
-          197
-        ],
-        "robust": [
-          10
-        ],
-        "and": [
-          11,
-          30,
-          58,
-          89,
-          92,
-          97,
-          110,
-          126,
-          133,
-          155,
-          196,
-          209,
-          254,
-          278
-        ],
-        "industrial-scale": [
-          12
-        ],
-        "H2-based": [
-          13,
-          287
-        ],
-        "economy.": [
-          14,
-          288
-        ],
-        "efficient": [
-          16
-        ],
-        "H2": [
-          17,
-          48,
-          65,
-          116,
-          149,
-          177,
-          185,
-          228,
-          239,
-          248,
-          258,
-          277
-        ],
-        "storage": [
-          18
-        ],
-        "in": [
-          19,
-          50,
-          67,
-          189,
-          230,
-          260,
-          283
-        ],
-        "geological": [
-          21
-        ],
-        "formation": [
-          22,
-          78
-        ],
-        "depends": [
-          23
-        ],
-        "on": [
-          24,
-          44,
-          115
-        ],
-        "the": [
-          25,
-          39,
-          45,
-          62,
-          141,
-          148,
-          174,
-          182,
-          190,
-          204,
-          214,
-          225,
-          231,
-          238,
-          257,
-          273
-        ],
-        "presence": [
-          26
-        ],
-        "secure": [
-          29
-        ],
-        "impermeable": [
-          31
-        ],
-        "caprock,": [
-          32
-        ],
-        "such": [
-          33
-        ],
-        "as": [
-          34,
-          173
-        ],
-        "shale": [
-          36,
-          52,
-          69,
-          261
-        ],
-        "formation.": [
-          37
-        ],
-        "However,": [
-          38
-        ],
-        "existing": [
-          40
-        ],
-        "literature": [
-          41
-        ],
-        "lacks": [
-          42
-        ],
-        "information": [
-          43
-        ],
-        "kinetics": [
-          46,
-          63,
-          211,
-          226,
-          240,
-          275
-        ],
-        "adsorption": [
-          49,
-          66,
-          117,
-          135,
-          150,
-          165,
-          171,
-          186,
-          206,
-          210,
-          229,
-          274
-        ],
-        "actual": [
-          51
-        ],
-        "formations": [
-          53
-        ],
-        "with": [
-          54,
-          123,
-          153,
-          157,
-          192,
-          243,
-          252,
-          263
-        ],
-        "diverse": [
-          55
-        ],
-        "organic": [
-          56,
-          112
-        ],
-        "contents": [
-          57
-        ],
-        "mineral": [
-          59,
-          108
-        ],
-        "compositions.": [
-          60
-        ],
-        "Therefore,": [
-          61
-        ],
-        "organic-rich": [
-          68
-        ],
-        "samples": [
-          70,
-          122
-        ],
-        "from": [
-          71
-        ],
-        "Jordanian": [
-          73
-        ],
-        "oil": [
-          74
-        ],
-        "(JO)": [
-          75
-        ],
-        "source": [
-          76
-        ],
-        "rock": [
-          77
-        ],
-        "are": [
-          79,
-          131,
-          137
-        ],
-        "experimentally": [
-          80
-        ],
-        "investigated": [
-          81
-        ],
-        "herein": [
-          82
-        ],
-        "at": [
-          83
-        ],
-        "various": [
-          84
-        ],
-        "temperatures": [
-          85
-        ],
-        "(193,": [
-          86
-        ],
-        "273,": [
-          87
-        ],
-        "303,": [
-          88
-        ],
-        "K)": [
-          91
-        ],
-        "two": [
-          93,
-          121
-        ],
-        "equilibrium": [
-          94
-        ],
-        "pressures": [
-          95
-        ],
-        "(15": [
-          96
-        ],
-        "bar)": [
-          99
-        ],
-        "by": [
-          100,
-          161,
-          168
-        ],
-        "using": [
-          101,
-          120
-        ],
-        "volumetric": [
-          103
-        ],
-        "method.": [
-          104
-        ],
-        "impact": [
-          106
-        ],
-        "compositions": [
-          109
-        ],
-        "total": [
-          111
-        ],
-        "content": [
-          113
-        ],
-        "(TOC)": [
-          114
-        ],
-        "studied": [
-          119
-        ],
-        "distinct": [
-          124
-        ],
-        "mineralogy": [
-          125
-        ],
-        "TOC": [
-          127,
-          195
-        ],
-        "values.": [
-          128
-        ],
-        "Thermodynamic": [
-          129
-        ],
-        "calculations": [
-          130
-        ],
-        "performed,": [
-          132
-        ],
-        "common": [
-          134
-        ],
-        "models": [
-          136,
-          208,
-          212
-        ],
-        "used": [
-          138
-        ],
-        "to": [
-          139,
-          281
-        ],
-        "analyze": [
-          140
-        ],
-        "experimental": [
-          142,
-          215
-        ],
-        "data.": [
-          143
-        ],
-        "results": [
-          145
-        ],
-        "indicate": [
-          146
-        ],
-        "that": [
-          147
-        ],
-        "rate": [
-          151,
-          183
-        ],
-        "increases": [
-          152,
-          251
-        ],
-        "pressure": [
-          154,
-          253
-        ],
-        "decreases": [
-          156
-        ],
-        "temperature,": [
-          158,
-          255
-        ],
-        "being": [
-          159
-        ],
-        "characterized": [
-          160
-        ],
-        "an": [
-          162,
-          285
-        ],
-        "initial": [
-          163
-        ],
-        "rapid": [
-          164
-        ],
-        "phase": [
-          166
-        ],
-        "followed": [
-          167
-        ],
-        "slower": [
-          170
-        ],
-        "period": [
-          172
-        ],
-        "uptake": [
-          175
-        ],
-        "approaches": [
-          178
-        ],
-        "equilibrium.": [
-          179
-        ],
-        "More": [
-          180
-        ],
-        "interestingly,": [
-          181
-        ],
-        "higher": [
-          188
-        ],
-        "sample": [
-          191
-        ],
-        "high": [
-          194
-        ],
-        "richer": [
-          198
-        ],
-        "composition": [
-          199
-        ],
-        "carbonate": [
-          201
-        ],
-        "minerals.": [
-          202
-        ],
-        "Both": [
-          203
-        ],
-        "applied": [
-          205
-        ],
-        "isotherm": [
-          207
-        ],
-        "fit": [
-          213
-        ],
-        "data": [
-          216,
-          241
-        ],
-        "remarkably": [
-          217
-        ],
-        "well,": [
-          218,
-          242
-        ],
-        "thereby": [
-          219
-        ],
-        "indicating": [
-          220
-        ],
-        "their": [
-          221
-        ],
-        "suitability": [
-          222
-        ],
-        "analyzing": [
-          224
-        ],
-        "JO": [
-          232
-        ],
-        "shale.": [
-          233
-        ],
-        "unipore": [
-          235
-        ],
-        "model": [
-          236
-        ],
-        "matches": [
-          237
-        ],
-        "R2": [
-          244
-        ],
-        ">": [
-          245
-        ],
-        "0.91.": [
-          246
-        ],
-        "diffusion": [
-          249,
-          259
-        ],
-        "coefficient": [
-          250
-        ],
-        "where": [
-          256
-        ],
-        "accelerates": [
-          262
-        ],
-        "thermal": [
-          264
-        ],
-        "motion": [
-          265
-        ],
-        "intensity.": [
-          266
-        ],
-        "This": [
-          267
-        ],
-        "study": [
-          268
-        ],
-        "provides": [
-          269
-        ],
-        "fundamental": [
-          270
-        ],
-        "insights": [
-          271
-        ],
-        "into": [
-          272
-        ],
-        "expected": [
-          280
-        ],
-        "assist": [
-          282
-        ],
-        "implementing": [
-          284
-        ],
-        "industrial": [
-          286
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -3479,7 +2861,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-05T09:29:38.588285",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4038,9 +3420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6449,9 +5831,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -10286,9 +9668,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11076,9 +10458,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16108,11 +15490,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.9417,
+      "fwci": 2.9368,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.90786392,
+        "value": 0.90775237,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16554,9 +15936,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -16662,460 +16044,7 @@
         "https://openalex.org/W4387375957",
         "https://openalex.org/W2026408255"
       ],
-      "abstract_inverted_index": {
-        "Lithium": [
-          0
-        ],
-        "holds": [
-          1
-        ],
-        "significant": [
-          2
-        ],
-        "importance": [
-          3
-        ],
-        "in": [
-          4,
-          44,
-          150,
-          177,
-          188
-        ],
-        "energy": [
-          5,
-          33,
-          41
-        ],
-        "storage": [
-          6
-        ],
-        "and": [
-          7,
-          54,
-          87,
-          96,
-          122,
-          133,
-          145,
-          174
-        ],
-        "can": [
-          8
-        ],
-        "be": [
-          9
-        ],
-        "extracted": [
-          10
-        ],
-        "from": [
-          11,
-          25,
-          31,
-          77,
-          127,
-          159
-        ],
-        "geothermal": [
-          12,
-          26,
-          32,
-          52,
-          73,
-          108,
-          180,
-          190
-        ],
-        "water,": [
-          13,
-          112
-        ],
-        "making": [
-          14
-        ],
-        "it": [
-          15
-        ],
-        "an": [
-          16,
-          106
-        ],
-        "additional": [
-          17
-        ],
-        "resource": [
-          18
-        ],
-        "to": [
-          19,
-          38,
-          65,
-          118,
-          161
-        ],
-        "traditional": [
-          20
-        ],
-        "mining.": [
-          21
-        ],
-        "Combining": [
-          22
-        ],
-        "lithium": [
-          23,
-          67,
-          114,
-          186
-        ],
-        "extraction": [
-          24
-        ],
-        "water": [
-          27,
-          121,
-          170,
-          175
-        ],
-        "with": [
-          28,
-          110,
-          124,
-          156
-        ],
-        "electricity": [
-          29
-        ],
-        "generation": [
-          30
-        ],
-        "offers": [
-          34
-        ],
-        "a": [
-          35,
-          139
-        ],
-        "compelling": [
-          36
-        ],
-        "strategy": [
-          37
-        ],
-        "address": [
-          39
-        ],
-        "future": [
-          40
-        ],
-        "challenges.": [
-          42
-        ],
-        "Situated": [
-          43
-        ],
-        "Southeast": [
-          45
-        ],
-        "Sumatra,": [
-          46
-        ],
-        "Indonesia,": [
-          47
-        ],
-        "Way": [
-          48,
-          71,
-          103,
-          151
-        ],
-        "Ratai": [
-          49,
-          72,
-          104,
-          152
-        ],
-        "has": [
-          50
-        ],
-        "considerable": [
-          51
-        ],
-        "potential": [
-          53
-        ],
-        "is": [
-          55,
-          105,
-          116,
-          153
-        ],
-        "known": [
-          56
-        ],
-        "for": [
-          57,
-          91
-        ],
-        "its": [
-          58
-        ],
-        "hot": [
-          59,
-          83
-        ],
-        "springs.": [
-          60
-        ],
-        "This": [
-          61,
-          163
-        ],
-        "study": [
-          62,
-          164
-        ],
-        "primarily": [
-          63
-        ],
-        "aims": [
-          64
-        ],
-        "characterize": [
-          66
-        ],
-        "enrichment": [
-          68,
-          115,
-          187
-        ],
-        "within": [
-          69
-        ],
-        "the": [
-          70
-        ],
-        "system.": [
-          74
-        ],
-        "Water": [
-          75
-        ],
-        "samples": [
-          76
-        ],
-        "various": [
-          78
-        ],
-        "sources": [
-          79
-        ],
-        "(one": [
-          80
-        ],
-        "spring,": [
-          81
-        ],
-        "seven": [
-          82
-        ],
-        "springs,": [
-          84
-        ],
-        "one": [
-          85
-        ],
-        "well,": [
-          86
-        ],
-        "seawater)": [
-          88
-        ],
-        "were": [
-          89
-        ],
-        "analyzed": [
-          90
-        ],
-        "cations,": [
-          92
-        ],
-        "anions,": [
-          93
-        ],
-        "trace": [
-          94
-        ],
-        "elements,": [
-          95
-        ],
-        "isotopic": [
-          97
-        ],
-        "composition.": [
-          98
-        ],
-        "The": [
-          99,
-          129,
-          147
-        ],
-        "results": [
-          100
-        ],
-        "show": [
-          101
-        ],
-        "that": [
-          102
-        ],
-        "old": [
-          107
-        ],
-        "system": [
-          109
-        ],
-        "sodium-chloride": [
-          111
-        ],
-        "where": [
-          113
-        ],
-        "attributed": [
-          117
-        ],
-        "interactions": [
-          119
-        ],
-        "between": [
-          120,
-          131,
-          143
-        ],
-        "rocks,": [
-          123
-        ],
-        "some": [
-          125
-        ],
-        "influence": [
-          126
-        ],
-        "seawater.": [
-          128,
-          146
-        ],
-        "discrepancy": [
-          130
-        ],
-        "calculated": [
-          132
-        ],
-        "observed": [
-          134
-        ],
-        "magnesium": [
-          135
-        ],
-        "(Mg)": [
-          136
-        ],
-        "concentrations": [
-          137
-        ],
-        "suggests": [
-          138
-        ],
-        "pre-heating": [
-          140
-        ],
-        "mixing": [
-          141
-        ],
-        "process": [
-          142
-        ],
-        "rainwater": [
-          144
-        ],
-        "reservoir": [
-          148,
-          172
-        ],
-        "rock": [
-          149
-        ],
-        "mostly": [
-          154
-        ],
-        "andesitic,": [
-          155
-        ],
-        "temperatures": [
-          157
-        ],
-        "ranging": [
-          158
-        ],
-        "182<sup>o</sup>": [
-          160
-        ],
-        "227<sup>o</sup>C.": [
-          162
-        ],
-        "enhances": [
-          165
-        ],
-        "our": [
-          166
-        ],
-        "understanding": [
-          167
-        ],
-        "of": [
-          168
-        ],
-        "thermal": [
-          169
-        ],
-        "characteristics,": [
-          171
-        ],
-        "temperatures,": [
-          173
-        ],
-        "origins": [
-          176
-        ],
-        "high": [
-          178
-        ],
-        "enthalpy": [
-          179
-        ],
-        "systems,": [
-          181
-        ],
-        "offering": [
-          182
-        ],
-        "valuable": [
-          183
-        ],
-        "insights": [
-          184
-        ],
-        "into": [
-          185
-        ],
-        "coastal": [
-          189
-        ],
-        "regions.": [
-          191
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -17126,7 +16055,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20349,9 +19278,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21856,9 +20785,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23747,9 +22676,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -25284,9 +24213,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -26847,9 +25776,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29083,9 +28012,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29436,11 +28365,11 @@
         "currency": "USD",
         "value_usd": 2600
       },
-      "fwci": 11.3805,
+      "fwci": 11.3325,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.9782733,
+        "value": 0.97817181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29779,9 +28708,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -29879,7 +28808,637 @@
         "https://openalex.org/W2467753571",
         "https://openalex.org/W4303980658"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "95": [
+          92
+        ],
+        "•": [
+          0,
+          12,
+          23,
+          34,
+          46
+        ],
+        "Spatial": [
+          1
+        ],
+        "distribution": [
+          2
+        ],
+        "of": [
+          3,
+          73,
+          90,
+          102,
+          110,
+          217,
+          247,
+          254
+        ],
+        "structural": [
+          4,
+          141
+        ],
+        "lineaments": [
+          5,
+          25
+        ],
+        "examined": [
+          6
+        ],
+        "in": [
+          7,
+          61,
+          78,
+          239
+        ],
+        "the": [
+          8,
+          74,
+          100,
+          103,
+          108,
+          111,
+          121,
+          135,
+          200,
+          204,
+          225,
+          231,
+          240,
+          245
+        ],
+        "Al-Lith": [
+          9,
+          68,
+          242
+        ],
+        "area,": [
+          10,
+          124,
+          243
+        ],
+        "KSA.": [
+          11
+        ],
+        "Study": [
+          13
+        ],
+        "integrated": [
+          14,
+          154
+        ],
+        "remote": [
+          15,
+          126
+        ],
+        "sensing": [
+          16,
+          127
+        ],
+        "and": [
+          17,
+          32,
+          40,
+          54,
+          107,
+          128,
+          137,
+          140,
+          145,
+          148,
+          161,
+          235,
+          276
+        ],
+        "geophysical": [
+          18,
+          129
+        ],
+        "data": [
+          19,
+          178
+        ],
+        "for": [
+          20,
+          263
+        ],
+        "geothermal": [
+          21,
+          63,
+          76,
+          105,
+          112,
+          123,
+          237,
+          250,
+          265
+        ],
+        "exploration.": [
+          22
+        ],
+        "Structural": [
+          24
+        ],
+        "measured": [
+          26
+        ],
+        "show": [
+          27
+        ],
+        "two": [
+          28
+        ],
+        "major": [
+          29
+        ],
+        "trends:": [
+          30
+        ],
+        "NW-SE": [
+          31
+        ],
+        "N-S.": [
+          33
+        ],
+        "Ten": [
+          35
+        ],
+        "high-density": [
+          36,
+          214
+        ],
+        "surface": [
+          37,
+          136,
+          172,
+          196,
+          268
+        ],
+        "lineament": [
+          38,
+          48,
+          173,
+          184,
+          197,
+          206,
+          209
+        ],
+        "zones": [
+          39,
+          43,
+          50,
+          193,
+          234
+        ],
+        "five": [
+          41,
+          213
+        ],
+        "subsurface": [
+          42,
+          138,
+          183
+        ],
+        "were": [
+          44,
+          168
+        ],
+        "identified.": [
+          45
+        ],
+        "High": [
+          47
+        ],
+        "density": [
+          49,
+          210
+        ],
+        "suggest": [
+          51
+        ],
+        "enhanced": [
+          52
+        ],
+        "permeability": [
+          53
+        ],
+        "fluid": [
+          55
+        ],
+        "circulation.": [
+          56
+        ],
+        "Saudi": [
+          57,
+          80
+        ],
+        "Arabia": [
+          58
+        ],
+        "is": [
+          59,
+          69,
+          96
+        ],
+        "enriched": [
+          60
+        ],
+        "numerous": [
+          62
+        ],
+        "resources.": [
+          64,
+          251
+        ],
+        "Among": [
+          65
+        ],
+        "these,": [
+          66
+        ],
+        "Wadi": [
+          67,
+          241
+        ],
+        "regarded": [
+          70
+        ],
+        "as": [
+          71,
+          259
+        ],
+        "one": [
+          72
+        ],
+        "favorable": [
+          75
+        ],
+        "prospects": [
+          77
+        ],
+        "western": [
+          79
+        ],
+        "Arabia,": [
+          81
+        ],
+        "featuring": [
+          82
+        ],
+        "several": [
+          83
+        ],
+        "hot": [
+          84
+        ],
+        "springs": [
+          85
+        ],
+        "with": [
+          86,
+          199,
+          221
+        ],
+        "a": [
+          87,
+          260
+        ],
+        "discharge": [
+          88
+        ],
+        "temperature": [
+          89
+        ],
+        "around": [
+          91
+        ],
+        "°C.": [
+          93
+        ],
+        "However,": [
+          94
+        ],
+        "there": [
+          95
+        ],
+        "still": [
+          97
+        ],
+        "uncertainty": [
+          98
+        ],
+        "regarding": [
+          99
+        ],
+        "delineation": [
+          101
+        ],
+        "prospective": [
+          104,
+          122
+        ],
+        "reservoir,": [
+          106
+        ],
+        "assessment": [
+          109
+        ],
+        "energy": [
+          113
+        ],
+        "reserves.": [
+          114
+        ],
+        "Therefore,": [
+          115
+        ],
+        "this": [
+          116,
+          255
+        ],
+        "paper": [
+          117
+        ],
+        "aims": [
+          118
+        ],
+        "to": [
+          119,
+          170,
+          181
+        ],
+        "delineate": [
+          120
+        ],
+        "utilizing": [
+          125
+        ],
+        "(magnetic)": [
+          130
+        ],
+        "data.": [
+          131
+        ],
+        "This": [
+          132
+        ],
+        "research": [
+          133
+        ],
+        "maps": [
+          134
+        ],
+        "geological": [
+          139
+        ],
+        "features": [
+          142
+        ],
+        "(faults,": [
+          143
+        ],
+        "fractures,": [
+          144
+        ],
+        "fold": [
+          146
+        ],
+        "axes)": [
+          147
+        ],
+        "analyzes": [
+          149
+        ],
+        "their": [
+          150
+        ],
+        "densities": [
+          151
+        ],
+        "using": [
+          152,
+          274
+        ],
+        "an": [
+          153
+        ],
+        "geological-remote": [
+          155
+        ],
+        "sensing-geophysical": [
+          156
+        ],
+        "investigation.": [
+          157
+        ],
+        "Digital": [
+          158
+        ],
+        "elevation": [
+          159
+        ],
+        "models": [
+          160
+        ],
+        "Landsat-8": [
+          162
+        ],
+        "imagery,": [
+          163
+        ],
+        "supported": [
+          164
+        ],
+        "by": [
+          165
+        ],
+        "field": [
+          166
+        ],
+        "investigations,": [
+          167
+        ],
+        "used": [
+          169,
+          180
+        ],
+        "analyze": [
+          171,
+          182
+        ],
+        "density,": [
+          174,
+          198
+        ],
+        "while": [
+          175
+        ],
+        "airborne": [
+          176
+        ],
+        "magnetic": [
+          177
+        ],
+        "was": [
+          179,
+          189
+        ],
+        "density.": [
+          185,
+          207
+        ],
+        "The": [
+          186,
+          227,
+          252
+        ],
+        "study": [
+          187,
+          228,
+          256
+        ],
+        "area": [
+          188
+        ],
+        "subdivided": [
+          190
+        ],
+        "into": [
+          191
+        ],
+        "ten": [
+          192
+        ],
+        "based": [
+          194
+        ],
+        "on": [
+          195,
+          224
+        ],
+        "northernmost": [
+          201
+        ],
+        "zone": [
+          202
+        ],
+        "presenting": [
+          203
+        ],
+        "highest": [
+          205
+        ],
+        "Subsurface": [
+          208
+        ],
+        "analysis": [
+          211
+        ],
+        "revealed": [
+          212
+        ],
+        "zones,": [
+          215
+        ],
+        "three": [
+          216
+        ],
+        "which": [
+          218
+        ],
+        "correspond": [
+          219
+        ],
+        "well": [
+          220
+        ],
+        "those": [
+          222
+        ],
+        "identified": [
+          223,
+          230
+        ],
+        "surface.": [
+          226
+        ],
+        "also": [
+          229
+        ],
+        "main": [
+          232
+        ],
+        "high-permeability": [
+          233
+        ],
+        "associated": [
+          236
+        ],
+        "anomalies": [
+          238
+        ],
+        "improving": [
+          244
+        ],
+        "understanding": [
+          246
+        ],
+        "its": [
+          248
+        ],
+        "potential": [
+          249
+        ],
+        "results": [
+          253
+        ],
+        "could": [
+          257
+        ],
+        "serve": [
+          258
+        ],
+        "preliminary": [
+          261
+        ],
+        "guide": [
+          262
+        ],
+        "further": [
+          264
+        ],
+        "exploration,": [
+          266
+        ],
+        "highlighting": [
+          267
+        ],
+        "manifestations": [
+          269
+        ],
+        "that": [
+          270
+        ],
+        "require": [
+          271
+        ],
+        "in-depth": [
+          272
+        ],
+        "investigation": [
+          273
+        ],
+        "geoscientific": [
+          275
+        ],
+        "drilling": [
+          277
+        ],
+        "tools.": [
+          278
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -29890,7 +29449,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30537,9 +30096,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -31984,9 +31543,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -33250,9 +32809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -33745,9 +33304,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -34635,9 +34194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36593,11 +36152,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 6.4421,
+      "fwci": 6.429,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95132293,
+        "value": 0.95114017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -36965,9 +36524,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -37014,502 +36573,14 @@
         "https://openalex.org/W2884517432",
         "https://openalex.org/W2188340990"
       ],
-      "abstract_inverted_index": {
-        "Geothermal": [
-          0
-        ],
-        "energy": [
-          1
-        ],
-        "holds": [
-          2
-        ],
-        "significant": [
-          3
-        ],
-        "potential": [
-          4,
-          117
-        ],
-        "as": [
-          5,
-          178
-        ],
-        "a": [
-          6,
-          24,
-          124,
-          173
-        ],
-        "sustainable": [
-          7,
-          147
-        ],
-        "and": [
-          8,
-          30,
-          51,
-          72,
-          76,
-          95,
-          200
-        ],
-        "clean": [
-          9
-        ],
-        "source,": [
-          10
-        ],
-        "yet": [
-          11
-        ],
-        "efficient": [
-          12
-        ],
-        "exploration": [
-          13,
-          139
-        ],
-        "methodologies": [
-          14
-        ],
-        "remain": [
-          15
-        ],
-        "critical": [
-          16
-        ],
-        "for": [
-          17,
-          27,
-          39,
-          158
-        ],
-        "identifying": [
-          18,
-          199
-        ],
-        "viable": [
-          19
-        ],
-        "sites.": [
-          20
-        ],
-        "This": [
-          21,
-          106,
-          134
-        ],
-        "paper": [
-          22
-        ],
-        "presents": [
-          23
-        ],
-        "novel": [
-          25
-        ],
-        "protocol": [
-          26,
-          169
-        ],
-        "the": [
-          28,
-          62,
-          87,
-          90,
-          128,
-          143,
-          152
-        ],
-        "identification": [
-          29
-        ],
-        "analysis": [
-          31,
-          109
-        ],
-        "of": [
-          32,
-          97,
-          127,
-          151,
-          167,
-          176,
-          184
-        ],
-        "structural": [
-          33,
-          67,
-          93,
-          108,
-          202
-        ],
-        "lineaments": [
-          34,
-          94
-        ],
-        "in": [
-          35,
-          140,
-          198,
-          204
-        ],
-        "geothermal": [
-          36,
-          41,
-          78,
-          103,
-          118,
-          132,
-          138,
-          164,
-          205
-        ],
-        "fields,": [
-          37
-        ],
-        "crucial": [
-          38
-        ],
-        "coherent": [
-          40
-        ],
-        "exploration.": [
-          42
-        ],
-        "The": [
-          43
-        ],
-        "approach": [
-          44,
-          136,
-          153,
-          191
-        ],
-        "integrates": [
-          45
-        ],
-        "surface": [
-          46
-        ],
-        "data": [
-          47,
-          52
-        ],
-        "from": [
-          48,
-          53,
-          83,
-          189
-        ],
-        "remote": [
-          49
-        ],
-        "sensing": [
-          50
-        ],
-        "airborne": [
-          54
-        ],
-        "magnetic": [
-          55
-        ],
-        "geophysical": [
-          56
-        ],
-        "surveys": [
-          57
-        ],
-        "that": [
-          58
-        ],
-        "provide": [
-          59
-        ],
-        "information": [
-          60,
-          82
-        ],
-        "on": [
-          61,
-          102
-        ],
-        "subsurface": [
-          63
-        ],
-        "structures,": [
-          64
-        ],
-        "to": [
-          65,
-          115,
-          123,
-          172
-        ],
-        "analyze": [
-          66
-        ],
-        "lineament": [
-          68
-        ],
-        "density": [
-          69
-        ],
-        "analysis,": [
-          70
-        ],
-        "orientation,": [
-          71
-        ],
-        "high": [
-          73,
-          98,
-          193
-        ],
-        "permeable": [
-          74
-        ],
-        "zones,": [
-          75
-        ],
-        "assess": [
-          77
-        ],
-        "potential.": [
-          79
-        ],
-        "By": [
-          80
-        ],
-        "combining": [
-          81
-        ],
-        "these": [
-          84
-        ],
-        "two": [
-          85
-        ],
-        "sources,": [
-          86
-        ],
-        "study": [
-          88
-        ],
-        "demonstrates": [
-          89
-        ],
-        "relationships": [
-          91
-        ],
-        "between": [
-          92
-        ],
-        "areas": [
-          96
-        ],
-        "permeability,": [
-          99
-        ],
-        "shedding": [
-          100
-        ],
-        "light": [
-          101
-        ],
-        "resource": [
-          104
-        ],
-        "distribution.": [
-          105
-        ],
-        "twofold": [
-          107
-        ],
-        "not": [
-          110,
-          181
-        ],
-        "only": [
-          111
-        ],
-        "enhances": [
-          112
-        ],
-        "our": [
-          113
-        ],
-        "ability": [
-          114
-        ],
-        "identify": [
-          116
-        ],
-        "sites": [
-          119
-        ],
-        "but": [
-          120
-        ],
-        "also": [
-          121
-        ],
-        "contributes": [
-          122
-        ],
-        "deeper": [
-          125
-        ],
-        "understanding": [
-          126
-        ],
-        "geological": [
-          129,
-          161
-        ],
-        "factors": [
-          130
-        ],
-        "influencing": [
-          131
-        ],
-        "reservoirs.": [
-          133
-        ],
-        "integrated": [
-          135
-        ],
-        "advances": [
-          137
-        ],
-        "line": [
-          141
-        ],
-        "with": [
-          142
-        ],
-        "global": [
-          144
-        ],
-        "shift": [
-          145
-        ],
-        "towards": [
-          146
-        ],
-        "energy.•The": [
-          148
-        ],
-        "straightforward": [
-          149
-        ],
-        "nature": [
-          150
-        ],
-        "enables": [
-          154
-        ],
-        "its": [
-          155
-        ],
-        "versatile": [
-          156
-        ],
-        "application": [
-          157,
-          166
-        ],
-        "predicting": [
-          159
-        ],
-        "various": [
-          160
-        ],
-        "processes": [
-          162
-        ],
-        "beyond": [
-          163
-        ],
-        "exploration.•The": [
-          165
-        ],
-        "this": [
-          168,
-          190
-        ],
-        "is": [
-          170
-        ],
-        "accessible": [
-          171
-        ],
-        "broader": [
-          174
-        ],
-        "audience": [
-          175
-        ],
-        "researchers,": [
-          177
-        ],
-        "it": [
-          179
-        ],
-        "does": [
-          180
-        ],
-        "require": [
-          182
-        ],
-        "knowledge": [
-          183
-        ],
-        "programming": [
-          185
-        ],
-        "language.•The": [
-          186
-        ],
-        "results": [
-          187
-        ],
-        "obtained": [
-          188
-        ],
-        "demonstrate": [
-          192
-        ],
-        "predictive": [
-          194
-        ],
-        "performance,": [
-          195
-        ],
-        "underscoring": [
-          196
-        ],
-        "reliability": [
-          197
-        ],
-        "analyzing": [
-          201
-        ],
-        "elements": [
-          203
-        ],
-        "fields.": [
-          206
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39559,9 +38630,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41446,9 +40517,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -50566,9 +49637,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -54824,9 +53895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -55847,9 +54918,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58106,9 +57177,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -59029,9 +58100,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -59682,9 +58753,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -61867,9 +60938,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -64833,7 +63904,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31126702,
+        "value": 0.27022409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64917,8 +63988,190 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geophysical-imaging",
+          "display_name": "Geophysical imaging",
+          "score": 0.5925999879837036
+        },
+        {
+          "id": "https://openalex.org/keywords/geophone",
+          "display_name": "Geophone",
+          "score": 0.559499979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.5073000192642212
+        },
+        {
+          "id": "https://openalex.org/keywords/deformation",
+          "display_name": "Deformation (meteorology)",
+          "score": 0.4812999963760376
+        },
+        {
+          "id": "https://openalex.org/keywords/tomography",
+          "display_name": "Tomography",
+          "score": 0.47679999470710754
+        },
+        {
+          "id": "https://openalex.org/keywords/refraction",
+          "display_name": "Refraction",
+          "score": 0.4465000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/passive-seismic",
+          "display_name": "Passive seismic",
+          "score": 0.38359999656677246
+        },
+        {
+          "id": "https://openalex.org/keywords/vertical-seismic-profile",
+          "display_name": "Vertical seismic profile",
+          "score": 0.3774999976158142
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8881999850273132
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.5928999781608582
+        },
+        {
+          "id": "https://openalex.org/C79675319",
+          "wikidata": "https://www.wikidata.org/wiki/Q5535575",
+          "display_name": "Geophysical imaging",
+          "level": 2,
+          "score": 0.5925999879837036
+        },
+        {
+          "id": "https://openalex.org/C54187759",
+          "wikidata": "https://www.wikidata.org/wiki/Q361564",
+          "display_name": "Geophone",
+          "level": 2,
+          "score": 0.559499979019165
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.5073000192642212
+        },
+        {
+          "id": "https://openalex.org/C204366326",
+          "wikidata": "https://www.wikidata.org/wiki/Q3027650",
+          "display_name": "Deformation (meteorology)",
+          "level": 2,
+          "score": 0.4812999963760376
+        },
+        {
+          "id": "https://openalex.org/C163716698",
+          "wikidata": "https://www.wikidata.org/wiki/Q841267",
+          "display_name": "Tomography",
+          "level": 2,
+          "score": 0.47679999470710754
+        },
+        {
+          "id": "https://openalex.org/C205318122",
+          "wikidata": "https://www.wikidata.org/wiki/Q72277",
+          "display_name": "Refraction",
+          "level": 2,
+          "score": 0.4465000033378601
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4023999869823456
+        },
+        {
+          "id": "https://openalex.org/C2780942248",
+          "wikidata": "https://www.wikidata.org/wiki/Q1048443",
+          "display_name": "Passive seismic",
+          "level": 2,
+          "score": 0.38359999656677246
+        },
+        {
+          "id": "https://openalex.org/C89787772",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922855",
+          "display_name": "Vertical seismic profile",
+          "level": 2,
+          "score": 0.3774999976158142
+        },
+        {
+          "id": "https://openalex.org/C122959257",
+          "wikidata": "https://www.wikidata.org/wiki/Q1850768",
+          "display_name": "Seismic tomography",
+          "level": 3,
+          "score": 0.350600004196167
+        },
+        {
+          "id": "https://openalex.org/C111461898",
+          "wikidata": "https://www.wikidata.org/wiki/Q2008968",
+          "display_name": "Seismic refraction",
+          "level": 2,
+          "score": 0.3312999904155731
+        },
+        {
+          "id": "https://openalex.org/C205539056",
+          "wikidata": "https://www.wikidata.org/wiki/Q5251699",
+          "display_name": "Deformation mechanism",
+          "level": 3,
+          "score": 0.3068000078201294
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.30489999055862427
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.2996000051498413
+        },
+        {
+          "id": "https://openalex.org/C166689943",
+          "wikidata": "https://www.wikidata.org/wiki/Q850283",
+          "display_name": "Interferometry",
+          "level": 2,
+          "score": 0.29179999232292175
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.267300009727478
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.2619999945163727
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.25450000166893005
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -65646,7 +64899,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65918,7 +65171,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34353718,
+        "value": 0.29978561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66002,8 +65255,291 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/source-rock",
+          "display_name": "Source rock",
+          "score": 0.7465999722480774
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.7226999998092651
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.6776000261306763
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.646399974822998
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter",
+          "display_name": "Organic matter",
+          "score": 0.5974000096321106
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "Total organic carbon",
+          "score": 0.5839999914169312
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5756000280380249
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5347999930381775
+        },
+        {
+          "id": "https://openalex.org/keywords/clay-minerals",
+          "display_name": "Clay minerals",
+          "score": 0.4733000099658966
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4650999903678894
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8119000196456909
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.7465999722480774
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.7226999998092651
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.6776000261306763
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.646399974822998
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.6037999987602234
+        },
+        {
+          "id": "https://openalex.org/C48743137",
+          "wikidata": "https://www.wikidata.org/wiki/Q1783121",
+          "display_name": "Organic matter",
+          "level": 2,
+          "score": 0.5974000096321106
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.5839999914169312
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5756000280380249
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5347999930381775
+        },
+        {
+          "id": "https://openalex.org/C40212044",
+          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
+          "display_name": "Clay minerals",
+          "level": 2,
+          "score": 0.4733000099658966
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4650999903678894
+        },
+        {
+          "id": "https://openalex.org/C149348798",
+          "wikidata": "https://www.wikidata.org/wiki/Q215915",
+          "display_name": "Upwelling",
+          "level": 2,
+          "score": 0.4650000035762787
+        },
+        {
+          "id": "https://openalex.org/C2777335606",
+          "wikidata": "https://www.wikidata.org/wiki/Q7130787",
+          "display_name": "Silicate",
+          "level": 2,
+          "score": 0.43290001153945923
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.4244000017642975
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.420199990272522
+        },
+        {
+          "id": "https://openalex.org/C94336100",
+          "wikidata": "https://www.wikidata.org/wiki/Q2274700",
+          "display_name": "Organic geochemistry",
+          "level": 4,
+          "score": 0.41999998688697815
+        },
+        {
+          "id": "https://openalex.org/C2776141960",
+          "wikidata": "https://www.wikidata.org/wiki/Q418830",
+          "display_name": "Sterane",
+          "level": 5,
+          "score": 0.37380000948905945
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.36309999227523804
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3467000126838684
+        },
+        {
+          "id": "https://openalex.org/C177921069",
+          "wikidata": "https://www.wikidata.org/wiki/Q13542723",
+          "display_name": "Parent rock",
+          "level": 3,
+          "score": 0.34130001068115234
+        },
+        {
+          "id": "https://openalex.org/C2779196632",
+          "wikidata": "https://www.wikidata.org/wiki/Q938398",
+          "display_name": "Kerogen",
+          "level": 4,
+          "score": 0.33970001339912415
+        },
+        {
+          "id": "https://openalex.org/C2777069839",
+          "wikidata": "https://www.wikidata.org/wiki/Q6028535",
+          "display_name": "Inertinite",
+          "level": 4,
+          "score": 0.33899998664855957
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3084999918937683
+        },
+        {
+          "id": "https://openalex.org/C2776432453",
+          "wikidata": "https://www.wikidata.org/wiki/Q7946",
+          "display_name": "Mineral",
+          "level": 2,
+          "score": 0.30300000309944153
+        },
+        {
+          "id": "https://openalex.org/C2776277684",
+          "wikidata": "https://www.wikidata.org/wiki/Q178977",
+          "display_name": "Silicate minerals",
+          "level": 3,
+          "score": 0.29420000314712524
+        },
+        {
+          "id": "https://openalex.org/C6939412",
+          "wikidata": "https://www.wikidata.org/wiki/Q167751",
+          "display_name": "Carbon cycle",
+          "level": 3,
+          "score": 0.2797999978065491
+        },
+        {
+          "id": "https://openalex.org/C2780049196",
+          "wikidata": "https://www.wikidata.org/wiki/Q23582628",
+          "display_name": "Provenance",
+          "level": 2,
+          "score": 0.2791999876499176
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2773999869823456
+        },
+        {
+          "id": "https://openalex.org/C2780173749",
+          "wikidata": "https://www.wikidata.org/wiki/Q7445310",
+          "display_name": "Sedimentary organic matter",
+          "level": 3,
+          "score": 0.2745000123977661
+        },
+        {
+          "id": "https://openalex.org/C2777101687",
+          "wikidata": "https://www.wikidata.org/wiki/Q3496596",
+          "display_name": "Vitrinite",
+          "level": 3,
+          "score": 0.26089999079704285
+        },
+        {
+          "id": "https://openalex.org/C126457475",
+          "wikidata": "https://www.wikidata.org/wiki/Q12131447",
+          "display_name": "Mineral resource classification",
+          "level": 2,
+          "score": 0.25429999828338623
+        },
+        {
+          "id": "https://openalex.org/C35066162",
+          "wikidata": "https://www.wikidata.org/wiki/Q4914843",
+          "display_name": "Biogenic silica",
+          "level": 3,
+          "score": 0.25040000677108765
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -67011,7 +66547,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67103,7 +66639,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34577768,
+        "value": 0.30077815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67187,8 +66723,298 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.7059000134468079
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rock",
+          "display_name": "Source rock",
+          "score": 0.673799991607666
+        },
+        {
+          "id": "https://openalex.org/keywords/fracture",
+          "display_name": "Fracture (geology)",
+          "score": 0.650600016117096
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.5985000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5543000102043152
+        },
+        {
+          "id": "https://openalex.org/keywords/compaction",
+          "display_name": "Compaction",
+          "score": 0.5248000025749207
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.521399974822998
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-exploration",
+          "display_name": "Hydrocarbon exploration",
+          "score": 0.5212000012397766
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.5005999803543091
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.490200012922287
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8845000267028809
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.7059000134468079
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.673799991607666
+        },
+        {
+          "id": "https://openalex.org/C43369102",
+          "wikidata": "https://www.wikidata.org/wiki/Q2307625",
+          "display_name": "Fracture (geology)",
+          "level": 2,
+          "score": 0.650600016117096
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5985000133514404
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5543000102043152
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.5390999913215637
+        },
+        {
+          "id": "https://openalex.org/C196715460",
+          "wikidata": "https://www.wikidata.org/wiki/Q1414356",
+          "display_name": "Compaction",
+          "level": 2,
+          "score": 0.5248000025749207
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.521399974822998
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.5212000012397766
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.5005999803543091
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.490200012922287
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.45840001106262207
+        },
+        {
+          "id": "https://openalex.org/C133916931",
+          "wikidata": "https://www.wikidata.org/wiki/Q1813872",
+          "display_name": "Stylolite",
+          "level": 3,
+          "score": 0.44620001316070557
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.43880000710487366
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.438400000333786
+        },
+        {
+          "id": "https://openalex.org/C48258643",
+          "wikidata": "https://www.wikidata.org/wiki/Q3694119",
+          "display_name": "Stratigraphic unit",
+          "level": 3,
+          "score": 0.4025000035762787
+        },
+        {
+          "id": "https://openalex.org/C113215200",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Petroleum reservoir",
+          "level": 2,
+          "score": 0.3873000144958496
+        },
+        {
+          "id": "https://openalex.org/C2778887201",
+          "wikidata": "https://www.wikidata.org/wiki/Q3440812",
+          "display_name": "Caprock",
+          "level": 2,
+          "score": 0.3846000134944916
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.376800000667572
+        },
+        {
+          "id": "https://openalex.org/C123677613",
+          "wikidata": "https://www.wikidata.org/wiki/Q542715",
+          "display_name": "Thin section",
+          "level": 2,
+          "score": 0.32260000705718994
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3203999996185303
+        },
+        {
+          "id": "https://openalex.org/C164430837",
+          "wikidata": "https://www.wikidata.org/wiki/Q1191052",
+          "display_name": "Lithification",
+          "level": 3,
+          "score": 0.3190999925136566
+        },
+        {
+          "id": "https://openalex.org/C10277891",
+          "wikidata": "https://www.wikidata.org/wiki/Q596086",
+          "display_name": "Taphonomy",
+          "level": 2,
+          "score": 0.3086000084877014
+        },
+        {
+          "id": "https://openalex.org/C180851071",
+          "wikidata": "https://www.wikidata.org/wiki/Q849953",
+          "display_name": "Subsidence",
+          "level": 3,
+          "score": 0.30489999055862427
+        },
+        {
+          "id": "https://openalex.org/C107385308",
+          "wikidata": "https://www.wikidata.org/wiki/Q43521",
+          "display_name": "Geologic time scale",
+          "level": 3,
+          "score": 0.30000001192092896
+        },
+        {
+          "id": "https://openalex.org/C94556721",
+          "wikidata": "https://www.wikidata.org/wiki/Q189315",
+          "display_name": "Cementation (geology)",
+          "level": 3,
+          "score": 0.2989000082015991
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.2842000126838684
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.2793000042438507
+        },
+        {
+          "id": "https://openalex.org/C155954305",
+          "wikidata": "https://www.wikidata.org/wiki/Q806617",
+          "display_name": "Bed",
+          "level": 3,
+          "score": 0.2736000120639801
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.27129998803138733
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.26429998874664307
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.2630000114440918
+        },
+        {
+          "id": "https://openalex.org/C40724407",
+          "wikidata": "https://www.wikidata.org/wiki/Q179177",
+          "display_name": "Weathering",
+          "level": 2,
+          "score": 0.2515000104904175
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -68051,7 +67877,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68395,7 +68221,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28677344,
+        "value": 0.24259736,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68479,8 +68305,178 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/basalt",
+          "display_name": "Basalt",
+          "score": 0.85589998960495
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralization",
+          "display_name": "Mineralization (soil science)",
+          "score": 0.6621000170707703
+        },
+        {
+          "id": "https://openalex.org/keywords/volcano",
+          "display_name": "Volcano",
+          "score": 0.5866000056266785
+        },
+        {
+          "id": "https://openalex.org/keywords/dissolution",
+          "display_name": "Dissolution",
+          "score": 0.5051000118255615
+        },
+        {
+          "id": "https://openalex.org/keywords/precipitation",
+          "display_name": "Precipitation",
+          "score": 0.42419999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-sequestration",
+          "display_name": "Carbon sequestration",
+          "score": 0.4108000099658966
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.37139999866485596
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C161509811",
+          "wikidata": "https://www.wikidata.org/wiki/Q43338",
+          "display_name": "Basalt",
+          "level": 2,
+          "score": 0.85589998960495
+        },
+        {
+          "id": "https://openalex.org/C111696902",
+          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
+          "display_name": "Mineralization (soil science)",
+          "level": 3,
+          "score": 0.6621000170707703
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5914999842643738
+        },
+        {
+          "id": "https://openalex.org/C120806208",
+          "wikidata": "https://www.wikidata.org/wiki/Q8072",
+          "display_name": "Volcano",
+          "level": 2,
+          "score": 0.5866000056266785
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5238000154495239
+        },
+        {
+          "id": "https://openalex.org/C88380143",
+          "wikidata": "https://www.wikidata.org/wiki/Q416674",
+          "display_name": "Dissolution",
+          "level": 2,
+          "score": 0.5051000118255615
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.4307999908924103
+        },
+        {
+          "id": "https://openalex.org/C107054158",
+          "wikidata": "https://www.wikidata.org/wiki/Q25257",
+          "display_name": "Precipitation",
+          "level": 2,
+          "score": 0.42419999837875366
+        },
+        {
+          "id": "https://openalex.org/C22884784",
+          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
+          "display_name": "Carbon sequestration",
+          "level": 3,
+          "score": 0.4108000099658966
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.37139999866485596
+        },
+        {
+          "id": "https://openalex.org/C192241223",
+          "wikidata": "https://www.wikidata.org/wiki/Q108689",
+          "display_name": "Volcanic rock",
+          "level": 3,
+          "score": 0.3569999933242798
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.3384000062942505
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3160000145435333
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.28529998660087585
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.2815000116825104
+        },
+        {
+          "id": "https://openalex.org/C143050476",
+          "wikidata": "https://www.wikidata.org/wiki/Q194502",
+          "display_name": "Sink (geography)",
+          "level": 2,
+          "score": 0.27570000290870667
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.27309998869895935
+        },
+        {
+          "id": "https://openalex.org/C530467964",
+          "wikidata": "https://www.wikidata.org/wiki/Q1997",
+          "display_name": "Carbon dioxide",
+          "level": 2,
+          "score": 0.2646999955177307
+        },
+        {
+          "id": "https://openalex.org/C149677717",
+          "wikidata": "https://www.wikidata.org/wiki/Q5611523",
+          "display_name": "Carbon sink",
+          "level": 3,
+          "score": 0.26089999079704285
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -69205,7 +69201,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69518,7 +69514,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40727593,
+        "value": 0.35691599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69602,8 +69598,211 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.7839000225067139
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.7311999797821045
+        },
+        {
+          "id": "https://openalex.org/keywords/marl",
+          "display_name": "Marl",
+          "score": 0.6287000179290771
+        },
+        {
+          "id": "https://openalex.org/keywords/bedding",
+          "display_name": "Bedding",
+          "score": 0.553600013256073
+        },
+        {
+          "id": "https://openalex.org/keywords/combustion",
+          "display_name": "Combustion",
+          "score": 0.5515000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "Total organic carbon",
+          "score": 0.49390000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter",
+          "display_name": "Organic matter",
+          "score": 0.47679999470710754
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.44029998779296875
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7949000000953674
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.7839000225067139
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.7311999797821045
+        },
+        {
+          "id": "https://openalex.org/C92927620",
+          "wikidata": "https://www.wikidata.org/wiki/Q184053",
+          "display_name": "Marl",
+          "level": 3,
+          "score": 0.6287000179290771
+        },
+        {
+          "id": "https://openalex.org/C2777232088",
+          "wikidata": "https://www.wikidata.org/wiki/Q12345567",
+          "display_name": "Bedding",
+          "level": 2,
+          "score": 0.553600013256073
+        },
+        {
+          "id": "https://openalex.org/C105923489",
+          "wikidata": "https://www.wikidata.org/wiki/Q133235",
+          "display_name": "Combustion",
+          "level": 2,
+          "score": 0.5515000224113464
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5498999953269958
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.49390000104904175
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4925000071525574
+        },
+        {
+          "id": "https://openalex.org/C48743137",
+          "wikidata": "https://www.wikidata.org/wiki/Q1783121",
+          "display_name": "Organic matter",
+          "level": 2,
+          "score": 0.47679999470710754
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.44029998779296875
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.4214000105857849
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.38769999146461487
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.3262999951839447
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.32269999384880066
+        },
+        {
+          "id": "https://openalex.org/C155954305",
+          "wikidata": "https://www.wikidata.org/wiki/Q806617",
+          "display_name": "Bed",
+          "level": 3,
+          "score": 0.3061999976634979
+        },
+        {
+          "id": "https://openalex.org/C36759035",
+          "wikidata": "https://www.wikidata.org/wiki/Q176848",
+          "display_name": "Pyrolysis",
+          "level": 2,
+          "score": 0.2777000069618225
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.2775000035762787
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.26759999990463257
+        },
+        {
+          "id": "https://openalex.org/C516920438",
+          "wikidata": "https://www.wikidata.org/wiki/Q37129",
+          "display_name": "Methane",
+          "level": 2,
+          "score": 0.2590000033378601
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.25839999318122864
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.25600001215934753
+        },
+        {
+          "id": "https://openalex.org/C18555067",
+          "wikidata": "https://www.wikidata.org/wiki/Q8375051",
+          "display_name": "Joint (building)",
+          "level": 2,
+          "score": 0.25519999861717224
+        }
+      ],
       "mesh": [],
       "locations_count": 4,
       "locations": [
@@ -70433,7 +70632,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-16T00:00:00"
     },
     {
@@ -70628,7 +70827,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36070882,
+        "value": 0.35565392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70712,8 +70911,204 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/pulmonary-surfactant",
+          "display_name": "Pulmonary surfactant",
+          "score": 0.7644000053405762
+        },
+        {
+          "id": "https://openalex.org/keywords/portlandite",
+          "display_name": "Portlandite",
+          "score": 0.7534999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.7330999970436096
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonation",
+          "display_name": "Carbonation",
+          "score": 0.6700000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralization",
+          "display_name": "Mineralization (soil science)",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.49459999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/zeta-potential",
+          "display_name": "Zeta potential",
+          "score": 0.48980000615119934
+        },
+        {
+          "id": "https://openalex.org/keywords/particle-size",
+          "display_name": "Particle size",
+          "score": 0.3991999924182892
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C58226133",
+          "wikidata": "https://www.wikidata.org/wiki/Q1324199",
+          "display_name": "Pulmonary surfactant",
+          "level": 2,
+          "score": 0.7644000053405762
+        },
+        {
+          "id": "https://openalex.org/C2775899781",
+          "wikidata": "https://www.wikidata.org/wiki/Q301805",
+          "display_name": "Portlandite",
+          "level": 4,
+          "score": 0.7534999847412109
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.7330999970436096
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.6886000037193298
+        },
+        {
+          "id": "https://openalex.org/C120809312",
+          "wikidata": "https://www.wikidata.org/wiki/Q2139722",
+          "display_name": "Carbonation",
+          "level": 2,
+          "score": 0.6700000166893005
+        },
+        {
+          "id": "https://openalex.org/C111696902",
+          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
+          "display_name": "Mineralization (soil science)",
+          "level": 3,
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.6062999963760376
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.49459999799728394
+        },
+        {
+          "id": "https://openalex.org/C86181022",
+          "wikidata": "https://www.wikidata.org/wiki/Q196823",
+          "display_name": "Zeta potential",
+          "level": 3,
+          "score": 0.48980000615119934
+        },
+        {
+          "id": "https://openalex.org/C187530423",
+          "wikidata": "https://www.wikidata.org/wiki/Q7140503",
+          "display_name": "Particle size",
+          "level": 2,
+          "score": 0.3991999924182892
+        },
+        {
+          "id": "https://openalex.org/C59061564",
+          "wikidata": "https://www.wikidata.org/wiki/Q7783071",
+          "display_name": "Thermal stability",
+          "level": 2,
+          "score": 0.3950999975204468
+        },
+        {
+          "id": "https://openalex.org/C134121241",
+          "wikidata": "https://www.wikidata.org/wiki/Q899301",
+          "display_name": "Yield (engineering)",
+          "level": 2,
+          "score": 0.3822999894618988
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.37380000948905945
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.34200000762939453
+        },
+        {
+          "id": "https://openalex.org/C2775896084",
+          "wikidata": "https://www.wikidata.org/wiki/Q425597",
+          "display_name": "Hydroxide",
+          "level": 2,
+          "score": 0.33629998564720154
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.32739999890327454
+        },
+        {
+          "id": "https://openalex.org/C150581940",
+          "wikidata": "https://www.wikidata.org/wiki/Q622205",
+          "display_name": "Specific surface area",
+          "level": 3,
+          "score": 0.2870999872684479
+        },
+        {
+          "id": "https://openalex.org/C530467964",
+          "wikidata": "https://www.wikidata.org/wiki/Q1997",
+          "display_name": "Carbon dioxide",
+          "level": 2,
+          "score": 0.2865999937057495
+        },
+        {
+          "id": "https://openalex.org/C2775865663",
+          "wikidata": "https://www.wikidata.org/wiki/Q7247687",
+          "display_name": "Produced water",
+          "level": 2,
+          "score": 0.2827000021934509
+        },
+        {
+          "id": "https://openalex.org/C2780358262",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540423",
+          "display_name": "Surface charge",
+          "level": 2,
+          "score": 0.27559998631477356
+        },
+        {
+          "id": "https://openalex.org/C2778039128",
+          "wikidata": "https://www.wikidata.org/wiki/Q23767",
+          "display_name": "Calcium carbonate",
+          "level": 2,
+          "score": 0.2727999985218048
+        },
+        {
+          "id": "https://openalex.org/C44280652",
+          "wikidata": "https://www.wikidata.org/wiki/Q104837",
+          "display_name": "Phase (matter)",
+          "level": 2,
+          "score": 0.26829999685287476
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -70824,7 +71219,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-11-17T00:00:00"
     }
   ]

@@ -6186,11 +6186,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.7433,
+      "fwci": 2.7331,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.91484185,
+        "value": 0.91455901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6277,8 +6277,305 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/source-rock",
+          "display_name": "Source rock",
+          "score": 0.6729999780654907
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-system",
+          "display_name": "Petroleum system",
+          "score": 0.6092000007629395
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.5651999711990356
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum",
+          "display_name": "Petroleum",
+          "score": 0.5633000135421753
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-reservoir",
+          "display_name": "Petroleum reservoir",
+          "score": 0.551800012588501
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-exploration",
+          "display_name": "Hydrocarbon exploration",
+          "score": 0.5307999849319458
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.5109000205993652
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-geology",
+          "display_name": "Petroleum geology",
+          "score": 0.4481000006198883
+        },
+        {
+          "id": "https://openalex.org/keywords/unconventional-oil",
+          "display_name": "Unconventional oil",
+          "score": 0.40230000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral-resource-classification",
+          "display_name": "Mineral resource classification",
+          "score": 0.4009999930858612
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8871999979019165
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.6729999780654907
+        },
+        {
+          "id": "https://openalex.org/C2994245585",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Petroleum system",
+          "level": 4,
+          "score": 0.6092000007629395
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5651999711990356
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.5633000135421753
+        },
+        {
+          "id": "https://openalex.org/C113215200",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Petroleum reservoir",
+          "level": 2,
+          "score": 0.551800012588501
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.5307999849319458
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.5109000205993652
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4812000095844269
+        },
+        {
+          "id": "https://openalex.org/C128777474",
+          "wikidata": "https://www.wikidata.org/wiki/Q1048416",
+          "display_name": "Petroleum geology",
+          "level": 3,
+          "score": 0.4481000006198883
+        },
+        {
+          "id": "https://openalex.org/C24345647",
+          "wikidata": "https://www.wikidata.org/wiki/Q1147488",
+          "display_name": "Unconventional oil",
+          "level": 3,
+          "score": 0.40230000019073486
+        },
+        {
+          "id": "https://openalex.org/C126457475",
+          "wikidata": "https://www.wikidata.org/wiki/Q12131447",
+          "display_name": "Mineral resource classification",
+          "level": 2,
+          "score": 0.4009999930858612
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3986000120639801
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.38190001249313354
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.37229999899864197
+        },
+        {
+          "id": "https://openalex.org/C107385308",
+          "wikidata": "https://www.wikidata.org/wiki/Q43521",
+          "display_name": "Geologic time scale",
+          "level": 3,
+          "score": 0.367900013923645
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.3513000011444092
+        },
+        {
+          "id": "https://openalex.org/C187930136",
+          "wikidata": "https://www.wikidata.org/wiki/Q4867503",
+          "display_name": "Basin modelling",
+          "level": 4,
+          "score": 0.3483000099658966
+        },
+        {
+          "id": "https://openalex.org/C206345919",
+          "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+          "display_name": "Resource (disambiguation)",
+          "level": 2,
+          "score": 0.3384000062942505
+        },
+        {
+          "id": "https://openalex.org/C200646496",
+          "wikidata": "https://www.wikidata.org/wiki/Q785020",
+          "display_name": "Sedimentary basin",
+          "level": 3,
+          "score": 0.33809998631477356
+        },
+        {
+          "id": "https://openalex.org/C78641617",
+          "wikidata": "https://www.wikidata.org/wiki/Q45734",
+          "display_name": "Tight oil",
+          "level": 3,
+          "score": 0.33629998564720154
+        },
+        {
+          "id": "https://openalex.org/C149137386",
+          "wikidata": "https://www.wikidata.org/wiki/Q1502822",
+          "display_name": "Geobiology",
+          "level": 5,
+          "score": 0.32749998569488525
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.3151000142097473
+        },
+        {
+          "id": "https://openalex.org/C179158327",
+          "wikidata": "https://www.wikidata.org/wiki/Q52151",
+          "display_name": "Palaeogeography",
+          "level": 4,
+          "score": 0.295199990272522
+        },
+        {
+          "id": "https://openalex.org/C2994066282",
+          "wikidata": "https://www.wikidata.org/wiki/Q1500431",
+          "display_name": "Seismic survey",
+          "level": 2,
+          "score": 0.2944999933242798
+        },
+        {
+          "id": "https://openalex.org/C526740375",
+          "wikidata": "https://www.wikidata.org/wiki/Q862571",
+          "display_name": "Petroleum industry",
+          "level": 2,
+          "score": 0.2930000126361847
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.2874999940395355
+        },
+        {
+          "id": "https://openalex.org/C2982719155",
+          "wikidata": "https://www.wikidata.org/wiki/Q25584060",
+          "display_name": "Energy source",
+          "level": 3,
+          "score": 0.2775999903678894
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.2711000144481659
+        },
+        {
+          "id": "https://openalex.org/C35817400",
+          "wikidata": "https://www.wikidata.org/wiki/Q2383566",
+          "display_name": "Well logging",
+          "level": 2,
+          "score": 0.2703999876976013
+        },
+        {
+          "id": "https://openalex.org/C2985768699",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Petroleum exploration",
+          "level": 3,
+          "score": 0.2702000141143799
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.2635999917984009
+        },
+        {
+          "id": "https://openalex.org/C170152797",
+          "wikidata": "https://www.wikidata.org/wiki/Q2348608",
+          "display_name": "Environmental geology",
+          "level": 4,
+          "score": 0.26030001044273376
+        },
+        {
+          "id": "https://openalex.org/C175181221",
+          "wikidata": "https://www.wikidata.org/wiki/Q1650350",
+          "display_name": "Prospecting",
+          "level": 2,
+          "score": 0.25929999351501465
+        },
+        {
+          "id": "https://openalex.org/C121099081",
+          "wikidata": "https://www.wikidata.org/wiki/Q665580",
+          "display_name": "Trap (plumbing)",
+          "level": 2,
+          "score": 0.2574000060558319
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -6456,7 +6753,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6732,11 +7029,11 @@
         "currency": "USD",
         "value_usd": 900
       },
-      "fwci": 2.0255,
+      "fwci": 2.0142,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.87804188,
+        "value": 0.87720787,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7198,601 +7495,7 @@
         "https://openalex.org/W2514668757",
         "https://openalex.org/W4365447269"
       ],
-      "abstract_inverted_index": {
-        "Field-based": [
-          0
-        ],
-        "high-resolution": [
-          1,
-          49,
-          220
-        ],
-        "carbonate": [
-          2,
-          50,
-          58,
-          216,
-          221,
-          232,
-          240
-        ],
-        "facies": [
-          3,
-          222
-        ],
-        "mapping": [
-          4,
-          52,
-          242
-        ],
-        "is": [
-          5,
-          194
-        ],
-        "often": [
-          6
-        ],
-        "challenging": [
-          7
-        ],
-        "due": [
-          8
-        ],
-        "to": [
-          9,
-          47,
-          101,
-          230
-        ],
-        "the": [
-          10,
-          55,
-          68,
-          94,
-          114,
-          120,
-          123,
-          156,
-          244
-        ],
-        "limited": [
-          11
-        ],
-        "accessible": [
-          12
-        ],
-        "exposure,": [
-          13
-        ],
-        "high-degree": [
-          14
-        ],
-        "of": [
-          15,
-          19,
-          78,
-          126,
-          137,
-          142,
-          158,
-          161,
-          191,
-          201
-        ],
-        "heterogeneity,": [
-          16
-        ],
-        "and": [
-          17,
-          44,
-          53,
-          89,
-          103,
-          110,
-          167,
-          177,
-          218,
-          235
-        ],
-        "lack": [
-          18
-        ],
-        "distinct": [
-          20
-        ],
-        "natural": [
-          21
-        ],
-        "characteristics": [
-          22
-        ],
-        "between": [
-          23
-        ],
-        "different": [
-          24,
-          105,
-          215
-        ],
-        "lithofacies.": [
-          25
-        ],
-        "To": [
-          26
-        ],
-        "mitigate": [
-          27
-        ],
-        "this": [
-          28,
-          66
-        ],
-        "issue,": [
-          29
-        ],
-        "we": [
-          30
-        ],
-        "proposed": [
-          31,
-          97,
-          225
-        ],
-        "a": [
-          32,
-          175,
-          198
-        ],
-        "novel": [
-          33
-        ],
-        "approach": [
-          34,
-          210,
-          226
-        ],
-        "by": [
-          35,
-          150
-        ],
-        "integrating": [
-          36
-        ],
-        "multispectral": [
-          37,
-          207
-        ],
-        "remote": [
-          38,
-          208
-        ],
-        "sensing,": [
-          39
-        ],
-        "advanced": [
-          40
-        ],
-        "image": [
-          41
-        ],
-        "processing": [
-          42
-        ],
-        "techniques,": [
-          43
-        ],
-        "supervised": [
-          45
-        ],
-        "classification": [
-          46
-        ],
-        "perform": [
-          48
-        ],
-        "lithofacies": [
-          51,
-          112,
-          179,
-          193,
-          241
-        ],
-        "utilized": [
-          54
-        ],
-        "extensive": [
-          56
-        ],
-        "Mesozoic": [
-          57
-        ],
-        "in": [
-          59,
-          93,
-          113,
-          174,
-          238
-        ],
-        "Saudi": [
-          60
-        ],
-        "Arabia": [
-          61
-        ],
-        "as": [
-          62,
-          87
-        ],
-        "an": [
-          63
-        ],
-        "example.": [
-          64
-        ],
-        "For": [
-          65
-        ],
-        "study,": [
-          67
-        ],
-        "Tuwaiq": [
-          69
-        ],
-        "Mountain": [
-          70
-        ],
-        "Formation": [
-          71
-        ],
-        "(TMF)": [
-          72
-        ],
-        "was": [
-          73,
-          99
-        ],
-        "selected": [
-          74
-        ],
-        "not": [
-          75,
-          247
-        ],
-        "only": [
-          76
-        ],
-        "because": [
-          77
-        ],
-        "its": [
-          79,
-          85
-        ],
-        "wide": [
-          80
-        ],
-        "aerial": [
-          81
-        ],
-        "distribution": [
-          82
-        ],
-        "but": [
-          83
-        ],
-        "also": [
-          84
-        ],
-        "importance": [
-          86
-        ],
-        "conventional": [
-          88
-        ],
-        "unconventional": [
-          90
-        ],
-        "hydrocarbon": [
-          91
-        ],
-        "reservoirs": [
-          92
-        ],
-        "subsurface.": [
-          95
-        ],
-        "Our": [
-          96
-        ],
-        "method": [
-          98
-        ],
-        "able": [
-          100
-        ],
-        "map": [
-          102,
-          180
-        ],
-        "delineate": [
-          104
-        ],
-        "members": [
-          106
-        ],
-        "(T1,": [
-          107
-        ],
-        "T2,": [
-          108
-        ],
-        "T3)": [
-          109
-        ],
-        "key": [
-          111
-        ],
-        "TMF.": [
-          115
-        ],
-        "In": [
-          116
-        ],
-        "addition,": [
-          117
-        ],
-        "based": [
-          118
-        ],
-        "on": [
-          119
-        ],
-        "spectral": [
-          121
-        ],
-        "characteristics,": [
-          122
-        ],
-        "middle": [
-          124
-        ],
-        "member": [
-          125
-        ],
-        "TMF": [
-          127,
-          192
-        ],
-        "(T2)": [
-          128
-        ],
-        "can": [
-          129
-        ],
-        "be": [
-          130,
-          228
-        ],
-        "further": [
-          131,
-          148
-        ],
-        "subdivided": [
-          132
-        ],
-        "into": [
-          133
-        ],
-        "two": [
-          134,
-          159
-        ],
-        "subunits": [
-          135
-        ],
-        "(T2-a": [
-          136
-        ],
-        "higher": [
-          138
-        ],
-        "reflectance": [
-          139
-        ],
-        "&": [
-          140
-        ],
-        "T2-b": [
-          141
-        ],
-        "lower": [
-          143
-        ],
-        "reflectance).": [
-          144
-        ],
-        "These": [
-          145
-        ],
-        "findings": [
-          146
-        ],
-        "are": [
-          147,
-          211,
-          246
-        ],
-        "corroborated": [
-          149
-        ],
-        "detailed": [
-          151
-        ],
-        "microfacies": [
-          152
-        ],
-        "analysis,": [
-          153
-        ],
-        "which": [
-          154
-        ],
-        "validates": [
-          155
-        ],
-        "presence": [
-          157
-        ],
-        "sub-members": [
-          160
-        ],
-        "T2": [
-          162
-        ],
-        "(T2-a:": [
-          163
-        ],
-        "Spiculitic": [
-          164
-        ],
-        "foraminiferal": [
-          165
-        ],
-        "wackestone": [
-          166
-        ],
-        "T2-b:": [
-          168
-        ],
-        "Coralline": [
-          169
-        ],
-        "floatstone": [
-          170
-        ],
-        "facies).": [
-          171
-        ],
-        "This": [
-          172,
-          203
-        ],
-        "resulted": [
-          173
-        ],
-        "revised": [
-          176
-        ],
-        "accurate": [
-          178
-        ],
-        "that": [
-          181,
-          206
-        ],
-        "made": [
-          182
-        ],
-        "significant": [
-          183
-        ],
-        "modifications": [
-          184
-        ],
-        "over": [
-          185
-        ],
-        "older": [
-          186
-        ],
-        "maps.": [
-          187,
-          223
-        ],
-        "The": [
-          188,
-          224
-        ],
-        "overall": [
-          189
-        ],
-        "accuracy": [
-          190
-        ],
-        "93.4": [
-          195
-        ],
-        "%": [
-          196
-        ],
-        "with": [
-          197
-        ],
-        "kappa": [
-          199
-        ],
-        "coefficient": [
-          200
-        ],
-        "0.88.": [
-          202
-        ],
-        "study": [
-          204
-        ],
-        "demonstrates": [
-          205
-        ],
-        "sensing": [
-          209
-        ],
-        "effective": [
-          212
-        ],
-        "at": [
-          213
-        ],
-        "distinguishing": [
-          214
-        ],
-        "units": [
-          217
-        ],
-        "providing": [
-          219
-        ],
-        "should": [
-          227
-        ],
-        "applicable": [
-          229
-        ],
-        "other": [
-          231
-        ],
-        "outcrops": [
-          233,
-          245
-        ],
-        "globally": [
-          234
-        ],
-        "could": [
-          236
-        ],
-        "help": [
-          237
-        ],
-        "improving": [
-          239
-        ],
-        "where": [
-          243
-        ],
-        "accessible.": [
-          248
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -7803,7 +7506,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25542,7 +25245,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14412518,
+        "value": 0.13539452,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25626,8 +25329,244 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/hyperspectral-imaging",
+          "display_name": "Hyperspectral imaging",
+          "score": 0.8914999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/endmember",
+          "display_name": "Endmember",
+          "score": 0.8906999826431274
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5309000015258789
+        },
+        {
+          "id": "https://openalex.org/keywords/spectroradiometer",
+          "display_name": "Spectroradiometer",
+          "score": 0.47859999537467957
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral",
+          "display_name": "Mineral",
+          "score": 0.46369999647140503
+        },
+        {
+          "id": "https://openalex.org/keywords/near-infrared-spectroscopy",
+          "display_name": "Near-infrared spectroscopy",
+          "score": 0.44179999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/spectral-signature",
+          "display_name": "Spectral signature",
+          "score": 0.3874000012874603
+        },
+        {
+          "id": "https://openalex.org/keywords/wavelength",
+          "display_name": "Wavelength",
+          "score": 0.38109999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/pixel",
+          "display_name": "Pixel",
+          "score": 0.3799000084400177
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C159078339",
+          "wikidata": "https://www.wikidata.org/wiki/Q959005",
+          "display_name": "Hyperspectral imaging",
+          "level": 2,
+          "score": 0.8914999961853027
+        },
+        {
+          "id": "https://openalex.org/C58237817",
+          "wikidata": "https://www.wikidata.org/wiki/Q5376204",
+          "display_name": "Endmember",
+          "level": 3,
+          "score": 0.8906999826431274
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5906999707221985
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.5432000160217285
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5309000015258789
+        },
+        {
+          "id": "https://openalex.org/C130066347",
+          "wikidata": "https://www.wikidata.org/wiki/Q680509",
+          "display_name": "Spectroradiometer",
+          "level": 3,
+          "score": 0.47859999537467957
+        },
+        {
+          "id": "https://openalex.org/C2776432453",
+          "wikidata": "https://www.wikidata.org/wiki/Q7946",
+          "display_name": "Mineral",
+          "level": 2,
+          "score": 0.46369999647140503
+        },
+        {
+          "id": "https://openalex.org/C43571822",
+          "wikidata": "https://www.wikidata.org/wiki/Q599037",
+          "display_name": "Near-infrared spectroscopy",
+          "level": 2,
+          "score": 0.44179999828338623
+        },
+        {
+          "id": "https://openalex.org/C176641082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2446767",
+          "display_name": "Spectral signature",
+          "level": 2,
+          "score": 0.3874000012874603
+        },
+        {
+          "id": "https://openalex.org/C6260449",
+          "wikidata": "https://www.wikidata.org/wiki/Q41364",
+          "display_name": "Wavelength",
+          "level": 2,
+          "score": 0.38109999895095825
+        },
+        {
+          "id": "https://openalex.org/C160633673",
+          "wikidata": "https://www.wikidata.org/wiki/Q355198",
+          "display_name": "Pixel",
+          "level": 2,
+          "score": 0.3799000084400177
+        },
+        {
+          "id": "https://openalex.org/C4839761",
+          "wikidata": "https://www.wikidata.org/wiki/Q212111",
+          "display_name": "Spectral line",
+          "level": 2,
+          "score": 0.37400001287460327
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.36010000109672546
+        },
+        {
+          "id": "https://openalex.org/C158355884",
+          "wikidata": "https://www.wikidata.org/wiki/Q11388",
+          "display_name": "Infrared",
+          "level": 2,
+          "score": 0.3508000075817108
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.34380000829696655
+        },
+        {
+          "id": "https://openalex.org/C118530786",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134732",
+          "display_name": "Instrumentation (computer programming)",
+          "level": 2,
+          "score": 0.311599999666214
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.2992999851703644
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.2985999882221222
+        },
+        {
+          "id": "https://openalex.org/C83260615",
+          "wikidata": "https://www.wikidata.org/wiki/Q6773121",
+          "display_name": "Mars Exploration Program",
+          "level": 2,
+          "score": 0.28290000557899475
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.2732999920845032
+        },
+        {
+          "id": "https://openalex.org/C77077793",
+          "wikidata": "https://www.wikidata.org/wiki/Q336019",
+          "display_name": "Abundance (ecology)",
+          "level": 2,
+          "score": 0.2709999978542328
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.2705000042915344
+        },
+        {
+          "id": "https://openalex.org/C165838908",
+          "wikidata": "https://www.wikidata.org/wiki/Q736777",
+          "display_name": "Calibration",
+          "level": 2,
+          "score": 0.2687999904155731
+        },
+        {
+          "id": "https://openalex.org/C113196181",
+          "wikidata": "https://www.wikidata.org/wiki/Q485223",
+          "display_name": "Analytical Chemistry (journal)",
+          "level": 2,
+          "score": 0.2662999927997589
+        },
+        {
+          "id": "https://openalex.org/C158479148",
+          "wikidata": "https://www.wikidata.org/wiki/Q609991",
+          "display_name": "Imaging spectroscopy",
+          "level": 3,
+          "score": 0.26269999146461487
+        },
+        {
+          "id": "https://openalex.org/C32891209",
+          "wikidata": "https://www.wikidata.org/wiki/Q483666",
+          "display_name": "Spectroscopy",
+          "level": 2,
+          "score": 0.25369998812675476
+        },
+        {
+          "id": "https://openalex.org/C40212044",
+          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
+          "display_name": "Clay minerals",
+          "level": 2,
+          "score": 0.25110000371932983
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -26276,7 +26215,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26476,7 +26415,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14546654,
+        "value": 0.13665299,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26560,8 +26499,244 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.7502999901771545
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralization",
+          "display_name": "Mineralization (soil science)",
+          "score": 0.617900013923645
+        },
+        {
+          "id": "https://openalex.org/keywords/dolostone",
+          "display_name": "Dolostone",
+          "score": 0.5794000029563904
+        },
+        {
+          "id": "https://openalex.org/keywords/stable-isotope-ratio",
+          "display_name": "Stable isotope ratio",
+          "score": 0.5343000292778015
+        },
+        {
+          "id": "https://openalex.org/keywords/isotope",
+          "display_name": "Isotope",
+          "score": 0.5257999897003174
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-carbon",
+          "display_name": "Isotopes of carbon",
+          "score": 0.5026000142097473
+        },
+        {
+          "id": "https://openalex.org/keywords/isotope-geochemistry",
+          "display_name": "Isotope geochemistry",
+          "score": 0.5016000270843506
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.4781999886035919
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopic-signature",
+          "display_name": "Isotopic signature",
+          "score": 0.3953999876976013
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8571000099182129
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.7502999901771545
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.7368999719619751
+        },
+        {
+          "id": "https://openalex.org/C111696902",
+          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
+          "display_name": "Mineralization (soil science)",
+          "level": 3,
+          "score": 0.617900013923645
+        },
+        {
+          "id": "https://openalex.org/C2778537970",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134814",
+          "display_name": "Dolostone",
+          "level": 4,
+          "score": 0.5794000029563904
+        },
+        {
+          "id": "https://openalex.org/C22117777",
+          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
+          "display_name": "Stable isotope ratio",
+          "level": 2,
+          "score": 0.5343000292778015
+        },
+        {
+          "id": "https://openalex.org/C164304813",
+          "wikidata": "https://www.wikidata.org/wiki/Q25276",
+          "display_name": "Isotope",
+          "level": 2,
+          "score": 0.5257999897003174
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.5026000142097473
+        },
+        {
+          "id": "https://openalex.org/C165349299",
+          "wikidata": "https://www.wikidata.org/wiki/Q1674549",
+          "display_name": "Isotope geochemistry",
+          "level": 3,
+          "score": 0.5016000270843506
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.4781999886035919
+        },
+        {
+          "id": "https://openalex.org/C146458902",
+          "wikidata": "https://www.wikidata.org/wiki/Q905807",
+          "display_name": "Isotopic signature",
+          "level": 3,
+          "score": 0.3953999876976013
+        },
+        {
+          "id": "https://openalex.org/C71468253",
+          "wikidata": "https://www.wikidata.org/wiki/Q785643",
+          "display_name": "Isotopes of oxygen",
+          "level": 2,
+          "score": 0.3781000077724457
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.37059998512268066
+        },
+        {
+          "id": "https://openalex.org/C150999391",
+          "wikidata": "https://www.wikidata.org/wiki/Q509037",
+          "display_name": "Terrane",
+          "level": 3,
+          "score": 0.36910000443458557
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.365200012922287
+        },
+        {
+          "id": "https://openalex.org/C2776432453",
+          "wikidata": "https://www.wikidata.org/wiki/Q7946",
+          "display_name": "Mineral",
+          "level": 2,
+          "score": 0.35440000891685486
+        },
+        {
+          "id": "https://openalex.org/C66264921",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mineral exploration",
+          "level": 2,
+          "score": 0.35409998893737793
+        },
+        {
+          "id": "https://openalex.org/C51813073",
+          "wikidata": "https://www.wikidata.org/wiki/Q518459",
+          "display_name": "Isotope analysis",
+          "level": 2,
+          "score": 0.35260000824928284
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.3375000059604645
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.31839999556541443
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.30160000920295715
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.28299999237060547
+        },
+        {
+          "id": "https://openalex.org/C57016615",
+          "wikidata": "https://www.wikidata.org/wiki/Q2750292",
+          "display_name": "Radiogenic nuclide",
+          "level": 3,
+          "score": 0.28279998898506165
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2694000005722046
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.26460000872612
+        },
+        {
+          "id": "https://openalex.org/C2779334269",
+          "wikidata": "https://www.wikidata.org/wiki/Q3080293",
+          "display_name": "Isotope fractionation",
+          "level": 3,
+          "score": 0.2583000063896179
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.2572999894618988
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -27320,7 +27495,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27562,7 +27737,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1210956,
+        "value": 0.11453271,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27646,8 +27821,237 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dolomite",
+          "display_name": "Dolomite",
+          "score": 0.9027000069618225
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.7910000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.6891000270843506
+        },
+        {
+          "id": "https://openalex.org/keywords/seawater",
+          "display_name": "Seawater",
+          "score": 0.5777999758720398
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-element",
+          "display_name": "Trace element",
+          "score": 0.4772000014781952
+        },
+        {
+          "id": "https://openalex.org/keywords/pyrite",
+          "display_name": "Pyrite",
+          "score": 0.4749999940395355
+        },
+        {
+          "id": "https://openalex.org/keywords/deposition",
+          "display_name": "Deposition (geology)",
+          "score": 0.44940000772476196
+        },
+        {
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "Dolomitization",
+          "score": 0.39010000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.37940001487731934
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.9027000069618225
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.7910000085830688
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.777899980545044
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6891000270843506
+        },
+        {
+          "id": "https://openalex.org/C197248824",
+          "wikidata": "https://www.wikidata.org/wiki/Q184395",
+          "display_name": "Seawater",
+          "level": 2,
+          "score": 0.5777999758720398
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.536899983882904
+        },
+        {
+          "id": "https://openalex.org/C34682378",
+          "wikidata": "https://www.wikidata.org/wiki/Q351792",
+          "display_name": "Trace element",
+          "level": 2,
+          "score": 0.4772000014781952
+        },
+        {
+          "id": "https://openalex.org/C2776062231",
+          "wikidata": "https://www.wikidata.org/wiki/Q50769",
+          "display_name": "Pyrite",
+          "level": 2,
+          "score": 0.4749999940395355
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.44940000772476196
+        },
+        {
+          "id": "https://openalex.org/C63662990",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
+          "display_name": "Dolomitization",
+          "level": 4,
+          "score": 0.39010000228881836
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.37940001487731934
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.35089999437332153
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.3456999957561493
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.3422999978065491
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.3366999924182892
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.335099995136261
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.3199000060558319
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.29840001463890076
+        },
+        {
+          "id": "https://openalex.org/C186348155",
+          "wikidata": "https://www.wikidata.org/wiki/Q7975538",
+          "display_name": "Waves and shallow water",
+          "level": 2,
+          "score": 0.2955999970436096
+        },
+        {
+          "id": "https://openalex.org/C22117777",
+          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
+          "display_name": "Stable isotope ratio",
+          "level": 2,
+          "score": 0.29109999537467957
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.2840000092983246
+        },
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.2822999954223633
+        },
+        {
+          "id": "https://openalex.org/C157954998",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501943",
+          "display_name": "Turbidite",
+          "level": 3,
+          "score": 0.2802000045776367
+        },
+        {
+          "id": "https://openalex.org/C167570900",
+          "wikidata": "https://www.wikidata.org/wiki/Q101313",
+          "display_name": "Phanerozoic",
+          "level": 4,
+          "score": 0.26260000467300415
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.2624000012874603
+        },
+        {
+          "id": "https://openalex.org/C140345934",
+          "wikidata": "https://www.wikidata.org/wiki/Q25445",
+          "display_name": "Holocene",
+          "level": 2,
+          "score": 0.25870001316070557
+        }
+      ],
       "mesh": [],
       "locations_count": 2,
       "locations": [
@@ -28608,7 +29012,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-01-10T23:39:48.068659",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29008,7 +29412,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1438728,
+        "value": 0.14244549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29092,8 +29496,157 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "Foraminifera",
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-zone",
+          "display_name": "Benthic zone",
+          "score": 0.8310999870300293
+        },
+        {
+          "id": "https://openalex.org/keywords/plankton",
+          "display_name": "Plankton",
+          "score": 0.7172999978065491
+        },
+        {
+          "id": "https://openalex.org/keywords/dominance",
+          "display_name": "Dominance (genetics)",
+          "score": 0.5130000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-carbon",
+          "display_name": "Isotopes of carbon",
+          "score": 0.46160000562667847
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.45339998602867126
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-oxygen",
+          "display_name": "Isotopes of oxygen",
+          "score": 0.4325000047683716
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.8310999870300293
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7911999821662903
+        },
+        {
+          "id": "https://openalex.org/C108469399",
+          "wikidata": "https://www.wikidata.org/wiki/Q25367",
+          "display_name": "Plankton",
+          "level": 2,
+          "score": 0.7172999978065491
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6169999837875366
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.5439000129699707
+        },
+        {
+          "id": "https://openalex.org/C151913843",
+          "wikidata": "https://www.wikidata.org/wiki/Q3454555",
+          "display_name": "Dominance (genetics)",
+          "level": 3,
+          "score": 0.5130000114440918
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.46160000562667847
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.45339998602867126
+        },
+        {
+          "id": "https://openalex.org/C71468253",
+          "wikidata": "https://www.wikidata.org/wiki/Q785643",
+          "display_name": "Isotopes of oxygen",
+          "level": 2,
+          "score": 0.4325000047683716
+        },
+        {
+          "id": "https://openalex.org/C117935615",
+          "wikidata": "https://www.wikidata.org/wiki/Q2511922",
+          "display_name": "Holocene climatic optimum",
+          "level": 3,
+          "score": 0.4260999858379364
+        },
+        {
+          "id": "https://openalex.org/C22117777",
+          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
+          "display_name": "Stable isotope ratio",
+          "level": 2,
+          "score": 0.38420000672340393
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.34599998593330383
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.3377000093460083
+        },
+        {
+          "id": "https://openalex.org/C2780134711",
+          "wikidata": "https://www.wikidata.org/wiki/Q7115954",
+          "display_name": "Oxygen minimum zone",
+          "level": 3,
+          "score": 0.2687000036239624
+        },
+        {
+          "id": "https://openalex.org/C69384203",
+          "wikidata": "https://www.wikidata.org/wiki/Q344117",
+          "display_name": "δ18O",
+          "level": 3,
+          "score": 0.25940001010894775
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -29638,7 +30191,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-30T00:00:00"
     }
   ]
