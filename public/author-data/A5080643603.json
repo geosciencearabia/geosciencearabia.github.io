@@ -11,11 +11,11 @@
       "Septriandi Chan"
     ],
     "works_count": 34,
-    "cited_by_count": 471,
+    "cited_by_count": 472,
     "summary_stats": {
       "2yr_mean_citedness": 1.4,
       "h_index": 9,
-      "i10_index": 7
+      "i10_index": 8
     },
     "ids": {
       "openalex": "https://openalex.org/A5080643603",
@@ -197,7 +197,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000372,
+        "value": 0.0000371,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -341,7 +341,7 @@
         "year": 2016,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2017,
@@ -414,7 +414,7 @@
     },
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-03-05T12:21:08",
+    "updated_date": "2026-03-07T12:21:54",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -960,8 +960,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1634,8 +1634,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3743,8 +3743,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -4374,8 +4374,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7194,8 +7194,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8396,8 +8396,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10587,8 +10587,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -15131,8 +15131,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -15606,8 +15606,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16124,11 +16124,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 1.1246,
+      "fwci": 1.1209,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83849468,
+        "value": 0.83770327,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16562,8 +16562,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -16625,7 +16625,555 @@
         "https://openalex.org/W4401385795",
         "https://openalex.org/W2981462862"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          53
+        ],
+        "10": [
+          55,
+          174,
+          241,
+          255
+        ],
+        "50": [
+          45
+        ],
+        "An": [
+          0
+        ],
+        "optimization": [
+          1
+        ],
+        "experiment": [
+          2
+        ],
+        "with": [
+          3,
+          78,
+          149,
+          157
+        ],
+        "different": [
+          4,
+          29,
+          211
+        ],
+        "acid": [
+          5,
+          15,
+          42,
+          63,
+          86,
+          93,
+          113,
+          123,
+          147,
+          168,
+          195,
+          204,
+          221
+        ],
+        "concentrations": [
+          6,
+          40,
+          121,
+          148,
+          218
+        ],
+        "was": [
+          7
+        ],
+        "carried": [
+          8
+        ],
+        "out": [
+          9
+        ],
+        "to": [
+          10,
+          16,
+          46,
+          54,
+          215
+        ],
+        "assess": [
+          11
+        ],
+        "the": [
+          12,
+          21,
+          85,
+          91,
+          97,
+          100,
+          104,
+          119,
+          127,
+          132,
+          136,
+          143,
+          189,
+          192,
+          200
+        ],
+        "use": [
+          13
+        ],
+        "of": [
+          14,
+          23,
+          32,
+          41,
+          76,
+          103,
+          122,
+          126,
+          166,
+          173,
+          179,
+          194,
+          202,
+          219,
+          234,
+          240,
+          254
+        ],
+        "minimum": [
+          17
+        ],
+        "sustainable": [
+          18
+        ],
+        "limits": [
+          19
+        ],
+        "for": [
+          20,
+          59,
+          70,
+          176,
+          236,
+          251
+        ],
+        "extraction": [
+          22
+        ],
+        "microfossils": [
+          24
+        ],
+        "from": [
+          25,
+          44,
+          52
+        ],
+        "indurated": [
+          26
+        ],
+        "limestones.": [
+          27
+        ],
+        "Two": [
+          28
+        ],
+        "limestone": [
+          30,
+          213
+        ],
+        "formations": [
+          31
+        ],
+        "Jurassic": [
+          33
+        ],
+        "and": [
+          34,
+          48,
+          169,
+          224,
+          226
+        ],
+        "Miocene": [
+          35
+        ],
+        "ages": [
+          36
+        ],
+        "were": [
+          37,
+          57
+        ],
+        "tested.": [
+          38
+        ],
+        "Different": [
+          39
+        ],
+        "ranging": [
+          43
+        ],
+        "100%": [
+          47
+        ],
+        "processing": [
+          49
+        ],
+        "times": [
+          50,
+          152
+        ],
+        "varying": [
+          51
+        ],
+        "h": [
+          56,
+          175
+        ],
+        "tested": [
+          58
+        ],
+        "optimal": [
+          60,
+          177,
+          246
+        ],
+        "recoveries.": [
+          61
+        ],
+        "The": [
+          62,
+          73
+        ],
+        "residue": [
+          64,
+          77
+        ],
+        "recoveries": [
+          65,
+          155,
+          244
+        ],
+        "show": [
+          66
+        ],
+        "a": [
+          67,
+          163,
+          170,
+          237,
+          252
+        ],
+        "similar": [
+          68
+        ],
+        "trend": [
+          69
+        ],
+        "both": [
+          71
+        ],
+        "formations.": [
+          72
+        ],
+        "weight": [
+          74,
+          101
+        ],
+        "percentage": [
+          75,
+          102
+        ],
+        "particle": [
+          79
+        ],
+        "size": [
+          80,
+          106
+        ],
+        ">1": [
+          81
+        ],
+        "mm": [
+          82,
+          110
+        ],
+        "decreased": [
+          83
+        ],
+        "as": [
+          84,
+          112
+        ],
+        "concentration": [
+          87,
+          94,
+          114,
+          165,
+          233,
+          250
+        ],
+        "increased,": [
+          88
+        ],
+        "especially": [
+          89
+        ],
+        "in": [
+          90,
+          142,
+          182
+        ],
+        "50-80%": [
+          92
+        ],
+        "range.": [
+          95
+        ],
+        "On": [
+          96
+        ],
+        "other": [
+          98
+        ],
+        "hand,": [
+          99
+        ],
+        "smallest": [
+          105
+        ],
+        "particles": [
+          107,
+          130
+        ],
+        ">": [
+          108
+        ],
+        "0.063": [
+          109
+        ],
+        "increased": [
+          111
+        ],
+        "increased.": [
+          115
+        ],
+        "This": [
+          116
+        ],
+        "means": [
+          117
+        ],
+        "that": [
+          118
+        ],
+        "higher": [
+          120,
+          146
+        ],
+        "dissolve": [
+          124
+        ],
+        "more": [
+          125
+        ],
+        "unnecessary": [
+          128
+        ],
+        "large": [
+          129
+        ],
+        "while": [
+          131,
+          247
+        ],
+        "foraminifera,": [
+          133
+        ],
+        "which": [
+          134
+        ],
+        "comprise": [
+          135
+        ],
+        "sand": [
+          137
+        ],
+        "fraction": [
+          138
+        ],
+        "size,": [
+          139
+        ],
+        "are": [
+          140,
+          222,
+          245
+        ],
+        "left": [
+          141
+        ],
+        "residue.": [
+          144
+        ],
+        "Although": [
+          145
+        ],
+        "longer": [
+          150
+        ],
+        "reaction": [
+          151,
+          159,
+          171
+        ],
+        "yielded": [
+          153
+        ],
+        "better": [
+          154
+        ],
+        "than": [
+          156
+        ],
+        "less": [
+          158
+        ],
+        "time,": [
+          160
+        ],
+        "we": [
+          161
+        ],
+        "recommended": [
+          162,
+          190
+        ],
+        "60%": [
+          164,
+          235
+        ],
+        "acetic": [
+          167,
+          220
+        ],
+        "time": [
+          172,
+          239,
+          253
+        ],
+        "recovery": [
+          178,
+          201
+        ],
+        "micropaleontological": [
+          180
+        ],
+        "samples": [
+          181,
+          214
+        ],
+        "Saudi": [
+          183
+        ],
+        "Arabian": [
+          184
+        ],
+        "carbonate": [
+          185
+        ],
+        "rocks.": [
+          186
+        ],
+        "By": [
+          187
+        ],
+        "lowering": [
+          188
+        ],
+        "concentration,": [
+          191
+        ],
+        "consumption": [
+          193
+        ],
+        "is": [
+          196,
+          207,
+          228
+        ],
+        "reduced": [
+          197
+        ],
+        "without": [
+          198
+        ],
+        "compromising": [
+          199
+        ],
+        "microfossils.•Acetic": [
+          203
+        ],
+        "leaching": [
+          205
+        ],
+        "method": [
+          206
+        ],
+        "applied": [
+          208
+        ],
+        "on": [
+          209,
+          230
+        ],
+        "two": [
+          210
+        ],
+        "age": [
+          212
+        ],
+        "extract": [
+          216
+        ],
+        "foraminifera.•Different": [
+          217
+        ],
+        "tried": [
+          223
+        ],
+        "tested,": [
+          225
+        ],
+        "consensus": [
+          227
+        ],
+        "made": [
+          229
+        ],
+        "an": [
+          231
+        ],
+        "optimum": [
+          232
+        ],
+        "submersion": [
+          238
+        ],
+        "h.•The": [
+          242
+        ],
+        "sample": [
+          243
+        ],
+        "using": [
+          248
+        ],
+        "this": [
+          249
+        ],
+        "h.": [
+          256
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2024,
@@ -16636,7 +17184,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-03-08T08:50:53.379069",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16960,8 +17508,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -18661,8 +19209,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20354,8 +20902,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -21449,8 +21997,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23037,8 +23585,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -25580,7 +26128,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.88813215,
+        "value": 0.87752471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26106,9 +26654,732 @@
         "https://openalex.org/W4414158554"
       ],
       "related_works": [],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          239
+        ],
+        "14": [
+          202
+        ],
+        "19": [
+          221
+        ],
+        "132": [
+          223
+        ],
+        "375": [
+          228
+        ],
+        "710": [
+          230
+        ],
+        "2521": [
+          211
+        ],
+        "6383": [
+          213
+        ],
+        "•": [
+          0,
+          10,
+          21,
+          32,
+          45
+        ],
+        "Multidisciplinary": [
+          1
+        ],
+        "workflow": [
+          2,
+          134
+        ],
+        "reveals": [
+          3
+        ],
+        "strong": [
+          4
+        ],
+        "vertical": [
+          5,
+          103,
+          122,
+          190,
+          282
+        ],
+        "heterogeneity": [
+          6,
+          27,
+          123
+        ],
+        "in": [
+          7,
+          28,
+          41,
+          61
+        ],
+        "carbonate": [
+          8,
+          30,
+          56,
+          297
+        ],
+        "rocks.": [
+          9,
+          299
+        ],
+        "Dolomite": [
+          11,
+          242
+        ],
+        "and": [
+          12,
+          19,
+          26,
+          51,
+          70,
+          82,
+          124,
+          153,
+          164,
+          182,
+          205,
+          232,
+          243,
+          248,
+          254,
+          267,
+          278,
+          289
+        ],
+        "silica": [
+          13,
+          244
+        ],
+        "enrichments": [
+          14
+        ],
+        "increase": [
+          15,
+          246
+        ],
+        "rock": [
+          16,
+          43,
+          130
+        ],
+        "density,": [
+          17,
+          264
+        ],
+        "hardness,": [
+          18
+        ],
+        "strength.": [
+          20
+        ],
+        "Diagenesis": [
+          22
+        ],
+        "drives": [
+          23
+        ],
+        "porosity": [
+          24,
+          200,
+          255
+        ],
+        "loss": [
+          25
+        ],
+        "immature": [
+          29,
+          295
+        ],
+        "reservoirs.": [
+          31
+        ],
+        "Mineralogy": [
+          33
+        ],
+        "is": [
+          34,
+          89,
+          260
+        ],
+        "the": [
+          35,
+          106,
+          114,
+          126
+        ],
+        "key": [
+          36
+        ],
+        "predictor": [
+          37
+        ],
+        "of": [
+          38,
+          113
+        ],
+        "mechanical": [
+          39,
+          154,
+          257
+        ],
+        "properties": [
+          40,
+          84
+        ],
+        "source": [
+          42,
+          57,
+          298
+        ],
+        "systems.": [
+          44
+        ],
+        "Integrated": [
+          46
+        ],
+        "approach": [
+          47
+        ],
+        "refines": [
+          48
+        ],
+        "reservoir": [
+          49,
+          285
+        ],
+        "models": [
+          50
+        ],
+        "sweet-spot": [
+          52
+        ],
+        "identification.": [
+          53
+        ],
+        "Immature": [
+          54
+        ],
+        "organic-rich": [
+          55
+        ],
+        "rocks": [
+          58
+        ],
+        "are": [
+          59
+        ],
+        "widespread": [
+          60
+        ],
+        "sedimentary": [
+          62
+        ],
+        "basins,": [
+          63
+        ],
+        "serving": [
+          64
+        ],
+        "as": [
+          65,
+          71
+        ],
+        "major": [
+          66
+        ],
+        "oil": [
+          67
+        ],
+        "shale": [
+          68
+        ],
+        "resources": [
+          69
+        ],
+        "analogs": [
+          72
+        ],
+        "for": [
+          73,
+          91,
+          294
+        ],
+        "thermally": [
+          74
+        ],
+        "mature": [
+          75
+        ],
+        "unconventional": [
+          76,
+          296
+        ],
+        "plays.": [
+          77
+        ],
+        "Determining": [
+          78
+        ],
+        "their": [
+          79,
+          93
+        ],
+        "baseline": [
+          80
+        ],
+        "petrophysical": [
+          81
+        ],
+        "geomechanical": [
+          83
+        ],
+        "prior": [
+          85
+        ],
+        "to": [
+          86,
+          120,
+          173,
+          197,
+          203,
+          212,
+          222,
+          229,
+          240
+        ],
+        "hydrocarbon": [
+          87
+        ],
+        "generation": [
+          88
+        ],
+        "essential": [
+          90
+        ],
+        "predicting": [
+          92
+        ],
+        "behavior": [
+          94
+        ],
+        "during": [
+          95
+        ],
+        "advanced": [
+          96
+        ],
+        "extraction.": [
+          97
+        ],
+        "This": [
+          98
+        ],
+        "study": [
+          99
+        ],
+        "investigates": [
+          100
+        ],
+        "a": [
+          101,
+          175,
+          291
+        ],
+        "20-meter": [
+          102
+        ],
+        "core": [
+          104,
+          137
+        ],
+        "from": [
+          105,
+          195,
+          201,
+          210,
+          220,
+          227,
+          238
+        ],
+        "Upper": [
+          107
+        ],
+        "Cretaceous": [
+          108
+        ],
+        "bituminous": [
+          109
+        ],
+        "chalky": [
+          110
+        ],
+        "marl": [
+          111
+        ],
+        "interval": [
+          112
+        ],
+        "Al": [
+          115
+        ],
+        "Lajjun": [
+          116
+        ],
+        "Graben,": [
+          117
+        ],
+        "central": [
+          118
+        ],
+        "Jordan,": [
+          119
+        ],
+        "evaluate": [
+          121
+        ],
+        "identify": [
+          125
+        ],
+        "main": [
+          127
+        ],
+        "controls": [
+          128
+        ],
+        "on": [
+          129,
+          167
+        ],
+        "properties.": [
+          131
+        ],
+        "An": [
+          132
+        ],
+        "integrated": [
+          133
+        ],
+        "combined": [
+          135
+        ],
+        "detailed": [
+          136
+        ],
+        "description,": [
+          138
+        ],
+        "petrography,": [
+          139
+        ],
+        "inorganic": [
+          140
+        ],
+        "geochemistry,": [
+          141
+        ],
+        "Rock-Eval": [
+          142
+        ],
+        "pyrolysis,": [
+          143
+        ],
+        "Multi-Sensor": [
+          144
+        ],
+        "Core": [
+          145
+        ],
+        "Logger": [
+          146
+        ],
+        "(MSCL)": [
+          147
+        ],
+        "data,": [
+          148
+        ],
+        "spectral": [
+          149
+        ],
+        "gamma-ray": [
+          150
+        ],
+        "logging": [
+          151
+        ],
+        "(SGR),": [
+          152
+        ],
+        "testing.": [
+          155
+        ],
+        "Multivariate": [
+          156
+        ],
+        "statistical": [
+          157
+        ],
+        "methods,": [
+          158
+        ],
+        "including": [
+          159
+        ],
+        "principal": [
+          160,
+          168
+        ],
+        "component": [
+          161
+        ],
+        "analysis": [
+          162
+        ],
+        "(PCA)": [
+          163
+        ],
+        "hierarchical": [
+          165
+        ],
+        "clustering": [
+          166
+        ],
+        "components": [
+          169
+        ],
+        "(HCPC),": [
+          170
+        ],
+        "were": [
+          171,
+          186
+        ],
+        "applied": [
+          172
+        ],
+        "establish": [
+          174
+        ],
+        "chemofacies": [
+          176
+        ],
+        "classification.": [
+          177
+        ],
+        "Five": [
+          178
+        ],
+        "lithofacies,": [
+          179
+        ],
+        "three": [
+          180
+        ],
+        "chemofacies,": [
+          181
+        ],
+        "four": [
+          183
+        ],
+        "chemostratigraphic": [
+          184
+        ],
+        "zones": [
+          185
+        ],
+        "identified,": [
+          187
+        ],
+        "indicating": [
+          188
+        ],
+        "marked": [
+          189
+        ],
+        "variability.": [
+          191
+        ],
+        "Bulk": [
+          192
+        ],
+        "density": [
+          193,
+          247
+        ],
+        "ranges": [
+          194,
+          219,
+          237
+        ],
+        "1.65": [
+          196
+        ],
+        "2.40": [
+          198
+        ],
+        "g/cc,": [
+          199
+        ],
+        "36%,": [
+          204
+        ],
+        "compressional": [
+          206
+        ],
+        "wave": [
+          207
+        ],
+        "velocity": [
+          208
+        ],
+        "(Vp)": [
+          209
+        ],
+        "m/s.": [
+          214
+        ],
+        "Unconfined": [
+          215
+        ],
+        "compressive": [
+          216
+        ],
+        "strength": [
+          217
+        ],
+        "(UCS)": [
+          218
+        ],
+        "MPa,": [
+          224
+        ],
+        "Leeb": [
+          225
+        ],
+        "hardness": [
+          226
+        ],
+        "HLD,": [
+          231
+        ],
+        "total": [
+          233
+        ],
+        "organic": [
+          234,
+          279
+        ],
+        "carbon": [
+          235
+        ],
+        "(TOC)": [
+          236
+        ],
+        "17%.": [
+          241
+        ],
+        "enrichment": [
+          245
+        ],
+        "strength,": [
+          249,
+          266
+        ],
+        "whereas": [
+          250
+        ],
+        "elevated": [
+          251
+        ],
+        "clay": [
+          252
+        ],
+        "content": [
+          253,
+          280
+        ],
+        "reduce": [
+          256
+        ],
+        "competence.": [
+          258
+        ],
+        "Porosity": [
+          259
+        ],
+        "negatively": [
+          261
+        ],
+        "correlated": [
+          262,
+          271
+        ],
+        "with": [
+          263,
+          272
+        ],
+        "Vp,": [
+          265
+        ],
+        "brittleness,": [
+          268
+        ],
+        "but": [
+          269
+        ],
+        "positively": [
+          270
+        ],
+        "TOC.": [
+          273
+        ],
+        "Collectively,": [
+          274
+        ],
+        "mineralogy,": [
+          275
+        ],
+        "diagenesis,": [
+          276
+        ],
+        "porosity,": [
+          277
+        ],
+        "govern": [
+          281
+        ],
+        "variability,": [
+          283
+        ],
+        "improving": [
+          284
+        ],
+        "characterization,": [
+          286
+        ],
+        "exploration": [
+          287
+        ],
+        "planning,": [
+          288
+        ],
+        "providing": [
+          290
+        ],
+        "global": [
+          292
+        ],
+        "analog": [
+          293
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-03-08T08:50:53.379069",
       "created_date": "2026-03-03T00:00:00"
     }
   ]

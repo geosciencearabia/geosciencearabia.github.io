@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1241,
-    "citations": 21595
+    "citations": 21598
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1014,
-    "citations": 28416
+    "citations": 28419
   },
   {
     "id": "https://openalex.org/T10017",
@@ -44,7 +44,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 637,
-    "citations": 18007
+    "citations": 18009
   },
   {
     "id": "https://openalex.org/T12157",
@@ -56,7 +56,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 552,
-    "citations": 10035
+    "citations": 10036
   },
   {
     "id": "https://openalex.org/T10635",
@@ -80,7 +80,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 270,
-    "citations": 4748
+    "citations": 4749
   },
   {
     "id": "https://openalex.org/T10271",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 139,
-    "citations": 3406
+    "citations": 3407
   },
   {
     "id": "https://openalex.org/T11588",
@@ -140,7 +140,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
     "publications": 109,
-    "citations": 1592
+    "citations": 1594
   },
   {
     "id": "https://openalex.org/T11757",
@@ -188,7 +188,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 60,
-    "citations": 523
+    "citations": 524
   },
   {
     "id": "https://openalex.org/T11354",
@@ -326,7 +326,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11225",
     "name": "Geothermal Energy Systems and Applications",
     "publications": 19,
-    "citations": 203
+    "citations": 204
   },
   {
     "id": "https://openalex.org/T12083",
@@ -782,7 +782,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12697",
     "name": "Water Quality Monitoring Technologies",
     "publications": 5,
-    "citations": 183
+    "citations": 184
   },
   {
     "id": "https://openalex.org/T10946",
@@ -860,7 +860,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10197",
     "name": "Membrane Separation Technologies",
     "publications": 4,
-    "citations": 126
+    "citations": 127
   },
   {
     "id": "https://openalex.org/T12213",
@@ -995,16 +995,16 @@ export const topicStats: TopicStats[] = [
     "citations": 47
   },
   {
-    "id": "https://openalex.org/T10710",
-    "name": "Arsenic contamination and mitigation",
+    "id": "https://openalex.org/T12074",
+    "name": "Membrane-based Ion Separation Techniques",
     "publications": 3,
     "citations": 47
   },
   {
-    "id": "https://openalex.org/T12074",
-    "name": "Membrane-based Ion Separation Techniques",
+    "id": "https://openalex.org/T10710",
+    "name": "Arsenic contamination and mitigation",
     "publications": 3,
-    "citations": 46
+    "citations": 47
   },
   {
     "id": "https://openalex.org/T10716",
@@ -3539,7 +3539,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 899,
-    "citations": 9790
+    "citations": 9794
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3551,7 +3551,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 203,
-    "citations": 4411
+    "citations": 4413
   },
   {
     "id": "https://openalex.org/I36197038",
@@ -3617,13 +3617,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I62856769",
     "name": "Saudi Aramco (United States)",
     "publications": 83,
-    "citations": 1515
+    "citations": 1516
   },
   {
     "id": "https://openalex.org/I71920554",
     "name": "King Abdullah University of Science and Technology",
     "publications": 80,
-    "citations": 912
+    "citations": 913
   },
   {
     "id": "https://openalex.org/I100532134",
@@ -3773,7 +3773,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1327020802",
     "name": "Geological Survey of Canada",
     "publications": 23,
-    "citations": 4504
+    "citations": 4505
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -4061,7 +4061,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I146840658",
     "name": "University of Azad Jammu and Kashmir",
     "publications": 14,
-    "citations": 87
+    "citations": 89
   },
   {
     "id": "https://openalex.org/I3124059619",
@@ -4277,7 +4277,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I185261750",
     "name": "University of Toronto",
     "publications": 11,
-    "citations": 115
+    "citations": 116
   },
   {
     "id": "https://openalex.org/I46208956",
@@ -4439,7 +4439,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I165368041",
     "name": "University of Iceland",
     "publications": 9,
-    "citations": 127
+    "citations": 128
   },
   {
     "id": "https://openalex.org/I4210158426",
@@ -4745,7 +4745,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210162190",
     "name": "China University of Petroleum, East China",
     "publications": 7,
-    "citations": 174
+    "citations": 175
   },
   {
     "id": "https://openalex.org/I2799486974",
@@ -5225,7 +5225,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210164289",
     "name": "Géosciences Environnement Toulouse",
     "publications": 5,
-    "citations": 135
+    "citations": 136
   },
   {
     "id": "https://openalex.org/I4210095677",
@@ -5240,6 +5240,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 116
   },
   {
+    "id": "https://openalex.org/I160968435",
+    "name": "University of Sargodha",
+    "publications": 5,
+    "citations": 116
+  },
+  {
     "id": "https://openalex.org/I255234318",
     "name": "Universidad de Zaragoza",
     "publications": 5,
@@ -5250,12 +5256,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University College Dublin",
     "publications": 5,
     "citations": 115
-  },
-  {
-    "id": "https://openalex.org/I160968435",
-    "name": "University of Sargodha",
-    "publications": 5,
-    "citations": 114
   },
   {
     "id": "https://openalex.org/I4210099513",
@@ -5609,7 +5609,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I139322472",
     "name": "Universiti Sains Malaysia",
     "publications": 4,
-    "citations": 34
+    "citations": 36
   },
   {
     "id": "https://openalex.org/I4210121611",
@@ -9224,6 +9224,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 18
   },
   {
+    "id": "https://openalex.org/I4210088687",
+    "name": "Université Ibn Zohr",
+    "publications": 1,
+    "citations": 17
+  },
+  {
     "id": "https://openalex.org/I8408910",
     "name": "Cardiff Metropolitan University",
     "publications": 1,
@@ -9258,12 +9264,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Delta Air Lines (United States)",
     "publications": 1,
     "citations": 17
-  },
-  {
-    "id": "https://openalex.org/I4210088687",
-    "name": "Université Ibn Zohr",
-    "publications": 1,
-    "citations": 16
   },
   {
     "id": "https://openalex.org/I4210132311",
