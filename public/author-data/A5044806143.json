@@ -16,7 +16,7 @@
       "Mohamed A. K. El-Ghali"
     ],
     "works_count": 91,
-    "cited_by_count": 1337,
+    "cited_by_count": 1338,
     "summary_stats": {
       "2yr_mean_citedness": 1.972972972972973,
       "h_index": 21,
@@ -240,7 +240,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001887,
+        "value": 0.0001886,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -274,7 +274,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001377,
+        "value": 0.0001376,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -450,7 +450,7 @@
         "year": 2023,
         "works_count": 10,
         "oa_works_count": 3,
-        "cited_by_count": 67
+        "cited_by_count": 68
       },
       {
         "year": 2024,
@@ -471,17 +471,17 @@
         "cited_by_count": 0
       }
     ],
-    "longest_name": "El-Ghali, Mohamed A.K.",
+    "longest_name": "Mohamed A. K. El‐Ghali",
     "parsed_longest_name": {
       "first": "mohamed",
-      "middle": "ak",
-      "last": "el-ghali",
+      "middle": "a k",
+      "last": "el‐ghali",
       "suffix": "",
       "nickname": ""
     },
-    "block_key": "m el-ghali",
+    "block_key": "m el‐ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-03-08T12:20:35",
+    "updated_date": "2026-03-09T12:22:57",
     "created_date": "2019-12-13T00:00:00"
   },
   "works": [
@@ -1249,8 +1249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -2181,8 +2181,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -3186,8 +3186,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -4552,8 +4552,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -5890,8 +5890,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -7316,8 +7316,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -8029,8 +8029,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -8686,8 +8686,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -8795,1003 +8795,6 @@
         }
       ],
       "updated_date": "2026-03-06T13:50:29.536080",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4395117463",
-      "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
-      "title": "Lithostratigraphy and Microfacies of the Upper Cretaceous Muti Formation of the Oman Foreland Basin, Nakhal Area, Oman",
-      "display_name": "Lithostratigraphy and Microfacies of the Upper Cretaceous Muti Formation of the Oman Foreland Basin, Nakhal Area, Oman",
-      "publication_year": 2024,
-      "publication_date": "2024-04-24",
-      "ids": {
-        "openalex": "https://openalex.org/W4395117463",
-        "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.53539/squjs.vol29iss1pp68-85",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
-        "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
-        "source": {
-          "id": "https://openalex.org/S4210198324",
-          "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
-          "issn_l": "2308-3921",
-          "issn": [
-            "2308-3921",
-            "2414-536X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310319258",
-          "host_organization_name": "Sultan Qaboos University",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319258"
-          ],
-          "host_organization_lineage_names": [
-            "Sultan Qaboos University"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sultan Qaboos University Journal For Science",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5094194318",
-            "display_name": "Jenan Ahmed Attar",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Jenan Ahmed Attar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085026818",
-            "display_name": "İftikhar Ahmed Abbasi",
-            "orcid": "https://orcid.org/0000-0002-1968-0929"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Iftikhar Ahmed Abbasi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002977770",
-            "display_name": "Muhammad Hanif",
-            "orcid": "https://orcid.org/0000-0002-1133-5661"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Hanif",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111181052",
-            "display_name": "Abdulrazaq Al-Sayigh",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulrazaq Al-Sayigh",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5095883203",
-            "display_name": "Abdul Rahman Al-Harthi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdul Rahman Al-Harthi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5094194318"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 5.12,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.93632366,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "29",
-        "issue": "1",
-        "first_page": "68",
-        "last_page": "85"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.998199999332428,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9929999709129333,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9835000038146973,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/foreland-basin",
-          "display_name": "Foreland basin",
-          "score": 0.956454873085022
-        },
-        {
-          "id": "https://openalex.org/keywords/lithostratigraphy",
-          "display_name": "Lithostratigraphy",
-          "score": 0.9476807713508606
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.828355610370636
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7922563552856445
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6397925615310669
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5453578233718872
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C193748577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
-          "display_name": "Foreland basin",
-          "level": 3,
-          "score": 0.956454873085022
-        },
-        {
-          "id": "https://openalex.org/C40616122",
-          "wikidata": "https://www.wikidata.org/wiki/Q856124",
-          "display_name": "Lithostratigraphy",
-          "level": 3,
-          "score": 0.9476807713508606
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.828355610370636
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.7922563552856445
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6397925615310669
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.5453578233718872
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.53539/squjs.vol29iss1pp68-85",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
-          "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
-          "source": {
-            "id": "https://openalex.org/S4210198324",
-            "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
-            "issn_l": "2308-3921",
-            "issn": [
-              "2308-3921",
-              "2414-536X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310319258",
-            "host_organization_name": "Sultan Qaboos University",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319258"
-            ],
-            "host_organization_lineage_names": [
-              "Sultan Qaboos University"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sultan Qaboos University Journal For Science",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.53539/squjs.vol29iss1pp68-85",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
-        "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
-        "source": {
-          "id": "https://openalex.org/S4210198324",
-          "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
-          "issn_l": "2308-3921",
-          "issn": [
-            "2308-3921",
-            "2414-536X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310319258",
-          "host_organization_name": "Sultan Qaboos University",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319258"
-          ],
-          "host_organization_lineage_names": [
-            "Sultan Qaboos University"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sultan Qaboos University Journal For Science",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": false
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4395117463.pdf"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2373153435",
-        "https://openalex.org/W2376133542",
-        "https://openalex.org/W2378842617",
-        "https://openalex.org/W112785592",
-        "https://openalex.org/W2318309206",
-        "https://openalex.org/W2800531900",
-        "https://openalex.org/W2762997592",
-        "https://openalex.org/W2353665858",
-        "https://openalex.org/W3191324057",
-        "https://openalex.org/W2113750225"
-      ],
-      "abstract_inverted_index": {
-        "50": [
-          110
-        ],
-        "The": [
-          0,
-          27,
-          53,
-          88,
-          105
-        ],
-        "Upper": [
-          1,
-          251
-        ],
-        "Cretaceous": [
-          2
-        ],
-        "Muti": [
-          3,
-          65,
-          195,
-          244
-        ],
-        "Formation": [
-          4,
-          66,
-          196
-        ],
-        "was": [
-          5,
-          162,
-          201
-        ],
-        "deposited": [
-          6,
-          202
-        ],
-        "in": [
-          7,
-          31,
-          67,
-          101,
-          197,
-          203,
-          225
-        ],
-        "the": [
-          8,
-          13,
-          16,
-          20,
-          24,
-          43,
-          49,
-          57,
-          61,
-          64,
-          68,
-          74,
-          79,
-          82,
-          86,
-          93,
-          102,
-          194,
-          198,
-          209,
-          212,
-          234,
-          239
-        ],
-        "Oman": [
-          9,
-          248
-        ],
-        "Foreland": [
-          10,
-          249
-        ],
-        "Basin": [
-          11
-        ],
-        "during": [
-          12
-        ],
-        "obduction": [
-          14
-        ],
-        "of": [
-          15,
-          23,
-          63,
-          81,
-          85,
-          92,
-          115,
-          127,
-          173
-        ],
-        "allochthonous": [
-          17,
-          50
-        ],
-        "units": [
-          18
-        ],
-        "on": [
-          19,
-          73,
-          185,
-          208
-        ],
-        "eastern": [
-          21
-        ],
-        "margin": [
-          22
-        ],
-        "Arabian": [
-          25
-        ],
-        "Platform.": [
-          26
-        ],
-        "formation": [
-          28,
-          94,
-          216,
-          235
-        ],
-        "is": [
-          29,
-          40,
-          56,
-          108,
-          191,
-          217,
-          236
-        ],
-        "exposed": [
-          30,
-          237
-        ],
-        "various": [
-          32
-        ],
-        "isolated": [
-          33
-        ],
-        "outcrops": [
-          34,
-          62
-        ],
-        "around": [
-          35
-        ],
-        "Jabal": [
-          36,
-          253
-        ],
-        "Akhdar": [
-          37
-        ],
-        "Mountain": [
-          38
-        ],
-        "and": [
-          39,
-          48,
-          78,
-          90,
-          113,
-          123,
-          139,
-          147,
-          149,
-          158,
-          175,
-          179,
-          187,
-          232
-        ],
-        "located": [
-          41
-        ],
-        "between": [
-          42
-        ],
-        "Mesozoic": [
-          44
-        ],
-        "platform": [
-          45
-        ],
-        "carbonates": [
-          46
-        ],
-        "below": [
-          47
-        ],
-        "nappe": [
-          51
-        ],
-        "above.": [
-          52
-        ],
-        "current": [
-          54
-        ],
-        "study": [
-          55,
-          103
-        ],
-        "first": [
-          58
-        ],
-        "to": [
-          59,
-          211,
-          219,
-          238
-        ],
-        "describe": [
-          60
-        ],
-        "Nakhal": [
-          69,
-          106,
-          199,
-          246
-        ],
-        "area.": [
-          70,
-          104
-        ],
-        "It": [
-          71
-        ],
-        "focuses": [
-          72
-        ],
-        "lithofacies,": [
-          75
-        ],
-        "microfacies": [
-          76,
-          91,
-          129
-        ],
-        "distribution,": [
-          77
-        ],
-        "characterization": [
-          80
-        ],
-        "depositional": [
-          83
-        ],
-        "environment": [
-          84,
-          207
-        ],
-        "formation.": [
-          87
-        ],
-        "lithofacies": [
-          89
-        ],
-        "are": [
-          95,
-          130
-        ],
-        "described": [
-          96
-        ],
-        "from": [
-          97
-        ],
-        "two": [
-          98
-        ],
-        "measured": [
-          99
-        ],
-        "sections": [
-          100
-        ],
-        "section": [
-          107
-        ],
-        "about": [
-          109
-        ],
-        "m": [
-          111
-        ],
-        "thick": [
-          112
-        ],
-        "consists": [
-          114
-        ],
-        "four": [
-          116,
-          128
-        ],
-        "lithofacies:": [
-          117
-        ],
-        "marl,": [
-          118
-        ],
-        "bedded": [
-          119
-        ],
-        "limestone,": [
-          120,
-          122
-        ],
-        "nodular": [
-          121
-        ],
-        "clay.": [
-          124
-        ],
-        "A": [
-          125
-        ],
-        "total": [
-          126
-        ],
-        "identified,": [
-          131,
-          157
-        ],
-        "including": [
-          132
-        ],
-        "echinoderm-spine": [
-          133
-        ],
-        "wackestone,": [
-          134,
-          138
-        ],
-        "bioclastic": [
-          135
-        ],
-        "packestone,": [
-          136
-        ],
-        "arenaceous": [
-          137
-        ],
-        "mudstone.": [
-          140
-        ],
-        "Diagenetic": [
-          141
-        ],
-        "features": [
-          142
-        ],
-        "such": [
-          143,
-          166
-        ],
-        "as": [
-          144,
-          167
-        ],
-        "fractures,": [
-          145
-        ],
-        "cementations,": [
-          146
-        ],
-        "dissolutions,": [
-          148
-        ],
-        "their": [
-          150,
-          159
-        ],
-        "products,": [
-          151
-        ],
-        "for": [
-          152
-        ],
-        "instance,": [
-          153
-        ],
-        "porosities,": [
-          154
-        ],
-        "were": [
-          155,
-          182
-        ],
-        "also": [
-          156
-        ],
-        "paragenetic": [
-          160
-        ],
-        "history": [
-          161
-        ],
-        "reconstructed.": [
-          163
-        ],
-        "Additionally,": [
-          164
-        ],
-        "microfossils,": [
-          165
-        ],
-        "bryozoan": [
-          168
-        ],
-        "fragments,": [
-          169,
-          177
-        ],
-        "calcispheres,": [
-          170
-        ],
-        "bivalves,": [
-          171
-        ],
-        "fragments": [
-          172
-        ],
-        "echinoids,": [
-          174
-        ],
-        "brachiopod": [
-          176
-        ],
-        "benthic": [
-          178
-        ],
-        "planktonic": [
-          180
-        ],
-        "foraminifera": [
-          181
-        ],
-        "recognized.": [
-          183
-        ],
-        "Based": [
-          184
-        ],
-        "lithological": [
-          186
-        ],
-        "biotic": [
-          188
-        ],
-        "variations,": [
-          189
-        ],
-        "it": [
-          190
-        ],
-        "suggested": [
-          192
-        ],
-        "that": [
-          193
-        ],
-        "area": [
-          200
-        ],
-        "a": [
-          204
-        ],
-        "shallow": [
-          205
-        ],
-        "marine": [
-          206,
-          226
-        ],
-        "outer": [
-          210
-        ],
-        "mid-carbonate": [
-          213
-        ],
-        "shelves.": [
-          214
-        ],
-        "This": [
-          215
-        ],
-        "subjected": [
-          218
-        ],
-        "diagenetic": [
-          220
-        ],
-        "changes": [
-          221
-        ],
-        "starting": [
-          222
-        ],
-        "with": [
-          223
-        ],
-        "eogenesis": [
-          224
-        ],
-        "settings": [
-          227
-        ],
-        "followed": [
-          228
-        ],
-        "by": [
-          229
-        ],
-        "burial": [
-          230
-        ],
-        "diagenesis,": [
-          231
-        ],
-        "subsequently,": [
-          233
-        ],
-        "telogenetic": [
-          240
-        ],
-        "diagenesis": [
-          241
-        ],
-        "phase.": [
-          242
-        ],
-        "Keywords:": [
-          243
-        ],
-        "Formation,": [
-          245
-        ],
-        "Area,": [
-          247
-        ],
-        "Basin,": [
-          250
-        ],
-        "Cretaceous,": [
-          252
-        ],
-        "Akhdar.": [
-          254
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-02-03T23:48:18.283914",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10485,8 +9488,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -11339,8 +10342,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -11928,8 +10931,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -12752,8 +11755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -13516,8 +12519,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -14707,8 +13710,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -15391,8 +14394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -16399,8 +15402,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -17170,8 +16173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -18763,8 +17766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -19733,8 +18736,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -20752,8 +19755,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -21806,11 +20809,11 @@
         "currency": "USD",
         "value_usd": 1250
       },
-      "fwci": 1.6912,
+      "fwci": 1.7037,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81312404,
+        "value": 0.81455452,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22217,8 +21220,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -22832,7 +21835,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23367,8 +22370,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -23924,8 +22927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -24397,11 +23400,11 @@
         "currency": "USD",
         "value_usd": 1750
       },
-      "fwci": 2.7024,
+      "fwci": 2.6929,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.89090091,
+        "value": 0.88913403,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24772,8 +23775,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -24869,7 +23872,609 @@
         "https://openalex.org/W4361215143",
         "https://openalex.org/W2368062105"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          55,
+          87,
+          105,
+          153
+        ],
+        "Baraichari": [
+          1
+        ],
+        "Shale": [
+          2
+        ],
+        "Formation,": [
+          3,
+          11
+        ],
+        "which": [
+          4
+        ],
+        "is": [
+          5,
+          12,
+          42,
+          60,
+          107
+        ],
+        "equivalent": [
+          6,
+          247
+        ],
+        "to": [
+          7,
+          44,
+          61,
+          78,
+          111,
+          121,
+          164,
+          194,
+          252
+        ],
+        "the": [
+          8,
+          16,
+          20,
+          24,
+          48,
+          63,
+          76,
+          85,
+          96,
+          102,
+          158,
+          218,
+          225,
+          253
+        ],
+        "Boka": [
+          9
+        ],
+        "Bil": [
+          10
+        ],
+        "well": [
+          13
+        ],
+        "exposed": [
+          14
+        ],
+        "within": [
+          15,
+          50,
+          224
+        ],
+        "Neogene": [
+          17
+        ],
+        "sequence": [
+          18
+        ],
+        "of": [
+          19,
+          32,
+          57,
+          84,
+          101,
+          109,
+          162,
+          255
+        ],
+        "Sitapahar": [
+          21,
+          103
+        ],
+        "Anticline": [
+          22
+        ],
+        "in": [
+          23,
+          35,
+          157,
+          192,
+          217,
+          232
+        ],
+        "Chittagong-Tripura": [
+          25
+        ],
+        "Fold": [
+          26
+        ],
+        "Belt,": [
+          27
+        ],
+        "Bengal": [
+          28
+        ],
+        "Basin,": [
+          29
+        ],
+        "Bangladesh.": [
+          30
+        ],
+        "Regardless": [
+          31
+        ],
+        "its": [
+          33
+        ],
+        "importance": [
+          34
+        ],
+        "hydrocarbon": [
+          36
+        ],
+        "accumulation,": [
+          37
+        ],
+        "a": [
+          38,
+          71
+        ],
+        "comprehensive": [
+          39
+        ],
+        "facies": [
+          40,
+          89,
+          130,
+          139
+        ],
+        "analysis": [
+          41
+        ],
+        "essential": [
+          43
+        ],
+        "understand": [
+          45
+        ],
+        "and": [
+          46,
+          69,
+          119,
+          134,
+          149,
+          172,
+          208,
+          250
+        ],
+        "explain": [
+          47
+        ],
+        "heterogeneity": [
+          49
+        ],
+        "different": [
+          51
+        ],
+        "depositional": [
+          52,
+          66,
+          73,
+          241
+        ],
+        "architectural": [
+          53
+        ],
+        "elements.": [
+          54
+        ],
+        "purpose": [
+          56
+        ],
+        "this": [
+          58
+        ],
+        "work": [
+          59
+        ],
+        "delineate": [
+          62
+        ],
+        "lithofacies": [
+          64
+        ],
+        "characteristics,": [
+          65
+        ],
+        "environment": [
+          67
+        ],
+        "heterogeneities": [
+          68
+        ],
+        "propose": [
+          70
+        ],
+        "generic": [
+          72
+        ],
+        "model": [
+          74
+        ],
+        "for": [
+          75,
+          246
+        ],
+        "Middle": [
+          77
+        ],
+        "Late": [
+          79
+        ],
+        "Miocene": [
+          80
+        ],
+        "shallow": [
+          81
+        ],
+        "marine": [
+          82
+        ],
+        "sediments": [
+          83
+        ],
+        "formation.": [
+          86
+        ],
+        "sedimentary": [
+          88,
+          129
+        ],
+        "were": [
+          90,
+          135
+        ],
+        "investigated": [
+          91
+        ],
+        "at": [
+          92
+        ],
+        "three": [
+          93,
+          138
+        ],
+        "outcrops": [
+          94
+        ],
+        "along": [
+          95
+        ],
+        "Kaptai-Chandraghona": [
+          97
+        ],
+        "road": [
+          98
+        ],
+        "cut": [
+          99
+        ],
+        "sections": [
+          100
+        ],
+        "anticline.": [
+          104
+        ],
+        "formation": [
+          106,
+          226
+        ],
+        "composed": [
+          108
+        ],
+        "dark": [
+          110
+        ],
+        "bluish-gray": [
+          112
+        ],
+        "shale,": [
+          113,
+          115
+        ],
+        "silty": [
+          114
+        ],
+        "yellowish": [
+          116,
+          122
+        ],
+        "brown": [
+          117,
+          123
+        ],
+        "siltstone,": [
+          118
+        ],
+        "gray": [
+          120
+        ],
+        "fine-to": [
+          124
+        ],
+        "medium-grained": [
+          125,
+          165
+        ],
+        "sandstone.": [
+          126
+        ],
+        "Eight": [
+          127
+        ],
+        "distinct": [
+          128
+        ],
+        "have": [
+          131
+        ],
+        "been": [
+          132
+        ],
+        "identified": [
+          133
+        ],
+        "categorized": [
+          136
+        ],
+        "into": [
+          137
+        ],
+        "associations:": [
+          140
+        ],
+        "subtidal": [
+          141,
+          154
+        ],
+        "or": [
+          142,
+          230
+        ],
+        "estuarine,": [
+          143
+        ],
+        "mixed": [
+          144
+        ],
+        "flats": [
+          145,
+          181,
+          203,
+          235
+        ],
+        "with": [
+          146,
+          182,
+          258
+        ],
+        "tidal": [
+          147,
+          150,
+          183,
+          199,
+          234
+        ],
+        "creeks,": [
+          148
+        ],
+        "mud": [
+          151,
+          202
+        ],
+        "flats.": [
+          152
+        ],
+        "facies,": [
+          155,
+          187
+        ],
+        "predominant": [
+          156
+        ],
+        "middle": [
+          159
+        ],
+        "member,": [
+          160
+        ],
+        "consists": [
+          161
+        ],
+        "fine": [
+          163
+        ],
+        "ripple": [
+          166
+        ],
+        "cross-stratified": [
+          167,
+          170,
+          174
+        ],
+        "sandstone-siltstone,": [
+          168,
+          211
+        ],
+        "herringbone": [
+          169
+        ],
+        "sandstone,": [
+          171,
+          175
+        ],
+        "trough": [
+          173
+        ],
+        "indicating": [
+          176
+        ],
+        "sub-tidal": [
+          177,
+          195
+        ],
+        "channel": [
+          178
+        ],
+        "deposition.": [
+          179
+        ],
+        "Mixed": [
+          180
+        ],
+        "creeks": [
+          184
+        ],
+        "exhibit": [
+          185
+        ],
+        "heterolithic": [
+          186
+        ],
+        "suggesting": [
+          188
+        ],
+        "energy": [
+          189
+        ],
+        "level": [
+          190
+        ],
+        "changes": [
+          191,
+          231
+        ],
+        "intertidal": [
+          193,
+          219
+        ],
+        "zones": [
+          196
+        ],
+        "influenced": [
+          197
+        ],
+        "by": [
+          198
+        ],
+        "currents.": [
+          200
+        ],
+        "Tidal": [
+          201
+        ],
+        "are": [
+          204
+        ],
+        "predominantly": [
+          205
+        ],
+        "laminated": [
+          206,
+          210
+        ],
+        "shale/mudstone": [
+          207
+        ],
+        "lenticular": [
+          209
+        ],
+        "reflecting": [
+          212
+        ],
+        "deposition": [
+          213
+        ],
+        "during": [
+          214,
+          237
+        ],
+        "tide": [
+          215
+        ],
+        "transitions": [
+          216
+        ],
+        "zone.": [
+          220
+        ],
+        "Fining": [
+          221
+        ],
+        "upward": [
+          222
+        ],
+        "cycles": [
+          223
+        ],
+        "indicate": [
+          227
+        ],
+        "progressive": [
+          228
+        ],
+        "progradation": [
+          229
+        ],
+        "inner": [
+          233
+        ],
+        "conditions": [
+          236
+        ],
+        "regressive": [
+          238
+        ],
+        "periods.": [
+          239
+        ],
+        "These": [
+          240
+        ],
+        "settings": [
+          242
+        ],
+        "serve": [
+          243
+        ],
+        "as": [
+          244
+        ],
+        "analogs": [
+          245
+        ],
+        "subsurface": [
+          248
+        ],
+        "reservoirs": [
+          249
+        ],
+        "contribute": [
+          251
+        ],
+        "construction": [
+          254
+        ],
+        "reservoir": [
+          256
+        ],
+        "models": [
+          257
+        ],
+        "greater": [
+          259
+        ],
+        "accuracy.": [
+          260
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -24884,7 +24489,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25743,8 +25348,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387133041.pdf"
@@ -27077,8 +26682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -27175,6 +26780,1004 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4395117463",
+      "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
+      "title": "Lithostratigraphy and Microfacies of the Upper Cretaceous Muti Formation of the Oman Foreland Basin, Nakhal Area, Oman",
+      "display_name": "Lithostratigraphy and Microfacies of the Upper Cretaceous Muti Formation of the Oman Foreland Basin, Nakhal Area, Oman",
+      "publication_year": 2024,
+      "publication_date": "2024-04-24",
+      "ids": {
+        "openalex": "https://openalex.org/W4395117463",
+        "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
+        "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
+        "source": {
+          "id": "https://openalex.org/S4210198324",
+          "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
+          "issn_l": "2308-3921",
+          "issn": [
+            "2308-3921",
+            "2414-536X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319258",
+          "host_organization_name": "Sultan Qaboos University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319258"
+          ],
+          "host_organization_lineage_names": [
+            "Sultan Qaboos University"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sultan Qaboos University Journal For Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094194318",
+            "display_name": "Jenan Ahmed Attar",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Jenan Ahmed Attar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085026818",
+            "display_name": "İftikhar Ahmed Abbasi",
+            "orcid": "https://orcid.org/0000-0002-1968-0929"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Iftikhar Ahmed Abbasi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002977770",
+            "display_name": "Muhammad Hanif",
+            "orcid": "https://orcid.org/0000-0002-1133-5661"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Hanif",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A.K. El-Ghali",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111181052",
+            "display_name": "Abdulrazaq Al-Sayigh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulrazaq Al-Sayigh",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5095883203",
+            "display_name": "Abdul Rahman Al-Harthi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdul Rahman Al-Harthi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094194318"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.975,
+      "has_fulltext": true,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.93464914,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "29",
+        "issue": "1",
+        "first_page": "68",
+        "last_page": "85"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.998199999332428,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9929999709129333,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9835000038146973,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/foreland-basin",
+          "display_name": "Foreland basin",
+          "score": 0.956454873085022
+        },
+        {
+          "id": "https://openalex.org/keywords/lithostratigraphy",
+          "display_name": "Lithostratigraphy",
+          "score": 0.9476807713508606
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.828355610370636
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.7922563552856445
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6397925615310669
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.5453578233718872
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C193748577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
+          "display_name": "Foreland basin",
+          "level": 3,
+          "score": 0.956454873085022
+        },
+        {
+          "id": "https://openalex.org/C40616122",
+          "wikidata": "https://www.wikidata.org/wiki/Q856124",
+          "display_name": "Lithostratigraphy",
+          "level": 3,
+          "score": 0.9476807713508606
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.828355610370636
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.7922563552856445
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6397925615310669
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5453578233718872
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
+          "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
+          "source": {
+            "id": "https://openalex.org/S4210198324",
+            "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
+            "issn_l": "2308-3921",
+            "issn": [
+              "2308-3921",
+              "2414-536X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310319258",
+            "host_organization_name": "Sultan Qaboos University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319258"
+            ],
+            "host_organization_lineage_names": [
+              "Sultan Qaboos University"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sultan Qaboos University Journal For Science",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
+        "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
+        "source": {
+          "id": "https://openalex.org/S4210198324",
+          "display_name": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
+          "issn_l": "2308-3921",
+          "issn": [
+            "2308-3921",
+            "2414-536X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319258",
+          "host_organization_name": "Sultan Qaboos University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319258"
+          ],
+          "host_organization_lineage_names": [
+            "Sultan Qaboos University"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sultan Qaboos University Journal For Science",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4395117463.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4395117463.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2373153435",
+        "https://openalex.org/W2376133542",
+        "https://openalex.org/W2378842617",
+        "https://openalex.org/W112785592",
+        "https://openalex.org/W2318309206",
+        "https://openalex.org/W2800531900",
+        "https://openalex.org/W2762997592",
+        "https://openalex.org/W2353665858",
+        "https://openalex.org/W3191324057",
+        "https://openalex.org/W2113750225"
+      ],
+      "abstract_inverted_index": {
+        "50": [
+          110
+        ],
+        "The": [
+          0,
+          27,
+          53,
+          88,
+          105
+        ],
+        "Upper": [
+          1,
+          251
+        ],
+        "Cretaceous": [
+          2
+        ],
+        "Muti": [
+          3,
+          65,
+          195,
+          244
+        ],
+        "Formation": [
+          4,
+          66,
+          196
+        ],
+        "was": [
+          5,
+          162,
+          201
+        ],
+        "deposited": [
+          6,
+          202
+        ],
+        "in": [
+          7,
+          31,
+          67,
+          101,
+          197,
+          203,
+          225
+        ],
+        "the": [
+          8,
+          13,
+          16,
+          20,
+          24,
+          43,
+          49,
+          57,
+          61,
+          64,
+          68,
+          74,
+          79,
+          82,
+          86,
+          93,
+          102,
+          194,
+          198,
+          209,
+          212,
+          234,
+          239
+        ],
+        "Oman": [
+          9,
+          248
+        ],
+        "Foreland": [
+          10,
+          249
+        ],
+        "Basin": [
+          11
+        ],
+        "during": [
+          12
+        ],
+        "obduction": [
+          14
+        ],
+        "of": [
+          15,
+          23,
+          63,
+          81,
+          85,
+          92,
+          115,
+          127,
+          173
+        ],
+        "allochthonous": [
+          17,
+          50
+        ],
+        "units": [
+          18
+        ],
+        "on": [
+          19,
+          73,
+          185,
+          208
+        ],
+        "eastern": [
+          21
+        ],
+        "margin": [
+          22
+        ],
+        "Arabian": [
+          25
+        ],
+        "Platform.": [
+          26
+        ],
+        "formation": [
+          28,
+          94,
+          216,
+          235
+        ],
+        "is": [
+          29,
+          40,
+          56,
+          108,
+          191,
+          217,
+          236
+        ],
+        "exposed": [
+          30,
+          237
+        ],
+        "various": [
+          32
+        ],
+        "isolated": [
+          33
+        ],
+        "outcrops": [
+          34,
+          62
+        ],
+        "around": [
+          35
+        ],
+        "Jabal": [
+          36,
+          253
+        ],
+        "Akhdar": [
+          37
+        ],
+        "Mountain": [
+          38
+        ],
+        "and": [
+          39,
+          48,
+          78,
+          90,
+          113,
+          123,
+          139,
+          147,
+          149,
+          158,
+          175,
+          179,
+          187,
+          232
+        ],
+        "located": [
+          41
+        ],
+        "between": [
+          42
+        ],
+        "Mesozoic": [
+          44
+        ],
+        "platform": [
+          45
+        ],
+        "carbonates": [
+          46
+        ],
+        "below": [
+          47
+        ],
+        "nappe": [
+          51
+        ],
+        "above.": [
+          52
+        ],
+        "current": [
+          54
+        ],
+        "study": [
+          55,
+          103
+        ],
+        "first": [
+          58
+        ],
+        "to": [
+          59,
+          211,
+          219,
+          238
+        ],
+        "describe": [
+          60
+        ],
+        "Nakhal": [
+          69,
+          106,
+          199,
+          246
+        ],
+        "area.": [
+          70,
+          104
+        ],
+        "It": [
+          71
+        ],
+        "focuses": [
+          72
+        ],
+        "lithofacies,": [
+          75
+        ],
+        "microfacies": [
+          76,
+          91,
+          129
+        ],
+        "distribution,": [
+          77
+        ],
+        "characterization": [
+          80
+        ],
+        "depositional": [
+          83
+        ],
+        "environment": [
+          84,
+          207
+        ],
+        "formation.": [
+          87
+        ],
+        "lithofacies": [
+          89
+        ],
+        "are": [
+          95,
+          130
+        ],
+        "described": [
+          96
+        ],
+        "from": [
+          97
+        ],
+        "two": [
+          98
+        ],
+        "measured": [
+          99
+        ],
+        "sections": [
+          100
+        ],
+        "section": [
+          107
+        ],
+        "about": [
+          109
+        ],
+        "m": [
+          111
+        ],
+        "thick": [
+          112
+        ],
+        "consists": [
+          114
+        ],
+        "four": [
+          116,
+          128
+        ],
+        "lithofacies:": [
+          117
+        ],
+        "marl,": [
+          118
+        ],
+        "bedded": [
+          119
+        ],
+        "limestone,": [
+          120,
+          122
+        ],
+        "nodular": [
+          121
+        ],
+        "clay.": [
+          124
+        ],
+        "A": [
+          125
+        ],
+        "total": [
+          126
+        ],
+        "identified,": [
+          131,
+          157
+        ],
+        "including": [
+          132
+        ],
+        "echinoderm-spine": [
+          133
+        ],
+        "wackestone,": [
+          134,
+          138
+        ],
+        "bioclastic": [
+          135
+        ],
+        "packestone,": [
+          136
+        ],
+        "arenaceous": [
+          137
+        ],
+        "mudstone.": [
+          140
+        ],
+        "Diagenetic": [
+          141
+        ],
+        "features": [
+          142
+        ],
+        "such": [
+          143,
+          166
+        ],
+        "as": [
+          144,
+          167
+        ],
+        "fractures,": [
+          145
+        ],
+        "cementations,": [
+          146
+        ],
+        "dissolutions,": [
+          148
+        ],
+        "their": [
+          150,
+          159
+        ],
+        "products,": [
+          151
+        ],
+        "for": [
+          152
+        ],
+        "instance,": [
+          153
+        ],
+        "porosities,": [
+          154
+        ],
+        "were": [
+          155,
+          182
+        ],
+        "also": [
+          156
+        ],
+        "paragenetic": [
+          160
+        ],
+        "history": [
+          161
+        ],
+        "reconstructed.": [
+          163
+        ],
+        "Additionally,": [
+          164
+        ],
+        "microfossils,": [
+          165
+        ],
+        "bryozoan": [
+          168
+        ],
+        "fragments,": [
+          169,
+          177
+        ],
+        "calcispheres,": [
+          170
+        ],
+        "bivalves,": [
+          171
+        ],
+        "fragments": [
+          172
+        ],
+        "echinoids,": [
+          174
+        ],
+        "brachiopod": [
+          176
+        ],
+        "benthic": [
+          178
+        ],
+        "planktonic": [
+          180
+        ],
+        "foraminifera": [
+          181
+        ],
+        "recognized.": [
+          183
+        ],
+        "Based": [
+          184
+        ],
+        "lithological": [
+          186
+        ],
+        "biotic": [
+          188
+        ],
+        "variations,": [
+          189
+        ],
+        "it": [
+          190
+        ],
+        "suggested": [
+          192
+        ],
+        "that": [
+          193
+        ],
+        "area": [
+          200
+        ],
+        "a": [
+          204
+        ],
+        "shallow": [
+          205
+        ],
+        "marine": [
+          206,
+          226
+        ],
+        "outer": [
+          210
+        ],
+        "mid-carbonate": [
+          213
+        ],
+        "shelves.": [
+          214
+        ],
+        "This": [
+          215
+        ],
+        "subjected": [
+          218
+        ],
+        "diagenetic": [
+          220
+        ],
+        "changes": [
+          221
+        ],
+        "starting": [
+          222
+        ],
+        "with": [
+          223
+        ],
+        "eogenesis": [
+          224
+        ],
+        "settings": [
+          227
+        ],
+        "followed": [
+          228
+        ],
+        "by": [
+          229
+        ],
+        "burial": [
+          230
+        ],
+        "diagenesis,": [
+          231
+        ],
+        "subsequently,": [
+          233
+        ],
+        "telogenetic": [
+          240
+        ],
+        "diagenesis": [
+          241
+        ],
+        "phase.": [
+          242
+        ],
+        "Keywords:": [
+          243
+        ],
+        "Formation,": [
+          245
+        ],
+        "Area,": [
+          247
+        ],
+        "Basin,": [
+          250
+        ],
+        "Cretaceous,": [
+          252
+        ],
+        "Akhdar.": [
+          254
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27430,11 +28033,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 14.7867,
-      "has_fulltext": false,
+      "fwci": 14.3996,
+      "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.98196916,
+        "value": 0.98158348,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27717,8 +28320,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409325706.pdf",
@@ -28454,7 +29057,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-12T23:16:27.785689",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28894,8 +29497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -29595,8 +30198,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -30267,8 +30870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -31188,8 +31791,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -31790,8 +32393,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -32694,8 +33297,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -33533,8 +34136,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -34244,8 +34847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -34921,8 +35524,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -35844,8 +36447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -37233,8 +37836,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -38173,8 +38776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -39652,8 +40255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -40300,8 +40903,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -41209,8 +41812,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -41749,8 +42352,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -42721,8 +43324,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4296742037.pdf",
@@ -44134,8 +44737,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -44626,8 +45229,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -45333,8 +45936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2611104737.pdf",
@@ -46350,8 +46953,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3113005327.pdf",
@@ -47863,8 +48466,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -49347,8 +49950,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -50124,8 +50727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -50705,8 +51308,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -51182,8 +51785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -51851,8 +52454,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -52595,8 +53198,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -54221,8 +54824,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4320057911.pdf"
@@ -55264,8 +55867,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -56859,8 +57462,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -57348,7 +57951,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.4613,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
         "value": 0.85873288,
@@ -57643,8 +58246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389914228.pdf",
@@ -57678,7 +58281,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-08T06:56:09.383167",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58339,8 +58942,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -59004,8 +59607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407416987.pdf"
@@ -60009,8 +60612,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60524,8 +61127,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -61044,8 +61647,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -61660,8 +62263,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -62548,8 +63151,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63674,8 +64277,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64697,8 +65300,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65776,8 +66379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3155447873.pdf",
@@ -66960,8 +67563,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -67589,8 +68192,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68198,8 +68801,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69131,8 +69734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -70234,8 +70837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -70761,8 +71364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -71412,8 +72015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -72103,8 +72706,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -72768,8 +73371,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -73266,8 +73869,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74049,8 +74652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -74609,8 +75212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -75027,8 +75630,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75675,8 +76278,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -76559,8 +77162,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -77301,8 +77904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -77476,7 +78079,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
@@ -77942,8 +78545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415948913.pdf",
@@ -78459,7 +79062,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T13:37:22.277990",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -79100,8 +79703,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -79312,7 +79915,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
@@ -79716,11 +80319,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4416331979.pdf"
+        "pdf": "https://content.openalex.org/works/W4416331979.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4416331979.grobid-xml"
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -80280,7 +80884,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-11-18T00:00:00"
     },
     {
@@ -80620,10 +81224,10 @@
         "value_usd": 1082
       },
       "fwci": 0,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52552984,
+        "value": 0.52474287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81110,8 +81714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417275861.pdf",
@@ -81558,7 +82162,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -81787,17 +82391,17 @@
         "value_usd": 2190
       },
       "fwci": 0,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70369302,
+        "value": 0.56575566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
+        "volume": "16",
+        "issue": "1",
         "first_page": null,
         "last_page": null
       },
@@ -82253,11 +82857,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W7128590603.pdf"
+        "pdf": "https://content.openalex.org/works/W7128590603.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7128590603.grobid-xml"
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -82864,7 +83469,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-13T13:36:01.753593",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2026-02-11T00:00:00"
     }
   ]

@@ -255,7 +255,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000619,
+        "value": 0.0000618,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -1062,8 +1062,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2097,8 +2097,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3725,8 +3725,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4212,11 +4212,11 @@
         "currency": "USD",
         "value_usd": 4000
       },
-      "fwci": 16.5233,
+      "fwci": 16.5423,
       "has_fulltext": false,
       "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.99191738,
+        "value": 0.99192825,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4749,711 +4749,7 @@
         "https://openalex.org/W194501552",
         "https://openalex.org/W2736102082"
       ],
-      "abstract_inverted_index": {
-        "Dolomitization": [
-          0
-        ],
-        "is": [
-          1,
-          16,
-          272,
-          278
-        ],
-        "one": [
-          2
-        ],
-        "of": [
-          3,
-          26,
-          46,
-          70,
-          84,
-          111,
-          129,
-          151,
-          178,
-          186,
-          203,
-          210,
-          216,
-          223,
-          231,
-          241,
-          246,
-          265,
-          268,
-          276,
-          285,
-          292,
-          300,
-          310
-        ],
-        "the": [
-          4,
-          41,
-          44,
-          66,
-          75,
-          115,
-          127,
-          130,
-          144,
-          149,
-          152,
-          170,
-          184,
-          187,
-          199,
-          214,
-          235,
-          242,
-          247,
-          262,
-          269,
-          283,
-          290,
-          307
-        ],
-        "most": [
-          5
-        ],
-        "significant": [
-          6
-        ],
-        "diagenetic": [
-          7
-        ],
-        "reactions": [
-          8
-        ],
-        "in": [
-          9,
-          49,
-          54,
-          74,
-          93,
-          100,
-          114,
-          122,
-          183,
-          198,
-          312
-        ],
-        "carbonate": [
-          10,
-          98
-        ],
-        "systems,": [
-          11
-        ],
-        "occurring": [
-          12
-        ],
-        "where": [
-          13
-        ],
-        "limestone": [
-          14
-        ],
-        "(CaCO3)": [
-          15
-        ],
-        "replaced": [
-          17
-        ],
-        "by": [
-          18
-        ],
-        "dolomite": [
-          19,
-          164,
-          182,
-          243
-        ],
-        "(CaMg": [
-          20
-        ],
-        "(CO3)2)": [
-          21
-        ],
-        "under": [
-          22
-        ],
-        "a": [
-          23,
-          55,
-          81,
-          94,
-          158
-        ],
-        "wide": [
-          24
-        ],
-        "range": [
-          25
-        ],
-        "crystallization": [
-          27
-        ],
-        "temperatures": [
-          28,
-          134
-        ],
-        "and": [
-          29,
-          68,
-          86,
-          120,
-          137,
-          201,
-          225,
-          228
-        ],
-        "fluids.": [
-          30
-        ],
-        "The": [
-          31
-        ],
-        "processes": [
-          32,
-          197
-        ],
-        "governing": [
-          33
-        ],
-        "its": [
-          34
-        ],
-        "formation": [
-          35,
-          200
-        ],
-        "have": [
-          36,
-          60
-        ],
-        "been": [
-          37
-        ],
-        "well": [
-          38
-        ],
-        "studied,": [
-          39
-        ],
-        "but": [
-          40
-        ],
-        "controls": [
-          42
-        ],
-        "on": [
-          43
-        ],
-        "position": [
-          45
-        ],
-        "dolomitization": [
-          47,
-          72,
-          145,
-          205,
-          211,
-          232,
-          258,
-          293,
-          301,
-          315
-        ],
-        "fronts": [
-          48,
-          73,
-          206,
-          233,
-          259
-        ],
-        "ancient": [
-          50
-        ],
-        "natural": [
-          51
-        ],
-        "settings,": [
-          52
-        ],
-        "particularly": [
-          53
-        ],
-        "fault-controlled": [
-          56
-        ],
-        "hydrothermal": [
-          57
-        ],
-        "system": [
-          58
-        ],
-        "(HTD),": [
-          59
-        ],
-        "received": [
-          61
-        ],
-        "remarkably": [
-          62
-        ],
-        "little": [
-          63
-        ],
-        "attention.": [
-          64
-        ],
-        "Hence,": [
-          65
-        ],
-        "origin": [
-          67
-        ],
-        "evolution": [
-          69,
-          202
-        ],
-        "HTD": [
-          71,
-          204
-        ],
-        "stratigraphic": [
-          76
-        ],
-        "record": [
-          77,
-          261
-        ],
-        "remain": [
-          78
-        ],
-        "enigmatic.": [
-          79
-        ],
-        "Here,": [
-          80
-        ],
-        "new": [
-          82,
-          254
-        ],
-        "set": [
-          83
-        ],
-        "mineralogical": [
-          85
-        ],
-        "geochemical": [
-          87
-        ],
-        "data": [
-          88
-        ],
-        "collected": [
-          89
-        ],
-        "from": [
-          90,
-          160
-        ],
-        "different": [
-          91
-        ],
-        "transects": [
-          92
-        ],
-        "partially": [
-          95
-        ],
-        "dolomitized": [
-          96
-        ],
-        "Cambrian": [
-          97
-        ],
-        "platform": [
-          99
-        ],
-        "western": [
-          101
-        ],
-        "Canada": [
-          102
-        ],
-        "are": [
-          103,
-          135,
-          140,
-          191
-        ],
-        "presented": [
-          104
-        ],
-        "to": [
-          105,
-          172,
-          180,
-          193,
-          220,
-          280,
-          305,
-          314
-        ],
-        "address": [
-          106
-        ],
-        "this": [
-          107
-        ],
-        "issue.": [
-          108
-        ],
-        "Systematic": [
-          109
-        ],
-        "patterns": [
-          110
-        ],
-        "sudden": [
-          112
-        ],
-        "decrease": [
-          113
-        ],
-        "magnesium": [
-          116,
-          224
-        ],
-        "content": [
-          117
-        ],
-        "(mol%": [
-          118
-        ],
-        "MgCO3)": [
-          119
-        ],
-        "increase": [
-          121
-        ],
-        "porosity": [
-          123,
-          277,
-          311
-        ],
-        "were": [
-          124
-        ],
-        "observed": [
-          125
-        ],
-        "towards": [
-          126,
-          234
-        ],
-        "margin": [
-          128
-        ],
-        "body.": [
-          131,
-          153,
-          188
-        ],
-        "Furthermore,": [
-          132
-        ],
-        "fluid": [
-          133,
-          226,
-          236
-        ],
-        "cooler": [
-          136
-        ],
-        "δ18Owater": [
-          138
-        ],
-        "values": [
-          139
-        ],
-        "less": [
-          141
-        ],
-        "positive": [
-          142
-        ],
-        "at": [
-          143,
-          169,
-          213
-        ],
-        "front": [
-          146
-        ],
-        "than": [
-          147
-        ],
-        "within": [
-          148
-        ],
-        "core": [
-          150,
-          185
-        ],
-        "These": [
-          154,
-          189
-        ],
-        "changes": [
-          155
-        ],
-        "coincide": [
-          156
-        ],
-        "with": [
-          157,
-          165,
-          298
-        ],
-        "change": [
-          159
-        ],
-        "poorly": [
-          161
-        ],
-        "ordered,": [
-          162
-        ],
-        "planar-e": [
-          163
-        ],
-        "multiple": [
-          166
-        ],
-        "crystal": [
-          167
-        ],
-        "zonations": [
-          168
-        ],
-        "margin,": [
-          171
-        ],
-        "an": [
-          173
-        ],
-        "unzoned,": [
-          174
-        ],
-        "well-ordered,": [
-          175
-        ],
-        "interlocking": [
-          176
-        ],
-        "mosaic": [
-          177
-        ],
-        "planar-s": [
-          179
-        ],
-        "nonplanar": [
-          181
-        ],
-        "phenomena": [
-          190
-        ],
-        "hypothesized": [
-          192
-        ],
-        "reflect": [
-          194
-        ],
-        "dynamic,": [
-          195
-        ],
-        "self-limiting": [
-          196
-        ],
-        "through": [
-          207
-        ],
-        "(i)": [
-          208
-        ],
-        "plummet": [
-          209
-        ],
-        "potential": [
-          212
-        ],
-        "head": [
-          215
-        ],
-        "dolomitizing": [
-          217
-        ],
-        "fluids": [
-          218
-        ],
-        "due": [
-          219
-        ],
-        "progressive": [
-          221
-        ],
-        "consumption": [
-          222
-        ],
-        "cooling;": [
-          227
-        ],
-        "(ii)": [
-          229
-        ],
-        "retreat": [
-          230
-        ],
-        "source": [
-          237
-        ],
-        "during": [
-          238,
-          289
-        ],
-        "subsequent": [
-          239
-        ],
-        "recrystallization": [
-          240
-        ],
-        "body,": [
-          244
-        ],
-        "inboard": [
-          245
-        ],
-        "termination,": [
-          248
-        ],
-        "once": [
-          249
-        ],
-        "overdolomitization": [
-          250
-        ],
-        "took": [
-          251
-        ],
-        "place.": [
-          252
-        ],
-        "This": [
-          253,
-          295
-        ],
-        "insight": [
-          255
-        ],
-        "illustrates": [
-          256
-        ],
-        "how": [
-          257
-        ],
-        "can": [
-          260
-        ],
-        "oldest": [
-          263
-        ],
-        "phase": [
-          264
-        ],
-        "dolomitization,": [
-          266
-        ],
-        "instead": [
-          267
-        ],
-        "youngest": [
-          270
-        ],
-        "as": [
-          271,
-          282
-        ],
-        "often": [
-          273
-        ],
-        "assumed.": [
-          274
-        ],
-        "Formation": [
-          275
-        ],
-        "interpreted": [
-          279
-        ],
-        "occur": [
-          281
-        ],
-        "result": [
-          284
-        ],
-        "acidification-induced": [
-          286
-        ],
-        "grain": [
-          287
-        ],
-        "leaching": [
-          288
-        ],
-        "development": [
-          291
-        ],
-        "fronts.": [
-          294,
-          316
-        ],
-        "mechanism,": [
-          296
-        ],
-        "coupled": [
-          297
-        ],
-        "retrogradation": [
-          299
-        ],
-        "fronts,": [
-          302
-        ],
-        "may": [
-          303
-        ],
-        "help": [
-          304
-        ],
-        "explain": [
-          306
-        ],
-        "apparent": [
-          308
-        ],
-        "enhancement": [
-          309
-        ],
-        "proximity": [
-          313
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -5484,7 +4780,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7649,8 +6945,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9218,8 +8514,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11359,8 +10655,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -12006,8 +11302,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -13325,8 +12621,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -14035,8 +13331,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15556,8 +14852,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -16342,8 +15638,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17545,8 +16841,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18469,1285 +17765,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4406289730",
-      "doi": "https://doi.org/10.1186/s40517-024-00324-3",
-      "title": "Forecasting geothermal temperature in western Yemen with Bayesian-optimized machine learning regression models",
-      "display_name": "Forecasting geothermal temperature in western Yemen with Bayesian-optimized machine learning regression models",
-      "publication_year": 2025,
-      "publication_date": "2025-01-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4406289730",
-        "doi": "https://doi.org/10.1186/s40517-024-00324-3"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1186/s40517-024-00324-3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
-        "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
-        "source": {
-          "id": "https://openalex.org/S3035639243",
-          "display_name": "Geothermal Energy",
-          "issn_l": "2195-9706",
-          "issn": [
-            "2195-9706"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geothermal Energy",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013827317",
-            "display_name": "Abdulrahman Al‐Fakih",
-            "orcid": "https://orcid.org/0000-0001-7583-768X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulrahman Al-Fakih",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032705275",
-            "display_name": "Abbas Mohamed Al-Khudafi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210116351",
-              "display_name": "Lebanese International University",
-              "ror": "https://ror.org/027anng05",
-              "country_code": "YE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210116351"
-              ]
-            }
-          ],
-          "countries": [
-            "YE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abbas Al-khudafi",
-          "raw_affiliation_strings": [
-            "Faculty of Engineering and IT, Oil, and Gas Engineering Department, Emirates International University, Hadda Street, Sanaa, Yemen"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Engineering and IT, Oil, and Gas Engineering Department, Emirates International University, Hadda Street, Sanaa, Yemen",
-              "institution_ids": [
-                "https://openalex.org/I4210116351"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ardiansyah Koeshidayatullah",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024607591",
-            "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "SanLinn Kaka",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5112212575",
-            "display_name": "Abdelrigeeb A. Al-Gathe",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I319841309",
-              "display_name": "Hadhramout University",
-              "ror": "https://ror.org/02kv0px94",
-              "country_code": "YE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I319841309"
-              ]
-            }
-          ],
-          "countries": [
-            "YE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelrigeeb Al-Gathe",
-          "raw_affiliation_strings": [
-            "Faculty of Engineering and Petroleum, Department of Petroleum Engineering, Hadhramout University, Al-Mukalla, Yemen"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Engineering and Petroleum, Department of Petroleum Engineering, Hadhramout University, Al-Mukalla, Yemen",
-              "institution_ids": [
-                "https://openalex.org/I319841309"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013827317"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1190,
-        "currency": "GBP",
-        "value_usd": 1459
-      },
-      "apc_paid": {
-        "value": 1190,
-        "currency": "GBP",
-        "value_usd": 1459
-      },
-      "fwci": 19.9159,
-      "has_fulltext": true,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.98986133,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "13",
-        "issue": "1",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9932000041007996,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9932000041007996,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12205",
-          "display_name": "Time Series Analysis and Forecasting",
-          "score": 0.989799976348877,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1711",
-            "display_name": "Signal Processing"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9369000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geothermal-gradient",
-          "display_name": "Geothermal gradient",
-          "score": 0.7500519752502441
-        },
-        {
-          "id": "https://openalex.org/keywords/bayesian-probability",
-          "display_name": "Bayesian probability",
-          "score": 0.5606447458267212
-        },
-        {
-          "id": "https://openalex.org/keywords/regression",
-          "display_name": "Regression",
-          "score": 0.5521600246429443
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5173549056053162
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.5001723766326904
-        },
-        {
-          "id": "https://openalex.org/keywords/regression-analysis",
-          "display_name": "Regression analysis",
-          "score": 0.48758429288864136
-        },
-        {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.46065470576286316
-        },
-        {
-          "id": "https://openalex.org/keywords/data-mining",
-          "display_name": "Data mining",
-          "score": 0.4016094207763672
-        },
-        {
-          "id": "https://openalex.org/keywords/econometrics",
-          "display_name": "Econometrics",
-          "score": 0.37405937910079956
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.30782192945480347
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.20998451113700867
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.1589924693107605
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.09311115741729736
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C111766609",
-          "wikidata": "https://www.wikidata.org/wiki/Q636340",
-          "display_name": "Geothermal gradient",
-          "level": 2,
-          "score": 0.7500519752502441
-        },
-        {
-          "id": "https://openalex.org/C107673813",
-          "wikidata": "https://www.wikidata.org/wiki/Q812534",
-          "display_name": "Bayesian probability",
-          "level": 2,
-          "score": 0.5606447458267212
-        },
-        {
-          "id": "https://openalex.org/C83546350",
-          "wikidata": "https://www.wikidata.org/wiki/Q1139051",
-          "display_name": "Regression",
-          "level": 2,
-          "score": 0.5521600246429443
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.5173549056053162
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.5001723766326904
-        },
-        {
-          "id": "https://openalex.org/C152877465",
-          "wikidata": "https://www.wikidata.org/wiki/Q208042",
-          "display_name": "Regression analysis",
-          "level": 2,
-          "score": 0.48758429288864136
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0.46065470576286316
-        },
-        {
-          "id": "https://openalex.org/C124101348",
-          "wikidata": "https://www.wikidata.org/wiki/Q172491",
-          "display_name": "Data mining",
-          "level": 1,
-          "score": 0.4016094207763672
-        },
-        {
-          "id": "https://openalex.org/C149782125",
-          "wikidata": "https://www.wikidata.org/wiki/Q160039",
-          "display_name": "Econometrics",
-          "level": 1,
-          "score": 0.37405937910079956
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.30782192945480347
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.20998451113700867
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.1589924693107605
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.09311115741729736
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1186/s40517-024-00324-3",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
-          "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
-          "source": {
-            "id": "https://openalex.org/S3035639243",
-            "display_name": "Geothermal Energy",
-            "issn_l": "2195-9706",
-            "issn": [
-              "2195-9706"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geothermal Energy",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:10a945fb549a4bf0bb68c45c7e571138",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/10a945fb549a4bf0bb68c45c7e571138",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geothermal Energy, Vol 13, Iss 1, Pp 1-29 (2025)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1186/s40517-024-00324-3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
-        "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
-        "source": {
-          "id": "https://openalex.org/S3035639243",
-          "display_name": "Geothermal Energy",
-          "issn_l": "2195-9706",
-          "issn": [
-            "2195-9706"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geothermal Energy",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4300000071525574
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320336956",
-          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": false
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4406289730.pdf"
-      },
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W1594031697",
-        "https://openalex.org/W2128420091",
-        "https://openalex.org/W2133990480",
-        "https://openalex.org/W2140190241",
-        "https://openalex.org/W2187643071",
-        "https://openalex.org/W2319794630",
-        "https://openalex.org/W2502759836",
-        "https://openalex.org/W2556242343",
-        "https://openalex.org/W2767111233",
-        "https://openalex.org/W2775881897",
-        "https://openalex.org/W2911964244",
-        "https://openalex.org/W2937605205",
-        "https://openalex.org/W2944498527",
-        "https://openalex.org/W2991100041",
-        "https://openalex.org/W3018167922",
-        "https://openalex.org/W3046369681",
-        "https://openalex.org/W3122626956",
-        "https://openalex.org/W3160476821",
-        "https://openalex.org/W3175749703",
-        "https://openalex.org/W3176685651",
-        "https://openalex.org/W3208573580",
-        "https://openalex.org/W4210670220",
-        "https://openalex.org/W4221073031",
-        "https://openalex.org/W4225006674",
-        "https://openalex.org/W4233045210",
-        "https://openalex.org/W4254182148",
-        "https://openalex.org/W4281734012",
-        "https://openalex.org/W4283276295",
-        "https://openalex.org/W4283362770",
-        "https://openalex.org/W4291114417",
-        "https://openalex.org/W4293795394",
-        "https://openalex.org/W4318996920",
-        "https://openalex.org/W4319441886",
-        "https://openalex.org/W4321507487",
-        "https://openalex.org/W4322768410",
-        "https://openalex.org/W4385381947",
-        "https://openalex.org/W4388335269",
-        "https://openalex.org/W4390848493",
-        "https://openalex.org/W4391544902",
-        "https://openalex.org/W4391831858",
-        "https://openalex.org/W4391898502",
-        "https://openalex.org/W4398140948",
-        "https://openalex.org/W4398242299",
-        "https://openalex.org/W4400064117",
-        "https://openalex.org/W4401415491",
-        "https://openalex.org/W6600612351"
-      ],
-      "related_works": [
-        "https://openalex.org/W31220157",
-        "https://openalex.org/W2312753042",
-        "https://openalex.org/W4289356671",
-        "https://openalex.org/W2389155397",
-        "https://openalex.org/W2165884543",
-        "https://openalex.org/W3186837933",
-        "https://openalex.org/W2368989808",
-        "https://openalex.org/W1969346022",
-        "https://openalex.org/W2034959125",
-        "https://openalex.org/W2355687852"
-      ],
-      "abstract_inverted_index": {
-        "1": [
-          56
-        ],
-        "2": [
-          63
-        ],
-        "108": [
-          47
-        ],
-        "995": [
-          65
-        ],
-        "1402": [
-          58
-        ],
-        "Abstract": [
-          0
-        ],
-        "Geothermal": [
-          1
-        ],
-        "energy": [
-          2,
-          245,
-          252
-        ],
-        "is": [
-          3,
-          22
-        ],
-        "a": [
-          4,
-          78,
-          186
-        ],
-        "sustainable": [
-          5
-        ],
-        "resource": [
-          6,
-          246
-        ],
-        "for": [
-          7,
-          73
-        ],
-        "power": [
-          8
-        ],
-        "generation,": [
-          9
-        ],
-        "particularly": [
-          10
-        ],
-        "in": [
-          11,
-          38,
-          242
-        ],
-        "Yemen.": [
-          12
-        ],
-        "Efficient": [
-          13
-        ],
-        "utilization": [
-          14
-        ],
-        "necessitates": [
-          15
-        ],
-        "accurate": [
-          16
-        ],
-        "forecasting": [
-          17,
-          37
-        ],
-        "of": [
-          18,
-          80,
-          150,
-          154,
-          157,
-          160,
-          164,
-          184,
-          189,
-          192,
-          195,
-          199,
-          234
-        ],
-        "subsurface": [
-          19
-        ],
-        "temperatures,": [
-          20
-        ],
-        "which": [
-          21
-        ],
-        "challenging": [
-          23
-        ],
-        "with": [
-          24,
-          57,
-          64,
-          152,
-          207
-        ],
-        "conventional": [
-          25
-        ],
-        "methods.": [
-          26
-        ],
-        "This": [
-          27,
-          229
-        ],
-        "research": [
-          28,
-          253
-        ],
-        "leverages": [
-          29
-        ],
-        "machine": [
-          30,
-          81
-        ],
-        "learning": [
-          31,
-          82
-        ],
-        "(ML)": [
-          32
-        ],
-        "to": [
-          33,
-          90,
-          106,
-          250
-        ],
-        "optimize": [
-          34
-        ],
-        "geothermal": [
-          35,
-          48,
-          244
-        ],
-        "temperature": [
-          36
-        ],
-        "Yemen’s": [
-          39
-        ],
-        "western": [
-          40
-        ],
-        "region.": [
-          41
-        ],
-        "The": [
-          42,
-          112,
-          201
-        ],
-        "data": [
-          43,
-          59,
-          66,
-          72
-        ],
-        "set,": [
-          44
-        ],
-        "collected": [
-          45
-        ],
-        "from": [
-          46,
-          85
-        ],
-        "wells,": [
-          49
-        ],
-        "was": [
-          50,
-          100
-        ],
-        "divided": [
-          51
-        ],
-        "into": [
-          52
-        ],
-        "two": [
-          53
-        ],
-        "sets:": [
-          54
-        ],
-        "set": [
-          55,
-          62
-        ],
-        "points": [
-          60
-        ],
-        "and": [
-          61,
-          110,
-          129,
-          162,
-          197,
-          219,
-          224,
-          238,
-          254
-        ],
-        "points.": [
-          67
-        ],
-        "Feature": [
-          68
-        ],
-        "engineering": [
-          69
-        ],
-        "prepared": [
-          70
-        ],
-        "the": [
-          71,
-          103,
-          169,
-          232,
-          239
-        ],
-        "model": [
-          74,
-          108,
-          114
-        ],
-        "training.": [
-          75
-        ],
-        "We": [
-          76
-        ],
-        "evaluated": [
-          77
-        ],
-        "suite": [
-          79
-        ],
-        "regression": [
-          83,
-          88
-        ],
-        "models,": [
-          84
-        ],
-        "simple": [
-          86
-        ],
-        "linear": [
-          87
-        ],
-        "(SLR)": [
-          89
-        ],
-        "multi-layer": [
-          91
-        ],
-        "perceptron": [
-          92
-        ],
-        "(MLP).": [
-          93
-        ],
-        "Hyperparameter": [
-          94
-        ],
-        "tuning": [
-          95
-        ],
-        "using": [
-          96
-        ],
-        "Bayesian": [
-          97
-        ],
-        "optimization": [
-          98,
-          104
-        ],
-        "(BO)": [
-          99
-        ],
-        "selected": [
-          101
-        ],
-        "as": [
-          102
-        ],
-        "process": [
-          105,
-          171
-        ],
-        "boost": [
-          107
-        ],
-        "accuracy": [
-          109
-        ],
-        "performance.": [
-          111
-        ],
-        "MLP": [
-          113,
-          139
-        ],
-        "outperformed": [
-          115
-        ],
-        "others,": [
-          116
-        ],
-        "achieving": [
-          117,
-          173
-        ],
-        "high": [
-          118,
-          208
-        ],
-        "$$\\text": [
-          119,
-          141,
-          175,
-          209
-        ],
-        "{R}^{2}$$": [
-          120,
-          142,
-          176,
-          210
-        ],
-        "<mml:math": [
-          121,
-          143,
-          177,
-          211
-        ],
-        "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">": [
-          122,
-          144,
-          178,
-          212
-        ],
-        "<mml:msup>": [
-          123,
-          145,
-          179,
-          213
-        ],
-        "<mml:mtext>R</mml:mtext>": [
-          124,
-          146,
-          180,
-          214
-        ],
-        "<mml:mn>2</mml:mn>": [
-          125,
-          147,
-          181,
-          215
-        ],
-        "</mml:msup>": [
-          126,
-          148,
-          182,
-          216
-        ],
-        "</mml:math>": [
-          127,
-          149,
-          183,
-          217
-        ],
-        "values": [
-          128,
-          132,
-          218
-        ],
-        "low": [
-          130,
-          220
-        ],
-        "error": [
-          131,
-          221
-        ],
-        "across": [
-          133,
-          226
-        ],
-        "all": [
-          134,
-          227
-        ],
-        "metrics": [
-          135,
-          222
-        ],
-        "after": [
-          136
-        ],
-        "BO.": [
-          137
-        ],
-        "Specifically,": [
-          138
-        ],
-        "achieved": [
-          140
-        ],
-        "0.999,": [
-          151
-        ],
-        "MAE": [
-          153,
-          188
-        ],
-        "0.218,": [
-          155
-        ],
-        "RMSE": [
-          156,
-          191
-        ],
-        "0.285,": [
-          158
-        ],
-        "RAE": [
-          159,
-          194
-        ],
-        "4.071%,": [
-          161
-        ],
-        "RRSE": [
-          163,
-          198
-        ],
-        "4.011%.": [
-          165
-        ],
-        "BO": [
-          166,
-          241
-        ],
-        "significantly": [
-          167,
-          249
-        ],
-        "upgraded": [
-          168
-        ],
-        "Gaussian": [
-          170
-        ],
-        "model,": [
-          172
-        ],
-        "an": [
-          174
-        ],
-        "0.996,": [
-          185
-        ],
-        "minimum": [
-          187
-        ],
-        "0.283,": [
-          190
-        ],
-        "0.575,": [
-          193
-        ],
-        "5.453%,": [
-          196
-        ],
-        "8.717%.": [
-          200
-        ],
-        "models": [
-          202
-        ],
-        "demonstrated": [
-          203
-        ],
-        "robust": [
-          204
-        ],
-        "generalization": [
-          205
-        ],
-        "capabilities": [
-          206
-        ],
-        "(MAE": [
-          223
-        ],
-        "RMSE)": [
-          225
-        ],
-        "sets.": [
-          228
-        ],
-        "study": [
-          230
-        ],
-        "highlights": [
-          231
-        ],
-        "potential": [
-          233
-        ],
-        "enhanced": [
-          235
-        ],
-        "ML": [
-          236
-        ],
-        "techniques": [
-          237
-        ],
-        "novel": [
-          240
-        ],
-        "optimizing": [
-          243
-        ],
-        "exploitation,": [
-          247
-        ],
-        "contributing": [
-          248
-        ],
-        "renewable": [
-          251
-        ],
-        "development.": [
-          255
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-03-06T13:50:29.536080",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4405910999",
       "doi": "https://doi.org/10.1016/j.jseaes.2024.106483",
       "title": "Petrological and geochemical characteristics of Ordovician cherts in the Qasim Formation, NW Saudi Arabia: Understanding the roles of biogenic and volcanic activities",
@@ -20300,8 +18317,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -21221,8 +19238,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22638,8 +20655,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24096,8 +22113,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24858,8 +22875,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -26899,8 +24916,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28181,8 +26198,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28997,8 +27014,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31007,8 +29024,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -31674,8 +29691,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -32712,8 +30729,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -35081,8 +33098,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -35651,8 +33668,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36766,8 +34783,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37586,8 +35603,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -38375,8 +36392,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -38497,6 +36514,1286 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4406289730",
+      "doi": "https://doi.org/10.1186/s40517-024-00324-3",
+      "title": "Forecasting geothermal temperature in western Yemen with Bayesian-optimized machine learning regression models",
+      "display_name": "Forecasting geothermal temperature in western Yemen with Bayesian-optimized machine learning regression models",
+      "publication_year": 2025,
+      "publication_date": "2025-01-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4406289730",
+        "doi": "https://doi.org/10.1186/s40517-024-00324-3"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1186/s40517-024-00324-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
+        "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
+        "source": {
+          "id": "https://openalex.org/S3035639243",
+          "display_name": "Geothermal Energy",
+          "issn_l": "2195-9706",
+          "issn": [
+            "2195-9706"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geothermal Energy",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013827317",
+            "display_name": "Abdulrahman Al‐Fakih",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman Al-Fakih",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032705275",
+            "display_name": "Abbas Mohamed Al-Khudafi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210116351",
+              "display_name": "Lebanese International University",
+              "ror": "https://ror.org/027anng05",
+              "country_code": "YE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210116351"
+              ]
+            }
+          ],
+          "countries": [
+            "YE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abbas Al-khudafi",
+          "raw_affiliation_strings": [
+            "Faculty of Engineering and IT, Oil, and Gas Engineering Department, Emirates International University, Hadda Street, Sanaa, Yemen"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Engineering and IT, Oil, and Gas Engineering Department, Emirates International University, Hadda Street, Sanaa, Yemen",
+              "institution_ids": [
+                "https://openalex.org/I4210116351"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059881838",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0001-7558-8783"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ardiansyah Koeshidayatullah",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
+            "orcid": "https://orcid.org/0000-0003-1229-4627"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "SanLinn Kaka",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112212575",
+            "display_name": "Abdelrigeeb A. Al-Gathe",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I319841309",
+              "display_name": "Hadhramout University",
+              "ror": "https://ror.org/02kv0px94",
+              "country_code": "YE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I319841309"
+              ]
+            }
+          ],
+          "countries": [
+            "YE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelrigeeb Al-Gathe",
+          "raw_affiliation_strings": [
+            "Faculty of Engineering and Petroleum, Department of Petroleum Engineering, Hadhramout University, Al-Mukalla, Yemen"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Engineering and Petroleum, Department of Petroleum Engineering, Hadhramout University, Al-Mukalla, Yemen",
+              "institution_ids": [
+                "https://openalex.org/I319841309"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013827317"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1190,
+        "currency": "GBP",
+        "value_usd": 1459
+      },
+      "apc_paid": {
+        "value": 1190,
+        "currency": "GBP",
+        "value_usd": 1459
+      },
+      "fwci": 19.4988,
+      "has_fulltext": true,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.98957674,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9932000041007996,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9932000041007996,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12205",
+          "display_name": "Time Series Analysis and Forecasting",
+          "score": 0.989799976348877,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1711",
+            "display_name": "Signal Processing"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9369000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geothermal-gradient",
+          "display_name": "Geothermal gradient",
+          "score": 0.7500519752502441
+        },
+        {
+          "id": "https://openalex.org/keywords/bayesian-probability",
+          "display_name": "Bayesian probability",
+          "score": 0.5606447458267212
+        },
+        {
+          "id": "https://openalex.org/keywords/regression",
+          "display_name": "Regression",
+          "score": 0.5521600246429443
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5173549056053162
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.5001723766326904
+        },
+        {
+          "id": "https://openalex.org/keywords/regression-analysis",
+          "display_name": "Regression analysis",
+          "score": 0.48758429288864136
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "Machine learning",
+          "score": 0.46065470576286316
+        },
+        {
+          "id": "https://openalex.org/keywords/data-mining",
+          "display_name": "Data mining",
+          "score": 0.4016094207763672
+        },
+        {
+          "id": "https://openalex.org/keywords/econometrics",
+          "display_name": "Econometrics",
+          "score": 0.37405937910079956
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.30782192945480347
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.20998451113700867
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.1589924693107605
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.09311115741729736
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C111766609",
+          "wikidata": "https://www.wikidata.org/wiki/Q636340",
+          "display_name": "Geothermal gradient",
+          "level": 2,
+          "score": 0.7500519752502441
+        },
+        {
+          "id": "https://openalex.org/C107673813",
+          "wikidata": "https://www.wikidata.org/wiki/Q812534",
+          "display_name": "Bayesian probability",
+          "level": 2,
+          "score": 0.5606447458267212
+        },
+        {
+          "id": "https://openalex.org/C83546350",
+          "wikidata": "https://www.wikidata.org/wiki/Q1139051",
+          "display_name": "Regression",
+          "level": 2,
+          "score": 0.5521600246429443
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5173549056053162
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.5001723766326904
+        },
+        {
+          "id": "https://openalex.org/C152877465",
+          "wikidata": "https://www.wikidata.org/wiki/Q208042",
+          "display_name": "Regression analysis",
+          "level": 2,
+          "score": 0.48758429288864136
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.46065470576286316
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.4016094207763672
+        },
+        {
+          "id": "https://openalex.org/C149782125",
+          "wikidata": "https://www.wikidata.org/wiki/Q160039",
+          "display_name": "Econometrics",
+          "level": 1,
+          "score": 0.37405937910079956
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.30782192945480347
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.20998451113700867
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.1589924693107605
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.09311115741729736
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1186/s40517-024-00324-3",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
+          "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
+          "source": {
+            "id": "https://openalex.org/S3035639243",
+            "display_name": "Geothermal Energy",
+            "issn_l": "2195-9706",
+            "issn": [
+              "2195-9706"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geothermal Energy",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:10a945fb549a4bf0bb68c45c7e571138",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/10a945fb549a4bf0bb68c45c7e571138",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geothermal Energy, Vol 13, Iss 1, Pp 1-29 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1186/s40517-024-00324-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1186/s40517-024-00324-3",
+        "pdf_url": "https://geothermal-energy-journal.springeropen.com/counter/pdf/10.1186/s40517-024-00324-3",
+        "source": {
+          "id": "https://openalex.org/S3035639243",
+          "display_name": "Geothermal Energy",
+          "issn_l": "2195-9706",
+          "issn": [
+            "2195-9706"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geothermal Energy",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4300000071525574,
+          "display_name": "Responsible consumption and production"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4406289730.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4406289730.grobid-xml"
+      },
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W1594031697",
+        "https://openalex.org/W2128420091",
+        "https://openalex.org/W2133990480",
+        "https://openalex.org/W2140190241",
+        "https://openalex.org/W2187643071",
+        "https://openalex.org/W2319794630",
+        "https://openalex.org/W2502759836",
+        "https://openalex.org/W2556242343",
+        "https://openalex.org/W2767111233",
+        "https://openalex.org/W2775881897",
+        "https://openalex.org/W2911964244",
+        "https://openalex.org/W2937605205",
+        "https://openalex.org/W2944498527",
+        "https://openalex.org/W2991100041",
+        "https://openalex.org/W3018167922",
+        "https://openalex.org/W3046369681",
+        "https://openalex.org/W3122626956",
+        "https://openalex.org/W3160476821",
+        "https://openalex.org/W3175749703",
+        "https://openalex.org/W3176685651",
+        "https://openalex.org/W3208573580",
+        "https://openalex.org/W4210670220",
+        "https://openalex.org/W4221073031",
+        "https://openalex.org/W4225006674",
+        "https://openalex.org/W4233045210",
+        "https://openalex.org/W4254182148",
+        "https://openalex.org/W4281734012",
+        "https://openalex.org/W4283276295",
+        "https://openalex.org/W4283362770",
+        "https://openalex.org/W4291114417",
+        "https://openalex.org/W4293795394",
+        "https://openalex.org/W4318996920",
+        "https://openalex.org/W4319441886",
+        "https://openalex.org/W4321507487",
+        "https://openalex.org/W4322768410",
+        "https://openalex.org/W4385381947",
+        "https://openalex.org/W4388335269",
+        "https://openalex.org/W4390848493",
+        "https://openalex.org/W4391544902",
+        "https://openalex.org/W4391831858",
+        "https://openalex.org/W4391898502",
+        "https://openalex.org/W4398140948",
+        "https://openalex.org/W4398242299",
+        "https://openalex.org/W4400064117",
+        "https://openalex.org/W4401415491",
+        "https://openalex.org/W6600612351"
+      ],
+      "related_works": [
+        "https://openalex.org/W31220157",
+        "https://openalex.org/W2312753042",
+        "https://openalex.org/W4289356671",
+        "https://openalex.org/W2389155397",
+        "https://openalex.org/W2165884543",
+        "https://openalex.org/W3186837933",
+        "https://openalex.org/W2368989808",
+        "https://openalex.org/W1969346022",
+        "https://openalex.org/W2034959125",
+        "https://openalex.org/W2355687852"
+      ],
+      "abstract_inverted_index": {
+        "1": [
+          56
+        ],
+        "2": [
+          63
+        ],
+        "108": [
+          47
+        ],
+        "995": [
+          65
+        ],
+        "1402": [
+          58
+        ],
+        "Abstract": [
+          0
+        ],
+        "Geothermal": [
+          1
+        ],
+        "energy": [
+          2,
+          245,
+          252
+        ],
+        "is": [
+          3,
+          22
+        ],
+        "a": [
+          4,
+          78,
+          186
+        ],
+        "sustainable": [
+          5
+        ],
+        "resource": [
+          6,
+          246
+        ],
+        "for": [
+          7,
+          73
+        ],
+        "power": [
+          8
+        ],
+        "generation,": [
+          9
+        ],
+        "particularly": [
+          10
+        ],
+        "in": [
+          11,
+          38,
+          242
+        ],
+        "Yemen.": [
+          12
+        ],
+        "Efficient": [
+          13
+        ],
+        "utilization": [
+          14
+        ],
+        "necessitates": [
+          15
+        ],
+        "accurate": [
+          16
+        ],
+        "forecasting": [
+          17,
+          37
+        ],
+        "of": [
+          18,
+          80,
+          150,
+          154,
+          157,
+          160,
+          164,
+          184,
+          189,
+          192,
+          195,
+          199,
+          234
+        ],
+        "subsurface": [
+          19
+        ],
+        "temperatures,": [
+          20
+        ],
+        "which": [
+          21
+        ],
+        "challenging": [
+          23
+        ],
+        "with": [
+          24,
+          57,
+          64,
+          152,
+          207
+        ],
+        "conventional": [
+          25
+        ],
+        "methods.": [
+          26
+        ],
+        "This": [
+          27,
+          229
+        ],
+        "research": [
+          28,
+          253
+        ],
+        "leverages": [
+          29
+        ],
+        "machine": [
+          30,
+          81
+        ],
+        "learning": [
+          31,
+          82
+        ],
+        "(ML)": [
+          32
+        ],
+        "to": [
+          33,
+          90,
+          106,
+          250
+        ],
+        "optimize": [
+          34
+        ],
+        "geothermal": [
+          35,
+          48,
+          244
+        ],
+        "temperature": [
+          36
+        ],
+        "Yemen’s": [
+          39
+        ],
+        "western": [
+          40
+        ],
+        "region.": [
+          41
+        ],
+        "The": [
+          42,
+          112,
+          201
+        ],
+        "data": [
+          43,
+          59,
+          66,
+          72
+        ],
+        "set,": [
+          44
+        ],
+        "collected": [
+          45
+        ],
+        "from": [
+          46,
+          85
+        ],
+        "wells,": [
+          49
+        ],
+        "was": [
+          50,
+          100
+        ],
+        "divided": [
+          51
+        ],
+        "into": [
+          52
+        ],
+        "two": [
+          53
+        ],
+        "sets:": [
+          54
+        ],
+        "set": [
+          55,
+          62
+        ],
+        "points": [
+          60
+        ],
+        "and": [
+          61,
+          110,
+          129,
+          162,
+          197,
+          219,
+          224,
+          238,
+          254
+        ],
+        "points.": [
+          67
+        ],
+        "Feature": [
+          68
+        ],
+        "engineering": [
+          69
+        ],
+        "prepared": [
+          70
+        ],
+        "the": [
+          71,
+          103,
+          169,
+          232,
+          239
+        ],
+        "model": [
+          74,
+          108,
+          114
+        ],
+        "training.": [
+          75
+        ],
+        "We": [
+          76
+        ],
+        "evaluated": [
+          77
+        ],
+        "suite": [
+          79
+        ],
+        "regression": [
+          83,
+          88
+        ],
+        "models,": [
+          84
+        ],
+        "simple": [
+          86
+        ],
+        "linear": [
+          87
+        ],
+        "(SLR)": [
+          89
+        ],
+        "multi-layer": [
+          91
+        ],
+        "perceptron": [
+          92
+        ],
+        "(MLP).": [
+          93
+        ],
+        "Hyperparameter": [
+          94
+        ],
+        "tuning": [
+          95
+        ],
+        "using": [
+          96
+        ],
+        "Bayesian": [
+          97
+        ],
+        "optimization": [
+          98,
+          104
+        ],
+        "(BO)": [
+          99
+        ],
+        "selected": [
+          101
+        ],
+        "as": [
+          102
+        ],
+        "process": [
+          105,
+          171
+        ],
+        "boost": [
+          107
+        ],
+        "accuracy": [
+          109
+        ],
+        "performance.": [
+          111
+        ],
+        "MLP": [
+          113,
+          139
+        ],
+        "outperformed": [
+          115
+        ],
+        "others,": [
+          116
+        ],
+        "achieving": [
+          117,
+          173
+        ],
+        "high": [
+          118,
+          208
+        ],
+        "$$\\text": [
+          119,
+          141,
+          175,
+          209
+        ],
+        "{R}^{2}$$": [
+          120,
+          142,
+          176,
+          210
+        ],
+        "<mml:math": [
+          121,
+          143,
+          177,
+          211
+        ],
+        "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">": [
+          122,
+          144,
+          178,
+          212
+        ],
+        "<mml:msup>": [
+          123,
+          145,
+          179,
+          213
+        ],
+        "<mml:mtext>R</mml:mtext>": [
+          124,
+          146,
+          180,
+          214
+        ],
+        "<mml:mn>2</mml:mn>": [
+          125,
+          147,
+          181,
+          215
+        ],
+        "</mml:msup>": [
+          126,
+          148,
+          182,
+          216
+        ],
+        "</mml:math>": [
+          127,
+          149,
+          183,
+          217
+        ],
+        "values": [
+          128,
+          132,
+          218
+        ],
+        "low": [
+          130,
+          220
+        ],
+        "error": [
+          131,
+          221
+        ],
+        "across": [
+          133,
+          226
+        ],
+        "all": [
+          134,
+          227
+        ],
+        "metrics": [
+          135,
+          222
+        ],
+        "after": [
+          136
+        ],
+        "BO.": [
+          137
+        ],
+        "Specifically,": [
+          138
+        ],
+        "achieved": [
+          140
+        ],
+        "0.999,": [
+          151
+        ],
+        "MAE": [
+          153,
+          188
+        ],
+        "0.218,": [
+          155
+        ],
+        "RMSE": [
+          156,
+          191
+        ],
+        "0.285,": [
+          158
+        ],
+        "RAE": [
+          159,
+          194
+        ],
+        "4.071%,": [
+          161
+        ],
+        "RRSE": [
+          163,
+          198
+        ],
+        "4.011%.": [
+          165
+        ],
+        "BO": [
+          166,
+          241
+        ],
+        "significantly": [
+          167,
+          249
+        ],
+        "upgraded": [
+          168
+        ],
+        "Gaussian": [
+          170
+        ],
+        "model,": [
+          172
+        ],
+        "an": [
+          174
+        ],
+        "0.996,": [
+          185
+        ],
+        "minimum": [
+          187
+        ],
+        "0.283,": [
+          190
+        ],
+        "0.575,": [
+          193
+        ],
+        "5.453%,": [
+          196
+        ],
+        "8.717%.": [
+          200
+        ],
+        "models": [
+          202
+        ],
+        "demonstrated": [
+          203
+        ],
+        "robust": [
+          204
+        ],
+        "generalization": [
+          205
+        ],
+        "capabilities": [
+          206
+        ],
+        "(MAE": [
+          223
+        ],
+        "RMSE)": [
+          225
+        ],
+        "sets.": [
+          228
+        ],
+        "study": [
+          230
+        ],
+        "highlights": [
+          231
+        ],
+        "potential": [
+          233
+        ],
+        "enhanced": [
+          235
+        ],
+        "ML": [
+          236
+        ],
+        "techniques": [
+          237
+        ],
+        "novel": [
+          240
+        ],
+        "optimizing": [
+          243
+        ],
+        "exploitation,": [
+          247
+        ],
+        "contributing": [
+          248
+        ],
+        "renewable": [
+          251
+        ],
+        "development.": [
+          255
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40409,8 +39706,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41611,8 +40908,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -42833,8 +42130,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -43697,8 +42994,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -44695,8 +43992,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -45576,8 +44873,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -46948,8 +46245,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -48334,8 +47631,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -50911,8 +50208,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -52039,8 +51336,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -52717,11 +52014,11 @@
         "currency": "USD",
         "value_usd": 1500
       },
-      "fwci": 0.7324,
+      "fwci": 0.7273,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78154762,
+        "value": 0.78057503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53066,8 +52363,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -53160,14 +52457,734 @@
         "https://openalex.org/W4390432507",
         "https://openalex.org/W2921505788"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "7": [
+          164
+        ],
+        "365": [
+          155
+        ],
+        "867": [
+          171
+        ],
+        "2024": [
+          245
+        ],
+        "3116": [
+          149
+        ],
+        "Indonesia,": [
+          0
+        ],
+        "one": [
+          1,
+          43
+        ],
+        "of": [
+          2,
+          22,
+          44,
+          55,
+          84,
+          205,
+          279,
+          287,
+          294
+        ],
+        "the": [
+          3,
+          8,
+          25,
+          45,
+          82,
+          86,
+          94,
+          185,
+          193,
+          213,
+          259,
+          266,
+          277,
+          285,
+          292
+        ],
+        "most": [
+          4,
+          260
+        ],
+        "earthquake-prone": [
+          5
+        ],
+        "countries": [
+          6
+        ],
+        "in": [
+          7,
+          40,
+          98,
+          145,
+          231,
+          262,
+          271
+        ],
+        "world,": [
+          9
+        ],
+        "is": [
+          10,
+          52
+        ],
+        "currently": [
+          11
+        ],
+        "developing": [
+          12
+        ],
+        "an": [
+          13
+        ],
+        "Earthquake": [
+          14,
+          296
+        ],
+        "Early": [
+          15,
+          297
+        ],
+        "Warning": [
+          16,
+          298
+        ],
+        "(EEW)": [
+          17
+        ],
+        "system.": [
+          18
+        ],
+        "A": [
+          19
+        ],
+        "key": [
+          20
+        ],
+        "component": [
+          21
+        ],
+        "this": [
+          23,
+          49,
+          104,
+          272
+        ],
+        "system,": [
+          24
+        ],
+        "Regional": [
+          26
+        ],
+        "EEW,": [
+          27
+        ],
+        "relies": [
+          28
+        ],
+        "on": [
+          29,
+          71
+        ],
+        "Ground": [
+          30,
+          142
+        ],
+        "Motion": [
+          31
+        ],
+        "Prediction": [
+          32
+        ],
+        "models": [
+          33,
+          136,
+          282
+        ],
+        "(GMPMs)": [
+          34
+        ],
+        "to": [
+          35,
+          124,
+          139,
+          163,
+          283,
+          291
+        ],
+        "issue": [
+          36
+        ],
+        "end-user": [
+          37
+        ],
+        "alerts.": [
+          38
+        ],
+        "However,": [
+          39,
+          78
+        ],
+        "West": [
+          41,
+          146
+        ],
+        "Java,": [
+          42,
+          147
+        ],
+        "pilot": [
+          46
+        ],
+        "regions": [
+          47
+        ],
+        "for": [
+          48,
+          59,
+          88,
+          127,
+          221
+        ],
+        "project,": [
+          50
+        ],
+        "there": [
+          51
+        ],
+        "a": [
+          53
+        ],
+        "lack": [
+          54
+        ],
+        "region-specific": [
+          56
+        ],
+        "GMPMs": [
+          57,
+          64,
+          126
+        ],
+        "essential": [
+          58
+        ],
+        "accurate": [
+          60
+        ],
+        "early": [
+          61
+        ],
+        "warnings.": [
+          62
+        ],
+        "Traditionally,": [
+          63
+        ],
+        "are": [
+          65
+        ],
+        "developed": [
+          66
+        ],
+        "using": [
+          67
+        ],
+        "linear": [
+          68
+        ],
+        "regression": [
+          69
+        ],
+        "based": [
+          70
+        ],
+        "complex,": [
+          72
+        ],
+        "predefined": [
+          73,
+          89
+        ],
+        "mathematical": [
+          74
+        ],
+        "equations": [
+          75,
+          90
+        ],
+        "and": [
+          76,
+          91,
+          120,
+          133,
+          165,
+          170,
+          202,
+          224,
+          243,
+          249,
+          255
+        ],
+        "coefficients.": [
+          77
+        ],
+        "Machine": [
+          79
+        ],
+        "learning": [
+          80,
+          110,
+          281
+        ],
+        "offers": [
+          81
+        ],
+        "advantages": [
+          83
+        ],
+        "bypassing": [
+          85
+        ],
+        "need": [
+          87
+        ],
+        "effectively": [
+          92
+        ],
+        "capturing": [
+          93
+        ],
+        "nonlinear": [
+          95
+        ],
+        "behavior": [
+          96
+        ],
+        "present": [
+          97
+        ],
+        "ground": [
+          99,
+          151
+        ],
+        "motion": [
+          100,
+          152
+        ],
+        "data.": [
+          101
+        ],
+        "To": [
+          102
+        ],
+        "address": [
+          103
+        ],
+        "gap,": [
+          105
+        ],
+        "we": [
+          106
+        ],
+        "evaluated": [
+          107
+        ],
+        "three": [
+          108,
+          128,
+          189
+        ],
+        "machine": [
+          109,
+          280
+        ],
+        "algorithms": [
+          111
+        ],
+        "(i.e.": [
+          112
+        ],
+        "Artificial": [
+          113
+        ],
+        "Neural": [
+          114
+        ],
+        "Network": [
+          115
+        ],
+        "[ANN],": [
+          116
+        ],
+        "Gradient": [
+          117,
+          181
+        ],
+        "Boosting": [
+          118,
+          182
+        ],
+        "[GB],": [
+          119
+        ],
+        "Random": [
+          121
+        ],
+        "Forest": [
+          122
+        ],
+        "[RF])": [
+          123
+        ],
+        "develop": [
+          125
+        ],
+        "tectonic": [
+          129,
+          190
+        ],
+        "categories:": [
+          130
+        ],
+        "shallow-crustal,": [
+          131,
+          222
+        ],
+        "interface,": [
+          132,
+          223
+        ],
+        "intraslab.": [
+          134
+        ],
+        "These": [
+          135,
+          274
+        ],
+        "were": [
+          137,
+          258
+        ],
+        "used": [
+          138,
+          270
+        ],
+        "predict": [
+          140
+        ],
+        "Peak": [
+          141
+        ],
+        "Acceleration": [
+          143
+        ],
+        "(PGA)": [
+          144
+        ],
+        "utilizing": [
+          148
+        ],
+        "strong": [
+          150,
+          229
+        ],
+        "records": [
+          153
+        ],
+        "from": [
+          154,
+          161,
+          244
+        ],
+        "earthquakes": [
+          156
+        ],
+        "with": [
+          157,
+          192,
+          239
+        ],
+        "moment": [
+          158
+        ],
+        "magnitude": [
+          159
+        ],
+        "ranging": [
+          160
+        ],
+        "2.4": [
+          162
+        ],
+        "epicentral": [
+          166
+        ],
+        "distance": [
+          167
+        ],
+        "between": [
+          168
+        ],
+        "5.5": [
+          169
+        ],
+        "km,": [
+          172
+        ],
+        "recorded": [
+          173
+        ],
+        "since": [
+          174
+        ],
+        "2010.": [
+          175
+        ],
+        "Our": [
+          176
+        ],
+        "results": [
+          177
+        ],
+        "show": [
+          178
+        ],
+        "that": [
+          179
+        ],
+        "The": [
+          180,
+          234
+        ],
+        "model": [
+          183,
+          235
+        ],
+        "outperformed": [
+          184
+        ],
+        "others": [
+          186
+        ],
+        "across": [
+          187
+        ],
+        "all": [
+          188
+        ],
+        "categories,": [
+          191
+        ],
+        "lowest": [
+          194
+        ],
+        "Mean": [
+          195
+        ],
+        "Squared": [
+          196
+        ],
+        "Error": [
+          197
+        ],
+        "values": [
+          198
+        ],
+        "(0.94,": [
+          199
+        ],
+        "0.60,": [
+          200
+        ],
+        "0.65),": [
+          201
+        ],
+        "Standard": [
+          203
+        ],
+        "Deviation": [
+          204
+        ],
+        "Residuals": [
+          206
+        ],
+        "(0.97,": [
+          207
+        ],
+        "0.77,": [
+          208
+        ],
+        "0.80),": [
+          209
+        ],
+        "as": [
+          210,
+          212
+        ],
+        "well": [
+          211
+        ],
+        "highest": [
+          214
+        ],
+        "Pearson": [
+          215
+        ],
+        "correlation": [
+          216
+        ],
+        "coefficient-value": [
+          217
+        ],
+        "(0.83,": [
+          218
+        ],
+        "0.88,": [
+          219
+        ],
+        "0.90)": [
+          220
+        ],
+        "intraslab": [
+          225
+        ],
+        "events,": [
+          226
+        ],
+        "respectively,": [
+          227
+        ],
+        "demonstrating": [
+          228
+        ],
+        "accuracy": [
+          230,
+          286
+        ],
+        "predicting": [
+          232,
+          263
+        ],
+        "PGA.": [
+          233
+        ],
+        "was": [
+          236
+        ],
+        "further": [
+          237
+        ],
+        "validated": [
+          238
+        ],
+        "recent": [
+          240
+        ],
+        "earthquake": [
+          241
+        ],
+        "data": [
+          242
+        ],
+        "showing": [
+          246
+        ],
+        "good": [
+          247
+        ],
+        "agreement": [
+          248
+        ],
+        "confirming": [
+          250
+        ],
+        "its": [
+          251
+        ],
+        "robustness.": [
+          252
+        ],
+        "Epicentral": [
+          253
+        ],
+        "Distance": [
+          254
+        ],
+        "Moment": [
+          256
+        ],
+        "Magnitude": [
+          257
+        ],
+        "influential": [
+          261
+        ],
+        "PGA": [
+          264
+        ],
+        "among": [
+          265
+        ],
+        "six": [
+          267
+        ],
+        "explanatory": [
+          268
+        ],
+        "variables": [
+          269
+        ],
+        "study.": [
+          273
+        ],
+        "findings": [
+          275
+        ],
+        "highlight": [
+          276
+        ],
+        "potential": [
+          278
+        ],
+        "improve": [
+          284
+        ],
+        "ground-shaking": [
+          288
+        ],
+        "predictions,": [
+          289
+        ],
+        "contributing": [
+          290
+        ],
+        "success": [
+          293
+        ],
+        "Indonesia's": [
+          295
+        ],
+        "System": [
+          299
+        ],
+        "(EEWS).": [
+          300
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54654,11 +54671,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.9961,
-      "has_fulltext": false,
+      "fwci": 2.9556,
+      "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.90498693,
+        "value": 0.90356605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -55065,8 +55082,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -55175,327 +55192,14 @@
         "https://openalex.org/W1981259891",
         "https://openalex.org/W2352983503"
       ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          91
-        ],
-        "Early": [
-          1
-        ],
-        "Aptian": [
-          2,
-          33
-        ],
-        "Oceanic": [
-          3
-        ],
-        "Anoxic": [
-          4
-        ],
-        "Event": [
-          5
-        ],
-        "1a": [
-          6
-        ],
-        "(OAE": [
-          7
-        ],
-        "1a)": [
-          8
-        ],
-        "marks": [
-          9
-        ],
-        "a": [
-          10,
-          29,
-          96
-        ],
-        "period": [
-          11
-        ],
-        "of": [
-          12,
-          99,
-          108
-        ],
-        "global": [
-          13
-        ],
-        "marine": [
-          14
-        ],
-        "anoxia": [
-          15
-        ],
-        "linked": [
-          16
-        ],
-        "to": [
-          17,
-          58
-        ],
-        "volcanic": [
-          18
-        ],
-        "activity": [
-          19
-        ],
-        "and": [
-          20,
-          51,
-          68,
-          76,
-          87,
-          112
-        ],
-        "climate": [
-          21
-        ],
-        "changes": [
-          22
-        ],
-        "during": [
-          23,
-          102
-        ],
-        "the": [
-          24,
-          36,
-          106
-        ],
-        "Cretaceous.": [
-          25
-        ],
-        "This": [
-          26
-        ],
-        "study": [
-          27
-        ],
-        "analyzes": [
-          28
-        ],
-        "~": [
-          30
-        ],
-        "40-m-thick": [
-          31
-        ],
-        "Lower": [
-          32
-        ],
-        "succession": [
-          34
-        ],
-        "from": [
-          35
-        ],
-        "Kazhdumi": [
-          37,
-          92
-        ],
-        "Intrashelf": [
-          38
-        ],
-        "Basin,": [
-          39
-        ],
-        "Iran,": [
-          40
-        ],
-        "using": [
-          41
-        ],
-        "I/(Ca": [
-          42,
-          109
-        ],
-        "+": [
-          43,
-          71,
-          110
-        ],
-        "Mg)": [
-          44,
-          111
-        ],
-        "ratios,": [
-          45
-        ],
-        "Ce": [
-          46,
-          113
-        ],
-        "anomalies,": [
-          47
-        ],
-        "trace": [
-          48
-        ],
-        "elements,": [
-          49
-        ],
-        "δ¹³C,": [
-          50
-        ],
-        "REY": [
-          52
-        ],
-        "parameters.": [
-          53
-        ],
-        "Results": [
-          54
-        ],
-        "reveal": [
-          55
-        ],
-        "persistent": [
-          56
-        ],
-        "suboxic": [
-          57
-        ],
-        "anoxic": [
-          59
-        ],
-        "bottom-water": [
-          60
-        ],
-        "conditions,": [
-          61
-        ],
-        "with": [
-          62
-        ],
-        "increased": [
-          63
-        ],
-        "oxygenation": [
-          64
-        ],
-        "in": [
-          65,
-          117
-        ],
-        "segments": [
-          66
-        ],
-        "C3": [
-          67
-        ],
-        "upper": [
-          69
-        ],
-        "C5": [
-          70
-        ],
-        "C6,": [
-          72
-        ],
-        "driven": [
-          73
-        ],
-        "by": [
-          74,
-          84
-        ],
-        "weathering": [
-          75
-        ],
-        "sea-level": [
-          77
-        ],
-        "changes.": [
-          78
-        ],
-        "Minimal": [
-          79
-        ],
-        "diagenetic": [
-          80
-        ],
-        "overprinting": [
-          81
-        ],
-        "is": [
-          82
-        ],
-        "indicated": [
-          83
-        ],
-        "C-isotope": [
-          85
-        ],
-        "trends": [
-          86
-        ],
-        "low": [
-          88
-        ],
-        "Mn/Sr": [
-          89
-        ],
-        "ratios.": [
-          90
-        ],
-        "Basin": [
-          93
-        ],
-        "serves": [
-          94
-        ],
-        "as": [
-          95,
-          115
-        ],
-        "high-resolution": [
-          97
-        ],
-        "archive": [
-          98
-        ],
-        "redox": [
-          100
-        ],
-        "evolution": [
-          101
-        ],
-        "OAE": [
-          103
-        ],
-        "1a,": [
-          104
-        ],
-        "emphasizing": [
-          105
-        ],
-        "utility": [
-          107
-        ],
-        "anomalies": [
-          114
-        ],
-        "proxies": [
-          116
-        ],
-        "ancient": [
-          118
-        ],
-        "carbonates.": [
-          119
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-08T08:50:53.379069",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56791,8 +56495,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -57958,8 +57662,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -58973,8 +58677,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59981,8 +59685,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -60777,8 +60481,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -62269,8 +61973,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -64626,8 +64330,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -65434,8 +65138,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -66819,8 +66523,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -68685,8 +68389,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -69684,8 +69388,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -70069,8 +69773,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -70765,8 +70469,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -72094,8 +71798,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -73768,8 +73472,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -74290,8 +73994,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -75206,8 +74910,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -76435,8 +76139,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -77818,8 +77522,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -79637,8 +79341,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -80504,8 +80208,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -84910,8 +84614,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -85879,8 +85583,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
