@@ -1804,8 +1804,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.44999998807907104,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -2802,8 +2802,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7099999785423279,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4257,8 +4257,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6100000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5427,8 +5427,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6791,8 +6791,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.4399999976158142,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -8321,11 +8321,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 4.2962,
+      "fwci": 4.2906,
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.94959545,
+        "value": 0.94948446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8675,8 +8675,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8848,7 +8848,626 @@
         "https://openalex.org/W2076393078",
         "https://openalex.org/W1994307594"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Suspended": [
+          0,
+          69,
+          74
+        ],
+        "sediment": [
+          1,
+          296
+        ],
+        "concentration": [
+          2,
+          108,
+          121
+        ],
+        "(SSC)": [
+          3
+        ],
+        "in": [
+          4,
+          27,
+          50,
+          97,
+          187,
+          275,
+          293
+        ],
+        "water": [
+          5,
+          43,
+          99,
+          198
+        ],
+        "increases": [
+          6
+        ],
+        "temperature": [
+          7
+        ],
+        "and": [
+          8,
+          16,
+          47,
+          72,
+          87,
+          115,
+          118,
+          125,
+          138,
+          149,
+          176,
+          180,
+          185,
+          205,
+          213,
+          220,
+          237,
+          245,
+          269,
+          278,
+          289
+        ],
+        "turbidity,": [
+          9
+        ],
+        "limits": [
+          10
+        ],
+        "the": [
+          11,
+          28,
+          32,
+          39,
+          54,
+          58,
+          66,
+          82,
+          98,
+          103,
+          144,
+          151,
+          178,
+          188,
+          232,
+          250,
+          266,
+          276,
+          283,
+          294
+        ],
+        "photosynthesis": [
+          12
+        ],
+        "of": [
+          13,
+          31,
+          41,
+          57,
+          62,
+          95,
+          105,
+          109,
+          130,
+          146,
+          153,
+          157,
+          182,
+          272
+        ],
+        "aquatic": [
+          14
+        ],
+        "plants,": [
+          15
+        ],
+        "reduces": [
+          17
+        ],
+        "biologically": [
+          18
+        ],
+        "available": [
+          19
+        ],
+        "oxygen.": [
+          20
+        ],
+        "It": [
+          21
+        ],
+        "is": [
+          22
+        ],
+        "important": [
+          23
+        ],
+        "to": [
+          24,
+          172,
+          195,
+          222,
+          226,
+          243
+        ],
+        "study": [
+          25,
+          37,
+          156
+        ],
+        "SSC": [
+          26,
+          40,
+          96
+        ],
+        "coastal": [
+          29,
+          42
+        ],
+        "waters": [
+          30
+        ],
+        "Arabian": [
+          33
+        ],
+        "Gulf.": [
+          34
+        ],
+        "Thus,": [
+          35
+        ],
+        "this": [
+          36
+        ],
+        "mapped": [
+          38
+        ],
+        "between": [
+          44,
+          112,
+          122,
+          134,
+          210,
+          235
+        ],
+        "Al": [
+          45,
+          48,
+          113,
+          116,
+          123,
+          126
+        ],
+        "Arish": [
+          46,
+          114
+        ],
+        "Ghariyah": [
+          49
+        ],
+        "northern": [
+          51
+        ],
+        "Qatar": [
+          52
+        ],
+        "using": [
+          53,
+          81,
+          100,
+          159
+        ],
+        "spectral": [
+          55
+        ],
+        "bands": [
+          56
+        ],
+        "MultiSpectral": [
+          59
+        ],
+        "Imager": [
+          60
+        ],
+        "(MSI)": [
+          61
+        ],
+        "Sentinel-2": [
+          63
+        ],
+        "by": [
+          64,
+          264
+        ],
+        "calculating": [
+          65
+        ],
+        "Normalized": [
+          67,
+          73,
+          83,
+          89
+        ],
+        "Difference": [
+          68,
+          84,
+          90
+        ],
+        "Sediment": [
+          70
+        ],
+        "Index": [
+          71,
+          86
+        ],
+        "Material": [
+          75
+        ],
+        "Index.": [
+          76,
+          92
+        ],
+        "The": [
+          77,
+          93,
+          128,
+          155,
+          190,
+          208,
+          258
+        ],
+        "results": [
+          78,
+          152,
+          261
+        ],
+        "are": [
+          79
+        ],
+        "studied": [
+          80,
+          221
+        ],
+        "Turbidity": [
+          85
+        ],
+        "Modified": [
+          88
+        ],
+        "Water": [
+          91
+        ],
+        "mapping": [
+          94,
+          129
+        ],
+        "NDSSI": [
+          101,
+          244,
+          254
+        ],
+        "showed": [
+          102,
+          132,
+          163,
+          231
+        ],
+        "presence": [
+          104
+        ],
+        "a": [
+          106,
+          119
+        ],
+        "high": [
+          107
+        ],
+        "suspended": [
+          110,
+          141,
+          147,
+          183,
+          273
+        ],
+        "sediments": [
+          111,
+          184,
+          274
+        ],
+        "Mafjar": [
+          117,
+          124
+        ],
+        "low": [
+          120
+        ],
+        "Ghariyah.": [
+          127
+        ],
+        "NSMI": [
+          131,
+          236
+        ],
+        "values": [
+          133,
+          166
+        ],
+        "0.012": [
+          135
+        ],
+        "(clear": [
+          136,
+          170
+        ],
+        "water)": [
+          137,
+          171
+        ],
+        "0.430": [
+          139
+        ],
+        "(more": [
+          140
+        ],
+        "material)": [
+          142
+        ],
+        "for": [
+          143
+        ],
+        "occurrence": [
+          145,
+          179
+        ],
+        "materials": [
+          148,
+          186
+        ],
+        "supported": [
+          150
+        ],
+        "NDSSI.": [
+          154
+        ],
+        "turbidity": [
+          158,
+          164
+        ],
+        "an": [
+          160
+        ],
+        "NDTI": [
+          161,
+          214,
+          238,
+          248
+        ],
+        "image": [
+          162,
+          192
+        ],
+        "index": [
+          165
+        ],
+        "ranging": [
+          167
+        ],
+        "from": [
+          168,
+          202
+        ],
+        "-0.44": [
+          169
+        ],
+        "0.12": [
+          173
+        ],
+        "(high": [
+          174
+        ],
+        "turbidity)": [
+          175
+        ],
+        "confirmed": [
+          177
+        ],
+        "distribution": [
+          181,
+          271
+        ],
+        "water.": [
+          189
+        ],
+        "MNDWI": [
+          191
+        ],
+        "was": [
+          193
+        ],
+        "able": [
+          194
+        ],
+        "discriminate": [
+          196
+        ],
+        "clear": [
+          197
+        ],
+        "with": [
+          199,
+          217
+        ],
+        "bright": [
+          200
+        ],
+        "pixels": [
+          201
+        ],
+        "silty": [
+          203
+        ],
+        "sand": [
+          204
+        ],
+        "mud": [
+          206
+        ],
+        "flats.": [
+          207
+        ],
+        "relationships": [
+          209
+        ],
+        "NDSSI,": [
+          211
+        ],
+        "NSMI,": [
+          212
+        ],
+        "were": [
+          215,
+          262,
+          298
+        ],
+        "correlated": [
+          216
+        ],
+        "in-situ": [
+          218
+        ],
+        "measurements": [
+          219
+        ],
+        "find": [
+          223
+        ],
+        "suitable": [
+          224
+        ],
+        "indices": [
+          225
+        ],
+        "map": [
+          227
+        ],
+        "SSC.": [
+          228
+        ],
+        "Regression": [
+          229
+        ],
+        "analyses": [
+          230
+        ],
+        "strongest": [
+          233,
+          251
+        ],
+        "relationship": [
+          234
+        ],
+        "(R<sup>2</sup>": [
+          239,
+          255
+        ],
+        "=": [
+          240,
+          256
+        ],
+        "0.95)": [
+          241
+        ],
+        "next": [
+          242
+        ],
+        "NDTI,": [
+          246
+        ],
+        "where": [
+          247
+        ],
+        "had": [
+          249
+        ],
+        "effect": [
+          252
+        ],
+        "on": [
+          253
+        ],
+        "0.86).": [
+          257
+        ],
+        "satellite": [
+          259
+        ],
+        "data": [
+          260
+        ],
+        "evaluated": [
+          263
+        ],
+        "studying": [
+          265
+        ],
+        "physical": [
+          267
+        ],
+        "parameters": [
+          268
+        ],
+        "spatial": [
+          270
+        ],
+        "surface": [
+          277
+        ],
+        "bottom": [
+          279,
+          295
+        ],
+        "waters.": [
+          280
+        ],
+        "In": [
+          281
+        ],
+        "addition,": [
+          282
+        ],
+        "grain": [
+          284
+        ],
+        "size": [
+          285
+        ],
+        "distributions,": [
+          286
+        ],
+        "mineral": [
+          287
+        ],
+        "identification,": [
+          288
+        ],
+        "chemical": [
+          290
+        ],
+        "element": [
+          291
+        ],
+        "concentrations": [
+          292
+        ],
+        "samples": [
+          297
+        ],
+        "studied.": [
+          299
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -8863,7 +9482,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9220,11 +9839,11 @@
         "currency": "EUR",
         "value_usd": 3690
       },
-      "fwci": 5.0795,
+      "fwci": 5.0699,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.96007108,
+        "value": 0.9599678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9994,7 +10613,552 @@
         "https://openalex.org/W4313358197",
         "https://openalex.org/W3210213316"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Heavy": [
+          0
+        ],
+        "metal": [
+          1
+        ],
+        "(HM)": [
+          2
+        ],
+        "contamination": [
+          3,
+          35,
+          57,
+          91,
+          102,
+          139,
+          195
+        ],
+        "in": [
+          4,
+          36,
+          141,
+          172,
+          207,
+          220
+        ],
+        "marine": [
+          5,
+          80,
+          218
+        ],
+        "sediments": [
+          6,
+          39,
+          81
+        ],
+        "is": [
+          7,
+          103,
+          144
+        ],
+        "a": [
+          8,
+          24,
+          41
+        ],
+        "critical": [
+          9,
+          200
+        ],
+        "environmental": [
+          10,
+          203
+        ],
+        "concern": [
+          11
+        ],
+        "due": [
+          12
+        ],
+        "to": [
+          13,
+          94,
+          106,
+          134,
+          147,
+          167,
+          188
+        ],
+        "its": [
+          14
+        ],
+        "potential": [
+          15
+        ],
+        "ecological": [
+          16,
+          68
+        ],
+        "and": [
+          17,
+          30,
+          67,
+          85,
+          111,
+          125,
+          192,
+          205,
+          213
+        ],
+        "human": [
+          18
+        ],
+        "health": [
+          19
+        ],
+        "impacts.": [
+          20
+        ],
+        "This": [
+          21,
+          100
+        ],
+        "study": [
+          22,
+          157
+        ],
+        "provides": [
+          23
+        ],
+        "comprehensive": [
+          25
+        ],
+        "assessment": [
+          26
+        ],
+        "of": [
+          27,
+          33,
+          96,
+          184,
+          217
+        ],
+        "the": [
+          28,
+          56,
+          83,
+          130,
+          142,
+          159,
+          182,
+          215,
+          221
+        ],
+        "spatial": [
+          29
+        ],
+        "temporal": [
+          31,
+          190
+        ],
+        "evolution": [
+          32
+        ],
+        "HM": [
+          34,
+          138,
+          169
+        ],
+        "Arabian": [
+          37,
+          87,
+          222
+        ],
+        "Gulf": [
+          38,
+          98
+        ],
+        "over": [
+          40
+        ],
+        "33-year": [
+          42
+        ],
+        "period": [
+          43
+        ],
+        "(1991-2024).": [
+          44
+        ],
+        "Contamination": [
+          45
+        ],
+        "levels": [
+          46,
+          92
+        ],
+        "were": [
+          47
+        ],
+        "evaluated": [
+          48
+        ],
+        "using": [
+          49
+        ],
+        "key": [
+          50
+        ],
+        "sediment": [
+          51,
+          135
+        ],
+        "quality": [
+          52
+        ],
+        "indices": [
+          53
+        ],
+        "such": [
+          54
+        ],
+        "as": [
+          55,
+          129
+        ],
+        "factor": [
+          58
+        ],
+        "(CF),": [
+          59
+        ],
+        "geoaccumulation": [
+          60
+        ],
+        "index": [
+          61,
+          65,
+          70
+        ],
+        "(I<sub>g</sub>ₑₒ),": [
+          62
+        ],
+        "pollution": [
+          63,
+          210
+        ],
+        "load": [
+          64
+        ],
+        "(PLI),": [
+          66
+        ],
+        "risk": [
+          69
+        ],
+        "(ERI)": [
+          71
+        ],
+        "based": [
+          72
+        ],
+        "on": [
+          73
+        ],
+        "available": [
+          74
+        ],
+        "meta-data.": [
+          75
+        ],
+        "Spatial": [
+          76
+        ],
+        "analysis": [
+          77
+        ],
+        "revealed": [
+          78
+        ],
+        "that": [
+          79
+        ],
+        "along": [
+          82
+        ],
+        "Iranian": [
+          84
+        ],
+        "Saudi": [
+          86
+        ],
+        "coasts": [
+          88
+        ],
+        "exhibited": [
+          89
+        ],
+        "higher": [
+          90
+        ],
+        "compared": [
+          93
+        ],
+        "those": [
+          95
+        ],
+        "other": [
+          97
+        ],
+        "countries.": [
+          99
+        ],
+        "elevated": [
+          101
+        ],
+        "likely": [
+          104
+        ],
+        "attributed": [
+          105
+        ],
+        "industrial": [
+          107,
+          177
+        ],
+        "discharges,": [
+          108
+        ],
+        "oil": [
+          109
+        ],
+        "spills": [
+          110
+        ],
+        "effluent": [
+          112
+        ],
+        "releases": [
+          113
+        ],
+        "from": [
+          114
+        ],
+        "desalination": [
+          115
+        ],
+        "plants.": [
+          116
+        ],
+        "Arsenic": [
+          117
+        ],
+        "(As),": [
+          118
+        ],
+        "cadmium": [
+          119
+        ],
+        "(Cd),": [
+          120
+        ],
+        "copper": [
+          121
+        ],
+        "(Cu),": [
+          122
+        ],
+        "nickel": [
+          123
+        ],
+        "(Ni),": [
+          124
+        ],
+        "lead": [
+          126
+        ],
+        "(Pb)": [
+          127
+        ],
+        "emerged": [
+          128
+        ],
+        "primary": [
+          131
+        ],
+        "toxic": [
+          132
+        ],
+        "contributors": [
+          133
+        ],
+        "pollution.": [
+          136
+        ],
+        "Overall,": [
+          137
+        ],
+        "status": [
+          140
+        ],
+        "region": [
+          143
+        ],
+        "predominantly": [
+          145
+        ],
+        "low": [
+          146
+        ],
+        "moderate,": [
+          148
+        ],
+        "with": [
+          149
+        ],
+        "localized": [
+          150
+        ],
+        "hotspots": [
+          151
+        ],
+        "near": [
+          152
+        ],
+        "industrialized": [
+          153
+        ],
+        "coastal": [
+          154
+        ],
+        "zones.": [
+          155
+        ],
+        "The": [
+          156
+        ],
+        "highlights": [
+          158
+        ],
+        "need": [
+          160
+        ],
+        "for": [
+          161,
+          202
+        ],
+        "scientifically": [
+          162
+        ],
+        "informed": [
+          163
+        ],
+        "waste": [
+          164
+        ],
+        "management": [
+          165
+        ],
+        "strategies": [
+          166
+        ],
+        "mitigate": [
+          168
+        ],
+        "contamination,": [
+          170
+        ],
+        "particularly": [
+          171
+        ],
+        "nearshore": [
+          173
+        ],
+        "environments": [
+          174
+        ],
+        "impacted": [
+          175
+        ],
+        "by": [
+          176
+        ],
+        "activities.": [
+          178
+        ],
+        "Furthermore,": [
+          179
+        ],
+        "it": [
+          180
+        ],
+        "recommends": [
+          181
+        ],
+        "implementation": [
+          183
+        ],
+        "continuous": [
+          185
+        ],
+        "monitoring": [
+          186
+        ],
+        "programs": [
+          187
+        ],
+        "track": [
+          189
+        ],
+        "trends": [
+          191
+        ],
+        "identify": [
+          193
+        ],
+        "emerging": [
+          194
+        ],
+        "sources.": [
+          196
+        ],
+        "These": [
+          197
+        ],
+        "findings": [
+          198
+        ],
+        "provide": [
+          199
+        ],
+        "insights": [
+          201
+        ],
+        "managers": [
+          204
+        ],
+        "policymakers": [
+          206
+        ],
+        "developing": [
+          208
+        ],
+        "sustainable": [
+          209
+        ],
+        "mitigation": [
+          211
+        ],
+        "frameworks": [
+          212
+        ],
+        "enhancing": [
+          214
+        ],
+        "resilience": [
+          216
+        ],
+        "ecosystems": [
+          219
+        ],
+        "Gulf.": [
+          223
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -10005,7 +11169,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10384,8 +11548,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -11276,8 +12440,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6299999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -11708,8 +12872,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12592,8 +13756,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -14102,8 +15266,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -14612,8 +15776,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5299999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -15853,8 +17017,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16546,8 +17710,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18614,8 +19778,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -19638,11 +20802,11 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.9571,
+      "fwci": 1.957,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.88354523,
+        "value": 0.88353244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20227,7 +21391,607 @@
         "https://openalex.org/W2047245391",
         "https://openalex.org/W1970779370"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2018": [
+          178
+        ],
+        "2020": [
+          180
+        ],
+        "The": [
+          0,
+          95,
+          120,
+          149,
+          190,
+          242
+        ],
+        "inland": [
+          1,
+          62
+        ],
+        "sabkha": [
+          2,
+          23,
+          63,
+          126
+        ],
+        "of": [
+          3,
+          14,
+          21,
+          41,
+          60,
+          64,
+          70,
+          73,
+          81,
+          84,
+          87,
+          93,
+          97,
+          124,
+          167,
+          175,
+          192,
+          198,
+          205,
+          226,
+          232,
+          244,
+          247,
+          282
+        ],
+        "the": [
+          4,
+          12,
+          22,
+          26,
+          38,
+          57,
+          65,
+          71,
+          82,
+          100,
+          108,
+          125,
+          131,
+          154,
+          161,
+          168,
+          193,
+          196,
+          201,
+          206,
+          212,
+          223,
+          227,
+          230,
+          257,
+          277,
+          283
+        ],
+        "Arabian": [
+          5
+        ],
+        "Gulf": [
+          6
+        ],
+        "is": [
+          7,
+          102
+        ],
+        "important": [
+          8
+        ],
+        "to": [
+          9,
+          25,
+          179
+        ],
+        "study": [
+          10,
+          36,
+          243
+        ],
+        "for": [
+          11,
+          29,
+          116
+        ],
+        "occurrence": [
+          13,
+          96
+        ],
+        "minerals,": [
+          15,
+          43
+        ],
+        "rocks,": [
+          16,
+          45
+        ],
+        "soil": [
+          17,
+          50,
+          53,
+          262
+        ],
+        "salinity,": [
+          18,
+          54
+        ],
+        "and": [
+          19,
+          31,
+          52,
+          55,
+          89,
+          114,
+          134,
+          136,
+          221,
+          239,
+          253,
+          260,
+          273,
+          279,
+          291
+        ],
+        "stability": [
+          20,
+          59,
+          225
+        ],
+        "due": [
+          24
+        ],
+        "high": [
+          27
+        ],
+        "demand": [
+          28
+        ],
+        "infrastructure": [
+          30
+        ],
+        "agriculture": [
+          32
+        ],
+        "development": [
+          33
+        ],
+        "region.": [
+          34
+        ],
+        "This": [
+          35,
+          75
+        ],
+        "describes": [
+          37
+        ],
+        "spectral": [
+          39,
+          110,
+          140,
+          267
+        ],
+        "absorptions": [
+          40,
+          268,
+          288
+        ],
+        "evaporite": [
+          42,
+          248
+        ],
+        "discriminates": [
+          44
+        ],
+        "maps": [
+          46
+        ],
+        "salt": [
+          47,
+          258
+        ],
+        "crusts,": [
+          48
+        ],
+        "gypsiferous": [
+          49,
+          261
+        ],
+        "flats,": [
+          51
+        ],
+        "studies": [
+          56
+        ],
+        "temporal": [
+          58,
+          224
+        ],
+        "an": [
+          61
+        ],
+        "Dukhan": [
+          66
+        ],
+        "area,": [
+          67
+        ],
+        "west": [
+          68
+        ],
+        "coast": [
+          69
+        ],
+        "State": [
+          72
+        ],
+        "Qatar.": [
+          74
+        ],
+        "was": [
+          76,
+          170,
+          208
+        ],
+        "performed": [
+          77
+        ],
+        "using": [
+          78,
+          104,
+          130,
+          153,
+          172,
+          211
+        ],
+        "satellite": [
+          79
+        ],
+        "data": [
+          80,
+          106,
+          174
+        ],
+        "Hyperion": [
+          83,
+          105
+        ],
+        "EO1,": [
+          85
+        ],
+        "ASTER": [
+          86,
+          143
+        ],
+        "Terra,": [
+          88
+        ],
+        "multispectral": [
+          90
+        ],
+        "instrument": [
+          91
+        ],
+        "(MSI)": [
+          92
+        ],
+        "Sentinel-2.": [
+          94
+        ],
+        "minerals": [
+          98,
+          249,
+          281
+        ],
+        "in": [
+          99,
+          163,
+          200,
+          256,
+          269
+        ],
+        "area": [
+          101,
+          169,
+          207
+        ],
+        "detected": [
+          103
+        ],
+        "by": [
+          107,
+          129,
+          144,
+          152,
+          181,
+          210
+        ],
+        "linear": [
+          109
+        ],
+        "unmixing": [
+          111
+        ],
+        "(LSU)": [
+          112
+        ],
+        "method": [
+          113
+        ],
+        "studied": [
+          115,
+          209
+        ],
+        "their": [
+          117,
+          265
+        ],
+        "spatial": [
+          118
+        ],
+        "distribution.": [
+          119
+        ],
+        "different": [
+          121,
+          164
+        ],
+        "geological": [
+          122
+        ],
+        "formations": [
+          123,
+          162,
+          285
+        ],
+        "were": [
+          127,
+          235
+        ],
+        "discriminated": [
+          128
+        ],
+        "VNIR": [
+          132
+        ],
+        "(visible": [
+          133
+        ],
+        "near-infrared)": [
+          135
+        ],
+        "SWIR": [
+          137
+        ],
+        "(shortwave": [
+          138
+        ],
+        "infrared)": [
+          139
+        ],
+        "bands": [
+          141
+        ],
+        "from": [
+          142,
+          177
+        ],
+        "principal": [
+          145,
+          155
+        ],
+        "component": [
+          146
+        ],
+        "analysis": [
+          147
+        ],
+        "(PCA).": [
+          148
+        ],
+        "image": [
+          150,
+          233
+        ],
+        "developed": [
+          151
+        ],
+        "components": [
+          156
+        ],
+        "(R:PC2,": [
+          157
+        ],
+        "G:PC3,": [
+          158
+        ],
+        "B:PC5)": [
+          159
+        ],
+        "showed": [
+          160,
+          264
+        ],
+        "tones.": [
+          165
+        ],
+        "Salinity": [
+          166
+        ],
+        "mapped": [
+          171
+        ],
+        "monthly": [
+          173
+        ],
+        "MSI": [
+          176
+        ],
+        "normalized": [
+          182,
+          213
+        ],
+        "difference": [
+          183,
+          214
+        ],
+        "salinity": [
+          184,
+          199
+        ],
+        "index": [
+          185,
+          194,
+          216
+        ],
+        "(NDSI)": [
+          186
+        ],
+        "(band11-band12)/(band11": [
+          187
+        ],
+        "+": [
+          188,
+          219
+        ],
+        "band12).": [
+          189
+        ],
+        "results": [
+          191,
+          231
+        ],
+        "displayed": [
+          195
+        ],
+        "distribution": [
+          197
+        ],
+        "area.": [
+          202
+        ],
+        "Besides,": [
+          203
+        ],
+        "moisture": [
+          204,
+          215
+        ],
+        "(NDMI)": [
+          217
+        ],
+        "(b8-b11)/(b8": [
+          218
+        ],
+        "b11)": [
+          220
+        ],
+        "described": [
+          222
+        ],
+        "sabkha.": [
+          228
+        ],
+        "All": [
+          229
+        ],
+        "analyses": [
+          234
+        ],
+        "validated": [
+          236
+        ],
+        "through": [
+          237
+        ],
+        "field": [
+          238
+        ],
+        "laboratory": [
+          240,
+          245
+        ],
+        "studies.": [
+          241
+        ],
+        "spectra": [
+          246
+        ],
+        "namely": [
+          250
+        ],
+        "gypsum,": [
+          251
+        ],
+        "anhydrite,": [
+          252
+        ],
+        "halite": [
+          254
+        ],
+        "present": [
+          255
+        ],
+        "crusts": [
+          259
+        ],
+        "flats": [
+          263
+        ],
+        "unique": [
+          266
+        ],
+        "between": [
+          270
+        ],
+        "1.4–1.5": [
+          271
+        ],
+        "μm": [
+          272,
+          275,
+          293
+        ],
+        "1.9–2.0": [
+          274
+        ],
+        "whereas,": [
+          276
+        ],
+        "calcite": [
+          278
+        ],
+        "dolomite": [
+          280
+        ],
+        "carbonate": [
+          284
+        ],
+        "exhibited": [
+          286
+        ],
+        "deep": [
+          287
+        ],
+        "near": [
+          289
+        ],
+        "2.345": [
+          290
+        ],
+        "2.495": [
+          292
+        ],
+        "respectively.": [
+          294
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -20254,7 +22018,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -21226,8 +22990,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -21972,8 +23736,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23358,8 +25122,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -25420,8 +27184,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.5799999833106995,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -26252,8 +28016,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -26962,6 +28726,915 @@
         }
       ],
       "updated_date": "2026-02-27T16:54:17.756197",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4297143848",
+      "doi": "https://doi.org/10.1016/j.rsma.2022.102680",
+      "title": "Chlorophyll-a concentrations in the Arabian Gulf waters of arid region: A case study from the northern coast of Qatar",
+      "display_name": "Chlorophyll-a concentrations in the Arabian Gulf waters of arid region: A case study from the northern coast of Qatar",
+      "publication_year": 2022,
+      "publication_date": "2022-09-25",
+      "ids": {
+        "openalex": "https://openalex.org/W4297143848",
+        "doi": "https://doi.org/10.1016/j.rsma.2022.102680"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.rsma.2022.102680",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764732502",
+          "display_name": "Regional Studies in Marine Science",
+          "issn_l": "2352-4855",
+          "issn": [
+            "2352-4855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Regional Studies in Marine Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.rsma.2022.102680",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5042396632",
+            "display_name": "Sankaran Rajendran",
+            "orcid": "https://orcid.org/0000-0002-9371-9908"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sankaran Rajendran",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075872154",
+            "display_name": "Noora Al‐Naimi",
+            "orcid": "https://orcid.org/0000-0002-2755-2249"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Noora Al-Naimi",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091159330",
+            "display_name": "Jassim A. Al‐Khayat",
+            "orcid": "https://orcid.org/0000-0002-5511-1029"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jassim A. Al Khayat",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023914107",
+            "display_name": "Caesar Flonasca Sorino",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Caesar Flonasca Sorino",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070411489",
+            "display_name": "Fadhil Sadooni",
+            "orcid": "https://orcid.org/0000-0001-5027-0648"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fadhil N. Sadooni",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5037734458",
+            "display_name": "Hamad Al Saad Al Kuwari",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamad Al Saad Al Kuwari",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5042396632"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I60342839"
+      ],
+      "apc_list": {
+        "value": 2790,
+        "currency": "USD",
+        "value_usd": 2790
+      },
+      "apc_paid": {
+        "value": 2790,
+        "currency": "USD",
+        "value_usd": 2790
+      },
+      "fwci": 0.9024,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.77053091,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "56",
+        "issue": null,
+        "first_page": "102680",
+        "last_page": "102680"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10689",
+        "display_name": "Remote-Sensing Image Classification",
+        "score": 0.9812999963760376,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2214",
+          "display_name": "Media Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10689",
+          "display_name": "Remote-Sensing Image Classification",
+          "score": 0.9812999963760376,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14249",
+          "display_name": "Water Quality Monitoring and Analysis",
+          "score": 0.9761999845504761,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2311",
+            "display_name": "Industrial and Manufacturing Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10032",
+          "display_name": "Marine and coastal ecosystems",
+          "score": 0.9746000170707703,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/multispectral-image",
+          "display_name": "Multispectral image",
+          "score": 0.6307451128959656
+        },
+        {
+          "id": "https://openalex.org/keywords/phytoplankton",
+          "display_name": "Phytoplankton",
+          "score": 0.5655717253684998
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5619567632675171
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.5602549910545349
+        },
+        {
+          "id": "https://openalex.org/keywords/chlorophyll-a",
+          "display_name": "Chlorophyll a",
+          "score": 0.5577507019042969
+        },
+        {
+          "id": "https://openalex.org/keywords/arid",
+          "display_name": "Arid",
+          "score": 0.5469298362731934
+        },
+        {
+          "id": "https://openalex.org/keywords/waves-and-shallow-water",
+          "display_name": "Waves and shallow water",
+          "score": 0.49571549892425537
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.4839065968990326
+        },
+        {
+          "id": "https://openalex.org/keywords/spectral-bands",
+          "display_name": "Spectral bands",
+          "score": 0.48228076100349426
+        },
+        {
+          "id": "https://openalex.org/keywords/multispectral-pattern-recognition",
+          "display_name": "Multispectral pattern recognition",
+          "score": 0.4202452301979065
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.26653027534484863
+        },
+        {
+          "id": "https://openalex.org/keywords/nutrient",
+          "display_name": "Nutrient",
+          "score": 0.14881205558776855
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.09631285071372986
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.08972665667533875
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.07946223020553589
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C173163844",
+          "wikidata": "https://www.wikidata.org/wiki/Q1761440",
+          "display_name": "Multispectral image",
+          "level": 2,
+          "score": 0.6307451128959656
+        },
+        {
+          "id": "https://openalex.org/C2780892065",
+          "wikidata": "https://www.wikidata.org/wiki/Q184755",
+          "display_name": "Phytoplankton",
+          "level": 3,
+          "score": 0.5655717253684998
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5619567632675171
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.5602549910545349
+        },
+        {
+          "id": "https://openalex.org/C2778902199",
+          "wikidata": "https://www.wikidata.org/wiki/Q133878",
+          "display_name": "Chlorophyll a",
+          "level": 2,
+          "score": 0.5577507019042969
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.5469298362731934
+        },
+        {
+          "id": "https://openalex.org/C186348155",
+          "wikidata": "https://www.wikidata.org/wiki/Q7975538",
+          "display_name": "Waves and shallow water",
+          "level": 2,
+          "score": 0.49571549892425537
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.4839065968990326
+        },
+        {
+          "id": "https://openalex.org/C114700698",
+          "wikidata": "https://www.wikidata.org/wiki/Q2882278",
+          "display_name": "Spectral bands",
+          "level": 2,
+          "score": 0.48228076100349426
+        },
+        {
+          "id": "https://openalex.org/C104541649",
+          "wikidata": "https://www.wikidata.org/wiki/Q6935090",
+          "display_name": "Multispectral pattern recognition",
+          "level": 3,
+          "score": 0.4202452301979065
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.26653027534484863
+        },
+        {
+          "id": "https://openalex.org/C142796444",
+          "wikidata": "https://www.wikidata.org/wiki/Q181394",
+          "display_name": "Nutrient",
+          "level": 2,
+          "score": 0.14881205558776855
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.09631285071372986
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.08972665667533875
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.07946223020553589
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.rsma.2022.102680",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764732502",
+            "display_name": "Regional Studies in Marine Science",
+            "issn_l": "2352-4855",
+            "issn": [
+              "2352-4855"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Regional Studies in Marine Science",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:figshare.com:article/24516571",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Chlorophyll-a_concentrations_in_the_Arabian_Gulf_waters_of_arid_region_A_case_study_from_the_northern_coast_of_Qatar/24516571",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal contribution"
+        },
+        {
+          "id": "pmh:oai:qspace.qu.edu.qa:10576/42668",
+          "is_oa": true,
+          "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S2352485522002754",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400014",
+            "display_name": "Qatar University QSpace (Qatar University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I60342839",
+            "host_organization_name": "Qatar University",
+            "host_organization_lineage": [
+              "https://openalex.org/I60342839"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.rsma.2022.102680",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764732502",
+          "display_name": "Regional Studies in Marine Science",
+          "issn_l": "2352-4855",
+          "issn": [
+            "2352-4855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Regional Studies in Marine Science",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8700000047683716,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3800377022",
+          "display_name": null,
+          "funder_award_id": "104001004D7C7D00",
+          "funder_id": "https://openalex.org/F4320318240",
+          "funder_display_name": "European Space Agency"
+        },
+        {
+          "id": "https://openalex.org/G5737527671",
+          "display_name": null,
+          "funder_award_id": "QUEX-ESC-QAFCO-20/21-1",
+          "funder_id": "https://openalex.org/F4320322472",
+          "funder_display_name": "Qatar University"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320318240",
+          "display_name": "European Space Agency",
+          "ror": "https://ror.org/03wd9za21"
+        },
+        {
+          "id": "https://openalex.org/F4320322472",
+          "display_name": "Qatar University",
+          "ror": "https://ror.org/00yhnba62"
+        },
+        {
+          "id": "https://openalex.org/F4320332183",
+          "display_name": "U.S. Geological Survey",
+          "ror": "https://ror.org/035a68863"
+        },
+        {
+          "id": "https://openalex.org/F4320334468",
+          "display_name": "Qatar National Library",
+          "ror": "https://ror.org/02jv93662"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 113,
+      "referenced_works": [
+        "https://openalex.org/W174837507",
+        "https://openalex.org/W951725664",
+        "https://openalex.org/W1532270673",
+        "https://openalex.org/W1536580290",
+        "https://openalex.org/W1586593985",
+        "https://openalex.org/W1880538961",
+        "https://openalex.org/W1973426634",
+        "https://openalex.org/W1973885930",
+        "https://openalex.org/W1982965630",
+        "https://openalex.org/W1984219458",
+        "https://openalex.org/W1990633037",
+        "https://openalex.org/W2004666306",
+        "https://openalex.org/W2006740487",
+        "https://openalex.org/W2007852531",
+        "https://openalex.org/W2015479975",
+        "https://openalex.org/W2018886830",
+        "https://openalex.org/W2021849967",
+        "https://openalex.org/W2028085683",
+        "https://openalex.org/W2033656543",
+        "https://openalex.org/W2034085189",
+        "https://openalex.org/W2038300411",
+        "https://openalex.org/W2042040410",
+        "https://openalex.org/W2056435747",
+        "https://openalex.org/W2057300105",
+        "https://openalex.org/W2060628476",
+        "https://openalex.org/W2062991791",
+        "https://openalex.org/W2070136516",
+        "https://openalex.org/W2075777411",
+        "https://openalex.org/W2085418190",
+        "https://openalex.org/W2085965017",
+        "https://openalex.org/W2086163785",
+        "https://openalex.org/W2090595322",
+        "https://openalex.org/W2094699472",
+        "https://openalex.org/W2095970878",
+        "https://openalex.org/W2102276060",
+        "https://openalex.org/W2126688027",
+        "https://openalex.org/W2128686953",
+        "https://openalex.org/W2132388458",
+        "https://openalex.org/W2149876895",
+        "https://openalex.org/W2159961845",
+        "https://openalex.org/W2164720626",
+        "https://openalex.org/W2177368797",
+        "https://openalex.org/W2202386554",
+        "https://openalex.org/W2293584046",
+        "https://openalex.org/W2295624237",
+        "https://openalex.org/W2366418423",
+        "https://openalex.org/W2499899645",
+        "https://openalex.org/W2506931011",
+        "https://openalex.org/W2509389938",
+        "https://openalex.org/W2563205697",
+        "https://openalex.org/W2597284376",
+        "https://openalex.org/W2602359174",
+        "https://openalex.org/W2615064060",
+        "https://openalex.org/W2615972069",
+        "https://openalex.org/W2617448796",
+        "https://openalex.org/W2735100725",
+        "https://openalex.org/W2738308406",
+        "https://openalex.org/W2746063108",
+        "https://openalex.org/W2752599565",
+        "https://openalex.org/W2760323448",
+        "https://openalex.org/W2762057529",
+        "https://openalex.org/W2782013321",
+        "https://openalex.org/W2789782792",
+        "https://openalex.org/W2804164339",
+        "https://openalex.org/W2806729073",
+        "https://openalex.org/W2807494587",
+        "https://openalex.org/W2819212822",
+        "https://openalex.org/W2891805585",
+        "https://openalex.org/W2894332304",
+        "https://openalex.org/W2907102908",
+        "https://openalex.org/W2909215525",
+        "https://openalex.org/W2909697115",
+        "https://openalex.org/W2913849188",
+        "https://openalex.org/W2921202857",
+        "https://openalex.org/W2965565308",
+        "https://openalex.org/W2970774064",
+        "https://openalex.org/W2973188877",
+        "https://openalex.org/W2989150250",
+        "https://openalex.org/W3004411778",
+        "https://openalex.org/W3004942926",
+        "https://openalex.org/W3031830240",
+        "https://openalex.org/W3034131291",
+        "https://openalex.org/W3041108456",
+        "https://openalex.org/W3046794198",
+        "https://openalex.org/W3080503633",
+        "https://openalex.org/W3095275591",
+        "https://openalex.org/W3119737698",
+        "https://openalex.org/W3123032203",
+        "https://openalex.org/W3128202705",
+        "https://openalex.org/W3139255633",
+        "https://openalex.org/W3150907985",
+        "https://openalex.org/W3167661957",
+        "https://openalex.org/W3174576752",
+        "https://openalex.org/W3176324122",
+        "https://openalex.org/W3180664370",
+        "https://openalex.org/W3182454657",
+        "https://openalex.org/W3194660024",
+        "https://openalex.org/W3198276283",
+        "https://openalex.org/W3212812277",
+        "https://openalex.org/W4205136983",
+        "https://openalex.org/W4220720564",
+        "https://openalex.org/W6601942702",
+        "https://openalex.org/W6646095223",
+        "https://openalex.org/W6658928019",
+        "https://openalex.org/W6659931976",
+        "https://openalex.org/W6666098156",
+        "https://openalex.org/W6682668867",
+        "https://openalex.org/W6697260959",
+        "https://openalex.org/W6707941819",
+        "https://openalex.org/W6730868601",
+        "https://openalex.org/W6737995688",
+        "https://openalex.org/W6782129434",
+        "https://openalex.org/W6926404524"
+      ],
+      "related_works": [
+        "https://openalex.org/W2128126485",
+        "https://openalex.org/W2124952510",
+        "https://openalex.org/W2777937183",
+        "https://openalex.org/W4382563209",
+        "https://openalex.org/W2969881582",
+        "https://openalex.org/W2905390890",
+        "https://openalex.org/W2160357252",
+        "https://openalex.org/W2073959551",
+        "https://openalex.org/W2800266504",
+        "https://openalex.org/W2090253159"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27812,8 +30485,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.4699999988079071,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -28657,8 +31330,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -29941,8 +32614,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -31105,8 +33778,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.8299999833106995,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -33619,11 +36292,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 0.7922,
+      "fwci": 0.7916,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.68754038,
+        "value": 0.68743539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34238,534 +36911,14 @@
         "https://openalex.org/W2047245391",
         "https://openalex.org/W4388537197"
       ],
-      "abstract_inverted_index": {
-        "2": [
-          172
-        ],
-        "23": [
-          130
-        ],
-        "30": [
-          116
-        ],
-        "90": [
-          182
-        ],
-        "600": [
-          110
-        ],
-        "The": [
-          0,
-          52
-        ],
-        "mineral": [
-          1
-        ],
-        "Dolomite": [
-          2
-        ],
-        "CaMg(CO<sub>3</sub>)<sub>2</sub>": [
-          3
-        ],
-        "is": [
-          4,
-          198
-        ],
-        "a": [
-          5,
-          68,
-          127,
-          149
-        ],
-        "common": [
-          6
-        ],
-        "constituent": [
-          7
-        ],
-        "of": [
-          8,
-          13,
-          17,
-          30,
-          37,
-          54,
-          89,
-          129,
-          136,
-          144,
-          163,
-          174,
-          181,
-          195,
-          202
-        ],
-        "sedimentary": [
-          9,
-          101
-        ],
-        "rocks.": [
-          10
-        ],
-        "Despite": [
-          11
-        ],
-        "centuries": [
-          12
-        ],
-        "research,": [
-          14
-        ],
-        "the": [
-          15,
-          28,
-          35,
-          40,
-          87,
-          121,
-          160,
-          164,
-          169,
-          176,
-          192,
-          196
-        ],
-        "mechanism": [
-          16
-        ],
-        "its": [
-          18
-        ],
-        "formation": [
-          19,
-          72,
-          83,
-          223
-        ],
-        "remains": [
-          20
-        ],
-        "elusive": [
-          21
-        ],
-        "and": [
-          22,
-          132,
-          159
-        ],
-        "debated.": [
-          23
-        ],
-        "Recent": [
-          24
-        ],
-        "studies": [
-          25,
-          88
-        ],
-        "have": [
-          26
-        ],
-        "shown": [
-          27
-        ],
-        "presence": [
-          29
-        ],
-        "silica": [
-          31,
-          65
-        ],
-        "in": [
-          32,
-          73,
-          157,
-          168,
-          224
-        ],
-        "solution": [
-          33,
-          119,
-          158
-        ],
-        "promote": [
-          34
-        ],
-        "incorporation": [
-          36
-        ],
-        "Mg": [
-          38,
-          162
-        ],
-        "into": [
-          39
-        ],
-        "carbonate": [
-          41,
-          165
-        ],
-        "mineral,": [
-          42
-        ],
-        "forming": [
-          43,
-          167
-        ],
-        "crystal": [
-          44
-        ],
-        "phases": [
-          45
-        ],
-        "that": [
-          46,
-          201,
-          213
-        ],
-        "may": [
-          47,
-          66,
-          216
-        ],
-        "be": [
-          48
-        ],
-        "precursors": [
-          49
-        ],
-        "to": [
-          50,
-          58,
-          109,
-          138,
-          200
-        ],
-        "dolomite.": [
-          51
-        ],
-        "goal": [
-          53
-        ],
-        "this": [
-          55
-        ],
-        "study": [
-          56
-        ],
-        "was": [
-          57,
-          179
-        ],
-        "evaluate": [
-          59
-        ],
-        "with": [
-          60,
-          118,
-          186
-        ],
-        "laboratory": [
-          61,
-          112
-        ],
-        "experiments": [
-          62,
-          114
-        ],
-        "whether": [
-          63
-        ],
-        "dissolved": [
-          64,
-          214
-        ],
-        "play": [
-          67,
-          217
-        ],
-        "role": [
-          69,
-          220
-        ],
-        "for": [
-          70,
-          81,
-          98,
-          221
-        ],
-        "dolomite": [
-          71,
-          82,
-          185,
-          204,
-          222
-        ],
-        "sabkha": [
-          74,
-          122,
-          208
-        ],
-        "(i.e.,": [
-          75,
-          107
-        ],
-        "salt": [
-          76
-        ],
-        "flats)": [
-          77
-        ],
-        "environments.": [
-          78,
-          226
-        ],
-        "Several": [
-          79
-        ],
-        "models": [
-          80
-        ],
-        "are": [
-          84,
-          92
-        ],
-        "based": [
-          85
-        ],
-        "on": [
-          86
-        ],
-        "sabkhas,": [
-          90
-        ],
-        "which": [
-          91,
-          139
-        ],
-        "often": [
-          93
-        ],
-        "cited": [
-          94
-        ],
-        "as": [
-          95
-        ],
-        "modern": [
-          96
-        ],
-        "analogue": [
-          97,
-          199
-        ],
-        "ancient": [
-          99
-        ],
-        "dolomite-rich": [
-          100
-        ],
-        "sequences.": [
-          102
-        ],
-        "We": [
-          103
-        ],
-        "performed": [
-          104
-        ],
-        "long-incubation": [
-          105
-        ],
-        "time": [
-          106
-        ],
-        "up": [
-          108
-        ],
-        "days)": [
-          111
-        ],
-        "precipitation": [
-          113
-        ],
-        "at": [
-          115
-        ],
-        "°C": [
-          117
-        ],
-        "mimicking": [
-          120
-        ],
-        "pore": [
-          123
-        ],
-        "waters": [
-          124
-        ],
-        "(characterized": [
-          125
-        ],
-        "by": [
-          126
-        ],
-        "salinity": [
-          128
-        ],
-        "%": [
-          131,
-          183
-        ],
-        "Mg:": [
-          133
-        ],
-        "Ca": [
-          134
-        ],
-        "ratio": [
-          135
-        ],
-        "15)": [
-          137
-        ],
-        "we": [
-          140
-        ],
-        "added": [
-          141
-        ],
-        "different": [
-          142
-        ],
-        "concentrations": [
-          143
-        ],
-        "Si.": [
-          145
-        ],
-        "Our": [
-          146,
-          210
-        ],
-        "results": [
-          147,
-          211
-        ],
-        "revealed": [
-          148
-        ],
-        "positive": [
-          150
-        ],
-        "correlation": [
-          151
-        ],
-        "(p-value": [
-          152
-        ],
-        "<0.001)": [
-          153
-        ],
-        "between": [
-          154
-        ],
-        "Si": [
-          155,
-          215
-        ],
-        "concentration": [
-          156
-        ],
-        "mol%": [
-          161
-        ],
-        "minerals": [
-          166
-        ],
-        "experiment.": [
-          170
-        ],
-        "With": [
-          171
-        ],
-        "mM": [
-          173
-        ],
-        "Si,": [
-          175
-        ],
-        "bulk": [
-          177
-        ],
-        "precipitate": [
-          178
-        ],
-        "comprised": [
-          180
-        ],
-        "stoichiometric": [
-          184
-        ],
-        "possible": [
-          187
-        ],
-        "signs": [
-          188
-        ],
-        "or": [
-          189
-        ],
-        "ordering.": [
-          190
-        ],
-        "Moreover,": [
-          191
-        ],
-        "rhombohedral": [
-          193
-        ],
-        "morphology": [
-          194
-        ],
-        "crystals": [
-          197
-        ],
-        "natural": [
-          203
-        ],
-        "previously": [
-          205
-        ],
-        "described": [
-          206
-        ],
-        "from": [
-          207
-        ],
-        "sediments.": [
-          209
-        ],
-        "suggest": [
-          212
-        ],
-        "an": [
-          218
-        ],
-        "important": [
-          219
-        ],
-        "evaporitic": [
-          225
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35419,8 +37572,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4399999976158142,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37898,8 +40051,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -38794,8 +40947,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -39572,8 +41725,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -40668,8 +42821,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -41597,8 +43750,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -42381,8 +44534,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -44424,8 +46577,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -45043,8 +47196,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -45632,8 +47785,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.7300000190734863,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -46977,911 +49130,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4297143848",
-      "doi": "https://doi.org/10.1016/j.rsma.2022.102680",
-      "title": "Chlorophyll-a concentrations in the Arabian Gulf waters of arid region: A case study from the northern coast of Qatar",
-      "display_name": "Chlorophyll-a concentrations in the Arabian Gulf waters of arid region: A case study from the northern coast of Qatar",
-      "publication_year": 2022,
-      "publication_date": "2022-09-25",
-      "ids": {
-        "openalex": "https://openalex.org/W4297143848",
-        "doi": "https://doi.org/10.1016/j.rsma.2022.102680"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.rsma.2022.102680",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764732502",
-          "display_name": "Regional Studies in Marine Science",
-          "issn_l": "2352-4855",
-          "issn": [
-            "2352-4855"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Regional Studies in Marine Science",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.rsma.2022.102680",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5042396632",
-            "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Sankaran Rajendran",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5075872154",
-            "display_name": "Noora Al‐Naimi",
-            "orcid": "https://orcid.org/0000-0002-2755-2249"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Noora Al-Naimi",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091159330",
-            "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jassim A. Al Khayat",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023914107",
-            "display_name": "Caesar Flonasca Sorino",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Caesar Flonasca Sorino",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070411489",
-            "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fadhil N. Sadooni",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5037734458",
-            "display_name": "Hamad Al Saad Al Kuwari",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hamad Al Saad Al Kuwari",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042396632"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I60342839"
-      ],
-      "apc_list": {
-        "value": 2790,
-        "currency": "USD",
-        "value_usd": 2790
-      },
-      "apc_paid": {
-        "value": 2790,
-        "currency": "USD",
-        "value_usd": 2790
-      },
-      "fwci": 0.9027,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.77048957,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "56",
-        "issue": null,
-        "first_page": "102680",
-        "last_page": "102680"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10689",
-        "display_name": "Remote-Sensing Image Classification",
-        "score": 0.9812999963760376,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2214",
-          "display_name": "Media Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10689",
-          "display_name": "Remote-Sensing Image Classification",
-          "score": 0.9812999963760376,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2214",
-            "display_name": "Media Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14249",
-          "display_name": "Water Quality Monitoring and Analysis",
-          "score": 0.9761999845504761,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2311",
-            "display_name": "Industrial and Manufacturing Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10032",
-          "display_name": "Marine and coastal ecosystems",
-          "score": 0.9746000170707703,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/multispectral-image",
-          "display_name": "Multispectral image",
-          "score": 0.6307451128959656
-        },
-        {
-          "id": "https://openalex.org/keywords/phytoplankton",
-          "display_name": "Phytoplankton",
-          "score": 0.5655717253684998
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5619567632675171
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.5602549910545349
-        },
-        {
-          "id": "https://openalex.org/keywords/chlorophyll-a",
-          "display_name": "Chlorophyll a",
-          "score": 0.5577507019042969
-        },
-        {
-          "id": "https://openalex.org/keywords/arid",
-          "display_name": "Arid",
-          "score": 0.5469298362731934
-        },
-        {
-          "id": "https://openalex.org/keywords/waves-and-shallow-water",
-          "display_name": "Waves and shallow water",
-          "score": 0.49571549892425537
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.4839065968990326
-        },
-        {
-          "id": "https://openalex.org/keywords/spectral-bands",
-          "display_name": "Spectral bands",
-          "score": 0.48228076100349426
-        },
-        {
-          "id": "https://openalex.org/keywords/multispectral-pattern-recognition",
-          "display_name": "Multispectral pattern recognition",
-          "score": 0.4202452301979065
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.26653027534484863
-        },
-        {
-          "id": "https://openalex.org/keywords/nutrient",
-          "display_name": "Nutrient",
-          "score": 0.14881205558776855
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.09631285071372986
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.08972665667533875
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.07946223020553589
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C173163844",
-          "wikidata": "https://www.wikidata.org/wiki/Q1761440",
-          "display_name": "Multispectral image",
-          "level": 2,
-          "score": 0.6307451128959656
-        },
-        {
-          "id": "https://openalex.org/C2780892065",
-          "wikidata": "https://www.wikidata.org/wiki/Q184755",
-          "display_name": "Phytoplankton",
-          "level": 3,
-          "score": 0.5655717253684998
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5619567632675171
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.5602549910545349
-        },
-        {
-          "id": "https://openalex.org/C2778902199",
-          "wikidata": "https://www.wikidata.org/wiki/Q133878",
-          "display_name": "Chlorophyll a",
-          "level": 2,
-          "score": 0.5577507019042969
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.5469298362731934
-        },
-        {
-          "id": "https://openalex.org/C186348155",
-          "wikidata": "https://www.wikidata.org/wiki/Q7975538",
-          "display_name": "Waves and shallow water",
-          "level": 2,
-          "score": 0.49571549892425537
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.4839065968990326
-        },
-        {
-          "id": "https://openalex.org/C114700698",
-          "wikidata": "https://www.wikidata.org/wiki/Q2882278",
-          "display_name": "Spectral bands",
-          "level": 2,
-          "score": 0.48228076100349426
-        },
-        {
-          "id": "https://openalex.org/C104541649",
-          "wikidata": "https://www.wikidata.org/wiki/Q6935090",
-          "display_name": "Multispectral pattern recognition",
-          "level": 3,
-          "score": 0.4202452301979065
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.26653027534484863
-        },
-        {
-          "id": "https://openalex.org/C142796444",
-          "wikidata": "https://www.wikidata.org/wiki/Q181394",
-          "display_name": "Nutrient",
-          "level": 2,
-          "score": 0.14881205558776855
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.09631285071372986
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.08972665667533875
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.07946223020553589
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.rsma.2022.102680",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764732502",
-            "display_name": "Regional Studies in Marine Science",
-            "issn_l": "2352-4855",
-            "issn": [
-              "2352-4855"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Regional Studies in Marine Science",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:figshare.com:article/24516571",
-          "is_oa": true,
-          "landing_page_url": "https://figshare.com/articles/journal_contribution/Chlorophyll-a_concentrations_in_the_Arabian_Gulf_waters_of_arid_region_A_case_study_from_the_northern_coast_of_Qatar/24516571",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196282",
-            "display_name": "Figshare",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4210132348",
-            "host_organization_name": "Figshare (United Kingdom)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210132348"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Journal contribution"
-        },
-        {
-          "id": "pmh:oai:qspace.qu.edu.qa:10576/42668",
-          "is_oa": true,
-          "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S2352485522002754",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400014",
-            "display_name": "Qatar University QSpace (Qatar University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I60342839",
-            "host_organization_name": "Qatar University",
-            "host_organization_lineage": [
-              "https://openalex.org/I60342839"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.rsma.2022.102680",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rsma.2022.102680",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764732502",
-          "display_name": "Regional Studies in Marine Science",
-          "issn_l": "2352-4855",
-          "issn": [
-            "2352-4855"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Regional Studies in Marine Science",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G3800377022",
-          "display_name": null,
-          "funder_award_id": "104001004D7C7D00",
-          "funder_id": "https://openalex.org/F4320318240",
-          "funder_display_name": "European Space Agency"
-        },
-        {
-          "id": "https://openalex.org/G5737527671",
-          "display_name": null,
-          "funder_award_id": "QUEX-ESC-QAFCO-20/21-1",
-          "funder_id": "https://openalex.org/F4320322472",
-          "funder_display_name": "Qatar University"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320318240",
-          "display_name": "European Space Agency",
-          "ror": "https://ror.org/03wd9za21"
-        },
-        {
-          "id": "https://openalex.org/F4320322472",
-          "display_name": "Qatar University",
-          "ror": "https://ror.org/00yhnba62"
-        },
-        {
-          "id": "https://openalex.org/F4320332183",
-          "display_name": "U.S. Geological Survey",
-          "ror": "https://ror.org/035a68863"
-        },
-        {
-          "id": "https://openalex.org/F4320334468",
-          "display_name": "Qatar National Library",
-          "ror": "https://ror.org/02jv93662"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 113,
-      "referenced_works": [
-        "https://openalex.org/W174837507",
-        "https://openalex.org/W951725664",
-        "https://openalex.org/W1532270673",
-        "https://openalex.org/W1536580290",
-        "https://openalex.org/W1586593985",
-        "https://openalex.org/W1880538961",
-        "https://openalex.org/W1973426634",
-        "https://openalex.org/W1973885930",
-        "https://openalex.org/W1982965630",
-        "https://openalex.org/W1984219458",
-        "https://openalex.org/W1990633037",
-        "https://openalex.org/W2004666306",
-        "https://openalex.org/W2006740487",
-        "https://openalex.org/W2007852531",
-        "https://openalex.org/W2015479975",
-        "https://openalex.org/W2018886830",
-        "https://openalex.org/W2021849967",
-        "https://openalex.org/W2028085683",
-        "https://openalex.org/W2033656543",
-        "https://openalex.org/W2034085189",
-        "https://openalex.org/W2038300411",
-        "https://openalex.org/W2042040410",
-        "https://openalex.org/W2056435747",
-        "https://openalex.org/W2057300105",
-        "https://openalex.org/W2060628476",
-        "https://openalex.org/W2062991791",
-        "https://openalex.org/W2070136516",
-        "https://openalex.org/W2075777411",
-        "https://openalex.org/W2085418190",
-        "https://openalex.org/W2085965017",
-        "https://openalex.org/W2086163785",
-        "https://openalex.org/W2090595322",
-        "https://openalex.org/W2094699472",
-        "https://openalex.org/W2095970878",
-        "https://openalex.org/W2102276060",
-        "https://openalex.org/W2126688027",
-        "https://openalex.org/W2128686953",
-        "https://openalex.org/W2132388458",
-        "https://openalex.org/W2149876895",
-        "https://openalex.org/W2159961845",
-        "https://openalex.org/W2164720626",
-        "https://openalex.org/W2177368797",
-        "https://openalex.org/W2202386554",
-        "https://openalex.org/W2293584046",
-        "https://openalex.org/W2295624237",
-        "https://openalex.org/W2366418423",
-        "https://openalex.org/W2499899645",
-        "https://openalex.org/W2506931011",
-        "https://openalex.org/W2509389938",
-        "https://openalex.org/W2563205697",
-        "https://openalex.org/W2597284376",
-        "https://openalex.org/W2602359174",
-        "https://openalex.org/W2615064060",
-        "https://openalex.org/W2615972069",
-        "https://openalex.org/W2617448796",
-        "https://openalex.org/W2735100725",
-        "https://openalex.org/W2738308406",
-        "https://openalex.org/W2746063108",
-        "https://openalex.org/W2752599565",
-        "https://openalex.org/W2760323448",
-        "https://openalex.org/W2762057529",
-        "https://openalex.org/W2782013321",
-        "https://openalex.org/W2789782792",
-        "https://openalex.org/W2804164339",
-        "https://openalex.org/W2806729073",
-        "https://openalex.org/W2807494587",
-        "https://openalex.org/W2819212822",
-        "https://openalex.org/W2891805585",
-        "https://openalex.org/W2894332304",
-        "https://openalex.org/W2907102908",
-        "https://openalex.org/W2909215525",
-        "https://openalex.org/W2909697115",
-        "https://openalex.org/W2913849188",
-        "https://openalex.org/W2921202857",
-        "https://openalex.org/W2965565308",
-        "https://openalex.org/W2970774064",
-        "https://openalex.org/W2973188877",
-        "https://openalex.org/W2989150250",
-        "https://openalex.org/W3004411778",
-        "https://openalex.org/W3004942926",
-        "https://openalex.org/W3031830240",
-        "https://openalex.org/W3034131291",
-        "https://openalex.org/W3041108456",
-        "https://openalex.org/W3046794198",
-        "https://openalex.org/W3080503633",
-        "https://openalex.org/W3095275591",
-        "https://openalex.org/W3119737698",
-        "https://openalex.org/W3123032203",
-        "https://openalex.org/W3128202705",
-        "https://openalex.org/W3139255633",
-        "https://openalex.org/W3150907985",
-        "https://openalex.org/W3167661957",
-        "https://openalex.org/W3174576752",
-        "https://openalex.org/W3176324122",
-        "https://openalex.org/W3180664370",
-        "https://openalex.org/W3182454657",
-        "https://openalex.org/W3194660024",
-        "https://openalex.org/W3198276283",
-        "https://openalex.org/W3212812277",
-        "https://openalex.org/W4205136983",
-        "https://openalex.org/W4220720564",
-        "https://openalex.org/W6601942702",
-        "https://openalex.org/W6646095223",
-        "https://openalex.org/W6658928019",
-        "https://openalex.org/W6659931976",
-        "https://openalex.org/W6666098156",
-        "https://openalex.org/W6682668867",
-        "https://openalex.org/W6697260959",
-        "https://openalex.org/W6707941819",
-        "https://openalex.org/W6730868601",
-        "https://openalex.org/W6737995688",
-        "https://openalex.org/W6782129434",
-        "https://openalex.org/W6926404524"
-      ],
-      "related_works": [
-        "https://openalex.org/W2128126485",
-        "https://openalex.org/W2124952510",
-        "https://openalex.org/W2777937183",
-        "https://openalex.org/W4382563209",
-        "https://openalex.org/W2969881582",
-        "https://openalex.org/W2905390890",
-        "https://openalex.org/W2160357252",
-        "https://openalex.org/W2073959551",
-        "https://openalex.org/W2800266504",
-        "https://openalex.org/W2090253159"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-03-07T16:01:11.037858",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2327071915",
       "doi": "https://doi.org/10.1127/0077-7749/2011/0205",
       "title": "Stratigraphy, facies analysis and reservoir characterization of the Upper Jurassic Arab “C, Qatar, Arabian Gulf",
@@ -48262,8 +49510,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -49080,11 +50328,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.9496,
+      "fwci": 1.9329,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8452625,
+        "value": 0.84418159,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49674,8 +50922,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -49805,7 +51053,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50240,8 +51488,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -51334,8 +52582,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6499999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -51984,8 +53232,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -52487,8 +53735,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4300000071525574,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -53022,8 +54270,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -53627,8 +54875,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -54518,8 +55766,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.5299999713897705,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -55317,8 +56565,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.5099999904632568,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -57448,11 +58696,11 @@
         "currency": "EUR",
         "value_usd": 2890
       },
-      "fwci": 0.3437,
+      "fwci": 0.3435,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.4843089,
+        "value": 0.48424415,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57892,8 +59140,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -57967,500 +59215,14 @@
         "https://openalex.org/W1548670372",
         "https://openalex.org/W1562536427"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Core": [
-          1
-        ],
-        "samples": [
-          2,
-          21
-        ],
-        "were": [
-          3,
-          22,
-          85,
-          149
-        ],
-        "collected": [
-          4
-        ],
-        "from": [
-          5,
-          13,
-          109
-        ],
-        "three": [
-          6
-        ],
-        "wells,": [
-          7
-        ],
-        "one": [
-          8
-        ],
-        "onshore": [
-          9
-        ],
-        "and": [
-          10,
-          27,
-          34,
-          37,
-          41,
-          47,
-          67,
-          80,
-          111,
-          125,
-          135,
-          167,
-          199
-        ],
-        "two": [
-          11
-        ],
-        "offshore,": [
-          12
-        ],
-        "Qatar’s": [
-          14
-        ],
-        "Upper": [
-          15
-        ],
-        "Jurassic": [
-          16
-        ],
-        "Arab": [
-          17,
-          54,
-          207
-        ],
-        "D": [
-          18,
-          55
-        ],
-        "reservoir.": [
-          19
-        ],
-        "The": [
-          20,
-          115,
-          187
-        ],
-        "subjected": [
-          23
-        ],
-        "to": [
-          24,
-          30,
-          120,
-          141,
-          178
-        ],
-        "multiproxy": [
-          25
-        ],
-        "petrographic": [
-          26,
-          46
-        ],
-        "chemical": [
-          28
-        ],
-        "analyses": [
-          29
-        ],
-        "identify": [
-          31
-        ],
-        "their": [
-          32,
-          39
-        ],
-        "micro-": [
-          33
-        ],
-        "nanoporosity": [
-          35
-        ],
-        "types": [
-          36,
-          71
-        ],
-        "understand": [
-          38
-        ],
-        "evolution": [
-          40
-        ],
-        "destruction.": [
-          42
-        ],
-        "Based": [
-          43
-        ],
-        "on": [
-          44
-        ],
-        "the": [
-          45,
-          53,
-          89,
-          93,
-          98,
-          101,
-          121,
-          129,
-          172,
-          191,
-          197,
-          202,
-          206
-        ],
-        "petrophysical": [
-          48
-        ],
-        "properties": [
-          49
-        ],
-        "of": [
-          50,
-          103,
-          123,
-          184,
-          190,
-          201,
-          205
-        ],
-        "studied": [
-          51,
-          192
-        ],
-        "rocks,": [
-          52
-        ],
-        "succession": [
-          56
-        ],
-        "was": [
-          57,
-          163
-        ],
-        "divided": [
-          58
-        ],
-        "into": [
-          59
-        ],
-        "seven": [
-          60
-        ],
-        "rock": [
-          61
-        ],
-        "types.": [
-          62
-        ],
-        "Primary": [
-          63,
-          83
-        ],
-        "microporosity": [
-          64
-        ],
-        "includes": [
-          65
-        ],
-        "intergranular": [
-          66
-        ],
-        "interplanar,": [
-          68
-        ],
-        "while": [
-          69,
-          128
-        ],
-        "secondary": [
-          70
-        ],
-        "include": [
-          72
-        ],
-        "vuggy,": [
-          73
-        ],
-        "intercrystalline,": [
-          74
-        ],
-        "moldic,": [
-          75
-        ],
-        "dissolution,": [
-          76
-        ],
-        "pyrite": [
-          77,
-          133
-        ],
-        "displacement,": [
-          78
-        ],
-        "microfracture,": [
-          79
-        ],
-        "microbial": [
-          81,
-          159
-        ],
-        "boring.": [
-          82
-        ],
-        "micropores": [
-          84,
-          107
-        ],
-        "found": [
-          86
-        ],
-        "mainly": [
-          87
-        ],
-        "between": [
-          88,
-          97
-        ],
-        "micrite": [
-          90
-        ],
-        "grains": [
-          91,
-          99
-        ],
-        "in": [
-          92,
-          165,
-          169,
-          171,
-          180
-        ],
-        "lime": [
-          94
-        ],
-        "mudstone": [
-          95
-        ],
-        "facies,": [
-          96
-        ],
-        "or": [
-          100,
-          144,
-          158
-        ],
-        "plates": [
-          102
-        ],
-        "clay": [
-          104,
-          154
-        ],
-        "minerals.": [
-          105
-        ],
-        "Secondary": [
-          106
-        ],
-        "result": [
-          108
-        ],
-        "open": [
-          110,
-          116
-        ],
-        "closed": [
-          112,
-          130
-        ],
-        "diagenetic": [
-          113,
-          117
-        ],
-        "systems.": [
-          114
-        ],
-        "system": [
-          118,
-          131,
-          204
-        ],
-        "led": [
-          119
-        ],
-        "development": [
-          122,
-          198
-        ],
-        "dissolution": [
-          124
-        ],
-        "moldic": [
-          126
-        ],
-        "micropores,": [
-          127
-        ],
-        "created": [
-          132
-        ],
-        "displacement": [
-          134,
-          145
-        ],
-        "boring": [
-          136
-        ],
-        "porosity.": [
-          137
-        ],
-        "Mechanical": [
-          138
-        ],
-        "stress": [
-          139
-        ],
-        "due": [
-          140
-        ],
-        "crystal": [
-          142
-        ],
-        "growth": [
-          143
-        ],
-        "generated": [
-          146
-        ],
-        "microfractures.": [
-          147
-        ],
-        "Micropores": [
-          148
-        ],
-        "destroyed": [
-          150
-        ],
-        "either": [
-          151
-        ],
-        "by": [
-          152
-        ],
-        "cementation,": [
-          153
-        ],
-        "minerals": [
-          155
-        ],
-        "growth,": [
-          156
-        ],
-        "dolomitization,": [
-          157
-        ],
-        "pustular": [
-          160
-        ],
-        "overgrowth.": [
-          161
-        ],
-        "Microporosity": [
-          162
-        ],
-        "important": [
-          164
-        ],
-        "quantity": [
-          166
-        ],
-        "varied": [
-          168
-        ],
-        "nature": [
-          170
-        ],
-        "mud-supported": [
-          173
-        ],
-        "rocks.": [
-          174
-        ],
-        "They": [
-          175
-        ],
-        "are": [
-          176
-        ],
-        "similar": [
-          177
-        ],
-        "macropores": [
-          179
-        ],
-        "grain-supported": [
-          181
-        ],
-        "sediments": [
-          182
-        ],
-        "but": [
-          183
-        ],
-        "less": [
-          185
-        ],
-        "importance.": [
-          186
-        ],
-        "complex": [
-          188
-        ],
-        "lithology": [
-          189
-        ],
-        "rocks": [
-          193
-        ],
-        "has": [
-          194
-        ],
-        "significantly": [
-          195
-        ],
-        "influenced": [
-          196
-        ],
-        "destruction": [
-          200
-        ],
-        "porosity": [
-          203
-        ],
-        "Formation.": [
-          208
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59001,8 +59763,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7699999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -60261,11 +61023,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3373,
+      "fwci": 5.3291,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93497138,
+        "value": 0.93485875,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -61320,7 +62082,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-09T07:00:12.390032",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61580,11 +62342,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9236,
+      "fwci": 1.9129,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82716735,
+        "value": 0.8263302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61999,500 +62761,14 @@
         "https://openalex.org/W2575121716",
         "https://openalex.org/W2438534850"
       ],
-      "abstract_inverted_index": {
-        "Shale": [
-          0,
-          44,
-          94,
-          121
-        ],
-        "gas": [
-          1,
-          9,
-          20,
-          30
-        ],
-        "is": [
-          2,
-          83,
-          178
-        ],
-        "considered": [
-          3
-        ],
-        "one": [
-          4
-        ],
-        "of": [
-          5,
-          42,
-          92,
-          110,
-          141,
-          158,
-          206
-        ],
-        "the": [
-          6,
-          15,
-          36,
-          48,
-          65,
-          84,
-          119,
-          138,
-          175,
-          197
-        ],
-        "promising": [
-          7
-        ],
-        "unconventional": [
-          8
-        ],
-        "reservoirs": [
-          10,
-          31
-        ],
-        "that": [
-          11,
-          81,
-          132,
-          174
-        ],
-        "would": [
-          12
-        ],
-        "help": [
-          13
-        ],
-        "meet": [
-          14
-        ],
-        "current": [
-          16
-        ],
-        "demand": [
-          17
-        ],
-        "for": [
-          18,
-          191
-        ],
-        "natural": [
-          19
-        ],
-        "as": [
-          21,
-          100,
-          105,
-          107,
-          126,
-          164,
-          187
-        ],
-        "a": [
-          22,
-          188,
-          202,
-          211
-        ],
-        "clean": [
-          23
-        ],
-        "energy": [
-          24
-        ],
-        "resource.": [
-          25
-        ],
-        "Qatar": [
-          26
-        ],
-        "has": [
-          27,
-          184,
-          201
-        ],
-        "several": [
-          28
-        ],
-        "shale": [
-          29,
-          143
-        ],
-        "from": [
-          32,
-          47
-        ],
-        "diverse": [
-          33
-        ],
-        "epochs,": [
-          34
-        ],
-        "including": [
-          35,
-          113
-        ],
-        "Eocene": [
-          37
-        ],
-        "Midra": [
-          38,
-          43,
-          88,
-          93,
-          120,
-          161
-        ],
-        "Shale.": [
-          39,
-          89
-        ],
-        "Outcrop": [
-          40
-        ],
-        "samples": [
-          41
-        ],
-        "were": [
-          45,
-          61
-        ],
-        "collected": [
-          46
-        ],
-        "Umm": [
-          49,
-          198
-        ],
-        "Bab": [
-          50,
-          199
-        ],
-        "and": [
-          51,
-          54,
-          57,
-          68,
-          76,
-          103,
-          116,
-          129,
-          167,
-          183
-        ],
-        "Dukhan": [
-          52,
-          176
-        ],
-        "areas,": [
-          53
-        ],
-        "multiple": [
-          55
-        ],
-        "measuring": [
-          56
-        ],
-        "geochemical": [
-          58,
-          171
-        ],
-        "analysis": [
-          59,
-          75,
-          172
-        ],
-        "techniques": [
-          60
-        ],
-        "utilized": [
-          62
-        ],
-        "to": [
-          63
-        ],
-        "characterize": [
-          64
-        ],
-        "mineralogy,": [
-          66
-        ],
-        "microstructure,": [
-          67
-        ],
-        "pores": [
-          69,
-          159
-        ],
-        "type.": [
-          70
-        ],
-        "X-ray": [
-          71,
-          77
-        ],
-        "diffraction": [
-          72
-        ],
-        "(XRD)": [
-          73
-        ],
-        "mineralogy": [
-          74,
-          91
-        ],
-        "Fluorescence": [
-          78
-        ],
-        "(XRF)": [
-          79
-        ],
-        "indicated": [
-          80
-        ],
-        "palygorskite": [
-          82
-        ],
-        "dominant": [
-          85
-        ],
-        "clay": [
-          86
-        ],
-        "in": [
-          87,
-          160,
-          180
-        ],
-        "The": [
-          90,
-          170
-        ],
-        "includes": [
-          95
-        ],
-        "other": [
-          96,
-          111
-        ],
-        "minor": [
-          97
-        ],
-        "minerals": [
-          98
-        ],
-        "such": [
-          99,
-          125,
-          163
-        ],
-        "calcite,": [
-          101
-        ],
-        "quartz,": [
-          102
-        ],
-        "halite,": [
-          104
-        ],
-        "well": [
-          106
-        ],
-        "low": [
-          108,
-          185
-        ],
-        "content": [
-          109
-        ],
-        "clays,": [
-          112
-        ],
-        "sepiolite,": [
-          114
-        ],
-        "smectite,": [
-          115
-        ],
-        "illite.": [
-          117
-        ],
-        "Although": [
-          118
-        ],
-        "contains": [
-          122
-        ],
-        "many": [
-          123
-        ],
-        "elements,": [
-          124
-        ],
-        "shark": [
-          127
-        ],
-        "teeth": [
-          128
-        ],
-        "large": [
-          130
-        ],
-        "foraminifera": [
-          131
-        ],
-        "support": [
-          133
-        ],
-        "deposition": [
-          134
-        ],
-        "under": [
-          135
-        ],
-        "marine": [
-          136,
-          146
-        ],
-        "conditions,": [
-          137
-        ],
-        "existence": [
-          139
-        ],
-        "horizons": [
-          140
-        ],
-        "laminated": [
-          142
-        ],
-        "designate": [
-          144
-        ],
-        "mixed": [
-          145
-        ],
-        "continental": [
-          147
-        ],
-        "depositional": [
-          148
-        ],
-        "settings.": [
-          149
-        ],
-        "Scanning": [
-          150
-        ],
-        "electron": [
-          151
-        ],
-        "microscope": [
-          152
-        ],
-        "(SEM)": [
-          153
-        ],
-        "images": [
-          154
-        ],
-        "revealed": [
-          155,
-          173
-        ],
-        "various": [
-          156
-        ],
-        "types": [
-          157
-        ],
-        "Shale,": [
-          162
-        ],
-        "intragranular,": [
-          165
-        ],
-        "intergranular,": [
-          166
-        ],
-        "organic": [
-          168,
-          181,
-          207
-        ],
-        "pores.": [
-          169
-        ],
-        "section": [
-          177
-        ],
-        "poor": [
-          179
-        ],
-        "matter": [
-          182
-        ],
-        "potential": [
-          186,
-          212
-        ],
-        "source": [
-          189,
-          213
-        ],
-        "rock": [
-          190
-        ],
-        "oil": [
-          192
-        ],
-        "or": [
-          193
-        ],
-        "gas.": [
-          194
-        ],
-        "In": [
-          195
-        ],
-        "contrast,": [
-          196
-        ],
-        "Section": [
-          200
-        ],
-        "relatively": [
-          203
-        ],
-        "high": [
-          204
-        ],
-        "amount": [
-          205
-        ],
-        "carbon,": [
-          208
-        ],
-        "making": [
-          209
-        ],
-        "it": [
-          210
-        ],
-        "rock.": [
-          214
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63002,8 +63278,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -64173,8 +64449,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.6100000143051147,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -65895,8 +66171,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8700000047683716,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -67591,8 +67867,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -68792,11 +69068,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 0.3437,
+      "fwci": 0.3435,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.53354053,
+        "value": 0.53349737,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69403,7 +69679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-11T14:59:36.786465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70251,8 +70527,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -71726,8 +72002,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -72964,8 +73240,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6499999761581421,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -74435,8 +74711,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -75952,8 +76228,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -78027,8 +78303,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -81339,8 +81615,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -82132,8 +82408,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -84844,8 +85120,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -85850,8 +86126,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -86922,8 +87198,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -87465,8 +87741,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -88750,8 +89026,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.6800000071525574,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -90247,8 +90523,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -91073,8 +91349,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.7799999713897705,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -91447,8 +91723,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -91994,8 +92270,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6000000238418579,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -92337,8 +92613,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5400000214576721,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -92668,8 +92944,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -92999,8 +93275,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.550000011920929,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -93705,8 +93981,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -96084,8 +96360,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -97120,8 +97396,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -97668,8 +97944,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "score": 0.699999988079071,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
@@ -98898,8 +99174,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -99556,8 +99832,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.5199999809265137,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -103631,8 +103907,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -104910,8 +105186,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "score": 0.8299999833106995,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
@@ -105090,7 +105366,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31042955,
+        "value": 0.31029085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -105428,7 +105704,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-10T14:07:55.174380",
       "created_date": "2025-10-10T00:00:00"
     },
     {
