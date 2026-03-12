@@ -12,9 +12,9 @@
       "JABER MUHARRAG"
     ],
     "works_count": 84,
-    "cited_by_count": 598,
+    "cited_by_count": 599,
     "summary_stats": {
-      "2yr_mean_citedness": 2.2083333333333335,
+      "2yr_mean_citedness": 2.25,
       "h_index": 15,
       "i10_index": 24
     },
@@ -247,7 +247,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001055,
+        "value": 0.0001054,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -264,7 +264,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000986,
+        "value": 0.0000985,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -281,7 +281,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000947,
+        "value": 0.0000946,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -416,7 +416,7 @@
         "year": 2024,
         "works_count": 12,
         "oa_works_count": 3,
-        "cited_by_count": 51
+        "cited_by_count": 52
       },
       {
         "year": 2025,
@@ -441,7 +441,7 @@
     },
     "block_key": "h eltom",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040857714",
-    "updated_date": "2026-03-08T12:20:35",
+    "updated_date": "2026-03-11T12:22:09",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -36236,11 +36236,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.0765,
+      "fwci": 1.0736,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.70832874,
+        "value": 0.70801632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36715,14 +36715,484 @@
         "https://openalex.org/W3089582840",
         "https://openalex.org/W2352631095"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Studying": [
+          1
+        ],
+        "bioturbated": [
+          2,
+          190
+        ],
+        "sedimentary": [
+          3
+        ],
+        "strata": [
+          4,
+          10,
+          16
+        ],
+        "is": [
+          5,
+          47
+        ],
+        "crucial;": [
+          6
+        ],
+        "however,": [
+          7
+        ],
+        "sampling": [
+          8
+        ],
+        "these": [
+          9,
+          15
+        ],
+        "poses": [
+          11
+        ],
+        "notable": [
+          12
+        ],
+        "challenges.": [
+          13
+        ],
+        "Modelling": [
+          14
+        ],
+        "has": [
+          17,
+          164
+        ],
+        "emerged": [
+          18
+        ],
+        "as": [
+          19
+        ],
+        "a": [
+          20,
+          30,
+          57,
+          73,
+          140
+        ],
+        "promising": [
+          21
+        ],
+        "solution": [
+          22
+        ],
+        "to": [
+          23,
+          32,
+          59,
+          181
+        ],
+        "bridge": [
+          24
+        ],
+        "this": [
+          25,
+          54,
+          162
+        ],
+        "gap.": [
+          26
+        ],
+        "This": [
+          27,
+          138,
+          177
+        ],
+        "study": [
+          28,
+          55,
+          163
+        ],
+        "introduces": [
+          29
+        ],
+        "workflow": [
+          31,
+          168
+        ],
+        "model": [
+          33
+        ],
+        "burrows": [
+          34,
+          78
+        ],
+        "utilizing": [
+          35
+        ],
+        "the": [
+          36,
+          48,
+          96,
+          103,
+          145,
+          154,
+          167,
+          174,
+          183,
+          193,
+          199
+        ],
+        "multipoint": [
+          37
+        ],
+        "statistics": [
+          38
+        ],
+        "(MPS)": [
+          39
+        ],
+        "method.": [
+          40
+        ],
+        "A": [
+          41
+        ],
+        "key": [
+          42
+        ],
+        "step": [
+          43
+        ],
+        "in": [
+          44,
+          79,
+          98,
+          126,
+          150,
+          198
+        ],
+        "MPS": [
+          45,
+          114,
+          117,
+          187
+        ],
+        "modelling": [
+          46,
+          188
+        ],
+        "use": [
+          49
+        ],
+        "of": [
+          50,
+          65,
+          77,
+          123,
+          157,
+          186
+        ],
+        "training": [
+          51,
+          107
+        ],
+        "images,": [
+          52
+        ],
+        "and": [
+          53,
+          94,
+          100,
+          129,
+          131,
+          136,
+          152,
+          172
+        ],
+        "describes": [
+          56
+        ],
+        "process": [
+          58,
+          84
+        ],
+        "create": [
+          60
+        ],
+        "them": [
+          61
+        ],
+        "using": [
+          62
+        ],
+        "CT": [
+          63,
+          90
+        ],
+        "scans": [
+          64,
+          71,
+          97
+        ],
+        "rock": [
+          66,
+          81,
+          88
+        ],
+        "samples": [
+          67
+        ],
+        "contain": [
+          68
+        ],
+        "burrows.": [
+          69,
+          158
+        ],
+        "These": [
+          70
+        ],
+        "give": [
+          72
+        ],
+        "3D": [
+          74
+        ],
+        "visual": [
+          75
+        ],
+        "representation": [
+          76
+        ],
+        "actual": [
+          80
+        ],
+        "record.": [
+          82
+        ],
+        "The": [
+          83,
+          116
+        ],
+        "involves": [
+          85
+        ],
+        "selecting": [
+          86
+        ],
+        "suitable": [
+          87
+        ],
+        "samples,": [
+          89
+        ],
+        "scanning": [
+          91
+        ],
+        "them,": [
+          92
+        ],
+        "importing": [
+          93
+        ],
+        "processing": [
+          95
+        ],
+        "Petrel™,": [
+          99
+        ],
+        "then": [
+          101
+        ],
+        "transforming": [
+          102
+        ],
+        "scan": [
+          104
+        ],
+        "data": [
+          105
+        ],
+        "into": [
+          106
+        ],
+        "images": [
+          108
+        ],
+        "which": [
+          109
+        ],
+        "can": [
+          110
+        ],
+        "be": [
+          111
+        ],
+        "used": [
+          112
+        ],
+        "for": [
+          113,
+          120,
+          147,
+          189,
+          195
+        ],
+        "modelling.": [
+          115
+        ],
+        "models": [
+          118
+        ],
+        "allow": [
+          119
+        ],
+        "precise": [
+          121
+        ],
+        "replication": [
+          122
+        ],
+        "burrows,": [
+          124
+        ],
+        "variations": [
+          125
+        ],
+        "their": [
+          127
+        ],
+        "size": [
+          128
+        ],
+        "percentage,": [
+          130
+        ],
+        "modeling": [
+          132
+        ],
+        "properties": [
+          133
+        ],
+        "like": [
+          134
+        ],
+        "porosity": [
+          135
+        ],
+        "permeability.": [
+          137
+        ],
+        "enables": [
+          139
+        ],
+        "more": [
+          141
+        ],
+        "detailed": [
+          142
+        ],
+        "analysis,": [
+          143
+        ],
+        "paving": [
+          144
+        ],
+        "way": [
+          146
+        ],
+        "further": [
+          148,
+          196
+        ],
+        "advancements": [
+          149,
+          197
+        ],
+        "understanding": [
+          151
+        ],
+        "simulating": [
+          153
+        ],
+        "geological": [
+          155
+        ],
+        "implications": [
+          156
+        ],
+        "To": [
+          159
+        ],
+        "guarantee": [
+          160
+        ],
+        "reproducibility,": [
+          161
+        ],
+        "precisely": [
+          165
+        ],
+        "documented": [
+          166
+        ],
+        "with": [
+          169
+        ],
+        "video": [
+          170
+        ],
+        "guidance": [
+          171
+        ],
+        "provided": [
+          173
+        ],
+        "necessary": [
+          175
+        ],
+        "data.": [
+          176
+        ],
+        "comprehensive": [
+          178
+        ],
+        "documentation": [
+          179
+        ],
+        "aims": [
+          180
+        ],
+        "encourage": [
+          182
+        ],
+        "broader": [
+          184
+        ],
+        "adoption": [
+          185
+        ],
+        "strata,": [
+          191
+        ],
+        "setting": [
+          192
+        ],
+        "stage": [
+          194
+        ],
+        "field.": [
+          200
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-11T14:59:36.786465",
+      "updated_date": "2026-03-12T08:34:05.389933",
       "created_date": "2025-10-10T00:00:00"
     },
     {
