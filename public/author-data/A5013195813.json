@@ -12,7 +12,7 @@
       "Knaust D."
     ],
     "works_count": 114,
-    "cited_by_count": 2758,
+    "cited_by_count": 2759,
     "summary_stats": {
       "2yr_mean_citedness": 1.2727272727272727,
       "h_index": 31,
@@ -297,7 +297,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003056,
+        "value": 0.0003052,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -314,7 +314,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002829,
+        "value": 0.0002826,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -331,7 +331,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001871,
+        "value": 0.0001867,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -483,7 +483,7 @@
         "year": 2013,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 207
+        "cited_by_count": 208
       },
       {
         "year": 2014,
@@ -568,7 +568,7 @@
     },
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-03-09T19:11:36",
+    "updated_date": "2026-03-12T12:22:06",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3972,11 +3972,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 102.4307,
+      "fwci": 102.4642,
       "has_fulltext": false,
       "cited_by_count": 84,
       "citation_normalized_percentile": {
-        "value": 0.99941144,
+        "value": 0.99941163,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4275,7 +4275,22 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1256337755",
+          "display_name": null,
+          "funder_award_id": "18-14575S",
+          "funder_id": "https://openalex.org/F4320321006",
+          "funder_display_name": "Grantová Agentura České Republiky"
+        },
+        {
+          "id": "https://openalex.org/G5784215521",
+          "display_name": null,
+          "funder_award_id": "Chair",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320308269",
@@ -4471,7 +4486,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-12T08:34:05.389933",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40979,11 +40994,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 1.4068,
+      "fwci": 1.4082,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.76799735,
+        "value": 0.7683048,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41264,7 +41279,92 @@
           "display_name": "Life in Land"
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1374076867",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G1748430082",
+          "display_name": null,
+          "funder_award_id": "26000000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G1783795302",
+          "display_name": null,
+          "funder_award_id": "Project",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G2437038145",
+          "display_name": null,
+          "funder_award_id": "VR Project no. 2018-03390",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G26592854",
+          "display_name": null,
+          "funder_award_id": "XDB26000000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G3593028331",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G5059221399",
+          "display_name": null,
+          "funder_award_id": "01040",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G6269633226",
+          "display_name": null,
+          "funder_award_id": "XDB2600000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G712881263",
+          "display_name": null,
+          "funder_award_id": "2018-",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G7297870045",
+          "display_name": null,
+          "funder_award_id": "000000",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G7568142948",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G7695561278",
+          "display_name": null,
+          "funder_award_id": "2018-03390",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321001",
@@ -41914,7 +42014,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-05T09:29:38.588285",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48122,11 +48222,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 2.5187,
+      "fwci": 2.4728,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.88795305,
+        "value": 0.88629266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48378,7 +48478,22 @@
           "display_name": "Life below water"
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4361480289",
+          "display_name": null,
+          "funder_award_id": "293109",
+          "funder_id": "https://openalex.org/F4320321108",
+          "funder_display_name": "Academy of Finland"
+        },
+        {
+          "id": "https://openalex.org/G7873613073",
+          "display_name": null,
+          "funder_award_id": "#293109",
+          "funder_id": "https://openalex.org/F4320321108",
+          "funder_display_name": "Academy of Finland"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320310659",
@@ -48757,7 +48872,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {

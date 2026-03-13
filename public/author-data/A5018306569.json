@@ -693,11 +693,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 4.1238,
+      "fwci": 4.1032,
       "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.9513727,
+        "value": 0.95096685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1206,9 +1206,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [
@@ -1306,7 +1306,343 @@
         "https://openalex.org/W2382240109",
         "https://openalex.org/W2368475191"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Characterization": [
+          0
+        ],
+        "and": [
+          1,
+          20,
+          66,
+          104,
+          116,
+          121,
+          133,
+          144
+        ],
+        "prediction": [
+          2
+        ],
+        "of": [
+          3,
+          28,
+          84,
+          99,
+          131
+        ],
+        "reservoir": [
+          4,
+          35
+        ],
+        "heterogeneity": [
+          5,
+          27
+        ],
+        "are": [
+          6
+        ],
+        "crucial": [
+          7
+        ],
+        "for": [
+          8
+        ],
+        "hydrocarbon": [
+          9
+        ],
+        "production.": [
+          10
+        ],
+        "This": [
+          11
+        ],
+        "study": [
+          12
+        ],
+        "applies": [
+          13
+        ],
+        "the": [
+          14,
+          26,
+          37,
+          81,
+          85,
+          89,
+          93,
+          97,
+          105,
+          109,
+          138
+        ],
+        "multifractal": [
+          15,
+          135
+        ],
+        "theory": [
+          16
+        ],
+        "using": [
+          17
+        ],
+        "both": [
+          18,
+          64
+        ],
+        "numerical": [
+          19,
+          67
+        ],
+        "experimental": [
+          21,
+          57,
+          65,
+          73,
+          117,
+          134
+        ],
+        "data": [
+          22,
+          118
+        ],
+        "to": [
+          23,
+          124,
+          140
+        ],
+        "characterize": [
+          24
+        ],
+        "quantitatively": [
+          25,
+          125
+        ],
+        "pore": [
+          29,
+          86,
+          100
+        ],
+        "structures": [
+          30,
+          87
+        ],
+        "in": [
+          31,
+          92,
+          108
+        ],
+        "Lower": [
+          32
+        ],
+        "Cretaceous": [
+          33
+        ],
+        "limestone": [
+          34
+        ],
+        "from": [
+          36,
+          44,
+          114
+        ],
+        "United": [
+          38
+        ],
+        "Arab": [
+          39
+        ],
+        "Emirates.": [
+          40
+        ],
+        "Fractal": [
+          41
+        ],
+        "dimensions": [
+          42,
+          69
+        ],
+        "calculated": [
+          43
+        ],
+        "three": [
+          45
+        ],
+        "dimensional": [
+          46
+        ],
+        "digital": [
+          47,
+          115,
+          132
+        ],
+        "images": [
+          48
+        ],
+        "showed": [
+          49
+        ],
+        "good": [
+          50
+        ],
+        "correlation": [
+          51
+        ],
+        "(R<sup>2</sup>": [
+          52
+        ],
+        "=": [
+          53
+        ],
+        "+": [
+          54
+        ],
+        "0.69)": [
+          55
+        ],
+        "with": [
+          56,
+          72
+        ],
+        "high-pressure": [
+          58
+        ],
+        "mercury": [
+          59
+        ],
+        "injection": [
+          60
+        ],
+        "(HPMI)": [
+          61
+        ],
+        "measurements.": [
+          62,
+          76
+        ],
+        "Moreover,": [
+          63
+        ],
+        "fractal": [
+          68
+        ],
+        "correlate": [
+          70
+        ],
+        "well": [
+          71,
+          120
+        ],
+        "HPMI": [
+          74
+        ],
+        "porosity": [
+          75
+        ],
+        "Multifractal": [
+          77
+        ],
+        "parameters": [
+          78,
+          136
+        ],
+        "such": [
+          79
+        ],
+        "as": [
+          80
+        ],
+        "non-uniformity": [
+          82
+        ],
+        "degree": [
+          83,
+          91,
+          107
+        ],
+        "Δα,": [
+          88
+        ],
+        "asymmetry": [
+          90,
+          106
+        ],
+        "vertical": [
+          94
+        ],
+        "axis": [
+          95,
+          111
+        ],
+        "Δf(α),": [
+          96
+        ],
+        "concentration": [
+          98
+        ],
+        "size": [
+          101
+        ],
+        "distribution": [
+          102
+        ],
+        "α<sub>0</sub>": [
+          103
+        ],
+        "horizontal": [
+          110
+        ],
+        "R<sub>d</sub>": [
+          112
+        ],
+        "estimated": [
+          113
+        ],
+        "correlated": [
+          119
+        ],
+        "revealed": [
+          122
+        ],
+        "ability": [
+          123
+        ],
+        "describe": [
+          126
+        ],
+        "samples": [
+          127
+        ],
+        "heterogeneity.": [
+          128
+        ],
+        "The": [
+          129
+        ],
+        "ranges": [
+          130
+        ],
+        "provided": [
+          137
+        ],
+        "means": [
+          139
+        ],
+        "differentiate": [
+          141
+        ],
+        "between": [
+          142
+        ],
+        "homogeneous": [
+          143
+        ],
+        "heterogeneous": [
+          145
+        ],
+        "samples.": [
+          146
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -1321,7 +1657,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1954,9 +2290,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [
@@ -2949,9 +3285,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -3903,9 +4239,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -4736,9 +5072,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -5949,9 +6285,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6821,9 +7157,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -8017,9 +8353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -8749,9 +9085,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -12350,9 +12686,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -13205,9 +13541,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -14393,9 +14729,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -16508,9 +16844,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -18584,9 +18920,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -19638,16 +19974,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I35906937",
-              "display_name": "University of Misan",
-              "ror": "https://ror.org/05b5sds65",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I35906937"
-              ]
-            },
-            {
               "id": "https://openalex.org/I20230540",
               "display_name": "University of Miskolc",
               "ror": "https://ror.org/038g7dk46",
@@ -19655,6 +19981,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I20230540"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I35906937",
+              "display_name": "University of Misan",
+              "ror": "https://ror.org/05b5sds65",
+              "country_code": "IQ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I35906937"
               ]
             }
           ],
@@ -19667,8 +20003,8 @@
           "raw_affiliation_strings": [
             "Geology Department Missan Oil Company  Misan Iraq",
             "Institute of Exploration Geosciences University of Miskolc  Miskolc Hungary",
-            "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary",
-            "Geology Department, Missan Oil Company, Misan, Iraq"
+            "Geology Department, Missan Oil Company, Misan, Iraq",
+            "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary"
           ],
           "affiliations": [
             {
@@ -19684,14 +20020,16 @@
               ]
             },
             {
+              "raw_affiliation_string": "Geology Department, Missan Oil Company, Misan, Iraq",
+              "institution_ids": [
+                "https://openalex.org/I35906937"
+              ]
+            },
+            {
               "raw_affiliation_string": "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary",
               "institution_ids": [
                 "https://openalex.org/I20230540"
               ]
-            },
-            {
-              "raw_affiliation_string": "Geology Department, Missan Oil Company, Misan, Iraq",
-              "institution_ids": []
             }
           ]
         },
@@ -19748,7 +20086,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I2800838116",
-              "display_name": "Al Maarif University College",
+              "display_name": "University of Al Maarif",
               "ror": "https://ror.org/05scxf493",
               "country_code": "IQ",
               "type": "education",
@@ -19877,7 +20215,9 @@
             },
             {
               "raw_affiliation_string": "Directorate of Quality Assurance and Curriculum Development, Salahaddin University-Erbil, Erbil, Iraq",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I46208956"
+              ]
             }
           ]
         },
@@ -19937,7 +20277,7 @@
               "display_name": "Bulgarian Academy of Sciences",
               "ror": "https://ror.org/01x8hew03",
               "country_code": "BG",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I24768866"
               ]
@@ -19976,16 +20316,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71999127",
-              "display_name": "Universitat de Barcelona",
-              "ror": "https://ror.org/021018s57",
-              "country_code": "ES",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71999127"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210160890",
               "display_name": "Institute of Mineralogy",
               "ror": "https://ror.org/05tpxpz56",
@@ -19995,6 +20325,16 @@
                 "https://openalex.org/I1313323035",
                 "https://openalex.org/I4210160890",
                 "https://openalex.org/I4210163714"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71999127",
+              "display_name": "Universitat de Barcelona",
+              "ror": "https://ror.org/021018s57",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71999127"
               ]
             }
           ],
@@ -20041,6 +20381,16 @@
               "lineage": [
                 "https://openalex.org/I1294182474"
               ]
+            },
+            {
+              "id": "https://openalex.org/I3151615967",
+              "display_name": "University of Kurdistan Hewler",
+              "ror": "https://ror.org/00268wk31",
+              "country_code": "IQ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3151615967"
+              ]
             }
           ],
           "countries": [
@@ -20061,7 +20411,9 @@
             },
             {
               "raw_affiliation_string": "KAR Group, Erbil, Iraq",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I3151615967"
+              ]
             }
           ]
         }
@@ -20086,11 +20438,11 @@
         "currency": "USD",
         "value_usd": 3240
       },
-      "fwci": 4.8808,
+      "fwci": 4.709,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.94890542,
+        "value": 0.94704719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20099,10 +20451,10 @@
         "max": 99
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "49",
+        "issue": "2",
+        "first_page": "312",
+        "last_page": "345"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -21461,7 +21813,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-11-19T00:00:00"
     },
     {
@@ -22093,9 +22445,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -22659,11 +23011,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 0.864,
+      "fwci": 0.8548,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.66076754,
+        "value": 0.65968146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23136,12 +23488,41 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2165548363",
+          "display_name": null,
+          "funder_award_id": "Canada",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G2556638973",
+          "display_name": null,
+          "funder_award_id": "812005",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G6056167637",
+          "display_name": null,
+          "funder_award_id": "General",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G8284766523",
+          "display_name": null,
+          "funder_award_id": "(NSERC)",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320318812",
@@ -23614,7 +23995,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-26T23:06:41.788003",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24283,9 +24664,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -25207,9 +25588,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -26407,9 +26788,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -27119,9 +27500,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -27790,9 +28171,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -30592,9 +30973,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -31878,9 +32259,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -33032,9 +33413,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -33980,9 +34361,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -34531,9 +34912,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -35394,9 +35775,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -36159,9 +36540,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -37120,9 +37501,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -38463,9 +38844,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -39607,9 +39988,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -43500,9 +43881,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4302540421485901,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4302540421485901
         }
       ],
       "awards": [],

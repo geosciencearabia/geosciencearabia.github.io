@@ -13,7 +13,7 @@
       "Osman Mahmoud Abdullatif"
     ],
     "works_count": 151,
-    "cited_by_count": 1143,
+    "cited_by_count": 1144,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 17,
@@ -285,7 +285,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0002316,
+        "value": 0.0002315,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -302,7 +302,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001939,
+        "value": 0.0001938,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -319,7 +319,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001564,
+        "value": 0.0001562,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -336,7 +336,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001388,
+        "value": 0.0001387,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -353,7 +353,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.00012,
+        "value": 0.0001199,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -495,7 +495,7 @@
         "year": 2021,
         "works_count": 9,
         "oa_works_count": 1,
-        "cited_by_count": 65
+        "cited_by_count": 66
       },
       {
         "year": 2022,
@@ -526,7 +526,7 @@
     },
     "block_key": "o abdullatif",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5028390167",
-    "updated_date": "2026-03-08T12:20:35",
+    "updated_date": "2026-03-12T12:22:06",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -10293,11 +10293,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 3.212,
+      "fwci": 3.2126,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.91828396,
+        "value": 0.91829787,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10817,588 +10817,7 @@
         "https://openalex.org/W3170579962",
         "https://openalex.org/W2370005162"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1
-        ],
-        "paper": [
-          2
-        ],
-        "presents": [
-          3,
-          102
-        ],
-        "the": [
-          4,
-          10,
-          36,
-          52,
-          86,
-          103,
-          121,
-          129,
-          132,
-          137,
-          153,
-          172,
-          177,
-          231,
-          250
-        ],
-        "facies": [
-          5,
-          53
-        ],
-        "and": [
-          6,
-          54,
-          74,
-          81,
-          114,
-          126,
-          135,
-          150,
-          158,
-          187,
-          198,
-          221,
-          234
-        ],
-        "depositional": [
-          7,
-          62,
-          65,
-          117
-        ],
-        "environment": [
-          8
-        ],
-        "of": [
-          9,
-          21,
-          38,
-          57,
-          99,
-          105,
-          123,
-          155,
-          179,
-          217
-        ],
-        "early": [
-          11
-        ],
-        "Miocene": [
-          12
-        ],
-        "Dam": [
-          13,
-          22,
-          58,
-          100,
-          240
-        ],
-        "Formation,": [
-          14
-        ],
-        "Eastern": [
-          15
-        ],
-        "Arabian": [
-          16,
-          232,
-          252
-        ],
-        "platform,": [
-          17
-        ],
-        "Saudi": [
-          18
-        ],
-        "Arabia.": [
-          19
-        ],
-        "Deposition": [
-          20
-        ],
-        "Formation": [
-          23
-        ],
-        "(Fm.)": [
-          24
-        ],
-        "was": [
-          25,
-          90,
-          146
-        ],
-        "considered": [
-          26
-        ],
-        "as": [
-          27,
-          148,
-          169,
-          223
-        ],
-        "a": [
-          28,
-          93,
-          244
-        ],
-        "restricted": [
-          29
-        ],
-        "shallow": [
-          30
-        ],
-        "marine": [
-          31
-        ],
-        "deposition.": [
-          32
-        ],
-        "Few": [
-          33
-        ],
-        "studies": [
-          34
-        ],
-        "suggest": [
-          35
-        ],
-        "role": [
-          37
-        ],
-        "sea-level": [
-          39
-        ],
-        "change": [
-          40
-        ],
-        "in": [
-          41,
-          128,
-          143,
-          230,
-          249
-        ],
-        "its": [
-          42
-        ],
-        "deposition": [
-          43,
-          154,
-          178,
-          188
-        ],
-        "but": [
-          44
-        ],
-        "were": [
-          45,
-          67,
-          189
-        ],
-        "without": [
-          46
-        ],
-        "decisive": [
-          47
-        ],
-        "substantiation.": [
-          48
-        ],
-        "Here,": [
-          49
-        ],
-        "we": [
-          50
-        ],
-        "describe": [
-          51
-        ],
-        "high-resolution": [
-          55
-        ],
-        "model": [
-          56,
-          210
-        ],
-        "Fm.": [
-          59,
-          101,
-          241
-        ],
-        "under": [
-          60
-        ],
-        "varying": [
-          61
-        ],
-        "conditions.": [
-          63
-        ],
-        "The": [
-          64,
-          96,
-          116,
-          140,
-          161,
-          206
-        ],
-        "conditions": [
-          66,
-          108,
-          118
-        ],
-        "subjected": [
-          68
-        ],
-        "to": [
-          69,
-          171,
-          213
-        ],
-        "changing": [
-          70
-        ],
-        "relative": [
-          71,
-          203
-        ],
-        "sea": [
-          72,
-          124,
-          144,
-          204
-        ],
-        "level": [
-          73,
-          145
-        ],
-        "tectonics.": [
-          75,
-          95
-        ],
-        "High-resolution": [
-          76
-        ],
-        "outcrop": [
-          77,
-          209
-        ],
-        "photographs,": [
-          78
-        ],
-        "sedimentological": [
-          79
-        ],
-        "logs,": [
-          80
-        ],
-        "thin": [
-          82
-        ],
-        "sections": [
-          83
-        ],
-        "present": [
-          84
-        ],
-        "that": [
-          85,
-          109,
-          239
-        ],
-        "mixed": [
-          87,
-          218
-        ],
-        "carbonate–siliciclastic": [
-          88,
-          219
-        ],
-        "sequence": [
-          89
-        ],
-        "affected": [
-          91
-        ],
-        "by": [
-          92,
-          112,
-          191
-        ],
-        "regional": [
-          94
-        ],
-        "lower": [
-          97
-        ],
-        "part": [
-          98
-        ],
-        "development": [
-          104
-        ],
-        "carbonate": [
-          106,
-          167
-        ],
-        "ramp": [
-          107
-        ],
-        "are": [
-          110,
-          165
-        ],
-        "represented": [
-          111
-        ],
-        "limestones": [
-          113
-        ],
-        "marl.": [
-          115
-        ],
-        "fluctuated": [
-          119
-        ],
-        "with": [
-          120
-        ],
-        "fall": [
-          122
-        ],
-        "level,": [
-          125
-        ],
-        "uplift": [
-          127
-        ],
-        "region": [
-          130
-        ],
-        "pushed": [
-          131
-        ],
-        "siliciclastic": [
-          133
-        ],
-        "down-dip": [
-          134
-        ],
-        "covered": [
-          136
-        ],
-        "whole": [
-          138
-        ],
-        "platform.": [
-          139
-        ],
-        "subsequent": [
-          141
-        ],
-        "rise": [
-          142
-        ],
-        "not": [
-          147
-        ],
-        "pronounced": [
-          149
-        ],
-        "thus": [
-          151
-        ],
-        "allowed": [
-          152,
-          176
-        ],
-        "microbial": [
-          156
-        ],
-        "laminites": [
-          157
-        ],
-        "stromatolitic": [
-          159
-        ],
-        "facies.": [
-          160
-        ],
-        "southeast": [
-          162
-        ],
-        "outcrops,": [
-          163
-        ],
-        "down-dip,": [
-          164
-        ],
-        "more": [
-          166
-        ],
-        "prone": [
-          168
-        ],
-        "compared": [
-          170
-        ],
-        "northwest": [
-          173
-        ],
-        "outcrop,": [
-          174
-        ],
-        "which": [
-          175
-        ],
-        "siliciclastic-prone": [
-          180
-        ],
-        "sedimentation": [
-          181
-        ],
-        "up-dip.": [
-          182
-        ],
-        "All": [
-          183
-        ],
-        "facies,": [
-          184
-        ],
-        "architecture,": [
-          185
-        ],
-        "heterogeneity,": [
-          186
-        ],
-        "controlled": [
-          190
-        ],
-        "tectonic": [
-          192
-        ],
-        "events": [
-          193
-        ],
-        "including": [
-          194
-        ],
-        "uplift,": [
-          195
-        ],
-        "subsidence,": [
-          196
-        ],
-        "tilting,": [
-          197
-        ],
-        "syn-sedimentary": [
-          199
-        ],
-        "faulting,": [
-          200
-        ],
-        "consequently": [
-          201
-        ],
-        "affecting": [
-          202
-        ],
-        "level.": [
-          205
-        ],
-        "resulting": [
-          207
-        ],
-        "conceptual": [
-          208
-        ],
-        "would": [
-          211
-        ],
-        "help": [
-          212
-        ],
-        "improve": [
-          214
-        ],
-        "our": [
-          215
-        ],
-        "understanding": [
-          216
-        ],
-        "systems": [
-          220
-        ],
-        "serve": [
-          222
-        ],
-        "an": [
-          224
-        ],
-        "analogue": [
-          225
-        ],
-        "for": [
-          226,
-          247
-        ],
-        "other": [
-          227
-        ],
-        "stratigraphic": [
-          228
-        ],
-        "units": [
-          229
-        ],
-        "plate": [
-          233
-        ],
-        "region.": [
-          235
-        ],
-        "Our": [
-          236
-        ],
-        "results": [
-          237
-        ],
-        "show": [
-          238
-        ],
-        "can": [
-          242
-        ],
-        "be": [
-          243
-        ],
-        "good": [
-          245
-        ],
-        "target": [
-          246
-        ],
-        "exploration": [
-          248
-        ],
-        "Northern": [
-          251
-        ],
-        "Gulf.": [
-          253
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -11421,7 +10840,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {

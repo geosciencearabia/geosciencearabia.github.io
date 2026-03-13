@@ -2582,8 +2582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -4123,8 +4123,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 137,
@@ -4995,8 +4995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -6102,8 +6102,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1496924522.pdf",
@@ -7357,8 +7357,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -8654,8 +8654,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -9742,8 +9742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -11352,8 +11352,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -12568,8 +12568,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -13133,8 +13133,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -13506,11 +13506,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.1473,
+      "fwci": 2.1408,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86613739,
+        "value": 0.86568973,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13824,8 +13824,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -13923,14 +13923,686 @@
         "https://openalex.org/W2313730521",
         "https://openalex.org/W2188220592"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "420": [
+          185
+        ],
+        "800": [
+          255
+        ],
+        "1000": [
+          31
+        ],
+        "The": [
+          0,
+          200
+        ],
+        "downdip": [
+          1
+        ],
+        "migration": [
+          2
+        ],
+        "of": [
+          3,
+          119,
+          131,
+          156,
+          184,
+          229
+        ],
+        "dissolution": [
+          4,
+          110,
+          235,
+          246,
+          274
+        ],
+        "fronts": [
+          5
+        ],
+        "in": [
+          6,
+          21,
+          37,
+          127,
+          150,
+          164,
+          207,
+          212,
+          260,
+          297
+        ],
+        "gently": [
+          7
+        ],
+        "tilted": [
+          8
+        ],
+        "evaporite": [
+          9,
+          78,
+          245,
+          291
+        ],
+        "formations": [
+          10
+        ],
+        "produces": [
+          11
+        ],
+        "updip-facing": [
+          12
+        ],
+        "monoclinal": [
+          13,
+          178,
+          238
+        ],
+        "folds": [
+          14
+        ],
+        "and": [
+          15,
+          45,
+          59,
+          93,
+          100,
+          111,
+          124,
+          159,
+          169,
+          192,
+          204,
+          226,
+          237,
+          264
+        ],
+        "adjacent": [
+          16
+        ],
+        "synformal": [
+          17
+        ],
+        "troughs": [
+          18
+        ],
+        "(depositional": [
+          19
+        ],
+        "basins)": [
+          20
+        ],
+        "the": [
+          22,
+          38,
+          49,
+          71,
+          87,
+          106,
+          116,
+          120,
+          128,
+          145,
+          151,
+          154,
+          157,
+          162,
+          166,
+          208,
+          227,
+          230,
+          234,
+          248,
+          298
+        ],
+        "supra-evaporite": [
+          23
+        ],
+        "strata.": [
+          24
+        ],
+        "These": [
+          25
+        ],
+        "gravitational": [
+          26
+        ],
+        "deformation": [
+          27,
+          170
+        ],
+        "structures,": [
+          28
+        ],
+        "up": [
+          29
+        ],
+        "to": [
+          30,
+          218,
+          244,
+          290,
+          303
+        ],
+        "km": [
+          32,
+          108,
+          256
+        ],
+        "long,": [
+          33
+        ],
+        "can": [
+          34,
+          215
+        ],
+        "be": [
+          35,
+          216
+        ],
+        "expressed": [
+          36
+        ],
+        "landscape": [
+          39
+        ],
+        "as": [
+          40
+        ],
+        "laterally": [
+          41
+        ],
+        "migrating": [
+          42
+        ],
+        "fold": [
+          43,
+          272
+        ],
+        "escarpments": [
+          44
+        ],
+        "linear": [
+          46
+        ],
+        "depressions,": [
+          47
+        ],
+        "forming": [
+          48
+        ],
+        "largest": [
+          50,
+          146,
+          249
+        ],
+        "karst": [
+          51,
+          79,
+          148,
+          250
+        ],
+        "features": [
+          52,
+          80,
+          95,
+          251
+        ],
+        "on": [
+          53,
+          90,
+          97,
+          138,
+          252,
+          286
+        ],
+        "Earth.": [
+          54,
+          253
+        ],
+        "Despite": [
+          55
+        ],
+        "their": [
+          56
+        ],
+        "large": [
+          57
+        ],
+        "dimensions": [
+          58
+        ],
+        "numerous": [
+          60,
+          195
+        ],
+        "associated": [
+          61,
+          94,
+          114,
+          167
+        ],
+        "practical": [
+          62
+        ],
+        "implications": [
+          63
+        ],
+        "(hydrocarbon,": [
+          64
+        ],
+        "salt,": [
+          65
+        ],
+        "geostorage,": [
+          66
+        ],
+        "water": [
+          67,
+          224
+        ],
+        "quality,": [
+          68
+        ],
+        "sinkhole": [
+          69,
+          202
+        ],
+        "hazards),": [
+          70
+        ],
+        "scientific": [
+          72
+        ],
+        "publications": [
+          73
+        ],
+        "dealing": [
+          74
+        ],
+        "with": [
+          75,
+          115,
+          135,
+          180
+        ],
+        "these": [
+          76
+        ],
+        "interstratal": [
+          77
+        ],
+        "are": [
+          81,
+          172,
+          247
+        ],
+        "rather": [
+          82
+        ],
+        "scarce.": [
+          83
+        ],
+        "This": [
+          84,
+          143
+        ],
+        "work": [
+          85
+        ],
+        "reviews": [
+          86
+        ],
+        "available": [
+          88
+        ],
+        "literature": [
+          89
+        ],
+        "dissolutional": [
+          91
+        ],
+        "edges": [
+          92
+        ],
+        "developed": [
+          96
+        ],
+        "dipping": [
+          98
+        ],
+        "salt": [
+          99
+        ],
+        "gypsum/anhydrite": [
+          101
+        ],
+        "formations.": [
+          102
+        ],
+        "It": [
+          103,
+          175
+        ],
+        "also": [
+          104,
+          161
+        ],
+        "analyses": [
+          105
+        ],
+        ">800": [
+          107
+        ],
+        "long": [
+          109,
+          257
+        ],
+        "subsidence": [
+          112,
+          258,
+          287
+        ],
+        "belt": [
+          113,
+          259
+        ],
+        "updip": [
+          117
+        ],
+        "edge": [
+          118
+        ],
+        "Upper": [
+          121
+        ],
+        "Jurassic": [
+          122
+        ],
+        "Arab": [
+          123
+        ],
+        "Hith": [
+          125,
+          265
+        ],
+        "anhydrites": [
+          126
+        ],
+        "Interior": [
+          129
+        ],
+        "Homocline": [
+          130
+        ],
+        "central": [
+          132
+        ],
+        "Saudi": [
+          133,
+          261
+        ],
+        "Arabia,": [
+          134
+        ],
+        "special": [
+          136
+        ],
+        "focus": [
+          137
+        ],
+        "its": [
+          139
+        ],
+        "striking": [
+          140,
+          177
+        ],
+        "geomorphic": [
+          141
+        ],
+        "features.": [
+          142
+        ],
+        "is": [
+          144,
+          160
+        ],
+        "Ca-sulphate": [
+          147
+        ],
+        "feature": [
+          149
+        ],
+        "world,": [
+          152
+        ],
+        "despite": [
+          153
+        ],
+        "aridity": [
+          155
+        ],
+        "region,": [
+          158
+        ],
+        "example": [
+          163
+        ],
+        "which": [
+          165
+        ],
+        "landforms": [
+          168
+        ],
+        "structures": [
+          171,
+          191
+        ],
+        "best": [
+          173,
+          267
+        ],
+        "displayed.": [
+          174
+        ],
+        "displays": [
+          176
+        ],
+        "scarps": [
+          179
+        ],
+        "an": [
+          181
+        ],
+        "aggregate": [
+          182
+        ],
+        "length": [
+          183
+        ],
+        "km,": [
+          186
+        ],
+        "affected": [
+          187
+        ],
+        "by": [
+          188,
+          194,
+          277
+        ],
+        "crestal": [
+          189
+        ],
+        "extensional": [
+          190
+        ],
+        "punctured": [
+          193,
+          276
+        ],
+        "giant": [
+          196,
+          278
+        ],
+        "caprock": [
+          197
+        ],
+        "collapse": [
+          198,
+          279
+        ],
+        "sinkholes.": [
+          199,
+          280
+        ],
+        "increased": [
+          201
+        ],
+        "hazard": [
+          203,
+          295
+        ],
+        "risk": [
+          205
+        ],
+        "documented": [
+          206
+        ],
+        "Ar": [
+          209,
+          282,
+          299
+        ],
+        "Riyadh": [
+          210,
+          283,
+          300
+        ],
+        "area": [
+          211,
+          232,
+          301
+        ],
+        "recent": [
+          213
+        ],
+        "times": [
+          214
+        ],
+        "attributed": [
+          217
+        ],
+        "adverse": [
+          219
+        ],
+        "human": [
+          220
+        ],
+        "activities": [
+          221
+        ],
+        "(localized": [
+          222
+        ],
+        "artificial": [
+          223
+        ],
+        "input)": [
+          225
+        ],
+        "expansion": [
+          228
+        ],
+        "urban": [
+          231
+        ],
+        "across": [
+          233
+        ],
+        "front": [
+          236,
+          275
+        ],
+        "scarp.": [
+          239
+        ],
+        "•": [
+          240,
+          254,
+          270,
+          281,
+          293
+        ],
+        "Subsidence": [
+          241
+        ],
+        "belts": [
+          242
+        ],
+        "related": [
+          243,
+          289,
+          302
+        ],
+        "Arabia": [
+          262
+        ],
+        "(Arab": [
+          263
+        ],
+        "anhydrites),": [
+          266
+        ],
+        "displayed": [
+          268
+        ],
+        "example.": [
+          269
+        ],
+        "Monoclinal": [
+          271
+        ],
+        "atop": [
+          273
+        ],
+        "city": [
+          284
+        ],
+        "lies": [
+          285
+        ],
+        "depression": [
+          288
+        ],
+        "dissolution.": [
+          292
+        ],
+        "Sinkhole": [
+          294
+        ],
+        "increase": [
+          296
+        ],
+        "anthropogenic": [
+          304
+        ],
+        "hydrological": [
+          305
+        ],
+        "impacts.": [
+          306
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-12T08:34:05.389933",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14512,8 +15184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1604102604.pdf",
@@ -16090,8 +16762,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -16562,8 +17234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -17254,7 +17926,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17301,7 +17973,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17506,7 +18178,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17553,7 +18225,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17759,8 +18431,8 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 12,
       "corresponding_author_ids": [
-        "https://openalex.org/A5030898494",
-        "https://openalex.org/A5101699144",
+        "https://openalex.org/A5006640587",
+        "https://openalex.org/A5044930714",
         "https://openalex.org/A5109396102"
       ],
       "corresponding_institution_ids": [
@@ -18179,8 +18851,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -18749,7 +19421,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-11T06:11:40.159057",
+      "updated_date": "2026-03-13T16:22:10.518609",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19302,8 +19974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -19680,8 +20352,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20799,8 +21471,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -22032,8 +22704,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22953,8 +23625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -24077,8 +24749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -25330,8 +26002,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -27555,8 +28227,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -28419,8 +29091,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
