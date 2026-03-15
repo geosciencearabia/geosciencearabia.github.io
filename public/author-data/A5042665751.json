@@ -11,7 +11,7 @@
       "Mohammed Al‐Masrahy"
     ],
     "works_count": 15,
-    "cited_by_count": 250,
+    "cited_by_count": 252,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 5,
@@ -201,7 +201,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000537,
+        "value": 0.0000536,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000327,
+        "value": 0.0000326,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -333,7 +333,7 @@
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 147
+        "cited_by_count": 149
       },
       {
         "year": 2017,
@@ -382,7 +382,7 @@
     },
     "block_key": "m al‐masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-03-09T19:11:36",
+    "updated_date": "2026-03-14T12:21:31",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -785,9 +785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1154,11 +1154,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 3.2976,
+      "fwci": 3.4016,
       "has_fulltext": false,
       "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.89642857,
+        "value": 0.89966519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1398,9 +1398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1892,9 +1892,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5799999833106995,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -4417,11 +4417,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.7141,
+      "fwci": 1.674,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79807577,
+        "value": 0.7929648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5104,9 +5104,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -5555,9 +5555,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9715,9 +9715,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13092,9 +13092,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

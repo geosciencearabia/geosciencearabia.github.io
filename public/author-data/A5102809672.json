@@ -854,11 +854,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.1347,
+      "fwci": 2.1803,
       "has_fulltext": false,
       "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.8840875,
+        "value": 0.88660761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1203,16 +1203,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -1836,16 +1836,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W766487889.pdf",
@@ -2830,842 +2830,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2071387726",
-      "doi": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
-      "title": "A vast Eemian palaeolake in Southern Jordan (29°N)",
-      "display_name": "A vast Eemian palaeolake in Southern Jordan (29°N)",
-      "publication_year": 2010,
-      "publication_date": "2010-01-27",
-      "ids": {
-        "openalex": "https://openalex.org/W2071387726",
-        "doi": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
-        "mag": "2071387726"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.gloplacha.2010.01.012",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S63048404",
-          "display_name": "Global and Planetary Change",
-          "issn_l": "0921-8181",
-          "issn": [
-            "0921-8181",
-            "1872-6364"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Global and Planetary Change",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040595231",
-            "display_name": "N. Petit-Maire",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "N. Petit-Maire",
-          "raw_affiliation_strings": [
-            "La Faustine, F-13260 Cassis, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "La Faustine, F-13260 Cassis, France",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113666102",
-            "display_name": "Pierre Carbonel",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "P. Carbonel",
-          "raw_affiliation_strings": [
-            "16, rue de Mégret, 33400 Talence, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "16, rue de Mégret, 33400 Talence, France",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108205016",
-            "display_name": "Jean‐Louis Reyss",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2738703131",
-              "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-              "ror": "https://ror.org/00jjx8s55",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I2738703131"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J.L. Reyss",
-          "raw_affiliation_strings": [
-            "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5015962080",
-            "display_name": "P. Sanlaville",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "P. Sanlaville",
-          "raw_affiliation_strings": [
-            "UMR 5133 Archéorient, CNRS-Université Lumière, 7 rue Raulin, 69007, Lyon cedex 07, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5133 Archéorient, CNRS-Université Lumière, 7 rue Raulin, 69007, Lyon cedex 07, France",
-              "institution_ids": [
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. Abed",
-          "raw_affiliation_strings": [
-            "Geology Department, University of Jordan, Amman, Jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geology Department, University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053481382",
-            "display_name": "R. Bourrouilh",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Bourrouilh",
-          "raw_affiliation_strings": [
-            "16, rue de Mégret, 33400 Talence, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "16, rue de Mégret, 33400 Talence, France",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5105934596",
-            "display_name": "M. Fontugne",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2738703131",
-              "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-              "ror": "https://ror.org/00jjx8s55",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I2738703131"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. Fontugne",
-          "raw_affiliation_strings": [
-            "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5111725569",
-            "display_name": "Suha Yasin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S. Yasin",
-          "raw_affiliation_strings": [
-            "Geology Department, University of Jordan, Amman, Jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geology Department, University of Jordan, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040595231",
-        "https://openalex.org/A5113666102"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3430,
-        "currency": "USD",
-        "value_usd": 3430
-      },
-      "apc_paid": null,
-      "fwci": 4.0615,
-      "has_fulltext": false,
-      "cited_by_count": 66,
-      "citation_normalized_percentile": {
-        "value": 0.92983754,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "72",
-        "issue": "4",
-        "first_page": "368",
-        "last_page": "373"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.9937999844551086,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12083",
-          "display_name": "Karst Systems and Hydrogeology",
-          "score": 0.9930999875068665,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/mousterian",
-          "display_name": "Mousterian",
-          "score": 0.8007057905197144
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7744234800338745
-        },
-        {
-          "id": "https://openalex.org/keywords/eemian",
-          "display_name": "Eemian",
-          "score": 0.7550954818725586
-        },
-        {
-          "id": "https://openalex.org/keywords/interglacial",
-          "display_name": "Interglacial",
-          "score": 0.6600598096847534
-        },
-        {
-          "id": "https://openalex.org/keywords/peninsula",
-          "display_name": "Peninsula",
-          "score": 0.639761745929718
-        },
-        {
-          "id": "https://openalex.org/keywords/mediterranean-climate",
-          "display_name": "Mediterranean climate",
-          "score": 0.610649824142456
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5939828157424927
-        },
-        {
-          "id": "https://openalex.org/keywords/pleistocene",
-          "display_name": "Pleistocene",
-          "score": 0.5877012014389038
-        },
-        {
-          "id": "https://openalex.org/keywords/range",
-          "display_name": "Range (aeronautics)",
-          "score": 0.5080766677856445
-        },
-        {
-          "id": "https://openalex.org/keywords/monsoon",
-          "display_name": "Monsoon",
-          "score": 0.42006421089172363
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.41322439908981323
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.32117217779159546
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.25646647810935974
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.1690853238105774
-        },
-        {
-          "id": "https://openalex.org/keywords/cave",
-          "display_name": "Cave",
-          "score": 0.16741317510604858
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2775940992",
-          "wikidata": "https://www.wikidata.org/wiki/Q259118",
-          "display_name": "Mousterian",
-          "level": 3,
-          "score": 0.8007057905197144
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7744234800338745
-        },
-        {
-          "id": "https://openalex.org/C62611706",
-          "wikidata": "https://www.wikidata.org/wiki/Q1295340",
-          "display_name": "Eemian",
-          "level": 4,
-          "score": 0.7550954818725586
-        },
-        {
-          "id": "https://openalex.org/C186240526",
-          "wikidata": "https://www.wikidata.org/wiki/Q487294",
-          "display_name": "Interglacial",
-          "level": 3,
-          "score": 0.6600598096847534
-        },
-        {
-          "id": "https://openalex.org/C123588078",
-          "wikidata": "https://www.wikidata.org/wiki/Q34763",
-          "display_name": "Peninsula",
-          "level": 2,
-          "score": 0.639761745929718
-        },
-        {
-          "id": "https://openalex.org/C4646841",
-          "wikidata": "https://www.wikidata.org/wiki/Q13996",
-          "display_name": "Mediterranean climate",
-          "level": 2,
-          "score": 0.610649824142456
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5939828157424927
-        },
-        {
-          "id": "https://openalex.org/C53570757",
-          "wikidata": "https://www.wikidata.org/wiki/Q25546",
-          "display_name": "Pleistocene",
-          "level": 2,
-          "score": 0.5877012014389038
-        },
-        {
-          "id": "https://openalex.org/C204323151",
-          "wikidata": "https://www.wikidata.org/wiki/Q905424",
-          "display_name": "Range (aeronautics)",
-          "level": 2,
-          "score": 0.5080766677856445
-        },
-        {
-          "id": "https://openalex.org/C136996986",
-          "wikidata": "https://www.wikidata.org/wiki/Q42967",
-          "display_name": "Monsoon",
-          "level": 2,
-          "score": 0.42006421089172363
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.41322439908981323
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.32117217779159546
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.25646647810935974
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.1690853238105774
-        },
-        {
-          "id": "https://openalex.org/C171878925",
-          "wikidata": "https://www.wikidata.org/wiki/Q35509",
-          "display_name": "Cave",
-          "level": 2,
-          "score": 0.16741317510604858
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.gloplacha.2010.01.012",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S63048404",
-            "display_name": "Global and Planetary Change",
-            "issn_l": "0921-8181",
-            "issn": [
-              "0921-8181",
-              "1872-6364"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Global and Planetary Change",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:halshs-00584953v1",
-          "is_oa": false,
-          "landing_page_url": "https://shs.hal.science/halshs-00584953",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Global and Planetary Change, 2010, 72 (4), pp.368-373. &#x27E8;10.1016/j.gloplacha.2010.01.012&#x27E9;",
-          "raw_type": "Journal articles"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 36,
-      "referenced_works": [
-        "https://openalex.org/W45179253",
-        "https://openalex.org/W229065267",
-        "https://openalex.org/W575070657",
-        "https://openalex.org/W610808472",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W1533550986",
-        "https://openalex.org/W1541498346",
-        "https://openalex.org/W1965430736",
-        "https://openalex.org/W1970797589",
-        "https://openalex.org/W1983463950",
-        "https://openalex.org/W1985425997",
-        "https://openalex.org/W1989836745",
-        "https://openalex.org/W1993099928",
-        "https://openalex.org/W2009058371",
-        "https://openalex.org/W2017290792",
-        "https://openalex.org/W2026272486",
-        "https://openalex.org/W2040046731",
-        "https://openalex.org/W2049755676",
-        "https://openalex.org/W2056536981",
-        "https://openalex.org/W2060387002",
-        "https://openalex.org/W2075706312",
-        "https://openalex.org/W2076896609",
-        "https://openalex.org/W2079921809",
-        "https://openalex.org/W2130615188",
-        "https://openalex.org/W2134338969",
-        "https://openalex.org/W2165571115",
-        "https://openalex.org/W2287971601",
-        "https://openalex.org/W2523027764",
-        "https://openalex.org/W3039724339",
-        "https://openalex.org/W3155402247",
-        "https://openalex.org/W4233309272",
-        "https://openalex.org/W6601830941",
-        "https://openalex.org/W6648477322",
-        "https://openalex.org/W6660340094",
-        "https://openalex.org/W6727080483",
-        "https://openalex.org/W6780105055"
-      ],
-      "related_works": [
-        "https://openalex.org/W1848094102",
-        "https://openalex.org/W1509422802",
-        "https://openalex.org/W2600218678",
-        "https://openalex.org/W50466478",
-        "https://openalex.org/W4296111132",
-        "https://openalex.org/W2118821165",
-        "https://openalex.org/W2132987217",
-        "https://openalex.org/W3026220250",
-        "https://openalex.org/W1782405604",
-        "https://openalex.org/W2041386487"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 6
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1542845244",
       "doi": "https://doi.org/10.2113/geoarabia190381",
       "title": "Cambrian stratigraphy of Jordan",
@@ -4184,16 +3348,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf",
@@ -6286,8 +5450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -6804,11 +5968,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3529,
+      "fwci": 1.3536,
       "has_fulltext": false,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.80608961,
+        "value": 0.80617347,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7148,16 +6312,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -7281,7 +6445,843 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2071387726",
+      "doi": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
+      "title": "A vast Eemian palaeolake in Southern Jordan (29°N)",
+      "display_name": "A vast Eemian palaeolake in Southern Jordan (29°N)",
+      "publication_year": 2010,
+      "publication_date": "2010-01-27",
+      "ids": {
+        "openalex": "https://openalex.org/W2071387726",
+        "doi": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
+        "mag": "2071387726"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.gloplacha.2010.01.012",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63048404",
+          "display_name": "Global and Planetary Change",
+          "issn_l": "0921-8181",
+          "issn": [
+            "0921-8181",
+            "1872-6364"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global and Planetary Change",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040595231",
+            "display_name": "N. Petit-Maire",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "N. Petit-Maire",
+          "raw_affiliation_strings": [
+            "La Faustine, F-13260 Cassis, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "La Faustine, F-13260 Cassis, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113666102",
+            "display_name": "Pierre Carbonel",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "P. Carbonel",
+          "raw_affiliation_strings": [
+            "16, rue de Mégret, 33400 Talence, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "16, rue de Mégret, 33400 Talence, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108205016",
+            "display_name": "Jean‐Louis Reyss",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2738703131",
+              "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+              "ror": "https://ror.org/00jjx8s55",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2738703131"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J.L. Reyss",
+          "raw_affiliation_strings": [
+            "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015962080",
+            "display_name": "P. Sanlaville",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Sanlaville",
+          "raw_affiliation_strings": [
+            "UMR 5133 Archéorient, CNRS-Université Lumière, 7 rue Raulin, 69007, Lyon cedex 07, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5133 Archéorient, CNRS-Université Lumière, 7 rue Raulin, 69007, Lyon cedex 07, France",
+              "institution_ids": [
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Abed",
+          "raw_affiliation_strings": [
+            "Geology Department, University of Jordan, Amman, Jordan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053481382",
+            "display_name": "R. Bourrouilh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Bourrouilh",
+          "raw_affiliation_strings": [
+            "16, rue de Mégret, 33400 Talence, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "16, rue de Mégret, 33400 Talence, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105934596",
+            "display_name": "M. Fontugne",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2738703131",
+              "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+              "ror": "https://ror.org/00jjx8s55",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2738703131"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Fontugne",
+          "raw_affiliation_strings": [
+            "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5111725569",
+            "display_name": "Suha Yasin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. Yasin",
+          "raw_affiliation_strings": [
+            "Geology Department, University of Jordan, Amman, Jordan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040595231",
+        "https://openalex.org/A5113666102"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3430,
+        "currency": "USD",
+        "value_usd": 3430
+      },
+      "apc_paid": null,
+      "fwci": 4.1042,
+      "has_fulltext": false,
+      "cited_by_count": 66,
+      "citation_normalized_percentile": {
+        "value": 0.93055393,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "72",
+        "issue": "4",
+        "first_page": "368",
+        "last_page": "373"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.9937999844551086,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.9930999875068665,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mousterian",
+          "display_name": "Mousterian",
+          "score": 0.8007057905197144
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7744234800338745
+        },
+        {
+          "id": "https://openalex.org/keywords/eemian",
+          "display_name": "Eemian",
+          "score": 0.7550954818725586
+        },
+        {
+          "id": "https://openalex.org/keywords/interglacial",
+          "display_name": "Interglacial",
+          "score": 0.6600598096847534
+        },
+        {
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.639761745929718
+        },
+        {
+          "id": "https://openalex.org/keywords/mediterranean-climate",
+          "display_name": "Mediterranean climate",
+          "score": 0.610649824142456
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5939828157424927
+        },
+        {
+          "id": "https://openalex.org/keywords/pleistocene",
+          "display_name": "Pleistocene",
+          "score": 0.5877012014389038
+        },
+        {
+          "id": "https://openalex.org/keywords/range",
+          "display_name": "Range (aeronautics)",
+          "score": 0.5080766677856445
+        },
+        {
+          "id": "https://openalex.org/keywords/monsoon",
+          "display_name": "Monsoon",
+          "score": 0.42006421089172363
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-geography",
+          "display_name": "Physical geography",
+          "score": 0.41322439908981323
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.32117217779159546
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.25646647810935974
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.1690853238105774
+        },
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.16741317510604858
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2775940992",
+          "wikidata": "https://www.wikidata.org/wiki/Q259118",
+          "display_name": "Mousterian",
+          "level": 3,
+          "score": 0.8007057905197144
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7744234800338745
+        },
+        {
+          "id": "https://openalex.org/C62611706",
+          "wikidata": "https://www.wikidata.org/wiki/Q1295340",
+          "display_name": "Eemian",
+          "level": 4,
+          "score": 0.7550954818725586
+        },
+        {
+          "id": "https://openalex.org/C186240526",
+          "wikidata": "https://www.wikidata.org/wiki/Q487294",
+          "display_name": "Interglacial",
+          "level": 3,
+          "score": 0.6600598096847534
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.639761745929718
+        },
+        {
+          "id": "https://openalex.org/C4646841",
+          "wikidata": "https://www.wikidata.org/wiki/Q13996",
+          "display_name": "Mediterranean climate",
+          "level": 2,
+          "score": 0.610649824142456
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5939828157424927
+        },
+        {
+          "id": "https://openalex.org/C53570757",
+          "wikidata": "https://www.wikidata.org/wiki/Q25546",
+          "display_name": "Pleistocene",
+          "level": 2,
+          "score": 0.5877012014389038
+        },
+        {
+          "id": "https://openalex.org/C204323151",
+          "wikidata": "https://www.wikidata.org/wiki/Q905424",
+          "display_name": "Range (aeronautics)",
+          "level": 2,
+          "score": 0.5080766677856445
+        },
+        {
+          "id": "https://openalex.org/C136996986",
+          "wikidata": "https://www.wikidata.org/wiki/Q42967",
+          "display_name": "Monsoon",
+          "level": 2,
+          "score": 0.42006421089172363
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.41322439908981323
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.32117217779159546
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.25646647810935974
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.1690853238105774
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.16741317510604858
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.gloplacha.2010.01.012",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2010.01.012",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S63048404",
+            "display_name": "Global and Planetary Change",
+            "issn_l": "0921-8181",
+            "issn": [
+              "0921-8181",
+              "1872-6364"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Global and Planetary Change",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:halshs-00584953v1",
+          "is_oa": false,
+          "landing_page_url": "https://shs.hal.science/halshs-00584953",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Global and Planetary Change, 2010, 72 (4), pp.368-373. &#x27E8;10.1016/j.gloplacha.2010.01.012&#x27E9;",
+          "raw_type": "Journal articles"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W45179253",
+        "https://openalex.org/W229065267",
+        "https://openalex.org/W575070657",
+        "https://openalex.org/W610808472",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W1533550986",
+        "https://openalex.org/W1541498346",
+        "https://openalex.org/W1965430736",
+        "https://openalex.org/W1970797589",
+        "https://openalex.org/W1983463950",
+        "https://openalex.org/W1985425997",
+        "https://openalex.org/W1989836745",
+        "https://openalex.org/W1993099928",
+        "https://openalex.org/W2009058371",
+        "https://openalex.org/W2017290792",
+        "https://openalex.org/W2026272486",
+        "https://openalex.org/W2040046731",
+        "https://openalex.org/W2049755676",
+        "https://openalex.org/W2056536981",
+        "https://openalex.org/W2060387002",
+        "https://openalex.org/W2075706312",
+        "https://openalex.org/W2076896609",
+        "https://openalex.org/W2079921809",
+        "https://openalex.org/W2130615188",
+        "https://openalex.org/W2134338969",
+        "https://openalex.org/W2165571115",
+        "https://openalex.org/W2287971601",
+        "https://openalex.org/W2523027764",
+        "https://openalex.org/W3039724339",
+        "https://openalex.org/W3155402247",
+        "https://openalex.org/W4233309272",
+        "https://openalex.org/W6601830941",
+        "https://openalex.org/W6648477322",
+        "https://openalex.org/W6660340094",
+        "https://openalex.org/W6727080483",
+        "https://openalex.org/W6780105055"
+      ],
+      "related_works": [
+        "https://openalex.org/W1848094102",
+        "https://openalex.org/W1509422802",
+        "https://openalex.org/W2600218678",
+        "https://openalex.org/W50466478",
+        "https://openalex.org/W4296111132",
+        "https://openalex.org/W2118821165",
+        "https://openalex.org/W2132987217",
+        "https://openalex.org/W3026220250",
+        "https://openalex.org/W1782405604",
+        "https://openalex.org/W2041386487"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 6
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7470,7 +7470,7 @@
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.17231076,
+        "value": 0.17121748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7748,8 +7748,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7762,8 +7762,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -8081,11 +8081,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.2035,
+      "fwci": 1.2447,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.79521709,
+        "value": 0.80232558,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8284,16 +8284,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8596,11 +8596,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.321,
+      "fwci": 6.4407,
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.96234067,
+        "value": 0.96300496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8969,8 +8969,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9100000262260437,
           "display_name": "Life below water",
+          "score": 0.9100000262260437,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8983,8 +8983,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -9451,16 +9451,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2974796042.pdf",
@@ -9698,11 +9698,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.1418,
+      "fwci": 1.1552,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.78031792,
+        "value": 0.78294359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10071,8 +10071,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -10085,8 +10085,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -10622,16 +10622,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2336549484.pdf",
@@ -12910,8 +12910,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -13009,7 +13009,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13201,11 +13201,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 0.7727,
+      "fwci": 0.7976,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.71727749,
+        "value": 0.72595831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13505,8 +13505,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -13524,8 +13524,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -14034,8 +14034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -14879,16 +14879,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759215368.pdf",
@@ -16696,8 +16696,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Clean water and sanitation",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -16715,8 +16715,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -16841,7 +16841,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-12T08:34:05.389933",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17303,16 +17303,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -18044,8 +18044,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18058,8 +18058,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -18791,11 +18791,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5716,
+      "fwci": 1.5071,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.79733241,
+        "value": 0.79767538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19132,8 +19132,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Clean water and sanitation",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -19146,8 +19146,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -19386,11 +19386,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 1.2069,
+      "fwci": 1.2456,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.7845706,
+        "value": 0.79083497,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19704,16 +19704,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19948,11 +19948,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.0406,
+      "fwci": 1.0183,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.75903342,
+        "value": 0.76445767,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20230,16 +20230,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Life in Land",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -20566,11 +20566,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.7101,
+      "fwci": 2.7622,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.88495575,
+        "value": 0.88846076,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20886,16 +20886,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -21170,11 +21170,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 0.7727,
+      "fwci": 0.7976,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.68097731,
+        "value": 0.69065232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21483,8 +21483,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -21497,8 +21497,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -22041,16 +22041,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -23009,11 +23009,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5709,
+      "fwci": 0.5776,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.69172003,
+        "value": 0.69550039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23302,16 +23302,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Life below water",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -23669,11 +23669,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.8428,
+      "fwci": 0.8706,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.74882427,
+        "value": 0.75818517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24016,8 +24016,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -24340,11 +24340,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.4134,
+      "fwci": 0.4313,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.67348825,
+        "value": 0.68658598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24665,8 +24665,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -24684,8 +24684,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -24932,11 +24932,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 0.6641,
+      "fwci": 0.6857,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.68510405,
+        "value": 0.69372694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25212,16 +25212,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -25479,11 +25479,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 1.8965,
+      "fwci": 1.926,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.86090548,
+        "value": 0.86294918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25861,16 +25861,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -26152,7 +26152,7 @@
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.15113438,
+        "value": 0.15232011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26487,16 +26487,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -27191,8 +27191,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27210,8 +27210,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -27818,7 +27818,7 @@
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.14033149,
+        "value": 0.14599575,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28022,16 +28022,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life in Land",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -28284,11 +28284,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 0.4961,
+      "fwci": 0.5091,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.64951923,
+        "value": 0.65644935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28612,8 +28612,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -28626,8 +28626,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -29172,8 +29172,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -29762,7 +29762,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.1152178,
+        "value": 0.12161415,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30095,8 +30095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -30351,11 +30351,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 1.3518,
+      "fwci": 1.3867,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79241169,
+        "value": 0.79762913,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30664,16 +30664,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -31037,8 +31037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31465,11 +31465,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.4614,
+      "fwci": 12.1335,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.97663239,
+        "value": 0.97716895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31752,16 +31752,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -31987,7 +31987,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.02902519,
+        "value": 0.03162889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32267,8 +32267,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -32782,16 +32782,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -33755,16 +33755,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -34622,11 +34622,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.123,
+      "fwci": 1.1451,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.76158663,
+        "value": 0.76625264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34987,8 +34987,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Life below water",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -35001,8 +35001,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -35315,11 +35315,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.7196,
+      "fwci": 1.7255,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86568065,
+        "value": 0.86635067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35543,8 +35543,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -35884,11 +35884,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.0192,
+      "fwci": 1.0285,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.7738199,
+        "value": 0.77580651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36149,16 +36149,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Climate action",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -36441,11 +36441,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.4674,
+      "fwci": 0.4733,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.68288617,
+        "value": 0.68655313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36796,8 +36796,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -37093,11 +37093,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 0.9228,
+      "fwci": 0.9367,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.81176369,
+        "value": 0.81353371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37502,16 +37502,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "display_name": "Life below water",
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -37979,11 +37979,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.1278,
+      "fwci": 1.1451,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.76238015,
+        "value": 0.76723972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38393,16 +38393,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -39014,16 +39014,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Life below water",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -40192,7 +40192,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.01125704,
+        "value": 0.011323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40613,8 +40613,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -41319,8 +41319,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4285114007.pdf",
@@ -42347,16 +42347,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -42858,8 +42858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43331,16 +43331,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -44349,16 +44349,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46802,8 +46802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4248851121.pdf",
@@ -47077,7 +47077,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06468677,
+        "value": 0.06613589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47354,16 +47354,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life below water",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -47770,16 +47770,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48190,16 +48190,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Climate action",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49032,8 +49032,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -647,11 +647,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 0.8189,
+      "fwci": 0.836,
       "has_fulltext": false,
       "cited_by_count": 131,
       "citation_normalized_percentile": {
-        "value": 0.66579341,
+        "value": 0.67031364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1155,751 +1155,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2022517585",
-      "doi": "https://doi.org/10.1007/s12517-013-1251-4",
-      "title": "Porosity evolution within high-resolution sequence stratigraphy and diagenesis framework: outcrop analog of the upper Jurassic Arab-D reservoir, Central Saudi Arabia",
-      "display_name": "Porosity evolution within high-resolution sequence stratigraphy and diagenesis framework: outcrop analog of the upper Jurassic Arab-D reservoir, Central Saudi Arabia",
-      "publication_year": 2014,
-      "publication_date": "2014-02-21",
-      "ids": {
-        "openalex": "https://openalex.org/W2022517585",
-        "doi": "https://doi.org/10.1007/s12517-013-1251-4",
-        "mag": "2022517585"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12517-013-1251-4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s12517-013-1251-4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S38407038",
-          "display_name": "Arabian Journal of Geosciences",
-          "issn_l": "1866-7511",
-          "issn": [
-            "1866-7511",
-            "1866-7538"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040857714",
-            "display_name": "Hassan A. Eltom",
-            "orcid": "https://orcid.org/0000-0002-3515-0127"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Hassan Eltom",
-          "raw_affiliation_strings": [
-            "Center for Petroleum & Minerals - Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals - KFUPM"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Petroleum & Minerals - Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028390167",
-            "display_name": "Osman Abdullatif",
-            "orcid": "https://orcid.org/0000-0001-6214-5772"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Osman Abdullatif",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals - KFUPM"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082642403",
-            "display_name": "Mohammad Makkawi",
-            "orcid": "https://orcid.org/0000-0003-4649-554X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Makkawi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals - KFUPM"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals - KFUPM"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033236909",
-            "display_name": "Asaad Abdulraziq",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Asaad Abdulraziq",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals - KFUPM"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040857714"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
-        "value_usd": 2990
-      },
-      "apc_paid": null,
-      "fwci": 1.6135,
-      "has_fulltext": false,
-      "cited_by_count": 19,
-      "citation_normalized_percentile": {
-        "value": 0.82217984,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "8",
-        "issue": "3",
-        "first_page": "1669",
-        "last_page": "1690"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.930503249168396
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.9055414199829102
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.8537652492523193
-        },
-        {
-          "id": "https://openalex.org/keywords/dolomitization",
-          "display_name": "Dolomitization",
-          "score": 0.7489830851554871
-        },
-        {
-          "id": "https://openalex.org/keywords/cementation",
-          "display_name": "Cementation (geology)",
-          "score": 0.6718909740447998
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5813704133033752
-        },
-        {
-          "id": "https://openalex.org/keywords/calcite",
-          "display_name": "Calcite",
-          "score": 0.5594416260719299
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-reservoir",
-          "display_name": "Petroleum reservoir",
-          "score": 0.5421865582466125
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5142630934715271
-        },
-        {
-          "id": "https://openalex.org/keywords/progradation",
-          "display_name": "Progradation",
-          "score": 0.4225842356681824
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.411828875541687
-        },
-        {
-          "id": "https://openalex.org/keywords/stylolite",
-          "display_name": "Stylolite",
-          "score": 0.4113948941230774
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.39021146297454834
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3713000416755676
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.930503249168396
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.9055414199829102
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.8537652492523193
-        },
-        {
-          "id": "https://openalex.org/C63662990",
-          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
-          "display_name": "Dolomitization",
-          "level": 4,
-          "score": 0.7489830851554871
-        },
-        {
-          "id": "https://openalex.org/C94556721",
-          "wikidata": "https://www.wikidata.org/wiki/Q189315",
-          "display_name": "Cementation (geology)",
-          "level": 3,
-          "score": 0.6718909740447998
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.5813704133033752
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.5594416260719299
-        },
-        {
-          "id": "https://openalex.org/C113215200",
-          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
-          "display_name": "Petroleum reservoir",
-          "level": 2,
-          "score": 0.5421865582466125
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5142630934715271
-        },
-        {
-          "id": "https://openalex.org/C16565575",
-          "wikidata": "https://www.wikidata.org/wiki/Q3922753",
-          "display_name": "Progradation",
-          "level": 4,
-          "score": 0.4225842356681824
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.411828875541687
-        },
-        {
-          "id": "https://openalex.org/C133916931",
-          "wikidata": "https://www.wikidata.org/wiki/Q1813872",
-          "display_name": "Stylolite",
-          "level": 3,
-          "score": 0.4113948941230774
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.39021146297454834
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3713000416755676
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C523993062",
-          "wikidata": "https://www.wikidata.org/wiki/Q45190",
-          "display_name": "Cement",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12517-013-1251-4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s12517-013-1251-4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S38407038",
-            "display_name": "Arabian Journal of Geosciences",
-            "issn_l": "1866-7511",
-            "issn": [
-              "1866-7511",
-              "1866-7538"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal of Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322997",
-          "display_name": "King Abdulaziz City for Science and Technology",
-          "ror": "https://ror.org/05tdz6m39"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 35,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1516566041",
-        "https://openalex.org/W1552307154",
-        "https://openalex.org/W1613337856",
-        "https://openalex.org/W1789645206",
-        "https://openalex.org/W1927598922",
-        "https://openalex.org/W1976609617",
-        "https://openalex.org/W1980881493",
-        "https://openalex.org/W2002948884",
-        "https://openalex.org/W2032389998",
-        "https://openalex.org/W2035962925",
-        "https://openalex.org/W2044760283",
-        "https://openalex.org/W2056871354",
-        "https://openalex.org/W2066998270",
-        "https://openalex.org/W2079349855",
-        "https://openalex.org/W2089169648",
-        "https://openalex.org/W2104580656",
-        "https://openalex.org/W2124549336",
-        "https://openalex.org/W2131123833",
-        "https://openalex.org/W2138691371",
-        "https://openalex.org/W2144492716",
-        "https://openalex.org/W2159708894",
-        "https://openalex.org/W2195678586",
-        "https://openalex.org/W2283305001",
-        "https://openalex.org/W2361024870",
-        "https://openalex.org/W2480689521",
-        "https://openalex.org/W2607243671",
-        "https://openalex.org/W2941825081",
-        "https://openalex.org/W2944023070",
-        "https://openalex.org/W2953570489",
-        "https://openalex.org/W2978412508",
-        "https://openalex.org/W2978857635",
-        "https://openalex.org/W2994434476",
-        "https://openalex.org/W3014355492",
-        "https://openalex.org/W3043027909"
-      ],
-      "related_works": [
-        "https://openalex.org/W4230926887",
-        "https://openalex.org/W3187001440",
-        "https://openalex.org/W1563766968",
-        "https://openalex.org/W329015513",
-        "https://openalex.org/W2354911394",
-        "https://openalex.org/W2327429287",
-        "https://openalex.org/W2354793541",
-        "https://openalex.org/W2894225223",
-        "https://openalex.org/W2363850462",
-        "https://openalex.org/W2755887481"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-03-06T13:50:29.536080",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4312289251",
       "doi": "https://doi.org/10.1007/978-3-031-12191-3_3",
       "title": "Laboratory Investigation",
@@ -2078,11 +1333,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.6139,
+      "fwci": 7.9036,
       "has_fulltext": false,
       "cited_by_count": 201,
       "citation_normalized_percentile": {
-        "value": 0.98025388,
+        "value": 0.98100407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2480,11 +1735,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.1026,
+      "fwci": 2.1655,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.83984579,
+        "value": 0.84422161,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3086,11 +2341,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 6.62,
+      "fwci": 6.6474,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.95646928,
+        "value": 0.95657608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5039,11 +4294,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.2899,
+      "fwci": 2.3207,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.86801919,
+        "value": 0.8698156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7014,11 +6269,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9881,
+      "fwci": 2.0052,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.84632812,
+        "value": 0.84768829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7489,7 +6744,752 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2022517585",
+      "doi": "https://doi.org/10.1007/s12517-013-1251-4",
+      "title": "Porosity evolution within high-resolution sequence stratigraphy and diagenesis framework: outcrop analog of the upper Jurassic Arab-D reservoir, Central Saudi Arabia",
+      "display_name": "Porosity evolution within high-resolution sequence stratigraphy and diagenesis framework: outcrop analog of the upper Jurassic Arab-D reservoir, Central Saudi Arabia",
+      "publication_year": 2014,
+      "publication_date": "2014-02-21",
+      "ids": {
+        "openalex": "https://openalex.org/W2022517585",
+        "doi": "https://doi.org/10.1007/s12517-013-1251-4",
+        "mag": "2022517585"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12517-013-1251-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12517-013-1251-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040857714",
+            "display_name": "Hassan A. Eltom",
+            "orcid": "https://orcid.org/0000-0002-3515-0127"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hassan Eltom",
+          "raw_affiliation_strings": [
+            "Center for Petroleum & Minerals - Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals - KFUPM"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Petroleum & Minerals - Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028390167",
+            "display_name": "Osman Abdullatif",
+            "orcid": "https://orcid.org/0000-0001-6214-5772"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Osman Abdullatif",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals - KFUPM"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082642403",
+            "display_name": "Mohammad Makkawi",
+            "orcid": "https://orcid.org/0000-0003-4649-554X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Makkawi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals - KFUPM"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid Al–Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals - KFUPM"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033236909",
+            "display_name": "Asaad Abdulraziq",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Asaad Abdulraziq",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals - KFUPM"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), P. O. Box: 701, Dhahran, 3126, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals - KFUPM",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040857714"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2390,
+        "currency": "EUR",
+        "value_usd": 2990
+      },
+      "apc_paid": null,
+      "fwci": 1.6146,
+      "has_fulltext": false,
+      "cited_by_count": 19,
+      "citation_normalized_percentile": {
+        "value": 0.82228382,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "3",
+        "first_page": "1669",
+        "last_page": "1690"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.930503249168396
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.9055414199829102
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.8537652492523193
+        },
+        {
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "Dolomitization",
+          "score": 0.7489830851554871
+        },
+        {
+          "id": "https://openalex.org/keywords/cementation",
+          "display_name": "Cementation (geology)",
+          "score": 0.6718909740447998
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "Sequence stratigraphy",
+          "score": 0.5813704133033752
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.5594416260719299
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-reservoir",
+          "display_name": "Petroleum reservoir",
+          "score": 0.5421865582466125
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5142630934715271
+        },
+        {
+          "id": "https://openalex.org/keywords/progradation",
+          "display_name": "Progradation",
+          "score": 0.4225842356681824
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.411828875541687
+        },
+        {
+          "id": "https://openalex.org/keywords/stylolite",
+          "display_name": "Stylolite",
+          "score": 0.4113948941230774
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.39021146297454834
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.3713000416755676
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.930503249168396
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.9055414199829102
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.8537652492523193
+        },
+        {
+          "id": "https://openalex.org/C63662990",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
+          "display_name": "Dolomitization",
+          "level": 4,
+          "score": 0.7489830851554871
+        },
+        {
+          "id": "https://openalex.org/C94556721",
+          "wikidata": "https://www.wikidata.org/wiki/Q189315",
+          "display_name": "Cementation (geology)",
+          "level": 3,
+          "score": 0.6718909740447998
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.5813704133033752
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.5594416260719299
+        },
+        {
+          "id": "https://openalex.org/C113215200",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Petroleum reservoir",
+          "level": 2,
+          "score": 0.5421865582466125
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5142630934715271
+        },
+        {
+          "id": "https://openalex.org/C16565575",
+          "wikidata": "https://www.wikidata.org/wiki/Q3922753",
+          "display_name": "Progradation",
+          "level": 4,
+          "score": 0.4225842356681824
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.411828875541687
+        },
+        {
+          "id": "https://openalex.org/C133916931",
+          "wikidata": "https://www.wikidata.org/wiki/Q1813872",
+          "display_name": "Stylolite",
+          "level": 3,
+          "score": 0.4113948941230774
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.39021146297454834
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3713000416755676
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C523993062",
+          "wikidata": "https://www.wikidata.org/wiki/Q45190",
+          "display_name": "Cement",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12517-013-1251-4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s12517-013-1251-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S38407038",
+            "display_name": "Arabian Journal of Geosciences",
+            "issn_l": "1866-7511",
+            "issn": [
+              "1866-7511",
+              "1866-7538"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal of Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322997",
+          "display_name": "King Abdulaziz City for Science and Technology",
+          "ror": "https://ror.org/05tdz6m39"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1516566041",
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W1613337856",
+        "https://openalex.org/W1789645206",
+        "https://openalex.org/W1927598922",
+        "https://openalex.org/W1976609617",
+        "https://openalex.org/W1980881493",
+        "https://openalex.org/W2002948884",
+        "https://openalex.org/W2032389998",
+        "https://openalex.org/W2035962925",
+        "https://openalex.org/W2044760283",
+        "https://openalex.org/W2056871354",
+        "https://openalex.org/W2066998270",
+        "https://openalex.org/W2079349855",
+        "https://openalex.org/W2089169648",
+        "https://openalex.org/W2104580656",
+        "https://openalex.org/W2124549336",
+        "https://openalex.org/W2131123833",
+        "https://openalex.org/W2138691371",
+        "https://openalex.org/W2144492716",
+        "https://openalex.org/W2159708894",
+        "https://openalex.org/W2195678586",
+        "https://openalex.org/W2283305001",
+        "https://openalex.org/W2361024870",
+        "https://openalex.org/W2480689521",
+        "https://openalex.org/W2607243671",
+        "https://openalex.org/W2941825081",
+        "https://openalex.org/W2944023070",
+        "https://openalex.org/W2953570489",
+        "https://openalex.org/W2978412508",
+        "https://openalex.org/W2978857635",
+        "https://openalex.org/W2994434476",
+        "https://openalex.org/W3014355492",
+        "https://openalex.org/W3043027909"
+      ],
+      "related_works": [
+        "https://openalex.org/W4230926887",
+        "https://openalex.org/W3187001440",
+        "https://openalex.org/W1563766968",
+        "https://openalex.org/W329015513",
+        "https://openalex.org/W2354911394",
+        "https://openalex.org/W2327429287",
+        "https://openalex.org/W2354793541",
+        "https://openalex.org/W2894225223",
+        "https://openalex.org/W2363850462",
+        "https://openalex.org/W2755887481"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8786,11 +8786,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.1669,
+      "fwci": 2.1875,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.8541573,
+        "value": 0.85552563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9471,11 +9471,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 5.7286,
+      "fwci": 5.74,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.94725266,
+        "value": 0.94735846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9959,7 +9959,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-08T08:50:53.379069",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11642,11 +11642,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.4452,
+      "fwci": 1.4723,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79135933,
+        "value": 0.79533225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13564,7 +13564,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.65107445,
+        "value": 0.65108935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13882,7 +13882,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-12T08:34:05.389933",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14067,11 +14067,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.4216,
+      "fwci": 0.4217,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80237528,
+        "value": 0.80225261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14740,7 +14740,7 @@
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.0247191,
+        "value": 0.02467518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15309,11 +15309,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 3.3726,
+      "fwci": 3.3733,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.92315279,
+        "value": 0.92345133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15931,11 +15931,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.1449,
+      "fwci": 1.1603,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.76821444,
+        "value": 0.771206,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16465,11 +16465,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.5096,
+      "fwci": 0.5142,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.70288802,
+        "value": 0.70535886,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17186,11 +17186,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.5541,
+      "fwci": 1.5719,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.79140706,
+        "value": 0.79369971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17762,11 +17762,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.3727,
+      "fwci": 1.3885,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.78869313,
+        "value": 0.7910197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18389,11 +18389,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.4452,
+      "fwci": 1.4723,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.78685698,
+        "value": 0.79098361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19010,11 +19010,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.1669,
+      "fwci": 2.1875,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.85397344,
+        "value": 0.85534336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19592,11 +19592,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.1439,
+      "fwci": 1.1571,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.74892199,
+        "value": 0.75163131,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20253,11 +20253,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.9151,
+      "fwci": 0.9257,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.71264618,
+        "value": 0.71577474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22076,11 +22076,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3059,
+      "fwci": 3.3166,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91375156,
+        "value": 0.91396814,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22677,11 +22677,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.5828,
+      "fwci": 0.5895,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.61193319,
+        "value": 0.61609741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23324,11 +23324,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8115,
+      "fwci": 2.8041,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90095912,
+        "value": 0.90042526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24105,11 +24105,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.5288,
+      "fwci": 1.5427,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.82323203,
+        "value": 0.82484944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24875,11 +24875,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.7479,
+      "fwci": 0.7663,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.69585599,
+        "value": 0.70379294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25413,11 +25413,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.608,
+      "fwci": 0.6183,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.67414705,
+        "value": 0.68050089,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26019,11 +26019,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.3897,
+      "fwci": 1.4034,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.79492692,
+        "value": 0.79729387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28143,11 +28143,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.1347,
+      "fwci": 1.1838,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82248333,
+        "value": 0.82975056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28920,11 +28920,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.2647,
+      "fwci": 1.265,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.85473001,
+        "value": 0.85510861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29522,11 +29522,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3598,
+      "fwci": 1.3754,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.77879457,
+        "value": 0.78124465,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30094,11 +30094,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.4355,
+      "fwci": 1.4657,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78241572,
+        "value": 0.78706674,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30770,11 +30770,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.4152,
+      "fwci": 1.4761,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.79932239,
+        "value": 0.80742402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31492,11 +31492,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.3727,
+      "fwci": 1.3885,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.77522976,
+        "value": 0.77768924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32025,11 +32025,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.4663,
+      "fwci": 1.4774,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.79169802,
+        "value": 0.7932484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32737,11 +32737,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8798,
+      "fwci": 0.8865,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.67125261,
+        "value": 0.67375115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33471,11 +33471,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.777,
+      "fwci": 0.786,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69286518,
+        "value": 0.69628488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34089,11 +34089,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.14,
+      "fwci": 0.1445,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.53841598,
+        "value": 0.55200322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34905,11 +34905,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.0754,
+      "fwci": 1.095,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.73003492,
+        "value": 0.73510614,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37084,11 +37084,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.648,
+      "fwci": 2.659,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.91134081,
+        "value": 0.91151775,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37595,11 +37595,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2288,
+      "fwci": 0.2314,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.50038111,
+        "value": 0.50520082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39938,11 +39938,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6179,
+      "fwci": 0.6358,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.68423019,
+        "value": 0.69293051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42095,11 +42095,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0035,
+      "fwci": 2.2404,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.88359788,
+        "value": 0.89563863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42713,11 +42713,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5798,
+      "fwci": 0.558,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.60481368,
+        "value": 0.60417121,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43367,11 +43367,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.2288,
+      "fwci": 0.2314,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.5192404,
+        "value": 0.52391515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43945,11 +43945,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4399,
+      "fwci": 0.4432,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.53237596,
+        "value": 0.53590252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45527,11 +45527,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.165,
+      "fwci": 1.1904,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.80165289,
+        "value": 0.80599308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45971,11 +45971,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2863,
+      "fwci": 0.279,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.44425737,
+        "value": 0.44457209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46502,11 +46502,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.2857,
+      "fwci": 0.279,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53501704,
+        "value": 0.53358157,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70851,7 +70851,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27460878,
+        "value": 0.27569279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101867,7 +101867,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49429658,
+        "value": 0.49760192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102422,7 +102422,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23870968,
+        "value": 0.2375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102887,7 +102887,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35811529,
+        "value": 0.36998938,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103458,7 +103458,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42755906,
+        "value": 0.43142528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108312,7 +108312,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13195082,
+        "value": 0.11233914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108883,7 +108883,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43211386,
+        "value": 0.42489103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -109242,7 +109242,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-01-20T17:24:06.736184",
       "created_date": "2025-11-05T00:00:00"
     }
   ]

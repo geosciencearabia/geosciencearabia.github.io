@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1242,
-    "citations": 21646
+    "citations": 21647
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1016,
-    "citations": 28454
+    "citations": 28455
   },
   {
     "id": "https://openalex.org/T10017",
@@ -38,7 +38,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 638,
-    "citations": 30988
+    "citations": 30992
   },
   {
     "id": "https://openalex.org/T10965",
@@ -50,13 +50,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 561,
-    "citations": 11511
+    "citations": 11514
   },
   {
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 552,
-    "citations": 10045
+    "citations": 10046
   },
   {
     "id": "https://openalex.org/T10635",
@@ -74,7 +74,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
     "publications": 306,
-    "citations": 15285
+    "citations": 15289
   },
   {
     "id": "https://openalex.org/T13193",
@@ -92,7 +92,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10413",
     "name": "High-pressure geophysics and materials",
     "publications": 162,
-    "citations": 13391
+    "citations": 13392
   },
   {
     "id": "https://openalex.org/T11801",
@@ -2453,14 +2453,14 @@ export const topicStats: TopicStats[] = [
     "citations": 3
   },
   {
-    "id": "https://openalex.org/T12302",
-    "name": "Advanced Nanomaterials in Catalysis",
+    "id": "https://openalex.org/T11690",
+    "name": "Advanced battery technologies research",
     "publications": 1,
     "citations": 3
   },
   {
-    "id": "https://openalex.org/T11690",
-    "name": "Advanced battery technologies research",
+    "id": "https://openalex.org/T12302",
+    "name": "Advanced Nanomaterials in Catalysis",
     "publications": 1,
     "citations": 3
   },
@@ -3538,14 +3538,14 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 898,
+    "publications": 899,
     "citations": 9830
   },
   {
     "id": "https://openalex.org/I5681781",
     "name": "University of Adelaide",
     "publications": 258,
-    "citations": 15963
+    "citations": 15964
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -3599,7 +3599,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I201726411",
     "name": "United Arab Emirates University",
     "publications": 88,
-    "citations": 4410
+    "citations": 4411
   },
   {
     "id": "https://openalex.org/I49324905",
@@ -3611,7 +3611,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I205640436",
     "name": "Curtin University",
     "publications": 85,
-    "citations": 8666
+    "citations": 8667
   },
   {
     "id": "https://openalex.org/I62856769",
@@ -3707,7 +3707,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I162577319",
     "name": "The University of Texas at Dallas",
     "publications": 29,
-    "citations": 5386
+    "citations": 5388
   },
   {
     "id": "https://openalex.org/I4210128123",
@@ -3755,7 +3755,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I3125743391",
     "name": "China University of Geosciences (Beijing)",
     "publications": 24,
-    "citations": 903
+    "citations": 904
+  },
+  {
+    "id": "https://openalex.org/I146416000",
+    "name": "University of Kansas",
+    "publications": 24,
+    "citations": 396
   },
   {
     "id": "https://openalex.org/I190397597",
@@ -3780,12 +3786,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of South Carolina",
     "publications": 23,
     "citations": 1039
-  },
-  {
-    "id": "https://openalex.org/I146416000",
-    "name": "University of Kansas",
-    "publications": 23,
-    "citations": 396
   },
   {
     "id": "https://openalex.org/I129604602",
@@ -3899,7 +3899,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I207547235",
     "name": "Benha University",
     "publications": 18,
-    "citations": 370
+    "citations": 372
   },
   {
     "id": "https://openalex.org/I2800173700",
@@ -3959,7 +3959,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I32021983",
     "name": "Christian-Albrechts-Universität zu Kiel",
     "publications": 16,
-    "citations": 600
+    "citations": 601
   },
   {
     "id": "https://openalex.org/I47508984",
@@ -4697,7 +4697,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I5023651",
     "name": "McGill University",
     "publications": 7,
-    "citations": 463
+    "citations": 464
   },
   {
     "id": "https://openalex.org/I165799507",
@@ -5135,7 +5135,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I6498739",
     "name": "Indian Statistical Institute",
     "publications": 5,
-    "citations": 281
+    "citations": 282
   },
   {
     "id": "https://openalex.org/I183935753",
@@ -5471,7 +5471,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I8204097",
     "name": "Ludwig-Maximilians-Universität München",
     "publications": 4,
-    "citations": 191
+    "citations": 192
   },
   {
     "id": "https://openalex.org/I57328836",
@@ -5747,7 +5747,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I128212801",
     "name": "Smithsonian Tropical Research Institute",
     "publications": 3,
-    "citations": 503
+    "citations": 504
   },
   {
     "id": "https://openalex.org/I135140700",
@@ -6359,7 +6359,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I15680801",
     "name": "Columbus State Community College",
     "publications": 2,
-    "citations": 852
+    "citations": 853
   },
   {
     "id": "https://openalex.org/I1296551785",
@@ -6515,7 +6515,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1291634729",
     "name": "Wild Salmon Center",
     "publications": 2,
-    "citations": 195
+    "citations": 196
   },
   {
     "id": "https://openalex.org/I22465464",
@@ -11218,6 +11218,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4391767645",
     "name": "State Key Laboratory of Biogeology and Environmental Geology",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I4210103992",
+    "name": "Mira Geoscience (Canada)",
     "publications": 1,
     "citations": 0
   },

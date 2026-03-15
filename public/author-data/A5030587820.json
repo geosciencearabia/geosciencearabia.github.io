@@ -357,960 +357,6 @@
   },
   "works": [
     {
-      "id": "https://openalex.org/W2606002868",
-      "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
-      "title": "Porosity and Permeability in Bioturbated Sediments",
-      "display_name": "Porosity and Permeability in Bioturbated Sediments",
-      "publication_year": 2012,
-      "publication_date": "2012-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2606002868",
-        "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
-        "mag": "2606002868"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-444-53813-0.00027-7",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2765064486",
-          "display_name": "Developments in sedimentology",
-          "issn_l": "0070-4571",
-          "issn": [
-            "0070-4571",
-            "2352-2844"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Developments in Sedimentology",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5071875690",
-            "display_name": "Murray K. Gingras",
-            "orcid": "https://orcid.org/0000-0002-6683-1750"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Murray K. Gingras",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068368545",
-            "display_name": "Greg M. Baniak",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Greg. Baniak",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5069112963",
-            "display_name": "John B. Gordon",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I196198406",
-              "display_name": "Husky Energy (Canada)",
-              "ror": "https://ror.org/04b0s8g05",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I196198406"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John. Gordon",
-          "raw_affiliation_strings": [
-            "Husky Energy, CalgaryAlberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Husky Energy, CalgaryAlberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I196198406"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025902503",
-            "display_name": "Jussi Hovikoski",
-            "orcid": "https://orcid.org/0000-0001-6330-8713"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801979204",
-              "display_name": "Geological Survey of Denmark and Greenland",
-              "ror": "https://ror.org/01b40r146",
-              "country_code": "DK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2801979204",
-                "https://openalex.org/I4210102581"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jussi. Hovikoski",
-          "raw_affiliation_strings": [
-            "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I2801979204"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5043661461",
-            "display_name": "Kurt O. Konhauser",
-            "orcid": "https://orcid.org/0000-0001-7722-7068"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kurt O. Konhauser",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5046641260",
-            "display_name": "Andrew D. La Croix",
-            "orcid": "https://orcid.org/0000-0002-9716-9501"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I18014758",
-              "display_name": "Simon Fraser University",
-              "ror": "https://ror.org/0213rcc28",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I18014758"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrew. La Croix",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada",
-              "institution_ids": [
-                "https://openalex.org/I18014758"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5012026878",
-            "display_name": "Ryan Thomas Lemiski",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2802568082",
-              "display_name": "Alberta Energy",
-              "ror": "https://ror.org/00wh57194",
-              "country_code": "CA",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2802568082"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ryan. Lemiski",
-          "raw_affiliation_strings": [
-            "Talisman Energy Inc., Calgary, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Talisman Energy Inc., Calgary, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I2802568082"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017187944",
-            "display_name": "C. A. Mendoza",
-            "orcid": "https://orcid.org/0000-0002-2731-0004"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Carl. Mendoza",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111738454",
-            "display_name": "S. George Pemberton",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S. George Pemberton",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030587820",
-            "display_name": "Camilo A. Polo",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Camilo. Polo",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5010976769",
-            "display_name": "John‐Paul Zonneveld",
-            "orcid": "https://orcid.org/0000-0003-0299-4291"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John-Paul. Zonneveld",
-          "raw_affiliation_strings": [
-            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071875690"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I154425047"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 14.4384,
-      "has_fulltext": false,
-      "cited_by_count": 117,
-      "citation_normalized_percentile": {
-        "value": 0.99353796,
-        "is_in_top_1_percent": true,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "837",
-        "last_page": "868"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9979000091552734,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.7797818779945374
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6781760454177856
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.6007605791091919
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.5433706641197205
-        },
-        {
-          "id": "https://openalex.org/keywords/porous-medium",
-          "display_name": "Porous medium",
-          "score": 0.4677674174308777
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.45553824305534363
-        },
-        {
-          "id": "https://openalex.org/keywords/burrow",
-          "display_name": "Burrow",
-          "score": 0.42671069502830505
-        },
-        {
-          "id": "https://openalex.org/keywords/matrix",
-          "display_name": "Matrix (chemical analysis)",
-          "score": 0.4222959280014038
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.38150128722190857
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3630334138870239
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.15964820981025696
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.15848150849342346
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.13584229350090027
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.13266679644584656
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.09620407223701477
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.7797818779945374
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6781760454177856
-        },
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.6007605791091919
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.5433706641197205
-        },
-        {
-          "id": "https://openalex.org/C105569014",
-          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
-          "display_name": "Porous medium",
-          "level": 3,
-          "score": 0.4677674174308777
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.45553824305534363
-        },
-        {
-          "id": "https://openalex.org/C175422226",
-          "wikidata": "https://www.wikidata.org/wiki/Q1410542",
-          "display_name": "Burrow",
-          "level": 2,
-          "score": 0.42671069502830505
-        },
-        {
-          "id": "https://openalex.org/C106487976",
-          "wikidata": "https://www.wikidata.org/wiki/Q685816",
-          "display_name": "Matrix (chemical analysis)",
-          "level": 2,
-          "score": 0.4222959280014038
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.38150128722190857
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3630334138870239
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.15964820981025696
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.15848150849342346
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.13584229350090027
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.13266679644584656
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.09620407223701477
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-444-53813-0.00027-7",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2765064486",
-            "display_name": "Developments in sedimentology",
-            "issn_l": "0070-4571",
-            "issn": [
-              "0070-4571",
-              "2352-2844"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Developments in Sedimentology",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320334593",
-          "display_name": "Natural Sciences and Engineering Research Council of Canada",
-          "ror": "https://ror.org/01h531d29"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 64,
-      "referenced_works": [
-        "https://openalex.org/W50307466",
-        "https://openalex.org/W583387922",
-        "https://openalex.org/W1594515700",
-        "https://openalex.org/W1831771220",
-        "https://openalex.org/W1978842015",
-        "https://openalex.org/W1985955010",
-        "https://openalex.org/W1988795078",
-        "https://openalex.org/W1990007672",
-        "https://openalex.org/W1992639788",
-        "https://openalex.org/W1993142512",
-        "https://openalex.org/W1994486135",
-        "https://openalex.org/W2000851222",
-        "https://openalex.org/W2004175894",
-        "https://openalex.org/W2007718532",
-        "https://openalex.org/W2012761990",
-        "https://openalex.org/W2017338922",
-        "https://openalex.org/W2030337807",
-        "https://openalex.org/W2039994638",
-        "https://openalex.org/W2040011290",
-        "https://openalex.org/W2042222106",
-        "https://openalex.org/W2047335922",
-        "https://openalex.org/W2048523234",
-        "https://openalex.org/W2065300476",
-        "https://openalex.org/W2072281820",
-        "https://openalex.org/W2081009732",
-        "https://openalex.org/W2081420863",
-        "https://openalex.org/W2096388908",
-        "https://openalex.org/W2110850782",
-        "https://openalex.org/W2113648463",
-        "https://openalex.org/W2116311563",
-        "https://openalex.org/W2127585836",
-        "https://openalex.org/W2129475163",
-        "https://openalex.org/W2135598870",
-        "https://openalex.org/W2138099875",
-        "https://openalex.org/W2143999902",
-        "https://openalex.org/W2149147954",
-        "https://openalex.org/W2152556249",
-        "https://openalex.org/W2153328151",
-        "https://openalex.org/W2153482727",
-        "https://openalex.org/W2154565678",
-        "https://openalex.org/W2154818190",
-        "https://openalex.org/W2159939975",
-        "https://openalex.org/W2166265800",
-        "https://openalex.org/W2170849142",
-        "https://openalex.org/W2171698935",
-        "https://openalex.org/W2177201842",
-        "https://openalex.org/W2244098520",
-        "https://openalex.org/W2318128155",
-        "https://openalex.org/W2336522318",
-        "https://openalex.org/W2405113840",
-        "https://openalex.org/W2803000987",
-        "https://openalex.org/W2927010078",
-        "https://openalex.org/W2982501932",
-        "https://openalex.org/W3102006276",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W4254012099",
-        "https://openalex.org/W6601969992",
-        "https://openalex.org/W6648779255",
-        "https://openalex.org/W6660989992",
-        "https://openalex.org/W6668595719",
-        "https://openalex.org/W6676745397",
-        "https://openalex.org/W6679103484",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6742992632"
-      ],
-      "related_works": [
-        "https://openalex.org/W2779770081",
-        "https://openalex.org/W4253214901",
-        "https://openalex.org/W2392056178",
-        "https://openalex.org/W1999844787",
-        "https://openalex.org/W626428935",
-        "https://openalex.org/W2224586810",
-        "https://openalex.org/W2003154353",
-        "https://openalex.org/W1980838758",
-        "https://openalex.org/W2388508898",
-        "https://openalex.org/W2029650635"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 14
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 14
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-03-04T09:10:02.777135",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4307637027",
       "doi": "https://doi.org/10.2110/jsr.2021.112",
       "title": "Facies architecture and paleogeography evolution of regressive wave-dominated shorelines transitioning into tide-dominated estuaries: Early Devonian Subbat Member, Jauf Formation, Saudi Arabia",
@@ -1833,8 +879,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -2717,6 +1763,960 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2606002868",
+      "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
+      "title": "Porosity and Permeability in Bioturbated Sediments",
+      "display_name": "Porosity and Permeability in Bioturbated Sediments",
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2606002868",
+        "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
+        "mag": "2606002868"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-444-53813-0.00027-7",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2765064486",
+          "display_name": "Developments in sedimentology",
+          "issn_l": "0070-4571",
+          "issn": [
+            "0070-4571",
+            "2352-2844"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Developments in Sedimentology",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071875690",
+            "display_name": "Murray K. Gingras",
+            "orcid": "https://orcid.org/0000-0002-6683-1750"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Murray K. Gingras",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068368545",
+            "display_name": "Greg M. Baniak",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Greg. Baniak",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069112963",
+            "display_name": "John B. Gordon",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196198406",
+              "display_name": "Husky Energy (Canada)",
+              "ror": "https://ror.org/04b0s8g05",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I196198406"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John. Gordon",
+          "raw_affiliation_strings": [
+            "Husky Energy, CalgaryAlberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Husky Energy, CalgaryAlberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I196198406"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025902503",
+            "display_name": "Jussi Hovikoski",
+            "orcid": "https://orcid.org/0000-0001-6330-8713"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801979204",
+              "display_name": "Geological Survey of Denmark and Greenland",
+              "ror": "https://ror.org/01b40r146",
+              "country_code": "DK",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2801979204",
+                "https://openalex.org/I4210102581"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jussi. Hovikoski",
+          "raw_affiliation_strings": [
+            "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I2801979204"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043661461",
+            "display_name": "Kurt O. Konhauser",
+            "orcid": "https://orcid.org/0000-0001-7722-7068"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kurt O. Konhauser",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046641260",
+            "display_name": "Andrew D. La Croix",
+            "orcid": "https://orcid.org/0000-0002-9716-9501"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I18014758",
+              "display_name": "Simon Fraser University",
+              "ror": "https://ror.org/0213rcc28",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I18014758"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew. La Croix",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada",
+              "institution_ids": [
+                "https://openalex.org/I18014758"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012026878",
+            "display_name": "Ryan Thomas Lemiski",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802568082",
+              "display_name": "Alberta Energy",
+              "ror": "https://ror.org/00wh57194",
+              "country_code": "CA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2802568082"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ryan. Lemiski",
+          "raw_affiliation_strings": [
+            "Talisman Energy Inc., Calgary, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Talisman Energy Inc., Calgary, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I2802568082"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017187944",
+            "display_name": "C. A. Mendoza",
+            "orcid": "https://orcid.org/0000-0002-2731-0004"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Carl. Mendoza",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111738454",
+            "display_name": "S. George Pemberton",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. George Pemberton",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030587820",
+            "display_name": "Camilo A. Polo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Camilo. Polo",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5010976769",
+            "display_name": "John‐Paul Zonneveld",
+            "orcid": "https://orcid.org/0000-0003-0299-4291"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John-Paul. Zonneveld",
+          "raw_affiliation_strings": [
+            "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 11,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071875690"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I154425047"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 14.4616,
+      "has_fulltext": false,
+      "cited_by_count": 117,
+      "citation_normalized_percentile": {
+        "value": 0.99354839,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "837",
+        "last_page": "868"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "Permeability (electromagnetism)",
+          "score": 0.7797818779945374
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6781760454177856
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-fossil",
+          "display_name": "Trace fossil",
+          "score": 0.6007605791091919
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.5433706641197205
+        },
+        {
+          "id": "https://openalex.org/keywords/porous-medium",
+          "display_name": "Porous medium",
+          "score": 0.4677674174308777
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.45553824305534363
+        },
+        {
+          "id": "https://openalex.org/keywords/burrow",
+          "display_name": "Burrow",
+          "score": 0.42671069502830505
+        },
+        {
+          "id": "https://openalex.org/keywords/matrix",
+          "display_name": "Matrix (chemical analysis)",
+          "score": 0.4222959280014038
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.38150128722190857
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.3630334138870239
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.15964820981025696
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.15848150849342346
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.13584229350090027
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.13266679644584656
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.09620407223701477
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.7797818779945374
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6781760454177856
+        },
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.6007605791091919
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.5433706641197205
+        },
+        {
+          "id": "https://openalex.org/C105569014",
+          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
+          "display_name": "Porous medium",
+          "level": 3,
+          "score": 0.4677674174308777
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.45553824305534363
+        },
+        {
+          "id": "https://openalex.org/C175422226",
+          "wikidata": "https://www.wikidata.org/wiki/Q1410542",
+          "display_name": "Burrow",
+          "level": 2,
+          "score": 0.42671069502830505
+        },
+        {
+          "id": "https://openalex.org/C106487976",
+          "wikidata": "https://www.wikidata.org/wiki/Q685816",
+          "display_name": "Matrix (chemical analysis)",
+          "level": 2,
+          "score": 0.4222959280014038
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.38150128722190857
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3630334138870239
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.15964820981025696
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.15848150849342346
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.13584229350090027
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.13266679644584656
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.09620407223701477
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-444-53813-0.00027-7",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2765064486",
+            "display_name": "Developments in sedimentology",
+            "issn_l": "0070-4571",
+            "issn": [
+              "0070-4571",
+              "2352-2844"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Developments in Sedimentology",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334593",
+          "display_name": "Natural Sciences and Engineering Research Council of Canada",
+          "ror": "https://ror.org/01h531d29"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W50307466",
+        "https://openalex.org/W583387922",
+        "https://openalex.org/W1594515700",
+        "https://openalex.org/W1831771220",
+        "https://openalex.org/W1978842015",
+        "https://openalex.org/W1985955010",
+        "https://openalex.org/W1988795078",
+        "https://openalex.org/W1990007672",
+        "https://openalex.org/W1992639788",
+        "https://openalex.org/W1993142512",
+        "https://openalex.org/W1994486135",
+        "https://openalex.org/W2000851222",
+        "https://openalex.org/W2004175894",
+        "https://openalex.org/W2007718532",
+        "https://openalex.org/W2012761990",
+        "https://openalex.org/W2017338922",
+        "https://openalex.org/W2030337807",
+        "https://openalex.org/W2039994638",
+        "https://openalex.org/W2040011290",
+        "https://openalex.org/W2042222106",
+        "https://openalex.org/W2047335922",
+        "https://openalex.org/W2048523234",
+        "https://openalex.org/W2065300476",
+        "https://openalex.org/W2072281820",
+        "https://openalex.org/W2081009732",
+        "https://openalex.org/W2081420863",
+        "https://openalex.org/W2096388908",
+        "https://openalex.org/W2110850782",
+        "https://openalex.org/W2113648463",
+        "https://openalex.org/W2116311563",
+        "https://openalex.org/W2127585836",
+        "https://openalex.org/W2129475163",
+        "https://openalex.org/W2135598870",
+        "https://openalex.org/W2138099875",
+        "https://openalex.org/W2143999902",
+        "https://openalex.org/W2149147954",
+        "https://openalex.org/W2152556249",
+        "https://openalex.org/W2153328151",
+        "https://openalex.org/W2153482727",
+        "https://openalex.org/W2154565678",
+        "https://openalex.org/W2154818190",
+        "https://openalex.org/W2159939975",
+        "https://openalex.org/W2166265800",
+        "https://openalex.org/W2170849142",
+        "https://openalex.org/W2171698935",
+        "https://openalex.org/W2177201842",
+        "https://openalex.org/W2244098520",
+        "https://openalex.org/W2318128155",
+        "https://openalex.org/W2336522318",
+        "https://openalex.org/W2405113840",
+        "https://openalex.org/W2803000987",
+        "https://openalex.org/W2927010078",
+        "https://openalex.org/W2982501932",
+        "https://openalex.org/W3102006276",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W4254012099",
+        "https://openalex.org/W6601969992",
+        "https://openalex.org/W6648779255",
+        "https://openalex.org/W6660989992",
+        "https://openalex.org/W6668595719",
+        "https://openalex.org/W6676745397",
+        "https://openalex.org/W6679103484",
+        "https://openalex.org/W6680289203",
+        "https://openalex.org/W6742992632"
+      ],
+      "related_works": [
+        "https://openalex.org/W2779770081",
+        "https://openalex.org/W4253214901",
+        "https://openalex.org/W2392056178",
+        "https://openalex.org/W1999844787",
+        "https://openalex.org/W626428935",
+        "https://openalex.org/W2224586810",
+        "https://openalex.org/W2003154353",
+        "https://openalex.org/W1980838758",
+        "https://openalex.org/W2388508898",
+        "https://openalex.org/W2029650635"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-01-17T23:10:49.606395",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3122970365",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2021.104915",
       "title": "Asymmetrical wave-dominated siliciclastic shorelines with evidence of along-strike variability of sedimentary processes: A revised interpretation for the Toarcian Marrat red beds, central Arabia",
@@ -2970,11 +2970,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.9714,
+      "fwci": 2.0118,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.83034405,
+        "value": 0.83401436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3262,8 +3262,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -4130,8 +4130,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394
         }
       ],
@@ -5063,11 +5063,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 0.2304,
+      "fwci": 0.2362,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55650205,
+        "value": 0.56625618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6192,8 +6192,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -7593,8 +7593,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716
         }
       ],
@@ -10141,8 +10141,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4099999964237213
         }
       ],
@@ -11069,8 +11069,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],

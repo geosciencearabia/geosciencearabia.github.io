@@ -1820,11 +1820,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 129.6473,
+      "fwci": 134.1197,
       "has_fulltext": false,
       "cited_by_count": 183,
       "citation_normalized_percentile": {
-        "value": 0.99959766,
+        "value": 0.99961866,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2574,9 +2574,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -2741,7 +2741,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3532,11 +3532,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 31.9578,
+      "fwci": 31.9813,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99375515,
+        "value": 0.99376016,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4096,9 +4096,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -4322,7 +4322,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2026-03-15T09:29:46.208133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4987,9 +4987,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -6094,9 +6094,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -7160,11 +7160,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.233,
+      "fwci": 1.2349,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.84734499,
+        "value": 0.84753881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7343,12 +7343,20 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7792163140",
+          "display_name": null,
+          "funder_award_id": "Scientific Research (DSR)",
+          "funder_id": "https://openalex.org/F4320322322",
+          "funder_display_name": "King Abdulaziz University"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320322322",
@@ -7930,7 +7938,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-07T13:37:22.277990",
+      "updated_date": "2026-03-15T09:29:46.208133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8613,9 +8621,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -11099,11 +11107,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 4.8764,
+      "fwci": 4.6736,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92459358,
+        "value": 0.91757274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11455,7 +11463,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-01T08:55:55.761014",
+      "updated_date": "2026-02-22T13:39:03.778224",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12083,11 +12091,11 @@
         "value_usd": 2670
       },
       "apc_paid": null,
-      "fwci": 1.9916,
+      "fwci": 2.0428,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.84883586,
+        "value": 0.85268351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12849,11 +12857,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5674,
+      "fwci": 0.5802,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.67901475,
+        "value": 0.68570975,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14504,9 +14512,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -15820,11 +15828,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.2897,
+      "fwci": 1.2941,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.84343064,
+        "value": 0.84408989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16076,9 +16084,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -16554,9 +16562,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -17254,7 +17262,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17301,7 +17309,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17506,7 +17514,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17553,7 +17561,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17759,8 +17767,8 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 12,
       "corresponding_author_ids": [
-        "https://openalex.org/A5006640587",
-        "https://openalex.org/A5030898494",
+        "https://openalex.org/A5044930714",
+        "https://openalex.org/A5101699144",
         "https://openalex.org/A5109396102"
       ],
       "corresponding_institution_ids": [
@@ -17777,11 +17785,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.87,
+      "fwci": 2.8705,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89066757,
+        "value": 0.89068826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18165,9 +18173,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -18749,7 +18757,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2026-03-15T09:29:46.208133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18966,11 +18974,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3668,
+      "fwci": 1.4241,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82695985,
+        "value": 0.8336414,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19294,9 +19302,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -22945,9 +22953,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
