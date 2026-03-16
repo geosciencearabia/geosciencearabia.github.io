@@ -111,7 +111,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "topic": "Advanced Fiber Optic Sensors",
@@ -249,7 +249,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "topic": "Adventure Sports and Sensation Seeking",
@@ -3279,7 +3279,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "topic": "Evaluation and Performance Assessment",
@@ -4221,7 +4221,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 35,
-    "cites": 396
+    "cites": 397
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4233,7 +4233,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 27,
-    "cites": 190
+    "cites": 191
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4425,7 +4425,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 12,
-    "cites": 4285
+    "cites": 4286
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4521,7 +4521,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 39,
-    "cites": 216
+    "cites": 217
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -5277,7 +5277,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 10,
-    "cites": 4088
+    "cites": 4089
   },
   {
     "topic": "Geological formations and processes",
@@ -7629,7 +7629,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 7,
-    "cites": 42
+    "cites": 43
   },
   {
     "topic": "High-pressure geophysics and materials",
@@ -8229,7 +8229,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 135,
-    "cites": 553
+    "cites": 554
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -10803,7 +10803,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 2,
-    "cites": 16
+    "cites": 17
   },
   {
     "topic": "NMR spectroscopy and applications",
@@ -11415,7 +11415,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 27,
-    "cites": 4484
+    "cites": 4485
   },
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
@@ -12849,7 +12849,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 9,
-    "cites": 30
+    "cites": 31
   },
   {
     "topic": "Reservoir Engineering and Simulation Methods",
@@ -13803,7 +13803,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "topic": "Spectroscopy and Laser Applications",
@@ -13995,7 +13995,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "topic": "Time Series Analysis and Forecasting",
@@ -25729,7 +25729,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 3,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5005831087",
@@ -25750,7 +25750,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5005831087",
@@ -25799,7 +25799,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5005843659",
@@ -32127,7 +32127,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5008470341",
@@ -32141,14 +32141,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5008470341",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5008470341",
@@ -34234,14 +34234,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5009697450",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5009697450",
@@ -34255,7 +34255,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5009697450",
@@ -42088,7 +42088,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 5,
-    "cites": 87
+    "cites": 88
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -42249,7 +42249,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 12,
-    "cites": 108
+    "cites": 109
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -42711,7 +42711,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 4,
-    "cites": 28
+    "cites": 29
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -46421,7 +46421,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -47415,7 +47415,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -47443,7 +47443,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -54618,7 +54618,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5017075460",
@@ -54632,14 +54632,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5017075460",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5017075460",
@@ -59035,7 +59035,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 3,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5019002975",
@@ -59056,7 +59056,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5019002975",
@@ -59105,7 +59105,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5019078599",
@@ -65475,7 +65475,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5022427193",
@@ -65496,7 +65496,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5022427193",
@@ -65545,7 +65545,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5022432037",
@@ -84053,7 +84053,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 21,
-    "cites": 73
+    "cites": 74
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -84172,7 +84172,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -84417,7 +84417,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -91844,21 +91844,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5032889367",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5032889367",
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5032972346",
@@ -93818,21 +93818,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5033823507",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5033823507",
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5033825059",
@@ -101049,21 +101049,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5035770796",
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5035770796",
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5035815399",
@@ -105760,7 +105760,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5036202375",
@@ -105795,7 +105795,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5036202375",
@@ -105830,7 +105830,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5036202375",
@@ -111500,7 +111500,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5038761901",
@@ -111521,7 +111521,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5038761901",
@@ -111542,7 +111542,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5038805478",
@@ -120488,21 +120488,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5040437846",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5040437846",
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5040442889",
@@ -122357,7 +122357,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041120433",
@@ -122378,14 +122378,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041120433",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041120433",
@@ -123463,7 +123463,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041673378",
@@ -123498,7 +123498,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041673378",
@@ -123526,7 +123526,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5041673378",
@@ -131597,21 +131597,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5044508648",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5044508648",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5044541579",
@@ -131751,7 +131751,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5044567678",
@@ -131828,7 +131828,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5044567678",
@@ -131870,7 +131870,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5044567678",
@@ -136749,7 +136749,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 6,
-    "cites": 3901
+    "cites": 3902
   },
   {
     "authorOpenAlexId": "A5046466285",
@@ -137113,7 +137113,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 2,
-    "cites": 3596
+    "cites": 3597
   },
   {
     "authorOpenAlexId": "A5046466285",
@@ -138100,7 +138100,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 3,
-    "cites": 3681
+    "cites": 3682
   },
   {
     "authorOpenAlexId": "A5046466285",
@@ -146451,7 +146451,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5049718033",
@@ -146472,7 +146472,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5049718033",
@@ -146486,7 +146486,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5049718033",
@@ -147837,21 +147837,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5050327190",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5050327190",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5050328906",
@@ -153892,7 +153892,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 2,
-    "cites": 21
+    "cites": 22
   },
   {
     "authorOpenAlexId": "A5052716474",
@@ -153920,7 +153920,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 3,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5052716474",
@@ -153962,7 +153962,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5052716474",
@@ -180891,21 +180891,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5061700633",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5061700633",
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5061703841",
@@ -188759,7 +188759,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5064861169",
@@ -188773,7 +188773,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5064861169",
@@ -188794,7 +188794,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5064885805",
@@ -196172,7 +196172,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5068329947",
@@ -196186,14 +196186,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5068329947",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5068329947",
@@ -203725,7 +203725,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5071334569",
@@ -203746,7 +203746,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5071334569",
@@ -203760,7 +203760,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5071334569",
@@ -204222,21 +204222,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5071555731",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5071555731",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5071555731",
@@ -206126,21 +206126,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5072659694",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5072659694",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5072682306",
@@ -208751,7 +208751,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 3,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5073694501",
@@ -208772,7 +208772,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5073694501",
@@ -208821,7 +208821,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5073694599",
@@ -221386,7 +221386,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5079357095",
@@ -221400,7 +221400,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5079357095",
@@ -221414,7 +221414,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5079379016",
@@ -221771,7 +221771,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5079565767",
@@ -221792,7 +221792,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5079565767",
@@ -221820,7 +221820,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5079573893",
@@ -243254,7 +243254,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5086795464",
@@ -243275,7 +243275,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5086795464",
@@ -243289,7 +243289,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5086795464",
@@ -246131,7 +246131,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5088118808",
@@ -246145,7 +246145,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5088118808",
@@ -246166,7 +246166,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5088120429",
@@ -246369,7 +246369,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5088270269",
@@ -246383,7 +246383,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5088270269",
@@ -246397,14 +246397,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5088324521",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5088324521",
@@ -246446,7 +246446,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5088324521",
@@ -246460,7 +246460,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5088325868",
@@ -250653,7 +250653,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5090086069",
@@ -250667,14 +250667,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5090086069",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5090086069",
@@ -256379,7 +256379,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5094294379",
@@ -256393,7 +256393,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5094294379",
@@ -256407,7 +256407,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5094314424",
@@ -257772,21 +257772,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5100318201",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5100318201",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5100318325",
@@ -260341,7 +260341,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5101194084",
@@ -260362,7 +260362,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5101194084",
@@ -260390,7 +260390,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5101196608",
@@ -265129,21 +265129,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Advanced Drug Delivery Systems",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5102975137",
     "topic": "Advancements in Transdermal Drug Delivery",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5102975137",
     "topic": "Essential Oils and Antimicrobial Activity",
     "year": 2021,
     "pubs": 1,
-    "cites": 101
+    "cites": 102
   },
   {
     "authorOpenAlexId": "A5102975137",
@@ -267173,7 +267173,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5103179318",
@@ -267187,14 +267187,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5103179318",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5103179318",
@@ -271345,21 +271345,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5106944958",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5106944958",
     "topic": "Time Series Analysis and Forecasting",
     "year": 2021,
     "pubs": 1,
-    "cites": 18
+    "cites": 19
   },
   {
     "authorOpenAlexId": "A5107031467",
@@ -274474,7 +274474,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 4,
-    "cites": 17
+    "cites": 18
   },
   {
     "authorOpenAlexId": "A5108751417",
@@ -274495,7 +274495,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "NMR spectroscopy and applications",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5108751417",
@@ -274537,7 +274537,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Spectroscopy and Chemometric Analyses",
     "year": 2024,
     "pubs": 1,
-    "cites": 9
+    "cites": 10
   },
   {
     "authorOpenAlexId": "A5108753570",
@@ -277106,7 +277106,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5110038075",
@@ -277190,7 +277190,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5110038075",
@@ -277267,7 +277267,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5110038075",
@@ -281327,7 +281327,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111420291",
@@ -281341,14 +281341,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111420291",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111420291",
@@ -282587,7 +282587,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111747804",
@@ -282601,14 +282601,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111747804",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5111747804",
@@ -285415,7 +285415,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5112600754",
@@ -285443,7 +285443,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5112600754",
@@ -285485,7 +285485,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2023,
     "pubs": 1,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5112600754",
@@ -287872,7 +287872,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5113624681",
@@ -287886,14 +287886,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5113624681",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2007,
     "pubs": 1,
-    "cites": 3342
+    "cites": 3343
   },
   {
     "authorOpenAlexId": "A5113624681",

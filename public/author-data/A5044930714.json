@@ -4322,7 +4322,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-15T09:29:46.208133",
+      "updated_date": "2026-03-16T09:10:04.655348",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13514,11 +13514,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.1355,
+      "fwci": 2.1341,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86524901,
+        "value": 0.86519203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13931,14 +13931,686 @@
         "https://openalex.org/W2313730521",
         "https://openalex.org/W2188220592"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "420": [
+          185
+        ],
+        "800": [
+          255
+        ],
+        "1000": [
+          31
+        ],
+        "The": [
+          0,
+          200
+        ],
+        "downdip": [
+          1
+        ],
+        "migration": [
+          2
+        ],
+        "of": [
+          3,
+          119,
+          131,
+          156,
+          184,
+          229
+        ],
+        "dissolution": [
+          4,
+          110,
+          235,
+          246,
+          274
+        ],
+        "fronts": [
+          5
+        ],
+        "in": [
+          6,
+          21,
+          37,
+          127,
+          150,
+          164,
+          207,
+          212,
+          260,
+          297
+        ],
+        "gently": [
+          7
+        ],
+        "tilted": [
+          8
+        ],
+        "evaporite": [
+          9,
+          78,
+          245,
+          291
+        ],
+        "formations": [
+          10
+        ],
+        "produces": [
+          11
+        ],
+        "updip-facing": [
+          12
+        ],
+        "monoclinal": [
+          13,
+          178,
+          238
+        ],
+        "folds": [
+          14
+        ],
+        "and": [
+          15,
+          45,
+          59,
+          93,
+          100,
+          111,
+          124,
+          159,
+          169,
+          192,
+          204,
+          226,
+          237,
+          264
+        ],
+        "adjacent": [
+          16
+        ],
+        "synformal": [
+          17
+        ],
+        "troughs": [
+          18
+        ],
+        "(depositional": [
+          19
+        ],
+        "basins)": [
+          20
+        ],
+        "the": [
+          22,
+          38,
+          49,
+          71,
+          87,
+          106,
+          116,
+          120,
+          128,
+          145,
+          151,
+          154,
+          157,
+          162,
+          166,
+          208,
+          227,
+          230,
+          234,
+          248,
+          298
+        ],
+        "supra-evaporite": [
+          23
+        ],
+        "strata.": [
+          24
+        ],
+        "These": [
+          25
+        ],
+        "gravitational": [
+          26
+        ],
+        "deformation": [
+          27,
+          170
+        ],
+        "structures,": [
+          28
+        ],
+        "up": [
+          29
+        ],
+        "to": [
+          30,
+          218,
+          244,
+          290,
+          303
+        ],
+        "km": [
+          32,
+          108,
+          256
+        ],
+        "long,": [
+          33
+        ],
+        "can": [
+          34,
+          215
+        ],
+        "be": [
+          35,
+          216
+        ],
+        "expressed": [
+          36
+        ],
+        "landscape": [
+          39
+        ],
+        "as": [
+          40
+        ],
+        "laterally": [
+          41
+        ],
+        "migrating": [
+          42
+        ],
+        "fold": [
+          43,
+          272
+        ],
+        "escarpments": [
+          44
+        ],
+        "linear": [
+          46
+        ],
+        "depressions,": [
+          47
+        ],
+        "forming": [
+          48
+        ],
+        "largest": [
+          50,
+          146,
+          249
+        ],
+        "karst": [
+          51,
+          79,
+          148,
+          250
+        ],
+        "features": [
+          52,
+          80,
+          95,
+          251
+        ],
+        "on": [
+          53,
+          90,
+          97,
+          138,
+          252,
+          286
+        ],
+        "Earth.": [
+          54,
+          253
+        ],
+        "Despite": [
+          55
+        ],
+        "their": [
+          56
+        ],
+        "large": [
+          57
+        ],
+        "dimensions": [
+          58
+        ],
+        "numerous": [
+          60,
+          195
+        ],
+        "associated": [
+          61,
+          94,
+          114,
+          167
+        ],
+        "practical": [
+          62
+        ],
+        "implications": [
+          63
+        ],
+        "(hydrocarbon,": [
+          64
+        ],
+        "salt,": [
+          65
+        ],
+        "geostorage,": [
+          66
+        ],
+        "water": [
+          67,
+          224
+        ],
+        "quality,": [
+          68
+        ],
+        "sinkhole": [
+          69,
+          202
+        ],
+        "hazards),": [
+          70
+        ],
+        "scientific": [
+          72
+        ],
+        "publications": [
+          73
+        ],
+        "dealing": [
+          74
+        ],
+        "with": [
+          75,
+          115,
+          135,
+          180
+        ],
+        "these": [
+          76
+        ],
+        "interstratal": [
+          77
+        ],
+        "are": [
+          81,
+          172,
+          247
+        ],
+        "rather": [
+          82
+        ],
+        "scarce.": [
+          83
+        ],
+        "This": [
+          84,
+          143
+        ],
+        "work": [
+          85
+        ],
+        "reviews": [
+          86
+        ],
+        "available": [
+          88
+        ],
+        "literature": [
+          89
+        ],
+        "dissolutional": [
+          91
+        ],
+        "edges": [
+          92
+        ],
+        "developed": [
+          96
+        ],
+        "dipping": [
+          98
+        ],
+        "salt": [
+          99
+        ],
+        "gypsum/anhydrite": [
+          101
+        ],
+        "formations.": [
+          102
+        ],
+        "It": [
+          103,
+          175
+        ],
+        "also": [
+          104,
+          161
+        ],
+        "analyses": [
+          105
+        ],
+        ">800": [
+          107
+        ],
+        "long": [
+          109,
+          257
+        ],
+        "subsidence": [
+          112,
+          258,
+          287
+        ],
+        "belt": [
+          113,
+          259
+        ],
+        "updip": [
+          117
+        ],
+        "edge": [
+          118
+        ],
+        "Upper": [
+          121
+        ],
+        "Jurassic": [
+          122
+        ],
+        "Arab": [
+          123
+        ],
+        "Hith": [
+          125,
+          265
+        ],
+        "anhydrites": [
+          126
+        ],
+        "Interior": [
+          129
+        ],
+        "Homocline": [
+          130
+        ],
+        "central": [
+          132
+        ],
+        "Saudi": [
+          133,
+          261
+        ],
+        "Arabia,": [
+          134
+        ],
+        "special": [
+          136
+        ],
+        "focus": [
+          137
+        ],
+        "its": [
+          139
+        ],
+        "striking": [
+          140,
+          177
+        ],
+        "geomorphic": [
+          141
+        ],
+        "features.": [
+          142
+        ],
+        "is": [
+          144,
+          160
+        ],
+        "Ca-sulphate": [
+          147
+        ],
+        "feature": [
+          149
+        ],
+        "world,": [
+          152
+        ],
+        "despite": [
+          153
+        ],
+        "aridity": [
+          155
+        ],
+        "region,": [
+          158
+        ],
+        "example": [
+          163
+        ],
+        "which": [
+          165
+        ],
+        "landforms": [
+          168
+        ],
+        "structures": [
+          171,
+          191
+        ],
+        "best": [
+          173,
+          267
+        ],
+        "displayed.": [
+          174
+        ],
+        "displays": [
+          176
+        ],
+        "scarps": [
+          179
+        ],
+        "an": [
+          181
+        ],
+        "aggregate": [
+          182
+        ],
+        "length": [
+          183
+        ],
+        "km,": [
+          186
+        ],
+        "affected": [
+          187
+        ],
+        "by": [
+          188,
+          194,
+          277
+        ],
+        "crestal": [
+          189
+        ],
+        "extensional": [
+          190
+        ],
+        "punctured": [
+          193,
+          276
+        ],
+        "giant": [
+          196,
+          278
+        ],
+        "caprock": [
+          197
+        ],
+        "collapse": [
+          198,
+          279
+        ],
+        "sinkholes.": [
+          199,
+          280
+        ],
+        "increased": [
+          201
+        ],
+        "hazard": [
+          203,
+          295
+        ],
+        "risk": [
+          205
+        ],
+        "documented": [
+          206
+        ],
+        "Ar": [
+          209,
+          282,
+          299
+        ],
+        "Riyadh": [
+          210,
+          283,
+          300
+        ],
+        "area": [
+          211,
+          232,
+          301
+        ],
+        "recent": [
+          213
+        ],
+        "times": [
+          214
+        ],
+        "attributed": [
+          217
+        ],
+        "adverse": [
+          219
+        ],
+        "human": [
+          220
+        ],
+        "activities": [
+          221
+        ],
+        "(localized": [
+          222
+        ],
+        "artificial": [
+          223
+        ],
+        "input)": [
+          225
+        ],
+        "expansion": [
+          228
+        ],
+        "urban": [
+          231
+        ],
+        "across": [
+          233
+        ],
+        "front": [
+          236,
+          275
+        ],
+        "scarp.": [
+          239
+        ],
+        "•": [
+          240,
+          254,
+          270,
+          281,
+          293
+        ],
+        "Subsidence": [
+          241
+        ],
+        "belts": [
+          242
+        ],
+        "related": [
+          243,
+          289,
+          302
+        ],
+        "Arabia": [
+          262
+        ],
+        "(Arab": [
+          263
+        ],
+        "anhydrites),": [
+          266
+        ],
+        "displayed": [
+          268
+        ],
+        "example.": [
+          269
+        ],
+        "Monoclinal": [
+          271
+        ],
+        "atop": [
+          273
+        ],
+        "city": [
+          284
+        ],
+        "lies": [
+          285
+        ],
+        "depression": [
+          288
+        ],
+        "dissolution.": [
+          292
+        ],
+        "Sinkhole": [
+          294
+        ],
+        "increase": [
+          296
+        ],
+        "anthropogenic": [
+          304
+        ],
+        "hydrological": [
+          305
+        ],
+        "impacts.": [
+          306
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2026-03-16T09:10:04.655348",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17785,11 +18457,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8705,
+      "fwci": 2.8706,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89068826,
+        "value": 0.8906924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18757,7 +19429,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-15T09:29:46.208133",
+      "updated_date": "2026-03-15T07:15:06.534987",
       "created_date": "2025-10-10T00:00:00"
     },
     {
