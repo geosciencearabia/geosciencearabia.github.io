@@ -2798,7 +2798,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "oa_url": "https://kclpure.kcl.ac.uk/ws/files/55370466/SINGLE_DOC_REVIEW_Stimpson_etal_TAG_verts_DRAFT_12_01_16.pdf",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -3532,11 +3532,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 31.9813,
+      "fwci": 31.9764,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99376016,
+        "value": 0.99375878,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3833,10 +3833,10 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+          "id": "pmh:oai:kclpure.kcl.ac.uk:publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
           "is_oa": true,
           "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-          "pdf_url": null,
+          "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/55370466/SINGLE_DOC_REVIEW_Stimpson_etal_TAG_verts_DRAFT_12_01_16.pdf",
           "source": {
             "id": "https://openalex.org/S4306400216",
             "display_name": "Research Portal (King's College London)",
@@ -3855,9 +3855,9 @@
           },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
           "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
           "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
@@ -4066,10 +4066,10 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "id": "pmh:oai:kclpure.kcl.ac.uk:publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
         "is_oa": true,
         "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-        "pdf_url": null,
+        "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/55370466/SINGLE_DOC_REVIEW_Stimpson_etal_TAG_verts_DRAFT_12_01_16.pdf",
         "source": {
           "id": "https://openalex.org/S4306400216",
           "display_name": "Research Portal (King's College London)",
@@ -4088,9 +4088,9 @@
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
         "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
         "raw_type": "info:eu-repo/semantics/publishedVersion"
       },
@@ -4123,10 +4123,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2399942965.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2399942965.grobid-xml"
+      },
       "referenced_works_count": 137,
       "referenced_works": [
         "https://openalex.org/W96887878",
@@ -4322,7 +4325,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-03-17T17:19:04.345684",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13514,11 +13517,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.1341,
+      "fwci": 2.1228,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86519203,
+        "value": 0.86491247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14610,7 +14613,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-03-17T17:19:04.345684",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18457,11 +18460,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8706,
+      "fwci": 2.8688,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.8906924,
+        "value": 0.89062204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

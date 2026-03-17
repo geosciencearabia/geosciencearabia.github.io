@@ -86,7 +86,7 @@
           "ror": "https://ror.org/02feahw73",
           "display_name": "Centre National de la Recherche Scientifique",
           "country_code": "FR",
-          "type": "funder",
+          "type": "government",
           "lineage": [
             "https://openalex.org/I1294671590"
           ]
@@ -382,7 +382,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002338,
+        "value": 0.0002337,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -416,7 +416,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001277,
+        "value": 0.0001276,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -773,7 +773,7 @@
     "parsed_longest_name": null,
     "block_key": null,
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-03-15T12:21:24",
+    "updated_date": "2026-03-16T12:21:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -23470,11 +23470,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 3.2297,
+      "fwci": 3.2272,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90019147,
+        "value": 0.90011416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24139,7 +24139,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-03-17T17:19:04.345684",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35410,39 +35410,26 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:americanae.aecid.es:3015614",
+        "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
         "is_oa": true,
         "landing_page_url": "http://hdl.handle.net/2133/1279",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306400786",
-          "display_name": "Americanae (AECID Library)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
+        "pdf_url": "http://hdl.handle.net/2133/1279",
+        "source": null,
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
         "raw_source_name": "reponame:RepHipUNR (UNR)",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "info:ar-repo/semantics/articulo"
       },
       "type": "article",
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
-        "oa_status": "green",
+        "oa_status": "gold",
         "oa_url": "http://hdl.handle.net/2133/1279",
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": null
       },
       "authorships": [
         {
@@ -35511,11 +35498,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3661,
-      "has_fulltext": false,
+      "fwci": 0.374,
+      "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.67735913,
+        "value": 0.68414068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35833,31 +35820,18 @@
       "locations_count": 2,
       "locations": [
         {
-          "id": "pmh:oai:americanae.aecid.es:3015614",
+          "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
           "is_oa": true,
           "landing_page_url": "http://hdl.handle.net/2133/1279",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400786",
-            "display_name": "Americanae (AECID Library)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
+          "pdf_url": "http://hdl.handle.net/2133/1279",
+          "source": null,
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
           "raw_source_name": "reponame:RepHipUNR (UNR)",
-          "raw_type": "info:eu-repo/semantics/article"
+          "raw_type": "info:ar-repo/semantics/articulo"
         },
         {
           "id": "mag:2110195977",
@@ -35875,31 +35849,18 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:americanae.aecid.es:3015614",
+        "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
         "is_oa": true,
         "landing_page_url": "http://hdl.handle.net/2133/1279",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306400786",
-          "display_name": "Americanae (AECID Library)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
+        "pdf_url": "http://hdl.handle.net/2133/1279",
+        "source": null,
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
         "raw_source_name": "reponame:RepHipUNR (UNR)",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "info:ar-repo/semantics/articulo"
       },
       "sustainable_development_goals": [
         {
@@ -35911,10 +35872,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
+        "pdf": true,
         "grobid_xml": false
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2110195977.pdf"
+      },
       "referenced_works_count": 10,
       "referenced_works": [
         "https://openalex.org/W2000921130",
@@ -35956,62 +35919,59 @@
         ],
         "un": [
           1,
-          39,
-          93,
-          122,
-          156
+          37,
+          88,
+          115,
+          147
         ],
         "nuevo": [
           2,
-          40
+          38
         ],
         "género": [
-          3,
-          41
+          3
         ],
         "de": [
           4,
           7,
-          17,
-          20,
-          23,
-          38,
-          59,
-          66,
-          73,
-          95,
-          99,
-          128,
-          136,
-          168,
-          180
+          16,
+          19,
+          22,
+          36,
+          56,
+          62,
+          69,
+          90,
+          94,
+          121,
+          129,
+          159,
+          170
         ],
         "amonites": [
           5,
-          21,
-          169
+          20,
+          160
         ],
         "tithonianos": [
           6,
-          22
+          21
         ],
         "la": [
           8,
-          18,
-          24,
-          36,
-          60,
-          74,
-          96,
-          100,
-          109,
-          113,
-          117,
-          132,
-          137,
-          143,
-          146,
-          164
+          17,
+          23,
+          34,
+          70,
+          91,
+          95,
+          103,
+          107,
+          111,
+          125,
+          135,
+          138,
+          155
         ],
         "famlia": [
           9
@@ -36022,354 +35982,339 @@
         "(Jurásico": [
           11
         ],
-        "Tardío,": [
+        "Tardío,&#13;\\nAmmonoidea:": [
           12
         ],
-        "Ammonoidea:": [
+        "Haploceratoidea).": [
           13
         ],
-        "Haploceratoidea).": [
+        "Extensos": [
           14
         ],
-        "Extensos": [
+        "muestreos": [
           15
         ],
-        "muestreos": [
-          16
-        ],
         "fauna": [
-          19
+          18
         ],
-        "Cuenca": [
-          25
-        ],
-        "Neuquén-Mendoza": [
-          26
+        "Cuenca&#13;\\nNeuquén-Mendoza": [
+          24
         ],
         "realizados": [
-          27
+          25
         ],
         "en": [
-          28,
-          34,
-          83,
-          88,
-          92,
-          108,
-          131,
-          171
-        ],
-        "los": [
-          29
-        ],
-        "últimos": [
-          30
-        ],
-        "años": [
-          31
-        ],
-        "han": [
-          32
-        ],
-        "puesto": [
-          33
-        ],
-        "evidencia": [
-          35
-        ],
-        "ocurrencia": [
-          37
-        ],
-        "descripto": [
-          42
-        ],
-        "como": [
-          43,
-          52
-        ],
-        "Pasottia": [
-          44,
-          48,
-          103
-        ],
-        "n.": [
-          45,
-          50,
+          26,
+          32,
           78,
-          104
-        ],
-        "gen.,": [
-          46
-        ],
-        "con": [
-          47,
-          125
-        ],
-        "andina": [
-          49,
-          77
-        ],
-        "sp.": [
-          51,
-          79
-        ],
-        "su": [
-          53,
-          84
-        ],
-        "especie": [
-          54
-        ],
-        "tipo.": [
-          55
-        ],
-        "El": [
-          56
-        ],
-        "holotipo": [
-          57
-        ],
-        "proviene": [
-          58
-        ],
-        "Zona": [
-          61,
-          101,
-          182
-        ],
-        "Zitteli": [
-          62
-        ],
-        "del": [
-          63,
-          70,
-          134,
-          140,
-          166,
-          184
-        ],
-        "Tithoniano": [
-          64
-        ],
-        "Medio": [
-          65
-        ],
-        "La": [
-          67
-        ],
-        "Amarga,": [
-          68
-        ],
-        "localidad": [
-          69,
-          85
-        ],
-        "extremo": [
-          71
-        ],
-        "sur": [
-          72
-        ],
-        "cuenca.": [
-          75
-        ],
-        "P.": [
-          76
-        ],
-        "ha": [
-          80
-        ],
-        "sido": [
-          81
-        ],
-        "registrada": [
-          82
-        ],
-        "tipo": [
-          86,
-          174
-        ],
-        "y": [
+          83,
           87,
-          142,
-          150,
-          159
-        ],
-        "Cerro": [
-          89
-        ],
-        "Lotena,": [
-          90
-        ],
-        "confinada": [
-          91
-        ],
-        "horizonte": [
-          94,
-          173
-        ],
-        "parte": [
-          97
-        ],
-        "media": [
-          98
-        ],
-        "Zitteli.": [
-          102
-        ],
-        "gen.": [
-          105
-        ],
-        "es": [
-          106,
-          148,
-          179
-        ],
-        "incluído": [
-          107
-        ],
-        "subfamilia": [
-          110
-        ],
-        "Taramelliceratinae": [
-          111
-        ],
-        "sobre": [
-          112
-        ],
-        "base": [
-          114,
-          165
-        ],
-        "de:": [
-          115
-        ],
-        "(1)": [
-          116
-        ],
-        "característica": [
-          118
-        ],
-        "microconcha": [
-          119
-        ],
-        "que": [
-          120,
-          177
-        ],
-        "posee": [
-          121
-        ],
-        "marcado": [
-          123
-        ],
-        "surco": [
-          124
-        ],
-        "una": [
-          126
-        ],
-        "fila": [
-          127
-        ],
-        "estructuras": [
-          129
-        ],
-        "linguiformes": [
-          130
-        ],
-        "mitad": [
-          133
-        ],
-        "flanco": [
-          135
-        ],
-        "última": [
-          138
-        ],
-        "vuelta": [
-          139
-        ],
-        "fragmócono": [
-          141
-        ],
-        "cámara": [
-          144
-        ],
-        "habitacional,": [
-          145
-        ],
-        "cual": [
-          147
-        ],
-        "geniculada,": [
-          149
-        ],
-        "(2)": [
-          151
-        ],
-        "ambos": [
-          152
-        ],
-        "dimorfos": [
-          153
-        ],
-        "sexuales": [
-          154
-        ],
-        "poseen": [
-          155
-        ],
-        "vientre": [
-          157
-        ],
-        "estrecho": [
-          158
-        ],
-        "redondeado,": [
-          160
-        ],
-        "sin": [
-          161
-        ],
-        "quilla.": [
+          102,
+          124,
           162
         ],
-        "Sobre": [
-          163
+        "los": [
+          27
         ],
-        "conjunto": [
+        "últimos": [
+          28
+        ],
+        "años": [
+          29
+        ],
+        "han": [
+          30
+        ],
+        "puesto": [
+          31
+        ],
+        "evidencia": [
+          33
+        ],
+        "ocurrencia": [
+          35
+        ],
+        "género&#13;\\ndescripto": [
+          39
+        ],
+        "como": [
+          40,
+          49
+        ],
+        "Pasottia": [
+          41,
+          45,
+          97
+        ],
+        "n.": [
+          42,
+          47,
+          74,
+          98
+        ],
+        "gen.,": [
+          43
+        ],
+        "con": [
+          44,
+          118
+        ],
+        "andina": [
+          46,
+          73
+        ],
+        "sp.": [
+          48,
+          75
+        ],
+        "su": [
+          50,
+          79
+        ],
+        "especie": [
+          51
+        ],
+        "tipo.": [
+          52
+        ],
+        "El": [
+          53
+        ],
+        "holotipo": [
+          54
+        ],
+        "proviene": [
+          55
+        ],
+        "la&#13;\\nZona": [
+          57
+        ],
+        "Zitteli": [
+          58
+        ],
+        "del": [
+          59,
+          66,
+          127,
+          132,
+          157,
+          174
+        ],
+        "Tithoniano": [
+          60
+        ],
+        "Medio": [
+          61
+        ],
+        "La": [
+          63
+        ],
+        "Amarga,": [
+          64
+        ],
+        "localidad": [
+          65,
+          80
+        ],
+        "extremo": [
+          67
+        ],
+        "sur": [
+          68
+        ],
+        "cuenca.": [
+          71
+        ],
+        "P.": [
+          72
+        ],
+        "ha&#13;\\nsido": [
+          76
+        ],
+        "registrada": [
+          77
+        ],
+        "tipo": [
+          81,
+          164
+        ],
+        "y": [
+          82,
+          134,
+          142,
+          150
+        ],
+        "Cerro": [
+          84
+        ],
+        "Lotena,": [
+          85
+        ],
+        "confinada": [
+          86
+        ],
+        "horizonte": [
+          89
+        ],
+        "parte": [
+          92
+        ],
+        "media": [
+          93
+        ],
+        "Zona&#13;\\nZitteli.": [
+          96
+        ],
+        "gen.": [
+          99
+        ],
+        "es": [
+          100,
+          140,
+          169
+        ],
+        "incluído": [
+          101
+        ],
+        "subfamilia": [
+          104
+        ],
+        "Taramelliceratinae": [
+          105
+        ],
+        "sobre": [
+          106
+        ],
+        "base": [
+          108,
+          156
+        ],
+        "de:": [
+          109
+        ],
+        "(1)": [
+          110
+        ],
+        "característica&#13;\\nmicroconcha": [
+          112
+        ],
+        "que": [
+          113,
           167
         ],
-        "asociados": [
-          170
+        "posee": [
+          114
         ],
-        "el": [
-          172
+        "marcado": [
+          116
+        ],
+        "surco": [
+          117
+        ],
+        "una": [
+          119
+        ],
+        "fila": [
+          120
+        ],
+        "estructuras": [
+          122
+        ],
+        "linguiformes": [
+          123
+        ],
+        "mitad": [
+          126
+        ],
+        "flanco": [
+          128
+        ],
+        "la&#13;\\núltima": [
+          130
+        ],
+        "vuelta": [
+          131
+        ],
+        "fragmócono": [
+          133
+        ],
+        "cámara": [
+          136
+        ],
+        "habitacional,": [
+          137
+        ],
+        "cual": [
+          139
+        ],
+        "geniculada,": [
+          141
+        ],
+        "(2)": [
+          143
+        ],
+        "ambos": [
+          144
+        ],
+        "dimorfos": [
+          145
+        ],
+        "sexuales&#13;\\nposeen": [
+          146
+        ],
+        "vientre": [
+          148
+        ],
+        "estrecho": [
+          149
+        ],
+        "redondeado,": [
+          151
+        ],
+        "sin": [
+          152
+        ],
+        "quilla.": [
+          153
+        ],
+        "Sobre": [
+          154
+        ],
+        "conjunto": [
+          158
+        ],
+        "asociados": [
+          161
+        ],
+        "el&#13;\\nhorizonte": [
+          163
         ],
         "se": [
-          175
+          165
         ],
         "concluye": [
-          176
+          166
         ],
         "éste": [
-          178
+          168
         ],
         "edad": [
-          181
+          171
+        ],
+        "Zona": [
+          172
         ],
         "Semiforme": [
-          183
+          173
         ],
         "estándar": [
-          185
+          175
         ],
         "primario": [
-          186
+          176
         ],
         "interenacional.": [
-          187
+          177
         ]
       },
       "counts_by_year": [
@@ -36386,7 +36331,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-03-17T17:19:04.345684",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54390,10 +54335,10 @@
       },
       "language": "fr",
       "primary_location": {
-        "id": "pmh:oai:unige.ch:aou:unige:89888",
+        "id": "pmh:oai:unige.ch:unige:89888",
         "is_oa": true,
         "landing_page_url": "https://archive-ouverte.unige.ch/unige:89888",
-        "pdf_url": null,
+        "pdf_url": "https://archive-ouverte.unige.ch/unige:89888",
         "source": {
           "id": "https://openalex.org/S4306402259",
           "display_name": "Archive ouverte UNIGE (University of Geneva)",
@@ -54412,11 +54357,11 @@
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
         "raw_source_name": "ISSN: 0567-655X",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "Text"
       },
       "type": "article",
       "indexed_in": [],
@@ -54469,7 +54414,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24182495,
+        "value": 0.24885233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54563,10 +54508,10 @@
       "locations_count": 1,
       "locations": [
         {
-          "id": "pmh:oai:unige.ch:aou:unige:89888",
+          "id": "pmh:oai:unige.ch:unige:89888",
           "is_oa": true,
           "landing_page_url": "https://archive-ouverte.unige.ch/unige:89888",
-          "pdf_url": null,
+          "pdf_url": "https://archive-ouverte.unige.ch/unige:89888",
           "source": {
             "id": "https://openalex.org/S4306402259",
             "display_name": "Archive ouverte UNIGE (University of Geneva)",
@@ -54585,18 +54530,18 @@
           },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
           "raw_source_name": "ISSN: 0567-655X",
-          "raw_type": "info:eu-repo/semantics/article"
+          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:unige.ch:aou:unige:89888",
+        "id": "pmh:oai:unige.ch:unige:89888",
         "is_oa": true,
         "landing_page_url": "https://archive-ouverte.unige.ch/unige:89888",
-        "pdf_url": null,
+        "pdf_url": "https://archive-ouverte.unige.ch/unige:89888",
         "source": {
           "id": "https://openalex.org/S4306402259",
           "display_name": "Archive ouverte UNIGE (University of Geneva)",
@@ -54615,11 +54560,11 @@
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
         "raw_source_name": "ISSN: 0567-655X",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "Text"
       },
       "sustainable_development_goals": [
         {
@@ -54631,10 +54576,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
+        "pdf": true,
         "grobid_xml": false
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2598843043.pdf"
+      },
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [],
@@ -54818,7 +54765,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-03-17T17:19:04.345684",
       "created_date": "2025-10-10T00:00:00"
     },
     {
