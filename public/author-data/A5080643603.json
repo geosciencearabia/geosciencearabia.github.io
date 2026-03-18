@@ -978,8 +978,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -1662,8 +1662,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -2124,11 +2124,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5435,
+      "fwci": 3.543,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93175606,
+        "value": 0.93174586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2520,8 +2520,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -2616,516 +2616,7 @@
         "https://openalex.org/W2073340904",
         "https://openalex.org/W2969957582"
       ],
-      "abstract_inverted_index": {
-        "42": [
-          216
-        ],
-        "150": [
-          58
-        ],
-        "This": [
-          0
-        ],
-        "study": [
-          1,
-          39
-        ],
-        "develops": [
-          2
-        ],
-        "a": [
-          3,
-          55,
-          153,
-          158
-        ],
-        "new": [
-          4
-        ],
-        "artificial": [
-          5
-        ],
-        "neural": [
-          6
-        ],
-        "network": [
-          7
-        ],
-        "(ANN)": [
-          8
-        ],
-        "model": [
-          9,
-          96,
-          151
-        ],
-        "for": [
-          10,
-          54,
-          106,
-          135,
-          198,
-          207
-        ],
-        "predicting": [
-          11
-        ],
-        "the": [
-          12,
-          38,
-          94,
-          107,
-          130,
-          143,
-          173,
-          186,
-          212
-        ],
-        "total": [
-          13,
-          56
-        ],
-        "organic": [
-          14
-        ],
-        "carbon": [
-          15
-        ],
-        "(TOC)": [
-          16
-        ],
-        "of": [
-          17,
-          57,
-          132,
-          161
-        ],
-        "an": [
-          18
-        ],
-        "organic-rich": [
-          19
-        ],
-        "carbonate": [
-          20
-        ],
-        "mudstone": [
-          21
-        ],
-        "formation": [
-          22
-        ],
-        "using": [
-          23
-        ],
-        "conventional": [
-          24,
-          41
-        ],
-        "well": [
-          25,
-          42,
-          66,
-          122
-        ],
-        "log": [
-          26,
-          104
-        ],
-        "data": [
-          27,
-          35,
-          111,
-          133
-        ],
-        "and": [
-          28,
-          48,
-          77,
-          85,
-          92,
-          99,
-          121,
-          138,
-          145,
-          172,
-          195,
-          210
-        ],
-        "X-ray": [
-          29
-        ],
-        "fluorescence": [
-          30
-        ],
-        "spectroscopy": [
-          31
-        ],
-        "(XRF)": [
-          32
-        ],
-        "analysis.": [
-          33
-        ],
-        "The": [
-          34,
-          148,
-          163,
-          201
-        ],
-        "used": [
-          36,
-          89,
-          134
-        ],
-        "in": [
-          37,
-          52,
-          156
-        ],
-        "include": [
-          40
-        ],
-        "logs,": [
-          43
-        ],
-        "redox-sensitive": [
-          44
-        ],
-        "elements": [
-          45
-        ],
-        "from": [
-          46,
-          62,
-          185
-        ],
-        "XRF,": [
-          47
-        ],
-        "TOC": [
-          49,
-          103,
-          110,
-          144,
-          199,
-          209
-        ],
-        "values": [
-          50
-        ],
-        "measured": [
-          51
-        ],
-        "lab": [
-          53
-        ],
-        "core": [
-          59
-        ],
-        "samples": [
-          60
-        ],
-        "obtained": [
-          61
-        ],
-        "five": [
-          63,
-          108
-        ],
-        "wells.": [
-          64,
-          109
-        ],
-        "Selected": [
-          65
-        ],
-        "logs": [
-          67
-        ],
-        "including": [
-          68,
-          80
-        ],
-        "gamma": [
-          69
-        ],
-        "ray": [
-          70
-        ],
-        "(GR),": [
-          71
-        ],
-        "bulk": [
-          72
-        ],
-        "density": [
-          73
-        ],
-        "(RHOB),": [
-          74
-        ],
-        "uranium": [
-          75
-        ],
-        "(URAN),": [
-          76
-        ],
-        "XRF-derived": [
-          78
-        ],
-        "elements,": [
-          79
-        ],
-        "molybdenum": [
-          81
-        ],
-        "(Mo),": [
-          82
-        ],
-        "copper": [
-          83
-        ],
-        "(Cu),": [
-          84
-        ],
-        "nickel": [
-          86
-        ],
-        "(Ni),": [
-          87
-        ],
-        "were": [
-          88,
-          112,
-          126,
-          183
-        ],
-        "to": [
-          90,
-          97,
-          128,
-          139
-        ],
-        "train": [
-          91
-        ],
-        "develop": [
-          93
-        ],
-        "ANN": [
-          95,
-          150,
-          189
-        ],
-        "predict": [
-          98
-        ],
-        "generate": [
-          100
-        ],
-        "continuous": [
-          101,
-          159
-        ],
-        "high-resolution": [
-          102
-        ],
-        "profiles": [
-          105
-        ],
-        "classified": [
-          113
-        ],
-        "into": [
-          114
-        ],
-        "two": [
-          115
-        ],
-        "groups": [
-          116
-        ],
-        "based": [
-          117
-        ],
-        "on": [
-          118
-        ],
-        "geological": [
-          119
-        ],
-        "descriptions": [
-          120
-        ],
-        "locations.": [
-          123
-        ],
-        "Statistical": [
-          124
-        ],
-        "analyses": [
-          125
-        ],
-        "performed": [
-          127
-        ],
-        "establish": [
-          129
-        ],
-        "range": [
-          131
-        ],
-        "each": [
-          136
-        ],
-        "group": [
-          137
-        ],
-        "evaluate": [
-          140
-        ],
-        "relationships": [
-          141
-        ],
-        "among": [
-          142
-        ],
-        "input": [
-          146
-        ],
-        "parameters.": [
-          147
-        ],
-        "developed": [
-          149,
-          202
-        ],
-        "showed": [
-          152
-        ],
-        "high": [
-          154
-        ],
-        "performance": [
-          155
-        ],
-        "providing": [
-          157
-        ],
-        "profile": [
-          160
-        ],
-        "TOC.": [
-          162
-        ],
-        "difference": [
-          164
-        ],
-        "between": [
-          165
-        ],
-        "absolute": [
-          166
-        ],
-        "average": [
-          167
-        ],
-        "is": [
-          168,
-          177
-        ],
-        "less": [
-          169
-        ],
-        "than": [
-          170,
-          179
-        ],
-        "0.50": [
-          171
-        ],
-        "correlation": [
-          174
-        ],
-        "coefficient": [
-          175
-        ],
-        "(R-value)": [
-          176
-        ],
-        "greater": [
-          178
-        ],
-        "0.70.": [
-          180
-        ],
-        "Empirical": [
-          181
-        ],
-        "correlations": [
-          182,
-          203
-        ],
-        "extracted": [
-          184
-        ],
-        "best": [
-          187
-        ],
-        "performing": [
-          188
-        ],
-        "model,": [
-          190
-        ],
-        "which": [
-          191
-        ],
-        "will": [
-          192
-        ],
-        "allow": [
-          193
-        ],
-        "easy": [
-          194
-        ],
-        "quick": [
-          196
-        ],
-        "estimation": [
-          197,
-          213
-        ],
-        "values.": [
-          200
-        ],
-        "outperform": [
-          204
-        ],
-        "available": [
-          205
-        ],
-        "methods": [
-          206
-        ],
-        "determining": [
-          208
-        ],
-        "reduce": [
-          211
-        ],
-        "error": [
-          214
-        ],
-        "by": [
-          215
-        ],
-        "%.": [
-          217
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -3148,7 +2639,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-03-17T09:09:15.849793",
+      "updated_date": "2026-03-18T14:38:29.013473",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3750,8 +3241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -4381,8 +3872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -5098,8 +4589,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -6428,8 +5919,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -7201,8 +6692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -8403,8 +7894,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9106,8 +8597,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10613,8 +10104,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -11101,8 +10592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -11768,8 +11259,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -12799,8 +12290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -13601,8 +13092,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14060,8 +13551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -15138,8 +14629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15613,8 +15104,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16124,11 +15615,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 1.1215,
+      "fwci": 1.1213,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83776734,
+        "value": 0.8376936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16569,8 +16060,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -16625,7 +16116,555 @@
         "https://openalex.org/W4401385795",
         "https://openalex.org/W2981462862"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          53
+        ],
+        "10": [
+          55,
+          174,
+          241,
+          255
+        ],
+        "50": [
+          45
+        ],
+        "An": [
+          0
+        ],
+        "optimization": [
+          1
+        ],
+        "experiment": [
+          2
+        ],
+        "with": [
+          3,
+          78,
+          149,
+          157
+        ],
+        "different": [
+          4,
+          29,
+          211
+        ],
+        "acid": [
+          5,
+          15,
+          42,
+          63,
+          86,
+          93,
+          113,
+          123,
+          147,
+          168,
+          195,
+          204,
+          221
+        ],
+        "concentrations": [
+          6,
+          40,
+          121,
+          148,
+          218
+        ],
+        "was": [
+          7
+        ],
+        "carried": [
+          8
+        ],
+        "out": [
+          9
+        ],
+        "to": [
+          10,
+          16,
+          46,
+          54,
+          215
+        ],
+        "assess": [
+          11
+        ],
+        "the": [
+          12,
+          21,
+          85,
+          91,
+          97,
+          100,
+          104,
+          119,
+          127,
+          132,
+          136,
+          143,
+          189,
+          192,
+          200
+        ],
+        "use": [
+          13
+        ],
+        "of": [
+          14,
+          23,
+          32,
+          41,
+          76,
+          103,
+          122,
+          126,
+          166,
+          173,
+          179,
+          194,
+          202,
+          219,
+          234,
+          240,
+          254
+        ],
+        "minimum": [
+          17
+        ],
+        "sustainable": [
+          18
+        ],
+        "limits": [
+          19
+        ],
+        "for": [
+          20,
+          59,
+          70,
+          176,
+          236,
+          251
+        ],
+        "extraction": [
+          22
+        ],
+        "microfossils": [
+          24
+        ],
+        "from": [
+          25,
+          44,
+          52
+        ],
+        "indurated": [
+          26
+        ],
+        "limestones.": [
+          27
+        ],
+        "Two": [
+          28
+        ],
+        "limestone": [
+          30,
+          213
+        ],
+        "formations": [
+          31
+        ],
+        "Jurassic": [
+          33
+        ],
+        "and": [
+          34,
+          48,
+          169,
+          224,
+          226
+        ],
+        "Miocene": [
+          35
+        ],
+        "ages": [
+          36
+        ],
+        "were": [
+          37,
+          57
+        ],
+        "tested.": [
+          38
+        ],
+        "Different": [
+          39
+        ],
+        "ranging": [
+          43
+        ],
+        "100%": [
+          47
+        ],
+        "processing": [
+          49
+        ],
+        "times": [
+          50,
+          152
+        ],
+        "varying": [
+          51
+        ],
+        "h": [
+          56,
+          175
+        ],
+        "tested": [
+          58
+        ],
+        "optimal": [
+          60,
+          177,
+          246
+        ],
+        "recoveries.": [
+          61
+        ],
+        "The": [
+          62,
+          73
+        ],
+        "residue": [
+          64,
+          77
+        ],
+        "recoveries": [
+          65,
+          155,
+          244
+        ],
+        "show": [
+          66
+        ],
+        "a": [
+          67,
+          163,
+          170,
+          237,
+          252
+        ],
+        "similar": [
+          68
+        ],
+        "trend": [
+          69
+        ],
+        "both": [
+          71
+        ],
+        "formations.": [
+          72
+        ],
+        "weight": [
+          74,
+          101
+        ],
+        "percentage": [
+          75,
+          102
+        ],
+        "particle": [
+          79
+        ],
+        "size": [
+          80,
+          106
+        ],
+        ">1": [
+          81
+        ],
+        "mm": [
+          82,
+          110
+        ],
+        "decreased": [
+          83
+        ],
+        "as": [
+          84,
+          112
+        ],
+        "concentration": [
+          87,
+          94,
+          114,
+          165,
+          233,
+          250
+        ],
+        "increased,": [
+          88
+        ],
+        "especially": [
+          89
+        ],
+        "in": [
+          90,
+          142,
+          182
+        ],
+        "50-80%": [
+          92
+        ],
+        "range.": [
+          95
+        ],
+        "On": [
+          96
+        ],
+        "other": [
+          98
+        ],
+        "hand,": [
+          99
+        ],
+        "smallest": [
+          105
+        ],
+        "particles": [
+          107,
+          130
+        ],
+        ">": [
+          108
+        ],
+        "0.063": [
+          109
+        ],
+        "increased": [
+          111
+        ],
+        "increased.": [
+          115
+        ],
+        "This": [
+          116
+        ],
+        "means": [
+          117
+        ],
+        "that": [
+          118
+        ],
+        "higher": [
+          120,
+          146
+        ],
+        "dissolve": [
+          124
+        ],
+        "more": [
+          125
+        ],
+        "unnecessary": [
+          128
+        ],
+        "large": [
+          129
+        ],
+        "while": [
+          131,
+          247
+        ],
+        "foraminifera,": [
+          133
+        ],
+        "which": [
+          134
+        ],
+        "comprise": [
+          135
+        ],
+        "sand": [
+          137
+        ],
+        "fraction": [
+          138
+        ],
+        "size,": [
+          139
+        ],
+        "are": [
+          140,
+          222,
+          245
+        ],
+        "left": [
+          141
+        ],
+        "residue.": [
+          144
+        ],
+        "Although": [
+          145
+        ],
+        "longer": [
+          150
+        ],
+        "reaction": [
+          151,
+          159,
+          171
+        ],
+        "yielded": [
+          153
+        ],
+        "better": [
+          154
+        ],
+        "than": [
+          156
+        ],
+        "less": [
+          158
+        ],
+        "time,": [
+          160
+        ],
+        "we": [
+          161
+        ],
+        "recommended": [
+          162,
+          190
+        ],
+        "60%": [
+          164,
+          235
+        ],
+        "acetic": [
+          167,
+          220
+        ],
+        "time": [
+          172,
+          239,
+          253
+        ],
+        "recovery": [
+          178,
+          201
+        ],
+        "micropaleontological": [
+          180
+        ],
+        "samples": [
+          181,
+          214
+        ],
+        "Saudi": [
+          183
+        ],
+        "Arabian": [
+          184
+        ],
+        "carbonate": [
+          185
+        ],
+        "rocks.": [
+          186
+        ],
+        "By": [
+          187
+        ],
+        "lowering": [
+          188
+        ],
+        "concentration,": [
+          191
+        ],
+        "consumption": [
+          193
+        ],
+        "is": [
+          196,
+          207,
+          228
+        ],
+        "reduced": [
+          197
+        ],
+        "without": [
+          198
+        ],
+        "compromising": [
+          199
+        ],
+        "microfossils.•Acetic": [
+          203
+        ],
+        "leaching": [
+          205
+        ],
+        "method": [
+          206
+        ],
+        "applied": [
+          208
+        ],
+        "on": [
+          209,
+          230
+        ],
+        "two": [
+          210
+        ],
+        "age": [
+          212
+        ],
+        "extract": [
+          216
+        ],
+        "foraminifera.•Different": [
+          217
+        ],
+        "tried": [
+          223
+        ],
+        "tested,": [
+          225
+        ],
+        "consensus": [
+          227
+        ],
+        "made": [
+          229
+        ],
+        "an": [
+          231
+        ],
+        "optimum": [
+          232
+        ],
+        "submersion": [
+          238
+        ],
+        "h.•The": [
+          242
+        ],
+        "sample": [
+          243
+        ],
+        "using": [
+          248
+        ],
+        "this": [
+          249
+        ],
+        "h.": [
+          256
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2024,
@@ -16636,7 +16675,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-17T09:09:15.849793",
+      "updated_date": "2026-03-18T14:38:29.013473",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16967,8 +17006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -17566,8 +17605,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17888,8 +17927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18172,8 +18211,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18668,8 +18707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -19589,8 +19628,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20010,8 +20049,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20361,8 +20400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21019,8 +21058,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21456,8 +21495,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22482,8 +22521,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -23044,8 +23083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -23607,8 +23646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -24956,8 +24995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26046,8 +26085,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
