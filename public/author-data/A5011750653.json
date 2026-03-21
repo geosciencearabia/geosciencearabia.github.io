@@ -929,11 +929,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 24.5475,
+      "fwci": 24.6113,
       "has_fulltext": false,
-      "cited_by_count": 464,
+      "cited_by_count": 465,
       "citation_normalized_percentile": {
-        "value": 0.99862275,
+        "value": 0.99862649,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1257,9 +1257,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -1353,7 +1353,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -1400,7 +1400,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1644,11 +1644,11 @@
         "value_usd": 2100
       },
       "apc_paid": null,
-      "fwci": 11.6501,
+      "fwci": 11.6691,
       "has_fulltext": false,
-      "cited_by_count": 450,
+      "cited_by_count": 451,
       "citation_normalized_percentile": {
-        "value": 0.99171308,
+        "value": 0.99172629,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2005,9 +2005,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -2797,7 +2797,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -2856,7 +2856,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-11T14:59:36.786465",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3008,11 +3008,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 12.0614,
+      "fwci": 12.0607,
       "has_fulltext": false,
-      "cited_by_count": 416,
+      "cited_by_count": 417,
       "citation_normalized_percentile": {
-        "value": 0.99156555,
+        "value": 0.99156524,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3297,9 +3297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -3397,7 +3397,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -3456,7 +3456,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-03-15T09:29:46.208133",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5367,9 +5367,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -6989,11 +6989,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.7744,
+      "fwci": 15.7965,
       "has_fulltext": true,
       "cited_by_count": 189,
       "citation_normalized_percentile": {
-        "value": 0.99743437,
+        "value": 0.99743798,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7340,6 +7340,35 @@
           "raw_type": "Article"
         },
         {
+          "id": "pmh:oai:digitalcommons.usu.edu:geology_facpub-1502",
+          "is_oa": true,
+          "landing_page_url": "https://digitalcommons.usu.edu/geology_facpub/503",
+          "pdf_url": "https://digitalcommons.usu.edu/geology_facpub/503",
+          "source": {
+            "id": "https://openalex.org/S4377196327",
+            "display_name": "Digital Commons - USU (Utah State University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I121980950",
+            "host_organization_name": "Utah State University",
+            "host_organization_lineage": [
+              "https://openalex.org/I121980950"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geosciences Faculty Publications",
+          "raw_type": "text"
+        },
+        {
           "id": "pmh:oai:HAL:hal-02072416v1",
           "is_oa": true,
           "landing_page_url": "https://hal.umontpellier.fr/hal-02072416",
@@ -7423,13 +7452,13 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal Article"
+          "raw_source_name": null,
+          "raw_type": "publishedVersion"
         },
         {
           "id": "pmh:oai:europepmc.org:5391829",
           "is_oa": true,
-          "landing_page_url": "http://europepmc.org/pmc/articles/PMC6392113",
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6392113",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400806",
@@ -7447,41 +7476,12 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:6392113",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6392113",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geochem Geophys Geosyst",
+          "raw_source_name": null,
           "raw_type": "Text"
         },
         {
@@ -7511,7 +7511,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Geochemistry Geophysics Geosystems 20 (2019), Nr. 1",
-          "raw_type": "status-type:publishedVersion"
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
         {
           "id": "doi:10.15488/5016",
@@ -7576,9 +7576,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -8572,7 +8572,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-18T14:38:29.013473",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9031,9 +9031,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10687,9 +10687,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "awards": [
@@ -12881,11 +12881,11 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 8.4132,
+      "fwci": 8.4248,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.98673508,
+        "value": 0.98675248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13317,7 +13317,7 @@
           "landing_page_url": "https://eprints.soton.ac.uk/426910/",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401020",
+            "id": "https://openalex.org/S4306401019",
             "display_name": "ePrints Soton (University of Southampton)",
             "issn_l": null,
             "issn": null,
@@ -13337,8 +13337,8 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "PeerReviewed"
+          "raw_source_name": "",
+          "raw_type": "Article"
         },
         {
           "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/201957",
@@ -13346,25 +13346,20 @@
           "landing_page_url": "http://hdl.handle.net/1885/201957",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S107629180",
-            "display_name": "Lithos",
-            "issn_l": "0024-4937",
-            "issn": [
-              "0024-4937",
-              "1872-6143"
-            ],
+            "id": "https://openalex.org/S4306402539",
+            "display_name": "ANU Open Research (Australian National University)",
+            "issn_l": null,
+            "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
+            "is_core": false,
+            "host_organization": "https://openalex.org/I118347636",
+            "host_organization_name": "Australian National University",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
+              "https://openalex.org/I118347636"
             ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
+            "host_organization_lineage_names": [],
+            "type": "repository"
           },
           "license": null,
           "license_id": null,
@@ -13435,9 +13430,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -13661,7 +13656,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14555,9 +14550,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -15850,9 +15845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -17592,9 +17587,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -19156,9 +19151,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -19709,11 +19704,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7252,
+      "fwci": 3.7135,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.93511739,
+        "value": 0.93477919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20087,13 +20082,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "pdf": true,
         "grobid_xml": true
@@ -20832,7 +20833,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-13T14:20:09.374765",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24865,11 +24866,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.1099,
+      "fwci": 9.8196,
       "has_fulltext": false,
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.97512269,
+        "value": 0.98267887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25253,14 +25254,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-21T08:13:44.787528",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25924,9 +25925,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -27266,9 +27267,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -27540,7 +27541,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "http://dro.dur.ac.uk/24604/",
+        "oa_url": "https://hal.science/hal-01553188",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -28205,11 +28206,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 5.3943,
+      "fwci": 5.4002,
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.96404238,
+        "value": 0.96414847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28472,35 +28473,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:dro.dur.ac.uk.OAI2:24604",
-          "is_oa": true,
-          "landing_page_url": "http://dro.dur.ac.uk/24604/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196258",
-            "display_name": "Durham Research Online (Durham University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I190082696",
-            "host_organization_name": "Durham University",
-            "host_organization_lineage": [
-              "https://openalex.org/I190082696"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "Chemical geology, 2017, Vol.451, pp.55-66 [Peer Reviewed Journal]",
-          "raw_type": "Article"
-        },
-        {
           "id": "pmh:oai:oceanrep.geomar.de:45502",
           "is_oa": false,
           "landing_page_url": null,
@@ -28617,6 +28589,35 @@
           "raw_type": "article"
         },
         {
+          "id": "pmh:oai:dro.dur.ac.uk.OAI2:24604",
+          "is_oa": true,
+          "landing_page_url": "http://dro.dur.ac.uk/24604/1/24604.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196258",
+            "display_name": "Durham Research Online (Durham University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I190082696",
+            "host_organization_name": "Durham University",
+            "host_organization_lineage": [
+              "https://openalex.org/I190082696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Chemical geology, 2017, Vol.451, pp.55-66 [Peer Reviewed Journal]",
+          "raw_type": "Article"
+        },
+        {
           "id": "pmh:oai:durham-repository.worktribe.com:1334258",
           "is_oa": true,
           "landing_page_url": "https://durham-repository.worktribe.com/output/1334258",
@@ -28676,39 +28677,39 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:dro.dur.ac.uk.OAI2:24604",
+        "id": "pmh:oai:HAL:hal-01553188v1",
         "is_oa": true,
-        "landing_page_url": "http://dro.dur.ac.uk/24604/",
+        "landing_page_url": "https://hal.science/hal-01553188",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4377196258",
-          "display_name": "Durham Research Online (Durham University)",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I190082696",
-          "host_organization_name": "Durham University",
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
-            "https://openalex.org/I190082696"
+            "https://openalex.org/I1294671590"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "Chemical geology, 2017, Vol.451, pp.55-66 [Peer Reviewed Journal]",
-        "raw_type": "Article"
+        "raw_source_name": "Chemical Geology, 2017, 451, pp.55-66. &#x27E8;10.1016/j.chemgeo.2017.01.007&#x27E9;",
+        "raw_type": "Journal articles"
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -28840,7 +28841,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29436,9 +29437,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -30106,9 +30107,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -31909,11 +31910,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 5.2399,
+      "fwci": 5.2481,
       "has_fulltext": true,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.96297185,
+        "value": 0.9630317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32356,8 +32357,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -32402,9 +32403,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -32536,7 +32537,375 @@
         "https://openalex.org/W1995123961",
         "https://openalex.org/W2394523421"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          42,
+          85
+        ],
+        "tectonic": [
+          1,
+          100
+        ],
+        "evolution": [
+          2
+        ],
+        "of": [
+          3,
+          18,
+          54,
+          58,
+          90,
+          138
+        ],
+        "Laxmi": [
+          4,
+          19,
+          75,
+          92,
+          113
+        ],
+        "basin,": [
+          5
+        ],
+        "presently": [
+          6
+        ],
+        "located": [
+          7
+        ],
+        "along": [
+          8
+        ],
+        "western": [
+          9
+        ],
+        "Indian": [
+          10,
+          60,
+          131,
+          151
+        ],
+        "passive": [
+          11
+        ],
+        "margin,": [
+          12
+        ],
+        "remains": [
+          13
+        ],
+        "debated.": [
+          14
+        ],
+        "Prevailing": [
+          15
+        ],
+        "geodynamic": [
+          16
+        ],
+        "models": [
+          17
+        ],
+        "basin": [
+          20,
+          76,
+          93,
+          114
+        ],
+        "include": [
+          21
+        ],
+        "two": [
+          22
+        ],
+        "mutually": [
+          23
+        ],
+        "competing": [
+          24
+        ],
+        "hypotheses,": [
+          25
+        ],
+        "culminating": [
+          26
+        ],
+        "in": [
+          27,
+          74,
+          111,
+          115,
+          128,
+          148
+        ],
+        "either": [
+          28
+        ],
+        "a": [
+          29,
+          51,
+          105,
+          122
+        ],
+        "hyper-stretched": [
+          30
+        ],
+        "continental": [
+          31
+        ],
+        "crust": [
+          32,
+          36,
+          73,
+          94
+        ],
+        "or": [
+          33
+        ],
+        "an": [
+          34,
+          38
+        ],
+        "oceanic": [
+          35
+        ],
+        "overlying": [
+          37
+        ],
+        "extinct": [
+          39
+        ],
+        "spreading": [
+          40
+        ],
+        "centre.": [
+          41
+        ],
+        "longstanding": [
+          43
+        ],
+        "conundrum": [
+          44
+        ],
+        "surrounding": [
+          45
+        ],
+        "its": [
+          46
+        ],
+        "precise": [
+          47
+        ],
+        "crustal": [
+          48
+        ],
+        "affinity": [
+          49
+        ],
+        "precludes": [
+          50
+        ],
+        "complete": [
+          52
+        ],
+        "understanding": [
+          53
+        ],
+        "the": [
+          55,
+          59,
+          71,
+          91,
+          112,
+          116,
+          129,
+          139,
+          145,
+          149
+        ],
+        "early": [
+          56
+        ],
+        "opening": [
+          57
+        ],
+        "Ocean.": [
+          61,
+          132,
+          152
+        ],
+        "Here,": [
+          62
+        ],
+        "we": [
+          63
+        ],
+        "present": [
+          64
+        ],
+        "distinct": [
+          65
+        ],
+        "geochemical": [
+          66,
+          86
+        ],
+        "and": [
+          67,
+          87
+        ],
+        "geophysical": [
+          68
+        ],
+        "imprints": [
+          69
+        ],
+        "from": [
+          70
+        ],
+        "igneous": [
+          72
+        ],
+        "obtained": [
+          77
+        ],
+        "through": [
+          78
+        ],
+        "International": [
+          79
+        ],
+        "Ocean": [
+          80
+        ],
+        "Discovery": [
+          81
+        ],
+        "Program": [
+          82
+        ],
+        "Expedition": [
+          83
+        ],
+        "355.": [
+          84
+        ],
+        "isotopic": [
+          88
+        ],
+        "signatures": [
+          89
+        ],
+        "exhibit": [
+          95
+        ],
+        "uncanny": [
+          96
+        ],
+        "similarities": [
+          97
+        ],
+        "with": [
+          98
+        ],
+        "forearc": [
+          99
+        ],
+        "settings.": [
+          101
+        ],
+        "Our": [
+          102
+        ],
+        "observations": [
+          103
+        ],
+        "imply": [
+          104
+        ],
+        "relict": [
+          106
+        ],
+        "subduction": [
+          107,
+          147
+        ],
+        "initiation": [
+          108
+        ],
+        "event": [
+          109
+        ],
+        "occurred": [
+          110
+        ],
+        "Late": [
+          117
+        ],
+        "Cretaceous-Early": [
+          118
+        ],
+        "Cenozoic": [
+          119,
+          124
+        ],
+        "that": [
+          120
+        ],
+        "marks": [
+          121
+        ],
+        "significant": [
+          123
+        ],
+        "plate": [
+          125
+        ],
+        "reorganisation": [
+          126
+        ],
+        "record": [
+          127
+        ],
+        "northwest": [
+          130,
+          150
+        ],
+        "New": [
+          133
+        ],
+        "findings": [
+          134
+        ],
+        "therefore": [
+          135
+        ],
+        "warrant": [
+          136
+        ],
+        "re-evaluation": [
+          137
+        ],
+        "Gondwana": [
+          140
+        ],
+        "breakup": [
+          141
+        ],
+        "to": [
+          142
+        ],
+        "account": [
+          143
+        ],
+        "for": [
+          144
+        ],
+        "nascent": [
+          146
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -32571,7 +32940,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33563,9 +33932,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -34969,9 +35338,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -35750,9 +36119,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -37058,9 +37427,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -37765,9 +38134,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -42478,11 +42847,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 2.9636,
+      "fwci": 2.9715,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.91095561,
+        "value": 0.91120096,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -42835,18 +43204,16 @@
           "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400321",
-            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+            "id": "https://openalex.org/S4406922455",
+            "display_name": "Edinburgh Research Explorer",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I98677209",
-            "host_organization_name": "University of Edinburgh",
-            "host_organization_lineage": [
-              "https://openalex.org/I98677209"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -42892,18 +43259,16 @@
         "landing_page_url": "https://www.research.ed.ac.uk/en/publications/06408319-9cea-4383-b3d0-cb2f039eff6c",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400321",
-          "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+          "id": "https://openalex.org/S4406922455",
+          "display_name": "Edinburgh Research Explorer",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I98677209",
-          "host_organization_name": "University of Edinburgh",
-          "host_organization_lineage": [
-            "https://openalex.org/I98677209"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -42917,9 +43282,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [
@@ -43071,7 +43436,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43371,11 +43736,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 3.5189,
+      "fwci": 3.5287,
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.93275065,
+        "value": 0.932944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43811,7 +44176,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Frontiers in Earth Science 9 (2021)",
-          "raw_type": "status-type:publishedVersion"
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
         {
           "id": "doi:10.15488/14429",
@@ -43903,9 +44268,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -44511,7 +44876,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-12T08:34:05.389933",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46142,9 +46507,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -46949,9 +47314,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [
@@ -47734,9 +48099,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -49522,9 +49887,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -53142,9 +53507,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [
@@ -58589,9 +58954,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -59004,11 +59369,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 0.1863,
+      "fwci": 0.1868,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.49783795,
+        "value": 0.49916716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59325,8 +59690,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -59371,9 +59736,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -59640,7 +60005,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-18T14:38:29.013473",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60136,9 +60501,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -61439,9 +61804,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -62257,9 +62622,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [
@@ -63078,9 +63443,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -67785,9 +68150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -69045,9 +69410,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -69932,9 +70297,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -71518,9 +71883,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [
@@ -75968,9 +76333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -76810,9 +77175,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -79060,9 +79425,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [
@@ -79717,9 +80082,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -84056,9 +84421,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -92257,9 +92622,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -95252,9 +95617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -96611,9 +96976,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -97650,9 +98015,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -99930,9 +100295,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -100588,9 +100953,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -102250,9 +102615,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -103229,9 +103594,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -103605,9 +103970,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -104176,9 +104541,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -106231,9 +106596,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -106619,9 +106984,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -106910,9 +107275,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -107225,9 +107590,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -107780,9 +108145,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -108125,9 +108490,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -108490,9 +108855,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -108815,9 +109180,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -109308,9 +109673,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -110630,9 +110995,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -111352,9 +111717,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -113958,9 +114323,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -114424,9 +114789,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -115436,9 +115801,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -116525,9 +116890,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -119876,9 +120241,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -120819,9 +121184,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -122449,9 +122814,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -139466,9 +139831,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055299",
+        "id": "pmh:oai:zenodo.org:7055299",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055299",
+        "landing_page_url": "https://zenodo.org/record/7055299",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -139486,13 +139851,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -139501,7 +139866,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055299",
+        "oa_url": "https://zenodo.org/record/7055299",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -140080,8 +140445,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055299",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055299",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055299",
           "is_oa": true,
@@ -140113,9 +140507,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055299",
+        "id": "pmh:oai:zenodo.org:7055299",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055299",
+        "landing_page_url": "https://zenodo.org/record/7055299",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -140133,13 +140527,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -140379,7 +140773,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -149151,9 +149545,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7850142",
+        "id": "pmh:oai:zenodo.org:7850142",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850142",
+        "landing_page_url": "https://zenodo.org/record/7850142",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -149171,13 +149565,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -149186,7 +149580,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7850142",
+        "oa_url": "https://zenodo.org/record/7850142",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -149765,8 +150159,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7850142",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7850142",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7850142",
           "is_oa": true,
@@ -149798,9 +150221,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7850142",
+        "id": "pmh:oai:zenodo.org:7850142",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850142",
+        "landing_page_url": "https://zenodo.org/record/7850142",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -149818,13 +150241,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -150110,7 +150533,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -151859,9 +152282,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7020333",
+        "id": "pmh:oai:zenodo.org:7020333",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7020333",
+        "landing_page_url": "https://zenodo.org/record/7020333",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -151879,13 +152302,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -151894,7 +152317,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7020333",
+        "oa_url": "https://zenodo.org/record/7020333",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -152413,8 +152836,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7020333",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7020333",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7020333",
           "is_oa": true,
@@ -152446,9 +152898,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7020333",
+        "id": "pmh:oai:zenodo.org:7020333",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7020333",
+        "landing_page_url": "https://zenodo.org/record/7020333",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -152466,13 +152918,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -152688,7 +153140,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -154493,9 +154945,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7850143",
+        "id": "pmh:oai:zenodo.org:7850143",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850143",
+        "landing_page_url": "https://zenodo.org/record/7850143",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -154513,13 +154965,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -154528,7 +154980,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7850143",
+        "oa_url": "https://zenodo.org/record/7850143",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -155083,8 +155535,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7850143",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7850143",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7850143",
           "is_oa": true,
@@ -155116,9 +155597,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7850143",
+        "id": "pmh:oai:zenodo.org:7850143",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850143",
+        "landing_page_url": "https://zenodo.org/record/7850143",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -155136,13 +155617,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -155282,7 +155763,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -158150,9 +158631,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055215",
+        "id": "pmh:oai:zenodo.org:7055215",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055215",
+        "landing_page_url": "https://zenodo.org/record/7055215",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -158170,13 +158651,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -158185,7 +158666,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055215",
+        "oa_url": "https://zenodo.org/record/7055215",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -158711,8 +159192,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055215",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055215",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055215",
           "is_oa": true,
@@ -158744,9 +159254,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055215",
+        "id": "pmh:oai:zenodo.org:7055215",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055215",
+        "landing_page_url": "https://zenodo.org/record/7055215",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -158764,13 +159274,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -158833,7 +159343,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -160196,7 +160706,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "pmh:oai:figshare.com:article/14626400",
@@ -160226,6 +160736,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Dataset"
+        },
+        {
+          "id": "pmh:oai:zenodo.org:3939668",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/3939668",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
         },
         {
           "id": "doi:10.5281/zenodo.3939668",
@@ -160446,7 +160985,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-12T00:53:03.260389",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -163541,9 +164080,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055301",
+        "id": "pmh:oai:zenodo.org:7055301",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055301",
+        "landing_page_url": "https://zenodo.org/record/7055301",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -163561,13 +164100,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -163576,7 +164115,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055301",
+        "oa_url": "https://zenodo.org/record/7055301",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -164095,8 +164634,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055301",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055301",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055301",
           "is_oa": true,
@@ -164128,9 +164696,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055301",
+        "id": "pmh:oai:zenodo.org:7055301",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055301",
+        "landing_page_url": "https://zenodo.org/record/7055301",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -164148,13 +164716,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -164290,7 +164858,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -169095,9 +169663,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055199",
+        "id": "pmh:oai:zenodo.org:7055199",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055199",
+        "landing_page_url": "https://zenodo.org/record/7055199",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -169115,13 +169683,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -169130,7 +169698,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055199",
+        "oa_url": "https://zenodo.org/record/7055199",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -169704,8 +170272,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055199",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055199",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055199",
           "is_oa": true,
@@ -169737,9 +170334,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055199",
+        "id": "pmh:oai:zenodo.org:7055199",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055199",
+        "landing_page_url": "https://zenodo.org/record/7055199",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -169757,13 +170354,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -169867,7 +170464,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -171575,9 +172172,24 @@
         "is_oa": true,
         "landing_page_url": "https://zenodo.org/record/7020255",
         "pdf_url": null,
-        "source": null,
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -171590,7 +172202,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://zenodo.org/record/7020255",
         "any_repository_has_fulltext": true
       },
@@ -172126,9 +172738,24 @@
           "is_oa": true,
           "landing_page_url": "https://zenodo.org/record/7020255",
           "pdf_url": null,
-          "source": null,
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "public-domain",
+          "license_id": "https://openalex.org/licenses/public-domain",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -172170,9 +172797,24 @@
         "is_oa": true,
         "landing_page_url": "https://zenodo.org/record/7020255",
         "pdf_url": null,
-        "source": null,
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -172321,7 +172963,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-05T00:54:17.221276",
+      "updated_date": "2026-03-21T08:13:44.787528",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -172337,9 +172979,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055265",
+        "id": "pmh:oai:zenodo.org:7055265",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055265",
+        "landing_page_url": "https://zenodo.org/record/7055265",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -172357,13 +172999,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -172372,7 +173014,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055265",
+        "oa_url": "https://zenodo.org/record/7055265",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -172929,8 +173571,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055265",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055265",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055265",
           "is_oa": true,
@@ -172962,9 +173633,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055265",
+        "id": "pmh:oai:zenodo.org:7055265",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055265",
+        "landing_page_url": "https://zenodo.org/record/7055265",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -172982,13 +173653,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -173124,7 +173795,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -173930,9 +174601,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055340",
+        "id": "pmh:oai:zenodo.org:7055340",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055340",
+        "landing_page_url": "https://zenodo.org/record/7055340",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -173950,13 +174621,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -173965,7 +174636,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055340",
+        "oa_url": "https://zenodo.org/record/7055340",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -174532,8 +175203,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055340",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055340",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055340",
           "is_oa": true,
@@ -174565,9 +175265,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055340",
+        "id": "pmh:oai:zenodo.org:7055340",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055340",
+        "landing_page_url": "https://zenodo.org/record/7055340",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -174585,13 +175285,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -175016,7 +175716,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -178419,9 +179119,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055157",
+        "id": "pmh:oai:zenodo.org:7055157",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055157",
+        "landing_page_url": "https://zenodo.org/record/7055157",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -178439,13 +179139,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -178454,7 +179154,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055157",
+        "oa_url": "https://zenodo.org/record/7055157",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -179021,8 +179721,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055157",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055157",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055157",
           "is_oa": true,
@@ -179054,9 +179783,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055157",
+        "id": "pmh:oai:zenodo.org:7055157",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055157",
+        "landing_page_url": "https://zenodo.org/record/7055157",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -179074,13 +179803,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -179273,7 +180002,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -180895,9 +181624,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055178",
+        "id": "pmh:oai:zenodo.org:7055178",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055178",
+        "landing_page_url": "https://zenodo.org/record/7055178",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -180915,13 +181644,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -180930,7 +181659,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055178",
+        "oa_url": "https://zenodo.org/record/7055178",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -181463,8 +182192,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055178",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055178",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055178",
           "is_oa": true,
@@ -181496,9 +182254,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055178",
+        "id": "pmh:oai:zenodo.org:7055178",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055178",
+        "landing_page_url": "https://zenodo.org/record/7055178",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -181516,13 +182274,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -181635,7 +182393,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -186533,8 +187291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -186679,9 +187437,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7850140",
+        "id": "pmh:oai:zenodo.org:7850140",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850140",
+        "landing_page_url": "https://zenodo.org/record/7850140",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -186699,13 +187457,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -186714,7 +187472,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7850140",
+        "oa_url": "https://zenodo.org/record/7850140",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -187293,8 +188051,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7850140",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7850140",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7850140",
           "is_oa": true,
@@ -187326,9 +188113,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7850140",
+        "id": "pmh:oai:zenodo.org:7850140",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7850140",
+        "landing_page_url": "https://zenodo.org/record/7850140",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -187346,20 +188133,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -187592,7 +188379,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -188270,8 +189057,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -189087,8 +189874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -189204,9 +189991,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7020250",
+        "id": "pmh:oai:zenodo.org:7020250",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7020250",
+        "landing_page_url": "https://zenodo.org/record/7020250",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -189224,13 +190011,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -189239,7 +190026,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7020250",
+        "oa_url": "https://zenodo.org/record/7020250",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -189760,8 +190547,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7020250",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7020250",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7020250",
           "is_oa": true,
@@ -189793,9 +190609,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7020250",
+        "id": "pmh:oai:zenodo.org:7020250",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7020250",
+        "landing_page_url": "https://zenodo.org/record/7020250",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -189813,20 +190629,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -189916,7 +190732,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -190635,8 +191451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -190758,9 +191574,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055446",
+        "id": "pmh:oai:zenodo.org:7055446",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055446",
+        "landing_page_url": "https://zenodo.org/record/7055446",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -190778,13 +191594,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -190793,7 +191609,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055446",
+        "oa_url": "https://zenodo.org/record/7055446",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -191300,8 +192116,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055446",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055446",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055446",
           "is_oa": true,
@@ -191333,9 +192178,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055446",
+        "id": "pmh:oai:zenodo.org:7055446",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055446",
+        "landing_page_url": "https://zenodo.org/record/7055446",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -191353,20 +192198,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -191541,7 +192386,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -192228,8 +193073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -193079,8 +193924,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -193263,9 +194108,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055159",
+        "id": "pmh:oai:zenodo.org:7055159",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055159",
+        "landing_page_url": "https://zenodo.org/record/7055159",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -193283,13 +194128,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -193298,7 +194143,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055159",
+        "oa_url": "https://zenodo.org/record/7055159",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -193865,8 +194710,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055159",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055159",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055159",
           "is_oa": true,
@@ -193898,9 +194772,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055159",
+        "id": "pmh:oai:zenodo.org:7055159",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055159",
+        "landing_page_url": "https://zenodo.org/record/7055159",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -193918,20 +194792,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -194061,7 +194935,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -194748,8 +195622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -195582,8 +196456,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -196366,8 +197240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -197172,8 +198046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -197384,9 +198258,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055140",
+        "id": "pmh:oai:zenodo.org:7055140",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055140",
+        "landing_page_url": "https://zenodo.org/record/7055140",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -197404,13 +198278,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -197419,7 +198293,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055140",
+        "oa_url": "https://zenodo.org/record/7055140",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -198034,8 +198908,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055140",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055140",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055140",
           "is_oa": true,
@@ -198067,9 +198970,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055140",
+        "id": "pmh:oai:zenodo.org:7055140",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055140",
+        "landing_page_url": "https://zenodo.org/record/7055140",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -198087,20 +198990,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -198159,7 +199062,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -198813,8 +199716,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -199263,9 +200166,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055168",
+        "id": "pmh:oai:zenodo.org:7055168",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055168",
+        "landing_page_url": "https://zenodo.org/record/7055168",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -199283,13 +200186,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -199298,7 +200201,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055168",
+        "oa_url": "https://zenodo.org/record/7055168",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -199812,8 +200715,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055168",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055168",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055168",
           "is_oa": true,
@@ -199845,9 +200777,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055168",
+        "id": "pmh:oai:zenodo.org:7055168",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055168",
+        "landing_page_url": "https://zenodo.org/record/7055168",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -199865,20 +200797,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -200226,7 +201158,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -200832,8 +201764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -201823,8 +202755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -202647,8 +203579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -203502,8 +204434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -204292,8 +205224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -205121,8 +206053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -205930,8 +206862,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -206142,9 +207074,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.7055188",
+        "id": "pmh:oai:zenodo.org:7055188",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055188",
+        "landing_page_url": "https://zenodo.org/record/7055188",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -206162,13 +207094,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -206177,7 +207109,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.7055188",
+        "oa_url": "https://zenodo.org/record/7055188",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -206756,8 +207688,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:7055188",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/7055188",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.7055188",
           "is_oa": true,
@@ -206789,9 +207750,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.7055188",
+        "id": "pmh:oai:zenodo.org:7055188",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.7055188",
+        "landing_page_url": "https://zenodo.org/record/7055188",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -206809,20 +207770,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -207085,7 +208046,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -207101,9 +208062,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.5281/zenodo.5668944",
+        "id": "pmh:oai:zenodo.org:5668944",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.5668944",
+        "landing_page_url": "https://zenodo.org/record/5668944",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -207121,13 +208082,13 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "type": "dataset",
       "indexed_in": [
@@ -207136,7 +208097,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.5281/zenodo.5668944",
+        "oa_url": "https://zenodo.org/record/5668944",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -207719,8 +208680,37 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "pmh:oai:zenodo.org:5668944",
+          "is_oa": true,
+          "landing_page_url": "https://zenodo.org/record/5668944",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
         {
           "id": "doi:10.5281/zenodo.5668944",
           "is_oa": true,
@@ -207752,9 +208742,9 @@
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.5281/zenodo.5668944",
+        "id": "pmh:oai:zenodo.org:5668944",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5281/zenodo.5668944",
+        "landing_page_url": "https://zenodo.org/record/5668944",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306400562",
@@ -207772,20 +208762,20 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/other"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -207940,7 +208930,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -208573,8 +209563,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -209451,8 +210441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -210200,8 +211190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -210992,8 +211982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -211645,8 +212635,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -212629,8 +213619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -213932,8 +214922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -214622,8 +215612,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -215676,16 +216666,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -216200,8 +217190,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -217487,7 +218477,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03077421,
+        "value": 0.03046913,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -217729,10 +218719,16 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407686626.pdf",
@@ -217864,7 +218860,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -218260,8 +219256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -219548,8 +220544,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -220530,8 +221526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -221694,8 +222690,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413803673.pdf",
@@ -224780,8 +225776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -226019,8 +227015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -227509,8 +228505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -228947,8 +229943,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -229895,8 +230891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -230538,8 +231534,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -230974,8 +231970,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

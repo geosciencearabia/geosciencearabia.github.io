@@ -960,8 +960,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -1634,8 +1634,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -2124,11 +2124,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.543,
+      "fwci": 3.5492,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93174586,
+        "value": 0.93187389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2616,7 +2616,516 @@
         "https://openalex.org/W2073340904",
         "https://openalex.org/W2969957582"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "42": [
+          216
+        ],
+        "150": [
+          58
+        ],
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          39
+        ],
+        "develops": [
+          2
+        ],
+        "a": [
+          3,
+          55,
+          153,
+          158
+        ],
+        "new": [
+          4
+        ],
+        "artificial": [
+          5
+        ],
+        "neural": [
+          6
+        ],
+        "network": [
+          7
+        ],
+        "(ANN)": [
+          8
+        ],
+        "model": [
+          9,
+          96,
+          151
+        ],
+        "for": [
+          10,
+          54,
+          106,
+          135,
+          198,
+          207
+        ],
+        "predicting": [
+          11
+        ],
+        "the": [
+          12,
+          38,
+          94,
+          107,
+          130,
+          143,
+          173,
+          186,
+          212
+        ],
+        "total": [
+          13,
+          56
+        ],
+        "organic": [
+          14
+        ],
+        "carbon": [
+          15
+        ],
+        "(TOC)": [
+          16
+        ],
+        "of": [
+          17,
+          57,
+          132,
+          161
+        ],
+        "an": [
+          18
+        ],
+        "organic-rich": [
+          19
+        ],
+        "carbonate": [
+          20
+        ],
+        "mudstone": [
+          21
+        ],
+        "formation": [
+          22
+        ],
+        "using": [
+          23
+        ],
+        "conventional": [
+          24,
+          41
+        ],
+        "well": [
+          25,
+          42,
+          66,
+          122
+        ],
+        "log": [
+          26,
+          104
+        ],
+        "data": [
+          27,
+          35,
+          111,
+          133
+        ],
+        "and": [
+          28,
+          48,
+          77,
+          85,
+          92,
+          99,
+          121,
+          138,
+          145,
+          172,
+          195,
+          210
+        ],
+        "X-ray": [
+          29
+        ],
+        "fluorescence": [
+          30
+        ],
+        "spectroscopy": [
+          31
+        ],
+        "(XRF)": [
+          32
+        ],
+        "analysis.": [
+          33
+        ],
+        "The": [
+          34,
+          148,
+          163,
+          201
+        ],
+        "used": [
+          36,
+          89,
+          134
+        ],
+        "in": [
+          37,
+          52,
+          156
+        ],
+        "include": [
+          40
+        ],
+        "logs,": [
+          43
+        ],
+        "redox-sensitive": [
+          44
+        ],
+        "elements": [
+          45
+        ],
+        "from": [
+          46,
+          62,
+          185
+        ],
+        "XRF,": [
+          47
+        ],
+        "TOC": [
+          49,
+          103,
+          110,
+          144,
+          199,
+          209
+        ],
+        "values": [
+          50
+        ],
+        "measured": [
+          51
+        ],
+        "lab": [
+          53
+        ],
+        "core": [
+          59
+        ],
+        "samples": [
+          60
+        ],
+        "obtained": [
+          61
+        ],
+        "five": [
+          63,
+          108
+        ],
+        "wells.": [
+          64,
+          109
+        ],
+        "Selected": [
+          65
+        ],
+        "logs": [
+          67
+        ],
+        "including": [
+          68,
+          80
+        ],
+        "gamma": [
+          69
+        ],
+        "ray": [
+          70
+        ],
+        "(GR),": [
+          71
+        ],
+        "bulk": [
+          72
+        ],
+        "density": [
+          73
+        ],
+        "(RHOB),": [
+          74
+        ],
+        "uranium": [
+          75
+        ],
+        "(URAN),": [
+          76
+        ],
+        "XRF-derived": [
+          78
+        ],
+        "elements,": [
+          79
+        ],
+        "molybdenum": [
+          81
+        ],
+        "(Mo),": [
+          82
+        ],
+        "copper": [
+          83
+        ],
+        "(Cu),": [
+          84
+        ],
+        "nickel": [
+          86
+        ],
+        "(Ni),": [
+          87
+        ],
+        "were": [
+          88,
+          112,
+          126,
+          183
+        ],
+        "to": [
+          90,
+          97,
+          128,
+          139
+        ],
+        "train": [
+          91
+        ],
+        "develop": [
+          93
+        ],
+        "ANN": [
+          95,
+          150,
+          189
+        ],
+        "predict": [
+          98
+        ],
+        "generate": [
+          100
+        ],
+        "continuous": [
+          101,
+          159
+        ],
+        "high-resolution": [
+          102
+        ],
+        "profiles": [
+          105
+        ],
+        "classified": [
+          113
+        ],
+        "into": [
+          114
+        ],
+        "two": [
+          115
+        ],
+        "groups": [
+          116
+        ],
+        "based": [
+          117
+        ],
+        "on": [
+          118
+        ],
+        "geological": [
+          119
+        ],
+        "descriptions": [
+          120
+        ],
+        "locations.": [
+          123
+        ],
+        "Statistical": [
+          124
+        ],
+        "analyses": [
+          125
+        ],
+        "performed": [
+          127
+        ],
+        "establish": [
+          129
+        ],
+        "range": [
+          131
+        ],
+        "each": [
+          136
+        ],
+        "group": [
+          137
+        ],
+        "evaluate": [
+          140
+        ],
+        "relationships": [
+          141
+        ],
+        "among": [
+          142
+        ],
+        "input": [
+          146
+        ],
+        "parameters.": [
+          147
+        ],
+        "developed": [
+          149,
+          202
+        ],
+        "showed": [
+          152
+        ],
+        "high": [
+          154
+        ],
+        "performance": [
+          155
+        ],
+        "providing": [
+          157
+        ],
+        "profile": [
+          160
+        ],
+        "TOC.": [
+          162
+        ],
+        "difference": [
+          164
+        ],
+        "between": [
+          165
+        ],
+        "absolute": [
+          166
+        ],
+        "average": [
+          167
+        ],
+        "is": [
+          168,
+          177
+        ],
+        "less": [
+          169
+        ],
+        "than": [
+          170,
+          179
+        ],
+        "0.50": [
+          171
+        ],
+        "correlation": [
+          174
+        ],
+        "coefficient": [
+          175
+        ],
+        "(R-value)": [
+          176
+        ],
+        "greater": [
+          178
+        ],
+        "0.70.": [
+          180
+        ],
+        "Empirical": [
+          181
+        ],
+        "correlations": [
+          182,
+          203
+        ],
+        "extracted": [
+          184
+        ],
+        "best": [
+          187
+        ],
+        "performing": [
+          188
+        ],
+        "model,": [
+          190
+        ],
+        "which": [
+          191
+        ],
+        "will": [
+          192
+        ],
+        "allow": [
+          193
+        ],
+        "easy": [
+          194
+        ],
+        "quick": [
+          196
+        ],
+        "estimation": [
+          197,
+          213
+        ],
+        "values.": [
+          200
+        ],
+        "outperform": [
+          204
+        ],
+        "available": [
+          205
+        ],
+        "methods": [
+          206
+        ],
+        "determining": [
+          208
+        ],
+        "reduce": [
+          211
+        ],
+        "error": [
+          214
+        ],
+        "by": [
+          215
+        ],
+        "%.": [
+          217
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -2639,7 +3148,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-03-18T14:38:29.013473",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3234,8 +3743,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Decent work and economic growth",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/8"
+          "id": "https://metadata.un.org/sdg/8",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -3865,8 +4374,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -6685,8 +7194,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -7887,8 +8396,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -8343,11 +8852,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0408,
+      "fwci": 1.0489,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.70146457,
+        "value": 0.70396883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8582,7 +9091,22 @@
           "is_oa": false,
           "landing_page_url": "http://hdl.handle.net/10754/681728",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306401596",
+            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I71920554",
+            "host_organization_name": "King Abdullah University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I71920554"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": null,
           "license_id": null,
           "version": "submittedVersion",
@@ -9237,7 +9761,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10078,8 +10602,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -14622,8 +15146,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -15097,8 +15621,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -15615,11 +16139,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 1.1213,
+      "fwci": 1.1172,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8376936,
+        "value": 0.83711847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16008,8 +16532,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -16053,8 +16577,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -16675,7 +17199,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-18T14:38:29.013473",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16999,8 +17523,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -18700,8 +19224,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -20393,8 +20917,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -21488,8 +22012,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -23076,8 +23600,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -25619,7 +26143,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73491196,
+        "value": 0.68749286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26145,10 +26669,1115 @@
         "https://openalex.org/W4414158554"
       ],
       "related_works": [],
+      "abstract_inverted_index": {
+        "2": [
+          239
+        ],
+        "14": [
+          202
+        ],
+        "19": [
+          221
+        ],
+        "132": [
+          223
+        ],
+        "375": [
+          228
+        ],
+        "710": [
+          230
+        ],
+        "2521": [
+          211
+        ],
+        "6383": [
+          213
+        ],
+        "•": [
+          0,
+          10,
+          21,
+          32,
+          45
+        ],
+        "Multidisciplinary": [
+          1
+        ],
+        "workflow": [
+          2,
+          134
+        ],
+        "reveals": [
+          3
+        ],
+        "strong": [
+          4
+        ],
+        "vertical": [
+          5,
+          103,
+          122,
+          190,
+          282
+        ],
+        "heterogeneity": [
+          6,
+          27,
+          123
+        ],
+        "in": [
+          7,
+          28,
+          41,
+          61
+        ],
+        "carbonate": [
+          8,
+          30,
+          56,
+          297
+        ],
+        "rocks.": [
+          9,
+          299
+        ],
+        "Dolomite": [
+          11,
+          242
+        ],
+        "and": [
+          12,
+          19,
+          26,
+          51,
+          70,
+          82,
+          124,
+          153,
+          164,
+          182,
+          205,
+          232,
+          243,
+          248,
+          254,
+          267,
+          278,
+          289
+        ],
+        "silica": [
+          13,
+          244
+        ],
+        "enrichments": [
+          14
+        ],
+        "increase": [
+          15,
+          246
+        ],
+        "rock": [
+          16,
+          43,
+          130
+        ],
+        "density,": [
+          17,
+          264
+        ],
+        "hardness,": [
+          18
+        ],
+        "strength.": [
+          20
+        ],
+        "Diagenesis": [
+          22
+        ],
+        "drives": [
+          23
+        ],
+        "porosity": [
+          24,
+          200,
+          255
+        ],
+        "loss": [
+          25
+        ],
+        "immature": [
+          29,
+          295
+        ],
+        "reservoirs.": [
+          31
+        ],
+        "Mineralogy": [
+          33
+        ],
+        "is": [
+          34,
+          89,
+          260
+        ],
+        "the": [
+          35,
+          106,
+          114,
+          126
+        ],
+        "key": [
+          36
+        ],
+        "predictor": [
+          37
+        ],
+        "of": [
+          38,
+          113
+        ],
+        "mechanical": [
+          39,
+          154,
+          257
+        ],
+        "properties": [
+          40,
+          84
+        ],
+        "source": [
+          42,
+          57,
+          298
+        ],
+        "systems.": [
+          44
+        ],
+        "Integrated": [
+          46
+        ],
+        "approach": [
+          47
+        ],
+        "refines": [
+          48
+        ],
+        "reservoir": [
+          49,
+          285
+        ],
+        "models": [
+          50
+        ],
+        "sweet-spot": [
+          52
+        ],
+        "identification.": [
+          53
+        ],
+        "Immature": [
+          54
+        ],
+        "organic-rich": [
+          55
+        ],
+        "rocks": [
+          58
+        ],
+        "are": [
+          59
+        ],
+        "widespread": [
+          60
+        ],
+        "sedimentary": [
+          62
+        ],
+        "basins,": [
+          63
+        ],
+        "serving": [
+          64
+        ],
+        "as": [
+          65,
+          71
+        ],
+        "major": [
+          66
+        ],
+        "oil": [
+          67
+        ],
+        "shale": [
+          68
+        ],
+        "resources": [
+          69
+        ],
+        "analogs": [
+          72
+        ],
+        "for": [
+          73,
+          91,
+          294
+        ],
+        "thermally": [
+          74
+        ],
+        "mature": [
+          75
+        ],
+        "unconventional": [
+          76,
+          296
+        ],
+        "plays.": [
+          77
+        ],
+        "Determining": [
+          78
+        ],
+        "their": [
+          79,
+          93
+        ],
+        "baseline": [
+          80
+        ],
+        "petrophysical": [
+          81
+        ],
+        "geomechanical": [
+          83
+        ],
+        "prior": [
+          85
+        ],
+        "to": [
+          86,
+          120,
+          173,
+          197,
+          203,
+          212,
+          222,
+          229,
+          240
+        ],
+        "hydrocarbon": [
+          87
+        ],
+        "generation": [
+          88
+        ],
+        "essential": [
+          90
+        ],
+        "predicting": [
+          92
+        ],
+        "behavior": [
+          94
+        ],
+        "during": [
+          95
+        ],
+        "advanced": [
+          96
+        ],
+        "extraction.": [
+          97
+        ],
+        "This": [
+          98
+        ],
+        "study": [
+          99
+        ],
+        "investigates": [
+          100
+        ],
+        "a": [
+          101,
+          175,
+          291
+        ],
+        "20-meter": [
+          102
+        ],
+        "core": [
+          104,
+          137
+        ],
+        "from": [
+          105,
+          195,
+          201,
+          210,
+          220,
+          227,
+          238
+        ],
+        "Upper": [
+          107
+        ],
+        "Cretaceous": [
+          108
+        ],
+        "bituminous": [
+          109
+        ],
+        "chalky": [
+          110
+        ],
+        "marl": [
+          111
+        ],
+        "interval": [
+          112
+        ],
+        "Al": [
+          115
+        ],
+        "Lajjun": [
+          116
+        ],
+        "Graben,": [
+          117
+        ],
+        "central": [
+          118
+        ],
+        "Jordan,": [
+          119
+        ],
+        "evaluate": [
+          121
+        ],
+        "identify": [
+          125
+        ],
+        "main": [
+          127
+        ],
+        "controls": [
+          128
+        ],
+        "on": [
+          129,
+          167
+        ],
+        "properties.": [
+          131
+        ],
+        "An": [
+          132
+        ],
+        "integrated": [
+          133
+        ],
+        "combined": [
+          135
+        ],
+        "detailed": [
+          136
+        ],
+        "description,": [
+          138
+        ],
+        "petrography,": [
+          139
+        ],
+        "inorganic": [
+          140
+        ],
+        "geochemistry,": [
+          141
+        ],
+        "Rock-Eval": [
+          142
+        ],
+        "pyrolysis,": [
+          143
+        ],
+        "Multi-Sensor": [
+          144
+        ],
+        "Core": [
+          145
+        ],
+        "Logger": [
+          146
+        ],
+        "(MSCL)": [
+          147
+        ],
+        "data,": [
+          148
+        ],
+        "spectral": [
+          149
+        ],
+        "gamma-ray": [
+          150
+        ],
+        "logging": [
+          151
+        ],
+        "(SGR),": [
+          152
+        ],
+        "testing.": [
+          155
+        ],
+        "Multivariate": [
+          156
+        ],
+        "statistical": [
+          157
+        ],
+        "methods,": [
+          158
+        ],
+        "including": [
+          159
+        ],
+        "principal": [
+          160,
+          168
+        ],
+        "component": [
+          161
+        ],
+        "analysis": [
+          162
+        ],
+        "(PCA)": [
+          163
+        ],
+        "hierarchical": [
+          165
+        ],
+        "clustering": [
+          166
+        ],
+        "components": [
+          169
+        ],
+        "(HCPC),": [
+          170
+        ],
+        "were": [
+          171,
+          186
+        ],
+        "applied": [
+          172
+        ],
+        "establish": [
+          174
+        ],
+        "chemofacies": [
+          176
+        ],
+        "classification.": [
+          177
+        ],
+        "Five": [
+          178
+        ],
+        "lithofacies,": [
+          179
+        ],
+        "three": [
+          180
+        ],
+        "chemofacies,": [
+          181
+        ],
+        "four": [
+          183
+        ],
+        "chemostratigraphic": [
+          184
+        ],
+        "zones": [
+          185
+        ],
+        "identified,": [
+          187
+        ],
+        "indicating": [
+          188
+        ],
+        "marked": [
+          189
+        ],
+        "variability.": [
+          191
+        ],
+        "Bulk": [
+          192
+        ],
+        "density": [
+          193,
+          247
+        ],
+        "ranges": [
+          194,
+          219,
+          237
+        ],
+        "1.65": [
+          196
+        ],
+        "2.40": [
+          198
+        ],
+        "g/cc,": [
+          199
+        ],
+        "36%,": [
+          204
+        ],
+        "compressional": [
+          206
+        ],
+        "wave": [
+          207
+        ],
+        "velocity": [
+          208
+        ],
+        "(Vp)": [
+          209
+        ],
+        "m/s.": [
+          214
+        ],
+        "Unconfined": [
+          215
+        ],
+        "compressive": [
+          216
+        ],
+        "strength": [
+          217
+        ],
+        "(UCS)": [
+          218
+        ],
+        "MPa,": [
+          224
+        ],
+        "Leeb": [
+          225
+        ],
+        "hardness": [
+          226
+        ],
+        "HLD,": [
+          231
+        ],
+        "total": [
+          233
+        ],
+        "organic": [
+          234,
+          279
+        ],
+        "carbon": [
+          235
+        ],
+        "(TOC)": [
+          236
+        ],
+        "17%.": [
+          241
+        ],
+        "enrichment": [
+          245
+        ],
+        "strength,": [
+          249,
+          266
+        ],
+        "whereas": [
+          250
+        ],
+        "elevated": [
+          251
+        ],
+        "clay": [
+          252
+        ],
+        "content": [
+          253,
+          280
+        ],
+        "reduce": [
+          256
+        ],
+        "competence.": [
+          258
+        ],
+        "Porosity": [
+          259
+        ],
+        "negatively": [
+          261
+        ],
+        "correlated": [
+          262,
+          271
+        ],
+        "with": [
+          263,
+          272
+        ],
+        "Vp,": [
+          265
+        ],
+        "brittleness,": [
+          268
+        ],
+        "but": [
+          269
+        ],
+        "positively": [
+          270
+        ],
+        "TOC.": [
+          273
+        ],
+        "Collectively,": [
+          274
+        ],
+        "mineralogy,": [
+          275
+        ],
+        "diagenesis,": [
+          276
+        ],
+        "porosity,": [
+          277
+        ],
+        "govern": [
+          281
+        ],
+        "variability,": [
+          283
+        ],
+        "improving": [
+          284
+        ],
+        "characterization,": [
+          286
+        ],
+        "exploration": [
+          287
+        ],
+        "planning,": [
+          288
+        ],
+        "providing": [
+          290
+        ],
+        "global": [
+          292
+        ],
+        "analog": [
+          293
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-03-20T23:20:44.827607",
+      "created_date": "2026-03-03T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7139925539",
+      "doi": "https://doi.org/10.1016/j.mex.2026.103875",
+      "title": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
+      "display_name": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
+      "publication_year": 2026,
+      "publication_date": "2026-03-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7139925539",
+        "doi": "https://doi.org/10.1016/j.mex.2026.103875"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.mex.2026.103875",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.mex.2026.103875",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2898269294",
+          "display_name": "MethodsX",
+          "issn_l": "2215-0161",
+          "issn": [
+            "2215-0161"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "MethodsX",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.mex.2026.103875",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094009312",
+            "display_name": "Samer Aljurf",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Samer Aljurf",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5125330854",
+            "display_name": "Israa  S. Abu-Mahfouz",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Israa S. Abu-Mahfouz",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5080643603",
+            "display_name": "Septriandi A. Chan",
+            "orcid": "https://orcid.org/0000-0002-3681-7464"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Septriandi Chan",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094009312"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 500,
+        "currency": "USD",
+        "value_usd": 500
+      },
+      "apc_paid": {
+        "value": 500,
+        "currency": "USD",
+        "value_usd": 500
+      },
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.97432432,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "103875",
+        "last_page": "103875"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.22310000658035278,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.22310000658035278,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.19789999723434448,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.10289999842643738,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.7936999797821045
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5855000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.24770000576972961
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.7936999797821045
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5855000019073486
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4580000042915344
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.4097000062465668
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.38749998807907104
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.25619998574256897
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.24770000576972961
+        },
+        {
+          "id": "https://openalex.org/C107826830",
+          "wikidata": "https://www.wikidata.org/wiki/Q929380",
+          "display_name": "Environmental resource management",
+          "level": 1,
+          "score": 0.22609999775886536
+        },
+        {
+          "id": "https://openalex.org/C21880701",
+          "wikidata": "https://www.wikidata.org/wiki/Q2144042",
+          "display_name": "Process engineering",
+          "level": 1,
+          "score": 0.2257000058889389
+        },
+        {
+          "id": "https://openalex.org/C183696295",
+          "wikidata": "https://www.wikidata.org/wiki/Q2487696",
+          "display_name": "Biochemical engineering",
+          "level": 1,
+          "score": 0.22310000658035278
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.mex.2026.103875",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.mex.2026.103875",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2898269294",
+            "display_name": "MethodsX",
+            "issn_l": "2215-0161",
+            "issn": [
+              "2215-0161"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "MethodsX",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.mex.2026.103875",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.mex.2026.103875",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2898269294",
+          "display_name": "MethodsX",
+          "issn_l": "2215-0161",
+          "issn": [
+            "2215-0161"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "MethodsX",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 1,
+      "referenced_works": [
+        "https://openalex.org/W2417828621"
+      ],
+      "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-17T17:19:04.345684",
-      "created_date": "2026-03-03T00:00:00"
+      "updated_date": "2026-03-21T08:13:44.787528",
+      "created_date": "2026-03-21T00:00:00"
     }
   ]
 }

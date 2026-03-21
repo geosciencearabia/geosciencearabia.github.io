@@ -660,8 +660,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -1259,8 +1259,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -1719,8 +1719,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -2356,8 +2356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -2847,8 +2847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980323464.pdf",
@@ -4507,8 +4507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4592,6 +4592,1018 @@
         }
       ],
       "updated_date": "2026-03-14T08:43:22.919905",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3126847908",
+      "doi": "https://doi.org/10.1306/10142019105",
+      "title": "Application of principal component analysis on chemical data for reservoir correlation: A case study from Cretaceous carbonate sedimentary rocks, Saudi Arabia",
+      "display_name": "Application of principal component analysis on chemical data for reservoir correlation: A case study from Cretaceous carbonate sedimentary rocks, Saudi Arabia",
+      "publication_year": 2021,
+      "publication_date": "2021-03-11",
+      "ids": {
+        "openalex": "https://openalex.org/W3126847908",
+        "doi": "https://doi.org/10.1306/10142019105",
+        "mag": "3126847908"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1306/10142019105",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1306/10142019105",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S144020083",
+          "display_name": "AAPG Bulletin",
+          "issn_l": "0149-1423",
+          "issn": [
+            "0149-1423",
+            "1522-1423",
+            "1558-9153"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AAPG Bulletin",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002041459",
+            "display_name": "Nikolaos A. Michael",
+            "orcid": "https://orcid.org/0000-0002-6113-9589"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Nikolaos A. Michael",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "orcid": "https://orcid.org/0000-0002-9728-9036"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Neil W. Craigie",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002041459"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.1199,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.81553918,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "105",
+        "issue": "4",
+        "first_page": "785",
+        "last_page": "807"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9854000210762024,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10139",
+          "display_name": "Heavy metals in environment",
+          "score": 0.942300021648407,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2310",
+            "display_name": "Pollution"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8904672861099243
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.8297269344329834
+        },
+        {
+          "id": "https://openalex.org/keywords/principal-component-analysis",
+          "display_name": "Principal component analysis",
+          "score": 0.722543478012085
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.6910935640335083
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.6518192291259766
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.5084161162376404
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.5049739480018616
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.4017347991466522
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.040506064891815186
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8904672861099243
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.8297269344329834
+        },
+        {
+          "id": "https://openalex.org/C27438332",
+          "wikidata": "https://www.wikidata.org/wiki/Q2873",
+          "display_name": "Principal component analysis",
+          "level": 2,
+          "score": 0.722543478012085
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6910935640335083
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.6518192291259766
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5084161162376404
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.5049739480018616
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4017347991466522
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.040506064891815186
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1306/10142019105",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/10142019105",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S144020083",
+            "display_name": "AAPG Bulletin",
+            "issn_l": "0149-1423",
+            "issn": [
+              "0149-1423",
+              "1522-1423",
+              "1558-9153"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "AAPG Bulletin",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 18,
+      "referenced_works": [
+        "https://openalex.org/W1580687896",
+        "https://openalex.org/W1920010643",
+        "https://openalex.org/W1990839417",
+        "https://openalex.org/W2031853021",
+        "https://openalex.org/W2042299971",
+        "https://openalex.org/W2072498451",
+        "https://openalex.org/W2087689197",
+        "https://openalex.org/W2089227677",
+        "https://openalex.org/W2092904239",
+        "https://openalex.org/W2145804763",
+        "https://openalex.org/W2152820192",
+        "https://openalex.org/W2252686556",
+        "https://openalex.org/W2517057392",
+        "https://openalex.org/W2726137661",
+        "https://openalex.org/W2783004461",
+        "https://openalex.org/W3023798565",
+        "https://openalex.org/W3099514962",
+        "https://openalex.org/W4234967753"
+      ],
+      "related_works": [
+        "https://openalex.org/W1966018702",
+        "https://openalex.org/W4244074133",
+        "https://openalex.org/W2078704581",
+        "https://openalex.org/W2390326989",
+        "https://openalex.org/W2372412760",
+        "https://openalex.org/W4387216249",
+        "https://openalex.org/W2359822476",
+        "https://openalex.org/W2059585431",
+        "https://openalex.org/W2080709484",
+        "https://openalex.org/W3034805004"
+      ],
+      "abstract_inverted_index": {
+        "50": [
+          44
+        ],
+        "250": [
+          88
+        ],
+        "300": [
+          90
+        ],
+        "832": [
+          58
+        ],
+        "A": [
+          0,
+          173
+        ],
+        "new": [
+          1
+        ],
+        "method": [
+          2
+        ],
+        "is": [
+          3,
+          104,
+          134,
+          236
+        ],
+        "presented": [
+          4
+        ],
+        "to": [
+          5,
+          16,
+          89,
+          101,
+          110,
+          128,
+          138,
+          167,
+          201
+        ],
+        "identify": [
+          6,
+          139
+        ],
+        "chemostratigraphic": [
+          7,
+          112,
+          189,
+          213
+        ],
+        "zones": [
+          8,
+          204
+        ],
+        "by": [
+          9
+        ],
+        "applying": [
+          10
+        ],
+        "principal": [
+          11
+        ],
+        "component": [
+          12
+        ],
+        "(PC)": [
+          13
+        ],
+        "analysis": [
+          14
+        ],
+        "and": [
+          15,
+          35,
+          60,
+          84,
+          107,
+          154,
+          183,
+          211,
+          223
+        ],
+        "interpret": [
+          17
+        ],
+        "geological": [
+          18,
+          156
+        ],
+        "boundaries": [
+          19,
+          179,
+          184,
+          214,
+          221
+        ],
+        "based": [
+          20
+        ],
+        "on": [
+          21,
+          191
+        ],
+        "PC": [
+          22,
+          25,
+          124,
+          143,
+          182,
+          197,
+          210,
+          227
+        ],
+        "curves.": [
+          23
+        ],
+        "The": [
+          24,
+          76,
+          142,
+          206
+        ],
+        "data": [
+          26,
+          41
+        ],
+        "were": [
+          27,
+          63,
+          243
+        ],
+        "calculated": [
+          28
+        ],
+        "using": [
+          29,
+          120,
+          181
+        ],
+        "inductively": [
+          30,
+          36
+        ],
+        "coupled": [
+          31,
+          37
+        ],
+        "plasma–optical": [
+          32
+        ],
+        "emission": [
+          33
+        ],
+        "spectrometry": [
+          34
+        ],
+        "plasma–mass": [
+          38
+        ],
+        "spectrometry,": [
+          39
+        ],
+        "with": [
+          40,
+          87
+        ],
+        "acquired": [
+          42
+        ],
+        "for": [
+          43,
+          82,
+          93,
+          136
+        ],
+        "chemical": [
+          45
+        ],
+        "elements": [
+          46,
+          83,
+          153
+        ],
+        "in": [
+          47,
+          147,
+          160,
+          169,
+          245
+        ],
+        "the": [
+          48,
+          52,
+          69,
+          192,
+          202,
+          232
+        ],
+        "range": [
+          49
+        ],
+        "Na–U.": [
+          50
+        ],
+        "In": [
+          51
+        ],
+        "present": [
+          53
+        ],
+        "study,": [
+          54,
+          162
+        ],
+        "a": [
+          55,
+          105,
+          122
+        ],
+        "total": [
+          56
+        ],
+        "of": [
+          57,
+          117,
+          152,
+          237
+        ],
+        "core": [
+          59
+        ],
+        "cuttings": [
+          61
+        ],
+        "samples": [
+          62
+        ],
+        "analyzed": [
+          64
+        ],
+        "from": [
+          65,
+          185
+        ],
+        "four": [
+          66
+        ],
+        "wells": [
+          67
+        ],
+        "penetrating": [
+          68
+        ],
+        "Cretaceous": [
+          70
+        ],
+        "Wasia": [
+          71
+        ],
+        "Formation,": [
+          72
+        ],
+        "southeastern": [
+          73
+        ],
+        "Saudi": [
+          74
+        ],
+        "Arabia.": [
+          75
+        ],
+        "conventional": [
+          77,
+          188,
+          203,
+          212,
+          220
+        ],
+        "workflow": [
+          78
+        ],
+        "involves": [
+          79
+        ],
+        "plotting": [
+          80
+        ],
+        "profiles": [
+          81,
+          91
+        ],
+        "elemental": [
+          85
+        ],
+        "ratios,": [
+          86
+        ],
+        "produced": [
+          92
+        ],
+        "each": [
+          94
+        ],
+        "study": [
+          95,
+          190
+        ],
+        "section.": [
+          96
+        ],
+        "With": [
+          97
+        ],
+        "so": [
+          98
+        ],
+        "many": [
+          99
+        ],
+        "variables": [
+          100
+        ],
+        "consider,": [
+          102
+        ],
+        "it": [
+          103,
+          133
+        ],
+        "challenging": [
+          106
+        ],
+        "time-consuming": [
+          108
+        ],
+        "process": [
+          109
+        ],
+        "produce": [
+          111
+        ],
+        "frameworks,": [
+          113
+        ],
+        "requiring": [
+          114
+        ],
+        "expert": [
+          115
+        ],
+        "knowledge": [
+          116
+        ],
+        "chemostratigraphy.": [
+          118
+        ],
+        "By": [
+          119
+        ],
+        "only": [
+          121
+        ],
+        "few": [
+          123
+        ],
+        "curves,": [
+          125
+        ],
+        "as": [
+          126
+        ],
+        "opposed": [
+          127
+        ],
+        "element": [
+          129
+        ],
+        "or": [
+          130
+        ],
+        "ratio": [
+          131
+        ],
+        "profiles,": [
+          132
+        ],
+        "easier": [
+          135
+        ],
+        "nonexperts": [
+          137
+        ],
+        "correlative": [
+          140
+        ],
+        "boundaries.": [
+          141
+        ],
+        "parameters": [
+          144
+        ],
+        "reflect": [
+          145
+        ],
+        "changes": [
+          146,
+          168
+        ],
+        "more": [
+          148
+        ],
+        "than": [
+          149
+        ],
+        "one": [
+          150
+        ],
+        "group": [
+          151
+        ],
+        "summarize": [
+          155
+        ],
+        "changes.": [
+          157
+        ],
+        "For": [
+          158,
+          195
+        ],
+        "example,": [
+          159,
+          196
+        ],
+        "this": [
+          161
+        ],
+        "PC2": [
+          163
+        ],
+        "parameter": [
+          164
+        ],
+        "values": [
+          165
+        ],
+        "relate": [
+          166
+        ],
+        "depositional": [
+          170
+        ],
+        "redox": [
+          171
+        ],
+        "conditions.": [
+          172
+        ],
+        "close": [
+          174
+        ],
+        "association": [
+          175
+        ],
+        "was": [
+          176
+        ],
+        "revealed": [
+          177
+        ],
+        "between": [
+          178
+        ],
+        "identified": [
+          180
+        ],
+        "an": [
+          186
+        ],
+        "existing": [
+          187
+        ],
+        "same": [
+          193
+        ],
+        "wells.": [
+          194
+        ],
+        "zone": [
+          198,
+          228
+        ],
+        "E1-3": [
+          199
+        ],
+        "relates": [
+          200
+        ],
+        "C3-1b.": [
+          205
+        ],
+        "fact": [
+          207
+        ],
+        "that": [
+          208,
+          231
+        ],
+        "some": [
+          209
+        ],
+        "do": [
+          215
+        ],
+        "not": [
+          216
+        ],
+        "always": [
+          217
+        ],
+        "coincide": [
+          218
+        ],
+        "(e.g.,": [
+          219
+        ],
+        "C2-1:C2-2": [
+          222
+        ],
+        "C2-2:C2-3": [
+          224
+        ],
+        "exist": [
+          225
+        ],
+        "within": [
+          226
+        ],
+        "E2-1)": [
+          229
+        ],
+        "means": [
+          230
+        ],
+        "integrated": [
+          233
+        ],
+        "correlation": [
+          234
+        ],
+        "scheme": [
+          235
+        ],
+        "higher": [
+          238
+        ],
+        "resolution": [
+          239
+        ],
+        "if": [
+          240
+        ],
+        "these": [
+          241
+        ],
+        "techniques": [
+          242
+        ],
+        "employed": [
+          244
+        ],
+        "isolation.": [
+          246
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4995,8 +6007,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -5472,8 +6484,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -6014,8 +7026,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -7248,8 +8260,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -7327,1014 +8339,6 @@
         {
           "year": 2016,
           "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3126847908",
-      "doi": "https://doi.org/10.1306/10142019105",
-      "title": "Application of principal component analysis on chemical data for reservoir correlation: A case study from Cretaceous carbonate sedimentary rocks, Saudi Arabia",
-      "display_name": "Application of principal component analysis on chemical data for reservoir correlation: A case study from Cretaceous carbonate sedimentary rocks, Saudi Arabia",
-      "publication_year": 2021,
-      "publication_date": "2021-03-11",
-      "ids": {
-        "openalex": "https://openalex.org/W3126847908",
-        "doi": "https://doi.org/10.1306/10142019105",
-        "mag": "3126847908"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1306/10142019105",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1306/10142019105",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S144020083",
-          "display_name": "AAPG Bulletin",
-          "issn_l": "0149-1423",
-          "issn": [
-            "0149-1423",
-            "1522-1423",
-            "1558-9153"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AAPG Bulletin",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5002041459",
-            "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Nikolaos A. Michael",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Neil W. Craigie",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5002041459"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.0877,
-      "has_fulltext": false,
-      "cited_by_count": 10,
-      "citation_normalized_percentile": {
-        "value": 0.81059125,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "105",
-        "issue": "4",
-        "first_page": "785",
-        "last_page": "807"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9995999932289124,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9854000210762024,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10139",
-          "display_name": "Heavy metals in environment",
-          "score": 0.942300021648407,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2310",
-            "display_name": "Pollution"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8904672861099243
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.8297269344329834
-        },
-        {
-          "id": "https://openalex.org/keywords/principal-component-analysis",
-          "display_name": "Principal component analysis",
-          "score": 0.722543478012085
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6910935640335083
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.6518192291259766
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5084161162376404
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.5049739480018616
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4017347991466522
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.040506064891815186
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8904672861099243
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.8297269344329834
-        },
-        {
-          "id": "https://openalex.org/C27438332",
-          "wikidata": "https://www.wikidata.org/wiki/Q2873",
-          "display_name": "Principal component analysis",
-          "level": 2,
-          "score": 0.722543478012085
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6910935640335083
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.6518192291259766
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.5084161162376404
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.5049739480018616
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4017347991466522
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.040506064891815186
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1306/10142019105",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/10142019105",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S144020083",
-            "display_name": "AAPG Bulletin",
-            "issn_l": "0149-1423",
-            "issn": [
-              "0149-1423",
-              "1522-1423",
-              "1558-9153"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "AAPG Bulletin",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 18,
-      "referenced_works": [
-        "https://openalex.org/W1580687896",
-        "https://openalex.org/W1920010643",
-        "https://openalex.org/W1990839417",
-        "https://openalex.org/W2031853021",
-        "https://openalex.org/W2042299971",
-        "https://openalex.org/W2072498451",
-        "https://openalex.org/W2087689197",
-        "https://openalex.org/W2089227677",
-        "https://openalex.org/W2092904239",
-        "https://openalex.org/W2145804763",
-        "https://openalex.org/W2152820192",
-        "https://openalex.org/W2252686556",
-        "https://openalex.org/W2517057392",
-        "https://openalex.org/W2726137661",
-        "https://openalex.org/W2783004461",
-        "https://openalex.org/W3023798565",
-        "https://openalex.org/W3099514962",
-        "https://openalex.org/W4234967753"
-      ],
-      "related_works": [
-        "https://openalex.org/W1966018702",
-        "https://openalex.org/W4244074133",
-        "https://openalex.org/W2078704581",
-        "https://openalex.org/W2390326989",
-        "https://openalex.org/W2372412760",
-        "https://openalex.org/W4387216249",
-        "https://openalex.org/W2359822476",
-        "https://openalex.org/W2059585431",
-        "https://openalex.org/W2080709484",
-        "https://openalex.org/W3034805004"
-      ],
-      "abstract_inverted_index": {
-        "50": [
-          44
-        ],
-        "250": [
-          88
-        ],
-        "300": [
-          90
-        ],
-        "832": [
-          58
-        ],
-        "A": [
-          0,
-          173
-        ],
-        "new": [
-          1
-        ],
-        "method": [
-          2
-        ],
-        "is": [
-          3,
-          104,
-          134,
-          236
-        ],
-        "presented": [
-          4
-        ],
-        "to": [
-          5,
-          16,
-          89,
-          101,
-          110,
-          128,
-          138,
-          167,
-          201
-        ],
-        "identify": [
-          6,
-          139
-        ],
-        "chemostratigraphic": [
-          7,
-          112,
-          189,
-          213
-        ],
-        "zones": [
-          8,
-          204
-        ],
-        "by": [
-          9
-        ],
-        "applying": [
-          10
-        ],
-        "principal": [
-          11
-        ],
-        "component": [
-          12
-        ],
-        "(PC)": [
-          13
-        ],
-        "analysis": [
-          14
-        ],
-        "and": [
-          15,
-          35,
-          60,
-          84,
-          107,
-          154,
-          183,
-          211,
-          223
-        ],
-        "interpret": [
-          17
-        ],
-        "geological": [
-          18,
-          156
-        ],
-        "boundaries": [
-          19,
-          179,
-          184,
-          214,
-          221
-        ],
-        "based": [
-          20
-        ],
-        "on": [
-          21,
-          191
-        ],
-        "PC": [
-          22,
-          25,
-          124,
-          143,
-          182,
-          197,
-          210,
-          227
-        ],
-        "curves.": [
-          23
-        ],
-        "The": [
-          24,
-          76,
-          142,
-          206
-        ],
-        "data": [
-          26,
-          41
-        ],
-        "were": [
-          27,
-          63,
-          243
-        ],
-        "calculated": [
-          28
-        ],
-        "using": [
-          29,
-          120,
-          181
-        ],
-        "inductively": [
-          30,
-          36
-        ],
-        "coupled": [
-          31,
-          37
-        ],
-        "plasma–optical": [
-          32
-        ],
-        "emission": [
-          33
-        ],
-        "spectrometry": [
-          34
-        ],
-        "plasma–mass": [
-          38
-        ],
-        "spectrometry,": [
-          39
-        ],
-        "with": [
-          40,
-          87
-        ],
-        "acquired": [
-          42
-        ],
-        "for": [
-          43,
-          82,
-          93,
-          136
-        ],
-        "chemical": [
-          45
-        ],
-        "elements": [
-          46,
-          83,
-          153
-        ],
-        "in": [
-          47,
-          147,
-          160,
-          169,
-          245
-        ],
-        "the": [
-          48,
-          52,
-          69,
-          192,
-          202,
-          232
-        ],
-        "range": [
-          49
-        ],
-        "Na–U.": [
-          50
-        ],
-        "In": [
-          51
-        ],
-        "present": [
-          53
-        ],
-        "study,": [
-          54,
-          162
-        ],
-        "a": [
-          55,
-          105,
-          122
-        ],
-        "total": [
-          56
-        ],
-        "of": [
-          57,
-          117,
-          152,
-          237
-        ],
-        "core": [
-          59
-        ],
-        "cuttings": [
-          61
-        ],
-        "samples": [
-          62
-        ],
-        "analyzed": [
-          64
-        ],
-        "from": [
-          65,
-          185
-        ],
-        "four": [
-          66
-        ],
-        "wells": [
-          67
-        ],
-        "penetrating": [
-          68
-        ],
-        "Cretaceous": [
-          70
-        ],
-        "Wasia": [
-          71
-        ],
-        "Formation,": [
-          72
-        ],
-        "southeastern": [
-          73
-        ],
-        "Saudi": [
-          74
-        ],
-        "Arabia.": [
-          75
-        ],
-        "conventional": [
-          77,
-          188,
-          203,
-          212,
-          220
-        ],
-        "workflow": [
-          78
-        ],
-        "involves": [
-          79
-        ],
-        "plotting": [
-          80
-        ],
-        "profiles": [
-          81,
-          91
-        ],
-        "elemental": [
-          85
-        ],
-        "ratios,": [
-          86
-        ],
-        "produced": [
-          92
-        ],
-        "each": [
-          94
-        ],
-        "study": [
-          95,
-          190
-        ],
-        "section.": [
-          96
-        ],
-        "With": [
-          97
-        ],
-        "so": [
-          98
-        ],
-        "many": [
-          99
-        ],
-        "variables": [
-          100
-        ],
-        "consider,": [
-          102
-        ],
-        "it": [
-          103,
-          133
-        ],
-        "challenging": [
-          106
-        ],
-        "time-consuming": [
-          108
-        ],
-        "process": [
-          109
-        ],
-        "produce": [
-          111
-        ],
-        "frameworks,": [
-          113
-        ],
-        "requiring": [
-          114
-        ],
-        "expert": [
-          115
-        ],
-        "knowledge": [
-          116
-        ],
-        "chemostratigraphy.": [
-          118
-        ],
-        "By": [
-          119
-        ],
-        "only": [
-          121
-        ],
-        "few": [
-          123
-        ],
-        "curves,": [
-          125
-        ],
-        "as": [
-          126
-        ],
-        "opposed": [
-          127
-        ],
-        "element": [
-          129
-        ],
-        "or": [
-          130
-        ],
-        "ratio": [
-          131
-        ],
-        "profiles,": [
-          132
-        ],
-        "easier": [
-          135
-        ],
-        "nonexperts": [
-          137
-        ],
-        "correlative": [
-          140
-        ],
-        "boundaries.": [
-          141
-        ],
-        "parameters": [
-          144
-        ],
-        "reflect": [
-          145
-        ],
-        "changes": [
-          146,
-          168
-        ],
-        "more": [
-          148
-        ],
-        "than": [
-          149
-        ],
-        "one": [
-          150
-        ],
-        "group": [
-          151
-        ],
-        "summarize": [
-          155
-        ],
-        "changes.": [
-          157
-        ],
-        "For": [
-          158,
-          195
-        ],
-        "example,": [
-          159,
-          196
-        ],
-        "this": [
-          161
-        ],
-        "PC2": [
-          163
-        ],
-        "parameter": [
-          164
-        ],
-        "values": [
-          165
-        ],
-        "relate": [
-          166
-        ],
-        "depositional": [
-          170
-        ],
-        "redox": [
-          171
-        ],
-        "conditions.": [
-          172
-        ],
-        "close": [
-          174
-        ],
-        "association": [
-          175
-        ],
-        "was": [
-          176
-        ],
-        "revealed": [
-          177
-        ],
-        "between": [
-          178
-        ],
-        "identified": [
-          180
-        ],
-        "an": [
-          186
-        ],
-        "existing": [
-          187
-        ],
-        "same": [
-          193
-        ],
-        "wells.": [
-          194
-        ],
-        "zone": [
-          198,
-          228
-        ],
-        "E1-3": [
-          199
-        ],
-        "relates": [
-          200
-        ],
-        "C3-1b.": [
-          205
-        ],
-        "fact": [
-          207
-        ],
-        "that": [
-          208,
-          231
-        ],
-        "some": [
-          209
-        ],
-        "do": [
-          215
-        ],
-        "not": [
-          216
-        ],
-        "always": [
-          217
-        ],
-        "coincide": [
-          218
-        ],
-        "(e.g.,": [
-          219
-        ],
-        "C2-1:C2-2": [
-          222
-        ],
-        "C2-2:C2-3": [
-          224
-        ],
-        "exist": [
-          225
-        ],
-        "within": [
-          226
-        ],
-        "E2-1)": [
-          229
-        ],
-        "means": [
-          230
-        ],
-        "integrated": [
-          233
-        ],
-        "correlation": [
-          234
-        ],
-        "scheme": [
-          235
-        ],
-        "higher": [
-          238
-        ],
-        "resolution": [
-          239
-        ],
-        "if": [
-          240
-        ],
-        "these": [
-          241
-        ],
-        "techniques": [
-          242
-        ],
-        "employed": [
-          244
-        ],
-        "isolation.": [
-          246
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -8746,8 +8750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 155,
@@ -9429,8 +9433,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -10066,8 +10070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -10557,8 +10561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -11137,8 +11141,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12112,8 +12116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -12636,8 +12640,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -13092,8 +13096,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -13986,8 +13990,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -14710,8 +14714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -15085,8 +15089,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15618,8 +15622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -16708,8 +16712,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -18198,8 +18202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18628,8 +18632,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19448,8 +19452,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -20432,8 +20436,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20953,8 +20957,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21727,8 +21731,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22735,8 +22739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
