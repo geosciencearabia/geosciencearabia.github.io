@@ -264,7 +264,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000429,
+        "value": 0.0000424,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -281,7 +281,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000364,
+        "value": 0.0000361,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000317,
+        "value": 0.0000316,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -313,26 +313,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10992",
-        "display_name": "Forensic Anthropology and Bioarchaeology Studies",
-        "value": 0.0000174,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1204",
-          "display_name": "Archeology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000172,
+        "value": 0.0000171,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -344,6 +327,23 @@
         "domain": {
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10992",
+        "display_name": "Forensic Anthropology and Bioarchaeology Studies",
+        "value": 0.0000169,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1204",
+          "display_name": "Archeology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
         }
       }
     ],
@@ -469,7 +469,7 @@
     },
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-03-08T12:20:35",
+    "updated_date": "2026-03-21T12:22:22",
     "created_date": "2019-12-13T00:00:00"
   },
   "works": [
@@ -3547,11 +3547,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 31.9764,
+      "fwci": 32.0979,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99375878,
+        "value": 0.99378708,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4340,7 +4340,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-17T17:19:04.345684",
+      "updated_date": "2026-03-22T08:09:32.410652",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13527,11 +13527,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.1039,
+      "fwci": 2.0997,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86343612,
+        "value": 0.86320079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13844,7 +13844,22 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1650125035",
+          "display_name": null,
+          "funder_award_id": "B-I00",
+          "funder_id": "https://openalex.org/F4320322930",
+          "funder_display_name": "Ministerio de Ciencia e Innovación"
+        },
+        {
+          "id": "https://openalex.org/G8653831550",
+          "display_name": null,
+          "funder_award_id": "PID2021-123189NB-I00",
+          "funder_id": "https://openalex.org/F4320322930",
+          "funder_display_name": "Ministerio de Ciencia e Innovación"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321602",
@@ -14641,7 +14656,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-03-22T08:09:32.410652",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18488,11 +18503,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8685,
+      "fwci": 2.8687,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89060962,
+        "value": 0.8906179,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19460,7 +19475,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-21T08:13:44.787528",
+      "updated_date": "2026-03-21T06:30:42.041108",
       "created_date": "2025-10-10T00:00:00"
     },
     {

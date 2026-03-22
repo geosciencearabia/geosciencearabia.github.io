@@ -457,6 +457,765 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W4400871393",
+      "doi": "https://doi.org/10.1016/j.geoen.2024.213152",
+      "title": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
+      "display_name": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
+      "publication_year": 2024,
+      "publication_date": "2024-07-22",
+      "ids": {
+        "openalex": "https://openalex.org/W4400871393",
+        "doi": "https://doi.org/10.1016/j.geoen.2024.213152"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.geoen.2024.213152",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.geoen.2024.213152",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4387285440",
+          "display_name": "Geoenergy Science and Engineering",
+          "issn_l": "2949-8910",
+          "issn": [
+            "2949-8910"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoenergy Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5092832121",
+            "display_name": "Jean Carlos Rangel Gavidia",
+            "orcid": "https://orcid.org/0000-0002-1179-7989"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Carlos Rangel Gavidia",
+          "raw_affiliation_strings": [
+            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088395879",
+            "display_name": "SeyedMehdi Mohammadizadeh",
+            "orcid": "https://orcid.org/0000-0001-6995-066X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I180634299",
+              "display_name": "University of Sistan and Baluchestan",
+              "ror": "https://ror.org/02n43xw86",
+              "country_code": "IR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I180634299"
+              ]
+            }
+          ],
+          "countries": [
+            "BR",
+            "IR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "SeyedMehdi Mohammadizadeh",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Faculty of Engineering, University of Sistan and Baluchestan (USB), Zahedan, 98155-987, Iran",
+            "Department of Water Resources (DRH), College of Civil Engineering, Architecture and Urban design (FECFAU), University of Campinas (UNICAMP), Campinas, São Paulo, 13083-852, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Faculty of Engineering, University of Sistan and Baluchestan (USB), Zahedan, 98155-987, Iran",
+              "institution_ids": [
+                "https://openalex.org/I180634299"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Water Resources (DRH), College of Civil Engineering, Architecture and Urban design (FECFAU), University of Campinas (UNICAMP), Campinas, São Paulo, 13083-852, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009566538",
+            "display_name": "Guilherme Furlan Chinelatto",
+            "orcid": "https://orcid.org/0000-0002-8691-5871"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Guilherme Furlan Chinelatto",
+          "raw_affiliation_strings": [
+            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012140858",
+            "display_name": "Mateus Basso",
+            "orcid": "https://orcid.org/0000-0003-1383-420X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mateus Basso",
+          "raw_affiliation_strings": [
+            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057617772",
+            "display_name": "João Paulo da Ponte Souza",
+            "orcid": "https://orcid.org/0000-0001-8890-8897"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joao Paulo da Ponte Souza",
+          "raw_affiliation_strings": [
+            "Department of Mechanical Engineering (FEM), University of Campinas (UNICAMP), Campinas, SP, 13083-860, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mechanical Engineering (FEM), University of Campinas (UNICAMP), Campinas, SP, 13083-860, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052646582",
+            "display_name": "L. Portillo",
+            "orcid": "https://orcid.org/0009-0007-2414-7014"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Leandro Enrique Domínguez Portillo",
+          "raw_affiliation_strings": [
+            "Engineering Department, Venezuelan University of Hydrocarbon (UVH), Caracas, Venezuela"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Engineering Department, Venezuelan University of Hydrocarbon (UVH), Caracas, Venezuela",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040857714",
+            "display_name": "Hassan A. Eltom",
+            "orcid": "https://orcid.org/0000-0002-3515-0127"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hassan A. Eltom",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055095911",
+            "display_name": "Alexandre Campane Vidal",
+            "orcid": "https://orcid.org/0000-0002-9613-1261"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181391015",
+              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexandre Campane Vidal",
+          "raw_affiliation_strings": [
+            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I181391015"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5107771404",
+            "display_name": "Robert H. Goldstein",
+            "orcid": "https://orcid.org/0009-0000-9761-6829"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I146416000",
+              "display_name": "University of Kansas",
+              "ror": "https://ror.org/001tmjg57",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I146416000"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert H. Goldstein",
+          "raw_affiliation_strings": [
+            "Kansas Interdisciplinary Carbonates Consortium (KICC), University of Kansas, Lawrence, KS, 66045-7575, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium (KICC), University of Kansas, Lawrence, KS, 66045-7575, USA",
+              "institution_ids": [
+                "https://openalex.org/I146416000"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5088395879"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I180634299",
+        "https://openalex.org/I181391015"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 6.0241,
+      "has_fulltext": false,
+      "cited_by_count": 24,
+      "citation_normalized_percentile": {
+        "value": 0.976367,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "241",
+        "issue": null,
+        "first_page": "213152",
+        "last_page": "213152"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/bridging",
+          "display_name": "Bridging (networking)",
+          "score": 0.8652033805847168
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "Permeability (electromagnetism)",
+          "score": 0.5338137745857239
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5052960515022278
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.4348200857639313
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.4315446615219116
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.14161285758018494
+        },
+        {
+          "id": "https://openalex.org/keywords/membrane",
+          "display_name": "Membrane",
+          "score": 0.10879099369049072
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C174348530",
+          "wikidata": "https://www.wikidata.org/wiki/Q188635",
+          "display_name": "Bridging (networking)",
+          "level": 2,
+          "score": 0.8652033805847168
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.5338137745857239
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5052960515022278
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4348200857639313
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.4315446615219116
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.14161285758018494
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0.10879099369049072
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.geoen.2024.213152",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.geoen.2024.213152",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4387285440",
+            "display_name": "Geoenergy Science and Engineering",
+            "issn_l": "2949-8910",
+            "issn": [
+              "2949-8910"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geoenergy Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320997",
+          "display_name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+          "ror": "https://ror.org/02ddkpn78"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 81,
+      "referenced_works": [
+        "https://openalex.org/W1829809591",
+        "https://openalex.org/W1968431560",
+        "https://openalex.org/W1973792843",
+        "https://openalex.org/W1984434911",
+        "https://openalex.org/W1986022261",
+        "https://openalex.org/W1997174216",
+        "https://openalex.org/W2015159529",
+        "https://openalex.org/W2017048267",
+        "https://openalex.org/W2022183210",
+        "https://openalex.org/W2041621398",
+        "https://openalex.org/W2062684873",
+        "https://openalex.org/W2111779446",
+        "https://openalex.org/W2147445565",
+        "https://openalex.org/W2158240273",
+        "https://openalex.org/W2166594914",
+        "https://openalex.org/W2267639398",
+        "https://openalex.org/W2288849852",
+        "https://openalex.org/W2581806351",
+        "https://openalex.org/W2606255282",
+        "https://openalex.org/W2620013592",
+        "https://openalex.org/W2757438628",
+        "https://openalex.org/W2796767792",
+        "https://openalex.org/W2913387978",
+        "https://openalex.org/W2995779819",
+        "https://openalex.org/W2996906097",
+        "https://openalex.org/W3036157559",
+        "https://openalex.org/W3056799244",
+        "https://openalex.org/W3064120141",
+        "https://openalex.org/W3115194444",
+        "https://openalex.org/W3126689751",
+        "https://openalex.org/W3158136296",
+        "https://openalex.org/W3197231937",
+        "https://openalex.org/W3197729906",
+        "https://openalex.org/W3207181553",
+        "https://openalex.org/W3213457460",
+        "https://openalex.org/W4210565192",
+        "https://openalex.org/W4240144251",
+        "https://openalex.org/W4304891134",
+        "https://openalex.org/W4307813321",
+        "https://openalex.org/W4307814180",
+        "https://openalex.org/W4312112773",
+        "https://openalex.org/W4313293876",
+        "https://openalex.org/W4313641486",
+        "https://openalex.org/W4318567245",
+        "https://openalex.org/W4318814784",
+        "https://openalex.org/W4320919046",
+        "https://openalex.org/W4321033560",
+        "https://openalex.org/W4321089659",
+        "https://openalex.org/W4322769471",
+        "https://openalex.org/W4323543145",
+        "https://openalex.org/W4327565254",
+        "https://openalex.org/W4362670718",
+        "https://openalex.org/W4366132746",
+        "https://openalex.org/W4366717039",
+        "https://openalex.org/W4376649224",
+        "https://openalex.org/W4381243919",
+        "https://openalex.org/W4383341156",
+        "https://openalex.org/W4384828810",
+        "https://openalex.org/W4385690262",
+        "https://openalex.org/W4386570483",
+        "https://openalex.org/W4386879522",
+        "https://openalex.org/W4386964722",
+        "https://openalex.org/W4387230345",
+        "https://openalex.org/W4387843530",
+        "https://openalex.org/W4390035338",
+        "https://openalex.org/W4400365279",
+        "https://openalex.org/W6638402892",
+        "https://openalex.org/W6649149148",
+        "https://openalex.org/W6671634587",
+        "https://openalex.org/W6672648227",
+        "https://openalex.org/W6680545196",
+        "https://openalex.org/W6686791697",
+        "https://openalex.org/W6769623443",
+        "https://openalex.org/W6782734394",
+        "https://openalex.org/W6783401711",
+        "https://openalex.org/W6802606581",
+        "https://openalex.org/W6846667730",
+        "https://openalex.org/W6851282989",
+        "https://openalex.org/W6855745589",
+        "https://openalex.org/W6869388115",
+        "https://openalex.org/W6884909575"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4388870064",
+        "https://openalex.org/W2210139803",
+        "https://openalex.org/W4235186151",
+        "https://openalex.org/W2054685365",
+        "https://openalex.org/W2056057048",
+        "https://openalex.org/W2667588871",
+        "https://openalex.org/W2272354214"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-22T08:09:32.410652",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2923992571",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2019.03.019",
       "title": "Effect of bioturbation on petrophysical properties: Insights from geostatistical and flow simulation modeling",
@@ -1016,9 +1775,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -1608,9 +2367,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3602,9 +4361,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4268,9 +5027,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -5030,9 +5789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5153,765 +5912,6 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4400871393",
-      "doi": "https://doi.org/10.1016/j.geoen.2024.213152",
-      "title": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
-      "display_name": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
-      "publication_year": 2024,
-      "publication_date": "2024-07-22",
-      "ids": {
-        "openalex": "https://openalex.org/W4400871393",
-        "doi": "https://doi.org/10.1016/j.geoen.2024.213152"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.geoen.2024.213152",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.geoen.2024.213152",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4387285440",
-          "display_name": "Geoenergy Science and Engineering",
-          "issn_l": "2949-8910",
-          "issn": [
-            "2949-8910"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geoenergy Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5092832121",
-            "display_name": "Jean Carlos Rangel Gavidia",
-            "orcid": "https://orcid.org/0000-0002-1179-7989"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean Carlos Rangel Gavidia",
-          "raw_affiliation_strings": [
-            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088395879",
-            "display_name": "SeyedMehdi Mohammadizadeh",
-            "orcid": "https://orcid.org/0000-0001-6995-066X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I180634299",
-              "display_name": "University of Sistan and Baluchestan",
-              "ror": "https://ror.org/02n43xw86",
-              "country_code": "IR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I180634299"
-              ]
-            }
-          ],
-          "countries": [
-            "BR",
-            "IR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "SeyedMehdi Mohammadizadeh",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Faculty of Engineering, University of Sistan and Baluchestan (USB), Zahedan, 98155-987, Iran",
-            "Department of Water Resources (DRH), College of Civil Engineering, Architecture and Urban design (FECFAU), University of Campinas (UNICAMP), Campinas, São Paulo, 13083-852, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Faculty of Engineering, University of Sistan and Baluchestan (USB), Zahedan, 98155-987, Iran",
-              "institution_ids": [
-                "https://openalex.org/I180634299"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Water Resources (DRH), College of Civil Engineering, Architecture and Urban design (FECFAU), University of Campinas (UNICAMP), Campinas, São Paulo, 13083-852, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009566538",
-            "display_name": "Guilherme Furlan Chinelatto",
-            "orcid": "https://orcid.org/0000-0002-8691-5871"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Guilherme Furlan Chinelatto",
-          "raw_affiliation_strings": [
-            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5012140858",
-            "display_name": "Mateus Basso",
-            "orcid": "https://orcid.org/0000-0003-1383-420X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mateus Basso",
-          "raw_affiliation_strings": [
-            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057617772",
-            "display_name": "João Paulo da Ponte Souza",
-            "orcid": "https://orcid.org/0000-0001-8890-8897"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Joao Paulo da Ponte Souza",
-          "raw_affiliation_strings": [
-            "Department of Mechanical Engineering (FEM), University of Campinas (UNICAMP), Campinas, SP, 13083-860, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mechanical Engineering (FEM), University of Campinas (UNICAMP), Campinas, SP, 13083-860, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052646582",
-            "display_name": "L. Portillo",
-            "orcid": "https://orcid.org/0009-0007-2414-7014"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Leandro Enrique Domínguez Portillo",
-          "raw_affiliation_strings": [
-            "Engineering Department, Venezuelan University of Hydrocarbon (UVH), Caracas, Venezuela"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Engineering Department, Venezuelan University of Hydrocarbon (UVH), Caracas, Venezuela",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040857714",
-            "display_name": "Hassan A. Eltom",
-            "orcid": "https://orcid.org/0000-0002-3515-0127"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hassan A. Eltom",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055095911",
-            "display_name": "Alexandre Campane Vidal",
-            "orcid": "https://orcid.org/0000-0002-9613-1261"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181391015",
-              "display_name": "Universidade Estadual de Campinas (UNICAMP)",
-              "ror": "https://ror.org/04wffgt70",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alexandre Campane Vidal",
-          "raw_affiliation_strings": [
-            "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Natural Resources, Geosciences Institute (IG), University of Campinas (UNICAMP), Campinas, SP, 13083-855, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I181391015"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5107771404",
-            "display_name": "Robert H. Goldstein",
-            "orcid": "https://orcid.org/0009-0000-9761-6829"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I146416000",
-              "display_name": "University of Kansas",
-              "ror": "https://ror.org/001tmjg57",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I146416000"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert H. Goldstein",
-          "raw_affiliation_strings": [
-            "Kansas Interdisciplinary Carbonates Consortium (KICC), University of Kansas, Lawrence, KS, 66045-7575, USA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium (KICC), University of Kansas, Lawrence, KS, 66045-7575, USA",
-              "institution_ids": [
-                "https://openalex.org/I146416000"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5088395879"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I180634299",
-        "https://openalex.org/I181391015"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 5.859,
-      "has_fulltext": false,
-      "cited_by_count": 23,
-      "citation_normalized_percentile": {
-        "value": 0.97500446,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "241",
-        "issue": null,
-        "first_page": "213152",
-        "last_page": "213152"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/bridging",
-          "display_name": "Bridging (networking)",
-          "score": 0.8652033805847168
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.5338137745857239
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5052960515022278
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.4348200857639313
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.4315446615219116
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.14161285758018494
-        },
-        {
-          "id": "https://openalex.org/keywords/membrane",
-          "display_name": "Membrane",
-          "score": 0.10879099369049072
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C174348530",
-          "wikidata": "https://www.wikidata.org/wiki/Q188635",
-          "display_name": "Bridging (networking)",
-          "level": 2,
-          "score": 0.8652033805847168
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.5338137745857239
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.5052960515022278
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.4348200857639313
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.4315446615219116
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.14161285758018494
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0.10879099369049072
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C31258907",
-          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
-          "display_name": "Computer network",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.geoen.2024.213152",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.geoen.2024.213152",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4387285440",
-            "display_name": "Geoenergy Science and Engineering",
-            "issn_l": "2949-8910",
-            "issn": [
-              "2949-8910"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geoenergy Science and Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320997",
-          "display_name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
-          "ror": "https://ror.org/02ddkpn78"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 81,
-      "referenced_works": [
-        "https://openalex.org/W1829809591",
-        "https://openalex.org/W1968431560",
-        "https://openalex.org/W1973792843",
-        "https://openalex.org/W1984434911",
-        "https://openalex.org/W1986022261",
-        "https://openalex.org/W1997174216",
-        "https://openalex.org/W2015159529",
-        "https://openalex.org/W2017048267",
-        "https://openalex.org/W2022183210",
-        "https://openalex.org/W2041621398",
-        "https://openalex.org/W2062684873",
-        "https://openalex.org/W2111779446",
-        "https://openalex.org/W2147445565",
-        "https://openalex.org/W2158240273",
-        "https://openalex.org/W2166594914",
-        "https://openalex.org/W2267639398",
-        "https://openalex.org/W2288849852",
-        "https://openalex.org/W2581806351",
-        "https://openalex.org/W2606255282",
-        "https://openalex.org/W2620013592",
-        "https://openalex.org/W2757438628",
-        "https://openalex.org/W2796767792",
-        "https://openalex.org/W2913387978",
-        "https://openalex.org/W2995779819",
-        "https://openalex.org/W2996906097",
-        "https://openalex.org/W3036157559",
-        "https://openalex.org/W3056799244",
-        "https://openalex.org/W3064120141",
-        "https://openalex.org/W3115194444",
-        "https://openalex.org/W3126689751",
-        "https://openalex.org/W3158136296",
-        "https://openalex.org/W3197231937",
-        "https://openalex.org/W3197729906",
-        "https://openalex.org/W3207181553",
-        "https://openalex.org/W3213457460",
-        "https://openalex.org/W4210565192",
-        "https://openalex.org/W4240144251",
-        "https://openalex.org/W4304891134",
-        "https://openalex.org/W4307813321",
-        "https://openalex.org/W4307814180",
-        "https://openalex.org/W4312112773",
-        "https://openalex.org/W4313293876",
-        "https://openalex.org/W4313641486",
-        "https://openalex.org/W4318567245",
-        "https://openalex.org/W4318814784",
-        "https://openalex.org/W4320919046",
-        "https://openalex.org/W4321033560",
-        "https://openalex.org/W4321089659",
-        "https://openalex.org/W4322769471",
-        "https://openalex.org/W4323543145",
-        "https://openalex.org/W4327565254",
-        "https://openalex.org/W4362670718",
-        "https://openalex.org/W4366132746",
-        "https://openalex.org/W4366717039",
-        "https://openalex.org/W4376649224",
-        "https://openalex.org/W4381243919",
-        "https://openalex.org/W4383341156",
-        "https://openalex.org/W4384828810",
-        "https://openalex.org/W4385690262",
-        "https://openalex.org/W4386570483",
-        "https://openalex.org/W4386879522",
-        "https://openalex.org/W4386964722",
-        "https://openalex.org/W4387230345",
-        "https://openalex.org/W4387843530",
-        "https://openalex.org/W4390035338",
-        "https://openalex.org/W4400365279",
-        "https://openalex.org/W6638402892",
-        "https://openalex.org/W6649149148",
-        "https://openalex.org/W6671634587",
-        "https://openalex.org/W6672648227",
-        "https://openalex.org/W6680545196",
-        "https://openalex.org/W6686791697",
-        "https://openalex.org/W6769623443",
-        "https://openalex.org/W6782734394",
-        "https://openalex.org/W6783401711",
-        "https://openalex.org/W6802606581",
-        "https://openalex.org/W6846667730",
-        "https://openalex.org/W6851282989",
-        "https://openalex.org/W6855745589",
-        "https://openalex.org/W6869388115",
-        "https://openalex.org/W6884909575"
-      ],
-      "related_works": [
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2899084033",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W4388870064",
-        "https://openalex.org/W2210139803",
-        "https://openalex.org/W4235186151",
-        "https://openalex.org/W2054685365",
-        "https://openalex.org/W2056057048",
-        "https://openalex.org/W2667588871",
-        "https://openalex.org/W2272354214"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2023,
           "cited_by_count": 2
         }
       ],
@@ -10329,14 +10329,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5099999904632568,
           "display_name": "Clean water and sanitation",
-          "score": 0.5099999904632568
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12296,9 +12296,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13672,9 +13672,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14178,9 +14178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14752,9 +14752,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -16849,9 +16849,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17652,9 +17652,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -18802,9 +18802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -19938,9 +19938,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -21683,9 +21683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5299999713897705,
           "display_name": "Life in Land",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -23615,9 +23615,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.550000011920929,
           "display_name": "Life below water",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25183,9 +25183,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -26572,9 +26572,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -28444,9 +28444,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -31333,9 +31333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75,
           "display_name": "Life below water",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32706,9 +32706,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33425,9 +33425,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -34125,9 +34125,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -34688,9 +34688,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4699999988079071,
           "display_name": "Climate action",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -36063,9 +36063,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6399999856948853,
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36663,9 +36663,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38791,9 +38791,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -39303,9 +39303,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7799999713897705,
           "display_name": "Clean water and sanitation",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -39694,9 +39694,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863,
           "display_name": "Clean water and sanitation",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -40238,9 +40238,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.41999998688697815,
           "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -42007,9 +42007,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44599,9 +44599,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -45673,9 +45673,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4399999976158142,
           "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -46550,9 +46550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -47762,9 +47762,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -48225,9 +48225,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -48822,14 +48822,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4099999964237213,
           "display_name": "Sustainable cities and communities",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/11"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4000000059604645,
           "display_name": "Life in Land",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -52415,9 +52415,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -55559,9 +55559,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -56542,9 +56542,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027,
           "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -57081,9 +57081,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394,
           "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -58860,9 +58860,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
