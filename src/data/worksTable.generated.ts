@@ -50379,7 +50379,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 1,
-    "fwci": 0.8317,
+    "fwci": 0.8301,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -87163,7 +87163,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.8687,
+    "fwci": 2.8688,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87749,7 +87749,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-01-16",
     "year": 2013,
     "venue": "Gondwana Research",
-    "citations": 308,
+    "citations": 309,
     "fwci": 28.7751,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -89726,6 +89726,46 @@ export const worksTable: WorkTableRecord[] = [
       "Curtin University",
       "University of Wollongong",
       "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4399443420",
+    "doi": "https://doi.org/10.1007/s00126-024-01287-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5078847976",
+      "A5044014541",
+      "A5001633563",
+      "A5103931603",
+      "A5108202199",
+      "A5074824731"
+    ],
+    "firstAuthorLastName": "Hong",
+    "allAuthors": [
+      "Wei Hong",
+      "Adrian Fabris",
+      "Sarah Gilbert",
+      "Benjamin P. Wade",
+      "Alan S. Collins",
+      "T. Wise",
+      "Anthony Reid"
+    ],
+    "title": "Using zircon and apatite chemistry to fingerprint porphyry Cu – Mo ± Au mineralization in the Delamerian Orogen, South Australia",
+    "publicationDate": "2024-06-07",
+    "year": 2024,
+    "venue": "Mineralium Deposita",
+    "citations": 8,
+    "fwci": 4.3482,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "University of Tasmania"
     ]
   },
   {
@@ -93593,46 +93633,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Survey of Western Australia",
       "Durham University",
       "University of South Australia"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4399443420",
-    "doi": "https://doi.org/10.1007/s00126-024-01287-y",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5078847976",
-      "A5044014541",
-      "A5001633563",
-      "A5103931603",
-      "A5108202199",
-      "A5074824731"
-    ],
-    "firstAuthorLastName": "Hong",
-    "allAuthors": [
-      "Wei Hong",
-      "Adrian Fabris",
-      "Sarah Gilbert",
-      "Benjamin P. Wade",
-      "Alan S. Collins",
-      "T. Wise",
-      "Anthony Reid"
-    ],
-    "title": "Using zircon and apatite chemistry to fingerprint porphyry Cu – Mo ± Au mineralization in the Delamerian Orogen, South Australia",
-    "publicationDate": "2024-06-07",
-    "year": 2024,
-    "venue": "Mineralium Deposita",
-    "citations": 7,
-    "fwci": 3.9868,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "University of Tasmania"
     ]
   },
   {
@@ -114561,6 +114561,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4309038815",
+    "doi": "https://doi.org/10.1029/2022gl100800",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5020208666",
+      "A5035372765",
+      "A5061005201"
+    ],
+    "firstAuthorLastName": "Trower",
+    "allAuthors": [
+      "Elizabeth J. Trower",
+      "Benjamin P Smith",
+      "Ardiansyah Koeshidayatullah",
+      "Jonathan L. Payne"
+    ],
+    "title": "Marine Ooid Sizes Record Phanerozoic Seawater Carbonate Chemistry",
+    "publicationDate": "2022-11-15",
+    "year": 2022,
+    "venue": "Geophysical Research Letters",
+    "citations": 13,
+    "fwci": 5.5867,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "University of Colorado Boulder",
+      "California Institute of Technology",
+      "King Fahd University of Petroleum and Minerals",
+      "Stanford University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4395956767",
     "doi": "https://doi.org/10.1016/j.cageo.2024.105600",
     "program": "",
@@ -114599,42 +114635,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "University of Alberta",
       "China University of Geosciences"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4309038815",
-    "doi": "https://doi.org/10.1029/2022gl100800",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5020208666",
-      "A5035372765",
-      "A5061005201"
-    ],
-    "firstAuthorLastName": "Trower",
-    "allAuthors": [
-      "Elizabeth J. Trower",
-      "Benjamin P Smith",
-      "Ardiansyah Koeshidayatullah",
-      "Jonathan L. Payne"
-    ],
-    "title": "Marine Ooid Sizes Record Phanerozoic Seawater Carbonate Chemistry",
-    "publicationDate": "2022-11-15",
-    "year": 2022,
-    "venue": "Geophysical Research Letters",
-    "citations": 12,
-    "fwci": 5.6229,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "University of Colorado Boulder",
-      "California Institute of Technology",
-      "King Fahd University of Petroleum and Minerals",
-      "Stanford University"
     ]
   },
   {

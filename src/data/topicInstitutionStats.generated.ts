@@ -26,19 +26,19 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1018,
-    "citations": 28483
+    "citations": 28485
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 739,
-    "citations": 17215
+    "citations": 17216
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 638,
-    "citations": 31036
+    "citations": 31038
   },
   {
     "id": "https://openalex.org/T10965",
@@ -50,7 +50,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 561,
-    "citations": 11538
+    "citations": 11539
   },
   {
     "id": "https://openalex.org/T13177",
@@ -92,7 +92,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10413",
     "name": "High-pressure geophysics and materials",
     "publications": 162,
-    "citations": 13418
+    "citations": 13419
   },
   {
     "id": "https://openalex.org/T11801",
@@ -104,7 +104,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10765",
     "name": "Marine Biology and Ecology Research",
     "publications": 154,
-    "citations": 2763
+    "citations": 2764
   },
   {
     "id": "https://openalex.org/T14047",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 139,
-    "citations": 3416
+    "citations": 3417
   },
   {
     "id": "https://openalex.org/T11588",
@@ -3539,13 +3539,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 900,
-    "citations": 9866
+    "citations": 9867
   },
   {
     "id": "https://openalex.org/I5681781",
     "name": "University of Adelaide",
     "publications": 258,
-    "citations": 15990
+    "citations": 15992
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -3611,7 +3611,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I205640436",
     "name": "Curtin University",
     "publications": 85,
-    "citations": 8674
+    "citations": 8675
   },
   {
     "id": "https://openalex.org/I62856769",
@@ -3809,7 +3809,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I97018004",
     "name": "Stanford University",
     "publications": 22,
-    "citations": 342
+    "citations": 343
   },
   {
     "id": "https://openalex.org/I177877127",
@@ -4355,7 +4355,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I129801699",
     "name": "University of Tasmania",
     "publications": 10,
-    "citations": 229
+    "citations": 230
   },
   {
     "id": "https://openalex.org/I887968799",
@@ -5531,7 +5531,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I188538660",
     "name": "University of Colorado Boulder",
     "publications": 4,
-    "citations": 114
+    "citations": 115
   },
   {
     "id": "https://openalex.org/I4210112832",
@@ -5954,16 +5954,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 87
   },
   {
-    "id": "https://openalex.org/I2799885969",
-    "name": "Water Authority of Jordan",
+    "id": "https://openalex.org/I122411786",
+    "name": "California Institute of Technology",
     "publications": 3,
     "citations": 80
   },
   {
-    "id": "https://openalex.org/I122411786",
-    "name": "California Institute of Technology",
+    "id": "https://openalex.org/I2799885969",
+    "name": "Water Authority of Jordan",
     "publications": 3,
-    "citations": 79
+    "citations": 80
   },
   {
     "id": "https://openalex.org/I2800182745",

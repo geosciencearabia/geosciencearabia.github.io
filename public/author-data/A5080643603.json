@@ -64,6 +64,21 @@
       },
       {
         "institution": {
+          "id": "https://openalex.org/I4210143841",
+          "ror": "https://ror.org/03ypap427",
+          "display_name": "Saudi Aramco (Saudi Arabia)",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210143841"
+          ]
+        },
+        "years": [
+          2026
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I4210164339",
           "ror": "https://ror.org/05cxzzq07",
           "display_name": "Oldham Council",
@@ -103,6 +118,16 @@
         "type": "education",
         "lineage": [
           "https://openalex.org/I134085113"
+        ]
+      },
+      {
+        "id": "https://openalex.org/I4210143841",
+        "ror": "https://ror.org/03ypap427",
+        "display_name": "Saudi Aramco (Saudi Arabia)",
+        "country_code": "SA",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210143841"
         ]
       }
     ],
@@ -414,7 +439,7 @@
     },
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-03-21T12:22:22",
+    "updated_date": "2026-03-22T12:22:27",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -959,9 +984,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -1633,9 +1658,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3742,9 +3767,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth",
-          "score": 0.4099999964237213
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -4373,9 +4398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7193,9 +7218,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8395,9 +8420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10601,9 +10626,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -15145,9 +15170,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7799999713897705
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -15620,9 +15645,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16576,9 +16601,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -17522,9 +17547,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5299999713897705
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -19223,9 +19248,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20916,9 +20941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -22011,9 +22036,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23599,9 +23624,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -27593,9 +27618,9 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96831364,
+        "value": 0.84763696,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
@@ -28654,7 +28679,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-22T08:09:32.410652",
+      "updated_date": "2026-03-22T06:25:25.174409",
       "created_date": "2026-03-21T00:00:00"
     }
   ]
