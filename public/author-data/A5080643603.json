@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000382,
+        "value": 0.0000381,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -22595,21 +22595,8 @@
             "display_name": "Baqer Albensaad",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210164339",
-              "display_name": "Oldham Council",
-              "ror": "https://ror.org/05cxzzq07",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210164339"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Baqer Albensaad",
           "raw_affiliation_strings": [
@@ -22618,9 +22605,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": [
-                "https://openalex.org/I4210164339"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22631,21 +22616,8 @@
             "display_name": "Septriandi A. Chan",
             "orcid": "https://orcid.org/0000-0002-3681-7464"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210164339",
-              "display_name": "Oldham Council",
-              "ror": "https://ror.org/05cxzzq07",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210164339"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
@@ -22654,9 +22626,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": [
-                "https://openalex.org/I4210164339"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22667,21 +22637,8 @@
             "display_name": "John Humphrey",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210164339",
-              "display_name": "Oldham Council",
-              "ror": "https://ror.org/05cxzzq07",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210164339"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "John Humphrey",
           "raw_affiliation_strings": [
@@ -22690,9 +22647,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": [
-                "https://openalex.org/I4210164339"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22739,21 +22694,8 @@
             "display_name": "Ammar El‐Husseiny",
             "orcid": "https://orcid.org/0000-0001-5762-6109"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210164339",
-              "display_name": "Oldham Council",
-              "ror": "https://ror.org/05cxzzq07",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210164339"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
@@ -22762,9 +22704,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": [
-                "https://openalex.org/I4210164339"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22775,21 +22715,8 @@
             "display_name": "Yaser Alzayer",
             "orcid": "https://orcid.org/0000-0002-2391-5743"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210164339",
-              "display_name": "Oldham Council",
-              "ror": "https://ror.org/05cxzzq07",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210164339"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Yaser Alzayer",
           "raw_affiliation_strings": [
@@ -22798,22 +22725,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": [
-                "https://openalex.org/I4210164339"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5004157772"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210164339"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -23130,7 +23053,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-20T17:24:06.736184",
+      "updated_date": "2026-03-24T08:02:53.985720",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27428,7 +27351,7 @@
       "title": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
       "display_name": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
       "publication_year": 2026,
-      "publication_date": "2026-03-01",
+      "publication_date": "2026-03-20",
       "ids": {
         "openalex": "https://openalex.org/W7139925539",
         "doi": "https://doi.org/10.1016/j.mex.2026.103875"
@@ -27618,13 +27541,13 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84763696,
+        "value": 0.71067693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "16",
         "issue": null,
         "first_page": "103875",
         "last_page": "103875"
@@ -28679,7 +28602,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-22T06:25:25.174409",
+      "updated_date": "2026-03-24T08:02:53.985720",
       "created_date": "2026-03-21T00:00:00"
     }
   ]

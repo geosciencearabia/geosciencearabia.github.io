@@ -287,7 +287,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001484,
+        "value": 0.0001483,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -25564,6 +25564,595 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1569148305",
+      "doi": "https://doi.org/10.1016/s0167-5648(03)80026-6",
+      "title": "Timing of recharge, and the origin, evolution and distribution of solutes in a hyperarid aquifer system",
+      "display_name": "Timing of recharge, and the origin, evolution and distribution of solutes in a hyperarid aquifer system",
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1569148305",
+        "doi": "https://doi.org/10.1016/s0167-5648(03)80026-6",
+        "mag": "1569148305"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s0167-5648(03)80026-6",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0167-5648(03)80026-6",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764344020",
+          "display_name": "Developments in water science",
+          "issn_l": "0167-5648",
+          "issn": [
+            "0167-5648",
+            "2542-646X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Developments in Water Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5066910018",
+            "display_name": "Warren W. Wood",
+            "orcid": "https://orcid.org/0000-0002-3335-7597"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Warren W. Wood",
+          "raw_affiliation_strings": [
+            "Environment University of Oxford, Mansfield Road, Oxford OX1 3TB UK",
+            "School of Geography, Mansfield Road, Oxford OX1 3TB UK",
+            "U.S. Geological Survey, MS 430, 12201 Sunrise Valley Drive, Reston, VA 20192, Mansfield Road, Oxford OX1 3TB UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environment University of Oxford, Mansfield Road, Oxford OX1 3TB UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Geography, Mansfield Road, Oxford OX1 3TB UK",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, MS 430, 12201 Sunrise Valley Drive, Reston, VA 20192, Mansfield Road, Oxford OX1 3TB UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057564228",
+            "display_name": "Zein S. Rizk",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I182000528",
+              "display_name": "Ajman University",
+              "ror": "https://ror.org/01j1rma10",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182000528"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Zein S. Rizk",
+          "raw_affiliation_strings": [
+            "Institute of Environment and Water, Ajman University of Science & Technology, P. O. Box 346, Ajman, United Arab Emirates",
+            "Institute of Environment and Water, Ajman University of Science & Technology, P.O. Box: 346, Ajman, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environment and Water, Ajman University of Science & Technology, P. O. Box 346, Ajman, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I182000528"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Environment and Water, Ajman University of Science & Technology, P.O. Box: 346, Ajman, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I182000528"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman S. Alsharhan",
+          "raw_affiliation_strings": [
+            "Faculty of Science, United Arab Emirates University, P. O. Box 17551, Al Ain, United Arab Emirates",
+            "Faculty of Science, United Arab Emirates University, P.O. Box: 17551, Al-Ain, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Science, United Arab Emirates University, P. O. Box 17551, Al Ain, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Faculty of Science, United Arab Emirates University, P.O. Box: 17551, Al-Ain, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010401681",
+        "https://openalex.org/A5057564228",
+        "https://openalex.org/A5066910018"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333",
+        "https://openalex.org/I182000528",
+        "https://openalex.org/I201726411",
+        "https://openalex.org/I40120149"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 37,
+      "citation_normalized_percentile": {
+        "value": 0.09920635,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "295",
+        "last_page": "312"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10398",
+        "display_name": "Groundwater and Isotope Geochemistry",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.9970999956130981,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.8998563289642334
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-recharge",
+          "display_name": "Groundwater recharge",
+          "score": 0.7152004241943359
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7037797570228577
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.6245057582855225
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.5183911919593811
+        },
+        {
+          "id": "https://openalex.org/keywords/precipitation",
+          "display_name": "Precipitation",
+          "score": 0.5153452754020691
+        },
+        {
+          "id": "https://openalex.org/keywords/vadose-zone",
+          "display_name": "Vadose zone",
+          "score": 0.5112981796264648
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.07494732737541199
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.8998563289642334
+        },
+        {
+          "id": "https://openalex.org/C174091901",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Groundwater recharge",
+          "level": 4,
+          "score": 0.7152004241943359
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7037797570228577
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.6245057582855225
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.5183911919593811
+        },
+        {
+          "id": "https://openalex.org/C107054158",
+          "wikidata": "https://www.wikidata.org/wiki/Q25257",
+          "display_name": "Precipitation",
+          "level": 2,
+          "score": 0.5153452754020691
+        },
+        {
+          "id": "https://openalex.org/C35588792",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479708",
+          "display_name": "Vadose zone",
+          "level": 3,
+          "score": 0.5112981796264648
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.07494732737541199
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0167-5648(03)80026-6",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0167-5648(03)80026-6",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764344020",
+            "display_name": "Developments in water science",
+            "issn_l": "0167-5648",
+            "issn": [
+              "0167-5648",
+              "2542-646X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Developments in Water Science",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322679",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83"
+        },
+        {
+          "id": "https://openalex.org/F4320323593",
+          "display_name": "United Arab Emirates University",
+          "ror": "https://ror.org/01km6p862"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W196108489",
+        "https://openalex.org/W616681345",
+        "https://openalex.org/W649820064",
+        "https://openalex.org/W1489231039",
+        "https://openalex.org/W1508420949",
+        "https://openalex.org/W1579708980",
+        "https://openalex.org/W1674993078",
+        "https://openalex.org/W1970797589",
+        "https://openalex.org/W1974282116",
+        "https://openalex.org/W2010294065",
+        "https://openalex.org/W2014411696",
+        "https://openalex.org/W2029583187",
+        "https://openalex.org/W2030406965",
+        "https://openalex.org/W2031852252",
+        "https://openalex.org/W2031974096",
+        "https://openalex.org/W2038652533",
+        "https://openalex.org/W2045225400",
+        "https://openalex.org/W2051644298",
+        "https://openalex.org/W2058068703",
+        "https://openalex.org/W2060905767",
+        "https://openalex.org/W2065913921",
+        "https://openalex.org/W2078957100",
+        "https://openalex.org/W2112013509",
+        "https://openalex.org/W2121829211",
+        "https://openalex.org/W2129630929",
+        "https://openalex.org/W2155905859",
+        "https://openalex.org/W2160707469",
+        "https://openalex.org/W2165167023",
+        "https://openalex.org/W2253996630",
+        "https://openalex.org/W2904132173",
+        "https://openalex.org/W2921151885",
+        "https://openalex.org/W3140624793",
+        "https://openalex.org/W6608052201",
+        "https://openalex.org/W6782312927"
+      ],
+      "related_works": [
+        "https://openalex.org/W4238785448",
+        "https://openalex.org/W2115375046",
+        "https://openalex.org/W2391400003",
+        "https://openalex.org/W2356240650",
+        "https://openalex.org/W2800429671",
+        "https://openalex.org/W1544538430",
+        "https://openalex.org/W2034340819",
+        "https://openalex.org/W3036982047",
+        "https://openalex.org/W1509618746",
+        "https://openalex.org/W2318938969"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-03-24T08:02:53.985720",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2099898880",
       "doi": "https://doi.org/10.1111/j.1747-5457.1997.tb00639.x",
       "title": "THE MIOCENE KAREEM FORMATION IN THE SOUTHERN GULF OF SUEZ, EGYPT: A REVIEW OF STRATIGRAPHY AND PETROLEUM GEOLOGY",
@@ -31449,6 +32038,551 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3011969010",
+      "doi": "https://doi.org/10.1007/978-3-030-31684-6_8",
+      "title": "Aflaj Systems: History and Factors Affecting Recharge and Discharge",
+      "display_name": "Aflaj Systems: History and Factors Affecting Recharge and Discharge",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3011969010",
+        "doi": "https://doi.org/10.1007/978-3-030-31684-6_8",
+        "mag": "3011969010"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-31684-6_8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210185371",
+          "display_name": "World water resources",
+          "issn_l": "2509-7385",
+          "issn": [
+            "2509-7385",
+            "2509-7393"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "World Water Resources",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210135487",
+              "display_name": "Intel (United Arab Emirates)",
+              "ror": "https://ror.org/03ytyhv33",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1343180700",
+                "https://openalex.org/I4210135487"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman S. Alsharhan",
+          "raw_affiliation_strings": [
+            "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4210135487"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5032999052",
+            "display_name": "Zeinelabidin E. Rizk",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4388891817",
+              "display_name": "University of Science and Technology of Fujairah",
+              "ror": "https://ror.org/00dgnn742",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4388891817"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zeinelabidin E. Rizk",
+          "raw_affiliation_strings": [
+            "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4388891817"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010401681"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210135487"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 5.8543,
+      "has_fulltext": false,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.95376045,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "257",
+        "last_page": "280"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14160",
+        "display_name": "Water management and technologies",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1105",
+          "display_name": "Ecology, Evolution, Behavior and Systematics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/11",
+          "display_name": "Agricultural and Biological Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14160",
+          "display_name": "Water management and technologies",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1105",
+            "display_name": "Ecology, Evolution, Behavior and Systematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11755",
+          "display_name": "Transboundary Water Resource Management",
+          "score": 0.9657999873161316,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12543",
+          "display_name": "Groundwater and Watershed Analysis",
+          "score": 0.9314000010490417,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/groundwater-recharge",
+          "display_name": "Groundwater recharge",
+          "score": 0.9817565083503723
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.6728075742721558
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.6714865565299988
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.6507588028907776
+        },
+        {
+          "id": "https://openalex.org/keywords/foothills",
+          "display_name": "Foothills",
+          "score": 0.5497164130210876
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.49430084228515625
+        },
+        {
+          "id": "https://openalex.org/keywords/water-quality",
+          "display_name": "Water quality",
+          "score": 0.4339922368526459
+        },
+        {
+          "id": "https://openalex.org/keywords/depression-focused-recharge",
+          "display_name": "Depression-focused recharge",
+          "score": 0.4250490665435791
+        },
+        {
+          "id": "https://openalex.org/keywords/irrigation",
+          "display_name": "Irrigation",
+          "score": 0.42335790395736694
+        },
+        {
+          "id": "https://openalex.org/keywords/water-resource-management",
+          "display_name": "Water resource management",
+          "score": 0.38276174664497375
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3278101682662964
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.3085421323776245
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.07559746503829956
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.07455229759216309
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C174091901",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Groundwater recharge",
+          "level": 4,
+          "score": 0.9817565083503723
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.6728075742721558
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.6714865565299988
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.6507588028907776
+        },
+        {
+          "id": "https://openalex.org/C129536444",
+          "wikidata": "https://www.wikidata.org/wiki/Q1354045",
+          "display_name": "Foothills",
+          "level": 2,
+          "score": 0.5497164130210876
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.49430084228515625
+        },
+        {
+          "id": "https://openalex.org/C2780797713",
+          "wikidata": "https://www.wikidata.org/wiki/Q625376",
+          "display_name": "Water quality",
+          "level": 2,
+          "score": 0.4339922368526459
+        },
+        {
+          "id": "https://openalex.org/C187606762",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Depression-focused recharge",
+          "level": 5,
+          "score": 0.4250490665435791
+        },
+        {
+          "id": "https://openalex.org/C88862950",
+          "wikidata": "https://www.wikidata.org/wiki/Q11453",
+          "display_name": "Irrigation",
+          "level": 2,
+          "score": 0.42335790395736694
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.38276174664497375
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3278101682662964
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3085421323776245
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.07559746503829956
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.07455229759216309
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-31684-6_8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210185371",
+            "display_name": "World water resources",
+            "issn_l": "2509-7385",
+            "issn": [
+              "2509-7385",
+              "2509-7393"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "World Water Resources",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Clean water and sanitation",
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/6"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 23,
+      "referenced_works": [
+        "https://openalex.org/W81243159",
+        "https://openalex.org/W98744335",
+        "https://openalex.org/W221663089",
+        "https://openalex.org/W649820064",
+        "https://openalex.org/W893521657",
+        "https://openalex.org/W1575843133",
+        "https://openalex.org/W1760593842",
+        "https://openalex.org/W1817624767",
+        "https://openalex.org/W1966002225",
+        "https://openalex.org/W1971381271",
+        "https://openalex.org/W2022390906",
+        "https://openalex.org/W2035915056",
+        "https://openalex.org/W2038934945",
+        "https://openalex.org/W2082046469",
+        "https://openalex.org/W2083457864",
+        "https://openalex.org/W2124459245",
+        "https://openalex.org/W2317362684",
+        "https://openalex.org/W2329683820",
+        "https://openalex.org/W2529469824",
+        "https://openalex.org/W2551983092",
+        "https://openalex.org/W2765396855",
+        "https://openalex.org/W3148036655",
+        "https://openalex.org/W3149047033"
+      ],
+      "related_works": [
+        "https://openalex.org/W2312857012",
+        "https://openalex.org/W2232202086",
+        "https://openalex.org/W4313478716",
+        "https://openalex.org/W4312116679",
+        "https://openalex.org/W4307730513",
+        "https://openalex.org/W2125007802",
+        "https://openalex.org/W3197247591",
+        "https://openalex.org/W2569512405",
+        "https://openalex.org/W1598482965",
+        "https://openalex.org/W3008350115"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-03-24T08:02:53.985720",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2496313930",
       "doi": "https://doi.org/10.1016/b978-044482465-3/50003-6",
       "title": "THE GEOLOGICAL HISTORY AND STRUCTURAL ELEMENTS OF THE MIDDLE EAST",
@@ -31921,6 +33055,625 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3010955210",
+      "doi": "https://doi.org/10.1007/978-3-030-31684-6_18",
+      "title": "Groundwater: Quality Degradation and Water Pollution",
+      "display_name": "Groundwater: Quality Degradation and Water Pollution",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3010955210",
+        "doi": "https://doi.org/10.1007/978-3-030-31684-6_18",
+        "mag": "3010955210"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-31684-6_18",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_18",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210185371",
+          "display_name": "World water resources",
+          "issn_l": "2509-7385",
+          "issn": [
+            "2509-7385",
+            "2509-7393"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "World Water Resources",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210135487",
+              "display_name": "Intel (United Arab Emirates)",
+              "ror": "https://ror.org/03ytyhv33",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1343180700",
+                "https://openalex.org/I4210135487"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman S. Alsharhan",
+          "raw_affiliation_strings": [
+            "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4210135487"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5032999052",
+            "display_name": "Zeinelabidin E. Rizk",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4388891817",
+              "display_name": "University of Science and Technology of Fujairah",
+              "ror": "https://ror.org/00dgnn742",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4388891817"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zeinelabidin E. Rizk",
+          "raw_affiliation_strings": [
+            "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4388891817"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010401681"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210135487"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.1887,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.78125,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "549",
+        "last_page": "590"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10398",
+        "display_name": "Groundwater and Isotope Geochemistry",
+        "score": 0.9986000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11331",
+          "display_name": "Fecal contamination and water quality",
+          "score": 0.9790999889373779,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.6627495884895325
+        },
+        {
+          "id": "https://openalex.org/keywords/degradation",
+          "display_name": "Degradation (telecommunications)",
+          "score": 0.6268507838249207
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.6245084404945374
+        },
+        {
+          "id": "https://openalex.org/keywords/pollution",
+          "display_name": "Pollution",
+          "score": 0.5994086265563965
+        },
+        {
+          "id": "https://openalex.org/keywords/water-resource-management",
+          "display_name": "Water resource management",
+          "score": 0.575707733631134
+        },
+        {
+          "id": "https://openalex.org/keywords/water-quality",
+          "display_name": "Water quality",
+          "score": 0.508290708065033
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-pollution",
+          "display_name": "Groundwater pollution",
+          "score": 0.4765518307685852
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-planning",
+          "display_name": "Environmental planning",
+          "score": 0.43796882033348083
+        },
+        {
+          "id": "https://openalex.org/keywords/water-pollution",
+          "display_name": "Water pollution",
+          "score": 0.41968512535095215
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-engineering",
+          "display_name": "Environmental engineering",
+          "score": 0.3802129328250885
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-protection",
+          "display_name": "Environmental protection",
+          "score": 0.32562440633773804
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-chemistry",
+          "display_name": "Environmental chemistry",
+          "score": 0.14801767468452454
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.1338341236114502
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.1333356499671936
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.08344078063964844
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.077911376953125
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.07480484247207642
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.045322805643081665
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.6627495884895325
+        },
+        {
+          "id": "https://openalex.org/C2779679103",
+          "wikidata": "https://www.wikidata.org/wiki/Q5251805",
+          "display_name": "Degradation (telecommunications)",
+          "level": 2,
+          "score": 0.6268507838249207
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.6245084404945374
+        },
+        {
+          "id": "https://openalex.org/C521259446",
+          "wikidata": "https://www.wikidata.org/wiki/Q58734",
+          "display_name": "Pollution",
+          "level": 2,
+          "score": 0.5994086265563965
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.575707733631134
+        },
+        {
+          "id": "https://openalex.org/C2780797713",
+          "wikidata": "https://www.wikidata.org/wiki/Q625376",
+          "display_name": "Water quality",
+          "level": 2,
+          "score": 0.508290708065033
+        },
+        {
+          "id": "https://openalex.org/C2778192778",
+          "wikidata": "https://www.wikidata.org/wiki/Q20113712",
+          "display_name": "Groundwater pollution",
+          "level": 4,
+          "score": 0.4765518307685852
+        },
+        {
+          "id": "https://openalex.org/C91375879",
+          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+          "display_name": "Environmental planning",
+          "level": 1,
+          "score": 0.43796882033348083
+        },
+        {
+          "id": "https://openalex.org/C90195498",
+          "wikidata": "https://www.wikidata.org/wiki/Q183129",
+          "display_name": "Water pollution",
+          "level": 2,
+          "score": 0.41968512535095215
+        },
+        {
+          "id": "https://openalex.org/C87717796",
+          "wikidata": "https://www.wikidata.org/wiki/Q146326",
+          "display_name": "Environmental engineering",
+          "level": 1,
+          "score": 0.3802129328250885
+        },
+        {
+          "id": "https://openalex.org/C526734887",
+          "wikidata": "https://www.wikidata.org/wiki/Q832237",
+          "display_name": "Environmental protection",
+          "level": 1,
+          "score": 0.32562440633773804
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.14801767468452454
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.1338341236114502
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.1333356499671936
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.08344078063964844
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.077911376953125
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.07480484247207642
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.045322805643081665
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-31684-6_18",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_18",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210185371",
+            "display_name": "World water resources",
+            "issn_l": "2509-7385",
+            "issn": [
+              "2509-7385",
+              "2509-7393"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "World Water Resources",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Clean water and sanitation",
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/6"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 65,
+      "referenced_works": [
+        "https://openalex.org/W116700597",
+        "https://openalex.org/W188007058",
+        "https://openalex.org/W244186264",
+        "https://openalex.org/W340096640",
+        "https://openalex.org/W580339029",
+        "https://openalex.org/W581525560",
+        "https://openalex.org/W639802733",
+        "https://openalex.org/W649820064",
+        "https://openalex.org/W1509604824",
+        "https://openalex.org/W1521869024",
+        "https://openalex.org/W1524061162",
+        "https://openalex.org/W1535691628",
+        "https://openalex.org/W1550881932",
+        "https://openalex.org/W1551631827",
+        "https://openalex.org/W1552970690",
+        "https://openalex.org/W1580961126",
+        "https://openalex.org/W1607412687",
+        "https://openalex.org/W1679674058",
+        "https://openalex.org/W1835654170",
+        "https://openalex.org/W1968955176",
+        "https://openalex.org/W1978026510",
+        "https://openalex.org/W1980755037",
+        "https://openalex.org/W1995656366",
+        "https://openalex.org/W1995924989",
+        "https://openalex.org/W2002488644",
+        "https://openalex.org/W2002771636",
+        "https://openalex.org/W2018228338",
+        "https://openalex.org/W2020216932",
+        "https://openalex.org/W2023549127",
+        "https://openalex.org/W2023881746",
+        "https://openalex.org/W2026552025",
+        "https://openalex.org/W2027270511",
+        "https://openalex.org/W2031336525",
+        "https://openalex.org/W2039203839",
+        "https://openalex.org/W2056462417",
+        "https://openalex.org/W2062324331",
+        "https://openalex.org/W2064299399",
+        "https://openalex.org/W2068224535",
+        "https://openalex.org/W2074345650",
+        "https://openalex.org/W2074768210",
+        "https://openalex.org/W2077061748",
+        "https://openalex.org/W2079520466",
+        "https://openalex.org/W2085365718",
+        "https://openalex.org/W2087015756",
+        "https://openalex.org/W2094881639",
+        "https://openalex.org/W2107845743",
+        "https://openalex.org/W2132541220",
+        "https://openalex.org/W2134433134",
+        "https://openalex.org/W2157845544",
+        "https://openalex.org/W2187585778",
+        "https://openalex.org/W2226304873",
+        "https://openalex.org/W2253996630",
+        "https://openalex.org/W2335557496",
+        "https://openalex.org/W2337547682",
+        "https://openalex.org/W2482259611",
+        "https://openalex.org/W2483273873",
+        "https://openalex.org/W2765396855",
+        "https://openalex.org/W3048520682",
+        "https://openalex.org/W3193859801",
+        "https://openalex.org/W4230209038",
+        "https://openalex.org/W4233727269",
+        "https://openalex.org/W4235193496",
+        "https://openalex.org/W4245888399",
+        "https://openalex.org/W4299501080",
+        "https://openalex.org/W4393197712"
+      ],
+      "related_works": [
+        "https://openalex.org/W2367003325",
+        "https://openalex.org/W2382147790",
+        "https://openalex.org/W2357847693",
+        "https://openalex.org/W2388126677",
+        "https://openalex.org/W4281889863",
+        "https://openalex.org/W2393109829",
+        "https://openalex.org/W2357992242",
+        "https://openalex.org/W1570176628",
+        "https://openalex.org/W2945635500",
+        "https://openalex.org/W2381013158"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-24T08:02:53.985720",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37785,591 +39538,6 @@
         {
           "year": 2012,
           "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1569148305",
-      "doi": "https://doi.org/10.1016/s0167-5648(03)80026-6",
-      "title": "Timing of recharge, and the origin, evolution and distribution of solutes in a hyperarid aquifer system",
-      "display_name": "Timing of recharge, and the origin, evolution and distribution of solutes in a hyperarid aquifer system",
-      "publication_year": 2003,
-      "publication_date": "2003-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1569148305",
-        "doi": "https://doi.org/10.1016/s0167-5648(03)80026-6",
-        "mag": "1569148305"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s0167-5648(03)80026-6",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0167-5648(03)80026-6",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764344020",
-          "display_name": "Developments in water science",
-          "issn_l": "0167-5648",
-          "issn": [
-            "0167-5648",
-            "2542-646X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Developments in Water Science",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5066910018",
-            "display_name": "Warren W. Wood",
-            "orcid": "https://orcid.org/0000-0002-3335-7597"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Warren W. Wood",
-          "raw_affiliation_strings": [
-            "Environment University of Oxford, Mansfield Road, Oxford OX1 3TB UK",
-            "School of Geography, Mansfield Road, Oxford OX1 3TB UK",
-            "U.S. Geological Survey, MS 430, 12201 Sunrise Valley Drive, Reston, VA 20192, Mansfield Road, Oxford OX1 3TB UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environment University of Oxford, Mansfield Road, Oxford OX1 3TB UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geography, Mansfield Road, Oxford OX1 3TB UK",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "U.S. Geological Survey, MS 430, 12201 Sunrise Valley Drive, Reston, VA 20192, Mansfield Road, Oxford OX1 3TB UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057564228",
-            "display_name": "Zein S. Rizk",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I182000528",
-              "display_name": "Ajman University",
-              "ror": "https://ror.org/01j1rma10",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182000528"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Zein S. Rizk",
-          "raw_affiliation_strings": [
-            "Institute of Environment and Water, Ajman University of Science & Technology, P. O. Box 346, Ajman, United Arab Emirates",
-            "Institute of Environment and Water, Ajman University of Science & Technology, P.O. Box: 346, Ajman, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Environment and Water, Ajman University of Science & Technology, P. O. Box 346, Ajman, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I182000528"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Environment and Water, Ajman University of Science & Technology, P.O. Box: 346, Ajman, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I182000528"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulrahman S. Alsharhan",
-          "raw_affiliation_strings": [
-            "Faculty of Science, United Arab Emirates University, P. O. Box 17551, Al Ain, United Arab Emirates",
-            "Faculty of Science, United Arab Emirates University, P.O. Box: 17551, Al-Ain, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Science, United Arab Emirates University, P. O. Box 17551, Al Ain, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculty of Science, United Arab Emirates University, P.O. Box: 17551, Al-Ain, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5010401681",
-        "https://openalex.org/A5057564228",
-        "https://openalex.org/A5066910018"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333",
-        "https://openalex.org/I182000528",
-        "https://openalex.org/I201726411",
-        "https://openalex.org/I40120149"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 36,
-      "citation_normalized_percentile": {
-        "value": 0.09960159,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "295",
-        "last_page": "312"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10398",
-        "display_name": "Groundwater and Isotope Geochemistry",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.9979000091552734,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12083",
-          "display_name": "Karst Systems and Hydrogeology",
-          "score": 0.9970999956130981,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.8998563289642334
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-recharge",
-          "display_name": "Groundwater recharge",
-          "score": 0.7152004241943359
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7037797570228577
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.6245057582855225
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.5183911919593811
-        },
-        {
-          "id": "https://openalex.org/keywords/precipitation",
-          "display_name": "Precipitation",
-          "score": 0.5153452754020691
-        },
-        {
-          "id": "https://openalex.org/keywords/vadose-zone",
-          "display_name": "Vadose zone",
-          "score": 0.5112981796264648
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.07494732737541199
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.8998563289642334
-        },
-        {
-          "id": "https://openalex.org/C174091901",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Groundwater recharge",
-          "level": 4,
-          "score": 0.7152004241943359
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7037797570228577
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.6245057582855225
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.5183911919593811
-        },
-        {
-          "id": "https://openalex.org/C107054158",
-          "wikidata": "https://www.wikidata.org/wiki/Q25257",
-          "display_name": "Precipitation",
-          "level": 2,
-          "score": 0.5153452754020691
-        },
-        {
-          "id": "https://openalex.org/C35588792",
-          "wikidata": "https://www.wikidata.org/wiki/Q1479708",
-          "display_name": "Vadose zone",
-          "level": 3,
-          "score": 0.5112981796264648
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.07494732737541199
-        },
-        {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0167-5648(03)80026-6",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0167-5648(03)80026-6",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764344020",
-            "display_name": "Developments in water science",
-            "issn_l": "0167-5648",
-            "issn": [
-              "0167-5648",
-              "2542-646X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Developments in Water Science",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322679",
-          "display_name": "International Atomic Energy Agency",
-          "ror": "https://ror.org/02zt1gg83"
-        },
-        {
-          "id": "https://openalex.org/F4320323593",
-          "display_name": "United Arab Emirates University",
-          "ror": "https://ror.org/01km6p862"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W196108489",
-        "https://openalex.org/W616681345",
-        "https://openalex.org/W649820064",
-        "https://openalex.org/W1489231039",
-        "https://openalex.org/W1508420949",
-        "https://openalex.org/W1579708980",
-        "https://openalex.org/W1674993078",
-        "https://openalex.org/W1970797589",
-        "https://openalex.org/W1974282116",
-        "https://openalex.org/W2010294065",
-        "https://openalex.org/W2014411696",
-        "https://openalex.org/W2029583187",
-        "https://openalex.org/W2030406965",
-        "https://openalex.org/W2031852252",
-        "https://openalex.org/W2031974096",
-        "https://openalex.org/W2038652533",
-        "https://openalex.org/W2045225400",
-        "https://openalex.org/W2051644298",
-        "https://openalex.org/W2058068703",
-        "https://openalex.org/W2060905767",
-        "https://openalex.org/W2065913921",
-        "https://openalex.org/W2078957100",
-        "https://openalex.org/W2112013509",
-        "https://openalex.org/W2121829211",
-        "https://openalex.org/W2129630929",
-        "https://openalex.org/W2155905859",
-        "https://openalex.org/W2160707469",
-        "https://openalex.org/W2165167023",
-        "https://openalex.org/W2253996630",
-        "https://openalex.org/W2904132173",
-        "https://openalex.org/W2921151885",
-        "https://openalex.org/W3140624793",
-        "https://openalex.org/W6608052201",
-        "https://openalex.org/W6782312927"
-      ],
-      "related_works": [
-        "https://openalex.org/W4238785448",
-        "https://openalex.org/W2115375046",
-        "https://openalex.org/W2391400003",
-        "https://openalex.org/W2356240650",
-        "https://openalex.org/W2800429671",
-        "https://openalex.org/W1544538430",
-        "https://openalex.org/W2034340819",
-        "https://openalex.org/W3036982047",
-        "https://openalex.org/W1509618746",
-        "https://openalex.org/W2318938969"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 3
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -62693,547 +63861,6 @@
         }
       ],
       "updated_date": "2025-11-06T04:12:42.849631",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3011969010",
-      "doi": "https://doi.org/10.1007/978-3-030-31684-6_8",
-      "title": "Aflaj Systems: History and Factors Affecting Recharge and Discharge",
-      "display_name": "Aflaj Systems: History and Factors Affecting Recharge and Discharge",
-      "publication_year": 2020,
-      "publication_date": "2020-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3011969010",
-        "doi": "https://doi.org/10.1007/978-3-030-31684-6_8",
-        "mag": "3011969010"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-030-31684-6_8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210185371",
-          "display_name": "World water resources",
-          "issn_l": "2509-7385",
-          "issn": [
-            "2509-7385",
-            "2509-7393"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310319972",
-          "host_organization_name": "Springer International Publishing",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319972",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer International Publishing",
-            "Springer Nature"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "World Water Resources",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210135487",
-              "display_name": "Intel (United Arab Emirates)",
-              "ror": "https://ror.org/03ytyhv33",
-              "country_code": "AE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1343180700",
-                "https://openalex.org/I4210135487"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulrahman S. Alsharhan",
-          "raw_affiliation_strings": [
-            "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4210135487"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5032999052",
-            "display_name": "Zeinelabidin E. Rizk",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4388891817",
-              "display_name": "University of Science and Technology of Fujairah",
-              "ror": "https://ror.org/00dgnn742",
-              "country_code": null,
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4388891817"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zeinelabidin E. Rizk",
-          "raw_affiliation_strings": [
-            "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4388891817"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5010401681"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210135487"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 5.8539,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.95379477,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "257",
-        "last_page": "280"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T14160",
-        "display_name": "Water management and technologies",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1105",
-          "display_name": "Ecology, Evolution, Behavior and Systematics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/11",
-          "display_name": "Agricultural and Biological Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T14160",
-          "display_name": "Water management and technologies",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11755",
-          "display_name": "Transboundary Water Resource Management",
-          "score": 0.9657999873161316,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3312",
-            "display_name": "Sociology and Political Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12543",
-          "display_name": "Groundwater and Watershed Analysis",
-          "score": 0.9314000010490417,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/groundwater-recharge",
-          "display_name": "Groundwater recharge",
-          "score": 0.9817565083503723
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.6728075742721558
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.6714865565299988
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.6507588028907776
-        },
-        {
-          "id": "https://openalex.org/keywords/foothills",
-          "display_name": "Foothills",
-          "score": 0.5497164130210876
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.49430084228515625
-        },
-        {
-          "id": "https://openalex.org/keywords/water-quality",
-          "display_name": "Water quality",
-          "score": 0.4339922368526459
-        },
-        {
-          "id": "https://openalex.org/keywords/depression-focused-recharge",
-          "display_name": "Depression-focused recharge",
-          "score": 0.4250490665435791
-        },
-        {
-          "id": "https://openalex.org/keywords/irrigation",
-          "display_name": "Irrigation",
-          "score": 0.42335790395736694
-        },
-        {
-          "id": "https://openalex.org/keywords/water-resource-management",
-          "display_name": "Water resource management",
-          "score": 0.38276174664497375
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3278101682662964
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.3085421323776245
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.07559746503829956
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.07455229759216309
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C174091901",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Groundwater recharge",
-          "level": 4,
-          "score": 0.9817565083503723
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.6728075742721558
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.6714865565299988
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.6507588028907776
-        },
-        {
-          "id": "https://openalex.org/C129536444",
-          "wikidata": "https://www.wikidata.org/wiki/Q1354045",
-          "display_name": "Foothills",
-          "level": 2,
-          "score": 0.5497164130210876
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.49430084228515625
-        },
-        {
-          "id": "https://openalex.org/C2780797713",
-          "wikidata": "https://www.wikidata.org/wiki/Q625376",
-          "display_name": "Water quality",
-          "level": 2,
-          "score": 0.4339922368526459
-        },
-        {
-          "id": "https://openalex.org/C187606762",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Depression-focused recharge",
-          "level": 5,
-          "score": 0.4250490665435791
-        },
-        {
-          "id": "https://openalex.org/C88862950",
-          "wikidata": "https://www.wikidata.org/wiki/Q11453",
-          "display_name": "Irrigation",
-          "level": 2,
-          "score": 0.42335790395736694
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.38276174664497375
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3278101682662964
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3085421323776245
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.07559746503829956
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.07455229759216309
-        },
-        {
-          "id": "https://openalex.org/C58640448",
-          "wikidata": "https://www.wikidata.org/wiki/Q42515",
-          "display_name": "Cartography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-030-31684-6_8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210185371",
-            "display_name": "World water resources",
-            "issn_l": "2509-7385",
-            "issn": [
-              "2509-7385",
-              "2509-7393"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310319972",
-            "host_organization_name": "Springer International Publishing",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319972",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer International Publishing",
-              "Springer Nature"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "World Water Resources",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/6"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 23,
-      "referenced_works": [
-        "https://openalex.org/W81243159",
-        "https://openalex.org/W98744335",
-        "https://openalex.org/W221663089",
-        "https://openalex.org/W649820064",
-        "https://openalex.org/W893521657",
-        "https://openalex.org/W1575843133",
-        "https://openalex.org/W1760593842",
-        "https://openalex.org/W1817624767",
-        "https://openalex.org/W1966002225",
-        "https://openalex.org/W1971381271",
-        "https://openalex.org/W2022390906",
-        "https://openalex.org/W2035915056",
-        "https://openalex.org/W2038934945",
-        "https://openalex.org/W2082046469",
-        "https://openalex.org/W2083457864",
-        "https://openalex.org/W2124459245",
-        "https://openalex.org/W2317362684",
-        "https://openalex.org/W2329683820",
-        "https://openalex.org/W2529469824",
-        "https://openalex.org/W2551983092",
-        "https://openalex.org/W2765396855",
-        "https://openalex.org/W3148036655",
-        "https://openalex.org/W3149047033"
-      ],
-      "related_works": [
-        "https://openalex.org/W2312857012",
-        "https://openalex.org/W2232202086",
-        "https://openalex.org/W4313478716",
-        "https://openalex.org/W4312116679",
-        "https://openalex.org/W4307730513",
-        "https://openalex.org/W2125007802",
-        "https://openalex.org/W3197247591",
-        "https://openalex.org/W2569512405",
-        "https://openalex.org/W1598482965",
-        "https://openalex.org/W3008350115"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -89217,621 +89844,6 @@
       "counts_by_year": [
         {
           "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3010955210",
-      "doi": "https://doi.org/10.1007/978-3-030-31684-6_18",
-      "title": "Groundwater: Quality Degradation and Water Pollution",
-      "display_name": "Groundwater: Quality Degradation and Water Pollution",
-      "publication_year": 2020,
-      "publication_date": "2020-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3010955210",
-        "doi": "https://doi.org/10.1007/978-3-030-31684-6_18",
-        "mag": "3010955210"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-030-31684-6_18",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_18",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210185371",
-          "display_name": "World water resources",
-          "issn_l": "2509-7385",
-          "issn": [
-            "2509-7385",
-            "2509-7393"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310319972",
-          "host_organization_name": "Springer International Publishing",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319972",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer International Publishing",
-            "Springer Nature"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "World Water Resources",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210135487",
-              "display_name": "Intel (United Arab Emirates)",
-              "ror": "https://ror.org/03ytyhv33",
-              "country_code": "AE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1343180700",
-                "https://openalex.org/I4210135487"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulrahman S. Alsharhan",
-          "raw_affiliation_strings": [
-            "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Middle East Geological and Environmental Establishment, Dubai, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4210135487"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5032999052",
-            "display_name": "Zeinelabidin E. Rizk",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4388891817",
-              "display_name": "University of Science and Technology of Fujairah",
-              "ror": "https://ror.org/00dgnn742",
-              "country_code": null,
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4388891817"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zeinelabidin E. Rizk",
-          "raw_affiliation_strings": [
-            "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Science and Technology of Fujairah, Fujairah, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4388891817"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5010401681"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210135487"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.1855,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.78065395,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "549",
-        "last_page": "590"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10398",
-        "display_name": "Groundwater and Isotope Geochemistry",
-        "score": 0.9986000061035156,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11331",
-          "display_name": "Fecal contamination and water quality",
-          "score": 0.9790999889373779,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.6627495884895325
-        },
-        {
-          "id": "https://openalex.org/keywords/degradation",
-          "display_name": "Degradation (telecommunications)",
-          "score": 0.6268507838249207
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.6245084404945374
-        },
-        {
-          "id": "https://openalex.org/keywords/pollution",
-          "display_name": "Pollution",
-          "score": 0.5994086265563965
-        },
-        {
-          "id": "https://openalex.org/keywords/water-resource-management",
-          "display_name": "Water resource management",
-          "score": 0.575707733631134
-        },
-        {
-          "id": "https://openalex.org/keywords/water-quality",
-          "display_name": "Water quality",
-          "score": 0.508290708065033
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-pollution",
-          "display_name": "Groundwater pollution",
-          "score": 0.4765518307685852
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-planning",
-          "display_name": "Environmental planning",
-          "score": 0.43796882033348083
-        },
-        {
-          "id": "https://openalex.org/keywords/water-pollution",
-          "display_name": "Water pollution",
-          "score": 0.41968512535095215
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-engineering",
-          "display_name": "Environmental engineering",
-          "score": 0.3802129328250885
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-protection",
-          "display_name": "Environmental protection",
-          "score": 0.32562440633773804
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-chemistry",
-          "display_name": "Environmental chemistry",
-          "score": 0.14801767468452454
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.1338341236114502
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.1333356499671936
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.08344078063964844
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.077911376953125
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.07480484247207642
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.045322805643081665
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.6627495884895325
-        },
-        {
-          "id": "https://openalex.org/C2779679103",
-          "wikidata": "https://www.wikidata.org/wiki/Q5251805",
-          "display_name": "Degradation (telecommunications)",
-          "level": 2,
-          "score": 0.6268507838249207
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.6245084404945374
-        },
-        {
-          "id": "https://openalex.org/C521259446",
-          "wikidata": "https://www.wikidata.org/wiki/Q58734",
-          "display_name": "Pollution",
-          "level": 2,
-          "score": 0.5994086265563965
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.575707733631134
-        },
-        {
-          "id": "https://openalex.org/C2780797713",
-          "wikidata": "https://www.wikidata.org/wiki/Q625376",
-          "display_name": "Water quality",
-          "level": 2,
-          "score": 0.508290708065033
-        },
-        {
-          "id": "https://openalex.org/C2778192778",
-          "wikidata": "https://www.wikidata.org/wiki/Q20113712",
-          "display_name": "Groundwater pollution",
-          "level": 4,
-          "score": 0.4765518307685852
-        },
-        {
-          "id": "https://openalex.org/C91375879",
-          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
-          "display_name": "Environmental planning",
-          "level": 1,
-          "score": 0.43796882033348083
-        },
-        {
-          "id": "https://openalex.org/C90195498",
-          "wikidata": "https://www.wikidata.org/wiki/Q183129",
-          "display_name": "Water pollution",
-          "level": 2,
-          "score": 0.41968512535095215
-        },
-        {
-          "id": "https://openalex.org/C87717796",
-          "wikidata": "https://www.wikidata.org/wiki/Q146326",
-          "display_name": "Environmental engineering",
-          "level": 1,
-          "score": 0.3802129328250885
-        },
-        {
-          "id": "https://openalex.org/C526734887",
-          "wikidata": "https://www.wikidata.org/wiki/Q832237",
-          "display_name": "Environmental protection",
-          "level": 1,
-          "score": 0.32562440633773804
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0.14801767468452454
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.1338341236114502
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.1333356499671936
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.08344078063964844
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.077911376953125
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.07480484247207642
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.045322805643081665
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-030-31684-6_18",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-030-31684-6_18",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210185371",
-            "display_name": "World water resources",
-            "issn_l": "2509-7385",
-            "issn": [
-              "2509-7385",
-              "2509-7393"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310319972",
-            "host_organization_name": "Springer International Publishing",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319972",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer International Publishing",
-              "Springer Nature"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "World Water Resources",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/6"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 65,
-      "referenced_works": [
-        "https://openalex.org/W116700597",
-        "https://openalex.org/W188007058",
-        "https://openalex.org/W244186264",
-        "https://openalex.org/W340096640",
-        "https://openalex.org/W580339029",
-        "https://openalex.org/W581525560",
-        "https://openalex.org/W639802733",
-        "https://openalex.org/W649820064",
-        "https://openalex.org/W1509604824",
-        "https://openalex.org/W1521869024",
-        "https://openalex.org/W1524061162",
-        "https://openalex.org/W1535691628",
-        "https://openalex.org/W1550881932",
-        "https://openalex.org/W1551631827",
-        "https://openalex.org/W1552970690",
-        "https://openalex.org/W1580961126",
-        "https://openalex.org/W1607412687",
-        "https://openalex.org/W1679674058",
-        "https://openalex.org/W1835654170",
-        "https://openalex.org/W1968955176",
-        "https://openalex.org/W1978026510",
-        "https://openalex.org/W1980755037",
-        "https://openalex.org/W1995656366",
-        "https://openalex.org/W1995924989",
-        "https://openalex.org/W2002488644",
-        "https://openalex.org/W2002771636",
-        "https://openalex.org/W2018228338",
-        "https://openalex.org/W2020216932",
-        "https://openalex.org/W2023549127",
-        "https://openalex.org/W2023881746",
-        "https://openalex.org/W2026552025",
-        "https://openalex.org/W2027270511",
-        "https://openalex.org/W2031336525",
-        "https://openalex.org/W2039203839",
-        "https://openalex.org/W2056462417",
-        "https://openalex.org/W2062324331",
-        "https://openalex.org/W2064299399",
-        "https://openalex.org/W2068224535",
-        "https://openalex.org/W2074345650",
-        "https://openalex.org/W2074768210",
-        "https://openalex.org/W2077061748",
-        "https://openalex.org/W2079520466",
-        "https://openalex.org/W2085365718",
-        "https://openalex.org/W2087015756",
-        "https://openalex.org/W2094881639",
-        "https://openalex.org/W2107845743",
-        "https://openalex.org/W2132541220",
-        "https://openalex.org/W2134433134",
-        "https://openalex.org/W2157845544",
-        "https://openalex.org/W2187585778",
-        "https://openalex.org/W2226304873",
-        "https://openalex.org/W2253996630",
-        "https://openalex.org/W2335557496",
-        "https://openalex.org/W2337547682",
-        "https://openalex.org/W2482259611",
-        "https://openalex.org/W2483273873",
-        "https://openalex.org/W2765396855",
-        "https://openalex.org/W3048520682",
-        "https://openalex.org/W3193859801",
-        "https://openalex.org/W4230209038",
-        "https://openalex.org/W4233727269",
-        "https://openalex.org/W4235193496",
-        "https://openalex.org/W4245888399",
-        "https://openalex.org/W4299501080",
-        "https://openalex.org/W4393197712"
-      ],
-      "related_works": [
-        "https://openalex.org/W2367003325",
-        "https://openalex.org/W2382147790",
-        "https://openalex.org/W2357847693",
-        "https://openalex.org/W2388126677",
-        "https://openalex.org/W4281889863",
-        "https://openalex.org/W2393109829",
-        "https://openalex.org/W2357992242",
-        "https://openalex.org/W1570176628",
-        "https://openalex.org/W2945635500",
-        "https://openalex.org/W2381013158"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2020,
           "cited_by_count": 1
         }
       ],
