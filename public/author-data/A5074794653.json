@@ -121,21 +121,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210164339",
-          "ror": "https://ror.org/05cxzzq07",
-          "display_name": "Oldham Council",
-          "country_code": "GB",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I4210164339"
-          ]
-        },
-        "years": [
-          2024
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I62856769",
           "ror": "https://ror.org/035n7q728",
           "display_name": "Saudi Aramco (United States)",
@@ -275,7 +260,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002594,
+        "value": 0.0002592,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -534,7 +519,7 @@
     },
     "block_key": "a alafifi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
-    "updated_date": "2026-03-21T12:22:22",
+    "updated_date": "2026-03-24T12:21:16",
     "created_date": "2020-05-13T00:00:00"
   },
   "works": [
@@ -4732,11 +4717,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 10.5377,
+      "fwci": 10.6042,
       "has_fulltext": false,
-      "cited_by_count": 85,
+      "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.99259119,
+        "value": 0.99280186,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5168,7 +5153,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -5183,7 +5168,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-03-25T14:56:36.534964",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69824,18 +69809,16 @@
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2038137/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-2038137/latest.pdf",
         "source": {
-          "id": "https://openalex.org/S4306402450",
-          "display_name": "Research Square (Research Square)",
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I4210096694",
-          "host_organization_name": "Research Square (United States)",
-          "host_organization_lineage": [
-            "https://openalex.org/I4210096694"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -69844,7 +69827,7 @@
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "type": "preprint",
@@ -69899,7 +69882,7 @@
           "author": {
             "id": "https://openalex.org/A5058263186",
             "display_name": "Abdirizak Omar",
-            "orcid": "https://orcid.org/0000-0003-1887-4411"
+            "orcid": null
           },
           "institutions": [
             {
@@ -70043,7 +70026,7 @@
           "author": {
             "id": "https://openalex.org/A5024637239",
             "display_name": "Zeyad Ahmed",
-            "orcid": "https://orcid.org/0000-0002-9877-4682"
+            "orcid": null
           },
           "institutions": [
             {
@@ -70086,7 +70069,7 @@
           "author": {
             "id": "https://openalex.org/A5013962194",
             "display_name": "Noushad Kunnummal",
-            "orcid": "https://orcid.org/0000-0001-5600-3356"
+            "orcid": null
           },
           "institutions": [
             {
@@ -70180,6 +70163,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I165368041",
               "display_name": "University of Iceland",
               "ror": "https://ror.org/01db6h964",
@@ -70198,25 +70191,20 @@
               "lineage": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I134560555",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210164289",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460029"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I4405257220"
               ]
             }
           ],
@@ -70656,18 +70644,16 @@
           "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2038137/v1",
           "pdf_url": "https://www.researchsquare.com/article/rs-2038137/latest.pdf",
           "source": {
-            "id": "https://openalex.org/S4306402450",
-            "display_name": "Research Square (Research Square)",
+            "id": "https://openalex.org/S4306525896",
+            "display_name": "Research Square",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I4210096694",
-            "host_organization_name": "Research Square (United States)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210096694"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -70676,7 +70662,7 @@
           "version": "acceptedVersion",
           "is_accepted": true,
           "is_published": false,
-          "raw_source_name": null,
+          "raw_source_name": "Research Square",
           "raw_type": "posted-content"
         }
       ],
@@ -70686,18 +70672,16 @@
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2038137/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-2038137/latest.pdf",
         "source": {
-          "id": "https://openalex.org/S4306402450",
-          "display_name": "Research Square (Research Square)",
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I4210096694",
-          "host_organization_name": "Research Square (United States)",
-          "host_organization_lineage": [
-            "https://openalex.org/I4210096694"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -70706,7 +70690,7 @@
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [
@@ -71394,7 +71378,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-25T14:56:36.534964",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72272,13 +72256,26 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2510296/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-2510296/latest.pdf",
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "type": "preprint",
@@ -72287,7 +72284,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://www.researchsquare.com/article/rs-2510296/latest.pdf",
         "any_repository_has_fulltext": true
       },
@@ -72297,7 +72294,7 @@
           "author": {
             "id": "https://openalex.org/A5081959676",
             "display_name": "Alessandro Genovese",
-            "orcid": "https://orcid.org/0000-0001-8154-3098"
+            "orcid": null
           },
           "institutions": [
             {
@@ -72655,13 +72652,26 @@
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2510296/v1",
           "pdf_url": "https://www.researchsquare.com/article/rs-2510296/latest.pdf",
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306525896",
+            "display_name": "Research Square",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
           "version": "acceptedVersion",
           "is_accepted": true,
           "is_published": false,
-          "raw_source_name": null,
+          "raw_source_name": "Research Square",
           "raw_type": "posted-content"
         },
         {
@@ -72699,13 +72709,26 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-2510296/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-2510296/latest.pdf",
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [
@@ -72782,378 +72805,9 @@
         "https://openalex.org/W2351643838",
         "https://openalex.org/W2324615561"
       ],
-      "abstract_inverted_index": {
-        "<title>Abstract</title>": [
-          0
-        ],
-        "Strain": [
-          1
-        ],
-        "and": [
-          2,
-          13,
-          36,
-          66,
-          91,
-          112,
-          123
-        ],
-        "kinematic": [
-          3
-        ],
-        "indicators": [
-          4,
-          99,
-          139
-        ],
-        "are": [
-          5
-        ],
-        "frequently": [
-          6
-        ],
-        "investigated": [
-          7
-        ],
-        "to": [
-          8,
-          25,
-          71,
-          77,
-          146
-        ],
-        "assess": [
-          9
-        ],
-        "the": [
-          10,
-          23,
-          26,
-          34,
-          45,
-          53,
-          57,
-          78,
-          86,
-          120,
-          136
-        ],
-        "type,": [
-          11
-        ],
-        "magnitude,": [
-          12
-        ],
-        "orientation": [
-          14
-        ],
-        "of": [
-          15,
-          39,
-          47,
-          56,
-          59,
-          144
-        ],
-        "deformation": [
-          16,
-          74
-        ],
-        "fields.": [
-          17
-        ],
-        "Typically,": [
-          18
-        ],
-        "their": [
-          19
-        ],
-        "analysis": [
-          20
-        ],
-        "ranges": [
-          21
-        ],
-        "from": [
-          22,
-          44
-        ],
-        "outcrop": [
-          24
-        ],
-        "thin": [
-          27
-        ],
-        "section": [
-          28
-        ],
-        "scale.": [
-          29
-        ],
-        "The": [
-          30,
-          80,
-          94
-        ],
-        "present": [
-          31
-        ],
-        "study": [
-          32
-        ],
-        "characterizes": [
-          33
-        ],
-        "structural": [
-          35
-        ],
-        "mineralogical": [
-          37
-        ],
-        "development": [
-          38
-        ],
-        "a": [
-          40,
-          48,
-          124,
-          141
-        ],
-        "phyllosilicate-rich": [
-          41,
-          151
-        ],
-        "fault": [
-          42,
-          51,
-          81,
-          152
-        ],
-        "gouge": [
-          43,
-          82
-        ],
-        "core": [
-          46
-        ],
-        "major": [
-          49
-        ],
-        "strike-slip": [
-          50
-        ],
-        "on": [
-          52
-        ],
-        "eastern": [
-          54
-        ],
-        "margin": [
-          55
-        ],
-        "Gulf": [
-          58
-        ],
-        "Aqaba.": [
-          60
-        ],
-        "We": [
-          61
-        ],
-        "used": [
-          62
-        ],
-        "transmission": [
-          63
-        ],
-        "electron": [
-          64
-        ],
-        "microscopy": [
-          65
-        ],
-        "focused": [
-          67
-        ],
-        "ion": [
-          68
-        ],
-        "beam": [
-          69
-        ],
-        "techniques": [
-          70
-        ],
-        "explore": [
-          72
-        ],
-        "shear": [
-          73,
-          97,
-          121,
-          148
-        ],
-        "structures": [
-          75
-        ],
-        "down": [
-          76
-        ],
-        "nanoscale.": [
-          79
-        ],
-        "was": [
-          83
-        ],
-        "differentiated": [
-          84
-        ],
-        "at": [
-          85
-        ],
-        "micron-submicron": [
-          87
-        ],
-        "scale": [
-          88
-        ],
-        "into": [
-          89
-        ],
-        "chlorite-rich": [
-          90
-        ],
-        "illite-rich": [
-          92
-        ],
-        "bands.": [
-          93
-        ],
-        "observed": [
-          95
-        ],
-        "nano-kinematic": [
-          96
-        ],
-        "sense": [
-          98,
-          149
-        ],
-        "were": [
-          100
-        ],
-        "SC/SCC’": [
-          101
-        ],
-        "fabrics": [
-          102
-        ],
-        "in": [
-          103,
-          109,
-          131,
-          150
-        ],
-        "phyllosilicate": [
-          104
-        ],
-        "bands,": [
-          105
-        ],
-        "inclined": [
-          106,
-          118
-        ],
-        "axial": [
-          107
-        ],
-        "planes": [
-          108
-        ],
-        "kink-folded": [
-          110
-        ],
-        "illite": [
-          111
-        ],
-        "chlorite": [
-          113
-        ],
-        "plates,": [
-          114
-        ],
-        "platy": [
-          115
-        ],
-        "hematite": [
-          116
-        ],
-        "clasts": [
-          117
-        ],
-        "against": [
-          119
-        ],
-        "direction,": [
-          122
-        ],
-        "σ-type": [
-          125
-        ],
-        "clast": [
-          126
-        ],
-        "system": [
-          127
-        ],
-        "with": [
-          128
-        ],
-        "recrystallized": [
-          129
-        ],
-        "material": [
-          130
-        ],
-        "strain": [
-          132
-        ],
-        "shadow": [
-          133
-        ],
-        "wings": [
-          134
-        ],
-        "around": [
-          135
-        ],
-        "clasts.": [
-          137
-        ],
-        "These": [
-          138
-        ],
-        "provide": [
-          140
-        ],
-        "consistent": [
-          142
-        ],
-        "set": [
-          143
-        ],
-        "criteria": [
-          145
-        ],
-        "determine": [
-          147
-        ],
-        "gouges.": [
-          153
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-03-25T14:56:36.534964",
       "created_date": "2025-10-10T00:00:00"
     },
     {
