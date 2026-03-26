@@ -13,7 +13,7 @@
       "Vecoli, Marco"
     ],
     "works_count": 131,
-    "cited_by_count": 3018,
+    "cited_by_count": 3030,
     "summary_stats": {
       "2yr_mean_citedness": 0.25,
       "h_index": 34,
@@ -326,7 +326,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0004026,
+        "value": 0.0004027,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -343,7 +343,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0001253,
+        "value": 0.0001254,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -394,7 +394,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000834,
+        "value": 0.0000835,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -506,7 +506,7 @@
         "year": 2007,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 365
+        "cited_by_count": 366
       },
       {
         "year": 2008,
@@ -518,19 +518,19 @@
         "year": 2009,
         "works_count": 7,
         "oa_works_count": 0,
-        "cited_by_count": 252
+        "cited_by_count": 253
       },
       {
         "year": 2010,
         "works_count": 8,
         "oa_works_count": 2,
-        "cited_by_count": 72
+        "cited_by_count": 73
       },
       {
         "year": 2011,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 369
+        "cited_by_count": 371
       },
       {
         "year": 2012,
@@ -542,31 +542,31 @@
         "year": 2013,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 96
+        "cited_by_count": 97
       },
       {
         "year": 2014,
         "works_count": 8,
         "oa_works_count": 4,
-        "cited_by_count": 189
+        "cited_by_count": 190
       },
       {
         "year": 2015,
         "works_count": 5,
         "oa_works_count": 3,
-        "cited_by_count": 24
+        "cited_by_count": 25
       },
       {
         "year": 2016,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 82
+        "cited_by_count": 83
       },
       {
         "year": 2017,
         "works_count": 10,
         "oa_works_count": 2,
-        "cited_by_count": 177
+        "cited_by_count": 180
       },
       {
         "year": 2018,
@@ -627,7 +627,7 @@
     },
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-03-24T12:21:16",
+    "updated_date": "2026-03-26T00:47:17",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -28512,9 +28512,9 @@
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
             "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
           ],
           "affiliations": [
             {
@@ -28523,6 +28523,12 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -28536,12 +28542,6 @@
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
               ]
             }
           ]
@@ -28562,11 +28562,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 3.7378,
+      "fwci": 3.7381,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.92809508,
+        "value": 0.92809969,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29015,7 +29015,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-03-24T08:02:53.985720",
+      "updated_date": "2026-03-26T15:22:09.906841",
       "created_date": "2025-10-10T00:00:00"
     },
     {
