@@ -10115,8 +10115,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -10167,11 +10167,11 @@
         "currency": "USD",
         "value_usd": 700
       },
-      "fwci": 3.312,
+      "fwci": 3.3105,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.92984706,
+        "value": 0.92980613,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11378,7 +11378,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35780,8 +35780,8 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -35950,11 +35950,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2648,
+      "fwci": 8.2951,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.97068535,
+        "value": 0.97091752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37258,7 +37258,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42857,10 +42857,21 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
@@ -42884,7 +42895,9 @@
             },
             {
               "raw_affiliation_string": "Previous institution: Department of Geological Sciences, Stanford University, Stanford, CA 94305, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
             }
           ]
         },
@@ -43118,8 +43131,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -43208,7 +43221,8 @@
         "https://openalex.org/A5059881838"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I97018004"
       ],
       "apc_list": {
         "value": 4050,
@@ -43216,16 +43230,16 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 14.5248,
+      "fwci": 14.5262,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.98820356,
+        "value": 0.98820498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -44271,7 +44285,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52325,8 +52339,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -52443,11 +52457,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8249,
+      "fwci": 1.8228,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.82887608,
+        "value": 0.82860766,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53521,7 +53535,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-26T15:22:09.906841",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66813,7 +66827,7 @@
           "author": {
             "id": "https://openalex.org/A5059738250",
             "display_name": "Ahmed Al‐Yaseri",
-            "orcid": "https://orcid.org/0000-0001-9094-1258"
+            "orcid": null
           },
           "institutions": [
             {
@@ -66884,8 +66898,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -66943,11 +66957,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 1.2914,
+      "fwci": 1.2407,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.77230854,
+        "value": 0.76369128,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68260,7 +68274,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-11T14:59:36.786465",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2024-07-16T00:00:00"
     },
     {
@@ -68419,8 +68433,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -68503,7 +68517,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.29268448,
+        "value": 0.29235542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69769,7 +69783,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -81162,8 +81176,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -81265,11 +81279,11 @@
         "currency": "USD",
         "value_usd": 900
       },
-      "fwci": 1.978,
+      "fwci": 1.925,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.87507568,
+        "value": 0.87147666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82336,7 +82350,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-17T17:19:04.345684",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -93860,17 +93874,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I58286723",
-              "display_name": "Lunar and Planetary Institute",
-              "ror": "https://ror.org/01r4eh644",
-              "country_code": "US",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1329765538",
-                "https://openalex.org/I58286723"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210149382",
               "display_name": "Johnson Space Center",
               "ror": "https://ror.org/04xx4z452",
@@ -93879,6 +93882,17 @@
               "lineage": [
                 "https://openalex.org/I4210124779",
                 "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I58286723",
+              "display_name": "Lunar and Planetary Institute",
+              "ror": "https://ror.org/01r4eh644",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1329765538",
+                "https://openalex.org/I58286723"
               ]
             }
           ],
@@ -93969,8 +93983,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -94028,11 +94042,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.4307,
+      "fwci": 0.4636,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.65755431,
+        "value": 0.6860309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95126,7 +95140,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -118677,7 +118691,7 @@
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": "Earth and Space Science Open Archive",
+        "raw_source_name": null,
         "raw_type": "posted-content"
       },
       "type": "preprint",
@@ -118837,8 +118851,8 @@
           "raw_affiliation_strings": [
             "NASA Johnson Space Center",
             "King Fahd University of Petroleum and Minerals",
-            "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
-            "Lunar and Planetary Institute, Universities Space Research Association, 3600 Bay Area Blvd., Houston, TX, USA"
+            "Lunar and Planetary Institute, Universities Space Research Association, 3600 Bay Area Blvd., Houston, TX, USA",
+            "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA"
           ],
           "affiliations": [
             {
@@ -118854,16 +118868,16 @@
               ]
             },
             {
-              "raw_affiliation_string": "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210149382"
-              ]
-            },
-            {
               "raw_affiliation_string": "Lunar and Planetary Institute, Universities Space Research Association, 3600 Bay Area Blvd., Houston, TX, USA",
               "institution_ids": [
                 "https://openalex.org/I58286723",
                 "https://openalex.org/I1329765538"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
               ]
             }
           ]
@@ -118950,8 +118964,8 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals",
             "KFUPM",
-            "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, P.O. Box 5061, Dhahran -31261, Saudi Arabia"
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, P.O. Box 5061, Dhahran -31261, Saudi Arabia",
+            "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA"
           ],
           "affiliations": [
             {
@@ -118967,15 +118981,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210149382"
-              ]
-            },
-            {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, P.O. Box 5061, Dhahran -31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Astromaterials Research and Exploration Science, NASA Johnson Space Cen-ter, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
               ]
             }
           ]
@@ -118996,7 +119010,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01750159,
+        "value": 0.01750009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -119342,7 +119356,7 @@
           "version": "acceptedVersion",
           "is_accepted": true,
           "is_published": false,
-          "raw_source_name": "Earth and Space Science Open Archive",
+          "raw_source_name": null,
           "raw_type": "posted-content"
         }
       ],
@@ -119357,7 +119371,7 @@
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": "Earth and Space Science Open Archive",
+        "raw_source_name": null,
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [
@@ -120022,7 +120036,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-25T13:04:00.132906",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -121107,8 +121121,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -121192,7 +121206,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01542244,
+        "value": 0.01551103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121944,7 +121958,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -125526,16 +125540,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -125543,6 +125547,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -125646,16 +125660,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -125663,6 +125667,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -125694,16 +125708,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -125711,6 +125715,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -125742,16 +125756,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -125759,6 +125763,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -125821,20 +125835,10 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
             {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
@@ -125843,6 +125847,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -125880,8 +125894,8 @@
         "https://openalex.org/A5027197211"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210118538",
-        "https://openalex.org/I134085113"
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210118538"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -125889,7 +125903,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01885643,
+        "value": 0.01830348,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126946,7 +126960,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -130350,7 +130364,7 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
+            "orcid": null
           },
           "institutions": [
             {
@@ -130529,8 +130543,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -130585,7 +130599,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00704522,
+        "value": 0.00740094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131662,7 +131676,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-19T19:40:27.379048",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -139073,8 +139087,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -139128,7 +139142,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06898854,
+        "value": 0.05353302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -140133,7 +140147,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -140213,8 +140227,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -140334,7 +140348,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10914139,
+        "value": 0.09159357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -141274,7 +141288,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -141376,8 +141390,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -141504,7 +141518,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22072723,
+        "value": 0.21842519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -142858,7 +142872,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {

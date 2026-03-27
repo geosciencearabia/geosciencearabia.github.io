@@ -1205,9 +1205,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -1234,8 +1234,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4320719921.pdf",
@@ -2785,9 +2785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.49000000953674316
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -2799,8 +2799,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -3480,8 +3480,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -4817,16 +4817,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -5926,8 +5926,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -7476,16 +7476,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -8067,8 +8067,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -9343,8 +9343,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -10779,16 +10779,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4319785709.pdf"
@@ -12169,16 +12169,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -12815,8 +12815,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -12901,1781 +12901,6 @@
         }
       ],
       "updated_date": "2026-03-22T08:09:32.410652",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4410633965",
-      "doi": "https://doi.org/10.1021/acs.energyfuels.4c06211",
-      "title": "Enhancing Hydrogen Storage Efficiency in Organic-Rich Shales Using Silica Nanofluids: A Comprehensive Study on Wettability Alteration",
-      "display_name": "Enhancing Hydrogen Storage Efficiency in Organic-Rich Shales Using Silica Nanofluids: A Comprehensive Study on Wettability Alteration",
-      "publication_year": 2025,
-      "publication_date": "2025-05-23",
-      "ids": {
-        "openalex": "https://openalex.org/W4410633965",
-        "doi": "https://doi.org/10.1021/acs.energyfuels.4c06211"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1021/acs.energyfuels.4c06211",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c06211",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S186935893",
-          "display_name": "Energy & Fuels",
-          "issn_l": "0887-0624",
-          "issn": [
-            "0887-0624",
-            "1520-5029"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy &amp; Fuels",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103178727",
-            "display_name": "Amer Alanazi",
-            "orcid": "https://orcid.org/0000-0002-7508-5913"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Amer Alanazi",
-          "raw_affiliation_strings": [
-            "KAUST Upstream Research Center, EXPEC-ARC, Saudi Aramco",
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "KAUST Upstream Research Center, EXPEC-ARC, Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5020849954",
-            "display_name": "Mujahid Ali",
-            "orcid": "https://orcid.org/0000-0002-9305-9188"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I12079687",
-              "display_name": "Edith Cowan University",
-              "ror": "https://ror.org/05jhnwe22",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12079687"
-              ]
-            }
-          ],
-          "countries": [
-            "AU",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mujahid Ali",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-              "institution_ids": [
-                "https://openalex.org/I12079687"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060928668",
-            "display_name": "Saleh A. Bawazeer",
-            "orcid": "https://orcid.org/0000-0002-2095-3939"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210087440",
-              "display_name": "Institute of Construction and Architecture of the Slovak Academy of Sciences",
-              "ror": "https://ror.org/006ghkj05",
-              "country_code": "SK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I207624831",
-                "https://openalex.org/I4210087440"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I199693650",
-              "display_name": "Umm al-Qura University",
-              "ror": "https://ror.org/01xjqrm90",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I199693650"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "SK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Saleh A. Bawazeer",
-          "raw_affiliation_strings": [
-            "College of Engineering and Architecture",
-            "Umm Al-Qura University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Engineering and Architecture",
-              "institution_ids": [
-                "https://openalex.org/I4210087440"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Umm Al-Qura University",
-              "institution_ids": [
-                "https://openalex.org/I199693650"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008820196",
-            "display_name": "Muhammad Ali",
-            "orcid": "https://orcid.org/0000-0002-2446-3072"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12079687",
-              "display_name": "Edith Cowan University",
-              "ror": "https://ror.org/05jhnwe22",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12079687"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "AU",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Ali",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-              "institution_ids": [
-                "https://openalex.org/I12079687"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079903196",
-            "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            }
-          ],
-          "countries": [
-            "ID",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Israa S. Abu-Mahfouz",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences",
-            "King Fahd University of Petroleum and Minerals"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081730437",
-            "display_name": "Zeeshan Tariq",
-            "orcid": "https://orcid.org/0000-0001-5456-7115"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zeeshan Tariq",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114625660",
-            "display_name": "Norah Aljeban",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Norah Aljeban",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5005766058",
-            "display_name": "Hussein Rasool Abid",
-            "orcid": "https://orcid.org/0000-0003-3368-371X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12079687",
-              "display_name": "Edith Cowan University",
-              "ror": "https://ror.org/05jhnwe22",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12079687"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210142005",
-              "display_name": "University of Karbala",
-              "ror": "https://ror.org/0449bkp65",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210142005"
-              ]
-            }
-          ],
-          "countries": [
-            "AU",
-            "IQ"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hussein Rasool Abid",
-          "raw_affiliation_strings": [
-            "Environmental Health Department College of Applied Medical Science",
-            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-            "University of Kerbala"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Health Department College of Applied Medical Science",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-              "institution_ids": [
-                "https://openalex.org/I12079687"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Kerbala",
-              "institution_ids": [
-                "https://openalex.org/I4210142005"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047318535",
-            "display_name": "Alireza Keshavarz",
-            "orcid": "https://orcid.org/0000-0002-8091-961X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12079687",
-              "display_name": "Edith Cowan University",
-              "ror": "https://ror.org/05jhnwe22",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12079687"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alireza Keshavarz",
-          "raw_affiliation_strings": [
-            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-              "institution_ids": [
-                "https://openalex.org/I12079687"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5069887411",
-            "display_name": "Stefan Iglauer",
-            "orcid": "https://orcid.org/0000-0002-8080-1590"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12079687",
-              "display_name": "Edith Cowan University",
-              "ror": "https://ror.org/05jhnwe22",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12079687"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Stefan Iglauer",
-          "raw_affiliation_strings": [
-            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
-              "institution_ids": [
-                "https://openalex.org/I12079687"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067974945",
-            "display_name": "Hussein Hoteit",
-            "orcid": "https://orcid.org/0000-0002-3900-7272"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST)",
-            "Physical Science and Engineering Division"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 6,
-      "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103178727"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769",
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 16.9065,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.99421935,
-        "is_in_top_1_percent": true,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 99,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "39",
-        "issue": "22",
-        "first_page": "10628",
-        "last_page": "10648"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10491",
-        "display_name": "Enhanced Oil Recovery Techniques",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/nanofluid",
-          "display_name": "Nanofluid",
-          "score": 0.8211854696273804
-        },
-        {
-          "id": "https://openalex.org/keywords/wetting",
-          "display_name": "Wetting",
-          "score": 0.7237861752510071
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.5942351222038269
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.46186405420303345
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.42895135283470154
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.419119656085968
-        },
-        {
-          "id": "https://openalex.org/keywords/nanoparticle",
-          "display_name": "Nanoparticle",
-          "score": 0.298006534576416
-        },
-        {
-          "id": "https://openalex.org/keywords/nanotechnology",
-          "display_name": "Nanotechnology",
-          "score": 0.24904319643974304
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.2145872712135315
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C21946209",
-          "wikidata": "https://www.wikidata.org/wiki/Q1989679",
-          "display_name": "Nanofluid",
-          "level": 3,
-          "score": 0.8211854696273804
-        },
-        {
-          "id": "https://openalex.org/C134514944",
-          "wikidata": "https://www.wikidata.org/wiki/Q817136",
-          "display_name": "Wetting",
-          "level": 2,
-          "score": 0.7237861752510071
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.5942351222038269
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.46186405420303345
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.42895135283470154
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.419119656085968
-        },
-        {
-          "id": "https://openalex.org/C155672457",
-          "wikidata": "https://www.wikidata.org/wiki/Q61231",
-          "display_name": "Nanoparticle",
-          "level": 2,
-          "score": 0.298006534576416
-        },
-        {
-          "id": "https://openalex.org/C171250308",
-          "wikidata": "https://www.wikidata.org/wiki/Q11468",
-          "display_name": "Nanotechnology",
-          "level": 1,
-          "score": 0.24904319643974304
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.2145872712135315
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1021/acs.energyfuels.4c06211",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c06211",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S186935893",
-            "display_name": "Energy & Fuels",
-            "issn_l": "0887-0624",
-            "issn": [
-              "0887-0624",
-              "1520-5029"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320006",
-            "host_organization_name": "American Chemical Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320006"
-            ],
-            "host_organization_lineage_names": [
-              "American Chemical Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy &amp; Fuels",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 125,
-      "referenced_works": [
-        "https://openalex.org/W81898466",
-        "https://openalex.org/W1026812169",
-        "https://openalex.org/W1542236964",
-        "https://openalex.org/W1572819095",
-        "https://openalex.org/W1980430322",
-        "https://openalex.org/W1990150155",
-        "https://openalex.org/W1993708950",
-        "https://openalex.org/W1998516856",
-        "https://openalex.org/W2031043352",
-        "https://openalex.org/W2057709731",
-        "https://openalex.org/W2066204988",
-        "https://openalex.org/W2074277672",
-        "https://openalex.org/W2074334086",
-        "https://openalex.org/W2079798664",
-        "https://openalex.org/W2081733273",
-        "https://openalex.org/W2087531232",
-        "https://openalex.org/W2100744163",
-        "https://openalex.org/W2138166971",
-        "https://openalex.org/W2150370190",
-        "https://openalex.org/W2165437969",
-        "https://openalex.org/W2170976584",
-        "https://openalex.org/W2271081317",
-        "https://openalex.org/W2274488730",
-        "https://openalex.org/W2297417278",
-        "https://openalex.org/W2313354099",
-        "https://openalex.org/W2322348029",
-        "https://openalex.org/W2325175109",
-        "https://openalex.org/W2329473117",
-        "https://openalex.org/W2343739054",
-        "https://openalex.org/W2531450076",
-        "https://openalex.org/W2580308196",
-        "https://openalex.org/W2607030634",
-        "https://openalex.org/W2614572472",
-        "https://openalex.org/W2742199217",
-        "https://openalex.org/W2757817695",
-        "https://openalex.org/W2765535686",
-        "https://openalex.org/W2766889151",
-        "https://openalex.org/W2785470087",
-        "https://openalex.org/W2786589993",
-        "https://openalex.org/W2790955802",
-        "https://openalex.org/W2883018153",
-        "https://openalex.org/W2953296882",
-        "https://openalex.org/W2953361421",
-        "https://openalex.org/W2979426350",
-        "https://openalex.org/W3010780595",
-        "https://openalex.org/W3040758490",
-        "https://openalex.org/W3044175510",
-        "https://openalex.org/W3113047742",
-        "https://openalex.org/W3120263324",
-        "https://openalex.org/W3124931824",
-        "https://openalex.org/W3125908704",
-        "https://openalex.org/W3154481162",
-        "https://openalex.org/W3156317463",
-        "https://openalex.org/W3160605717",
-        "https://openalex.org/W3169117172",
-        "https://openalex.org/W3172870735",
-        "https://openalex.org/W3176386775",
-        "https://openalex.org/W3182444102",
-        "https://openalex.org/W3193634300",
-        "https://openalex.org/W3196546975",
-        "https://openalex.org/W3200563155",
-        "https://openalex.org/W3201622017",
-        "https://openalex.org/W3206913502",
-        "https://openalex.org/W3214633297",
-        "https://openalex.org/W4206652799",
-        "https://openalex.org/W4210680637",
-        "https://openalex.org/W4213030173",
-        "https://openalex.org/W4220663178",
-        "https://openalex.org/W4220703952",
-        "https://openalex.org/W4220840088",
-        "https://openalex.org/W4221035789",
-        "https://openalex.org/W4225154543",
-        "https://openalex.org/W4229378929",
-        "https://openalex.org/W4240228457",
-        "https://openalex.org/W4242947459",
-        "https://openalex.org/W4280491920",
-        "https://openalex.org/W4280633468",
-        "https://openalex.org/W4283317677",
-        "https://openalex.org/W4283396917",
-        "https://openalex.org/W4284964626",
-        "https://openalex.org/W4285040342",
-        "https://openalex.org/W4291335310",
-        "https://openalex.org/W4294741325",
-        "https://openalex.org/W4298394749",
-        "https://openalex.org/W4307511257",
-        "https://openalex.org/W4307514743",
-        "https://openalex.org/W4310117509",
-        "https://openalex.org/W4310294508",
-        "https://openalex.org/W4310810109",
-        "https://openalex.org/W4311140042",
-        "https://openalex.org/W4311255578",
-        "https://openalex.org/W4313368048",
-        "https://openalex.org/W4313814268",
-        "https://openalex.org/W4317773785",
-        "https://openalex.org/W4320351699",
-        "https://openalex.org/W4320719921",
-        "https://openalex.org/W4323870306",
-        "https://openalex.org/W4365151186",
-        "https://openalex.org/W4365456076",
-        "https://openalex.org/W4367043063",
-        "https://openalex.org/W4376620336",
-        "https://openalex.org/W4379469447",
-        "https://openalex.org/W4380854420",
-        "https://openalex.org/W4384497135",
-        "https://openalex.org/W4386258236",
-        "https://openalex.org/W4386737236",
-        "https://openalex.org/W4386798154",
-        "https://openalex.org/W4386918076",
-        "https://openalex.org/W4387511415",
-        "https://openalex.org/W4389068250",
-        "https://openalex.org/W4390574546",
-        "https://openalex.org/W4392187609",
-        "https://openalex.org/W4392187661",
-        "https://openalex.org/W4392200981",
-        "https://openalex.org/W4396764104",
-        "https://openalex.org/W4399201553",
-        "https://openalex.org/W4401750303",
-        "https://openalex.org/W4402214631",
-        "https://openalex.org/W4403315979",
-        "https://openalex.org/W4403555126",
-        "https://openalex.org/W4404328718",
-        "https://openalex.org/W4406409548",
-        "https://openalex.org/W4406545365",
-        "https://openalex.org/W6945730874",
-        "https://openalex.org/W6946014923"
-      ],
-      "related_works": [
-        "https://openalex.org/W2899084033",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2886903305",
-        "https://openalex.org/W2754636322",
-        "https://openalex.org/W3150003624",
-        "https://openalex.org/W1938556690",
-        "https://openalex.org/W2809186558",
-        "https://openalex.org/W3005225185",
-        "https://openalex.org/W4387013174",
-        "https://openalex.org/W4384501983"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          149
-        ],
-        "76": [
-          253
-        ],
-        "82": [
-          221
-        ],
-        "323": [
-          140
-        ],
-        "Underground": [
-          0
-        ],
-        "hydrogen": [
-          1,
-          11,
-          46
-        ],
-        "storage": [
-          2,
-          17,
-          29
-        ],
-        "(UHS)": [
-          3
-        ],
-        "is": [
-          4,
-          155,
-          245,
-          278,
-          295
-        ],
-        "an": [
-          5,
-          27
-        ],
-        "essential": [
-          6
-        ],
-        "method": [
-          7
-        ],
-        "for": [
-          8,
-          44,
-          335
-        ],
-        "advancing": [
-          9
-        ],
-        "a": [
-          10,
-          81,
-          204,
-          275,
-          289,
-          310,
-          332
-        ],
-        "(H2)-based": [
-          12
-        ],
-        "economy": [
-          13
-        ],
-        "by": [
-          14,
-          62,
-          93,
-          157
-        ],
-        "enabling": [
-          15
-        ],
-        "safe": [
-          16
-        ],
-        "of": [
-          18,
-          40,
-          51,
-          76,
-          108,
-          113,
-          125,
-          195,
-          227,
-          267,
-          284,
-          302,
-          313,
-          321
-        ],
-        "H2": [
-          19
-        ],
-        "in": [
-          20,
-          54,
-          87,
-          324
-        ],
-        "geological": [
-          21,
-          136
-        ],
-        "formations.": [
-          22
-        ],
-        "Shale": [
-          23
-        ],
-        "formations": [
-          24
-        ],
-        "serve": [
-          25
-        ],
-        "as": [
-          26,
-          80
-        ],
-        "appropriate": [
-          28
-        ],
-        "medium": [
-          30
-        ],
-        "due": [
-          31
-        ],
-        "to": [
-          32,
-          69,
-          89,
-          120,
-          186,
-          203,
-          222,
-          247,
-          254,
-          272,
-          298
-        ],
-        "their": [
-          33,
-          59,
-          64,
-          314
-        ],
-        "extensive": [
-          34
-        ],
-        "availability": [
-          35
-        ],
-        "and": [
-          36,
-          97,
-          163,
-          166,
-          175,
-          327,
-          337
-        ],
-        "restricted": [
-          37
-        ],
-        "permeability,": [
-          38
-        ],
-        "both": [
-          39
-        ],
-        "which": [
-          41
-        ],
-        "are": [
-          42,
-          172
-        ],
-        "critical": [
-          43
-        ],
-        "effective": [
-          45
-        ],
-        "sequestration.": [
-          47
-        ],
-        "Nevertheless,": [
-          48
-        ],
-        "the": [
-          49,
-          99,
-          106,
-          122,
-          159,
-          164,
-          177,
-          200,
-          209,
-          212,
-          215,
-          225,
-          233,
-          236,
-          249,
-          257,
-          261,
-          264,
-          268,
-          296,
-          300,
-          319
-        ],
-        "presence": [
-          50
-        ],
-        "organic": [
-          52,
-          128
-        ],
-        "matter": [
-          53
-        ],
-        "shale": [
-          55,
-          132,
-          181
-        ],
-        "caprocks": [
-          56
-        ],
-        "frequently": [
-          57
-        ],
-        "reduces": [
-          58
-        ],
-        "sealing": [
-          60,
-          123,
-          191,
-          328
-        ],
-        "efficiency": [
-          61
-        ],
-        "altering": [
-          63
-        ],
-        "wettability": [
-          65,
-          82,
-          154,
-          326
-        ],
-        "from": [
-          66,
-          220,
-          252
-        ],
-        "predominantly": [
-          67
-        ],
-        "water-wet": [
-          68,
-          95,
-          185,
-          206
-        ],
-        "H2-wet,": [
-          70
-        ],
-        "thereby": [
-          71
-        ],
-        "undermining": [
-          72
-        ],
-        "containment.": [
-          73
-        ],
-        "The": [
-          74,
-          153,
-          179,
-          193,
-          316
-        ],
-        "use": [
-          75
-        ],
-        "silica": [
-          77,
-          114,
-          196,
-          285,
-          303,
-          322
-        ],
-        "(SiO2)": [
-          78
-        ],
-        "nanofluid": [
-          79,
-          115,
-          197
-        ],
-        "modifier": [
-          83
-        ],
-        "has": [
-          84
-        ],
-        "been": [
-          85
-        ],
-        "suggested": [
-          86
-        ],
-        "order": [
-          88
-        ],
-        "mitigate": [
-          90
-        ],
-        "this": [
-          91
-        ],
-        "difficulty": [
-          92
-        ],
-        "restoring": [
-          94
-        ],
-        "conditions": [
-          96
-        ],
-        "improving": [
-          98,
-          325
-        ],
-        "interfacial": [
-          100,
-          168
-        ],
-        "tension": [
-          101,
-          169
-        ],
-        "(IFT).": [
-          102
-        ],
-        "This": [
-          103,
-          293
-        ],
-        "study": [
-          104,
-          294
-        ],
-        "examines": [
-          105
-        ],
-        "effects": [
-          107,
-          301
-        ],
-        "treatment": [
-          109
-        ],
-        "with": [
-          110,
-          211,
-          224,
-          235,
-          280
-        ],
-        "various": [
-          111
-        ],
-        "concentrations": [
-          112,
-          283
-        ],
-        "(SiO2;": [
-          116
-        ],
-        "0.05–1.0": [
-          117
-        ],
-        "wt": [
-          118,
-          145,
-          150,
-          229,
-          242
-        ],
-        "%)": [
-          119
-        ],
-        "enhance": [
-          121
-        ],
-        "performance": [
-          124
-        ],
-        "high": [
-          126,
-          282
-        ],
-        "total": [
-          127
-        ],
-        "carbon": [
-          129
-        ],
-        "(TOC)": [
-          130
-        ],
-        "Jordanian": [
-          131
-        ],
-        "samples": [
-          133,
-          182
-        ],
-        "under": [
-          134,
-          256
-        ],
-        "actual": [
-          135,
-          306
-        ],
-        "settings": [
-          137
-        ],
-        "(0.5–1600": [
-          138
-        ],
-        "psi,": [
-          139
-        ],
-        "K)": [
-          141
-        ],
-        "utilizing": [
-          142
-        ],
-        "brine": [
-          143
-        ],
-        "(1": [
-          144
-        ],
-        "%": [
-          146,
-          151,
-          230,
-          243
-        ],
-        "KCl": [
-          147
-        ],
-        "+": [
-          148
-        ],
-        "NaCl).": [
-          152
-        ],
-        "evaluated": [
-          156
-        ],
-        "using": [
-          158
-        ],
-        "tilted": [
-          160
-        ],
-        "plate": [
-          161
-        ],
-        "method,": [
-          162
-        ],
-        "H2/brine": [
-          165
-        ],
-        "H2/shale": [
-          167
-        ],
-        "(IFT)": [
-          170
-        ],
-        "values": [
-          171
-        ],
-        "determined": [
-          173
-        ],
-        "before": [
-          174
-        ],
-        "after": [
-          176
-        ],
-        "treatment.": [
-          178
-        ],
-        "untreated": [
-          180
-        ],
-        "exhibit": [
-          183
-        ],
-        "weak": [
-          184
-        ],
-        "H2-wet": [
-          187
-        ],
-        "conditions,": [
-          188
-        ],
-        "signifying": [
-          189
-        ],
-        "inadequate": [
-          190
-        ],
-        "properties.": [
-          192
-        ],
-        "application": [
-          194,
-          226
-        ],
-        "considerably": [
-          198
-        ],
-        "enhances": [
-          199
-        ],
-        "wettability,": [
-          201
-        ],
-        "transforming": [
-          202
-        ],
-        "pronounced": [
-          205
-        ],
-        "condition.": [
-          207
-        ],
-        "In": [
-          208,
-          232
-        ],
-        "sample": [
-          210,
-          234
-        ],
-        "greatest": [
-          213
-        ],
-        "TOC,": [
-          214,
-          238
-        ],
-        "receding": [
-          216
-        ],
-        "contact": [
-          217,
-          250
-        ],
-        "angle": [
-          218,
-          251
-        ],
-        "decreases": [
-          219
-        ],
-        "29°": [
-          223
-        ],
-        "0.4": [
-          228
-        ],
-        "SiO2.": [
-          231
-        ],
-        "lowest": [
-          237
-        ],
-        "however,": [
-          239
-        ],
-        "only": [
-          240
-        ],
-        "0.1": [
-          241
-        ],
-        "SiO2": [
-          244
-        ],
-        "needed": [
-          246
-        ],
-        "alter": [
-          248
-        ],
-        "38°": [
-          255
-        ],
-        "same": [
-          258
-        ],
-        "conditions.": [
-          259
-        ],
-        "As": [
-          260
-        ],
-        "pressure": [
-          262
-        ],
-        "increases,": [
-          263
-        ],
-        "IFT": [
-          265
-        ],
-        "value": [
-          266
-        ],
-        "shale/H2": [
-          269
-        ],
-        "system": [
-          270
-        ],
-        "tends": [
-          271
-        ],
-        "decrease,": [
-          273
-        ],
-        "although": [
-          274
-        ],
-        "slight": [
-          276
-        ],
-        "increase": [
-          277
-        ],
-        "observed": [
-          279
-        ],
-        "relatively": [
-          281
-        ],
-        "nanoparticles,": [
-          286
-        ],
-        "thus,": [
-          287
-        ],
-        "suggesting": [
-          288
-        ],
-        "mechanical": [
-          290
-        ],
-        "barrier": [
-          291
-        ],
-        "effect.": [
-          292
-        ],
-        "first": [
-          297
-        ],
-        "investigate": [
-          299
-        ],
-        "nanofluids": [
-          304,
-          323
-        ],
-        "on": [
-          305
-        ],
-        "organic-rich": [
-          307
-        ],
-        "shales,": [
-          308
-        ],
-        "providing": [
-          309,
-          331
-        ],
-        "genuine": [
-          311
-        ],
-        "assessment": [
-          312
-        ],
-        "application.": [
-          315
-        ],
-        "results": [
-          317
-        ],
-        "demonstrate": [
-          318
-        ],
-        "effectiveness": [
-          320
-        ],
-        "efficiency,": [
-          329
-        ],
-        "thus": [
-          330
-        ],
-        "feasible": [
-          333
-        ],
-        "alternative": [
-          334
-        ],
-        "secure": [
-          336
-        ],
-        "efficient": [
-          338
-        ],
-        "UHS.": [
-          339
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 11
-        }
-      ],
-      "updated_date": "2026-03-05T09:29:38.588285",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14813,7 +13038,7 @@
             },
             {
               "id": "https://openalex.org/I4210142005",
-              "display_name": "University of Karbala",
+              "display_name": "University of Kerbala",
               "ror": "https://ror.org/0449bkp65",
               "country_code": "IQ",
               "type": "education",
@@ -15152,11 +13377,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0486,
+      "fwci": 2.9756,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.91775149,
+        "value": 0.91462274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15603,8 +13828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4404328718.pdf"
@@ -16313,7 +14538,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-03-18T14:38:29.013473",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16956,9 +15181,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -16978,8 +15203,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -18061,8 +16286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -19255,8 +17480,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -20024,9 +18249,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -20046,8 +18271,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -21494,9 +19719,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -21513,8 +19738,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -22741,8 +20966,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4313320240.pdf",
@@ -23424,6 +21649,1781 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4410633965",
+      "doi": "https://doi.org/10.1021/acs.energyfuels.4c06211",
+      "title": "Enhancing Hydrogen Storage Efficiency in Organic-Rich Shales Using Silica Nanofluids: A Comprehensive Study on Wettability Alteration",
+      "display_name": "Enhancing Hydrogen Storage Efficiency in Organic-Rich Shales Using Silica Nanofluids: A Comprehensive Study on Wettability Alteration",
+      "publication_year": 2025,
+      "publication_date": "2025-05-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4410633965",
+        "doi": "https://doi.org/10.1021/acs.energyfuels.4c06211"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1021/acs.energyfuels.4c06211",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c06211",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S186935893",
+          "display_name": "Energy & Fuels",
+          "issn_l": "0887-0624",
+          "issn": [
+            "0887-0624",
+            "1520-5029"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy &amp; Fuels",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103178727",
+            "display_name": "Amer Alanazi",
+            "orcid": "https://orcid.org/0000-0002-7508-5913"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Amer Alanazi",
+          "raw_affiliation_strings": [
+            "KAUST Upstream Research Center, EXPEC-ARC, Saudi Aramco",
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KAUST Upstream Research Center, EXPEC-ARC, Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020849954",
+            "display_name": "Mujahid Ali",
+            "orcid": "https://orcid.org/0000-0002-9305-9188"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "AU",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mujahid Ali",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060928668",
+            "display_name": "Saleh A. Bawazeer",
+            "orcid": "https://orcid.org/0000-0002-2095-3939"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I199693650",
+              "display_name": "Umm al-Qura University",
+              "ror": "https://ror.org/01xjqrm90",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I199693650"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087440",
+              "display_name": "Institute of Construction and Architecture of the Slovak Academy of Sciences",
+              "ror": "https://ror.org/006ghkj05",
+              "country_code": "SK",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I207624831",
+                "https://openalex.org/I4210087440"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "SK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Saleh A. Bawazeer",
+          "raw_affiliation_strings": [
+            "College of Engineering and Architecture",
+            "Umm Al-Qura University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Engineering and Architecture",
+              "institution_ids": [
+                "https://openalex.org/I4210087440"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Umm Al-Qura University",
+              "institution_ids": [
+                "https://openalex.org/I199693650"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008820196",
+            "display_name": "Muhammad Ali",
+            "orcid": "https://orcid.org/0000-0002-2446-3072"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "AU",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Ali",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079903196",
+            "display_name": "Israa S. Abu‐Mahfouz",
+            "orcid": "https://orcid.org/0000-0001-5832-7354"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
+              ]
+            }
+          ],
+          "countries": [
+            "ID",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Israa S. Abu-Mahfouz",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences",
+            "King Fahd University of Petroleum and Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences",
+              "institution_ids": [
+                "https://openalex.org/I4210118538"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081730437",
+            "display_name": "Zeeshan Tariq",
+            "orcid": "https://orcid.org/0000-0001-5456-7115"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zeeshan Tariq",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114625660",
+            "display_name": "Norah Aljeban",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Norah Aljeban",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005766058",
+            "display_name": "Hussein Rasool Abid",
+            "orcid": "https://orcid.org/0000-0003-3368-371X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210142005",
+              "display_name": "University of Kerbala",
+              "ror": "https://ror.org/0449bkp65",
+              "country_code": "IQ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210142005"
+              ]
+            }
+          ],
+          "countries": [
+            "AU",
+            "IQ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussein Rasool Abid",
+          "raw_affiliation_strings": [
+            "Environmental Health Department College of Applied Medical Science",
+            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+            "University of Kerbala"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Health Department College of Applied Medical Science",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Kerbala",
+              "institution_ids": [
+                "https://openalex.org/I4210142005"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047318535",
+            "display_name": "Alireza Keshavarz",
+            "orcid": "https://orcid.org/0000-0002-8091-961X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alireza Keshavarz",
+          "raw_affiliation_strings": [
+            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069887411",
+            "display_name": "Stefan Iglauer",
+            "orcid": "https://orcid.org/0000-0002-8080-1590"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stefan Iglauer",
+          "raw_affiliation_strings": [
+            "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup, Western Australia 6027, Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067974945",
+            "display_name": "Hussein Hoteit",
+            "orcid": "https://orcid.org/0000-0002-3900-7272"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussein Hoteit",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST)",
+            "Physical Science and Engineering Division"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 11,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103178727"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 15.0742,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.99305143,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "39",
+        "issue": "22",
+        "first_page": "10628",
+        "last_page": "10648"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10491",
+        "display_name": "Enhanced Oil Recovery Techniques",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/nanofluid",
+          "display_name": "Nanofluid",
+          "score": 0.8211854696273804
+        },
+        {
+          "id": "https://openalex.org/keywords/wetting",
+          "display_name": "Wetting",
+          "score": 0.7237861752510071
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.5942351222038269
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.46186405420303345
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.42895135283470154
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.419119656085968
+        },
+        {
+          "id": "https://openalex.org/keywords/nanoparticle",
+          "display_name": "Nanoparticle",
+          "score": 0.298006534576416
+        },
+        {
+          "id": "https://openalex.org/keywords/nanotechnology",
+          "display_name": "Nanotechnology",
+          "score": 0.24904319643974304
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.2145872712135315
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C21946209",
+          "wikidata": "https://www.wikidata.org/wiki/Q1989679",
+          "display_name": "Nanofluid",
+          "level": 3,
+          "score": 0.8211854696273804
+        },
+        {
+          "id": "https://openalex.org/C134514944",
+          "wikidata": "https://www.wikidata.org/wiki/Q817136",
+          "display_name": "Wetting",
+          "level": 2,
+          "score": 0.7237861752510071
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.5942351222038269
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.46186405420303345
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.42895135283470154
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.419119656085968
+        },
+        {
+          "id": "https://openalex.org/C155672457",
+          "wikidata": "https://www.wikidata.org/wiki/Q61231",
+          "display_name": "Nanoparticle",
+          "level": 2,
+          "score": 0.298006534576416
+        },
+        {
+          "id": "https://openalex.org/C171250308",
+          "wikidata": "https://www.wikidata.org/wiki/Q11468",
+          "display_name": "Nanotechnology",
+          "level": 1,
+          "score": 0.24904319643974304
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.2145872712135315
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1021/acs.energyfuels.4c06211",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c06211",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S186935893",
+            "display_name": "Energy & Fuels",
+            "issn_l": "0887-0624",
+            "issn": [
+              "0887-0624",
+              "1520-5029"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320006",
+            "host_organization_name": "American Chemical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320006"
+            ],
+            "host_organization_lineage_names": [
+              "American Chemical Society"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy &amp; Fuels",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 125,
+      "referenced_works": [
+        "https://openalex.org/W81898466",
+        "https://openalex.org/W1026812169",
+        "https://openalex.org/W1542236964",
+        "https://openalex.org/W1572819095",
+        "https://openalex.org/W1980430322",
+        "https://openalex.org/W1990150155",
+        "https://openalex.org/W1993708950",
+        "https://openalex.org/W1998516856",
+        "https://openalex.org/W2031043352",
+        "https://openalex.org/W2057709731",
+        "https://openalex.org/W2066204988",
+        "https://openalex.org/W2074277672",
+        "https://openalex.org/W2074334086",
+        "https://openalex.org/W2079798664",
+        "https://openalex.org/W2081733273",
+        "https://openalex.org/W2087531232",
+        "https://openalex.org/W2100744163",
+        "https://openalex.org/W2138166971",
+        "https://openalex.org/W2150370190",
+        "https://openalex.org/W2165437969",
+        "https://openalex.org/W2170976584",
+        "https://openalex.org/W2271081317",
+        "https://openalex.org/W2274488730",
+        "https://openalex.org/W2297417278",
+        "https://openalex.org/W2313354099",
+        "https://openalex.org/W2322348029",
+        "https://openalex.org/W2325175109",
+        "https://openalex.org/W2329473117",
+        "https://openalex.org/W2343739054",
+        "https://openalex.org/W2531450076",
+        "https://openalex.org/W2580308196",
+        "https://openalex.org/W2607030634",
+        "https://openalex.org/W2614572472",
+        "https://openalex.org/W2742199217",
+        "https://openalex.org/W2757817695",
+        "https://openalex.org/W2765535686",
+        "https://openalex.org/W2766889151",
+        "https://openalex.org/W2785470087",
+        "https://openalex.org/W2786589993",
+        "https://openalex.org/W2790955802",
+        "https://openalex.org/W2883018153",
+        "https://openalex.org/W2953296882",
+        "https://openalex.org/W2953361421",
+        "https://openalex.org/W2979426350",
+        "https://openalex.org/W3010780595",
+        "https://openalex.org/W3040758490",
+        "https://openalex.org/W3044175510",
+        "https://openalex.org/W3113047742",
+        "https://openalex.org/W3120263324",
+        "https://openalex.org/W3124931824",
+        "https://openalex.org/W3125908704",
+        "https://openalex.org/W3154481162",
+        "https://openalex.org/W3156317463",
+        "https://openalex.org/W3160605717",
+        "https://openalex.org/W3169117172",
+        "https://openalex.org/W3172870735",
+        "https://openalex.org/W3176386775",
+        "https://openalex.org/W3182444102",
+        "https://openalex.org/W3193634300",
+        "https://openalex.org/W3196546975",
+        "https://openalex.org/W3200563155",
+        "https://openalex.org/W3201622017",
+        "https://openalex.org/W3206913502",
+        "https://openalex.org/W3214633297",
+        "https://openalex.org/W4206652799",
+        "https://openalex.org/W4210680637",
+        "https://openalex.org/W4213030173",
+        "https://openalex.org/W4220663178",
+        "https://openalex.org/W4220703952",
+        "https://openalex.org/W4220840088",
+        "https://openalex.org/W4221035789",
+        "https://openalex.org/W4225154543",
+        "https://openalex.org/W4229378929",
+        "https://openalex.org/W4240228457",
+        "https://openalex.org/W4242947459",
+        "https://openalex.org/W4280491920",
+        "https://openalex.org/W4280633468",
+        "https://openalex.org/W4283317677",
+        "https://openalex.org/W4283396917",
+        "https://openalex.org/W4284964626",
+        "https://openalex.org/W4285040342",
+        "https://openalex.org/W4291335310",
+        "https://openalex.org/W4294741325",
+        "https://openalex.org/W4298394749",
+        "https://openalex.org/W4307511257",
+        "https://openalex.org/W4307514743",
+        "https://openalex.org/W4310117509",
+        "https://openalex.org/W4310294508",
+        "https://openalex.org/W4310810109",
+        "https://openalex.org/W4311140042",
+        "https://openalex.org/W4311255578",
+        "https://openalex.org/W4313368048",
+        "https://openalex.org/W4313814268",
+        "https://openalex.org/W4317773785",
+        "https://openalex.org/W4320351699",
+        "https://openalex.org/W4320719921",
+        "https://openalex.org/W4323870306",
+        "https://openalex.org/W4365151186",
+        "https://openalex.org/W4365456076",
+        "https://openalex.org/W4367043063",
+        "https://openalex.org/W4376620336",
+        "https://openalex.org/W4379469447",
+        "https://openalex.org/W4380854420",
+        "https://openalex.org/W4384497135",
+        "https://openalex.org/W4386258236",
+        "https://openalex.org/W4386737236",
+        "https://openalex.org/W4386798154",
+        "https://openalex.org/W4386918076",
+        "https://openalex.org/W4387511415",
+        "https://openalex.org/W4389068250",
+        "https://openalex.org/W4390574546",
+        "https://openalex.org/W4392187609",
+        "https://openalex.org/W4392187661",
+        "https://openalex.org/W4392200981",
+        "https://openalex.org/W4396764104",
+        "https://openalex.org/W4399201553",
+        "https://openalex.org/W4401750303",
+        "https://openalex.org/W4402214631",
+        "https://openalex.org/W4403315979",
+        "https://openalex.org/W4403555126",
+        "https://openalex.org/W4404328718",
+        "https://openalex.org/W4406409548",
+        "https://openalex.org/W4406545365",
+        "https://openalex.org/W6945730874",
+        "https://openalex.org/W6946014923"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2886903305",
+        "https://openalex.org/W2754636322",
+        "https://openalex.org/W3150003624",
+        "https://openalex.org/W1938556690",
+        "https://openalex.org/W2809186558",
+        "https://openalex.org/W3005225185",
+        "https://openalex.org/W4387013174",
+        "https://openalex.org/W4384501983"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          149
+        ],
+        "76": [
+          253
+        ],
+        "82": [
+          221
+        ],
+        "323": [
+          140
+        ],
+        "Underground": [
+          0
+        ],
+        "hydrogen": [
+          1,
+          11,
+          46
+        ],
+        "storage": [
+          2,
+          17,
+          29
+        ],
+        "(UHS)": [
+          3
+        ],
+        "is": [
+          4,
+          155,
+          245,
+          278,
+          295
+        ],
+        "an": [
+          5,
+          27
+        ],
+        "essential": [
+          6
+        ],
+        "method": [
+          7
+        ],
+        "for": [
+          8,
+          44,
+          335
+        ],
+        "advancing": [
+          9
+        ],
+        "a": [
+          10,
+          81,
+          204,
+          275,
+          289,
+          310,
+          332
+        ],
+        "(H2)-based": [
+          12
+        ],
+        "economy": [
+          13
+        ],
+        "by": [
+          14,
+          62,
+          93,
+          157
+        ],
+        "enabling": [
+          15
+        ],
+        "safe": [
+          16
+        ],
+        "of": [
+          18,
+          40,
+          51,
+          76,
+          108,
+          113,
+          125,
+          195,
+          227,
+          267,
+          284,
+          302,
+          313,
+          321
+        ],
+        "H2": [
+          19
+        ],
+        "in": [
+          20,
+          54,
+          87,
+          324
+        ],
+        "geological": [
+          21,
+          136
+        ],
+        "formations.": [
+          22
+        ],
+        "Shale": [
+          23
+        ],
+        "formations": [
+          24
+        ],
+        "serve": [
+          25
+        ],
+        "as": [
+          26,
+          80
+        ],
+        "appropriate": [
+          28
+        ],
+        "medium": [
+          30
+        ],
+        "due": [
+          31
+        ],
+        "to": [
+          32,
+          69,
+          89,
+          120,
+          186,
+          203,
+          222,
+          247,
+          254,
+          272,
+          298
+        ],
+        "their": [
+          33,
+          59,
+          64,
+          314
+        ],
+        "extensive": [
+          34
+        ],
+        "availability": [
+          35
+        ],
+        "and": [
+          36,
+          97,
+          163,
+          166,
+          175,
+          327,
+          337
+        ],
+        "restricted": [
+          37
+        ],
+        "permeability,": [
+          38
+        ],
+        "both": [
+          39
+        ],
+        "which": [
+          41
+        ],
+        "are": [
+          42,
+          172
+        ],
+        "critical": [
+          43
+        ],
+        "effective": [
+          45
+        ],
+        "sequestration.": [
+          47
+        ],
+        "Nevertheless,": [
+          48
+        ],
+        "the": [
+          49,
+          99,
+          106,
+          122,
+          159,
+          164,
+          177,
+          200,
+          209,
+          212,
+          215,
+          225,
+          233,
+          236,
+          249,
+          257,
+          261,
+          264,
+          268,
+          296,
+          300,
+          319
+        ],
+        "presence": [
+          50
+        ],
+        "organic": [
+          52,
+          128
+        ],
+        "matter": [
+          53
+        ],
+        "shale": [
+          55,
+          132,
+          181
+        ],
+        "caprocks": [
+          56
+        ],
+        "frequently": [
+          57
+        ],
+        "reduces": [
+          58
+        ],
+        "sealing": [
+          60,
+          123,
+          191,
+          328
+        ],
+        "efficiency": [
+          61
+        ],
+        "altering": [
+          63
+        ],
+        "wettability": [
+          65,
+          82,
+          154,
+          326
+        ],
+        "from": [
+          66,
+          220,
+          252
+        ],
+        "predominantly": [
+          67
+        ],
+        "water-wet": [
+          68,
+          95,
+          185,
+          206
+        ],
+        "H2-wet,": [
+          70
+        ],
+        "thereby": [
+          71
+        ],
+        "undermining": [
+          72
+        ],
+        "containment.": [
+          73
+        ],
+        "The": [
+          74,
+          153,
+          179,
+          193,
+          316
+        ],
+        "use": [
+          75
+        ],
+        "silica": [
+          77,
+          114,
+          196,
+          285,
+          303,
+          322
+        ],
+        "(SiO2)": [
+          78
+        ],
+        "nanofluid": [
+          79,
+          115,
+          197
+        ],
+        "modifier": [
+          83
+        ],
+        "has": [
+          84
+        ],
+        "been": [
+          85
+        ],
+        "suggested": [
+          86
+        ],
+        "order": [
+          88
+        ],
+        "mitigate": [
+          90
+        ],
+        "this": [
+          91
+        ],
+        "difficulty": [
+          92
+        ],
+        "restoring": [
+          94
+        ],
+        "conditions": [
+          96
+        ],
+        "improving": [
+          98,
+          325
+        ],
+        "interfacial": [
+          100,
+          168
+        ],
+        "tension": [
+          101,
+          169
+        ],
+        "(IFT).": [
+          102
+        ],
+        "This": [
+          103,
+          293
+        ],
+        "study": [
+          104,
+          294
+        ],
+        "examines": [
+          105
+        ],
+        "effects": [
+          107,
+          301
+        ],
+        "treatment": [
+          109
+        ],
+        "with": [
+          110,
+          211,
+          224,
+          235,
+          280
+        ],
+        "various": [
+          111
+        ],
+        "concentrations": [
+          112,
+          283
+        ],
+        "(SiO2;": [
+          116
+        ],
+        "0.05–1.0": [
+          117
+        ],
+        "wt": [
+          118,
+          145,
+          150,
+          229,
+          242
+        ],
+        "%)": [
+          119
+        ],
+        "enhance": [
+          121
+        ],
+        "performance": [
+          124
+        ],
+        "high": [
+          126,
+          282
+        ],
+        "total": [
+          127
+        ],
+        "carbon": [
+          129
+        ],
+        "(TOC)": [
+          130
+        ],
+        "Jordanian": [
+          131
+        ],
+        "samples": [
+          133,
+          182
+        ],
+        "under": [
+          134,
+          256
+        ],
+        "actual": [
+          135,
+          306
+        ],
+        "settings": [
+          137
+        ],
+        "(0.5–1600": [
+          138
+        ],
+        "psi,": [
+          139
+        ],
+        "K)": [
+          141
+        ],
+        "utilizing": [
+          142
+        ],
+        "brine": [
+          143
+        ],
+        "(1": [
+          144
+        ],
+        "%": [
+          146,
+          151,
+          230,
+          243
+        ],
+        "KCl": [
+          147
+        ],
+        "+": [
+          148
+        ],
+        "NaCl).": [
+          152
+        ],
+        "evaluated": [
+          156
+        ],
+        "using": [
+          158
+        ],
+        "tilted": [
+          160
+        ],
+        "plate": [
+          161
+        ],
+        "method,": [
+          162
+        ],
+        "H2/brine": [
+          165
+        ],
+        "H2/shale": [
+          167
+        ],
+        "(IFT)": [
+          170
+        ],
+        "values": [
+          171
+        ],
+        "determined": [
+          173
+        ],
+        "before": [
+          174
+        ],
+        "after": [
+          176
+        ],
+        "treatment.": [
+          178
+        ],
+        "untreated": [
+          180
+        ],
+        "exhibit": [
+          183
+        ],
+        "weak": [
+          184
+        ],
+        "H2-wet": [
+          187
+        ],
+        "conditions,": [
+          188
+        ],
+        "signifying": [
+          189
+        ],
+        "inadequate": [
+          190
+        ],
+        "properties.": [
+          192
+        ],
+        "application": [
+          194,
+          226
+        ],
+        "considerably": [
+          198
+        ],
+        "enhances": [
+          199
+        ],
+        "wettability,": [
+          201
+        ],
+        "transforming": [
+          202
+        ],
+        "pronounced": [
+          205
+        ],
+        "condition.": [
+          207
+        ],
+        "In": [
+          208,
+          232
+        ],
+        "sample": [
+          210,
+          234
+        ],
+        "greatest": [
+          213
+        ],
+        "TOC,": [
+          214,
+          238
+        ],
+        "receding": [
+          216
+        ],
+        "contact": [
+          217,
+          250
+        ],
+        "angle": [
+          218,
+          251
+        ],
+        "decreases": [
+          219
+        ],
+        "29°": [
+          223
+        ],
+        "0.4": [
+          228
+        ],
+        "SiO2.": [
+          231
+        ],
+        "lowest": [
+          237
+        ],
+        "however,": [
+          239
+        ],
+        "only": [
+          240
+        ],
+        "0.1": [
+          241
+        ],
+        "SiO2": [
+          244
+        ],
+        "needed": [
+          246
+        ],
+        "alter": [
+          248
+        ],
+        "38°": [
+          255
+        ],
+        "same": [
+          258
+        ],
+        "conditions.": [
+          259
+        ],
+        "As": [
+          260
+        ],
+        "pressure": [
+          262
+        ],
+        "increases,": [
+          263
+        ],
+        "IFT": [
+          265
+        ],
+        "value": [
+          266
+        ],
+        "shale/H2": [
+          269
+        ],
+        "system": [
+          270
+        ],
+        "tends": [
+          271
+        ],
+        "decrease,": [
+          273
+        ],
+        "although": [
+          274
+        ],
+        "slight": [
+          276
+        ],
+        "increase": [
+          277
+        ],
+        "observed": [
+          279
+        ],
+        "relatively": [
+          281
+        ],
+        "nanoparticles,": [
+          286
+        ],
+        "thus,": [
+          287
+        ],
+        "suggesting": [
+          288
+        ],
+        "mechanical": [
+          290
+        ],
+        "barrier": [
+          291
+        ],
+        "effect.": [
+          292
+        ],
+        "first": [
+          297
+        ],
+        "investigate": [
+          299
+        ],
+        "nanofluids": [
+          304,
+          323
+        ],
+        "on": [
+          305
+        ],
+        "organic-rich": [
+          307
+        ],
+        "shales,": [
+          308
+        ],
+        "providing": [
+          309,
+          331
+        ],
+        "genuine": [
+          311
+        ],
+        "assessment": [
+          312
+        ],
+        "application.": [
+          315
+        ],
+        "results": [
+          317
+        ],
+        "demonstrate": [
+          318
+        ],
+        "effectiveness": [
+          320
+        ],
+        "efficiency,": [
+          329
+        ],
+        "thus": [
+          330
+        ],
+        "feasible": [
+          333
+        ],
+        "alternative": [
+          334
+        ],
+        "secure": [
+          336
+        ],
+        "efficient": [
+          338
+        ],
+        "UHS.": [
+          339
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 11
+        }
+      ],
+      "updated_date": "2026-03-27T14:29:43.386196",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4213030173",
       "doi": "https://doi.org/10.2523/iptc-21914-ms",
       "title": "Geochemical and Petrographic Characteristics of Lithofacies from Upper Cretaceous Organic-Rich Source Rocks, Jordan",
@@ -24019,16 +24019,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -25556,9 +25556,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.6899999976158142
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -25585,8 +25585,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -26534,16 +26534,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -28208,8 +28208,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -28932,9 +28932,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28951,8 +28951,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410202094.pdf",
@@ -30402,8 +30402,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399169417.pdf"
@@ -31828,16 +31828,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.46000000834465027
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -33424,9 +33424,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33443,8 +33443,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4400874350.pdf"
@@ -34838,9 +34838,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -34865,8 +34865,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -36040,8 +36040,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -36647,9 +36647,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -36669,8 +36669,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -37916,8 +37916,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -39155,16 +39155,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -40363,9 +40363,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -40385,8 +40385,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408129940.pdf"
@@ -41537,16 +41537,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -42032,16 +42032,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -42637,8 +42637,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43458,9 +43458,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -43492,8 +43492,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -44638,8 +44638,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -46072,16 +46072,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46779,8 +46779,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47959,9 +47959,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -47988,8 +47988,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -49491,8 +49491,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4400187168.pdf"
@@ -51158,8 +51158,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4310398141.pdf",
@@ -52257,8 +52257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414027663.pdf"
@@ -53441,8 +53441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -54901,8 +54901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56298,8 +56298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -56488,16 +56488,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -56505,6 +56495,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -56596,16 +56596,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -56613,6 +56603,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -56817,11 +56817,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7441,
+      "fwci": 0.7216,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.71590626,
+        "value": 0.70171625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57094,9 +57094,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.44999998807907104
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -57108,8 +57108,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -57871,7 +57871,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58625,8 +58625,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -59303,8 +59303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60227,16 +60227,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -60675,8 +60675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2953672306.pdf"
@@ -62000,8 +62000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -62531,16 +62531,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -63454,16 +63454,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64107,16 +64107,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5099999904632568
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65042,8 +65042,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -66183,8 +66183,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409329425.pdf"
@@ -66712,8 +66712,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -67124,8 +67124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67636,8 +67636,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -69004,8 +69004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -70479,8 +70479,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -71941,8 +71941,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -73406,8 +73406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -74593,8 +74593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,

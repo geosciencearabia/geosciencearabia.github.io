@@ -435,11 +435,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 0.184,
+      "fwci": 0.1868,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.48234403,
+        "value": 0.49027423,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -933,8 +933,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -1738,7 +1738,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2102,16 +2102,16 @@
         "value_usd": 4840
       },
       "apc_paid": null,
-      "fwci": 2.8599,
+      "fwci": 2.5147,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.91016133,
+        "value": 0.89793833,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -2404,8 +2404,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2417,8 +2417,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410788205.pdf"
@@ -3242,7 +3242,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3311,16 +3311,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210114766",
               "display_name": "Muscat College",
               "ror": "https://ror.org/01zhpv322",
@@ -3328,6 +3318,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I4210114766"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
               ]
             }
           ],
@@ -3368,11 +3368,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0886,
+      "fwci": 1.0339,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.73089583,
+        "value": 0.72188108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3733,8 +3733,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -4274,7 +4274,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4391,11 +4391,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 1.104,
+      "fwci": 1.121,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.74425366,
+        "value": 0.7491226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4825,8 +4825,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -5688,7 +5688,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5811,16 +5811,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210104395",
-              "display_name": "Green Mountain Radio Research (United States)",
-              "ror": "https://ror.org/01g07dr78",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210104395"
-              ]
-            },
-            {
               "id": "https://openalex.org/I116867862",
               "display_name": "Green Mountain College",
               "ror": "https://ror.org/04gfner94",
@@ -5828,6 +5818,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I116867862"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104395",
+              "display_name": "Green Mountain Radio Research (United States)",
+              "ror": "https://ror.org/01g07dr78",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210104395"
               ]
             }
           ],
@@ -5908,11 +5908,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5997,
+      "fwci": 2.4971,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89920503,
+        "value": 0.89444652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6204,15 +6204,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -6775,7 +6775,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6842,19 +6842,9 @@
           "author": {
             "id": "https://openalex.org/A5054416815",
             "display_name": "Philippe Audra",
-            "orcid": "https://orcid.org/0000-0001-9152-9935"
+            "orcid": null
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210154774",
-              "display_name": "Polytech Lille",
-              "ror": "https://ror.org/05339ng12",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210154774"
-              ]
-            },
             {
               "id": "https://openalex.org/I201841394",
               "display_name": "Université Côte d'Azur",
@@ -6863,6 +6853,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I201841394"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154774",
+              "display_name": "Polytech Lille",
+              "ror": "https://ror.org/05339ng12",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210154774"
               ]
             }
           ],
@@ -6937,11 +6937,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.1115,
+      "fwci": 0.1099,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.39265392,
+        "value": 0.39048252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7210,15 +7210,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -7259,7 +7259,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-20T17:24:06.736184",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7487,11 +7487,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8169,
+      "fwci": 0.8091,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82346735,
+        "value": 0.8228403,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7750,8 +7750,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7763,8 +7763,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf"
@@ -7943,7 +7943,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8134,7 +8134,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1175912,
+        "value": 0.1173987,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8419,15 +8419,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -8471,7 +8471,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-15T23:16:33.117629",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8625,7 +8625,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06216202,
+        "value": 0.06076759,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8961,15 +8961,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -9025,7 +9025,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-06T02:01:19.302388",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     }
   ]
