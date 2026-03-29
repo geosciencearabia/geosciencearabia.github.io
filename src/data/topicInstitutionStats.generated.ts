@@ -20,37 +20,37 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1245,
-    "citations": 21765
+    "citations": 21768
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1019,
-    "citations": 28534
+    "citations": 28543
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 739,
-    "citations": 17238
+    "citations": 17243
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 638,
-    "citations": 31071
+    "citations": 31074
   },
   {
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 638,
-    "citations": 18090
+    "citations": 18093
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 560,
-    "citations": 11565
+    "citations": 11566
   },
   {
     "id": "https://openalex.org/T13177",
@@ -74,13 +74,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
     "publications": 305,
-    "citations": 15334
+    "citations": 15335
   },
   {
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 271,
-    "citations": 4767
+    "citations": 4768
   },
   {
     "id": "https://openalex.org/T10271",
@@ -92,13 +92,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10413",
     "name": "High-pressure geophysics and materials",
     "publications": 162,
-    "citations": 13431
+    "citations": 13432
   },
   {
     "id": "https://openalex.org/T11801",
     "name": "Reservoir Engineering and Simulation Methods",
     "publications": 158,
-    "citations": 946
+    "citations": 947
   },
   {
     "id": "https://openalex.org/T10765",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 139,
-    "citations": 3424
+    "citations": 3426
   },
   {
     "id": "https://openalex.org/T11588",
@@ -164,7 +164,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12821",
     "name": "Geological Formations and Processes Exploration",
     "publications": 73,
-    "citations": 864
+    "citations": 865
   },
   {
     "id": "https://openalex.org/T10398",
@@ -446,7 +446,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11387",
     "name": "Ichthyology and Marine Biology",
     "publications": 12,
-    "citations": 337
+    "citations": 338
   },
   {
     "id": "https://openalex.org/T10930",
@@ -572,7 +572,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10341",
     "name": "Coral and Marine Ecosystems Studies",
     "publications": 9,
-    "citations": 209
+    "citations": 210
   },
   {
     "id": "https://openalex.org/T10969",
@@ -968,7 +968,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11052",
     "name": "Energy Load and Power Forecasting",
     "publications": 3,
-    "citations": 83
+    "citations": 84
   },
   {
     "id": "https://openalex.org/T11351",
@@ -1208,7 +1208,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11340",
     "name": "Marine Sponges and Natural Products",
     "publications": 2,
-    "citations": 256
+    "citations": 257
   },
   {
     "id": "https://openalex.org/T10180",
@@ -1253,16 +1253,16 @@ export const topicStats: TopicStats[] = [
     "citations": 75
   },
   {
-    "id": "https://openalex.org/T12071",
-    "name": "Marine Biology and Environmental Chemistry",
+    "id": "https://openalex.org/T11276",
+    "name": "Solar Radiation and Photovoltaics",
     "publications": 2,
     "citations": 58
   },
   {
-    "id": "https://openalex.org/T11276",
-    "name": "Solar Radiation and Photovoltaics",
+    "id": "https://openalex.org/T12071",
+    "name": "Marine Biology and Environmental Chemistry",
     "publications": 2,
-    "citations": 57
+    "citations": 58
   },
   {
     "id": "https://openalex.org/T11020",
@@ -3521,13 +3521,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 899,
-    "citations": 9943
+    "citations": 9948
   },
   {
     "id": "https://openalex.org/I5681781",
     "name": "University of Adelaide",
     "publications": 258,
-    "citations": 16000
+    "citations": 16002
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -3539,7 +3539,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 167,
-    "citations": 4002
+    "citations": 4003
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3557,7 +3557,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I33849332",
     "name": "University of Malaya",
     "publications": 107,
-    "citations": 3140
+    "citations": 3141
   },
   {
     "id": "https://openalex.org/I47818738",
@@ -3569,7 +3569,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I139290333",
     "name": "British Geological Survey",
     "publications": 94,
-    "citations": 3629
+    "citations": 3630
   },
   {
     "id": "https://openalex.org/I28022161",
@@ -3587,13 +3587,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I49324905",
     "name": "Equinor (Norway)",
     "publications": 88,
-    "citations": 2131
+    "citations": 2132
   },
   {
     "id": "https://openalex.org/I205640436",
     "name": "Curtin University",
     "publications": 85,
-    "citations": 8687
+    "citations": 8689
   },
   {
     "id": "https://openalex.org/I62856769",
@@ -3617,7 +3617,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I45129253",
     "name": "University College London",
     "publications": 60,
-    "citations": 2736
+    "citations": 2739
   },
   {
     "id": "https://openalex.org/I21203515",
@@ -3671,7 +3671,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I153648349",
     "name": "University of Leicester",
     "publications": 34,
-    "citations": 1592
+    "citations": 1593
   },
   {
     "id": "https://openalex.org/I4210148734",
@@ -3695,7 +3695,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210128123",
     "name": "Instytut Nauk Geologicznych",
     "publications": 29,
-    "citations": 744
+    "citations": 745
   },
   {
     "id": "https://openalex.org/I4388891817",
@@ -3719,7 +3719,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I99043593",
     "name": "Macquarie University",
     "publications": 24,
-    "citations": 3726
+    "citations": 3727
   },
   {
     "id": "https://openalex.org/I123387679",
@@ -3737,25 +3737,25 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I146416000",
     "name": "University of Kansas",
     "publications": 24,
-    "citations": 397
+    "citations": 398
   },
   {
     "id": "https://openalex.org/I190397597",
     "name": "University of Urbino",
     "publications": 24,
-    "citations": 211
+    "citations": 212
   },
   {
     "id": "https://openalex.org/I88126159",
     "name": "Egyptian Petroleum Research Institute",
     "publications": 24,
-    "citations": 206
+    "citations": 207
   },
   {
     "id": "https://openalex.org/I1327020802",
     "name": "Geological Survey of Canada",
     "publications": 23,
-    "citations": 4529
+    "citations": 4530
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -3797,7 +3797,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I177877127",
     "name": "University of Western Australia",
     "publications": 21,
-    "citations": 5240
+    "citations": 5241
   },
   {
     "id": "https://openalex.org/I3132291312",
@@ -3923,7 +3923,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I32597200",
     "name": "Ghent University",
     "publications": 16,
-    "citations": 861
+    "citations": 862
   },
   {
     "id": "https://openalex.org/I223822909",
@@ -3995,13 +3995,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I48076826",
     "name": "Chiang Mai University",
     "publications": 15,
-    "citations": 431
+    "citations": 432
   },
   {
     "id": "https://openalex.org/I142263535",
     "name": "University of Nottingham",
     "publications": 15,
-    "citations": 416
+    "citations": 417
   },
   {
     "id": "https://openalex.org/I170535673",
@@ -4067,7 +4067,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I195460627",
     "name": "University of Aberdeen",
     "publications": 13,
-    "citations": 834
+    "citations": 835
   },
   {
     "id": "https://openalex.org/I184558857",
@@ -4091,7 +4091,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I124055696",
     "name": "University of Copenhagen",
     "publications": 12,
-    "citations": 3447
+    "citations": 3448
   },
   {
     "id": "https://openalex.org/I181369854",
@@ -4109,7 +4109,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I98259816",
     "name": "Birkbeck, University of London",
     "publications": 12,
-    "citations": 624
+    "citations": 625
   },
   {
     "id": "https://openalex.org/I17974374",
@@ -4151,7 +4151,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I3125347698",
     "name": "Babeș-Bolyai University",
     "publications": 12,
-    "citations": 332
+    "citations": 333
   },
   {
     "id": "https://openalex.org/I69050122",
@@ -4199,7 +4199,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I63601056",
     "name": "Menoufia University",
     "publications": 12,
-    "citations": 43
+    "citations": 44
   },
   {
     "id": "https://openalex.org/I257179599",
@@ -4229,13 +4229,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I13144388",
     "name": "Ekiti State University",
     "publications": 11,
-    "citations": 555
+    "citations": 556
   },
   {
     "id": "https://openalex.org/I130828816",
     "name": "University of Leeds",
     "publications": 11,
-    "citations": 448
+    "citations": 449
   },
   {
     "id": "https://openalex.org/I166455938",
@@ -4277,13 +4277,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I161593684",
     "name": "Stockholm University",
     "publications": 10,
-    "citations": 4233
+    "citations": 4234
   },
   {
     "id": "https://openalex.org/I67031392",
     "name": "Carleton University",
     "publications": 10,
-    "citations": 3550
+    "citations": 3551
   },
   {
     "id": "https://openalex.org/I113428412",
@@ -4373,7 +4373,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4432739",
     "name": "University of Bergen",
     "publications": 9,
-    "citations": 4187
+    "citations": 4188
   },
   {
     "id": "https://openalex.org/I1315852903",
@@ -4865,7 +4865,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210141534",
     "name": "Senckenberg am Meer",
     "publications": 6,
-    "citations": 275
+    "citations": 276
   },
   {
     "id": "https://openalex.org/I21376657",
@@ -4883,7 +4883,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I158708052",
     "name": "Chulalongkorn University",
     "publications": 6,
-    "citations": 226
+    "citations": 227
   },
   {
     "id": "https://openalex.org/I4210166444",
@@ -4937,7 +4937,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I102065260",
     "name": "PTT Public Company Limited (Thailand)",
     "publications": 6,
-    "citations": 138
+    "citations": 139
   },
   {
     "id": "https://openalex.org/I4210124538",
@@ -4949,7 +4949,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I99542240",
     "name": "Polish Academy of Sciences",
     "publications": 6,
-    "citations": 132
+    "citations": 133
   },
   {
     "id": "https://openalex.org/I116953780",
@@ -5045,7 +5045,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1313323035",
     "name": "Russian Academy of Sciences",
     "publications": 5,
-    "citations": 3387
+    "citations": 3388
   },
   {
     "id": "https://openalex.org/I15057530",
@@ -5222,16 +5222,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 116
   },
   {
-    "id": "https://openalex.org/I100930933",
-    "name": "University College Dublin",
+    "id": "https://openalex.org/I255234318",
+    "name": "Universidad de Zaragoza",
     "publications": 5,
     "citations": 116
   },
   {
-    "id": "https://openalex.org/I255234318",
-    "name": "Universidad de Zaragoza",
+    "id": "https://openalex.org/I100930933",
+    "name": "University College Dublin",
     "publications": 5,
-    "citations": 115
+    "citations": 116
   },
   {
     "id": "https://openalex.org/I4210099513",
@@ -5345,7 +5345,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I3019007082",
     "name": "Institute of the Earth’s Crust",
     "publications": 4,
-    "citations": 3398
+    "citations": 3399
   },
   {
     "id": "https://openalex.org/I4210135230",
@@ -5663,13 +5663,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I150729083",
     "name": "Universidade de Brasília",
     "publications": 3,
-    "citations": 3415
+    "citations": 3416
   },
   {
     "id": "https://openalex.org/I187531555",
     "name": "Lund University",
     "publications": 3,
-    "citations": 3377
+    "citations": 3378
   },
   {
     "id": "https://openalex.org/I4210131354",
@@ -5759,7 +5759,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I22465464",
     "name": "University of Münster",
     "publications": 3,
-    "citations": 270
+    "citations": 271
   },
   {
     "id": "https://openalex.org/I4210140987",
@@ -5942,6 +5942,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 80
   },
   {
+    "id": "https://openalex.org/I122346577",
+    "name": "University of Modena and Reggio Emilia",
+    "publications": 3,
+    "citations": 77
+  },
+  {
     "id": "https://openalex.org/I2800182745",
     "name": "Government of Ethiopia",
     "publications": 3,
@@ -5950,12 +5956,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210117234",
     "name": "GeoEcoMar",
-    "publications": 3,
-    "citations": 76
-  },
-  {
-    "id": "https://openalex.org/I122346577",
-    "name": "University of Modena and Reggio Emilia",
     "publications": 3,
     "citations": 76
   },
@@ -6305,25 +6305,25 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210165131",
     "name": "Frontier Geosciences (Canada)",
     "publications": 2,
-    "citations": 3372
+    "citations": 3373
   },
   {
     "id": "https://openalex.org/I169521973",
     "name": "University of New Mexico",
     "publications": 2,
-    "citations": 3372
+    "citations": 3373
   },
   {
     "id": "https://openalex.org/I4210134810",
     "name": "Chongqing Institute of Geology and Mineral Resources",
     "publications": 2,
-    "citations": 3372
+    "citations": 3373
   },
   {
     "id": "https://openalex.org/I4210151315",
     "name": "Geocenter Denmark",
     "publications": 2,
-    "citations": 3372
+    "citations": 3373
   },
   {
     "id": "https://openalex.org/I86539363",
@@ -6623,7 +6623,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I110537696",
     "name": "Petroleum Geo-Services (United Kingdom)",
     "publications": 2,
-    "citations": 112
+    "citations": 113
   },
   {
     "id": "https://openalex.org/I205746353",
@@ -6995,7 +6995,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I12870472",
     "name": "Birmingham City University",
     "publications": 2,
-    "citations": 38
+    "citations": 39
   },
   {
     "id": "https://openalex.org/I919958821",
@@ -8090,16 +8090,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 71
   },
   {
-    "id": "https://openalex.org/I4210133988",
-    "name": "Bologna Research Area",
+    "id": "https://openalex.org/I4210150577",
+    "name": "Sandvik (Norway)",
     "publications": 1,
     "citations": 68
   },
   {
-    "id": "https://openalex.org/I4210150577",
-    "name": "Sandvik (Norway)",
+    "id": "https://openalex.org/I4210133988",
+    "name": "Bologna Research Area",
     "publications": 1,
-    "citations": 67
+    "citations": 68
   },
   {
     "id": "https://openalex.org/I114493937",
@@ -8606,6 +8606,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 34
   },
   {
+    "id": "https://openalex.org/I32389192",
+    "name": "University of Alabama at Birmingham",
+    "publications": 1,
+    "citations": 34
+  },
+  {
     "id": "https://openalex.org/I4210094136",
     "name": "Museo delle Scienze",
     "publications": 1,
@@ -8664,12 +8670,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Polish Geological Institute",
     "publications": 1,
     "citations": 34
-  },
-  {
-    "id": "https://openalex.org/I32389192",
-    "name": "University of Alabama at Birmingham",
-    "publications": 1,
-    "citations": 33
   },
   {
     "id": "https://openalex.org/I4210090212",
