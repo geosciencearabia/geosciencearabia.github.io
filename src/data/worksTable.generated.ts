@@ -2744,7 +2744,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-12",
     "year": 2003,
     "venue": "Earth-Science Reviews",
-    "citations": 282,
+    "citations": 283,
     "fwci": 4.4099,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -3528,6 +3528,33 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2150512152",
+    "doi": "https://doi.org/10.1144/gsl.sp.1990.050.01.16",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681"
+    ],
+    "firstAuthorLastName": "Alsharhan",
+    "allAuthors": [
+      "Abdulrahman S. Alsharhan"
+    ],
+    "title": "Geology and reservoir characteristics of Lower Cretaceous Kharaib Formation in Zakum Field, Abu Dhabi, United Arab Emirates",
+    "publicationDate": "1990-01-01",
+    "year": 1990,
+    "venue": "Geological Society London Special Publications",
+    "citations": 33,
+    "fwci": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "United Arab Emirates University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1968457267",
     "doi": "https://doi.org/10.1007/bf03175225",
     "program": "",
@@ -4213,33 +4240,6 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
       "Geological formations and processes"
-    ],
-    "institutions": [
-      "United Arab Emirates University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2150512152",
-    "doi": "https://doi.org/10.1144/gsl.sp.1990.050.01.16",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681"
-    ],
-    "firstAuthorLastName": "Alsharhan",
-    "allAuthors": [
-      "Abdulrahman S. Alsharhan"
-    ],
-    "title": "Geology and reservoir characteristics of Lower Cretaceous Kharaib Formation in Zakum Field, Abu Dhabi, United Arab Emirates",
-    "publicationDate": "1990-01-01",
-    "year": 1990,
-    "venue": "Geological Society London Special Publications",
-    "citations": 32,
-    "fwci": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Reservoir Engineering and Simulation Methods",
-      "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": [
       "United Arab Emirates University"
@@ -7838,6 +7838,92 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2904082105",
+    "doi": "https://doi.org/10.1029/2018gc007731",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5064788534",
+      "A5018815834",
+      "A5035575657",
+      "A5013976612",
+      "A5107656345",
+      "A5067901321",
+      "A5059778018",
+      "A5062915518",
+      "A5081444035",
+      "A5043114681",
+      "A5029740838",
+      "A5034527051",
+      "A5010910479",
+      "A5086919759",
+      "A5037898760",
+      "A5032601901",
+      "A5091663361",
+      "A5047400113"
+    ],
+    "firstAuthorLastName": "Shervais",
+    "allAuthors": [
+      "John W. Shervais",
+      "Mark K. Reagan",
+      "Emily Haugen",
+      "Renat Almeev",
+      "Julian A. Pearce",
+      "Julie Prytulak",
+      "Jeffrey G. Ryan",
+      "Scott Whattam",
+      "Marguerite Godard",
+      "Timothy Chapman",
+      "Hongyan Li",
+      "Walter Kurz",
+      "Wendy R. Nelson",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Kenji Shimizu",
+      "Tetsuya Sakuyama",
+      "Yibing Li",
+      "Scott K. Vetter"
+    ],
+    "title": "Magmatic Response to Subduction Initiation: Part 1. Fore‐arc Basalts of the Izu‐Bonin Arc From IODP Expedition 352",
+    "publicationDate": "2018-12-19",
+    "year": 2018,
+    "venue": "Geochemistry Geophysics Geosystems",
+    "citations": 190,
+    "fwci": 15.8016,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Utah State University",
+      "University of Iowa",
+      "California State University, Sacramento",
+      "Leibniz University Hannover",
+      "Cardiff University",
+      "Durham University",
+      "University of South Florida",
+      "King Fahd University of Petroleum and Minerals",
+      "Centre National de la Recherche Scientifique",
+      "Université de Montpellier",
+      "Géosciences Montpellier",
+      "The University of Sydney",
+      "Chinese Academy of Sciences",
+      "Guangzhou Institute of Geochemistry",
+      "University of Graz",
+      "Nawi Graz",
+      "Towson University",
+      "Oregon State University",
+      "University of Cologne",
+      "Japan Agency for Marine-Earth Science and Technology",
+      "Osaka Health Science University",
+      "The University of Osaka",
+      "Chinese Academy of Geological Sciences",
+      "Centenary College of Louisiana"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2579139648",
     "doi": "https://doi.org/10.1080/00206814.2016.1276482",
     "program": "",
@@ -7950,92 +8036,6 @@ export const worksTable: WorkTableRecord[] = [
       "Japan Agency for Marine-Earth Science and Technology",
       "Kōchi University",
       "Korea University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2904082105",
-    "doi": "https://doi.org/10.1029/2018gc007731",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5064788534",
-      "A5018815834",
-      "A5035575657",
-      "A5013976612",
-      "A5107656345",
-      "A5067901321",
-      "A5059778018",
-      "A5062915518",
-      "A5081444035",
-      "A5043114681",
-      "A5029740838",
-      "A5034527051",
-      "A5010910479",
-      "A5086919759",
-      "A5037898760",
-      "A5032601901",
-      "A5091663361",
-      "A5047400113"
-    ],
-    "firstAuthorLastName": "Shervais",
-    "allAuthors": [
-      "John W. Shervais",
-      "Mark K. Reagan",
-      "Emily Haugen",
-      "Renat Almeev",
-      "Julian A. Pearce",
-      "Julie Prytulak",
-      "Jeffrey G. Ryan",
-      "Scott Whattam",
-      "Marguerite Godard",
-      "Timothy Chapman",
-      "Hongyan Li",
-      "Walter Kurz",
-      "Wendy R. Nelson",
-      "Daniel E. Heaton",
-      "Maria Kirchenbaur",
-      "Kenji Shimizu",
-      "Tetsuya Sakuyama",
-      "Yibing Li",
-      "Scott K. Vetter"
-    ],
-    "title": "Magmatic Response to Subduction Initiation: Part 1. Fore‐arc Basalts of the Izu‐Bonin Arc From IODP Expedition 352",
-    "publicationDate": "2018-12-19",
-    "year": 2018,
-    "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 189,
-    "fwci": 15.8016,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Utah State University",
-      "University of Iowa",
-      "California State University, Sacramento",
-      "Leibniz University Hannover",
-      "Cardiff University",
-      "Durham University",
-      "University of South Florida",
-      "King Fahd University of Petroleum and Minerals",
-      "Centre National de la Recherche Scientifique",
-      "Université de Montpellier",
-      "Géosciences Montpellier",
-      "The University of Sydney",
-      "Chinese Academy of Sciences",
-      "Guangzhou Institute of Geochemistry",
-      "University of Graz",
-      "Nawi Graz",
-      "Towson University",
-      "Oregon State University",
-      "University of Cologne",
-      "Japan Agency for Marine-Earth Science and Technology",
-      "Osaka Health Science University",
-      "The University of Osaka",
-      "Chinese Academy of Geological Sciences",
-      "Centenary College of Louisiana"
     ]
   },
   {
@@ -23279,7 +23279,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.385,
+    "fwci": 1.3854,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -43216,6 +43216,54 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4413412618",
+    "doi": "https://doi.org/10.1007/s13202-025-02059-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5093832213",
+      "A5009594846",
+      "A5023467994",
+      "A5102858778",
+      "A5119381682",
+      "A5037236117",
+      "A5068894394",
+      "A5112478261"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Mahdi Ali Lathbl",
+      "AKM Eahsanul Haque",
+      "Aref Lashin",
+      "Afikah Rahim",
+      "Atif M. Abass",
+      "Waqas Naseem",
+      "Khan Sibtain Bin Altaf",
+      "Maria Rafique"
+    ],
+    "title": "Geochemistry of oil seepages and Paleocene organic-rich shale deposits from the onshore East Coast Basin in New Zealand: implications for characteristics, origin and oil-source rock correlation",
+    "publicationDate": "2025-08-22",
+    "year": 2025,
+    "venue": "Journal of Petroleum Exploration and Production Technology",
+    "citations": 1,
+    "fwci": 0.8636,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Atmospheric and Environmental Gas Dynamics",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Kazan Federal University",
+      "Universiti Teknologi Petronas",
+      "King Saud University",
+      "University of Technology Malaysia",
+      "Petroleum Technology Company (Norway)",
+      "University of Azad Jammu and Kashmir"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4414413720",
     "doi": "https://doi.org/10.1016/j.jafrearsci.2025.105848",
     "program": "",
@@ -47485,54 +47533,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4413412618",
-    "doi": "https://doi.org/10.1007/s13202-025-02059-8",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5093832213",
-      "A5009594846",
-      "A5023467994",
-      "A5102858778",
-      "A5119381682",
-      "A5037236117",
-      "A5068894394",
-      "A5112478261"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Mahdi Ali Lathbl",
-      "AKM Eahsanul Haque",
-      "Aref Lashin",
-      "Afikah Rahim",
-      "Atif M. Abass",
-      "Waqas Naseem",
-      "Khan Sibtain Bin Altaf",
-      "Maria Rafique"
-    ],
-    "title": "Geochemistry of oil seepages and Paleocene organic-rich shale deposits from the onshore East Coast Basin in New Zealand: implications for characteristics, origin and oil-source rock correlation",
-    "publicationDate": "2025-08-22",
-    "year": 2025,
-    "venue": "Journal of Petroleum Exploration and Production Technology",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Atmospheric and Environmental Gas Dynamics",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Kazan Federal University",
-      "Universiti Teknologi Petronas",
-      "King Saud University",
-      "University of Technology Malaysia",
-      "Petroleum Technology Company (Norway)",
-      "University of Azad Jammu and Kashmir"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4413841682",
     "doi": "https://doi.org/10.1007/s43217-025-00255-4",
     "program": "",
@@ -50417,7 +50417,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 1,
-    "fwci": 0.8007,
+    "fwci": 0.7991,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -54705,7 +54705,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Journal of African Earth Sciences",
     "citations": 6,
-    "fwci": 1.6147,
+    "fwci": 1.6146,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -86676,7 +86676,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1013,
+    "fwci": 32.1054,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87081,7 +87081,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.8688,
+    "fwci": 2.8689,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87365,7 +87365,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3352,
+    "citations": 3353,
     "fwci": 71.5161,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -88509,6 +88509,48 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2089924959",
+    "doi": "https://doi.org/10.1016/j.gr.2014.11.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5002671147",
+      "A5039866356",
+      "A5030105240",
+      "A5050798817",
+      "A5060053337",
+      "A5015495688"
+    ],
+    "firstAuthorLastName": "Clark",
+    "allAuthors": [
+      "Chris Clark",
+      "David Healy",
+      "Tim Johnson",
+      "Alan S. Collins",
+      "Richard Taylor",
+      "M. Santosh",
+      "Nicholas E. Timms"
+    ],
+    "title": "Hot orogens and supercontinent amalgamation: A Gondwanan example from southern India",
+    "publicationDate": "2014-11-30",
+    "year": 2014,
+    "venue": "Gondwana Research",
+    "citations": 108,
+    "fwci": 8.225,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Curtin University",
+      "University of Aberdeen",
+      "University of Adelaide",
+      "China University of Geosciences (Beijing)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2126955777",
     "doi": "https://doi.org/10.1130/b30977.1",
     "program": "",
@@ -88544,48 +88586,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Adelaide",
       "Curtin University",
-      "China University of Geosciences (Beijing)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2089924959",
-    "doi": "https://doi.org/10.1016/j.gr.2014.11.005",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5002671147",
-      "A5039866356",
-      "A5030105240",
-      "A5050798817",
-      "A5060053337",
-      "A5015495688"
-    ],
-    "firstAuthorLastName": "Clark",
-    "allAuthors": [
-      "Chris Clark",
-      "David Healy",
-      "Tim Johnson",
-      "Alan S. Collins",
-      "Richard Taylor",
-      "M. Santosh",
-      "Nicholas E. Timms"
-    ],
-    "title": "Hot orogens and supercontinent amalgamation: A Gondwanan example from southern India",
-    "publicationDate": "2014-11-30",
-    "year": 2014,
-    "venue": "Gondwana Research",
-    "citations": 107,
-    "fwci": 8.224,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "Curtin University",
-      "University of Aberdeen",
-      "University of Adelaide",
       "China University of Geosciences (Beijing)"
     ]
   },
