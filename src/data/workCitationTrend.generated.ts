@@ -2448,10 +2448,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2028038371": {
     "workId": "https://openalex.org/W2028038371",
-    "latestYear": 2024,
-    "latestYearCitations": 2,
+    "latestYear": 2026,
+    "latestYearCitations": 1,
     "previousYearCitations": 0,
-    "yearOverYearDelta": 2
+    "yearOverYearDelta": 1
   },
   "https://openalex.org/W2028260604": {
     "workId": "https://openalex.org/W2028260604",
@@ -3744,9 +3744,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W2078052519": {
     "workId": "https://openalex.org/W2078052519",
     "latestYear": 2026,
-    "latestYearCitations": 3,
+    "latestYearCitations": 4,
     "previousYearCitations": 3,
-    "yearOverYearDelta": 0
+    "yearOverYearDelta": 1
   },
   "https://openalex.org/W2078568297": {
     "workId": "https://openalex.org/W2078568297",
@@ -3841,10 +3841,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2081705827": {
     "workId": "https://openalex.org/W2081705827",
-    "latestYear": 2025,
-    "latestYearCitations": 8,
-    "previousYearCitations": 5,
-    "yearOverYearDelta": 3
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 8,
+    "yearOverYearDelta": -7
   },
   "https://openalex.org/W2081716923": {
     "workId": "https://openalex.org/W2081716923",
@@ -4611,10 +4611,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2123445693": {
     "workId": "https://openalex.org/W2123445693",
-    "latestYear": 2025,
-    "latestYearCitations": 14,
-    "previousYearCitations": 16,
-    "yearOverYearDelta": -2
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 14,
+    "yearOverYearDelta": -13
   },
   "https://openalex.org/W2123488425": {
     "workId": "https://openalex.org/W2123488425",
@@ -4948,9 +4948,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W2142600636": {
     "workId": "https://openalex.org/W2142600636",
     "latestYear": 2026,
-    "latestYearCitations": 1,
+    "latestYearCitations": 2,
     "previousYearCitations": 1,
-    "yearOverYearDelta": 0
+    "yearOverYearDelta": 1
   },
   "https://openalex.org/W2144442229": {
     "workId": "https://openalex.org/W2144442229",
@@ -5297,16 +5297,16 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2168040656": {
     "workId": "https://openalex.org/W2168040656",
-    "latestYear": 2025,
-    "latestYearCitations": 14,
-    "previousYearCitations": 3,
-    "yearOverYearDelta": 11
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 14,
+    "yearOverYearDelta": -13
   },
   "https://openalex.org/W2168354366": {
     "workId": "https://openalex.org/W2168354366",
-    "latestYear": 2024,
-    "latestYearCitations": 3,
-    "previousYearCitations": 2,
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 0,
     "yearOverYearDelta": 1
   },
   "https://openalex.org/W2169001052": {
@@ -5339,10 +5339,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2170118325": {
     "workId": "https://openalex.org/W2170118325",
-    "latestYear": 2025,
-    "latestYearCitations": 3,
-    "previousYearCitations": 4,
-    "yearOverYearDelta": -1
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 3,
+    "yearOverYearDelta": -2
   },
   "https://openalex.org/W2170463519": {
     "workId": "https://openalex.org/W2170463519",
@@ -6425,9 +6425,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W2400592313": {
     "workId": "https://openalex.org/W2400592313",
     "latestYear": 2026,
-    "latestYearCitations": 2,
+    "latestYearCitations": 3,
     "previousYearCitations": 1,
-    "yearOverYearDelta": 1
+    "yearOverYearDelta": 2
   },
   "https://openalex.org/W2402522513": {
     "workId": "https://openalex.org/W2402522513",
@@ -7194,10 +7194,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2593264076": {
     "workId": "https://openalex.org/W2593264076",
-    "latestYear": 2025,
-    "latestYearCitations": 3,
-    "previousYearCitations": 2,
-    "yearOverYearDelta": 1
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 3,
+    "yearOverYearDelta": -2
   },
   "https://openalex.org/W2594487706": {
     "workId": "https://openalex.org/W2594487706",
@@ -8965,10 +8965,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W2916531119": {
     "workId": "https://openalex.org/W2916531119",
-    "latestYear": 2021,
+    "latestYear": 2026,
     "latestYearCitations": 1,
-    "previousYearCitations": 1,
-    "yearOverYearDelta": 0
+    "previousYearCitations": 0,
+    "yearOverYearDelta": 1
   },
   "https://openalex.org/W2916537484": {
     "workId": "https://openalex.org/W2916537484",
@@ -9001,9 +9001,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W2920163076": {
     "workId": "https://openalex.org/W2920163076",
     "latestYear": 2026,
-    "latestYearCitations": 2,
+    "latestYearCitations": 3,
     "previousYearCitations": 16,
-    "yearOverYearDelta": -14
+    "yearOverYearDelta": -13
   },
   "https://openalex.org/W2920852706": {
     "workId": "https://openalex.org/W2920852706",
@@ -10219,9 +10219,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W3008471558": {
     "workId": "https://openalex.org/W3008471558",
     "latestYear": 2026,
-    "latestYearCitations": 2,
+    "latestYearCitations": 3,
     "previousYearCitations": 10,
-    "yearOverYearDelta": -8
+    "yearOverYearDelta": -7
   },
   "https://openalex.org/W3009101121": {
     "workId": "https://openalex.org/W3009101121",
@@ -12599,9 +12599,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W4200528512": {
     "workId": "https://openalex.org/W4200528512",
     "latestYear": 2026,
-    "latestYearCitations": 7,
+    "latestYearCitations": 8,
     "previousYearCitations": 34,
-    "yearOverYearDelta": -27
+    "yearOverYearDelta": -26
   },
   "https://openalex.org/W4200559166": {
     "workId": "https://openalex.org/W4200559166",
@@ -13488,9 +13488,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W4283390639": {
     "workId": "https://openalex.org/W4283390639",
     "latestYear": 2026,
-    "latestYearCitations": 8,
+    "latestYearCitations": 9,
     "previousYearCitations": 76,
-    "yearOverYearDelta": -68
+    "yearOverYearDelta": -67
   },
   "https://openalex.org/W4283746594": {
     "workId": "https://openalex.org/W4283746594",
@@ -14845,10 +14845,10 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W4379878424": {
     "workId": "https://openalex.org/W4379878424",
-    "latestYear": 2025,
+    "latestYear": 2026,
     "latestYearCitations": 1,
-    "previousYearCitations": 9,
-    "yearOverYearDelta": -8
+    "previousYearCitations": 1,
+    "yearOverYearDelta": 0
   },
   "https://openalex.org/W4380204157": {
     "workId": "https://openalex.org/W4380204157",
@@ -16596,9 +16596,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W4402083814": {
     "workId": "https://openalex.org/W4402083814",
     "latestYear": 2026,
-    "latestYearCitations": 5,
+    "latestYearCitations": 6,
     "previousYearCitations": 12,
-    "yearOverYearDelta": -7
+    "yearOverYearDelta": -6
   },
   "https://openalex.org/W4402094040": {
     "workId": "https://openalex.org/W4402094040",
@@ -17030,9 +17030,9 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   "https://openalex.org/W4406289730": {
     "workId": "https://openalex.org/W4406289730",
     "latestYear": 2026,
-    "latestYearCitations": 2,
+    "latestYearCitations": 3,
     "previousYearCitations": 5,
-    "yearOverYearDelta": -3
+    "yearOverYearDelta": -2
   },
   "https://openalex.org/W4406405554": {
     "workId": "https://openalex.org/W4406405554",
@@ -17839,6 +17839,13 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
     "previousYearCitations": 0,
     "yearOverYearDelta": 1
   },
+  "https://openalex.org/W4416764301": {
+    "workId": "https://openalex.org/W4416764301",
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 0,
+    "yearOverYearDelta": 1
+  },
   "https://openalex.org/W4416868394": {
     "workId": "https://openalex.org/W4416868394",
     "latestYear": 2026,
@@ -17848,6 +17855,13 @@ export const workCitationTrendByWorkId: Record<string, WorkCitationTrendRecord> 
   },
   "https://openalex.org/W4416916178": {
     "workId": "https://openalex.org/W4416916178",
+    "latestYear": 2026,
+    "latestYearCitations": 1,
+    "previousYearCitations": 0,
+    "yearOverYearDelta": 1
+  },
+  "https://openalex.org/W4416956848": {
+    "workId": "https://openalex.org/W4416956848",
     "latestYear": 2026,
     "latestYearCitations": 1,
     "previousYearCitations": 0,

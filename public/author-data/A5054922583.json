@@ -33033,6 +33033,2709 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4416764301",
+      "doi": "https://doi.org/10.1038/s41598-025-29863-w",
+      "title": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
+      "display_name": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
+      "publication_year": 2025,
+      "publication_date": "2025-11-27",
+      "ids": {
+        "openalex": "https://openalex.org/W4416764301",
+        "doi": "https://doi.org/10.1038/s41598-025-29863-w",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41309956"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41598-025-29863-w",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
+        "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094215875",
+            "display_name": "Ahmed Eleslambouly",
+            "orcid": "https://orcid.org/0009-0005-9029-0666"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ahmed Eleslambouly",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com",
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078913490",
+            "display_name": "Mohammed Y. Ali",
+            "orcid": "https://orcid.org/0000-0001-7502-3897"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Y. Ali",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055256846",
+            "display_name": "Fateh Bouchaala",
+            "orcid": "https://orcid.org/0000-0003-2368-3302"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fateh Bouchaala",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
+            "orcid": "https://orcid.org/0000-0001-5762-6109"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ammar El-Husseiny",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Al‐Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077467560",
+            "display_name": "Sherif M. Hanafy",
+            "orcid": "https://orcid.org/0000-0003-4568-2941"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sherif M. Hanafy",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036597341",
+            "display_name": "Jun Matsushima",
+            "orcid": "https://orcid.org/0000-0003-1129-3964"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I74801974",
+              "display_name": "The University of Tokyo",
+              "ror": "https://ror.org/057zh3y96",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74801974"
+              ]
+            }
+          ],
+          "countries": [
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jun Matsushima",
+          "raw_affiliation_strings": [
+            "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan",
+              "institution_ids": [
+                "https://openalex.org/I74801974"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094215875"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
+      "apc_list": {
+        "value": 1890,
+        "currency": "EUR",
+        "value_usd": 2190
+      },
+      "apc_paid": {
+        "value": 1890,
+        "currency": "EUR",
+        "value_usd": 2190
+      },
+      "fwci": 1.8553,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.87485258,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "1",
+        "first_page": "44623",
+        "last_page": "44623"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 0.7009999752044678,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.7009999752044678,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.14010000228881836,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.032099999487400055,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "Sabkha",
+          "score": 0.9093000292778015
+        },
+        {
+          "id": "https://openalex.org/keywords/attenuation",
+          "display_name": "Attenuation",
+          "score": 0.6837000250816345
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogeology",
+          "display_name": "Hydrogeology",
+          "score": 0.5656999945640564
+        },
+        {
+          "id": "https://openalex.org/keywords/lithification",
+          "display_name": "Lithification",
+          "score": 0.5167999863624573
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.515999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.43860000371932983
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-refraction",
+          "display_name": "Seismic refraction",
+          "score": 0.3481999933719635
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.9093000292778015
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8938000202178955
+        },
+        {
+          "id": "https://openalex.org/C184652730",
+          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
+          "display_name": "Attenuation",
+          "level": 2,
+          "score": 0.6837000250816345
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.5807999968528748
+        },
+        {
+          "id": "https://openalex.org/C33556824",
+          "wikidata": "https://www.wikidata.org/wiki/Q179509",
+          "display_name": "Hydrogeology",
+          "level": 2,
+          "score": 0.5656999945640564
+        },
+        {
+          "id": "https://openalex.org/C164430837",
+          "wikidata": "https://www.wikidata.org/wiki/Q1191052",
+          "display_name": "Lithification",
+          "level": 3,
+          "score": 0.5167999863624573
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.515999972820282
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.43860000371932983
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3596999943256378
+        },
+        {
+          "id": "https://openalex.org/C111461898",
+          "wikidata": "https://www.wikidata.org/wiki/Q2008968",
+          "display_name": "Seismic refraction",
+          "level": 2,
+          "score": 0.3481999933719635
+        },
+        {
+          "id": "https://openalex.org/C205318122",
+          "wikidata": "https://www.wikidata.org/wiki/Q72277",
+          "display_name": "Refraction",
+          "level": 2,
+          "score": 0.33390000462532043
+        },
+        {
+          "id": "https://openalex.org/C85725439",
+          "wikidata": "https://www.wikidata.org/wiki/Q466686",
+          "display_name": "Anisotropy",
+          "level": 2,
+          "score": 0.33160001039505005
+        },
+        {
+          "id": "https://openalex.org/C2993808335",
+          "wikidata": "https://www.wikidata.org/wiki/Q186167",
+          "display_name": "Seismic velocity",
+          "level": 2,
+          "score": 0.32100000977516174
+        },
+        {
+          "id": "https://openalex.org/C185734153",
+          "wikidata": "https://www.wikidata.org/wiki/Q31566",
+          "display_name": "Coastal plain",
+          "level": 2,
+          "score": 0.31220000982284546
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.30160000920295715
+        },
+        {
+          "id": "https://openalex.org/C78542244",
+          "wikidata": "https://www.wikidata.org/wiki/Q186167",
+          "display_name": "Seismic wave",
+          "level": 2,
+          "score": 0.2985000014305115
+        },
+        {
+          "id": "https://openalex.org/C163686574",
+          "wikidata": "https://www.wikidata.org/wiki/Q1638707",
+          "display_name": "Transition zone",
+          "level": 2,
+          "score": 0.2874999940395355
+        },
+        {
+          "id": "https://openalex.org/C23148476",
+          "wikidata": "https://www.wikidata.org/wiki/Q17105691",
+          "display_name": "Seismic anisotropy",
+          "level": 3,
+          "score": 0.2660999894142151
+        },
+        {
+          "id": "https://openalex.org/C149348798",
+          "wikidata": "https://www.wikidata.org/wiki/Q215915",
+          "display_name": "Upwelling",
+          "level": 2,
+          "score": 0.25200000405311584
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41598-025-29863-w",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
+          "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
+          "source": {
+            "id": "https://openalex.org/S196734849",
+            "display_name": "Scientific Reports",
+            "issn_l": "2045-2322",
+            "issn": [
+              "2045-2322"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific Reports",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:41309956",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41309956",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific reports",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:1b74b7dbf3304fbcb229a8381c787444",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/1b74b7dbf3304fbcb229a8381c787444",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 15, Iss 1, Pp 1-16 (2025)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12748686",
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12748686/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41598-025-29863-w",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
+        "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320322334",
+          "display_name": "Khalifa University of Science, Technology and Research",
+          "ror": "https://ror.org/05hffr360"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4416764301.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4416764301.grobid-xml"
+      },
+      "referenced_works_count": 63,
+      "referenced_works": [
+        "https://openalex.org/W15242090",
+        "https://openalex.org/W123974382",
+        "https://openalex.org/W196108489",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W1544126580",
+        "https://openalex.org/W1563935532",
+        "https://openalex.org/W1569666053",
+        "https://openalex.org/W1634674094",
+        "https://openalex.org/W1963920789",
+        "https://openalex.org/W1964494084",
+        "https://openalex.org/W1972447780",
+        "https://openalex.org/W1974225959",
+        "https://openalex.org/W1976362299",
+        "https://openalex.org/W1981633816",
+        "https://openalex.org/W1986227254",
+        "https://openalex.org/W1988880858",
+        "https://openalex.org/W1989898205",
+        "https://openalex.org/W1997995534",
+        "https://openalex.org/W2000474073",
+        "https://openalex.org/W2012654940",
+        "https://openalex.org/W2024922902",
+        "https://openalex.org/W2025604940",
+        "https://openalex.org/W2034904570",
+        "https://openalex.org/W2046396252",
+        "https://openalex.org/W2054844949",
+        "https://openalex.org/W2055899902",
+        "https://openalex.org/W2062897230",
+        "https://openalex.org/W2064850869",
+        "https://openalex.org/W2078122651",
+        "https://openalex.org/W2082938787",
+        "https://openalex.org/W2086040992",
+        "https://openalex.org/W2087601271",
+        "https://openalex.org/W2088284925",
+        "https://openalex.org/W2092803560",
+        "https://openalex.org/W2094404481",
+        "https://openalex.org/W2099166920",
+        "https://openalex.org/W2121166329",
+        "https://openalex.org/W2124725087",
+        "https://openalex.org/W2155094814",
+        "https://openalex.org/W2168050037",
+        "https://openalex.org/W2300963246",
+        "https://openalex.org/W2317497950",
+        "https://openalex.org/W2491197430",
+        "https://openalex.org/W2588392223",
+        "https://openalex.org/W2599492954",
+        "https://openalex.org/W2753010592",
+        "https://openalex.org/W2914533273",
+        "https://openalex.org/W2946021409",
+        "https://openalex.org/W2962696251",
+        "https://openalex.org/W2965333295",
+        "https://openalex.org/W2966439994",
+        "https://openalex.org/W3006831727",
+        "https://openalex.org/W3012276169",
+        "https://openalex.org/W3029538401",
+        "https://openalex.org/W3155102117",
+        "https://openalex.org/W3179113420",
+        "https://openalex.org/W3198127816",
+        "https://openalex.org/W4224296553",
+        "https://openalex.org/W4307328900",
+        "https://openalex.org/W4405738300",
+        "https://openalex.org/W4412365227",
+        "https://openalex.org/W4414021823",
+        "https://openalex.org/W6911756183"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "6": [
+          164
+        ],
+        "8": [
+          159
+        ],
+        "Sabkhas": [
+          0
+        ],
+        "represent": [
+          1
+        ],
+        "abundant": [
+          2
+        ],
+        "topographic": [
+          3
+        ],
+        "environments": [
+          4
+        ],
+        "along": [
+          5
+        ],
+        "the": [
+          6,
+          41,
+          65,
+          74,
+          99,
+          117,
+          174,
+          205,
+          251,
+          265
+        ],
+        "Arabian": [
+          7
+        ],
+        "Gulf": [
+          8
+        ],
+        "and": [
+          9,
+          16,
+          22,
+          36,
+          56,
+          73,
+          84,
+          96,
+          102,
+          106,
+          130,
+          152,
+          163,
+          187,
+          217,
+          245,
+          260
+        ],
+        "are": [
+          10
+        ],
+        "increasingly": [
+          11
+        ],
+        "relevant": [
+          12
+        ],
+        "to": [
+          13,
+          64,
+          93,
+          158,
+          198
+        ],
+        "hydrocarbon": [
+          14
+        ],
+        "exploration": [
+          15
+        ],
+        "urban": [
+          17
+        ],
+        "development.": [
+          18
+        ],
+        "Their": [
+          19
+        ],
+        "complex": [
+          20,
+          243
+        ],
+        "geological": [
+          21
+        ],
+        "hydrogeological": [
+          23
+        ],
+        "settings": [
+          24
+        ],
+        "significantly": [
+          25
+        ],
+        "control": [
+          26
+        ],
+        "near-surface": [
+          27
+        ],
+        "seismic": [
+          28,
+          31,
+          54,
+          104,
+          266
+        ],
+        "properties,": [
+          29
+        ],
+        "influencing": [
+          30
+        ],
+        "velocity": [
+          32,
+          47,
+          50
+        ],
+        "contrasts,": [
+          33
+        ],
+        "attenuation": [
+          34,
+          58,
+          210
+        ],
+        "($${{Q}_{P}}^{-1}$$),": [
+          35
+        ],
+        "anisotropy.": [
+          37
+        ],
+        "This": [
+          38
+        ],
+        "study": [
+          39
+        ],
+        "presents": [
+          40
+        ],
+        "first": [
+          42
+        ],
+        "integrated": [
+          43
+        ],
+        "application": [
+          44
+        ],
+        "of": [
+          45,
+          69,
+          78,
+          87,
+          132,
+          137,
+          154,
+          228,
+          253
+        ],
+        "P-wave": [
+          46
+        ],
+        "($${V}_{P}$$),": [
+          48
+        ],
+        "S-wave": [
+          49
+        ],
+        "($${V}_{S}$$),": [
+          51
+        ],
+        "$${{V}_{P}/V}_{S}$$": [
+          52,
+          100
+        ],
+        "ratio,": [
+          53,
+          101
+        ],
+        "anisotropy,": [
+          55
+        ],
+        "$${{Q}_{P}}^{-1}$$": [
+          57,
+          194
+        ],
+        "analysis": [
+          59,
+          86
+        ],
+        "in": [
+          60,
+          113,
+          161,
+          166,
+          200
+        ],
+        "sabkha": [
+          61,
+          68,
+          77
+        ],
+        "environments,": [
+          62
+        ],
+        "applied": [
+          63
+        ],
+        "mature": [
+          66,
+          254
+        ],
+        "coastal": [
+          67
+        ],
+        "Abu": [
+          70
+        ],
+        "Dhabi": [
+          71
+        ],
+        "(CSAD)": [
+          72
+        ],
+        "immature": [
+          75
+        ],
+        "inland": [
+          76
+        ],
+        "Jayb": [
+          79
+        ],
+        "Uwayyid": [
+          80
+        ],
+        "(SJUW).": [
+          81
+        ],
+        "Seismic": [
+          82
+        ],
+        "refraction": [
+          83
+        ],
+        "multichannel": [
+          85
+        ],
+        "surface": [
+          88
+        ],
+        "waves": [
+          89
+        ],
+        "(MASW)": [
+          90
+        ],
+        "were": [
+          91,
+          111
+        ],
+        "used": [
+          92
+        ],
+        "obtain": [
+          94
+        ],
+        "$${V}_{P}$$": [
+          95
+        ],
+        "$${V}_{S}$$,": [
+          97
+        ],
+        "compute": [
+          98
+        ],
+        "estimate": [
+          103
+        ],
+        "anisotropy": [
+          105,
+          240
+        ],
+        "attenuation.": [
+          107
+        ],
+        "Three": [
+          108
+        ],
+        "distinctive": [
+          109
+        ],
+        "zones": [
+          110
+        ],
+        "delineated": [
+          112
+        ],
+        "both": [
+          114,
+          201
+        ],
+        "sabkhas": [
+          115
+        ],
+        "using": [
+          116
+        ],
+        "produced": [
+          118
+        ],
+        "tomograms.": [
+          119
+        ],
+        "The": [
+          120,
+          225
+        ],
+        "shallowest": [
+          121
+        ],
+        "dry": [
+          122
+        ],
+        "zone": [
+          123,
+          145
+        ],
+        "with": [
+          124,
+          134,
+          146,
+          192,
+          204,
+          257
+        ],
+        "$${V}_{P}$$​<428": [
+          125
+        ],
+        "m/s,": [
+          126,
+          148,
+          184
+        ],
+        "$${V}_{S}$$": [
+          127,
+          149
+        ],
+        "<261": [
+          128
+        ],
+        "m/s": [
+          129,
+          151
+        ],
+        "ratios": [
+          131,
+          153,
+          188
+        ],
+        "1-2": [
+          133
+        ],
+        "a": [
+          135,
+          141,
+          168,
+          233
+        ],
+        "thickness": [
+          136
+        ],
+        "1-5": [
+          138
+        ],
+        "m,": [
+          139
+        ],
+        "respectively,": [
+          140
+        ],
+        "transition": [
+          142
+        ],
+        "partially": [
+          143,
+          175
+        ],
+        "saturated": [
+          144,
+          170,
+          176
+        ],
+        "$${V}_{P}$$​<1900": [
+          147
+        ],
+        "<760": [
+          150
+        ],
+        "1.5-2.5": [
+          155
+        ],
+        "extend": [
+          156
+        ],
+        "up": [
+          157,
+          197
+        ],
+        "m": [
+          160,
+          165
+        ],
+        "CSAD": [
+          162,
+          216,
+          229,
+          255
+        ],
+        "SJUW,": [
+          167
+        ],
+        "fully": [
+          169
+        ],
+        "zone,": [
+          171,
+          177
+        ],
+        "extending": [
+          172
+        ],
+        "below": [
+          173
+        ],
+        "is": [
+          178
+        ],
+        "defined": [
+          179
+        ],
+        "by": [
+          180,
+          212
+        ],
+        "higher": [
+          181
+        ],
+        "velocities": [
+          182,
+          231
+        ],
+        "($${V}_{P}$$>1900": [
+          183
+        ],
+        "$${V}_{S}$$>760": [
+          185
+        ],
+        "m/s)": [
+          186
+        ],
+        "increasing": [
+          189
+        ],
+        "toward": [
+          190
+        ],
+        "~2–4.5": [
+          191
+        ],
+        "depth.": [
+          193
+        ],
+        "values": [
+          195
+        ],
+        "reach": [
+          196
+        ],
+        "0.05": [
+          199
+        ],
+        "sabkhas,": [
+          202
+        ],
+        "aligning": [
+          203
+        ],
+        "hydrological": [
+          206,
+          246,
+          261
+        ],
+        "zones,": [
+          207
+        ],
+        "indicating": [
+          208
+        ],
+        "fluid-related": [
+          209
+        ],
+        "driven": [
+          211
+        ],
+        "seawater-brine": [
+          213
+        ],
+        "interactions": [
+          214
+        ],
+        "at": [
+          215,
+          220
+        ],
+        "artesian": [
+          218
+        ],
+        "upwelling": [
+          219
+        ],
+        "SJUW": [
+          221
+        ],
+        "from": [
+          222
+        ],
+        "continental": [
+          223
+        ],
+        "brines.": [
+          224
+        ],
+        "uppermost": [
+          226
+        ],
+        "parts": [
+          227
+        ],
+        "elevated": [
+          230,
+          239,
+          258
+        ],
+        "reflect": [
+          232
+        ],
+        "lithified": [
+          234
+        ],
+        "hardground": [
+          235
+        ],
+        "layer,": [
+          236
+        ],
+        "while": [
+          237
+        ],
+        "its": [
+          238,
+          242
+        ],
+        "marks": [
+          241
+        ],
+        "sedimentary": [
+          244
+        ],
+        "evolution.": [
+          247
+        ],
+        "These": [
+          248
+        ],
+        "results": [
+          249
+        ],
+        "highlight": [
+          250
+        ],
+        "complexity": [
+          252
+        ],
+        "associated": [
+          256
+        ],
+        "stratigraphy": [
+          259
+        ],
+        "conditions": [
+          262
+        ],
+        "that": [
+          263
+        ],
+        "affect": [
+          264
+        ],
+        "signal.": [
+          267
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-31T07:56:22.981413",
+      "created_date": "2025-11-28T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4416956848",
+      "doi": "https://doi.org/10.1016/j.rineng.2025.108571",
+      "title": "Machine learning-driven acoustic impedance inversion with globally optimized reservoir characterization for reserve estimation in carbonate reservoirs",
+      "display_name": "Machine learning-driven acoustic impedance inversion with globally optimized reservoir characterization for reserve estimation in carbonate reservoirs",
+      "publication_year": 2025,
+      "publication_date": "2025-12-03",
+      "ids": {
+        "openalex": "https://openalex.org/W4416956848",
+        "doi": "https://doi.org/10.1016/j.rineng.2025.108571"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.rineng.2025.108571",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210226253",
+          "display_name": "Results in Engineering",
+          "issn_l": "2590-1230",
+          "issn": [
+            "2590-1230"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Results in Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.rineng.2025.108571",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091233497",
+            "display_name": "Lutfi Mulyadi Surachman",
+            "orcid": "https://orcid.org/0000-0001-7015-7183"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "L.M. Surachman",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053834729",
+            "display_name": "Abdulazeez Abdulraheem",
+            "orcid": "https://orcid.org/0000-0002-9994-4436"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Abdulraheem",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
+            "orcid": "https://orcid.org/0000-0003-1229-4627"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S.I. Kaka",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Al‐Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Al-Shuhail",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5091233497"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 850,
+        "currency": "USD",
+        "value_usd": 850
+      },
+      "apc_paid": {
+        "value": 850,
+        "currency": "USD",
+        "value_usd": 850
+      },
+      "fwci": 1.8553,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.87639235,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "29",
+        "issue": null,
+        "first_page": "108571",
+        "last_page": "108571"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.5288000106811523,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.5288000106811523,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.3874000012874603,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.014800000004470348,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/inversion",
+          "display_name": "Inversion (geology)",
+          "score": 0.5442000031471252
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5073999762535095
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-modeling",
+          "display_name": "Reservoir modeling",
+          "score": 0.5005999803543091
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustic-impedance",
+          "display_name": "Acoustic impedance",
+          "score": 0.4616999924182892
+        },
+        {
+          "id": "https://openalex.org/keywords/electrical-impedance",
+          "display_name": "Electrical impedance",
+          "score": 0.4036000072956085
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6589000225067139
+        },
+        {
+          "id": "https://openalex.org/C1893757",
+          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
+          "display_name": "Inversion (geology)",
+          "level": 3,
+          "score": 0.5442000031471252
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5073999762535095
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.5005999803543091
+        },
+        {
+          "id": "https://openalex.org/C98937189",
+          "wikidata": "https://www.wikidata.org/wiki/Q975684",
+          "display_name": "Acoustic impedance",
+          "level": 3,
+          "score": 0.4616999924182892
+        },
+        {
+          "id": "https://openalex.org/C17829176",
+          "wikidata": "https://www.wikidata.org/wiki/Q179043",
+          "display_name": "Electrical impedance",
+          "level": 2,
+          "score": 0.4036000072956085
+        },
+        {
+          "id": "https://openalex.org/C135252773",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567213",
+          "display_name": "Inverse problem",
+          "level": 2,
+          "score": 0.33719998598098755
+        },
+        {
+          "id": "https://openalex.org/C2780841128",
+          "wikidata": "https://www.wikidata.org/wiki/Q5073781",
+          "display_name": "Characterization (materials science)",
+          "level": 2,
+          "score": 0.3075000047683716
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.2921000123023987
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.27309998869895935
+        },
+        {
+          "id": "https://openalex.org/C2983319462",
+          "wikidata": "https://www.wikidata.org/wiki/Q15948129",
+          "display_name": "Inverse method",
+          "level": 2,
+          "score": 0.2615000009536743
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.2567000091075897
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.rineng.2025.108571",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210226253",
+            "display_name": "Results in Engineering",
+            "issn_l": "2590-1230",
+            "issn": [
+              "2590-1230"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Results in Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.rineng.2025.108571",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210226253",
+          "display_name": "Results in Engineering",
+          "issn_l": "2590-1230",
+          "issn": [
+            "2590-1230"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Results in Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 19,
+      "referenced_works": [
+        "https://openalex.org/W1863245608",
+        "https://openalex.org/W1988478480",
+        "https://openalex.org/W1994407374",
+        "https://openalex.org/W1994706409",
+        "https://openalex.org/W2009182267",
+        "https://openalex.org/W2152803178",
+        "https://openalex.org/W2557418012",
+        "https://openalex.org/W2767607556",
+        "https://openalex.org/W2796172706",
+        "https://openalex.org/W2921626377",
+        "https://openalex.org/W3020845342",
+        "https://openalex.org/W3152553521",
+        "https://openalex.org/W4362717643",
+        "https://openalex.org/W4366390761",
+        "https://openalex.org/W4396744565",
+        "https://openalex.org/W4407138320",
+        "https://openalex.org/W4408476175",
+        "https://openalex.org/W4410979628",
+        "https://openalex.org/W4411866371"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "3": [
+          221
+        ],
+        "•": [
+          0,
+          31,
+          59,
+          77,
+          104
+        ],
+        "Predicted": [
+          1
+        ],
+        "acoustic": [
+          2,
+          143
+        ],
+        "impedance": [
+          3,
+          28,
+          144,
+          272
+        ],
+        "(AI)": [
+          4
+        ],
+        "was": [
+          5,
+          81
+        ],
+        "generated": [
+          6
+        ],
+        "using": [
+          7,
+          49
+        ],
+        "multilayer": [
+          8,
+          168
+        ],
+        "perceptron": [
+          9,
+          169
+        ],
+        "regression": [
+          10,
+          14,
+          19,
+          177
+        ],
+        "(MLPR),": [
+          11,
+          170
+        ],
+        "random": [
+          12,
+          171
+        ],
+        "forest": [
+          13,
+          172
+        ],
+        "(RFR),": [
+          15,
+          173
+        ],
+        "and": [
+          16,
+          26,
+          37,
+          55,
+          71,
+          100,
+          120,
+          148,
+          174,
+          187,
+          205,
+          217,
+          242,
+          299,
+          351
+        ],
+        "extra": [
+          17,
+          175
+        ],
+        "tree": [
+          18,
+          176
+        ],
+        "(ETR)": [
+          20,
+          178
+        ],
+        "models": [
+          21
+        ],
+        "compared": [
+          22
+        ],
+        "to": [
+          23,
+          83,
+          111,
+          180,
+          209,
+          224,
+          277,
+          290,
+          316
+        ],
+        "AI": [
+          24,
+          45,
+          117,
+          182
+        ],
+        "log": [
+          25,
+          118
+        ],
+        "band-limited": [
+          27,
+          271
+        ],
+        "inversion": [
+          29,
+          164,
+          263,
+          273
+        ],
+        "(BLIMP).": [
+          30
+        ],
+        "Optimized": [
+          32
+        ],
+        "porosity": [
+          33,
+          241
+        ],
+        "(": [
+          34,
+          39
+        ],
+        "Φ": [
+          35,
+          70
+        ],
+        ")": [
+          36,
+          41
+        ],
+        "permeability": [
+          38,
+          243
+        ],
+        "K": [
+          40,
+          72
+        ],
+        "derived": [
+          42
+        ],
+        "from": [
+          43,
+          183
+        ],
+        "the": [
+          44,
+          65,
+          68,
+          85,
+          89,
+          95,
+          108,
+          112,
+          116,
+          125,
+          137,
+          142,
+          199,
+          206,
+          225,
+          229,
+          247,
+          251,
+          281,
+          284,
+          287,
+          291,
+          296,
+          317,
+          335,
+          343
+        ],
+        "data": [
+          46,
+          119
+        ],
+        "were": [
+          47
+        ],
+        "obtained": [
+          48
+        ],
+        "empirical": [
+          50,
+          211,
+          237,
+          293
+        ],
+        "exponential": [
+          51
+        ],
+        "rock": [
+          52,
+          146
+        ],
+        "physics": [
+          53
+        ],
+        "relationships": [
+          54,
+          140
+        ],
+        "petrophysical": [
+          56,
+          149
+        ],
+        "power-law": [
+          57,
+          139
+        ],
+        "transforms.": [
+          58
+        ],
+        "Net": [
+          60,
+          78
+        ],
+        "pay": [
+          61,
+          79,
+          154,
+          249
+        ],
+        "determination": [
+          62
+        ],
+        "based": [
+          63
+        ],
+        "on": [
+          64
+        ],
+        "condition": [
+          66
+        ],
+        "that": [
+          67,
+          151,
+          166,
+          245,
+          261
+        ],
+        "optimized": [
+          69,
+          240
+        ],
+        "values": [
+          73,
+          208,
+          216,
+          227,
+          294
+        ],
+        "exceed": [
+          74,
+          255
+        ],
+        "their": [
+          75,
+          256
+        ],
+        "thresholds.": [
+          76,
+          257
+        ],
+        "masking": [
+          80
+        ],
+        "applied": [
+          82
+        ],
+        "identify": [
+          84
+        ],
+        "productive": [
+          86
+        ],
+        "zone": [
+          87
+        ],
+        "within": [
+          88
+        ],
+        "hydrocarbon": [
+          90,
+          352
+        ],
+        "pore": [
+          91
+        ],
+        "volume": [
+          92
+        ],
+        "before": [
+          93
+        ],
+        "computing": [
+          94
+        ],
+        "original": [
+          96
+        ],
+        "oil": [
+          97
+        ],
+        "in": [
+          98,
+          130,
+          355
+        ],
+        "place": [
+          99
+        ],
+        "performing": [
+          101
+        ],
+        "reserve": [
+          102,
+          126,
+          267,
+          300,
+          353
+        ],
+        "estimation.": [
+          103,
+          127
+        ],
+        "The": [
+          105,
+          233,
+          339
+        ],
+        "ETR": [
+          106,
+          285,
+          303,
+          307
+        ],
+        "provided": [
+          107
+        ],
+        "closest": [
+          109,
+          288
+        ],
+        "match": [
+          110,
+          289
+        ],
+        "ground": [
+          113,
+          318
+        ],
+        "truth": [
+          114,
+          319
+        ],
+        "of": [
+          115,
+          136,
+          235,
+          345
+        ],
+        "all": [
+          121
+        ],
+        "downstream": [
+          122
+        ],
+        "results": [
+          123,
+          259
+        ],
+        "until": [
+          124
+        ],
+        "Reserve": [
+          128
+        ],
+        "estimation": [
+          129,
+          354
+        ],
+        "carbonate": [
+          131,
+          337,
+          357
+        ],
+        "reservoirs": [
+          132
+        ],
+        "remains": [
+          133
+        ],
+        "challenging": [
+          134
+        ],
+        "because": [
+          135
+        ],
+        "nonlinear,": [
+          138
+        ],
+        "among": [
+          141,
+          280
+        ],
+        "(AI),": [
+          145
+        ],
+        "physics,": [
+          147
+        ],
+        "properties": [
+          150,
+          254
+        ],
+        "govern": [
+          152
+        ],
+        "net": [
+          153,
+          248
+        ],
+        "identification.": [
+          155
+        ],
+        "This": [
+          156
+        ],
+        "study": [
+          157
+        ],
+        "develops": [
+          158
+        ],
+        "a": [
+          159
+        ],
+        "machine": [
+          160
+        ],
+        "learning": [
+          161
+        ],
+        "(ML)-based": [
+          162
+        ],
+        "seismic": [
+          163,
+          184
+        ],
+        "workflow": [
+          165,
+          341
+        ],
+        "integrates": [
+          167
+        ],
+        "algorithms": [
+          179
+        ],
+        "predict": [
+          181
+        ],
+        "attributes,": [
+          185
+        ],
+        "depth,": [
+          186
+        ],
+        "two-way": [
+          188
+        ],
+        "travel": [
+          189
+        ],
+        "time.": [
+          190
+        ],
+        "A": [
+          191,
+          219
+        ],
+        "limited-memory": [
+          192
+        ],
+        "Broyden-Fletcher-Goldfarb-Shanno": [
+          193
+        ],
+        "with": [
+          194
+        ],
+        "Boundaries": [
+          195
+        ],
+        "(LBFGS-B)": [
+          196
+        ],
+        "optimization": [
+          197
+        ],
+        "minimizes": [
+          198
+        ],
+        "square": [
+          200
+        ],
+        "errors": [
+          201
+        ],
+        "between": [
+          202
+        ],
+        "reservoir": [
+          203,
+          253,
+          349
+        ],
+        "extremes": [
+          204
+        ],
+        "threshold": [
+          207
+        ],
+        "obtain": [
+          210
+        ],
+        "constants": [
+          212,
+          238
+        ],
+        "under": [
+          213
+        ],
+        "defined": [
+          214
+        ],
+        "initial": [
+          215,
+          226
+        ],
+        "bounds.": [
+          218
+        ],
+        "±": [
+          220
+        ],
+        "%": [
+          222
+        ],
+        "perturbation": [
+          223
+        ],
+        "produced": [
+          228
+        ],
+        "global": [
+          230
+        ],
+        "minimum": [
+          231
+        ],
+        "errors.": [
+          232
+        ],
+        "solutions": [
+          234
+        ],
+        "these": [
+          236
+        ],
+        "generate": [
+          239
+        ],
+        "profiles": [
+          244
+        ],
+        "determine": [
+          246
+        ],
+        "when": [
+          250
+        ],
+        "computed": [
+          252
+        ],
+        "Further": [
+          258
+        ],
+        "show": [
+          260
+        ],
+        "ML-based": [
+          262
+        ],
+        "provides": [
+          264
+        ],
+        "more": [
+          265
+        ],
+        "accurate": [
+          266
+        ],
+        "estimates": [
+          268
+        ],
+        "than": [
+          269
+        ],
+        "conventional": [
+          270
+        ],
+        "methods": [
+          274
+        ],
+        "do.": [
+          275
+        ],
+        "Due": [
+          276
+        ],
+        "hyperparameter": [
+          278
+        ],
+        "choices": [
+          279
+        ],
+        "tested": [
+          282
+        ],
+        "models,": [
+          283
+        ],
+        "achieved": [
+          286
+        ],
+        "true": [
+          292,
+          321,
+          325
+        ],
+        "for": [
+          295,
+          333,
+          347
+        ],
+        "AI-porosity": [
+          297
+        ],
+        "transformation": [
+          298
+        ],
+        "estimate": [
+          301
+        ],
+        "(a": [
+          302,
+          320
+        ],
+        "=": [
+          304,
+          308,
+          322,
+          326
+        ],
+        "0.1584,": [
+          305
+        ],
+        "R": [
+          306,
+          324
+        ],
+        "28.08": [
+          309
+        ],
+        "million": [
+          310,
+          328
+        ],
+        "stock": [
+          311
+        ],
+        "tank": [
+          312
+        ],
+        "barrels": [
+          313
+        ],
+        "(STB))": [
+          314
+        ],
+        "relative": [
+          315
+        ],
+        "0.1585,": [
+          323
+        ],
+        "29.96": [
+          327
+        ],
+        "STB),": [
+          329
+        ],
+        "confirming": [
+          330
+        ],
+        "its": [
+          331
+        ],
+        "robustness": [
+          332
+        ],
+        "evaluating": [
+          334
+        ],
+        "Ilam": [
+          336
+        ],
+        "reservoir.": [
+          338
+        ],
+        "proposed": [
+          340
+        ],
+        "demonstrates": [
+          342
+        ],
+        "potential": [
+          344
+        ],
+        "ML": [
+          346
+        ],
+        "enhanced": [
+          348
+        ],
+        "characterization": [
+          350
+        ],
+        "complex": [
+          356
+        ],
+        "systems.": [
+          358
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-31T07:56:22.981413",
+      "created_date": "2025-12-03T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2811175459",
       "doi": "https://doi.org/10.1007/s12665-018-7610-4",
       "title": "Alleviation of pore pressure buildup and ground uplift during carbon dioxide injection into Ghawar Arab-D carbonate naturally fractured reservoir",
@@ -146621,2693 +149324,6 @@
       "counts_by_year": [],
       "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-10-29T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4416764301",
-      "doi": "https://doi.org/10.1038/s41598-025-29863-w",
-      "title": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
-      "display_name": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
-      "publication_year": 2025,
-      "publication_date": "2025-11-27",
-      "ids": {
-        "openalex": "https://openalex.org/W4416764301",
-        "doi": "https://doi.org/10.1038/s41598-025-29863-w",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41309956"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1038/s41598-025-29863-w",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
-        "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5094215875",
-            "display_name": "Ahmed Eleslambouly",
-            "orcid": "https://orcid.org/0009-0005-9029-0666"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ahmed Eleslambouly",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com",
-            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5078913490",
-            "display_name": "Mohammed Y. Ali",
-            "orcid": "https://orcid.org/0000-0001-7502-3897"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Y. Ali",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055256846",
-            "display_name": "Fateh Bouchaala",
-            "orcid": "https://orcid.org/0000-0003-2368-3302"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fateh Bouchaala",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ammar El-Husseiny",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Al‐Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5077467560",
-            "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sherif M. Hanafy",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5036597341",
-            "display_name": "Jun Matsushima",
-            "orcid": "https://orcid.org/0000-0003-1129-3964"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I74801974",
-              "display_name": "The University of Tokyo",
-              "ror": "https://ror.org/057zh3y96",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I74801974"
-              ]
-            }
-          ],
-          "countries": [
-            "JP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jun Matsushima",
-          "raw_affiliation_strings": [
-            "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan",
-              "institution_ids": [
-                "https://openalex.org/I74801974"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5094215875"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I176601375"
-      ],
-      "apc_list": {
-        "value": 1890,
-        "currency": "EUR",
-        "value_usd": 2190
-      },
-      "apc_paid": {
-        "value": 1890,
-        "currency": "EUR",
-        "value_usd": 2190
-      },
-      "fwci": 0,
-      "has_fulltext": true,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.38669902,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "15",
-        "issue": "1",
-        "first_page": "44623",
-        "last_page": "44623"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.7009999752044678,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.7009999752044678,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.14010000228881836,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.032099999487400055,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.9093000292778015
-        },
-        {
-          "id": "https://openalex.org/keywords/attenuation",
-          "display_name": "Attenuation",
-          "score": 0.6837000250816345
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.5656999945640564
-        },
-        {
-          "id": "https://openalex.org/keywords/lithification",
-          "display_name": "Lithification",
-          "score": 0.5167999863624573
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.515999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.43860000371932983
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-refraction",
-          "display_name": "Seismic refraction",
-          "score": 0.3481999933719635
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.9093000292778015
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8938000202178955
-        },
-        {
-          "id": "https://openalex.org/C184652730",
-          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
-          "display_name": "Attenuation",
-          "level": 2,
-          "score": 0.6837000250816345
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.5807999968528748
-        },
-        {
-          "id": "https://openalex.org/C33556824",
-          "wikidata": "https://www.wikidata.org/wiki/Q179509",
-          "display_name": "Hydrogeology",
-          "level": 2,
-          "score": 0.5656999945640564
-        },
-        {
-          "id": "https://openalex.org/C164430837",
-          "wikidata": "https://www.wikidata.org/wiki/Q1191052",
-          "display_name": "Lithification",
-          "level": 3,
-          "score": 0.5167999863624573
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.515999972820282
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.43860000371932983
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3596999943256378
-        },
-        {
-          "id": "https://openalex.org/C111461898",
-          "wikidata": "https://www.wikidata.org/wiki/Q2008968",
-          "display_name": "Seismic refraction",
-          "level": 2,
-          "score": 0.3481999933719635
-        },
-        {
-          "id": "https://openalex.org/C205318122",
-          "wikidata": "https://www.wikidata.org/wiki/Q72277",
-          "display_name": "Refraction",
-          "level": 2,
-          "score": 0.33390000462532043
-        },
-        {
-          "id": "https://openalex.org/C85725439",
-          "wikidata": "https://www.wikidata.org/wiki/Q466686",
-          "display_name": "Anisotropy",
-          "level": 2,
-          "score": 0.33160001039505005
-        },
-        {
-          "id": "https://openalex.org/C2993808335",
-          "wikidata": "https://www.wikidata.org/wiki/Q186167",
-          "display_name": "Seismic velocity",
-          "level": 2,
-          "score": 0.32100000977516174
-        },
-        {
-          "id": "https://openalex.org/C185734153",
-          "wikidata": "https://www.wikidata.org/wiki/Q31566",
-          "display_name": "Coastal plain",
-          "level": 2,
-          "score": 0.31220000982284546
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.30160000920295715
-        },
-        {
-          "id": "https://openalex.org/C78542244",
-          "wikidata": "https://www.wikidata.org/wiki/Q186167",
-          "display_name": "Seismic wave",
-          "level": 2,
-          "score": 0.2985000014305115
-        },
-        {
-          "id": "https://openalex.org/C163686574",
-          "wikidata": "https://www.wikidata.org/wiki/Q1638707",
-          "display_name": "Transition zone",
-          "level": 2,
-          "score": 0.2874999940395355
-        },
-        {
-          "id": "https://openalex.org/C23148476",
-          "wikidata": "https://www.wikidata.org/wiki/Q17105691",
-          "display_name": "Seismic anisotropy",
-          "level": 3,
-          "score": 0.2660999894142151
-        },
-        {
-          "id": "https://openalex.org/C149348798",
-          "wikidata": "https://www.wikidata.org/wiki/Q215915",
-          "display_name": "Upwelling",
-          "level": 2,
-          "score": 0.25200000405311584
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1038/s41598-025-29863-w",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
-          "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
-          "source": {
-            "id": "https://openalex.org/S196734849",
-            "display_name": "Scientific Reports",
-            "issn_l": "2045-2322",
-            "issn": [
-              "2045-2322"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319908",
-            "host_organization_name": "Nature Portfolio",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319908",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Nature Portfolio",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific Reports",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:41309956",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41309956",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific reports",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:1b74b7dbf3304fbcb229a8381c787444",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/1b74b7dbf3304fbcb229a8381c787444",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 15, Iss 1, Pp 1-16 (2025)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:12748686",
-          "is_oa": true,
-          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12748686/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1038/s41598-025-29863-w",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-025-29863-w",
-        "pdf_url": "https://www.nature.com/articles/s41598-025-29863-w_reference.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320322334",
-          "display_name": "Khalifa University of Science, Technology and Research",
-          "ror": "https://ror.org/05hffr360"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4416764301.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4416764301.grobid-xml"
-      },
-      "referenced_works_count": 63,
-      "referenced_works": [
-        "https://openalex.org/W15242090",
-        "https://openalex.org/W123974382",
-        "https://openalex.org/W196108489",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W1544126580",
-        "https://openalex.org/W1563935532",
-        "https://openalex.org/W1569666053",
-        "https://openalex.org/W1634674094",
-        "https://openalex.org/W1963920789",
-        "https://openalex.org/W1964494084",
-        "https://openalex.org/W1972447780",
-        "https://openalex.org/W1974225959",
-        "https://openalex.org/W1976362299",
-        "https://openalex.org/W1981633816",
-        "https://openalex.org/W1986227254",
-        "https://openalex.org/W1988880858",
-        "https://openalex.org/W1989898205",
-        "https://openalex.org/W1997995534",
-        "https://openalex.org/W2000474073",
-        "https://openalex.org/W2012654940",
-        "https://openalex.org/W2024922902",
-        "https://openalex.org/W2025604940",
-        "https://openalex.org/W2034904570",
-        "https://openalex.org/W2046396252",
-        "https://openalex.org/W2054844949",
-        "https://openalex.org/W2055899902",
-        "https://openalex.org/W2062897230",
-        "https://openalex.org/W2064850869",
-        "https://openalex.org/W2078122651",
-        "https://openalex.org/W2082938787",
-        "https://openalex.org/W2086040992",
-        "https://openalex.org/W2087601271",
-        "https://openalex.org/W2088284925",
-        "https://openalex.org/W2092803560",
-        "https://openalex.org/W2094404481",
-        "https://openalex.org/W2099166920",
-        "https://openalex.org/W2121166329",
-        "https://openalex.org/W2124725087",
-        "https://openalex.org/W2155094814",
-        "https://openalex.org/W2168050037",
-        "https://openalex.org/W2300963246",
-        "https://openalex.org/W2317497950",
-        "https://openalex.org/W2491197430",
-        "https://openalex.org/W2588392223",
-        "https://openalex.org/W2599492954",
-        "https://openalex.org/W2753010592",
-        "https://openalex.org/W2914533273",
-        "https://openalex.org/W2946021409",
-        "https://openalex.org/W2962696251",
-        "https://openalex.org/W2965333295",
-        "https://openalex.org/W2966439994",
-        "https://openalex.org/W3006831727",
-        "https://openalex.org/W3012276169",
-        "https://openalex.org/W3029538401",
-        "https://openalex.org/W3155102117",
-        "https://openalex.org/W3179113420",
-        "https://openalex.org/W3198127816",
-        "https://openalex.org/W4224296553",
-        "https://openalex.org/W4307328900",
-        "https://openalex.org/W4405738300",
-        "https://openalex.org/W4412365227",
-        "https://openalex.org/W4414021823",
-        "https://openalex.org/W6911756183"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": {
-        "6": [
-          164
-        ],
-        "8": [
-          159
-        ],
-        "Sabkhas": [
-          0
-        ],
-        "represent": [
-          1
-        ],
-        "abundant": [
-          2
-        ],
-        "topographic": [
-          3
-        ],
-        "environments": [
-          4
-        ],
-        "along": [
-          5
-        ],
-        "the": [
-          6,
-          41,
-          65,
-          74,
-          99,
-          117,
-          174,
-          205,
-          251,
-          265
-        ],
-        "Arabian": [
-          7
-        ],
-        "Gulf": [
-          8
-        ],
-        "and": [
-          9,
-          16,
-          22,
-          36,
-          56,
-          73,
-          84,
-          96,
-          102,
-          106,
-          130,
-          152,
-          163,
-          187,
-          217,
-          245,
-          260
-        ],
-        "are": [
-          10
-        ],
-        "increasingly": [
-          11
-        ],
-        "relevant": [
-          12
-        ],
-        "to": [
-          13,
-          64,
-          93,
-          158,
-          198
-        ],
-        "hydrocarbon": [
-          14
-        ],
-        "exploration": [
-          15
-        ],
-        "urban": [
-          17
-        ],
-        "development.": [
-          18
-        ],
-        "Their": [
-          19
-        ],
-        "complex": [
-          20,
-          243
-        ],
-        "geological": [
-          21
-        ],
-        "hydrogeological": [
-          23
-        ],
-        "settings": [
-          24
-        ],
-        "significantly": [
-          25
-        ],
-        "control": [
-          26
-        ],
-        "near-surface": [
-          27
-        ],
-        "seismic": [
-          28,
-          31,
-          54,
-          104,
-          266
-        ],
-        "properties,": [
-          29
-        ],
-        "influencing": [
-          30
-        ],
-        "velocity": [
-          32,
-          47,
-          50
-        ],
-        "contrasts,": [
-          33
-        ],
-        "attenuation": [
-          34,
-          58,
-          210
-        ],
-        "($${{Q}_{P}}^{-1}$$),": [
-          35
-        ],
-        "anisotropy.": [
-          37
-        ],
-        "This": [
-          38
-        ],
-        "study": [
-          39
-        ],
-        "presents": [
-          40
-        ],
-        "first": [
-          42
-        ],
-        "integrated": [
-          43
-        ],
-        "application": [
-          44
-        ],
-        "of": [
-          45,
-          69,
-          78,
-          87,
-          132,
-          137,
-          154,
-          228,
-          253
-        ],
-        "P-wave": [
-          46
-        ],
-        "($${V}_{P}$$),": [
-          48
-        ],
-        "S-wave": [
-          49
-        ],
-        "($${V}_{S}$$),": [
-          51
-        ],
-        "$${{V}_{P}/V}_{S}$$": [
-          52,
-          100
-        ],
-        "ratio,": [
-          53,
-          101
-        ],
-        "anisotropy,": [
-          55
-        ],
-        "$${{Q}_{P}}^{-1}$$": [
-          57,
-          194
-        ],
-        "analysis": [
-          59,
-          86
-        ],
-        "in": [
-          60,
-          113,
-          161,
-          166,
-          200
-        ],
-        "sabkha": [
-          61,
-          68,
-          77
-        ],
-        "environments,": [
-          62
-        ],
-        "applied": [
-          63
-        ],
-        "mature": [
-          66,
-          254
-        ],
-        "coastal": [
-          67
-        ],
-        "Abu": [
-          70
-        ],
-        "Dhabi": [
-          71
-        ],
-        "(CSAD)": [
-          72
-        ],
-        "immature": [
-          75
-        ],
-        "inland": [
-          76
-        ],
-        "Jayb": [
-          79
-        ],
-        "Uwayyid": [
-          80
-        ],
-        "(SJUW).": [
-          81
-        ],
-        "Seismic": [
-          82
-        ],
-        "refraction": [
-          83
-        ],
-        "multichannel": [
-          85
-        ],
-        "surface": [
-          88
-        ],
-        "waves": [
-          89
-        ],
-        "(MASW)": [
-          90
-        ],
-        "were": [
-          91,
-          111
-        ],
-        "used": [
-          92
-        ],
-        "obtain": [
-          94
-        ],
-        "$${V}_{P}$$": [
-          95
-        ],
-        "$${V}_{S}$$,": [
-          97
-        ],
-        "compute": [
-          98
-        ],
-        "estimate": [
-          103
-        ],
-        "anisotropy": [
-          105,
-          240
-        ],
-        "attenuation.": [
-          107
-        ],
-        "Three": [
-          108
-        ],
-        "distinctive": [
-          109
-        ],
-        "zones": [
-          110
-        ],
-        "delineated": [
-          112
-        ],
-        "both": [
-          114,
-          201
-        ],
-        "sabkhas": [
-          115
-        ],
-        "using": [
-          116
-        ],
-        "produced": [
-          118
-        ],
-        "tomograms.": [
-          119
-        ],
-        "The": [
-          120,
-          225
-        ],
-        "shallowest": [
-          121
-        ],
-        "dry": [
-          122
-        ],
-        "zone": [
-          123,
-          145
-        ],
-        "with": [
-          124,
-          134,
-          146,
-          192,
-          204,
-          257
-        ],
-        "$${V}_{P}$$​<428": [
-          125
-        ],
-        "m/s,": [
-          126,
-          148,
-          184
-        ],
-        "$${V}_{S}$$": [
-          127,
-          149
-        ],
-        "<261": [
-          128
-        ],
-        "m/s": [
-          129,
-          151
-        ],
-        "ratios": [
-          131,
-          153,
-          188
-        ],
-        "1-2": [
-          133
-        ],
-        "a": [
-          135,
-          141,
-          168,
-          233
-        ],
-        "thickness": [
-          136
-        ],
-        "1-5": [
-          138
-        ],
-        "m,": [
-          139
-        ],
-        "respectively,": [
-          140
-        ],
-        "transition": [
-          142
-        ],
-        "partially": [
-          143,
-          175
-        ],
-        "saturated": [
-          144,
-          170,
-          176
-        ],
-        "$${V}_{P}$$​<1900": [
-          147
-        ],
-        "<760": [
-          150
-        ],
-        "1.5-2.5": [
-          155
-        ],
-        "extend": [
-          156
-        ],
-        "up": [
-          157,
-          197
-        ],
-        "m": [
-          160,
-          165
-        ],
-        "CSAD": [
-          162,
-          216,
-          229,
-          255
-        ],
-        "SJUW,": [
-          167
-        ],
-        "fully": [
-          169
-        ],
-        "zone,": [
-          171,
-          177
-        ],
-        "extending": [
-          172
-        ],
-        "below": [
-          173
-        ],
-        "is": [
-          178
-        ],
-        "defined": [
-          179
-        ],
-        "by": [
-          180,
-          212
-        ],
-        "higher": [
-          181
-        ],
-        "velocities": [
-          182,
-          231
-        ],
-        "($${V}_{P}$$>1900": [
-          183
-        ],
-        "$${V}_{S}$$>760": [
-          185
-        ],
-        "m/s)": [
-          186
-        ],
-        "increasing": [
-          189
-        ],
-        "toward": [
-          190
-        ],
-        "~2–4.5": [
-          191
-        ],
-        "depth.": [
-          193
-        ],
-        "values": [
-          195
-        ],
-        "reach": [
-          196
-        ],
-        "0.05": [
-          199
-        ],
-        "sabkhas,": [
-          202
-        ],
-        "aligning": [
-          203
-        ],
-        "hydrological": [
-          206,
-          246,
-          261
-        ],
-        "zones,": [
-          207
-        ],
-        "indicating": [
-          208
-        ],
-        "fluid-related": [
-          209
-        ],
-        "driven": [
-          211
-        ],
-        "seawater-brine": [
-          213
-        ],
-        "interactions": [
-          214
-        ],
-        "at": [
-          215,
-          220
-        ],
-        "artesian": [
-          218
-        ],
-        "upwelling": [
-          219
-        ],
-        "SJUW": [
-          221
-        ],
-        "from": [
-          222
-        ],
-        "continental": [
-          223
-        ],
-        "brines.": [
-          224
-        ],
-        "uppermost": [
-          226
-        ],
-        "parts": [
-          227
-        ],
-        "elevated": [
-          230,
-          239,
-          258
-        ],
-        "reflect": [
-          232
-        ],
-        "lithified": [
-          234
-        ],
-        "hardground": [
-          235
-        ],
-        "layer,": [
-          236
-        ],
-        "while": [
-          237
-        ],
-        "its": [
-          238,
-          242
-        ],
-        "marks": [
-          241
-        ],
-        "sedimentary": [
-          244
-        ],
-        "evolution.": [
-          247
-        ],
-        "These": [
-          248
-        ],
-        "results": [
-          249
-        ],
-        "highlight": [
-          250
-        ],
-        "complexity": [
-          252
-        ],
-        "associated": [
-          256
-        ],
-        "stratigraphy": [
-          259
-        ],
-        "conditions": [
-          262
-        ],
-        "that": [
-          263
-        ],
-        "affect": [
-          264
-        ],
-        "signal.": [
-          267
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
-      "created_date": "2025-11-28T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4416956848",
-      "doi": "https://doi.org/10.1016/j.rineng.2025.108571",
-      "title": "Machine learning-driven acoustic impedance inversion with globally optimized reservoir characterization for reserve estimation in carbonate reservoirs",
-      "display_name": "Machine learning-driven acoustic impedance inversion with globally optimized reservoir characterization for reserve estimation in carbonate reservoirs",
-      "publication_year": 2025,
-      "publication_date": "2025-12-03",
-      "ids": {
-        "openalex": "https://openalex.org/W4416956848",
-        "doi": "https://doi.org/10.1016/j.rineng.2025.108571"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.rineng.2025.108571",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210226253",
-          "display_name": "Results in Engineering",
-          "issn_l": "2590-1230",
-          "issn": [
-            "2590-1230"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Results in Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.rineng.2025.108571",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5091233497",
-            "display_name": "Lutfi Mulyadi Surachman",
-            "orcid": "https://orcid.org/0000-0001-7015-7183"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "L.M. Surachman",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053834729",
-            "display_name": "Abdulazeez Abdulraheem",
-            "orcid": "https://orcid.org/0000-0002-9994-4436"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. Abdulraheem",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024607591",
-            "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S.I. Kaka",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Al‐Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. Al-Shuhail",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5091233497"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 850,
-        "currency": "USD",
-        "value_usd": 850
-      },
-      "apc_paid": {
-        "value": 850,
-        "currency": "USD",
-        "value_usd": 850
-      },
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.41003483,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "29",
-        "issue": null,
-        "first_page": "108571",
-        "last_page": "108571"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.5288000106811523,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.5288000106811523,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.3874000012874603,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.014800000004470348,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/inversion",
-          "display_name": "Inversion (geology)",
-          "score": 0.5442000031471252
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.5073999762535095
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-modeling",
-          "display_name": "Reservoir modeling",
-          "score": 0.5005999803543091
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustic-impedance",
-          "display_name": "Acoustic impedance",
-          "score": 0.4616999924182892
-        },
-        {
-          "id": "https://openalex.org/keywords/electrical-impedance",
-          "display_name": "Electrical impedance",
-          "score": 0.4036000072956085
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6589000225067139
-        },
-        {
-          "id": "https://openalex.org/C1893757",
-          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
-          "display_name": "Inversion (geology)",
-          "level": 3,
-          "score": 0.5442000031471252
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.5073999762535095
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.5005999803543091
-        },
-        {
-          "id": "https://openalex.org/C98937189",
-          "wikidata": "https://www.wikidata.org/wiki/Q975684",
-          "display_name": "Acoustic impedance",
-          "level": 3,
-          "score": 0.4616999924182892
-        },
-        {
-          "id": "https://openalex.org/C17829176",
-          "wikidata": "https://www.wikidata.org/wiki/Q179043",
-          "display_name": "Electrical impedance",
-          "level": 2,
-          "score": 0.4036000072956085
-        },
-        {
-          "id": "https://openalex.org/C135252773",
-          "wikidata": "https://www.wikidata.org/wiki/Q1567213",
-          "display_name": "Inverse problem",
-          "level": 2,
-          "score": 0.33719998598098755
-        },
-        {
-          "id": "https://openalex.org/C2780841128",
-          "wikidata": "https://www.wikidata.org/wiki/Q5073781",
-          "display_name": "Characterization (materials science)",
-          "level": 2,
-          "score": 0.3075000047683716
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.2921000123023987
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.27309998869895935
-        },
-        {
-          "id": "https://openalex.org/C2983319462",
-          "wikidata": "https://www.wikidata.org/wiki/Q15948129",
-          "display_name": "Inverse method",
-          "level": 2,
-          "score": 0.2615000009536743
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.2567000091075897
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.rineng.2025.108571",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210226253",
-            "display_name": "Results in Engineering",
-            "issn_l": "2590-1230",
-            "issn": [
-              "2590-1230"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Results in Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.rineng.2025.108571",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.108571",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210226253",
-          "display_name": "Results in Engineering",
-          "issn_l": "2590-1230",
-          "issn": [
-            "2590-1230"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Results in Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 19,
-      "referenced_works": [
-        "https://openalex.org/W1863245608",
-        "https://openalex.org/W1988478480",
-        "https://openalex.org/W1994407374",
-        "https://openalex.org/W1994706409",
-        "https://openalex.org/W2009182267",
-        "https://openalex.org/W2152803178",
-        "https://openalex.org/W2557418012",
-        "https://openalex.org/W2767607556",
-        "https://openalex.org/W2796172706",
-        "https://openalex.org/W2921626377",
-        "https://openalex.org/W3020845342",
-        "https://openalex.org/W3152553521",
-        "https://openalex.org/W4362717643",
-        "https://openalex.org/W4366390761",
-        "https://openalex.org/W4396744565",
-        "https://openalex.org/W4407138320",
-        "https://openalex.org/W4408476175",
-        "https://openalex.org/W4410979628",
-        "https://openalex.org/W4411866371"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": {
-        "3": [
-          221
-        ],
-        "•": [
-          0,
-          31,
-          59,
-          77,
-          104
-        ],
-        "Predicted": [
-          1
-        ],
-        "acoustic": [
-          2,
-          143
-        ],
-        "impedance": [
-          3,
-          28,
-          144,
-          272
-        ],
-        "(AI)": [
-          4
-        ],
-        "was": [
-          5,
-          81
-        ],
-        "generated": [
-          6
-        ],
-        "using": [
-          7,
-          49
-        ],
-        "multilayer": [
-          8,
-          168
-        ],
-        "perceptron": [
-          9,
-          169
-        ],
-        "regression": [
-          10,
-          14,
-          19,
-          177
-        ],
-        "(MLPR),": [
-          11,
-          170
-        ],
-        "random": [
-          12,
-          171
-        ],
-        "forest": [
-          13,
-          172
-        ],
-        "(RFR),": [
-          15,
-          173
-        ],
-        "and": [
-          16,
-          26,
-          37,
-          55,
-          71,
-          100,
-          120,
-          148,
-          174,
-          187,
-          205,
-          217,
-          242,
-          299,
-          351
-        ],
-        "extra": [
-          17,
-          175
-        ],
-        "tree": [
-          18,
-          176
-        ],
-        "(ETR)": [
-          20,
-          178
-        ],
-        "models": [
-          21
-        ],
-        "compared": [
-          22
-        ],
-        "to": [
-          23,
-          83,
-          111,
-          180,
-          209,
-          224,
-          277,
-          290,
-          316
-        ],
-        "AI": [
-          24,
-          45,
-          117,
-          182
-        ],
-        "log": [
-          25,
-          118
-        ],
-        "band-limited": [
-          27,
-          271
-        ],
-        "inversion": [
-          29,
-          164,
-          263,
-          273
-        ],
-        "(BLIMP).": [
-          30
-        ],
-        "Optimized": [
-          32
-        ],
-        "porosity": [
-          33,
-          241
-        ],
-        "(": [
-          34,
-          39
-        ],
-        "Φ": [
-          35,
-          70
-        ],
-        ")": [
-          36,
-          41
-        ],
-        "permeability": [
-          38,
-          243
-        ],
-        "K": [
-          40,
-          72
-        ],
-        "derived": [
-          42
-        ],
-        "from": [
-          43,
-          183
-        ],
-        "the": [
-          44,
-          65,
-          68,
-          85,
-          89,
-          95,
-          108,
-          112,
-          116,
-          125,
-          137,
-          142,
-          199,
-          206,
-          225,
-          229,
-          247,
-          251,
-          281,
-          284,
-          287,
-          291,
-          296,
-          317,
-          335,
-          343
-        ],
-        "data": [
-          46,
-          119
-        ],
-        "were": [
-          47
-        ],
-        "obtained": [
-          48
-        ],
-        "empirical": [
-          50,
-          211,
-          237,
-          293
-        ],
-        "exponential": [
-          51
-        ],
-        "rock": [
-          52,
-          146
-        ],
-        "physics": [
-          53
-        ],
-        "relationships": [
-          54,
-          140
-        ],
-        "petrophysical": [
-          56,
-          149
-        ],
-        "power-law": [
-          57,
-          139
-        ],
-        "transforms.": [
-          58
-        ],
-        "Net": [
-          60,
-          78
-        ],
-        "pay": [
-          61,
-          79,
-          154,
-          249
-        ],
-        "determination": [
-          62
-        ],
-        "based": [
-          63
-        ],
-        "on": [
-          64
-        ],
-        "condition": [
-          66
-        ],
-        "that": [
-          67,
-          151,
-          166,
-          245,
-          261
-        ],
-        "optimized": [
-          69,
-          240
-        ],
-        "values": [
-          73,
-          208,
-          216,
-          227,
-          294
-        ],
-        "exceed": [
-          74,
-          255
-        ],
-        "their": [
-          75,
-          256
-        ],
-        "thresholds.": [
-          76,
-          257
-        ],
-        "masking": [
-          80
-        ],
-        "applied": [
-          82
-        ],
-        "identify": [
-          84
-        ],
-        "productive": [
-          86
-        ],
-        "zone": [
-          87
-        ],
-        "within": [
-          88
-        ],
-        "hydrocarbon": [
-          90,
-          352
-        ],
-        "pore": [
-          91
-        ],
-        "volume": [
-          92
-        ],
-        "before": [
-          93
-        ],
-        "computing": [
-          94
-        ],
-        "original": [
-          96
-        ],
-        "oil": [
-          97
-        ],
-        "in": [
-          98,
-          130,
-          355
-        ],
-        "place": [
-          99
-        ],
-        "performing": [
-          101
-        ],
-        "reserve": [
-          102,
-          126,
-          267,
-          300,
-          353
-        ],
-        "estimation.": [
-          103,
-          127
-        ],
-        "The": [
-          105,
-          233,
-          339
-        ],
-        "ETR": [
-          106,
-          285,
-          303,
-          307
-        ],
-        "provided": [
-          107
-        ],
-        "closest": [
-          109,
-          288
-        ],
-        "match": [
-          110,
-          289
-        ],
-        "ground": [
-          113,
-          318
-        ],
-        "truth": [
-          114,
-          319
-        ],
-        "of": [
-          115,
-          136,
-          235,
-          345
-        ],
-        "all": [
-          121
-        ],
-        "downstream": [
-          122
-        ],
-        "results": [
-          123,
-          259
-        ],
-        "until": [
-          124
-        ],
-        "Reserve": [
-          128
-        ],
-        "estimation": [
-          129,
-          354
-        ],
-        "carbonate": [
-          131,
-          337,
-          357
-        ],
-        "reservoirs": [
-          132
-        ],
-        "remains": [
-          133
-        ],
-        "challenging": [
-          134
-        ],
-        "because": [
-          135
-        ],
-        "nonlinear,": [
-          138
-        ],
-        "among": [
-          141,
-          280
-        ],
-        "(AI),": [
-          145
-        ],
-        "physics,": [
-          147
-        ],
-        "properties": [
-          150,
-          254
-        ],
-        "govern": [
-          152
-        ],
-        "net": [
-          153,
-          248
-        ],
-        "identification.": [
-          155
-        ],
-        "This": [
-          156
-        ],
-        "study": [
-          157
-        ],
-        "develops": [
-          158
-        ],
-        "a": [
-          159
-        ],
-        "machine": [
-          160
-        ],
-        "learning": [
-          161
-        ],
-        "(ML)-based": [
-          162
-        ],
-        "seismic": [
-          163,
-          184
-        ],
-        "workflow": [
-          165,
-          341
-        ],
-        "integrates": [
-          167
-        ],
-        "algorithms": [
-          179
-        ],
-        "predict": [
-          181
-        ],
-        "attributes,": [
-          185
-        ],
-        "depth,": [
-          186
-        ],
-        "two-way": [
-          188
-        ],
-        "travel": [
-          189
-        ],
-        "time.": [
-          190
-        ],
-        "A": [
-          191,
-          219
-        ],
-        "limited-memory": [
-          192
-        ],
-        "Broyden-Fletcher-Goldfarb-Shanno": [
-          193
-        ],
-        "with": [
-          194
-        ],
-        "Boundaries": [
-          195
-        ],
-        "(LBFGS-B)": [
-          196
-        ],
-        "optimization": [
-          197
-        ],
-        "minimizes": [
-          198
-        ],
-        "square": [
-          200
-        ],
-        "errors": [
-          201
-        ],
-        "between": [
-          202
-        ],
-        "reservoir": [
-          203,
-          253,
-          349
-        ],
-        "extremes": [
-          204
-        ],
-        "threshold": [
-          207
-        ],
-        "obtain": [
-          210
-        ],
-        "constants": [
-          212,
-          238
-        ],
-        "under": [
-          213
-        ],
-        "defined": [
-          214
-        ],
-        "initial": [
-          215,
-          226
-        ],
-        "bounds.": [
-          218
-        ],
-        "±": [
-          220
-        ],
-        "%": [
-          222
-        ],
-        "perturbation": [
-          223
-        ],
-        "produced": [
-          228
-        ],
-        "global": [
-          230
-        ],
-        "minimum": [
-          231
-        ],
-        "errors.": [
-          232
-        ],
-        "solutions": [
-          234
-        ],
-        "these": [
-          236
-        ],
-        "generate": [
-          239
-        ],
-        "profiles": [
-          244
-        ],
-        "determine": [
-          246
-        ],
-        "when": [
-          250
-        ],
-        "computed": [
-          252
-        ],
-        "Further": [
-          258
-        ],
-        "show": [
-          260
-        ],
-        "ML-based": [
-          262
-        ],
-        "provides": [
-          264
-        ],
-        "more": [
-          265
-        ],
-        "accurate": [
-          266
-        ],
-        "estimates": [
-          268
-        ],
-        "than": [
-          269
-        ],
-        "conventional": [
-          270
-        ],
-        "methods": [
-          274
-        ],
-        "do.": [
-          275
-        ],
-        "Due": [
-          276
-        ],
-        "hyperparameter": [
-          278
-        ],
-        "choices": [
-          279
-        ],
-        "tested": [
-          282
-        ],
-        "models,": [
-          283
-        ],
-        "achieved": [
-          286
-        ],
-        "true": [
-          292,
-          321,
-          325
-        ],
-        "for": [
-          295,
-          333,
-          347
-        ],
-        "AI-porosity": [
-          297
-        ],
-        "transformation": [
-          298
-        ],
-        "estimate": [
-          301
-        ],
-        "(a": [
-          302,
-          320
-        ],
-        "=": [
-          304,
-          308,
-          322,
-          326
-        ],
-        "0.1584,": [
-          305
-        ],
-        "R": [
-          306,
-          324
-        ],
-        "28.08": [
-          309
-        ],
-        "million": [
-          310,
-          328
-        ],
-        "stock": [
-          311
-        ],
-        "tank": [
-          312
-        ],
-        "barrels": [
-          313
-        ],
-        "(STB))": [
-          314
-        ],
-        "relative": [
-          315
-        ],
-        "0.1585,": [
-          323
-        ],
-        "29.96": [
-          327
-        ],
-        "STB),": [
-          329
-        ],
-        "confirming": [
-          330
-        ],
-        "its": [
-          331
-        ],
-        "robustness": [
-          332
-        ],
-        "evaluating": [
-          334
-        ],
-        "Ilam": [
-          336
-        ],
-        "reservoir.": [
-          338
-        ],
-        "proposed": [
-          340
-        ],
-        "demonstrates": [
-          342
-        ],
-        "potential": [
-          344
-        ],
-        "ML": [
-          346
-        ],
-        "enhanced": [
-          348
-        ],
-        "characterization": [
-          350
-        ],
-        "complex": [
-          356
-        ],
-        "systems.": [
-          358
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
-      "created_date": "2025-12-03T00:00:00"
     }
   ]
 }
