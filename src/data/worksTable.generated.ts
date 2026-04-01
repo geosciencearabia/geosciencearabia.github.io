@@ -1941,8 +1941,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-12-20",
     "year": 2021,
     "venue": "Biomaterials Science",
-    "citations": 103,
-    "fwci": 9.7794,
+    "citations": 104,
+    "fwci": 9.7893,
     "topics": [
       "Essential Oils and Antimicrobial Activity",
       "Advanced Drug Delivery Systems",
@@ -7890,7 +7890,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 190,
-    "fwci": 15.8016,
+    "fwci": 15.8683,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -9412,7 +9412,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Frontiers in Earth Science",
     "citations": 22,
-    "fwci": 3.5287,
+    "fwci": 3.543,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -23279,7 +23279,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3854,
+    "fwci": 1.3887,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -27199,16 +27199,16 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-09-30",
     "year": 2024,
     "venue": "Heliyon",
-    "citations": 6,
-    "fwci": 2.7406,
+    "citations": 7,
+    "fwci": 3.1421,
     "topics": [
       "Radioactivity and Radon Measurements",
       "Geochemistry and Geologic Mapping",
       "Radiation Dose and Imaging"
     ],
     "institutions": [
-      "Gombe State University",
       "Universiti Sains Malaysia",
+      "Gombe State University",
       "Federal University Lafia",
       "King Fahd University of Petroleum and Minerals",
       "Sokoto State University",
@@ -50417,7 +50417,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 1,
-    "fwci": 0.795,
+    "fwci": 0.7926,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -66155,6 +66155,63 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2035689687",
+    "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5066761626",
+      "A5030444809",
+      "A5022478113",
+      "A5073888691",
+      "A5017562672",
+      "A5041538995",
+      "A5000986346",
+      "A5062385838",
+      "A5112438342",
+      "A5062723574"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Randell Stephenson",
+      "Gian Battista Vai",
+      "Daniel Vachard",
+      "Yves Le Nindre",
+      "Denis Vaslet",
+      "Pierre-Jean Fauvel",
+      "Peter Süss",
+      "Olga L. Kossovaya",
+      "Zhong‐Qiang Chen",
+      "Alexander Maslo",
+      "S. Stovba"
+    ],
+    "title": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
+    "publicationDate": "2003-06-30",
+    "year": 2003,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 69,
+    "fwci": 4.9386,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Vrije Universiteit Amsterdam",
+      "Bologna Research Area",
+      "Zambon (Italy)",
+      "Bureau de Recherches Géologiques et Minières",
+      "University of Bonn",
+      "A.P. Karpinsky Russian Geological Research Institute",
+      "Nanjing Institute of Geology and Paleontology",
+      "National Academy of Sciences of Ukraine"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1968584894",
     "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
     "program": "",
@@ -66256,63 +66313,6 @@ export const worksTable: WorkTableRecord[] = [
       "Sorbonne Université",
       "Centre National de la Recherche Scientifique",
       "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2035689687",
-    "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5038965329",
-    "allAuthorOpenAlexIds": [
-      "A5038965329",
-      "A5052512742",
-      "A5066761626",
-      "A5030444809",
-      "A5022478113",
-      "A5073888691",
-      "A5017562672",
-      "A5041538995",
-      "A5000986346",
-      "A5062385838",
-      "A5112438342",
-      "A5062723574"
-    ],
-    "firstAuthorLastName": "Izart",
-    "allAuthors": [
-      "Alain Izart",
-      "Randell Stephenson",
-      "Gian Battista Vai",
-      "Daniel Vachard",
-      "Yves Le Nindre",
-      "Denis Vaslet",
-      "Pierre-Jean Fauvel",
-      "Peter Süss",
-      "Olga L. Kossovaya",
-      "Zhong‐Qiang Chen",
-      "Alexander Maslo",
-      "S. Stovba"
-    ],
-    "title": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
-    "publicationDate": "2003-06-30",
-    "year": 2003,
-    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 68,
-    "fwci": 4.9243,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Evolution and Paleontology Studies"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Vrije Universiteit Amsterdam",
-      "Bologna Research Area",
-      "Zambon (Italy)",
-      "Bureau de Recherches Géologiques et Minières",
-      "University of Bonn",
-      "A.P. Karpinsky Russian Geological Research Institute",
-      "Nanjing Institute of Geology and Paleontology",
-      "National Academy of Sciences of Ukraine"
     ]
   },
   {
@@ -70257,7 +70257,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 38,
-    "fwci": 3.7385,
+    "fwci": 3.7516,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -75244,8 +75244,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 292,
-    "fwci": 18.4274,
+    "citations": 293,
+    "fwci": 18.4792,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -75397,7 +75397,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Earth and Planetary Science Letters",
     "citations": 104,
-    "fwci": 3.9444,
+    "fwci": 3.9583,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -87081,7 +87081,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.8689,
+    "fwci": 2.8723,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -91951,6 +91951,47 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2891056323",
+    "doi": "https://doi.org/10.1016/j.gr.2018.08.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047873001",
+      "A5057911678",
+      "A5065421233",
+      "A5086740251",
+      "A5082011068"
+    ],
+    "firstAuthorLastName": "Jepson",
+    "allAuthors": [
+      "Gilby Jepson",
+      "Stijn Glorie",
+      "Dmitry L. Konopelko",
+      "Rustam Mirkamalov",
+      "Martin Danišík",
+      "Alan S. Collins"
+    ],
+    "title": "The low-temperature thermo-tectonic evolution of the western Tian Shan, Uzbekistan",
+    "publicationDate": "2018-09-08",
+    "year": 2018,
+    "venue": "Gondwana Research",
+    "citations": 38,
+    "fwci": 3.1737,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "Novosibirsk State University",
+      "St Petersburg University",
+      "Interstate Commission for Water Coordination of Central Asia",
+      "Curtin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2593264076",
     "doi": "https://doi.org/10.1016/j.tecto.2017.03.003",
     "program": "",
@@ -92025,47 +92066,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Universidade de São Paulo",
       "University of Adelaide"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2891056323",
-    "doi": "https://doi.org/10.1016/j.gr.2018.08.003",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5047873001",
-      "A5057911678",
-      "A5065421233",
-      "A5086740251",
-      "A5082011068"
-    ],
-    "firstAuthorLastName": "Jepson",
-    "allAuthors": [
-      "Gilby Jepson",
-      "Stijn Glorie",
-      "Dmitry L. Konopelko",
-      "Rustam Mirkamalov",
-      "Martin Danišík",
-      "Alan S. Collins"
-    ],
-    "title": "The low-temperature thermo-tectonic evolution of the western Tian Shan, Uzbekistan",
-    "publicationDate": "2018-09-08",
-    "year": 2018,
-    "venue": "Gondwana Research",
-    "citations": 37,
-    "fwci": 3.1593,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "Novosibirsk State University",
-      "St Petersburg University",
-      "Interstate Commission for Water Coordination of Central Asia",
-      "Curtin University"
     ]
   },
   {
@@ -107737,8 +107737,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-11-11",
     "year": 2016,
     "venue": "Journal of Geophysics and Engineering",
-    "citations": 37,
-    "fwci": 3.6495,
+    "citations": 38,
+    "fwci": 3.7466,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -117414,6 +117414,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4378649681",
+    "doi": "https://doi.org/10.1016/j.envres.2023.116279",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5042396632",
+      "A5037734458",
+      "A5062108247",
+      "A5066001291",
+      "A5079226465"
+    ],
+    "firstAuthorLastName": "Rajendran",
+    "allAuthors": [
+      "Sankaran Rajendran",
+      "Hamad Al Saad Al Kuwari",
+      "Fadhil Sadooni",
+      "Sobhi Nasir",
+      "Himanshu Govil",
+      "Habes Ghrefat"
+    ],
+    "title": "Remote sensing of desertification and study of temporal variability of aeolian deposits in parts of the Arabian Desert for sustainable development in an arid environment",
+    "publicationDate": "2023-05-29",
+    "year": 2023,
+    "venue": "Environmental Research",
+    "citations": 10,
+    "fwci": 2.8258,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geochemistry and Geologic Mapping",
+      "Soil and Land Suitability Analysis"
+    ],
+    "institutions": [
+      "Qatar University",
+      "Sultan Qaboos University",
+      "National Institute of Technology Raipur",
+      "Yarmouk University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2079901376",
     "doi": "https://doi.org/10.1016/j.cretres.2004.11.016",
     "program": "",
@@ -118094,46 +118134,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4378649681",
-    "doi": "https://doi.org/10.1016/j.envres.2023.116279",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5042396632",
-      "A5037734458",
-      "A5062108247",
-      "A5066001291",
-      "A5079226465"
-    ],
-    "firstAuthorLastName": "Rajendran",
-    "allAuthors": [
-      "Sankaran Rajendran",
-      "Hamad Al Saad Al Kuwari",
-      "Fadhil Sadooni",
-      "Sobhi Nasir",
-      "Himanshu Govil",
-      "Habes Ghrefat"
-    ],
-    "title": "Remote sensing of desertification and study of temporal variability of aeolian deposits in parts of the Arabian Desert for sustainable development in an arid environment",
-    "publicationDate": "2023-05-29",
-    "year": 2023,
-    "venue": "Environmental Research",
-    "citations": 9,
-    "fwci": 2.5452,
-    "topics": [
-      "Aeolian processes and effects",
-      "Geochemistry and Geologic Mapping",
-      "Soil and Land Suitability Analysis"
-    ],
-    "institutions": [
-      "Qatar University",
-      "Sultan Qaboos University",
-      "National Institute of Technology Raipur",
-      "Yarmouk University"
     ]
   },
   {
@@ -131221,7 +131221,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 13,
-    "fwci": 3.2292,
+    "fwci": 3.233,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
