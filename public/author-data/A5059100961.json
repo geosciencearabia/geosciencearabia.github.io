@@ -773,16 +773,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -2149,9 +2149,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -2176,8 +2176,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -2755,8 +2755,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -3309,8 +3309,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4312,16 +4312,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
@@ -4756,8 +4756,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5861,8 +5861,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -6546,6 +6546,863 @@
       "counts_by_year": [],
       "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7147214132",
+      "doi": "https://doi.org/10.1190/image2025-4308603.1",
+      "title": "High-resolution 3D GPR imaging of burrow networks in sedimentary strata",
+      "display_name": "High-resolution 3D GPR imaging of burrow networks in sedimentary strata",
+      "publication_year": 2026,
+      "publication_date": "2026-02-10",
+      "ids": {
+        "openalex": "https://openalex.org/W7147214132",
+        "doi": "https://doi.org/10.1190/image2025-4308603.1"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1190/image2025-4308603.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/image2025-4308603.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5132588918",
+            "display_name": "Sherif M. Hanafy",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sherif M. Hanafy",
+          "raw_affiliation_strings": [
+            "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5132629323",
+            "display_name": "Omar M. Abdeltwab",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Omar M. Abdeltwab",
+          "raw_affiliation_strings": [
+            "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040857714",
+            "display_name": "Hassan A. Eltom",
+            "orcid": "https://orcid.org/0000-0002-3515-0127"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hassan Eltom",
+          "raw_affiliation_strings": [
+            "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059100961",
+            "display_name": "Ayman Al-Lehyani",
+            "orcid": "https://orcid.org/0000-0002-5595-0017"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ayman Al-Lehyani",
+          "raw_affiliation_strings": [
+            "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5132588918"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.9498088,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "1",
+        "issue": null,
+        "first_page": "1667",
+        "last_page": "1671"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.17710000276565552,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.17710000276565552,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.11599999666213989,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.09149999916553497,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/burrow",
+          "display_name": "Burrow",
+          "score": 0.9577999711036682
+        },
+        {
+          "id": "https://openalex.org/keywords/ground-penetrating-radar",
+          "display_name": "Ground-penetrating radar",
+          "score": 0.8652999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "Bioturbation",
+          "score": 0.7020999789237976
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.6517999768257141
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysics",
+          "display_name": "Petrophysics",
+          "score": 0.6155999898910522
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-structures",
+          "display_name": "Sedimentary structures",
+          "score": 0.46480000019073486
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C175422226",
+          "wikidata": "https://www.wikidata.org/wiki/Q1410542",
+          "display_name": "Burrow",
+          "level": 2,
+          "score": 0.9577999711036682
+        },
+        {
+          "id": "https://openalex.org/C71813955",
+          "wikidata": "https://www.wikidata.org/wiki/Q503560",
+          "display_name": "Ground-penetrating radar",
+          "level": 3,
+          "score": 0.8652999997138977
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.847100019454956
+        },
+        {
+          "id": "https://openalex.org/C153018869",
+          "wikidata": "https://www.wikidata.org/wiki/Q864907",
+          "display_name": "Bioturbation",
+          "level": 3,
+          "score": 0.7020999789237976
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.6517999768257141
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.6155999898910522
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.49079999327659607
+        },
+        {
+          "id": "https://openalex.org/C134872888",
+          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
+          "display_name": "Sedimentary structures",
+          "level": 4,
+          "score": 0.46480000019073486
+        },
+        {
+          "id": "https://openalex.org/C186847809",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Ichnology",
+          "level": 3,
+          "score": 0.4465999901294708
+        },
+        {
+          "id": "https://openalex.org/C150560799",
+          "wikidata": "https://www.wikidata.org/wiki/Q502102",
+          "display_name": "Borehole",
+          "level": 2,
+          "score": 0.38089999556541443
+        },
+        {
+          "id": "https://openalex.org/C79675319",
+          "wikidata": "https://www.wikidata.org/wiki/Q5535575",
+          "display_name": "Geophysical imaging",
+          "level": 2,
+          "score": 0.37529999017715454
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.36910000443458557
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.3084000051021576
+        },
+        {
+          "id": "https://openalex.org/C198531522",
+          "wikidata": "https://www.wikidata.org/wiki/Q485146",
+          "display_name": "Sample (material)",
+          "level": 2,
+          "score": 0.25540000200271606
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/image2025-4308603.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/image2025-4308603.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 11,
+      "referenced_works": [
+        "https://openalex.org/W27186039",
+        "https://openalex.org/W2044778400",
+        "https://openalex.org/W2093730098",
+        "https://openalex.org/W2157891449",
+        "https://openalex.org/W2166265800",
+        "https://openalex.org/W2684577149",
+        "https://openalex.org/W2964560586",
+        "https://openalex.org/W3102597749",
+        "https://openalex.org/W3128211510",
+        "https://openalex.org/W4310209541",
+        "https://openalex.org/W4383894627"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1
+        ],
+        "applies": [
+          2
+        ],
+        "high-frequency": [
+          3
+        ],
+        "Ground": [
+          4
+        ],
+        "Penetrating": [
+          5
+        ],
+        "Radar": [
+          6
+        ],
+        "(GPR)": [
+          7
+        ],
+        "for": [
+          8,
+          25,
+          147
+        ],
+        "the": [
+          9,
+          73,
+          80,
+          111
+        ],
+        "three-dimensional": [
+          10
+        ],
+        "(3D)": [
+          11
+        ],
+        "imaging": [
+          12,
+          59,
+          123
+        ],
+        "of": [
+          13,
+          40,
+          60,
+          118
+        ],
+        "bioturbation": [
+          14,
+          148
+        ],
+        "structures,": [
+          15
+        ],
+        "specifically": [
+          16
+        ],
+        "Thalassinoides": [
+          17,
+          119
+        ],
+        "burrow": [
+          18,
+          27,
+          61,
+          102,
+          126
+        ],
+        "systems,": [
+          19
+        ],
+        "within": [
+          20
+        ],
+        "sedimentary": [
+          21,
+          151
+        ],
+        "strata.": [
+          22
+        ],
+        "Traditional": [
+          23
+        ],
+        "methods": [
+          24
+        ],
+        "characterizing": [
+          26
+        ],
+        "attributes": [
+          28
+        ],
+        "rely": [
+          29
+        ],
+        "on": [
+          30
+        ],
+        "2D": [
+          31
+        ],
+        "visual": [
+          32
+        ],
+        "observations": [
+          33
+        ],
+        "or": [
+          34
+        ],
+        "computed": [
+          35
+        ],
+        "tomography": [
+          36
+        ],
+        "(CT)": [
+          37
+        ],
+        "scanning,": [
+          38
+        ],
+        "both": [
+          39
+        ],
+        "which": [
+          41
+        ],
+        "have": [
+          42
+        ],
+        "limitations": [
+          43
+        ],
+        "regarding": [
+          44
+        ],
+        "sample": [
+          45,
+          71
+        ],
+        "size": [
+          46
+        ],
+        "and": [
+          47,
+          91,
+          100,
+          115,
+          150
+        ],
+        "handling": [
+          48
+        ],
+        "logistics.": [
+          49
+        ],
+        "GPR": [
+          50,
+          81,
+          108,
+          122
+        ],
+        "provides": [
+          51
+        ],
+        "an": [
+          52
+        ],
+        "in-situ,": [
+          53
+        ],
+        "non-destructive": [
+          54
+        ],
+        "alternative": [
+          55
+        ],
+        "that": [
+          56,
+          107
+        ],
+        "enables": [
+          57
+        ],
+        "high-resolution": [
+          58
+        ],
+        "morphology": [
+          62
+        ],
+        "over": [
+          63
+        ],
+        "larger": [
+          64
+        ],
+        "rock": [
+          65,
+          70
+        ],
+        "samples.": [
+          66
+        ],
+        "A": [
+          67,
+          83
+        ],
+        "rectangular": [
+          68
+        ],
+        "prism-shaped": [
+          69
+        ],
+        "from": [
+          72
+        ],
+        "Hanifa": [
+          74
+        ],
+        "Formation": [
+          75
+        ],
+        "was": [
+          76,
+          94
+        ],
+        "used": [
+          77
+        ],
+        "to": [
+          78,
+          96
+        ],
+        "validate": [
+          79
+        ],
+        "technique.": [
+          82
+        ],
+        "systematic": [
+          84
+        ],
+        "data": [
+          85
+        ],
+        "processing": [
+          86,
+          93
+        ],
+        "workflow": [
+          87
+        ],
+        "involving": [
+          88
+        ],
+        "filtering,": [
+          89
+        ],
+        "normalization,": [
+          90
+        ],
+        "morphological": [
+          92
+        ],
+        "applied": [
+          95
+        ],
+        "enhance": [
+          97
+        ],
+        "signal": [
+          98
+        ],
+        "clarity": [
+          99
+        ],
+        "isolate": [
+          101
+        ],
+        "structures.": [
+          103
+        ],
+        "The": [
+          104
+        ],
+        "results": [
+          105
+        ],
+        "demonstrate": [
+          106
+        ],
+        "successfully": [
+          109
+        ],
+        "captures": [
+          110
+        ],
+        "boxwork": [
+          112
+        ],
+        "morphology,": [
+          113
+        ],
+        "connectivity,": [
+          114
+        ],
+        "density": [
+          116
+        ],
+        "variations": [
+          117,
+          128
+        ],
+        "burrows.": [
+          120
+        ],
+        "Additionally,": [
+          121
+        ],
+        "effectively": [
+          124
+        ],
+        "delineates": [
+          125
+        ],
+        "intensity": [
+          127
+        ],
+        "with": [
+          129,
+          132
+        ],
+        "depth,": [
+          130
+        ],
+        "consistent": [
+          131
+        ],
+        "known": [
+          133
+        ],
+        "stratigraphic": [
+          134
+        ],
+        "trends": [
+          135
+        ],
+        "in": [
+          136
+        ],
+        "bioturbation.": [
+          137
+        ],
+        "These": [
+          138
+        ],
+        "findings": [
+          139
+        ],
+        "highlight": [
+          140
+        ],
+        "GPR’s": [
+          141
+        ],
+        "potential": [
+          142
+        ],
+        "as": [
+          143
+        ],
+        "a": [
+          144
+        ],
+        "powerful": [
+          145
+        ],
+        "tool": [
+          146
+        ],
+        "analysis": [
+          149
+        ],
+        "petrophysical": [
+          152
+        ],
+        "characterization.": [
+          153
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-04-02T15:55:50.835912",
+      "created_date": "2026-04-02T00:00:00"
     }
   ]
 }

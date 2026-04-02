@@ -734,9 +734,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -1222,9 +1222,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -2451,9 +2451,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -3098,6 +3098,555 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2070255403",
+      "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+      "title": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
+      "display_name": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
+      "publication_year": 1987,
+      "publication_date": "1987-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2070255403",
+        "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+        "mag": "2070255403"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1016/s0016-6995(87)80074-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19370311",
+          "display_name": "Geobios",
+          "issn_l": "0016-6995",
+          "issn": [
+            "0016-6995",
+            "1777-5728"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geobios",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078476240",
+            "display_name": "Françoise Dépêche",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Françoise Depeche",
+          "raw_affiliation_strings": [
+            "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France",
+              "institution_ids": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073888691",
+            "display_name": "Yves Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves Le Nindre",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051867931",
+            "display_name": "Jacques Manivit",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Manivit",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5078476240"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I39804081"
+      ],
+      "apc_list": {
+        "value": 2620,
+        "currency": "USD",
+        "value_usd": 2620
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 46,
+      "citation_normalized_percentile": {
+        "value": 0.12289855,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "20",
+        "issue": null,
+        "first_page": "221",
+        "last_page": "275"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9955999851226807,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.963100016117096,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12097",
+          "display_name": "Aquatic Invertebrate Ecology and Behavior",
+          "score": 0.934499979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ammonite",
+          "display_name": "Ammonite",
+          "score": 0.6175430417060852
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5759015679359436
+        },
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.5669733881950378
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.4729556739330292
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.4714154899120331
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.44682493805885315
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.09872886538505554
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.08012503385543823
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779032034",
+          "wikidata": "https://www.wikidata.org/wiki/Q279181",
+          "display_name": "Ammonite",
+          "level": 3,
+          "score": 0.6175430417060852
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5759015679359436
+        },
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.5669733881950378
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.4729556739330292
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.4714154899120331
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.44682493805885315
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.09872886538505554
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.08012503385543823
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0016-6995(87)80074-8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19370311",
+            "display_name": "Geobios",
+            "issn_l": "0016-6995",
+            "issn": [
+              "0016-6995",
+              "1777-5728"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geobios",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W600955683",
+        "https://openalex.org/W1490026665",
+        "https://openalex.org/W1990618560",
+        "https://openalex.org/W2058282269",
+        "https://openalex.org/W2619743014",
+        "https://openalex.org/W2752643021"
+      ],
+      "related_works": [
+        "https://openalex.org/W2340712522",
+        "https://openalex.org/W4206940701",
+        "https://openalex.org/W4301595701",
+        "https://openalex.org/W2283905955",
+        "https://openalex.org/W2908910389",
+        "https://openalex.org/W2053792822",
+        "https://openalex.org/W1793260514",
+        "https://openalex.org/W2791071030",
+        "https://openalex.org/W2984990308",
+        "https://openalex.org/W2726006578"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-04-02T15:55:50.835912",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4611,551 +5160,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2070255403",
-      "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
-      "title": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
-      "display_name": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
-      "publication_year": 1987,
-      "publication_date": "1987-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2070255403",
-        "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
-        "mag": "2070255403"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.1016/s0016-6995(87)80074-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80074-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19370311",
-          "display_name": "Geobios",
-          "issn_l": "0016-6995",
-          "issn": [
-            "0016-6995",
-            "1777-5728"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geobios",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078476240",
-            "display_name": "Françoise Dépêche",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Françoise Depeche",
-          "raw_affiliation_strings": [
-            "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France",
-              "institution_ids": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073888691",
-            "display_name": "Yves Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves Le Nindre",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051867931",
-            "display_name": "Jacques Manivit",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Manivit",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5038965329",
-            "display_name": "Denis Vaslet",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Denis Vaslet",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières, Orléans-la-Source, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières, Orléans-la-Source, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078476240"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1294671590",
-        "https://openalex.org/I39804081"
-      ],
-      "apc_list": {
-        "value": 2620,
-        "currency": "USD",
-        "value_usd": 2620
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 45,
-      "citation_normalized_percentile": {
-        "value": 0.12343157,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "20",
-        "issue": null,
-        "first_page": "221",
-        "last_page": "275"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9955999851226807,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9955999851226807,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.963100016117096,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12097",
-          "display_name": "Aquatic Invertebrate Ecology and Behavior",
-          "score": 0.934499979019165,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ammonite",
-          "display_name": "Ammonite",
-          "score": 0.6175430417060852
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5759015679359436
-        },
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.5669733881950378
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.4729556739330292
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.4714154899120331
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.44682493805885315
-        },
-        {
-          "id": "https://openalex.org/keywords/art",
-          "display_name": "Art",
-          "score": 0.09872886538505554
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.08012503385543823
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779032034",
-          "wikidata": "https://www.wikidata.org/wiki/Q279181",
-          "display_name": "Ammonite",
-          "level": 3,
-          "score": 0.6175430417060852
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5759015679359436
-        },
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.5669733881950378
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.4729556739330292
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.4714154899120331
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.44682493805885315
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0.09872886538505554
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.08012503385543823
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0016-6995(87)80074-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80074-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19370311",
-            "display_name": "Geobios",
-            "issn_l": "0016-6995",
-            "issn": [
-              "0016-6995",
-              "1777-5728"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geobios",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 6,
-      "referenced_works": [
-        "https://openalex.org/W600955683",
-        "https://openalex.org/W1490026665",
-        "https://openalex.org/W1990618560",
-        "https://openalex.org/W2058282269",
-        "https://openalex.org/W2619743014",
-        "https://openalex.org/W2752643021"
-      ],
-      "related_works": [
-        "https://openalex.org/W2340712522",
-        "https://openalex.org/W4206940701",
-        "https://openalex.org/W4301595701",
-        "https://openalex.org/W2283905955",
-        "https://openalex.org/W2908910389",
-        "https://openalex.org/W2053792822",
-        "https://openalex.org/W1793260514",
-        "https://openalex.org/W2791071030",
-        "https://openalex.org/W2984990308",
-        "https://openalex.org/W2726006578"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2724564388",
       "doi": "https://doi.org/10.2113/gssgfbull.s7-viii.3.347",
       "title": "Le Lias et le Bajocien de La Javie (Basses-Alpes)",
@@ -6120,9 +6124,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],

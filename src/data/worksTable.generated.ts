@@ -150,8 +150,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-03-11",
     "year": 2025,
     "venue": "Applied Geochemistry",
-    "citations": 4,
-    "fwci": 10.7981,
+    "citations": 5,
+    "fwci": 12.1264,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Geochemistry and Elemental Analysis",
@@ -429,6 +429,37 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Saint Anthony College of Nursing",
       "Dhahran Health Center"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7147648611",
+    "doi": "https://doi.org/10.1190/image2025-4305054.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5002041459",
+    "allAuthorOpenAlexIds": [
+      "A5002041459",
+      "A5132633056",
+      "A5132680280"
+    ],
+    "firstAuthorLastName": "Michael",
+    "allAuthors": [
+      "Nikolaos A. Michael",
+      "Rainer Zühlke",
+      "Eyad Aljshi"
+    ],
+    "title": "Seismic interpretation and numerical modeling of clastic sediment flux for reservoir quality prediction (Arabian Plate, Cretaceous)",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -2744,8 +2775,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-12",
     "year": 2003,
     "venue": "Earth-Science Reviews",
-    "citations": 283,
-    "fwci": 4.4099,
+    "citations": 284,
+    "fwci": 4.4328,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -3528,6 +3559,35 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1990448469",
+    "doi": "https://doi.org/10.1016/0037-0738(95)00067-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681",
+      "A5062108247"
+    ],
+    "firstAuthorLastName": "Alsharhan",
+    "allAuthors": [
+      "Abdulrahman S. Alsharhan",
+      "Sobhi Nasir"
+    ],
+    "title": "Sedimentological and geochemical interpretation of a transgressive sequence: the Late Cretaceous Qahlah Formation in the western Oman Mountains, United Arab Emirates",
+    "publicationDate": "1996-02-01",
+    "year": 1996,
+    "venue": "Sedimentary Geology",
+    "citations": 34,
+    "fwci": 0.6968,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "United Arab Emirates University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2150512152",
     "doi": "https://doi.org/10.1144/gsl.sp.1990.050.01.16",
     "program": "",
@@ -4215,35 +4275,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W1990448469",
-    "doi": "https://doi.org/10.1016/0037-0738(95)00067-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681",
-      "A5062108247"
-    ],
-    "firstAuthorLastName": "Alsharhan",
-    "allAuthors": [
-      "Abdulrahman S. Alsharhan",
-      "Sobhi Nasir"
-    ],
-    "title": "Sedimentological and geochemical interpretation of a transgressive sequence: the Late Cretaceous Qahlah Formation in the western Oman Mountains, United Arab Emirates",
-    "publicationDate": "1996-02-01",
-    "year": 1996,
-    "venue": "Sedimentary Geology",
-    "citations": 33,
-    "fwci": 0.6914,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geochemistry and Elemental Analysis",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "United Arab Emirates University"
-    ]
   },
   {
     "workId": "https://openalex.org/W2126685221",
@@ -8478,8 +8509,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-28",
     "year": 2023,
     "venue": "International Geology Review",
-    "citations": 13,
-    "fwci": 3.7085,
+    "citations": 14,
+    "fwci": 3.9173,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -8487,6 +8518,45 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404428452",
+    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5036162476",
+      "A5101767240",
+      "A5101185898",
+      "A5081759059"
+    ],
+    "firstAuthorLastName": "Ndonfack",
+    "allAuthors": [
+      "Kevin Igor Azeuda Ndonfack",
+      "Zhiming Yang",
+      "Jinlin Zhang",
+      "Scott Whattam",
+      "Yuling Xie"
+    ],
+    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
+    "publicationDate": "2024-11-14",
+    "year": 2024,
+    "venue": "International Geology Review",
+    "citations": 10,
+    "fwci": 3.4543,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Geological Sciences",
+      "Czech Academy of Sciences, Institute of Geology",
+      "Institute of Mining",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Science and Technology Beijing"
     ]
   },
   {
@@ -8666,8 +8736,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-03-01",
     "year": 2008,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 89,
-    "fwci": 4.97,
+    "citations": 90,
+    "fwci": 5.1029,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -8695,8 +8765,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-12-07",
     "year": 2008,
     "venue": "Lithos",
-    "citations": 68,
-    "fwci": 2.0856,
+    "citations": 69,
+    "fwci": 2.1012,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -9862,45 +9932,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4404428452",
-    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5036162476",
-      "A5101767240",
-      "A5101185898",
-      "A5081759059"
-    ],
-    "firstAuthorLastName": "Ndonfack",
-    "allAuthors": [
-      "Kevin Igor Azeuda Ndonfack",
-      "Zhiming Yang",
-      "Jinlin Zhang",
-      "Scott Whattam",
-      "Yuling Xie"
-    ],
-    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
-    "publicationDate": "2024-11-14",
-    "year": 2024,
-    "venue": "International Geology Review",
-    "citations": 8,
-    "fwci": 2.9009,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Institute of Mining",
-      "Czech Academy of Sciences, Institute of Geology",
-      "Chinese Academy of Geological Sciences",
-      "King Fahd University of Petroleum and Minerals",
-      "University of Science and Technology Beijing"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4398159676",
     "doi": "https://doi.org/10.1016/j.precamres.2024.107430",
     "program": "",
@@ -9934,8 +9965,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-05-21",
     "year": 2024,
     "venue": "Precambrian Research",
-    "citations": 7,
-    "fwci": 3.9407,
+    "citations": 8,
+    "fwci": 4.2309,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -10140,6 +10171,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4409101266",
+    "doi": "https://doi.org/10.1016/j.precamres.2025.107765",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5082334094",
+      "A5091048626",
+      "A5035421092",
+      "A5076536922",
+      "A5074634117"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Whattam",
+      "Faris Sulistyohariyanto",
+      "Keewook Yi",
+      "Mutasim Osman",
+      "Oktarian Iskandar",
+      "Jieun Seo"
+    ],
+    "title": "Tectonic evolution of the crustal section of the Neoproterozoic Jabal Ess ophiolite-arc complex, Midyan terrane, NW Arabian Shield",
+    "publicationDate": "2025-04-03",
+    "year": 2025,
+    "venue": "Precambrian Research",
+    "citations": 4,
+    "fwci": 7.3042,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Korea Basic Science Institute",
+      "Korea University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4392659943",
     "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
     "program": "",
@@ -10177,45 +10247,6 @@ export const worksTable: WorkTableRecord[] = [
       "Northwest University",
       "State Key Laboratory of Continental Dynamics",
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4409101266",
-    "doi": "https://doi.org/10.1016/j.precamres.2025.107765",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5082334094",
-      "A5091048626",
-      "A5035421092",
-      "A5076536922",
-      "A5074634117"
-    ],
-    "firstAuthorLastName": "Whattam",
-    "allAuthors": [
-      "Scott Whattam",
-      "Faris Sulistyohariyanto",
-      "Keewook Yi",
-      "Mutasim Osman",
-      "Oktarian Iskandar",
-      "Jieun Seo"
-    ],
-    "title": "Tectonic evolution of the crustal section of the Neoproterozoic Jabal Ess ophiolite-arc complex, Midyan terrane, NW Arabian Shield",
-    "publicationDate": "2025-04-03",
-    "year": 2025,
-    "venue": "Precambrian Research",
-    "citations": 3,
-    "fwci": 6.1049,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Korea Basic Science Institute",
-      "Korea University"
     ]
   },
   {
@@ -22040,6 +22071,46 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7147208178",
+    "doi": "https://doi.org/10.1016/j.lithos.2026.108515",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5094097301",
+      "A5082334094",
+      "A5132698917",
+      "A5128986363",
+      "A5067442143"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Whattam",
+      "Wafa AL-Hakimi",
+      "Faris Sulistyohariyanto",
+      "Keewook Yi",
+      "Mutasim Osman",
+      "Mohamed Zaki Khedr"
+    ],
+    "title": "Neoproterozoic Arc Construction, NW Midyan terrane, Arabian Shield: 50 m.y. of alkaline and calc-alkaline post-collisional magmatism",
+    "publicationDate": "2026-04-01",
+    "year": 2026,
+    "venue": "Lithos",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Kafrelsheikh University",
+      "King Fahd University of Petroleum and Minerals",
+      "Korea Basic Science Institute",
+      "Taibah University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2783004461",
     "doi": "https://doi.org/10.1007/978-3-319-71216-1",
     "program": "",
@@ -22919,6 +22990,33 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4237810828",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Atlas of Trace Fossils in Well Core",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 165,
+    "fwci": 13.8898,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1970644949",
     "doi": "https://doi.org/10.1016/j.earscirev.2013.04.007",
     "program": "",
@@ -22940,33 +23038,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Equinor (Norway)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4237810828",
-    "doi": "https://doi.org/10.1007/978-3-319-49837-9",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "Atlas of Trace Fossils in Well Core",
-    "publicationDate": "2017-01-01",
-    "year": 2017,
-    "venue": "",
-    "citations": 164,
-    "fwci": 13.9332,
-    "topics": [
-      "Geological Studies and Exploration",
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
       "Equinor (Norway)"
@@ -23185,8 +23256,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-02-26",
     "year": 2020,
     "venue": "Papers in Palaeontology",
-    "citations": 51,
-    "fwci": 5.8804,
+    "citations": 52,
+    "fwci": 5.8889,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -27705,6 +27776,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4402642246",
+    "doi": "https://doi.org/10.1016/j.geoen.2024.213339",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5074832503",
+      "A5049649985",
+      "A5024608621"
+    ],
+    "firstAuthorLastName": "Mohammed",
+    "allAuthors": [
+      "Isah Mohammed",
+      "Mohamed Mahmoud",
+      "Dhafer Al Shehri",
+      "Abdulwahab Muhammad Bello"
+    ],
+    "title": "Production of colloidally stable calcium carbonate precipitates to enhance CO2 subsurface storage through mineralization",
+    "publicationDate": "2024-09-19",
+    "year": 2024,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 10,
+    "fwci": 2.0435,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Carbon Dioxide Capture Technologies",
+      "Chemical Looping and Thermochemical Processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4386865693",
     "doi": "https://doi.org/10.1016/j.rines.2023.100003",
     "program": "",
@@ -27751,39 +27855,6 @@ export const worksTable: WorkTableRecord[] = [
       "Federal University Dutse",
       "Kaduna Polytechnic",
       "University of Jos"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4402642246",
-    "doi": "https://doi.org/10.1016/j.geoen.2024.213339",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5074832503",
-      "A5049649985",
-      "A5024608621"
-    ],
-    "firstAuthorLastName": "Mohammed",
-    "allAuthors": [
-      "Isah Mohammed",
-      "Mohamed Mahmoud",
-      "Dhafer Al Shehri",
-      "Abdulwahab Muhammad Bello"
-    ],
-    "title": "Production of colloidally stable calcium carbonate precipitates to enhance CO2 subsurface storage through mineralization",
-    "publicationDate": "2024-09-19",
-    "year": 2024,
-    "venue": "Geoenergy Science and Engineering",
-    "citations": 9,
-    "fwci": 1.9553,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Carbon Dioxide Capture Technologies",
-      "Chemical Looping and Thermochemical Processes"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -30440,8 +30511,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-12-14",
     "year": 2011,
     "venue": "Quaternary Research",
-    "citations": 43,
-    "fwci": 1.3643,
+    "citations": 44,
+    "fwci": 1.3875,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological formations and processes",
@@ -31324,8 +31395,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-07-04",
     "year": 2024,
     "venue": "Energy",
-    "citations": 23,
-    "fwci": 4.9811,
+    "citations": 24,
+    "fwci": 4.9045,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geological and Geochemical Analysis",
@@ -31400,8 +31471,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-12-18",
     "year": 2023,
     "venue": "Energy & Fuels",
-    "citations": 16,
-    "fwci": 2.0108,
+    "citations": 17,
+    "fwci": 2.0797,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -39459,8 +39530,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-04-29",
     "year": 2016,
     "venue": "Fuel",
-    "citations": 130,
-    "fwci": 8.1341,
+    "citations": 131,
+    "fwci": 8.1531,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -40145,6 +40216,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4388399354",
+    "doi": "https://doi.org/10.1002/gj.4898",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5039797710",
+      "A5022768328",
+      "A5043027774"
+    ],
+    "firstAuthorLastName": "Radwan",
+    "allAuthors": [
+      "Ahmed E. Radwan",
+      "Shuai Yin",
+      "Mohammed Hail Hakimi",
+      "Hu Li"
+    ],
+    "title": "Petroleum geology of conventional and unconventional resources: Introduction",
+    "publicationDate": "2023-11-01",
+    "year": 2023,
+    "venue": "Geological Journal",
+    "citations": 15,
+    "fwci": 2.5068,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "Jagiellonian University",
+      "Instytut Nauk Geologicznych",
+      "Xi'an Shiyou University",
+      "Taiz University",
+      "Southwest Petroleum University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4400532747",
     "doi": "https://doi.org/10.3390/en17143416",
     "program": "",
@@ -40304,8 +40412,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-08-16",
     "year": 2024,
     "venue": "Scientific Reports",
-    "citations": 6,
-    "fwci": 1.6182,
+    "citations": 7,
+    "fwci": 1.8704,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -41218,6 +41326,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2604706256",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2017.04.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5022679112",
+      "A5048429617",
+      "A5034540430"
+    ],
+    "firstAuthorLastName": "Hadad",
+    "allAuthors": [
+      "Yousif Taha Hadad",
+      "Mohammed Hail Hakimi",
+      "Wan Hasiah Abdullah",
+      "Yousif M. Makeen"
+    ],
+    "title": "Basin modeling of the Late Miocene Zeit source rock in the Sudanese portion of Red Sea Basin: Implication for hydrocarbon generation and expulsion history",
+    "publicationDate": "2017-04-05",
+    "year": 2017,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 35,
+    "fwci": 3.9546,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Taiz University",
+      "University of Malaya"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1995936364",
     "doi": "https://doi.org/10.1007/s12517-013-1228-3",
     "program": "",
@@ -41248,40 +41390,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Sulaimani",
       "Taiz University",
       "University of Kirkuk"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2604706256",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2017.04.002",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5022679112",
-      "A5048429617",
-      "A5034540430"
-    ],
-    "firstAuthorLastName": "Hadad",
-    "allAuthors": [
-      "Yousif Taha Hadad",
-      "Mohammed Hail Hakimi",
-      "Wan Hasiah Abdullah",
-      "Yousif M. Makeen"
-    ],
-    "title": "Basin modeling of the Late Miocene Zeit source rock in the Sudanese portion of Red Sea Basin: Implication for hydrocarbon generation and expulsion history",
-    "publicationDate": "2017-04-05",
-    "year": 2017,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 34,
-    "fwci": 3.9342,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "Taiz University",
-      "University of Malaya"
     ]
   },
   {
@@ -41919,6 +42027,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2981053918",
+    "doi": "https://doi.org/10.1016/j.petrol.2019.106584",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5035933914",
+      "A5102820147",
+      "A5015626170",
+      "A5035000517",
+      "A5023467994"
+    ],
+    "firstAuthorLastName": "Al-Khafaji",
+    "allAuthors": [
+      "Amer Jassim Al-Khafaji",
+      "Mohammed Hail Hakimi",
+      "Elkhedr Ibrahim",
+      "Ahmed A. Najaf",
+      "Hussain Al Faifi",
+      "Aref Lashin"
+    ],
+    "title": "Organic geochemistry of oil seeps from the Abu-Jir Fault Zone in the Al-Anbar Governorate, western Iraq: Implications for early-mature sulfur -rich source rock",
+    "publicationDate": "2019-10-15",
+    "year": 2019,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 18,
+    "fwci": 2.1955,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Petroleum Processing and Analysis"
+    ],
+    "institutions": [
+      "University of Babylon",
+      "Taiz University",
+      "University of Malaya",
+      "King Saud University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3203234550",
     "doi": "https://doi.org/10.1007/s13202-021-01311-1",
     "program": "",
@@ -42035,6 +42183,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2404749364",
+    "doi": "https://doi.org/10.1007/s12517-016-2458-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5022679112",
+      "A5048429617",
+      "A5034540430"
+    ],
+    "firstAuthorLastName": "Hadad",
+    "allAuthors": [
+      "Yousif Taha Hadad",
+      "Mohammed Hail Hakimi",
+      "Wan Hasiah Abdullah",
+      "Yousif M. Makeen"
+    ],
+    "title": "Thermal maturity history reconstruction and hydrocarbon generation/expulsion modeling of the syn-rift Rudeis and Kareem source rocks in the Red Sea Rift Basin, Sudan",
+    "publicationDate": "2016-05-01",
+    "year": 2016,
+    "venue": "Arabian Journal of Geosciences",
+    "citations": 15,
+    "fwci": 2.0383,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "University of Malaya",
+      "Taiz University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3038949490",
     "doi": "https://doi.org/10.1016/j.petrol.2020.107595",
     "program": "",
@@ -42126,43 +42308,6 @@ export const worksTable: WorkTableRecord[] = [
       "Kurdistan Regional Government",
       "Kurdistan Institute for Strategic Studies and Scientific Research",
       "Clifton Hospital"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4388399354",
-    "doi": "https://doi.org/10.1002/gj.4898",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5039797710",
-      "A5022768328",
-      "A5043027774"
-    ],
-    "firstAuthorLastName": "Radwan",
-    "allAuthors": [
-      "Ahmed E. Radwan",
-      "Shuai Yin",
-      "Mohammed Hail Hakimi",
-      "Hu Li"
-    ],
-    "title": "Petroleum geology of conventional and unconventional resources: Introduction",
-    "publicationDate": "2023-11-01",
-    "year": 2023,
-    "venue": "Geological Journal",
-    "citations": 14,
-    "fwci": 2.3599,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Enhanced Oil Recovery Techniques"
-    ],
-    "institutions": [
-      "Jagiellonian University",
-      "Instytut Nauk Geologicznych",
-      "Xi'an Shiyou University",
-      "Taiz University",
-      "Southwest Petroleum University"
     ]
   },
   {
@@ -43767,7 +43912,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Energies",
     "citations": 18,
-    "fwci": 2.6329,
+    "fwci": 2.6426,
     "topics": [
       "Drilling and Well Engineering",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -43776,8 +43921,8 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of the Fraser Valley",
       "Universiti Teknologi Petronas",
-      "Instytut Nauk Geologicznych",
       "Jagiellonian University",
+      "Instytut Nauk Geologicznych",
       "Taiz University",
       "Najran University"
     ]
@@ -43822,46 +43967,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Taiz University",
       "University of Malaya"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2981053918",
-    "doi": "https://doi.org/10.1016/j.petrol.2019.106584",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5035933914",
-      "A5102820147",
-      "A5015626170",
-      "A5035000517",
-      "A5023467994"
-    ],
-    "firstAuthorLastName": "Al-Khafaji",
-    "allAuthors": [
-      "Amer Jassim Al-Khafaji",
-      "Mohammed Hail Hakimi",
-      "Elkhedr Ibrahim",
-      "Ahmed A. Najaf",
-      "Hussain Al Faifi",
-      "Aref Lashin"
-    ],
-    "title": "Organic geochemistry of oil seeps from the Abu-Jir Fault Zone in the Al-Anbar Governorate, western Iraq: Implications for early-mature sulfur -rich source rock",
-    "publicationDate": "2019-10-15",
-    "year": 2019,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 17,
-    "fwci": 2.1875,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Petroleum Processing and Analysis"
-    ],
-    "institutions": [
-      "University of Babylon",
-      "Taiz University",
-      "University of Malaya",
-      "King Saud University"
     ]
   },
   {
@@ -43930,40 +44035,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Egyptian Petroleum Research Institute",
-      "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2404749364",
-    "doi": "https://doi.org/10.1007/s12517-016-2458-y",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5022679112",
-      "A5048429617",
-      "A5034540430"
-    ],
-    "firstAuthorLastName": "Hadad",
-    "allAuthors": [
-      "Yousif Taha Hadad",
-      "Mohammed Hail Hakimi",
-      "Wan Hasiah Abdullah",
-      "Yousif M. Makeen"
-    ],
-    "title": "Thermal maturity history reconstruction and hydrocarbon generation/expulsion modeling of the syn-rift Rudeis and Kareem source rocks in the Red Sea Rift Basin, Sudan",
-    "publicationDate": "2016-05-01",
-    "year": 2016,
-    "venue": "Arabian Journal of Geosciences",
-    "citations": 14,
-    "fwci": 2.0306,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "University of Malaya",
       "Taiz University"
     ]
   },
@@ -48503,37 +48574,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W3109838794",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104823",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034460286",
-    "allAuthorOpenAlexIds": [
-      "A5034460286",
-      "A5079698878",
-      "A5064720324"
-    ],
-    "firstAuthorLastName": "Salih",
-    "allAuthors": [
-      "Moaz Salih",
-      "John J. G. Reijmer",
-      "Ammar El‐Husseiny"
-    ],
-    "title": "Diagenetic controls on the elastic velocity of the early Triassic Upper Khartam Member (Khuff Formation, central Saudi Arabia)",
-    "publicationDate": "2020-11-20",
-    "year": 2020,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 27,
-    "fwci": 3.5397,
-    "topics": [
-      "Seismic Imaging and Inversion Techniques",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W3171403328",
     "doi": "https://doi.org/10.3390/app11115019",
     "program": "",
@@ -48561,12 +48601,43 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-05-28",
     "year": 2021,
     "venue": "Applied Sciences",
-    "citations": 15,
-    "fwci": 1.4788,
+    "citations": 16,
+    "fwci": 1.4823,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
       "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3109838794",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104823",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034460286",
+    "allAuthorOpenAlexIds": [
+      "A5034460286",
+      "A5079698878",
+      "A5064720324"
+    ],
+    "firstAuthorLastName": "Salih",
+    "allAuthors": [
+      "Moaz Salih",
+      "John J. G. Reijmer",
+      "Ammar El‐Husseiny"
+    ],
+    "title": "Diagenetic controls on the elastic velocity of the early Triassic Upper Khartam Member (Khuff Formation, central Saudi Arabia)",
+    "publicationDate": "2020-11-20",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 27,
+    "fwci": 3.5397,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -49142,8 +49213,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-02",
     "year": 2022,
     "venue": "Remote Sensing",
-    "citations": 59,
-    "fwci": 6.2143,
+    "citations": 60,
+    "fwci": 6.3499,
     "topics": [
       "Flood Risk Assessment and Management",
       "Hydrology and Drought Analysis",
@@ -50417,7 +50488,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 1,
-    "fwci": 0.7926,
+    "fwci": 0.7828,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -51846,8 +51917,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-11",
     "year": 2020,
     "venue": "Marine and Petroleum Geology",
-    "citations": 30,
-    "fwci": 4.1876,
+    "citations": 31,
+    "fwci": 4.2064,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -52665,8 +52736,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2006-05-31",
     "year": 2006,
     "venue": "Nature",
-    "citations": 543,
-    "fwci": 220.0997,
+    "citations": 544,
+    "fwci": 220.3379,
     "topics": [
       "Geological Studies and Exploration",
       "Methane Hydrates and Related Phenomena",
@@ -52984,38 +53055,6 @@ export const worksTable: WorkTableRecord[] = [
       "Birkbeck, University of London",
       "Sandvik (Norway)",
       "Petroleum Geo-Services (United Kingdom)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2122730798",
-    "doi": "https://doi.org/10.2113/gsmicropal.51.5.373",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5089663982",
-      "A5040877678"
-    ],
-    "firstAuthorLastName": "Kaminski",
-    "allAuthors": [
-      "Michael A. Kaminski",
-      "Lóránd Silye",
-      "Sev Kender"
-    ],
-    "title": "Miocene deep-water agglutinated foraminifera from ODP Hole 909c: Implications for the paleoceanography of the Fram Strait Area, Greenland Sea",
-    "publicationDate": "2005-11-01",
-    "year": 2005,
-    "venue": "Micropaleontology",
-    "citations": 39,
-    "fwci": 1.2411,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "University College London",
-      "Babeș-Bolyai University"
     ]
   },
   {
@@ -54129,6 +54168,38 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University College London"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2122730798",
+    "doi": "https://doi.org/10.2113/gsmicropal.51.5.373",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5089663982",
+      "A5040877678"
+    ],
+    "firstAuthorLastName": "Kaminski",
+    "allAuthors": [
+      "Michael A. Kaminski",
+      "Lóránd Silye",
+      "Sev Kender"
+    ],
+    "title": "Miocene deep-water agglutinated foraminifera from ODP Hole 909c: Implications for the paleoceanography of the Fram Strait Area, Greenland Sea",
+    "publicationDate": "2005-11-01",
+    "year": 2005,
+    "venue": "Micropaleontology",
+    "citations": 40,
+    "fwci": 1.248,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University College London",
+      "Babeș-Bolyai University"
     ]
   },
   {
@@ -57070,7 +57141,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 10,
-    "fwci": 0.3048,
+    "fwci": 0.307,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Marine and environmental studies",
@@ -66460,6 +66531,41 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2070255403",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5078476240",
+      "A5073888691",
+      "A5051867931"
+    ],
+    "firstAuthorLastName": "Dépêche",
+    "allAuthors": [
+      "Françoise Dépêche",
+      "Yves Le Nindre",
+      "Jacques Manivit",
+      "Denis Vaslet"
+    ],
+    "title": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 46,
+    "fwci": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Aquatic Invertebrate Ecology and Behavior"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2581167478",
     "doi": "https://doi.org/10.2113/geoarabia130251",
     "program": "",
@@ -66723,41 +66829,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Institut de physique du globe de Paris",
-      "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2070255403",
-    "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5038965329",
-    "allAuthorOpenAlexIds": [
-      "A5038965329",
-      "A5078476240",
-      "A5073888691",
-      "A5051867931"
-    ],
-    "firstAuthorLastName": "Dépêche",
-    "allAuthors": [
-      "Françoise Dépêche",
-      "Yves Le Nindre",
-      "Jacques Manivit",
-      "Denis Vaslet"
-    ],
-    "title": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
-    "publicationDate": "1987-01-01",
-    "year": 1987,
-    "venue": "Geobios",
-    "citations": 45,
-    "fwci": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes",
-      "Aquatic Invertebrate Ecology and Behavior"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Sorbonne Université",
       "Bureau de Recherches Géologiques et Minières"
     ]
   },
@@ -70390,8 +70461,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-02-09",
     "year": 2018,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 27,
-    "fwci": 7.3333,
+    "citations": 28,
+    "fwci": 7.3643,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -72056,7 +72127,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2001,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
     "citations": 7,
-    "fwci": 0.349,
+    "fwci": 0.3519,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -75397,7 +75468,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Earth and Planetary Science Letters",
     "citations": 104,
-    "fwci": 3.9583,
+    "fwci": 3.958,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -76707,6 +76778,42 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Evolutionary Biology"
     ],
     "institutions": [
+      "British Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4366992704",
+    "doi": "https://doi.org/10.1007/s10347-023-00663-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5041363282",
+      "A5040957818",
+      "A5006230501",
+      "A5020524306"
+    ],
+    "firstAuthorLastName": "Carniti",
+    "allAuthors": [
+      "Alessandro P. Carniti",
+      "Giovanna Della Porta",
+      "Vanessa Banks",
+      "Michael H. Stephenson",
+      "Lucia Angiolini"
+    ],
+    "title": "Revisiting the upper Visean mud mounds from Derbyshire (UK): the role of brachiopods in their growth",
+    "publicationDate": "2023-04-01",
+    "year": 2023,
+    "venue": "Facies",
+    "citations": 3,
+    "fwci": 0.636,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Milan",
       "British Geological Survey"
     ]
   },
@@ -78457,42 +78564,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Institute of Paleontology A A Borisyak",
-      "British Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4366992704",
-    "doi": "https://doi.org/10.1007/s10347-023-00663-w",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5041363282",
-      "A5040957818",
-      "A5006230501",
-      "A5020524306"
-    ],
-    "firstAuthorLastName": "Carniti",
-    "allAuthors": [
-      "Alessandro P. Carniti",
-      "Giovanna Della Porta",
-      "Vanessa Banks",
-      "Michael H. Stephenson",
-      "Lucia Angiolini"
-    ],
-    "title": "Revisiting the upper Visean mud mounds from Derbyshire (UK): the role of brachiopods in their growth",
-    "publicationDate": "2023-04-01",
-    "year": 2023,
-    "venue": "Facies",
-    "citations": 2,
-    "fwci": 0.4329,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "University of Milan",
       "British Geological Survey"
     ]
   },
@@ -80896,6 +80967,36 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4310209541",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106036",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Scale dependence of petrophysical measurements in reservoirs with Thalassinoides: Insights from CT scans",
+    "publicationDate": "2022-11-29",
+    "year": 2022,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 12,
+    "fwci": 1.0943,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3040899053",
     "doi": "https://doi.org/10.1111/sed.12780",
     "program": "",
@@ -80926,6 +81027,36 @@ export const worksTable: WorkTableRecord[] = [
       "University of Kansas",
       "Universidad Nacional Autónoma de México",
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4383894627",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106412",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Digital rock modeling to quantify scale dependence of petrophysical measurements in burrowed reservoir rocks: An example using Thalassinoides",
+    "publicationDate": "2023-07-11",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 7,
+    "fwci": 0.9069,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Groundwater flow and contamination studies",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
     ]
   },
   {
@@ -80979,66 +81110,6 @@ export const worksTable: WorkTableRecord[] = [
       "Groundwater flow and contamination studies",
       "Advanced Mathematical Modeling in Engineering",
       "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Kansas"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4310209541",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106036",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040857714",
-    "allAuthorOpenAlexIds": [
-      "A5040857714",
-      "A5107771404"
-    ],
-    "firstAuthorLastName": "Eltom",
-    "allAuthors": [
-      "Hassan A. Eltom",
-      "Robert H. Goldstein"
-    ],
-    "title": "Scale dependence of petrophysical measurements in reservoirs with Thalassinoides: Insights from CT scans",
-    "publicationDate": "2022-11-29",
-    "year": 2022,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 11,
-    "fwci": 1.0905,
-    "topics": [
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Kansas"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4383894627",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106412",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040857714",
-    "allAuthorOpenAlexIds": [
-      "A5040857714",
-      "A5107771404"
-    ],
-    "firstAuthorLastName": "Eltom",
-    "allAuthors": [
-      "Hassan A. Eltom",
-      "Robert H. Goldstein"
-    ],
-    "title": "Digital rock modeling to quantify scale dependence of petrophysical measurements in burrowed reservoir rocks: An example using Thalassinoides",
-    "publicationDate": "2023-07-11",
-    "year": 2023,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 6,
-    "fwci": 0.7924,
-    "topics": [
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Groundwater flow and contamination studies",
-      "Seismic Imaging and Inversion Techniques"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
@@ -82011,6 +82082,39 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7147214132",
+    "doi": "https://doi.org/10.1190/image2025-4308603.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5132588918",
+      "A5132629323",
+      "A5059100961"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Omar M. Abdeltwab",
+      "Hassan A. Eltom",
+      "Ayman Al-Lehyani"
+    ],
+    "title": "High-resolution 3D GPR imaging of burrow networks in sedimentary strata",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geophysical Methods and Applications",
+      "Geophysical and Geoelectrical Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -86676,7 +86780,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1054,
+    "fwci": 32.1432,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87452,8 +87556,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 767,
-    "fwci": 24.9108,
+    "citations": 768,
+    "fwci": 25.0081,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88197,15 +88301,15 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-10-29",
     "year": 2014,
     "venue": "Earth and Planetary Science Letters",
-    "citations": 144,
-    "fwci": 7.9404,
+    "citations": 145,
+    "fwci": 7.9698,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
       "earthquake and tectonic studies"
     ],
     "institutions": [
-      "University of Adelaide"
+      "The University of Adelaide"
     ]
   },
   {
@@ -88317,8 +88421,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-01-01",
     "year": 2018,
     "venue": "Regional geology reviews",
-    "citations": 116,
-    "fwci": 15.5541,
+    "citations": 117,
+    "fwci": 15.5827,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88709,8 +88813,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-09-15",
     "year": 2013,
     "venue": "Gondwana Research",
-    "citations": 97,
-    "fwci": 6.3823,
+    "citations": 98,
+    "fwci": 6.4184,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -88746,7 +88850,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Global and Planetary Change",
     "citations": 96,
-    "fwci": 9.4648,
+    "fwci": 9.5209,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -88790,8 +88894,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-05",
     "year": 2020,
     "venue": "Journal of Analytical Atomic Spectrometry",
-    "citations": 86,
-    "fwci": 7.6598,
+    "citations": 87,
+    "fwci": 7.6809,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -88874,8 +88978,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-08-03",
     "year": 2017,
     "venue": "Earth-Science Reviews",
-    "citations": 82,
-    "fwci": 5.6268,
+    "citations": 83,
+    "fwci": 5.6993,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -88916,8 +89020,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-09-25",
     "year": 2017,
     "venue": "Tectonics",
-    "citations": 76,
-    "fwci": 5.671,
+    "citations": 77,
+    "fwci": 5.6993,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89002,8 +89106,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-07-08",
     "year": 2020,
     "venue": "Precambrian Research",
-    "citations": 74,
-    "fwci": 8.5697,
+    "citations": 75,
+    "fwci": 8.6176,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -89135,8 +89239,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-02-07",
     "year": 2015,
     "venue": "Lithos",
-    "citations": 69,
-    "fwci": 5.6578,
+    "citations": 70,
+    "fwci": 5.6755,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90293,7 +90397,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Gondwana Research",
     "citations": 85,
-    "fwci": 5.3749,
+    "fwci": 5.3917,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -90400,7 +90504,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Precambrian Research",
     "citations": 78,
-    "fwci": 4.8147,
+    "fwci": 4.8388,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -104271,6 +104375,37 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4391672917",
+    "doi": "https://doi.org/10.1016/j.geoen.2024.212699",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5051302005",
+    "allAuthorOpenAlexIds": [
+      "A5051302005",
+      "A5113115883",
+      "A5059881838"
+    ],
+    "firstAuthorLastName": "Baharudin",
+    "allAuthors": [
+      "Fahmi Baharudin",
+      "Adhipa Herlambang",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "3D stratigraphic forward modeling of mixed carbonate-siliciclastic systems: Insights to energy prospectivity",
+    "publicationDate": "2024-02-01",
+    "year": 2024,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 5,
+    "fwci": 1.8702,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4407947147",
     "doi": "https://doi.org/10.2110/jsr.2024.124",
     "program": "",
@@ -104386,37 +104521,6 @@ export const worksTable: WorkTableRecord[] = [
       "Remote-Sensing Image Classification",
       "Geochemistry and Geologic Mapping",
       "Remote Sensing in Agriculture"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4391672917",
-    "doi": "https://doi.org/10.1016/j.geoen.2024.212699",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5051302005",
-    "allAuthorOpenAlexIds": [
-      "A5051302005",
-      "A5113115883",
-      "A5059881838"
-    ],
-    "firstAuthorLastName": "Baharudin",
-    "allAuthors": [
-      "Fahmi Baharudin",
-      "Adhipa Herlambang",
-      "Ardiansyah Koeshidayatullah"
-    ],
-    "title": "3D stratigraphic forward modeling of mixed carbonate-siliciclastic systems: Insights to energy prospectivity",
-    "publicationDate": "2024-02-01",
-    "year": 2024,
-    "venue": "Geoenergy Science and Engineering",
-    "citations": 4,
-    "fwci": 1.5672,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Geological formations and processes",
-      "Methane Hydrates and Related Phenomena"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -104898,6 +105002,73 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3196463747",
+    "doi": "https://doi.org/10.1190/segam2021-3576626.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5033742122",
+      "A5025950100",
+      "A5067998463"
+    ],
+    "firstAuthorLastName": "Egorov",
+    "allAuthors": [
+      "Anton Egorov",
+      "Marwan Charara",
+      "Ezzedeen Alfataierge",
+      "Andrey Bakulin"
+    ],
+    "title": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
+    "publicationDate": "2021-09-01",
+    "year": 2021,
+    "venue": "",
+    "citations": 10,
+    "fwci": 1.3054,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "Drilling and Well Engineering"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4387268437",
+    "doi": "https://doi.org/10.1190/tle42100676.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5102799927",
+      "A5020766559",
+      "A5067998463"
+    ],
+    "firstAuthorLastName": "Aldawood",
+    "allAuthors": [
+      "Ali Aldawood",
+      "A. Shaiban",
+      "Ezzedeen Alfataierge",
+      "Andrey Bakulin"
+    ],
+    "title": "Acquiring and processing deep dual-well DAS walkaway VSP in an onshore desert environment",
+    "publicationDate": "2023-10-01",
+    "year": 2023,
+    "venue": "The Leading Edge",
+    "citations": 6,
+    "fwci": 1.6788,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "Advanced Fiber Optic Sensors"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4291755119",
     "doi": "https://doi.org/10.1190/image2022-3735875.1",
     "program": "",
@@ -104917,8 +105088,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-15",
     "year": 2022,
     "venue": "Second International Meeting for Applied Geoscience &amp; Energy",
-    "citations": 4,
-    "fwci": 2.8776,
+    "citations": 5,
+    "fwci": 2.8758,
     "topics": [
       "Seismic Waves and Analysis",
       "Seismic Imaging and Inversion Techniques",
@@ -104963,39 +105134,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4387268437",
-    "doi": "https://doi.org/10.1190/tle42100676.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5052123503",
-    "allAuthorOpenAlexIds": [
-      "A5052123503",
-      "A5102799927",
-      "A5020766559",
-      "A5067998463"
-    ],
-    "firstAuthorLastName": "Aldawood",
-    "allAuthors": [
-      "Ali Aldawood",
-      "A. Shaiban",
-      "Ezzedeen Alfataierge",
-      "Andrey Bakulin"
-    ],
-    "title": "Acquiring and processing deep dual-well DAS walkaway VSP in an onshore desert environment",
-    "publicationDate": "2023-10-01",
-    "year": 2023,
-    "venue": "The Leading Edge",
-    "citations": 5,
-    "fwci": 1.4508,
-    "topics": [
-      "Seismic Waves and Analysis",
-      "Seismic Imaging and Inversion Techniques",
-      "Advanced Fiber Optic Sensors"
-    ],
-    "institutions": [
-      "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4401207399",
     "doi": "https://doi.org/10.1190/tle43080494.1",
     "program": "",
@@ -105028,39 +105166,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3196463747",
-    "doi": "https://doi.org/10.1190/segam2021-3576626.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5052123503",
-    "allAuthorOpenAlexIds": [
-      "A5052123503",
-      "A5033742122",
-      "A5025950100",
-      "A5067998463"
-    ],
-    "firstAuthorLastName": "Egorov",
-    "allAuthors": [
-      "Anton Egorov",
-      "Marwan Charara",
-      "Ezzedeen Alfataierge",
-      "Andrey Bakulin"
-    ],
-    "title": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
-    "publicationDate": "2021-09-01",
-    "year": 2021,
-    "venue": "",
-    "citations": 9,
-    "fwci": 1.2771,
-    "topics": [
-      "Seismic Waves and Analysis",
-      "Seismic Imaging and Inversion Techniques",
-      "Drilling and Well Engineering"
-    ],
-    "institutions": [
-      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -105716,6 +105821,106 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7147077673",
+    "doi": "https://doi.org/10.1190/image2025-4307288.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5015911545",
+      "A5132637510",
+      "A5069858788"
+    ],
+    "firstAuthorLastName": "Golikov",
+    "allAuthors": [
+      "Pavel Golikov",
+      "George Barnes",
+      "E. Murray",
+      "Ezzedeen Alfataierge"
+    ],
+    "title": "Optimal digital arrays for land seismic exploration in desert environments",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "Seismology and Earthquake Studies"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)",
+      "Stryker (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7147299348",
+    "doi": "https://doi.org/10.1190/image2025-4307277.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5027711423",
+      "A5015911545",
+      "A5044565107",
+      "A5132712307"
+    ],
+    "firstAuthorLastName": "Ramdani",
+    "allAuthors": [
+      "Ahmad Ramdani",
+      "Pavel Golikov",
+      "Abdullah M. Wahbi",
+      "Taqi Al-Yousuf",
+      "Ezzedeen Alfataierge"
+    ],
+    "title": "Large-scale lithium scouting in the desert region using insights from multispectral satellite data",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Remote-Sensing Image Classification",
+      "Soil Geostatistics and Mapping"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7147633932",
+    "doi": "https://doi.org/10.1190/image2025-4304762.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5102799927",
+      "A5132682637"
+    ],
+    "firstAuthorLastName": "Aldawood",
+    "allAuthors": [
+      "Ali Aldawood",
+      "Ali Shaiban",
+      "Ezzedeen Alfataierge"
+    ],
+    "title": "Disposable fiber delivers robust near-surface velocity profile in a shallow water-supply well",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "Advanced Fiber Optic Sensors"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2939888277",
     "doi": "https://doi.org/10.2113/geoarabia0603407",
     "program": "",
@@ -105737,8 +105942,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-07-01",
     "year": 2001,
     "venue": "GeoArabia",
-    "citations": 523,
-    "fwci": 6.8721,
+    "citations": 524,
+    "fwci": 6.9308,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -107514,6 +107719,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2397054680",
+    "doi": "https://doi.org/10.1016/j.petrol.2016.05.019",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5027378012",
+      "A5049802353",
+      "A5053834729"
+    ],
+    "firstAuthorLastName": "Anifowose",
+    "allAuthors": [
+      "Fatai Anifowose",
+      "Suli Adeniye",
+      "Abdulazeez Abdulraheem",
+      "Abdullatif Al‐Shuhail"
+    ],
+    "title": "Integrating seismic and log data for improved petroleum reservoir properties estimation using non-linear feature-selection based hybrid computational intelligence models",
+    "publicationDate": "2016-05-23",
+    "year": 2016,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 50,
+    "fwci": 6.8306,
+    "topics": [
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4394996795",
     "doi": "https://doi.org/10.1016/j.jece.2024.112847",
     "program": "",
@@ -107649,39 +107887,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "University of Messina"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2397054680",
-    "doi": "https://doi.org/10.1016/j.petrol.2016.05.019",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5027378012",
-      "A5049802353",
-      "A5053834729"
-    ],
-    "firstAuthorLastName": "Anifowose",
-    "allAuthors": [
-      "Fatai Anifowose",
-      "Suli Adeniye",
-      "Abdulazeez Abdulraheem",
-      "Abdullatif Al‐Shuhail"
-    ],
-    "title": "Integrating seismic and log data for improved petroleum reservoir properties estimation using non-linear feature-selection based hybrid computational intelligence models",
-    "publicationDate": "2016-05-23",
-    "year": 2016,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 49,
-    "fwci": 6.8077,
-    "topics": [
-      "Reservoir Engineering and Simulation Methods",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -108226,6 +108431,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3128211510",
+    "doi": "https://doi.org/10.1029/2020ea001432",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5077467560",
+      "A5008213975",
+      "A5017749705",
+      "A5013919197",
+      "A5104094821",
+      "A5038432622",
+      "A5077816186"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Pantelis Soupios",
+      "Alexandros Stampolidis",
+      "Christian Koch",
+      "Khalid Al‐Ramadan",
+      "Abdullatif Al‐Shuhail",
+      "Theis I. Sølling",
+      "Ignatius Argadestya"
+    ],
+    "title": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
+    "publicationDate": "2021-09-01",
+    "year": 2021,
+    "venue": "Earth and Space Science",
+    "citations": 11,
+    "fwci": 1.2088,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geophysical Methods and Applications"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Aristotle University of Thessaloniki",
+      "University of Copenhagen"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4396744565",
     "doi": "https://doi.org/10.1007/s13202-024-01795-7",
     "program": "",
@@ -108696,49 +108944,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Aristotle University of Thessaloniki",
       "King Abdulaziz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3128211510",
-    "doi": "https://doi.org/10.1029/2020ea001432",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5077467560",
-      "A5008213975",
-      "A5017749705",
-      "A5013919197",
-      "A5104094821",
-      "A5038432622",
-      "A5077816186"
-    ],
-    "firstAuthorLastName": "Hanafy",
-    "allAuthors": [
-      "Sherif M. Hanafy",
-      "Pantelis Soupios",
-      "Alexandros Stampolidis",
-      "Christian Koch",
-      "Khalid Al‐Ramadan",
-      "Abdullatif Al‐Shuhail",
-      "Theis I. Sølling",
-      "Ignatius Argadestya"
-    ],
-    "title": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
-    "publicationDate": "2021-09-01",
-    "year": 2021,
-    "venue": "Earth and Space Science",
-    "citations": 10,
-    "fwci": 1.2055,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena",
-      "Geophysical Methods and Applications"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Aristotle University of Thessaloniki",
-      "University of Copenhagen"
     ]
   },
   {
@@ -114516,8 +114721,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-01-12",
     "year": 2025,
     "venue": "Geothermal Energy",
-    "citations": 8,
-    "fwci": 19.7467,
+    "citations": 9,
+    "fwci": 21.8275,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Time Series Analysis and Forecasting",
@@ -114644,6 +114849,52 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4224245468",
+    "doi": "https://doi.org/10.1111/sed.12998",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5020208666",
+      "A5065331857",
+      "A5013088513",
+      "A5058862006",
+      "A5088439801",
+      "A5085007251",
+      "A5061005201"
+    ],
+    "firstAuthorLastName": "Koeshidayatullah",
+    "allAuthors": [
+      "Ardiansyah Koeshidayatullah",
+      "Elizabeth J. Trower",
+      "Xiaowei Li",
+      "Tapan Mukerji",
+      "Daniel J. Lehrmann",
+      "Michele Morsilli",
+      "Khalid Al‐Ramadan",
+      "Jonathan L. Payne"
+    ],
+    "title": "Quantitative evaluation of the roles of ocean chemistry and climate on ooid size across the Phanerozoic: Global versus local controls",
+    "publicationDate": "2022-04-20",
+    "year": 2022,
+    "venue": "Sedimentology",
+    "citations": 28,
+    "fwci": 14.5533,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research",
+      "Cephalopods and Marine Biology"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Stanford University",
+      "University of Colorado Boulder",
+      "Environmental and Water Resources Engineering",
+      "Trinity University",
+      "University of Ferrara"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4281570153",
     "doi": "https://doi.org/10.1016/j.petrol.2022.110681",
     "program": "",
@@ -114699,52 +114950,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4224245468",
-    "doi": "https://doi.org/10.1111/sed.12998",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5020208666",
-      "A5065331857",
-      "A5013088513",
-      "A5058862006",
-      "A5088439801",
-      "A5085007251",
-      "A5061005201"
-    ],
-    "firstAuthorLastName": "Koeshidayatullah",
-    "allAuthors": [
-      "Ardiansyah Koeshidayatullah",
-      "Elizabeth J. Trower",
-      "Xiaowei Li",
-      "Tapan Mukerji",
-      "Daniel J. Lehrmann",
-      "Michele Morsilli",
-      "Khalid Al‐Ramadan",
-      "Jonathan L. Payne"
-    ],
-    "title": "Quantitative evaluation of the roles of ocean chemistry and climate on ooid size across the Phanerozoic: Global versus local controls",
-    "publicationDate": "2022-04-20",
-    "year": 2022,
-    "venue": "Sedimentology",
-    "citations": 27,
-    "fwci": 14.5212,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Marine Biology and Ecology Research",
-      "Cephalopods and Marine Biology"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Stanford University",
-      "University of Colorado Boulder",
-      "Environmental and Water Resources Engineering",
-      "Trinity University",
-      "University of Ferrara"
     ]
   },
   {
@@ -117243,8 +117448,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-01-07",
     "year": 2019,
     "venue": "Extremophiles",
-    "citations": 58,
-    "fwci": 9.9498,
+    "citations": 59,
+    "fwci": 9.9705,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -117294,6 +117499,44 @@ export const worksTable: WorkTableRecord[] = [
       "University of Bradford",
       "Qatar University",
       "Charles University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3129310095",
+    "doi": "https://doi.org/10.3390/en14041178",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5091672367",
+      "A5108134441",
+      "A5075463735",
+      "A5108637705",
+      "A5069459556"
+    ],
+    "firstAuthorLastName": "Aboobacker",
+    "allAuthors": [
+      "V. M. Aboobacker",
+      "P. R. Shanas",
+      "S. Veerasingam",
+      "Ebrahim M.A.S. Al-Ansari",
+      "Fadhil Sadooni",
+      "P. Vethamony"
+    ],
+    "title": "Long-Term Assessment of Onshore and Offshore Wind Energy Potentials of Qatar",
+    "publicationDate": "2021-02-23",
+    "year": 2021,
+    "venue": "Energies",
+    "citations": 46,
+    "fwci": 39.4076,
+    "topics": [
+      "Wind Energy Research and Development",
+      "Climate variability and models",
+      "Energy Load and Power Forecasting"
+    ],
+    "institutions": [
+      "Qatar University",
+      "National Institute of Oceanography"
     ]
   },
   {
@@ -117531,8 +117774,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-09-24",
     "year": 2015,
     "venue": "Carbonates and Evaporites",
-    "citations": 68,
-    "fwci": 4.9022,
+    "citations": 69,
+    "fwci": 4.9094,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -117569,44 +117812,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W3129310095",
-    "doi": "https://doi.org/10.3390/en14041178",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5091672367",
-      "A5108134441",
-      "A5075463735",
-      "A5108637705",
-      "A5069459556"
-    ],
-    "firstAuthorLastName": "Aboobacker",
-    "allAuthors": [
-      "V. M. Aboobacker",
-      "P. R. Shanas",
-      "S. Veerasingam",
-      "Ebrahim M.A.S. Al-Ansari",
-      "Fadhil Sadooni",
-      "P. Vethamony"
-    ],
-    "title": "Long-Term Assessment of Onshore and Offshore Wind Energy Potentials of Qatar",
-    "publicationDate": "2021-02-23",
-    "year": 2021,
-    "venue": "Energies",
-    "citations": 45,
-    "fwci": 37.2678,
-    "topics": [
-      "Wind Energy Research and Development",
-      "Climate variability and models",
-      "Energy Load and Power Forecasting"
-    ],
-    "institutions": [
-      "Qatar University",
-      "National Institute of Oceanography"
-    ]
   },
   {
     "workId": "https://openalex.org/W4205176598",
@@ -121644,8 +121849,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-10",
     "year": 2023,
     "venue": "Earth-Science Reviews",
-    "citations": 73,
-    "fwci": 8.9901,
+    "citations": 74,
+    "fwci": 9.0527,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Reservoir Engineering and Simulation Methods",
@@ -122151,8 +122356,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-01-01",
     "year": 2024,
     "venue": "Bulletin de la Société Géologique de France",
-    "citations": 12,
-    "fwci": 35.1491,
+    "citations": 13,
+    "fwci": 37.7622,
     "topics": [
       "Maritime and Coastal Archaeology",
       "Marine and environmental studies",
@@ -124386,8 +124591,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-02-02",
     "year": 2017,
     "venue": "Frontiers in Environmental Science",
-    "citations": 63,
-    "fwci": 4.3166,
+    "citations": 64,
+    "fwci": 4.34,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Paleontology and Stratigraphy of Fossils",
@@ -124653,8 +124858,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-03-09",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 45,
-    "fwci": 6.3612,
+    "citations": 46,
+    "fwci": 6.4767,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -124729,8 +124934,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-03-18",
     "year": 2020,
     "venue": "Geology",
-    "citations": 39,
-    "fwci": 2.8692,
+    "citations": 40,
+    "fwci": 2.8747,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -124767,8 +124972,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-06",
     "year": 2019,
     "venue": "Petroleum Geoscience",
-    "citations": 35,
-    "fwci": 1.642,
+    "citations": 36,
+    "fwci": 1.6466,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -124879,8 +125084,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-01-31",
     "year": 2023,
     "venue": "Sedimentology",
-    "citations": 15,
-    "fwci": 2.5412,
+    "citations": 16,
+    "fwci": 2.6739,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -124892,6 +125097,39 @@ export const worksTable: WorkTableRecord[] = [
       "British Geological Survey",
       "Middlesex University",
       "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4402100667",
+    "doi": "https://doi.org/10.1016/j.fuel.2024.132923",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5106908772",
+      "A5074883327",
+      "A5059738250"
+    ],
+    "firstAuthorLastName": "Gaduwang",
+    "allAuthors": [
+      "Adamu Kimayim Gaduwang",
+      "Bassam Tawabini",
+      "Israa S. Abu‐Mahfouz",
+      "Ahmed Al‐Yaseri"
+    ],
+    "title": "Assessing hydrogen production potential from carbonate and shale source rocks: A geochemical investigation",
+    "publicationDate": "2024-09-01",
+    "year": 2024,
+    "venue": "Fuel",
+    "citations": 16,
+    "fwci": 4.2752,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -124928,39 +125166,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Abdullah University of Science and Technology",
       "RWTH Aachen University",
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4402100667",
-    "doi": "https://doi.org/10.1016/j.fuel.2024.132923",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5106908772",
-      "A5074883327",
-      "A5059738250"
-    ],
-    "firstAuthorLastName": "Gaduwang",
-    "allAuthors": [
-      "Adamu Kimayim Gaduwang",
-      "Bassam Tawabini",
-      "Israa S. Abu‐Mahfouz",
-      "Ahmed Al‐Yaseri"
-    ],
-    "title": "Assessing hydrogen production potential from carbonate and shale source rocks: A geochemical investigation",
-    "publicationDate": "2024-09-01",
-    "year": 2024,
-    "venue": "Fuel",
-    "citations": 15,
-    "fwci": 4.1073,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -125417,8 +125622,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-05-08",
     "year": 2025,
     "venue": "Scientific Reports",
-    "citations": 7,
-    "fwci": 6.4147,
+    "citations": 8,
+    "fwci": 6.7624,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -125463,6 +125668,47 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4400874350",
+    "doi": "https://doi.org/10.1007/s00531-024-02444-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5104938097",
+      "A5081528176",
+      "A5040073807",
+      "A5077066922",
+      "A5058223208",
+      "A5013824559"
+    ],
+    "firstAuthorLastName": "Klaver",
+    "allAuthors": [
+      "J. Klaver",
+      "Sebastian Grohmann",
+      "Garri Gaus",
+      "Israa S. Abu‐Mahfouz",
+      "Tadeusz W. Patzek",
+      "Volker Vahrenkamp",
+      "János L. Urai"
+    ],
+    "title": "Microstructural BIB-SEM investigation of Upper Cretaceous Jordanian carbonate-rich oil shales bearing type II-S kerogen",
+    "publicationDate": "2024-07-22",
+    "year": 2024,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 5,
+    "fwci": 1.336,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Petroleum Processing and Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "RWTH Aachen University",
+      "King Fahd University of Petroleum and Minerals",
+      "King Abdullah University of Science and Technology"
     ]
   },
   {
@@ -125544,47 +125790,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4400874350",
-    "doi": "https://doi.org/10.1007/s00531-024-02444-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5104938097",
-      "A5081528176",
-      "A5040073807",
-      "A5077066922",
-      "A5058223208",
-      "A5013824559"
-    ],
-    "firstAuthorLastName": "Klaver",
-    "allAuthors": [
-      "J. Klaver",
-      "Sebastian Grohmann",
-      "Garri Gaus",
-      "Israa S. Abu‐Mahfouz",
-      "Tadeusz W. Patzek",
-      "Volker Vahrenkamp",
-      "János L. Urai"
-    ],
-    "title": "Microstructural BIB-SEM investigation of Upper Cretaceous Jordanian carbonate-rich oil shales bearing type II-S kerogen",
-    "publicationDate": "2024-07-22",
-    "year": 2024,
-    "venue": "International Journal of Earth Sciences",
-    "citations": 4,
-    "fwci": 1.098,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Petroleum Processing and Analysis",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "RWTH Aachen University",
-      "King Fahd University of Petroleum and Minerals",
-      "King Abdullah University of Science and Technology"
     ]
   },
   {
@@ -125754,6 +125959,42 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (United States)",
       "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4415216698",
+    "doi": "https://doi.org/10.1021/acsomega.5c01727",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5008926507",
+      "A5040442889",
+      "A5094009312"
+    ],
+    "firstAuthorLastName": "Makhlouf",
+    "allAuthors": [
+      "Issa M. Makhlouf",
+      "Khalil Ibrahim",
+      "Samer Aljurf",
+      "Israa S. Abu‐Mahfouz"
+    ],
+    "title": "Geochemical Indicators of Organic Matter Combustion Governed by Pyrometamorphism in Columnar-Jointed Carbonate Source Rocks",
+    "publicationDate": "2025-10-15",
+    "year": 2025,
+    "venue": "ACS Omega",
+    "citations": 1,
+    "fwci": 0.8453,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Coal Properties and Utilization",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": [
+      "Hashemite University",
+      "Department of Chemistry and Earth Sciences",
+      "King Fahd University of Petroleum and Minerals",
+      "Centre de Géosciences"
     ]
   },
   {
@@ -126587,42 +126828,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4415216698",
-    "doi": "https://doi.org/10.1021/acsomega.5c01727",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5008926507",
-      "A5040442889",
-      "A5094009312"
-    ],
-    "firstAuthorLastName": "Makhlouf",
-    "allAuthors": [
-      "Issa M. Makhlouf",
-      "Khalil Ibrahim",
-      "Samer Aljurf",
-      "Israa S. Abu‐Mahfouz"
-    ],
-    "title": "Geochemical Indicators of Organic Matter Combustion Governed by Pyrometamorphism in Columnar-Jointed Carbonate Source Rocks",
-    "publicationDate": "2025-10-15",
-    "year": 2025,
-    "venue": "ACS Omega",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Coal Properties and Utilization",
-      "Atmospheric and Environmental Gas Dynamics"
-    ],
-    "institutions": [
-      "Hashemite University",
-      "Department of Chemistry and Earth Sciences",
-      "King Fahd University of Petroleum and Minerals",
-      "Centre de Géosciences"
     ]
   },
   {
@@ -131221,7 +131426,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 13,
-    "fwci": 3.233,
+    "fwci": 3.2332,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -133534,8 +133739,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 702,
-    "fwci": 13.475,
+    "citations": 703,
+    "fwci": 13.5101,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -134894,6 +135099,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4387747437",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106532",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5086485606",
+    "allAuthorOpenAlexIds": [
+      "A5086485606",
+      "A5030077657",
+      "A5064747506",
+      "A5061306034",
+      "A5078667376",
+      "A5016147794",
+      "A5058223208"
+    ],
+    "firstAuthorLastName": "Panara",
+    "allAuthors": [
+      "Yuri Panara",
+      "Viswasanthi Chandra",
+      "Thomas Finkbeiner",
+      "Alexander Petrovic",
+      "Rainer Zühlke",
+      "Pankaj Khanna",
+      "Volker Vahrenkamp"
+    ],
+    "title": "Fracture intensity and associated variability: A new methodology for 3D digital outcrop model analysis of carbonate reservoirs",
+    "publicationDate": "2023-10-18",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 20,
+    "fwci": 8.042,
+    "topics": [
+      "3D Surveying and Cultural Heritage",
+      "Geological Modeling and Analysis",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "Saudi Aramco (Saudi Arabia)",
+      "Indian Institute of Technology Gandhinagar"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2008659547",
     "doi": "https://doi.org/10.1007/bf02539736",
     "program": "",
@@ -135162,47 +135408,6 @@ export const worksTable: WorkTableRecord[] = [
       "earthquake and tectonic studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4387747437",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106532",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5086485606",
-    "allAuthorOpenAlexIds": [
-      "A5086485606",
-      "A5030077657",
-      "A5064747506",
-      "A5061306034",
-      "A5078667376",
-      "A5016147794",
-      "A5058223208"
-    ],
-    "firstAuthorLastName": "Panara",
-    "allAuthors": [
-      "Yuri Panara",
-      "Viswasanthi Chandra",
-      "Thomas Finkbeiner",
-      "Alexander Petrovic",
-      "Rainer Zühlke",
-      "Pankaj Khanna",
-      "Volker Vahrenkamp"
-    ],
-    "title": "Fracture intensity and associated variability: A new methodology for 3D digital outcrop model analysis of carbonate reservoirs",
-    "publicationDate": "2023-10-18",
-    "year": 2023,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 19,
-    "fwci": 7.6722,
-    "topics": [
-      "3D Surveying and Cultural Heritage",
-      "Geological Modeling and Analysis",
-      "Seismic Imaging and Inversion Techniques"
-    ],
-    "institutions": [
-      "King Abdullah University of Science and Technology",
-      "Saudi Aramco (Saudi Arabia)",
-      "Indian Institute of Technology Gandhinagar"
-    ]
   },
   {
     "workId": "https://openalex.org/W4376879793",
@@ -138169,8 +138374,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-02-20",
     "year": 2010,
     "venue": "Earth-Science Reviews",
-    "citations": 687,
-    "fwci": 19.8537,
+    "citations": 688,
+    "fwci": 19.9407,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -138417,6 +138622,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2013617939",
+    "doi": "https://doi.org/10.1007/s00531-009-0427-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5072203156",
+      "A5035240990",
+      "A5088101750",
+      "A5056577179"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Kamal A. Ali",
+      "Robert J. Stern",
+      "William I. Manton",
+      "Peter R. Johnson",
+      "Sumit K. Mukherjee"
+    ],
+    "title": "Neoproterozoic diamictite in the Eastern Desert of Egypt and Northern Saudi Arabia: evidence of ~750 Ma glaciation in the Arabian–Nubian Shield?",
+    "publicationDate": "2009-02-25",
+    "year": 2009,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 95,
+    "fwci": 4.2781,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Johnson & Johnson (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2952598493",
     "doi": "https://doi.org/10.1016/j.gr.2019.06.002",
     "program": "",
@@ -138451,42 +138692,6 @@ export const worksTable: WorkTableRecord[] = [
       "Wild Salmon Center",
       "China University of Geosciences (Beijing)",
       "Ludwig-Maximilians-Universität München"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2013617939",
-    "doi": "https://doi.org/10.1007/s00531-009-0427-3",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103098706",
-    "allAuthorOpenAlexIds": [
-      "A5103098706",
-      "A5072203156",
-      "A5035240990",
-      "A5088101750",
-      "A5056577179"
-    ],
-    "firstAuthorLastName": "Ali",
-    "allAuthors": [
-      "Kamal A. Ali",
-      "Robert J. Stern",
-      "William I. Manton",
-      "Peter R. Johnson",
-      "Sumit K. Mukherjee"
-    ],
-    "title": "Neoproterozoic diamictite in the Eastern Desert of Egypt and Northern Saudi Arabia: evidence of ~750 Ma glaciation in the Arabian–Nubian Shield?",
-    "publicationDate": "2009-02-25",
-    "year": 2009,
-    "venue": "International Journal of Earth Sciences",
-    "citations": 94,
-    "fwci": 4.2512,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "The University of Texas at Dallas",
-      "Johnson & Johnson (United States)"
     ]
   },
   {
@@ -138987,8 +139192,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-10-17",
     "year": 2017,
     "venue": "International Geology Review",
-    "citations": 34,
-    "fwci": 1.361,
+    "citations": 35,
+    "fwci": 1.3678,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
