@@ -10,10 +10,10 @@
       "Septriandi Asmaidi Chan",
       "Septriandi Chan"
     ],
-    "works_count": 35,
-    "cited_by_count": 473,
+    "works_count": 34,
+    "cited_by_count": 457,
     "summary_stats": {
-      "2yr_mean_citedness": 1.1666666666666667,
+      "2yr_mean_citedness": 0.4,
       "h_index": 9,
       "i10_index": 8
     },
@@ -120,7 +120,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 18,
+        "count": 17,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "count": 7,
+        "count": 6,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "count": 7,
+        "count": 6,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -205,26 +205,9 @@
     ],
     "topic_share": [
       {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000392,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000381,
+        "value": 0.000039,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -239,9 +222,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000383,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000355,
+        "value": 0.0000366,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -258,7 +258,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0000252,
+        "value": 0.0000231,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -273,16 +273,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.000022,
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.0000213,
         "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -333,7 +333,7 @@
         "year": 2005,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 282
+        "cited_by_count": 276
       },
       {
         "year": 2006,
@@ -351,7 +351,7 @@
         "year": 2016,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 48
+        "cited_by_count": 46
       },
       {
         "year": 2017,
@@ -381,13 +381,13 @@
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 41
+        "cited_by_count": 40
       },
       {
         "year": 2022,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 44
+        "cited_by_count": 42
       },
       {
         "year": 2023,
@@ -397,9 +397,9 @@
       },
       {
         "year": 2024,
-        "works_count": 2,
-        "oa_works_count": 1,
-        "cited_by_count": 5
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 0
       },
       {
         "year": 2025,
@@ -424,7 +424,7 @@
     },
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-03-28T12:21:36",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -969,9 +969,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1643,9 +1643,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3752,9 +3752,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Decent work and economic growth",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -4508,9 +4508,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5853,9 +5853,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8409,9 +8409,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10615,9 +10615,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -15159,9 +15159,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -15634,9 +15634,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16590,9 +16590,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -17320,11 +17320,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7216,
+      "fwci": 2.8844,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.87654321,
+        "value": 0.88314607,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17516,7 +17516,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1201/noe0415415866.ch116",
@@ -17531,14 +17531,68 @@
           "is_published": true,
           "raw_source_name": "Physical Modelling in Geotechnics",
           "raw_type": "book-chapter"
+        },
+        {
+          "id": "pmh:oai:scholarbank.nus.edu.sg:10635/74074",
+          "is_oa": false,
+          "landing_page_url": "http://scholarbank.nus.edu.sg/handle/10635/74074",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407052290",
+            "display_name": "National University of Singapore",
+            "issn_l": null,
+            "issn": [],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scopus",
+          "raw_type": "Conference Paper"
+        },
+        {
+          "id": "pmh:oai:scholarbank.nus.edu.sg:10635/74075",
+          "is_oa": false,
+          "landing_page_url": "http://scholarbank.nus.edu.sg/handle/10635/74075",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407052290",
+            "display_name": "National University of Singapore",
+            "issn_l": null,
+            "issn": [],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scopus",
+          "raw_type": "Conference Paper"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -17573,292 +17627,55 @@
         "https://openalex.org/W2003210706"
       ],
       "abstract_inverted_index": {
-        "Piles": [
-          0
-        ],
-        "are": [
-          1,
-          12,
-          18,
-          100
-        ],
-        "installed": [
-          2,
-          13
-        ],
-        "to": [
-          3,
-          21,
-          65,
-          79,
-          102,
-          109
-        ],
-        "support": [
-          4
-        ],
-        "superstructure": [
-          5
-        ],
-        "loading": [
-          6
-        ],
-        "in": [
-          7,
+        "Physical": [
+          0,
           14
         ],
-        "field.": [
-          8
-        ],
-        "If": [
-          9
-        ],
-        "pile": [
-          10,
-          53,
-          62,
-          86
-        ],
-        "foundations": [
-          11
-        ],
-        "consolidating": [
+        "Modelling": [
+          1,
           15
         ],
-        "ground,": [
+        "in": [
+          2,
           16
         ],
-        "they": [
-          17
+        "Geotechnics,": [
+          3
         ],
-        "normally": [
-          19
+        "6th": [
+          4,
+          10
         ],
-        "subjected": [
-          20,
-          108
+        "ICPMG'06": [
+          5
         ],
-        "axial": [
-          22,
-          50,
-          91,
-          117
+        "-": [
+          6
         ],
-        "loads": [
-          23,
-          69
-        ],
-        "and": [
-          24,
-          113
-        ],
-        "NSF": [
-          25,
-          56,
-          58,
-          110
-        ],
-        "simultaneously.": [
-          26
-        ],
-        "Relatively": [
-          27
-        ],
-        "lit-": [
-          28
-        ],
-        "tle": [
-          29
-        ],
-        "research": [
-          30
-        ],
-        "has": [
-          31,
-          76
-        ],
-        "been": [
-          32,
-          77
-        ],
-        "done": [
-          33
-        ],
-        "on": [
-          34,
-          47,
-          52,
-          61,
-          70
-        ],
-        "the": [
-          35
-        ],
-        "load": [
-          36
-        ],
-        "transfer": [
-          37
-        ],
-        "mechanism": [
-          38
+        "Proceedings": [
+          7
         ],
         "of": [
-          39,
-          49,
-          67,
-          105,
-          116
+          8
         ],
-        "piles": [
-          40,
-          107
+        "the": [
+          9
         ],
-        "with": [
-          41
+        "International": [
+          11
         ],
-        "locked-in": [
-          42
+        "Conference": [
+          12
         ],
-        "negative": [
-          43
+        "on": [
+          13
         ],
-        "skin": [
-          44
-        ],
-        "friction": [
-          45
-        ],
-        "(NSF)": [
-          46
-        ],
-        "application": [
-          48,
-          66,
-          115
-        ],
-        "force": [
-          51
-        ],
-        "heads.": [
-          54
-        ],
-        "Locked-in": [
-          55
-        ],
-        "is": [
-          57,
-          59
-        ],
-        "developed": [
-          60
-        ],
-        "shaft": [
-          63
-        ],
-        "prior": [
-          64
-        ],
-        "external": [
-          68
-        ],
-        "pile.": [
-          71
-        ],
-        "In": [
-          72,
-          93
-        ],
-        "addition,": [
-          73
-        ],
-        "less": [
-          74
-        ],
-        "attention": [
-          75
-        ],
-        "paid": [
-          78
-        ],
-        "serviceability": [
-          80
-        ],
-        "limit": [
-          81
-        ],
-        "states": [
-          82
-        ],
-        "such": [
-          83
-        ],
-        "as": [
-          84
-        ],
-        "additional": [
-          85
-        ],
-        "head": [
-          87
-        ],
-        "settlement": [
-          88
-        ],
-        "induced": [
-          89
-        ],
-        "by": [
-          90
-        ],
-        "loads.": [
-          92
-        ],
-        "this": [
-          94
-        ],
-        "paper,": [
-          95
-        ],
-        "three": [
-          96
-        ],
-        "centrifuge": [
-          97
-        ],
-        "model": [
-          98
-        ],
-        "tests": [
-          99
-        ],
-        "reported": [
-          101
-        ],
-        "investigate": [
-          103
-        ],
-        "behavior": [
-          104
-        ],
-        "floating": [
-          106
-        ],
-        "both": [
-          111
-        ],
-        "before": [
-          112
-        ],
-        "after": [
-          114
-        ],
-        "load.": [
-          118
+        "Geotechnics": [
+          17
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19237,9 +19054,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20930,9 +20747,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -22025,9 +21842,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23536,9 +23353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],

@@ -8,12 +8,12 @@
       "Muhammad Hammad Malik",
       "Muhammad Hamza. Malik"
     ],
-    "works_count": 21,
-    "cited_by_count": 270,
+    "works_count": 20,
+    "cited_by_count": 255,
     "summary_stats": {
       "2yr_mean_citedness": 2.375,
       "h_index": 8,
-      "i10_index": 7
+      "i10_index": 6
     },
     "ids": {
       "openalex": "https://openalex.org/A5009697450",
@@ -71,23 +71,6 @@
     ],
     "topics": [
       {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 11,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
         "count": 10,
@@ -98,6 +81,23 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "count": 10,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -124,7 +124,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 8,
+        "count": 7,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -160,7 +160,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000421,
+        "value": 0.0000434,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000394,
+        "value": 0.0000407,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000287,
+        "value": 0.0000258,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000024,
+        "value": 0.0000226,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T14160",
         "display_name": "Water management and technologies",
-        "value": 0.0000196,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/1105",
           "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -248,7 +248,7 @@
         "id": "127313418",
         "wikidata": "https://www.wikidata.org/wiki/Q1069",
         "display_name": "Geology",
-        "score": 0.9237001538276672
+        "score": 0.9224262237548828
       },
       {
         "id": "151730666",
@@ -266,7 +266,7 @@
         "id": "17409809",
         "wikidata": "https://www.wikidata.org/wiki/Q161764",
         "display_name": "Geochemistry",
-        "score": 0.6338738203048706
+        "score": 0.6169143915176392
       },
       {
         "id": "6494504",
@@ -292,19 +292,19 @@
         "year": 2021,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 134
+        "cited_by_count": 132
       },
       {
         "year": 2022,
         "works_count": 5,
         "oa_works_count": 3,
-        "cited_by_count": 45
+        "cited_by_count": 46
       },
       {
         "year": 2023,
-        "works_count": 3,
-        "oa_works_count": 1,
-        "cited_by_count": 48
+        "works_count": 2,
+        "oa_works_count": 0,
+        "cited_by_count": 34
       },
       {
         "year": 2024,
@@ -335,7 +335,7 @@
     },
     "block_key": "m malik",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5009697450",
-    "updated_date": "2026-04-02T12:24:06",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2018-01-26T00:00:00"
   },
   "works": [
@@ -1140,8 +1140,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -2527,8 +2527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -2968,11 +2968,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.54,
+      "fwci": 3.5475,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.93596829,
+        "value": 0.93612166,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3301,8 +3301,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -3414,7 +3414,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -3433,7 +3433,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-04-03T22:45:19.894376",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4056,8 +4056,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf"
@@ -5751,8 +5751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -7271,8 +7271,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 137,
@@ -7594,7 +7594,7 @@
           "author": {
             "id": "https://openalex.org/A5071555731",
             "display_name": "Sujit Biswas",
-            "orcid": "https://orcid.org/0000-0002-6770-9845"
+            "orcid": null
           },
           "institutions": [
             {
@@ -7666,7 +7666,7 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
+            "orcid": null
           },
           "institutions": [
             {
@@ -8070,16 +8070,16 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 2.1251,
+      "fwci": 2.1268,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.87854631,
+        "value": 0.87861966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 94,
         "max": 99
       },
       "biblio": {
@@ -8623,7 +8623,7 @@
           "is_major_topic": false
         }
       ],
-      "locations_count": 4,
+      "locations_count": 5,
       "locations": [
         {
           "id": "doi:10.1182/bloodadvances.2020002440",
@@ -8686,6 +8686,20 @@
           "is_accepted": true,
           "is_published": true,
           "raw_source_name": "Blood advances",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:ark:/13030/qt17871538",
+          "is_oa": false,
+          "landing_page_url": null,
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
           "raw_type": null
         },
         {
@@ -8791,8 +8805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3192702626.pdf",
@@ -9429,7 +9443,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9874,8 +9888,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11020,8 +11034,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -11530,8 +11544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12334,8 +12348,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -13036,8 +13050,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14189,8 +14203,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -14987,8 +15001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -15954,8 +15968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16918,8 +16932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17551,8 +17565,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18096,8 +18110,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19472,8 +19486,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -20981,8 +20995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22600,8 +22614,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,

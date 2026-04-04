@@ -8,8 +8,8 @@
       "R. Alouani",
       "Rabah Alouani"
     ],
-    "works_count": 19,
-    "cited_by_count": 196,
+    "works_count": 18,
+    "cited_by_count": 192,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -74,7 +74,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "count": 14,
+        "count": 13,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -125,7 +125,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "count": 4,
+        "count": 3,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001123,
+        "value": 0.0001056,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.000021,
+        "value": 0.0000213,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000154,
+        "value": 0.0000158,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T13404",
         "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0000137,
+        "value": 0.0000139,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T10033",
         "display_name": "Concrete and Cement Materials Research",
-        "value": 0.000013,
+        "value": 0.0000132,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -270,10 +270,10 @@
         "score": 0.593233048915863
       },
       {
-        "id": "192562407",
-        "wikidata": "https://www.wikidata.org/wiki/Q228736",
-        "display_name": "Materials science",
-        "score": 0.5586538314819336
+        "id": "199289684",
+        "wikidata": "https://www.wikidata.org/wiki/Q83353",
+        "display_name": "Mineralogy",
+        "score": 0.5700005888938904
       }
     ],
     "counts_by_year": [
@@ -317,7 +317,7 @@
         "year": 2010,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 50
+        "cited_by_count": 49
       },
       {
         "year": 2016,
@@ -335,7 +335,7 @@
         "year": 2021,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 6
+        "cited_by_count": 5
       },
       {
         "year": 2022,
@@ -345,9 +345,9 @@
       },
       {
         "year": 2023,
-        "works_count": 2,
+        "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 2
+        "cited_by_count": 0
       },
       {
         "year": 2025,
@@ -366,7 +366,7 @@
     },
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-03-31T12:23:23",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2077,9 +2077,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2757,9 +2757,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3821,9 +3821,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4343,9 +4343,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5699,9 +5699,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8299,9 +8299,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9284,9 +9284,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11123,9 +11123,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -11861,9 +11861,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12268,9 +12268,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14578,9 +14578,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

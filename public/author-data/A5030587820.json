@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000255,
+        "value": 0.0000258,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000154,
+        "value": 0.0000158,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000109,
+        "value": 0.0000113,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000091,
+        "value": 0.0000094,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000064,
+        "value": 0.0000068,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -352,7 +352,7 @@
     },
     "block_key": "c polo",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030587820",
-    "updated_date": "2026-03-04T12:21:33",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -879,16 +879,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -2229,11 +2229,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.4616,
+      "fwci": 14.4454,
       "has_fulltext": false,
       "cited_by_count": 117,
       "citation_normalized_percentile": {
-        "value": 0.99354839,
+        "value": 0.99355878,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2519,7 +2519,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/b978-0-444-53813-0.00027-7",
@@ -2554,6 +2554,35 @@
           "is_published": true,
           "raw_source_name": "Developments in Sedimentology",
           "raw_type": "book-chapter"
+        },
+        {
+          "id": "pmh:oai:espace.library.uq.edu.au:UQ:511119",
+          "is_oa": false,
+          "landing_page_url": null,
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402388",
+            "display_name": "Queensland's institutional digital repository (The University of Queensland)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I165143802",
+            "host_organization_name": "The University of Queensland",
+            "host_organization_lineage": [
+              "https://openalex.org/I165143802"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Book Chapter"
         }
       ],
       "best_oa_location": null,
@@ -2567,8 +2596,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -2713,7 +2742,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-01-17T23:10:49.606395",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3262,9 +3291,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3289,8 +3318,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -3792,16 +3821,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9984,
+      "fwci": 2.024,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.8465308,
+        "value": 0.84849531,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 94,
         "max": 97
       },
       "biblio": {
@@ -4089,7 +4118,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1080/10420940.2014.958224",
@@ -4125,21 +4154,50 @@
           "is_published": true,
           "raw_source_name": "Ichnos",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:espace.library.uq.edu.au:UQ:510523",
+          "is_oa": false,
+          "landing_page_url": null,
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402388",
+            "display_name": "Queensland's institutional digital repository (The University of Queensland)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I165143802",
+            "host_organization_name": "The University of Queensland",
+            "host_organization_lineage": [
+              "https://openalex.org/I165143802"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Journal Article"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -4806,7 +4864,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5365,8 +5423,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -6192,16 +6250,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -7593,16 +7651,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -10141,9 +10199,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4099999964237213
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10155,8 +10213,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -11069,16 +11127,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

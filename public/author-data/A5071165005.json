@@ -8,11 +8,11 @@
       "Rayan Kanfar"
     ],
     "works_count": 8,
-    "cited_by_count": 92,
+    "cited_by_count": 87,
     "summary_stats": {
-      "2yr_mean_citedness": 4.5,
+      "2yr_mean_citedness": 4.25,
       "h_index": 4,
-      "i10_index": 3
+      "i10_index": 2
     },
     "ids": {
       "openalex": "https://openalex.org/A5071165005",
@@ -197,7 +197,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.000021,
+        "value": 0.0000213,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -214,7 +214,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000207,
+        "value": 0.0000212,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000128,
+        "value": 0.0000136,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -248,7 +248,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000117,
+        "value": 0.0000122,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -265,7 +265,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0000108,
+        "value": 0.0000116,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -323,13 +323,13 @@
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 17
+        "cited_by_count": 13
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 16
+        "cited_by_count": 15
       },
       {
         "year": 2025,
@@ -348,7 +348,7 @@
     },
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
-    "updated_date": "2026-03-27T12:23:52",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -677,11 +677,11 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 3.3355,
+      "fwci": 3.4625,
       "has_fulltext": false,
-      "cited_by_count": 16,
+      "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.9260248,
+        "value": 0.93032409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -849,16 +849,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -932,7 +932,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -943,7 +943,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-24T08:02:53.985720",
+      "updated_date": "2026-04-04T08:04:53.788161",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1553,16 +1553,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -2683,9 +2683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Decent work and economic growth",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -2697,8 +2697,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -3339,8 +3339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -4306,16 +4306,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5205,8 +5205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -5892,8 +5892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -7086,8 +7086,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,

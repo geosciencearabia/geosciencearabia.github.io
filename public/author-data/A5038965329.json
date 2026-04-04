@@ -11,7 +11,7 @@
       "Vaslet, Denis"
     ],
     "works_count": 40,
-    "cited_by_count": 1059,
+    "cited_by_count": 1043,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 18,
@@ -182,7 +182,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001054,
+        "value": 0.0001085,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -199,7 +199,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000625,
+        "value": 0.0000635,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -216,7 +216,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000561,
+        "value": 0.0000569,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000434,
+        "value": 0.0000447,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000323,
+        "value": 0.0000332,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -314,13 +314,13 @@
         "year": 1990,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 80
+        "cited_by_count": 79
       },
       {
         "year": 1996,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 64
+        "cited_by_count": 63
       },
       {
         "year": 1997,
@@ -344,7 +344,7 @@
         "year": 2001,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 68
+        "cited_by_count": 66
       },
       {
         "year": 2002,
@@ -356,19 +356,19 @@
         "year": 2003,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 157
+        "cited_by_count": 153
       },
       {
         "year": 2004,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 20
+        "cited_by_count": 19
       },
       {
         "year": 2005,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 219
+        "cited_by_count": 216
       },
       {
         "year": 2006,
@@ -386,19 +386,19 @@
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 78
+        "cited_by_count": 76
       },
       {
         "year": 2010,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 6
       },
       {
         "year": 2012,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 3
       },
       {
         "year": 2023,
@@ -417,10 +417,1585 @@
     },
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-04-02T12:24:06",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
+    {
+      "id": "https://openalex.org/W2035689687",
+      "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+      "title": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
+      "display_name": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
+      "publication_year": 2003,
+      "publication_date": "2003-06-30",
+      "ids": {
+        "openalex": "https://openalex.org/W2035689687",
+        "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+        "mag": "2035689687"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s0031-0182(03)00313-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S159210951",
+          "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
+          "issn_l": "0031-0182",
+          "issn": [
+            "0031-0182",
+            "1872-616X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052512742",
+            "display_name": "Alain Izart",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Alain Izart",
+          "raw_affiliation_strings": [
+            "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066761626",
+            "display_name": "Randell Stephenson",
+            "orcid": "https://orcid.org/0000-0003-4868-8601"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I865915315",
+              "display_name": "Vrije Universiteit Amsterdam",
+              "ror": "https://ror.org/008xxew50",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I865915315"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Randell Stephenson",
+          "raw_affiliation_strings": [
+            "Netherlands Research School of Sedimentary Geology, Vrije Universiteit, Amsterdam, The Netherlands"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Netherlands Research School of Sedimentary Geology, Vrije Universiteit, Amsterdam, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I865915315"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030444809",
+            "display_name": "Gian Battista Vai",
+            "orcid": "https://orcid.org/0000-0003-2981-6655"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210133988",
+              "display_name": "Bologna Research Area",
+              "ror": "https://ror.org/03v4rcp75",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210133988",
+                "https://openalex.org/I4210155236"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210146975",
+              "display_name": "Zambon (Italy)",
+              "ror": "https://ror.org/04zzq8d03",
+              "country_code": "IT",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210146975"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gian Battista Vai",
+          "raw_affiliation_strings": [
+            "Dipartimento Scienze Geologiche, Via Zamboni 67, I-40127 Bologna, Italy"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento Scienze Geologiche, Via Zamboni 67, I-40127 Bologna, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210133988",
+                "https://openalex.org/I4210146975"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022478113",
+            "display_name": "Daniel Vachard",
+            "orcid": "https://orcid.org/0000-0003-1680-3767"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Vachard",
+          "raw_affiliation_strings": [
+            "Laboratoire de Paléontologie, Université des Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeveuve d’Ascq cedex, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Paléontologie, Université des Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeveuve d’Ascq cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073888691",
+            "display_name": "Yves Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves Le Nindre",
+          "raw_affiliation_strings": [
+            "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017562672",
+            "display_name": "Pierre-Jean Fauvel",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pierre-Jean Fauvel",
+          "raw_affiliation_strings": [
+            "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041538995",
+            "display_name": "Peter Süss",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135140700",
+              "display_name": "University of Bonn",
+              "ror": "https://ror.org/041nas322",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I135140700"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Süss",
+          "raw_affiliation_strings": [
+            "Geologisches Institut der Universität Bonn, Nussallee 8, 53115 Bonn, Germany"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geologisches Institut der Universität Bonn, Nussallee 8, 53115 Bonn, Germany",
+              "institution_ids": [
+                "https://openalex.org/I135140700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000986346",
+            "display_name": "Olga L. Kossovaya",
+            "orcid": "https://orcid.org/0000-0002-3893-9940"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210151966",
+              "display_name": "A.P. Karpinsky Russian Geological Research Institute",
+              "ror": "https://ror.org/04s87ky63",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210151966"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Olga Kossovaya",
+          "raw_affiliation_strings": [
+            "VSEGEI, 74 pr. Sredny, Saint Petersburg, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "VSEGEI, 74 pr. Sredny, Saint Petersburg, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210151966"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062385838",
+            "display_name": "Zhong‐Qiang Chen",
+            "orcid": "https://orcid.org/0000-0001-5341-6913"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210103797",
+              "display_name": "Nanjing Institute of Geology and Paleontology",
+              "ror": "https://ror.org/019av8481",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210103797"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zhongquiang Chen",
+          "raw_affiliation_strings": [
+            "Nanjing Institute of Geology and Palaeontology, Academia Sinica, Nanjing 210008, PR China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Nanjing Institute of Geology and Palaeontology, Academia Sinica, Nanjing 210008, PR China",
+              "institution_ids": [
+                "https://openalex.org/I4210103797"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112438342",
+            "display_name": "Alexander Maslo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I149851306",
+              "display_name": "National Academy of Sciences of Ukraine",
+              "ror": "https://ror.org/00je4t102",
+              "country_code": "UA",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I149851306"
+              ]
+            }
+          ],
+          "countries": [
+            "UA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Maslo",
+          "raw_affiliation_strings": [
+            "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov Street, 252601 Kiev, Ukraine"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov Street, 252601 Kiev, Ukraine",
+              "institution_ids": [
+                "https://openalex.org/I149851306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5062723574",
+            "display_name": "S. Stovba",
+            "orcid": "https://orcid.org/0000-0002-1708-5122"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Serguei Stovba",
+          "raw_affiliation_strings": [
+            "Ukrgeofyzika, Zapadinskaja Street, Kiev, Ukraine"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ukrgeofyzika, Zapadinskaja Street, Kiev, Ukraine",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 7,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052512742"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590"
+      ],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 4.9386,
+      "has_fulltext": false,
+      "cited_by_count": 69,
+      "citation_normalized_percentile": {
+        "value": 0.94509926,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "196",
+        "issue": "1-2",
+        "first_page": "59",
+        "last_page": "84"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.8389018177986145
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.8380106687545776
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8144899606704712
+        },
+        {
+          "id": "https://openalex.org/keywords/carboniferous",
+          "display_name": "Carboniferous",
+          "score": 0.804623544216156
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence",
+          "display_name": "Sequence (biology)",
+          "score": 0.6391135454177856
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-transgression",
+          "display_name": "Marine transgression",
+          "score": 0.6224149465560913
+        },
+        {
+          "id": "https://openalex.org/keywords/westphalian-sovereignty",
+          "display_name": "Westphalian sovereignty",
+          "score": 0.5680725574493408
+        },
+        {
+          "id": "https://openalex.org/keywords/glacial-period",
+          "display_name": "Glacial period",
+          "score": 0.48814448714256287
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "Sequence stratigraphy",
+          "score": 0.48517829179763794
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.3569129705429077
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.2519477605819702
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.8389018177986145
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.8380106687545776
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8144899606704712
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.804623544216156
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.6391135454177856
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.6224149465560913
+        },
+        {
+          "id": "https://openalex.org/C165730261",
+          "wikidata": "https://www.wikidata.org/wiki/Q442402",
+          "display_name": "Westphalian sovereignty",
+          "level": 4,
+          "score": 0.5680725574493408
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.48814448714256287
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.48517829179763794
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.3569129705429077
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.2519477605819702
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0031-0182(03)00313-4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S159210951",
+            "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
+            "issn_l": "0031-0182",
+            "issn": [
+              "0031-0182",
+              "1872-616X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:research.vu.nl:publications/f969c1d7-437f-4214-b6e0-a07077b75750",
+          "is_oa": false,
+          "landing_page_url": "https://research.vu.nl/en/publications/f969c1d7-437f-4214-b6e0-a07077b75750",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401107",
+            "display_name": "VU Research Portal",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I865915315",
+            "host_organization_name": "Vrije Universiteit Amsterdam",
+            "host_organization_lineage": [
+              "https://openalex.org/I865915315"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Izart, A, Stephenson, R A, Vai, G B, Vachard, D, Nindre le, Y, Vaslet, D, Fauvel, P J, Süss, P, Kossovaya, O, Chen, Z, Maslo, A & Stovba, S 2003, 'Sequence stratigraphy and correlation of the late carboniferous and Permian in CIS, Europe, Tethyan area, North Africa, China, Gondwanaland and USA.', Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 196, pp. 59-84. https://doi.org/10.1016/S0031-0182(03)00313-4",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:pure.atira.dk:publications/fbab7809-e941-40e6-91b5-fa846c1ec5e8",
+          "is_oa": false,
+          "landing_page_url": "https://research-repository.uwa.edu.au/en/publications/fbab7809-e941-40e6-91b5-fa846c1ec5e8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402523",
+            "display_name": "UWA Profiles and Research Repository (University of Western Australia)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I177877127",
+            "host_organization_name": "The University of Western Australia",
+            "host_organization_lineage": [
+              "https://openalex.org/I177877127"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Izart, A, Stephenson, R, Battista Vai, G, Vachard, D, Le Nindre, Y, Vaslet, D, Fauvel, P-J, S&uuml;ss, P, Kossovaya, O, Chen, Z, Maslo, A & Stovba, S 2003, 'Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA', Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 196, no. 1-2, pp. 59-84. https://doi.org/10.1016/S0031-0182(03)00313-4",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-04083355v1",
+          "is_oa": false,
+          "landing_page_url": "https://brgm.hal.science/hal-04083355",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology, 2003, 196 (1-2), pp.59-84. &#x27E8;10.1016/S0031-0182(03)00313-4&#x27E9;",
+          "raw_type": "Journal articles"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320970",
+          "display_name": "Deakin University",
+          "ror": "https://ror.org/02czsnj07"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 66,
+      "referenced_works": [
+        "https://openalex.org/W61519228",
+        "https://openalex.org/W139441292",
+        "https://openalex.org/W189968423",
+        "https://openalex.org/W577755460",
+        "https://openalex.org/W578079095",
+        "https://openalex.org/W599778758",
+        "https://openalex.org/W632421438",
+        "https://openalex.org/W643023914",
+        "https://openalex.org/W1518311132",
+        "https://openalex.org/W1530145554",
+        "https://openalex.org/W1551620839",
+        "https://openalex.org/W1584354900",
+        "https://openalex.org/W1655850266",
+        "https://openalex.org/W1886159846",
+        "https://openalex.org/W1968352936",
+        "https://openalex.org/W1970648143",
+        "https://openalex.org/W1988412720",
+        "https://openalex.org/W2003708109",
+        "https://openalex.org/W2020700198",
+        "https://openalex.org/W2033809032",
+        "https://openalex.org/W2034716029",
+        "https://openalex.org/W2052433423",
+        "https://openalex.org/W2056145827",
+        "https://openalex.org/W2069792062",
+        "https://openalex.org/W2081296107",
+        "https://openalex.org/W2086385676",
+        "https://openalex.org/W2097298259",
+        "https://openalex.org/W2100795447",
+        "https://openalex.org/W2102264361",
+        "https://openalex.org/W2128500185",
+        "https://openalex.org/W2133562679",
+        "https://openalex.org/W2138609232",
+        "https://openalex.org/W2140709095",
+        "https://openalex.org/W2142040561",
+        "https://openalex.org/W2153901413",
+        "https://openalex.org/W2187045719",
+        "https://openalex.org/W2199765860",
+        "https://openalex.org/W2217680046",
+        "https://openalex.org/W2253479393",
+        "https://openalex.org/W2256069291",
+        "https://openalex.org/W2400644767",
+        "https://openalex.org/W2466367581",
+        "https://openalex.org/W2468027944",
+        "https://openalex.org/W2478006830",
+        "https://openalex.org/W2507094734",
+        "https://openalex.org/W2509677649",
+        "https://openalex.org/W2515427009",
+        "https://openalex.org/W2519080896",
+        "https://openalex.org/W2521252747",
+        "https://openalex.org/W2566470046",
+        "https://openalex.org/W2580733176",
+        "https://openalex.org/W2584764882",
+        "https://openalex.org/W2613066620",
+        "https://openalex.org/W2725731334",
+        "https://openalex.org/W3158819313",
+        "https://openalex.org/W4206289463",
+        "https://openalex.org/W4243719581",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6605718462",
+        "https://openalex.org/W6632970243",
+        "https://openalex.org/W6671936045",
+        "https://openalex.org/W6719759929",
+        "https://openalex.org/W6720590071",
+        "https://openalex.org/W6731569188",
+        "https://openalex.org/W6739909656",
+        "https://openalex.org/W6794374269"
+      ],
+      "related_works": [
+        "https://openalex.org/W159956167",
+        "https://openalex.org/W1973082154",
+        "https://openalex.org/W2554373275",
+        "https://openalex.org/W2376608677",
+        "https://openalex.org/W4299358802",
+        "https://openalex.org/W2154911572",
+        "https://openalex.org/W3048494923",
+        "https://openalex.org/W2037978587",
+        "https://openalex.org/W2115553749",
+        "https://openalex.org/W2500660166"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-04-01T17:29:45.350535",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1968584894",
+      "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
+      "title": "Le Jurassique d'arabie saoudite centrale: Nouvellesdonnées sur la lithostratigraphie, les paléoenvironnements, les faunes d'Ammonites, les âges et les corrélations",
+      "display_name": "Le Jurassique d'arabie saoudite centrale: Nouvellesdonnées sur la lithostratigraphie, les paléoenvironnements, les faunes d'Ammonites, les âges et les corrélations",
+      "publication_year": 1987,
+      "publication_date": "1987-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1968584894",
+        "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
+        "mag": "1968584894"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1016/s0016-6995(87)80071-2",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80071-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19370311",
+          "display_name": "Geobios",
+          "issn_l": "0016-6995",
+          "issn": [
+            "0016-6995",
+            "1777-5728"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geobios",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [
+            "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061935584",
+            "display_name": "Yves-Marie Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves-Marie Le Nindre",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113658841",
+            "display_name": "Charles Mangold",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210100260",
+              "display_name": "Centre Hospitalier Régional et Universitaire de Nancy",
+              "ror": "https://ror.org/016ncsr12",
+              "country_code": "FR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210100260"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles Mangold",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France",
+              "institution_ids": [
+                "https://openalex.org/I4210100260"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051867931",
+            "display_name": "Jacques Manivit",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Manivit",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5084630459"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I100532134",
+        "https://openalex.org/I1294671590"
+      ],
+      "apc_list": {
+        "value": 2620,
+        "currency": "USD",
+        "value_usd": 2620
+      },
+      "apc_paid": null,
+      "fwci": 2.3533,
+      "has_fulltext": false,
+      "cited_by_count": 97,
+      "citation_normalized_percentile": {
+        "value": 0.86956522,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "20",
+        "issue": null,
+        "first_page": "13",
+        "last_page": "65"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9951000213623047,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7185239791870117
+        },
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.5672367811203003
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.04980972409248352
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7185239791870117
+        },
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.5672367811203003
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.04980972409248352
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0016-6995(87)80071-2",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80071-2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19370311",
+            "display_name": "Geobios",
+            "issn_l": "0016-6995",
+            "issn": [
+              "0016-6995",
+              "1777-5728"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geobios",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 19,
+      "referenced_works": [
+        "https://openalex.org/W1114211",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1977882618",
+        "https://openalex.org/W1987162941",
+        "https://openalex.org/W1990465761",
+        "https://openalex.org/W2006294446",
+        "https://openalex.org/W2056900959",
+        "https://openalex.org/W2058538014",
+        "https://openalex.org/W2313649599",
+        "https://openalex.org/W2329234061",
+        "https://openalex.org/W2592976345",
+        "https://openalex.org/W2605458762",
+        "https://openalex.org/W2743213576",
+        "https://openalex.org/W2745237780",
+        "https://openalex.org/W3216937832",
+        "https://openalex.org/W6600050900",
+        "https://openalex.org/W6608040782",
+        "https://openalex.org/W6702133046",
+        "https://openalex.org/W6929775216"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
     {
       "id": "https://openalex.org/W2287111010",
       "doi": "https://doi.org/10.2113/geoarabia100477",
@@ -758,17 +2333,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.6132,
+      "fwci": 15.6548,
       "has_fulltext": false,
       "cited_by_count": 88,
       "citation_normalized_percentile": {
-        "value": 0.98892023,
+        "value": 0.98896334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 90,
-        "max": 100
+        "max": 99
       },
       "biblio": {
         "volume": "10",
@@ -950,7 +2525,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.2113/geoarabia100477",
@@ -980,6 +2555,33 @@
           "is_published": true,
           "raw_source_name": "GeoArabia",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-00022202v1",
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-00022202",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geoarabia, 2005, 10, n° 4, pp.77-134",
+          "raw_type": "Journal articles"
         }
       ],
       "best_oa_location": {
@@ -1013,8 +2615,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water"
         }
       ],
@@ -2251,1582 +3853,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2035689687",
-      "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
-      "title": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
-      "display_name": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
-      "publication_year": 2003,
-      "publication_date": "2003-06-30",
-      "ids": {
-        "openalex": "https://openalex.org/W2035689687",
-        "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
-        "mag": "2035689687"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s0031-0182(03)00313-4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0031-0182(03)00313-4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S159210951",
-          "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
-          "issn_l": "0031-0182",
-          "issn": [
-            "0031-0182",
-            "1872-616X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5052512742",
-            "display_name": "Alain Izart",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Alain Izart",
-          "raw_affiliation_strings": [
-            "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066761626",
-            "display_name": "Randell Stephenson",
-            "orcid": "https://orcid.org/0000-0003-4868-8601"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I865915315",
-              "display_name": "Vrije Universiteit Amsterdam",
-              "ror": "https://ror.org/008xxew50",
-              "country_code": "NL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I865915315"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Randell Stephenson",
-          "raw_affiliation_strings": [
-            "Netherlands Research School of Sedimentary Geology, Vrije Universiteit, Amsterdam, The Netherlands"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Netherlands Research School of Sedimentary Geology, Vrije Universiteit, Amsterdam, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I865915315"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030444809",
-            "display_name": "Gian Battista Vai",
-            "orcid": "https://orcid.org/0000-0003-2981-6655"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210133988",
-              "display_name": "Bologna Research Area",
-              "ror": "https://ror.org/03v4rcp75",
-              "country_code": "IT",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210133988",
-                "https://openalex.org/I4210155236"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210146975",
-              "display_name": "Zambon (Italy)",
-              "ror": "https://ror.org/04zzq8d03",
-              "country_code": "IT",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210146975"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Gian Battista Vai",
-          "raw_affiliation_strings": [
-            "Dipartimento Scienze Geologiche, Via Zamboni 67, I-40127 Bologna, Italy"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento Scienze Geologiche, Via Zamboni 67, I-40127 Bologna, Italy",
-              "institution_ids": [
-                "https://openalex.org/I4210133988",
-                "https://openalex.org/I4210146975"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5022478113",
-            "display_name": "Daniel Vachard",
-            "orcid": "https://orcid.org/0000-0003-1680-3767"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Daniel Vachard",
-          "raw_affiliation_strings": [
-            "Laboratoire de Paléontologie, Université des Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeveuve d’Ascq cedex, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Paléontologie, Université des Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeveuve d’Ascq cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073888691",
-            "display_name": "Yves Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves Le Nindre",
-          "raw_affiliation_strings": [
-            "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038965329",
-            "display_name": "Denis Vaslet",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Denis Vaslet",
-          "raw_affiliation_strings": [
-            "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, SGN/GEO, P.O.Box 6009, 45060 Orléans cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017562672",
-            "display_name": "Pierre-Jean Fauvel",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Pierre-Jean Fauvel",
-          "raw_affiliation_strings": [
-            "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, P.O.Box 239, 54506 Vandoeuvre les Nancy, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5041538995",
-            "display_name": "Peter Süss",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I135140700",
-              "display_name": "University of Bonn",
-              "ror": "https://ror.org/041nas322",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I135140700"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Peter Süss",
-          "raw_affiliation_strings": [
-            "Geologisches Institut der Universität Bonn, Nussallee 8, 53115 Bonn, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geologisches Institut der Universität Bonn, Nussallee 8, 53115 Bonn, Germany",
-              "institution_ids": [
-                "https://openalex.org/I135140700"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5000986346",
-            "display_name": "Olga L. Kossovaya",
-            "orcid": "https://orcid.org/0000-0002-3893-9940"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210151966",
-              "display_name": "A.P. Karpinsky Russian Geological Research Institute",
-              "ror": "https://ror.org/04s87ky63",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210151966"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Olga Kossovaya",
-          "raw_affiliation_strings": [
-            "VSEGEI, 74 pr. Sredny, Saint Petersburg, Russia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "VSEGEI, 74 pr. Sredny, Saint Petersburg, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210151966"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5062385838",
-            "display_name": "Zhong‐Qiang Chen",
-            "orcid": "https://orcid.org/0000-0001-5341-6913"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210103797",
-              "display_name": "Nanjing Institute of Geology and Paleontology",
-              "ror": "https://ror.org/019av8481",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210103797"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zhongquiang Chen",
-          "raw_affiliation_strings": [
-            "Nanjing Institute of Geology and Palaeontology, Academia Sinica, Nanjing 210008, PR China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Nanjing Institute of Geology and Palaeontology, Academia Sinica, Nanjing 210008, PR China",
-              "institution_ids": [
-                "https://openalex.org/I4210103797"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112438342",
-            "display_name": "Alexander Maslo",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I149851306",
-              "display_name": "National Academy of Sciences of Ukraine",
-              "ror": "https://ror.org/00je4t102",
-              "country_code": "UA",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I149851306"
-              ]
-            }
-          ],
-          "countries": [
-            "UA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alexander Maslo",
-          "raw_affiliation_strings": [
-            "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov Street, 252601 Kiev, Ukraine"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov Street, 252601 Kiev, Ukraine",
-              "institution_ids": [
-                "https://openalex.org/I149851306"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5062723574",
-            "display_name": "S. Stovba",
-            "orcid": "https://orcid.org/0000-0002-1708-5122"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Serguei Stovba",
-          "raw_affiliation_strings": [
-            "Ukrgeofyzika, Zapadinskaja Street, Kiev, Ukraine"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ukrgeofyzika, Zapadinskaja Street, Kiev, Ukraine",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 7,
-      "institutions_distinct_count": 12,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052512742"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1294671590"
-      ],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
-      "apc_paid": null,
-      "fwci": 4.9386,
-      "has_fulltext": false,
-      "cited_by_count": 69,
-      "citation_normalized_percentile": {
-        "value": 0.94509926,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "196",
-        "issue": "1-2",
-        "first_page": "59",
-        "last_page": "84"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11354",
-          "display_name": "Evolution and Paleontology Studies",
-          "score": 0.9976000189781189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.8389018177986145
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.8380106687545776
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8144899606704712
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous",
-          "display_name": "Carboniferous",
-          "score": 0.804623544216156
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.6391135454177856
-        },
-        {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "Marine transgression",
-          "score": 0.6224149465560913
-        },
-        {
-          "id": "https://openalex.org/keywords/westphalian-sovereignty",
-          "display_name": "Westphalian sovereignty",
-          "score": 0.5680725574493408
-        },
-        {
-          "id": "https://openalex.org/keywords/glacial-period",
-          "display_name": "Glacial period",
-          "score": 0.48814448714256287
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.48517829179763794
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.3569129705429077
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.2519477605819702
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.8389018177986145
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.8380106687545776
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8144899606704712
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.804623544216156
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.6391135454177856
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.6224149465560913
-        },
-        {
-          "id": "https://openalex.org/C165730261",
-          "wikidata": "https://www.wikidata.org/wiki/Q442402",
-          "display_name": "Westphalian sovereignty",
-          "level": 4,
-          "score": 0.5680725574493408
-        },
-        {
-          "id": "https://openalex.org/C15739521",
-          "wikidata": "https://www.wikidata.org/wiki/Q602963",
-          "display_name": "Glacial period",
-          "level": 2,
-          "score": 0.48814448714256287
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.48517829179763794
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.3569129705429077
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.2519477605819702
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0031-0182(03)00313-4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0031-0182(03)00313-4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S159210951",
-            "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
-            "issn_l": "0031-0182",
-            "issn": [
-              "0031-0182",
-              "1872-616X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:research.vu.nl:publications/f969c1d7-437f-4214-b6e0-a07077b75750",
-          "is_oa": false,
-          "landing_page_url": "https://research.vu.nl/en/publications/f969c1d7-437f-4214-b6e0-a07077b75750",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401107",
-            "display_name": "VU Research Portal",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I865915315",
-            "host_organization_name": "Vrije Universiteit Amsterdam",
-            "host_organization_lineage": [
-              "https://openalex.org/I865915315"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Izart, A, Stephenson, R A, Vai, G B, Vachard, D, Nindre le, Y, Vaslet, D, Fauvel, P J, Süss, P, Kossovaya, O, Chen, Z, Maslo, A & Stovba, S 2003, 'Sequence stratigraphy and correlation of the late carboniferous and Permian in CIS, Europe, Tethyan area, North Africa, China, Gondwanaland and USA.', Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 196, pp. 59-84. https://doi.org/10.1016/S0031-0182(03)00313-4",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:publications/fbab7809-e941-40e6-91b5-fa846c1ec5e8",
-          "is_oa": false,
-          "landing_page_url": "https://research-repository.uwa.edu.au/en/publications/fbab7809-e941-40e6-91b5-fa846c1ec5e8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402523",
-            "display_name": "UWA Profiles and Research Repository (University of Western Australia)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I177877127",
-            "host_organization_name": "The University of Western Australia",
-            "host_organization_lineage": [
-              "https://openalex.org/I177877127"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Izart, A, Stephenson, R, Battista Vai, G, Vachard, D, Le Nindre, Y, Vaslet, D, Fauvel, P-J, S&uuml;ss, P, Kossovaya, O, Chen, Z, Maslo, A & Stovba, S 2003, 'Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA', Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 196, no. 1-2, pp. 59-84. https://doi.org/10.1016/S0031-0182(03)00313-4",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-04083355v1",
-          "is_oa": false,
-          "landing_page_url": "https://brgm.hal.science/hal-04083355",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology, 2003, 196 (1-2), pp.59-84. &#x27E8;10.1016/S0031-0182(03)00313-4&#x27E9;",
-          "raw_type": "Journal articles"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320970",
-          "display_name": "Deakin University",
-          "ror": "https://ror.org/02czsnj07"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 66,
-      "referenced_works": [
-        "https://openalex.org/W61519228",
-        "https://openalex.org/W139441292",
-        "https://openalex.org/W189968423",
-        "https://openalex.org/W577755460",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W599778758",
-        "https://openalex.org/W632421438",
-        "https://openalex.org/W643023914",
-        "https://openalex.org/W1518311132",
-        "https://openalex.org/W1530145554",
-        "https://openalex.org/W1551620839",
-        "https://openalex.org/W1584354900",
-        "https://openalex.org/W1655850266",
-        "https://openalex.org/W1886159846",
-        "https://openalex.org/W1968352936",
-        "https://openalex.org/W1970648143",
-        "https://openalex.org/W1988412720",
-        "https://openalex.org/W2003708109",
-        "https://openalex.org/W2020700198",
-        "https://openalex.org/W2033809032",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W2052433423",
-        "https://openalex.org/W2056145827",
-        "https://openalex.org/W2069792062",
-        "https://openalex.org/W2081296107",
-        "https://openalex.org/W2086385676",
-        "https://openalex.org/W2097298259",
-        "https://openalex.org/W2100795447",
-        "https://openalex.org/W2102264361",
-        "https://openalex.org/W2128500185",
-        "https://openalex.org/W2133562679",
-        "https://openalex.org/W2138609232",
-        "https://openalex.org/W2140709095",
-        "https://openalex.org/W2142040561",
-        "https://openalex.org/W2153901413",
-        "https://openalex.org/W2187045719",
-        "https://openalex.org/W2199765860",
-        "https://openalex.org/W2217680046",
-        "https://openalex.org/W2253479393",
-        "https://openalex.org/W2256069291",
-        "https://openalex.org/W2400644767",
-        "https://openalex.org/W2466367581",
-        "https://openalex.org/W2468027944",
-        "https://openalex.org/W2478006830",
-        "https://openalex.org/W2507094734",
-        "https://openalex.org/W2509677649",
-        "https://openalex.org/W2515427009",
-        "https://openalex.org/W2519080896",
-        "https://openalex.org/W2521252747",
-        "https://openalex.org/W2566470046",
-        "https://openalex.org/W2580733176",
-        "https://openalex.org/W2584764882",
-        "https://openalex.org/W2613066620",
-        "https://openalex.org/W2725731334",
-        "https://openalex.org/W3158819313",
-        "https://openalex.org/W4206289463",
-        "https://openalex.org/W4243719581",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6605718462",
-        "https://openalex.org/W6632970243",
-        "https://openalex.org/W6671936045",
-        "https://openalex.org/W6719759929",
-        "https://openalex.org/W6720590071",
-        "https://openalex.org/W6731569188",
-        "https://openalex.org/W6739909656",
-        "https://openalex.org/W6794374269"
-      ],
-      "related_works": [
-        "https://openalex.org/W159956167",
-        "https://openalex.org/W1973082154",
-        "https://openalex.org/W2554373275",
-        "https://openalex.org/W2376608677",
-        "https://openalex.org/W4299358802",
-        "https://openalex.org/W2154911572",
-        "https://openalex.org/W3048494923",
-        "https://openalex.org/W2037978587",
-        "https://openalex.org/W2115553749",
-        "https://openalex.org/W2500660166"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-04-01T17:29:45.350535",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1968584894",
-      "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
-      "title": "Le Jurassique d'arabie saoudite centrale: Nouvellesdonnées sur la lithostratigraphie, les paléoenvironnements, les faunes d'Ammonites, les âges et les corrélations",
-      "display_name": "Le Jurassique d'arabie saoudite centrale: Nouvellesdonnées sur la lithostratigraphie, les paléoenvironnements, les faunes d'Ammonites, les âges et les corrélations",
-      "publication_year": 1987,
-      "publication_date": "1987-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1968584894",
-        "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
-        "mag": "1968584894"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.1016/s0016-6995(87)80071-2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80071-2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19370311",
-          "display_name": "Geobios",
-          "issn_l": "0016-6995",
-          "issn": [
-            "0016-6995",
-            "1777-5728"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geobios",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [
-            "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061935584",
-            "display_name": "Yves-Marie Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves-Marie Le Nindre",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113658841",
-            "display_name": "Charles Mangold",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210100260",
-              "display_name": "Centre Hospitalier Régional et Universitaire de Nancy",
-              "ror": "https://ror.org/016ncsr12",
-              "country_code": "FR",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210100260"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Mangold",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France",
-              "institution_ids": [
-                "https://openalex.org/I4210100260"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051867931",
-            "display_name": "Jacques Manivit",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Manivit",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5038965329",
-            "display_name": "Denis Vaslet",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Denis Vaslet",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches géologiques et minières-B.P. 6009, 45060 Orléans Cedex France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5084630459"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I100532134",
-        "https://openalex.org/I1294671590"
-      ],
-      "apc_list": {
-        "value": 2620,
-        "currency": "USD",
-        "value_usd": 2620
-      },
-      "apc_paid": null,
-      "fwci": 2.3533,
-      "has_fulltext": false,
-      "cited_by_count": 97,
-      "citation_normalized_percentile": {
-        "value": 0.86956522,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "20",
-        "issue": null,
-        "first_page": "13",
-        "last_page": "65"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9980000257492065,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9951000213623047,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9945999979972839,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7185239791870117
-        },
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.5672367811203003
-        },
-        {
-          "id": "https://openalex.org/keywords/art",
-          "display_name": "Art",
-          "score": 0.04980972409248352
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7185239791870117
-        },
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.5672367811203003
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0.04980972409248352
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0016-6995(87)80071-2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0016-6995(87)80071-2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19370311",
-            "display_name": "Geobios",
-            "issn_l": "0016-6995",
-            "issn": [
-              "0016-6995",
-              "1777-5728"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geobios",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 19,
-      "referenced_works": [
-        "https://openalex.org/W1114211",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1977882618",
-        "https://openalex.org/W1987162941",
-        "https://openalex.org/W1990465761",
-        "https://openalex.org/W2006294446",
-        "https://openalex.org/W2056900959",
-        "https://openalex.org/W2058538014",
-        "https://openalex.org/W2313649599",
-        "https://openalex.org/W2329234061",
-        "https://openalex.org/W2592976345",
-        "https://openalex.org/W2605458762",
-        "https://openalex.org/W2743213576",
-        "https://openalex.org/W2745237780",
-        "https://openalex.org/W3216937832",
-        "https://openalex.org/W6600050900",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6702133046",
-        "https://openalex.org/W6929775216"
-      ],
-      "related_works": [
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4209,8 +4236,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6499999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -5438,8 +5465,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -6393,8 +6420,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water"
         }
       ],
@@ -7591,8 +7618,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -8128,8 +8155,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -9394,8 +9421,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -10045,8 +10072,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -10343,11 +10370,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8546,
+      "fwci": 1.9098,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.8476504,
+        "value": 0.85208303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10640,7 +10667,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.2113/geoarabia130251",
@@ -10670,6 +10697,33 @@
           "is_published": true,
           "raw_source_name": "GeoArabia",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-00645755v1",
+          "is_oa": false,
+          "landing_page_url": "https://brgm.hal.science/hal-00645755",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geoarabia, 2008, 13 (2), pp.51-86",
+          "raw_type": "Journal articles"
         }
       ],
       "best_oa_location": {
@@ -10703,8 +10757,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.41999998688697815,
           "display_name": "Life in Land"
         }
       ],
@@ -11877,7 +11931,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12542,8 +12596,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -13697,8 +13751,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water"
         }
       ],
@@ -16456,8 +16510,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -16843,8 +16897,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7200000286102295,
           "display_name": "Climate action"
         }
       ],
@@ -17619,8 +17673,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -18157,8 +18211,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -19646,7 +19700,7 @@
         "is_oa": true,
         "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/4/45/5443006/angiolini.pdf",
-        "any_repository_has_fulltext": false
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -19715,11 +19769,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4614,
-      "has_fulltext": false,
+      "fwci": 0.4707,
+      "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.78235446,
+        "value": 0.78694995,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19966,7 +20020,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.2113/geoarabia110445",
@@ -19996,6 +20050,35 @@
           "is_published": true,
           "raw_source_name": "GeoArabia",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:air.unimi.it:2434/30360",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/2434/30360",
+          "pdf_url": "http://hdl.handle.net/2434/30360",
+          "source": {
+            "id": "https://openalex.org/S4306400516",
+            "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I189158943",
+            "host_organization_name": "University of Milan",
+            "host_organization_lineage": [
+              "https://openalex.org/I189158943"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -20029,8 +20112,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -20426,7 +20509,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20803,8 +20886,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -22047,8 +22130,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -22618,8 +22701,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705,
           "display_name": "Life below water"
         }
       ],
@@ -23872,8 +23955,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -24784,8 +24867,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -25922,8 +26005,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water"
         }
       ],
@@ -27333,8 +27416,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -30571,8 +30654,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.699999988079071,
           "display_name": "Life below water"
         }
       ],
@@ -34949,8 +35032,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4300000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -35997,8 +36080,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7599999904632568,
           "display_name": "Life below water"
         }
       ],

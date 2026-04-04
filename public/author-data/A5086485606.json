@@ -14,10 +14,10 @@
       "ZÜHLKE, RAINER"
     ],
     "works_count": 47,
-    "cited_by_count": 960,
+    "cited_by_count": 953,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 16,
+      "h_index": 15,
       "i10_index": 18
     },
     "ids": {
@@ -189,7 +189,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000757,
+        "value": 0.0000775,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000722,
+        "value": 0.0000731,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000466,
+        "value": 0.0000477,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -240,7 +240,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000413,
+        "value": 0.0000425,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -257,7 +257,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000383,
+        "value": 0.0000389,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -315,7 +315,7 @@
         "year": 1993,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 125
+        "cited_by_count": 124
       },
       {
         "year": 1995,
@@ -327,7 +327,7 @@
         "year": 1999,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 87
+        "cited_by_count": 84
       },
       {
         "year": 2003,
@@ -381,13 +381,13 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 31
+        "cited_by_count": 30
       },
       {
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 96
+        "cited_by_count": 93
       },
       {
         "year": 2021,
@@ -405,7 +405,7 @@
         "year": 2023,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 69
+        "cited_by_count": 70
       },
       {
         "year": 2024,
@@ -436,7 +436,7 @@
     },
     "block_key": "r zuhlke",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
-    "updated_date": "2026-03-31T12:23:23",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -2505,11 +2505,11 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 7.07,
+      "fwci": 7.0292,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.98199349,
+        "value": 0.98168116,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2823,7 +2823,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1111/sed.13103",
@@ -2887,6 +2887,35 @@
           "is_published": true,
           "raw_source_name": "Slootman, A, de Kruijf, M, Glatz, G, Eggenhuisen, J T, Zühlke, R & Reijmer, J J G 2023, 'Shape-dependent settling velocity of skeletal carbonate grains : Implications for calciturbidites', Sedimentology, vol. 70, no. 6, pp. 1683-1722. https://doi.org/10.1111/sed.13103",
           "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:dspace.library.uu.nl:1874/431550",
+          "is_oa": true,
+          "landing_page_url": "https://dspace.library.uu.nl/handle/1874/431550",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401649",
+            "display_name": "Utrecht University Repository (Utrecht University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I193662353",
+            "host_organization_name": "Utrecht University",
+            "host_organization_lineage": [
+              "https://openalex.org/I193662353"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
         },
         {
           "id": "pmh:oai:research.vu.nl:publications/2e29ddde-4410-4368-b9cb-1019df42deaa",
@@ -3873,7 +3902,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17354,11 +17383,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8703,
+      "fwci": 0.8729,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.73637708,
+        "value": 0.73733742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17594,7 +17623,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2016.08.006",
@@ -17629,6 +17658,35 @@
           "is_published": true,
           "raw_source_name": "Marine and Petroleum Geology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:publications.rwth-aachen.de:674204",
+          "is_oa": false,
+          "landing_page_url": "https://publications.rwth-aachen.de/record/674204",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401033",
+            "display_name": "RWTH Publications (RWTH Aachen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I887968799",
+            "host_organization_name": "RWTH Aachen University",
+            "host_organization_lineage": [
+              "https://openalex.org/I887968799"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Marine and petroleum geology 77, 1108-1124 (2016). doi:10.1016/j.marpetgeo.2016.08.006",
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": null,
@@ -17759,7 +17817,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {

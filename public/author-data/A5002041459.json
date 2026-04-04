@@ -4,14 +4,13 @@
     "orcid": "https://orcid.org/0000-0002-6113-9589",
     "display_name": "Nikolaos A. Michael",
     "display_name_alternatives": [
-      "Michael, Nikolaos A.",
       "Nikolaos A. Michael",
       "Nikolaos Michael"
     ],
     "works_count": 12,
-    "cited_by_count": 130,
+    "cited_by_count": 125,
     "summary_stats": {
-      "2yr_mean_citedness": 1.3333333333333333,
+      "2yr_mean_citedness": 1.25,
       "h_index": 6,
       "i10_index": 5
     },
@@ -105,7 +104,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 4,
+        "count": 5,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -113,23 +112,6 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "count": 3,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -169,13 +151,30 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
+      },
+      {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "count": 2,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
       }
     ],
     "topic_share": [
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000256,
+        "value": 0.000026,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -192,7 +191,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000253,
+        "value": 0.0000258,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -207,26 +206,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10577",
-        "display_name": "Hydrology and Sediment Transport Processes",
-        "value": 0.0000156,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2303",
-          "display_name": "Ecology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000104,
+        "value": 0.0000212,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -241,20 +223,37 @@
         }
       },
       {
-        "id": "https://openalex.org/T10889",
-        "display_name": "Soil erosion and sediment transport",
-        "value": 0.0000097,
+        "id": "https://openalex.org/T10577",
+        "display_name": "Hydrology and Sediment Transport Processes",
+        "value": 0.0000159,
         "subfield": {
-          "id": "https://openalex.org/subfields/1111",
-          "display_name": "Soil Science"
+          "id": "https://openalex.org/subfields/2303",
+          "display_name": "Ecology"
         },
         "field": {
-          "id": "https://openalex.org/fields/11",
-          "display_name": "Agricultural and Biological Sciences"
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
         },
         "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000113,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       }
     ],
@@ -269,7 +268,7 @@
         "id": "126753816",
         "wikidata": "https://www.wikidata.org/wiki/Q1994702",
         "display_name": "Sedimentary depositional environment",
-        "score": 0.8444310426712036
+        "score": 0.8293398022651672
       },
       {
         "id": "2816523",
@@ -287,27 +286,21 @@
         "id": "114793014",
         "wikidata": "https://www.wikidata.org/wiki/Q52109",
         "display_name": "Geomorphology",
-        "score": 0.42990636825561523
+        "score": 0.439300000667572
       }
     ],
     "counts_by_year": [
       {
         "year": 2014,
         "works_count": 1,
-        "oa_works_count": 0,
-        "cited_by_count": 24
+        "oa_works_count": 1,
+        "cited_by_count": 23
       },
       {
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 70
-      },
-      {
-        "year": 2016,
-        "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 0
+        "cited_by_count": 66
       },
       {
         "year": 2017,
@@ -319,22 +312,22 @@
         "year": 2021,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 22
+        "cited_by_count": 21
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 5
       },
       {
         "year": 2026,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 0,
         "cited_by_count": 0
       }
     ],
-    "longest_name": "Michael, Nikolaos A.",
+    "longest_name": "Nikolaos A. Michael",
     "parsed_longest_name": {
       "first": "nikolaos",
       "middle": "a",
@@ -344,7 +337,7 @@
     },
     "block_key": "n michael",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
-    "updated_date": "2026-03-21T12:22:22",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1072,8 +1065,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -2605,8 +2598,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2618,8 +2611,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -3488,15 +3481,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -4564,15 +4557,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -5101,20 +5094,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/16"
         },
         {
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -6151,16 +6144,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5385,
+      "fwci": 2.6159,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.87594228,
+        "value": 0.87977458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -6381,7 +6374,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1144/jgs2013-108",
@@ -6416,6 +6409,93 @@
           "is_published": true,
           "raw_source_name": "Journal of the Geological Society",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:impulse.mlz-garching.de:217394",
+          "is_oa": false,
+          "landing_page_url": "https://impulse.mlz-garching.de/record/217394",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401963",
+            "display_name": "iMPULSE (Heinz Maier-Leibnitz Zentrum)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210097247",
+            "host_organization_name": "Heinz Maier-Leibnitz Zentrum",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210097247"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of the Geological Society 171(3), 401 - 412 (2014). doi:10.1144/jgs2013-108",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:eprints.bbk.ac.uk.oai2:14194",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.bbk.ac.uk/id/eprint/14194/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400466",
+            "display_name": "BIROn (Birkbeck, University of London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I98259816",
+            "host_organization_name": "Birkbeck, University of London",
+            "host_organization_lineage": [
+              "https://openalex.org/I98259816"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:1430097",
+          "is_oa": false,
+          "landing_page_url": "http://discovery.ucl.ac.uk/1430097/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400024",
+            "display_name": "UCL Discovery (University College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I45129253",
+            "host_organization_name": "University College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I45129253"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "   JOURNAL OF THE GEOLOGICAL SOCIETY , 171  (3)   pp. 401-412.   (2014)      ",
+          "raw_type": "Article"
         }
       ],
       "best_oa_location": null,
@@ -6423,8 +6503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -7139,7 +7219,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7607,15 +7687,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -8719,8 +8799,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8732,8 +8812,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -9786,15 +9866,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -11065,8 +11145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12221,8 +12301,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -13738,15 +13818,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8669640421867371
+          "score": 0.8669640421867371,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -13980,7 +14060,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9547936,
+        "value": 0.93397821,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14239,15 +14319,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8427148461341858
+          "score": 0.8427148461341858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -14513,7 +14593,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-02T15:55:50.835912",
+      "updated_date": "2026-04-02T13:53:19.096889",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

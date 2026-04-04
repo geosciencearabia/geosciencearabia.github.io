@@ -9,8 +9,8 @@
       "Nabil Ali Saraih",
       "Nabil Saraih"
     ],
-    "works_count": 14,
-    "cited_by_count": 71,
+    "works_count": 13,
+    "cited_by_count": 66,
     "summary_stats": {
       "2yr_mean_citedness": 0.8571428571428571,
       "h_index": 4,
@@ -59,7 +59,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 7,
+        "count": 6,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -76,7 +76,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "count": 6,
+        "count": 5,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -93,7 +93,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "count": 5,
+        "count": 4,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -146,7 +146,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000031,
+        "value": 0.0000319,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -163,7 +163,7 @@
       {
         "id": "https://openalex.org/T11802",
         "display_name": "Chemical Looping and Thermochemical Processes",
-        "value": 0.0000238,
+        "value": 0.0000239,
         "subfield": {
           "id": "https://openalex.org/subfields/2204",
           "display_name": "Biomedical Engineering"
@@ -180,7 +180,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000192,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -197,7 +197,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000189,
+        "value": 0.000017,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -214,7 +214,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0000161,
+        "value": 0.0000164,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -237,16 +237,16 @@
         "score": 0.9118627309799194
       },
       {
-        "id": "2780659211",
-        "wikidata": "https://www.wikidata.org/wiki/Q181699",
-        "display_name": "Carbonate",
-        "score": 0.7534420490264893
-      },
-      {
         "id": "120882062",
         "wikidata": "https://www.wikidata.org/wiki/Q28352",
         "display_name": "Permeability (electromagnetism)",
-        "score": 0.6610938906669617
+        "score": 0.6607166528701782
+      },
+      {
+        "id": "17409809",
+        "wikidata": "https://www.wikidata.org/wiki/Q161764",
+        "display_name": "Geochemistry",
+        "score": 0.6092278957366943
       },
       {
         "id": "192562407",
@@ -266,13 +266,13 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 51
+        "cited_by_count": 50
       },
       {
         "year": 2020,
-        "works_count": 2,
-        "oa_works_count": 2,
-        "cited_by_count": 10
+        "works_count": 1,
+        "oa_works_count": 1,
+        "cited_by_count": 6
       },
       {
         "year": 2022,
@@ -315,7 +315,7 @@
     },
     "block_key": "n saraih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088388992",
-    "updated_date": "2026-03-28T12:21:36",
+    "updated_date": "2026-04-03T12:21:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -958,8 +958,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -971,8 +971,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -1853,15 +1853,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971780062.pdf",
@@ -3111,8 +3111,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3137,8 +3137,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -3505,11 +3505,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 1.0569,
+      "fwci": 1.0591,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.72294225,
+        "value": 0.72353053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3818,7 +3818,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.3390/en13215557",
@@ -3852,6 +3852,35 @@
           "is_published": true,
           "raw_source_name": "Energies",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:gam:jeners:v:13:y:2020:i:21:p:5557-:d:433915",
+          "is_oa": false,
+          "landing_page_url": "https://www.mdpi.com/1996-1073/13/21/5557/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
         },
         {
           "id": "pmh:oai:doaj.org/article:bc265d0bb2ad4ab9840708a9ecfd5dbf",
@@ -3949,8 +3978,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3970,8 +3999,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3085505323.pdf",
@@ -4718,7 +4747,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-04T16:13:02.066488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5404,8 +5433,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -6078,8 +6107,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -7322,8 +7351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8893,15 +8922,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123103367.pdf",
@@ -10197,20 +10226,20 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Sustainable cities and communities"
         },
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -11319,8 +11348,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11962,8 +11991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -13095,8 +13124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -13683,8 +13712,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14593,15 +14622,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.4007032513618469
+          "score": 0.4007032513618469,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
