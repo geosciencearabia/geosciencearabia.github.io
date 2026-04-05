@@ -9,8 +9,8 @@
       "Nabil Ali Saraih",
       "Nabil Saraih"
     ],
-    "works_count": 13,
-    "cited_by_count": 66,
+    "works_count": 14,
+    "cited_by_count": 71,
     "summary_stats": {
       "2yr_mean_citedness": 0.8571428571428571,
       "h_index": 4,
@@ -59,7 +59,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 6,
+        "count": 7,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -76,7 +76,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "count": 5,
+        "count": 6,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -93,7 +93,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "count": 4,
+        "count": 5,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -146,7 +146,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000319,
+        "value": 0.0000306,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -163,7 +163,7 @@
       {
         "id": "https://openalex.org/T11802",
         "display_name": "Chemical Looping and Thermochemical Processes",
-        "value": 0.0000239,
+        "value": 0.0000231,
         "subfield": {
           "id": "https://openalex.org/subfields/2204",
           "display_name": "Biomedical Engineering"
@@ -180,7 +180,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000205,
+        "value": 0.0000191,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -197,7 +197,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.000017,
+        "value": 0.0000189,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -214,7 +214,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0000164,
+        "value": 0.0000159,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -237,16 +237,16 @@
         "score": 0.9118627309799194
       },
       {
+        "id": "2780659211",
+        "wikidata": "https://www.wikidata.org/wiki/Q181699",
+        "display_name": "Carbonate",
+        "score": 0.7534420490264893
+      },
+      {
         "id": "120882062",
         "wikidata": "https://www.wikidata.org/wiki/Q28352",
         "display_name": "Permeability (electromagnetism)",
-        "score": 0.6607166528701782
-      },
-      {
-        "id": "17409809",
-        "wikidata": "https://www.wikidata.org/wiki/Q161764",
-        "display_name": "Geochemistry",
-        "score": 0.6092278957366943
+        "score": 0.6610938906669617
       },
       {
         "id": "192562407",
@@ -266,13 +266,13 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 50
+        "cited_by_count": 51
       },
       {
         "year": 2020,
-        "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 6
+        "works_count": 2,
+        "oa_works_count": 2,
+        "cited_by_count": 10
       },
       {
         "year": 2022,
@@ -315,7 +315,7 @@
     },
     "block_key": "n saraih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088388992",
-    "updated_date": "2026-04-03T12:21:45",
+    "updated_date": "2026-04-04T12:23:31",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -957,9 +957,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6299999952316284,
-          "display_name": "Clean water and sanitation"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -1852,9 +1852,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6399999856948853,
-          "display_name": "Clean water and sanitation"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -3110,9 +3110,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -3977,9 +3977,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -8921,9 +8921,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -10225,14 +10225,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4099999964237213,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.4099999964237213
         },
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4000000059604645,
-          "display_name": "Life in Land"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -14621,9 +14621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4007032513618469,
-          "display_name": "Reduced inequalities"
+          "score": 0.4007032513618469
         }
       ],
       "awards": [],

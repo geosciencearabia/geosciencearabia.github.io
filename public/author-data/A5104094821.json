@@ -13,7 +13,7 @@
       "Khalid Al‑Ramadan"
     ],
     "works_count": 19,
-    "cited_by_count": 121,
+    "cited_by_count": 122,
     "summary_stats": {
       "2yr_mean_citedness": 2.888888888888889,
       "h_index": 6,
@@ -40,7 +40,6 @@
           2024,
           2022,
           2021,
-          2020,
           2013,
           2009
         ]
@@ -164,7 +163,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000332,
+        "value": 0.0000323,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -181,7 +180,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000026,
+        "value": 0.0000252,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -198,7 +197,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.000026,
+        "value": 0.0000252,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -215,7 +214,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000235,
+        "value": 0.000023,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -232,7 +231,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000226,
+        "value": 0.0000218,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -311,16 +310,10 @@
         "cited_by_count": 0
       },
       {
-        "year": 2020,
-        "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 10
-      },
-      {
         "year": 2021,
-        "works_count": 2,
-        "oa_works_count": 1,
-        "cited_by_count": 17
+        "works_count": 3,
+        "oa_works_count": 2,
+        "cited_by_count": 28
       },
       {
         "year": 2022,
@@ -351,7 +344,7 @@
     },
     "block_key": "k al‐ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-04-03T12:21:45",
+    "updated_date": "2026-04-04T12:23:31",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [

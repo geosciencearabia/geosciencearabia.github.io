@@ -15,12 +15,12 @@
       "Hamad Alsaad Alkuwari",
       "Hilal Al-Kuwari"
     ],
-    "works_count": 42,
-    "cited_by_count": 444,
+    "works_count": 44,
+    "cited_by_count": 463,
     "summary_stats": {
       "2yr_mean_citedness": 0.6666666666666666,
       "h_index": 11,
-      "i10_index": 12
+      "i10_index": 13
     },
     "ids": {
       "openalex": "https://openalex.org/A5079669280",
@@ -98,7 +98,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 14,
+        "count": 15,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -115,7 +115,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 8,
+        "count": 9,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -185,7 +185,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000775,
+        "value": 0.0000752,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -202,7 +202,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000347,
+        "value": 0.0000379,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000316,
+        "value": 0.0000327,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -236,7 +236,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000306,
+        "value": 0.0000299,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -253,7 +253,7 @@
       {
         "id": "https://openalex.org/T13715",
         "display_name": "Power Line Inspection Robots",
-        "value": 0.0000279,
+        "value": 0.0000274,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -282,10 +282,10 @@
         "score": 0.7957000136375427
       },
       {
-        "id": "39432304",
-        "wikidata": "https://www.wikidata.org/wiki/Q188847",
-        "display_name": "Environmental science",
-        "score": 0.6634504795074463
+        "id": "185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "score": 0.7538672685623169
       },
       {
         "id": "111368507",
@@ -311,31 +311,31 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 63
+        "cited_by_count": 64
       },
       {
         "year": 2020,
-        "works_count": 3,
-        "oa_works_count": 1,
-        "cited_by_count": 57
+        "works_count": 4,
+        "oa_works_count": 2,
+        "cited_by_count": 58
       },
       {
         "year": 2021,
         "works_count": 10,
         "oa_works_count": 7,
-        "cited_by_count": 217
+        "cited_by_count": 221
       },
       {
         "year": 2022,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 60
+        "cited_by_count": 61
       },
       {
         "year": 2023,
-        "works_count": 3,
+        "works_count": 4,
         "oa_works_count": 3,
-        "cited_by_count": 34
+        "cited_by_count": 46
       },
       {
         "year": 2024,
@@ -360,7 +360,7 @@
     },
     "block_key": "h al saad al-kuwari",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
-    "updated_date": "2026-04-03T12:21:45",
+    "updated_date": "2026-04-04T12:23:31",
     "created_date": "2020-10-01T00:00:00"
   },
   "works": [
