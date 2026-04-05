@@ -83,8 +83,8 @@ export const StatCard = ({
       role={onClick ? "button" : undefined}
       tabIndex={onClick ? 0 : undefined}
     >
-      <div className="flex items-center justify-between mb-2">
-        <div className="flex items-center gap-2">
+      <div className="mb-2 flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
+        <div className="flex min-w-0 items-center gap-2">
           <p className="text-sm sm:text-base font-medium text-muted-foreground">
             {title}
           </p>
@@ -108,7 +108,7 @@ export const StatCard = ({
             </TooltipProvider>
           ) : null}
         </div>
-        <div className="rounded-lg flex items-center justify-center">
+        <div className="flex min-w-0 items-center justify-start rounded-lg sm:justify-center sm:self-start">
           {headerRight ? (
             headerRight
           ) : trend ? (

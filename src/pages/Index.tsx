@@ -1632,7 +1632,7 @@ const Index = () => {
                     {recentTopics.map((topic, idx) => (
                       <div
                         key={topic.name}
-                        className="flex items-start justify-between gap-3 rounded-md border border-border/60 bg-card/60 px-3 py-2 sm:items-center"
+                        className="grid grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-3 rounded-md border border-border/60 bg-card/60 px-3 py-2"
                         onClick={() => {
                           const search = buildRangeParams();
                           search.set("topic", topic.name);
@@ -1643,12 +1643,13 @@ const Index = () => {
                         role="button"
                         tabIndex={0}
                       >
-                        <div className="flex min-w-0 items-center gap-2 text-sm font-semibold text-foreground">
-                          <span className="text-muted-foreground">{idx + 1}.</span>
-                          <span className="block min-w-0 truncate text-primary hover:underline" title={topic.name}>
-                            {topic.name}
-                          </span>
-                        </div>
+                        <span className="text-sm font-semibold text-muted-foreground">{idx + 1}.</span>
+                        <span
+                          className="block min-w-0 truncate text-sm font-semibold text-primary hover:underline"
+                          title={topic.name}
+                        >
+                          {topic.name}
+                        </span>
                         <div className="shrink-0 text-xs text-muted-foreground">
                           {topic.count.toLocaleString()}
                         </div>
