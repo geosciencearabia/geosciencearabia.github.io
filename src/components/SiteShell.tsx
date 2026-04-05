@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { useEffect, useMemo, useState } from "react";
-import { Award } from "lucide-react";
+import { Award, Home, Info, MessageSquare, Search, TrendingUp } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import siteInfo from "../../data/config/siteinfo.json";
 import announcement from "../../data/config/announcement.json";
@@ -33,6 +33,17 @@ type SiteInfoConfig = {
 
 const typedAnnouncement = announcement as AnnouncementConfig;
 const siteInfoConfig = siteInfo as SiteInfoConfig;
+
+const navIconFor = (item: NavLink) => {
+  const href = item.href.toLowerCase();
+  const label = item.label.toLowerCase();
+  if (href === "/" || label.includes("dashboard")) return Home;
+  if (href.includes("/insights") || label.includes("insight")) return TrendingUp;
+  if (href.includes("/about") || label.includes("about")) return Info;
+  if (href.includes("/authors") || label.includes("finder") || label.includes("id")) return Search;
+  if (/^https?:\/\//i.test(item.href) || label.includes("feedback")) return MessageSquare;
+  return Info;
+};
 
 export const SiteShell = ({ children }: SiteShellProps) => {
   const assetBase =
@@ -141,6 +152,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
                 {navLinks.map((item: { label: string; href: string }) => {
                   const active = isActiveLink(item.href);
                   const isExternal = /^https?:\/\//i.test(item.href);
+                  const Icon = navIconFor(item);
                   return (
                     <Button
                       key={`${item.href}-${item.label}`}
@@ -150,11 +162,15 @@ export const SiteShell = ({ children }: SiteShellProps) => {
                       className="min-w-0"
                     >
                       {isExternal ? (
-                        <a href={item.href} target="_blank" rel="noreferrer">
-                          {item.label}
+                        <a href={item.href} target="_blank" rel="noreferrer" aria-label={item.label}>
+                          <Icon className="h-4 w-4 sm:hidden" />
+                          <span className="sr-only sm:not-sr-only">{item.label}</span>
                         </a>
                       ) : (
-                        <Link to={item.href}>{item.label}</Link>
+                        <Link to={item.href} aria-label={item.label}>
+                          <Icon className="h-4 w-4 sm:hidden" />
+                          <span className="sr-only sm:not-sr-only">{item.label}</span>
+                        </Link>
                       )}
                     </Button>
                   );
@@ -170,8 +186,9 @@ export const SiteShell = ({ children }: SiteShellProps) => {
           className={`border-b border-border/60 ${typedAnnouncement.bgClass || "bg-red-50"
             } ${typedAnnouncement.textClass || "text-red-900"}`}
         >
-          <div className="container mx-auto flex flex-col gap-3 px-4 py-2.5 text-xs sm:flex-row sm:items-start sm:justify-between sm:text-sm">
-            <p className="leading-snug">
+          <div className="container mx-auto px-4 py-2.5 text-xs sm:text-sm">
+            <div className="relative rounded-lg border border-border/60 bg-background/85 px-4 py-3 pr-12 shadow-sm">
+              <p className="leading-snug">
               {typedAnnouncement.message}
               {typedAnnouncement.linkText && typedAnnouncement.linkHref && (
                 <>
@@ -187,15 +204,16 @@ export const SiteShell = ({ children }: SiteShellProps) => {
                   .
                 </>
               )}
-            </p>
-            <button
-              type="button"
-              onClick={handleDismissAnnouncement}
-              className="self-start rounded-full px-3 py-1 text-sm font-semibold leading-none hover:bg-red-100 sm:ml-2"
-              aria-label="Dismiss announcement"
-            >
-              X
-            </button>
+              </p>
+              <button
+                type="button"
+                onClick={handleDismissAnnouncement}
+                className="absolute right-2 top-2 inline-flex h-7 w-7 items-center justify-center rounded-full text-sm font-semibold leading-none hover:bg-red-100"
+                aria-label="Dismiss announcement"
+              >
+                X
+              </button>
+            </div>
           </div>
         </div>
       )}
