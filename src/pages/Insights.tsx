@@ -787,7 +787,7 @@ const InsightsPage = () => {
         <Card className="border-border/60">
           <CardHeader className="space-y-3">
             <div className="flex flex-wrap items-center justify-between gap-3">
-              <div className="flex items-center gap-2">
+              <div className="flex min-w-0 items-center gap-2">
                 <FileTextIcon className="h-5 w-5 text-primary" />
                 <CardTitle className="text-base sm:text-lg text-foreground">Topic insights</CardTitle>
               </div>
@@ -846,7 +846,7 @@ const InsightsPage = () => {
           </CardHeader>
           <CardContent className="space-y-3">
             <div className="flex flex-wrap items-start justify-between gap-3">
-              <div className="flex w-full max-w-lg items-center">
+              <div className="flex w-full items-center sm:max-w-lg">
                 <div className="relative w-full">
                   <Input
                     type="text"
@@ -932,7 +932,7 @@ const InsightsPage = () => {
                 </span>
               </div>
               <div className="flex flex-wrap items-center gap-3 justify-end">
-                <div className="flex items-center gap-2">
+                <div className="flex flex-wrap items-center gap-2">
                   <span className="font-semibold text-foreground">{compareMode ? "Period A" : "Period"}</span>
                   {compareMode ? (
                     <>
@@ -991,7 +991,7 @@ const InsightsPage = () => {
                   )}
                 </div>
                 {compareMode && (
-                  <div className="flex items-center gap-2">
+                  <div className="flex flex-wrap items-center gap-2">
                     <span className="font-semibold text-foreground">Period B</span>
                     <label className="font-semibold text-foreground">From</label>
                     <select
@@ -1024,7 +1024,7 @@ const InsightsPage = () => {
 
             {showChart && (
               <Card className="border-border/60 mb-4">
-                <CardContent className="flex h-[520px] sm:h-[420px] flex-col space-y-3 overflow-hidden pb-4 pt-4">
+                <CardContent className="flex h-[380px] sm:h-[420px] flex-col space-y-3 overflow-hidden pb-4 pt-4">
                   <div className="flex flex-wrap items-center gap-3 text-[11px] text-muted-foreground">
                     <div className="flex flex-wrap items-center gap-2">
                       <Button
@@ -1051,7 +1051,7 @@ const InsightsPage = () => {
                         <BarChart3 className="h-3 w-3" />
                         <span className="inline-block h-0 w-5 border-t-2 border-dashed border-current" />
                       </Button>
-                      <div className="flex items-center gap-2">
+                      <div className="flex flex-wrap items-center gap-2">
                         <Button
                           type="button"
                           variant={chartScale === "linear" ? "secondary" : "outline"}
@@ -1134,12 +1134,12 @@ const InsightsPage = () => {
                 aria-modal="true"
               >
                 <div
-                  className="rounded-lg bg-background shadow-xl border border-border resize overflow-hidden"
+                  className="rounded-lg border border-border bg-background shadow-xl overflow-hidden"
                   style={{
                     width: "min(95vw, 1200px)",
                     height: "min(85vh, 720px)",
-                    minWidth: "640px",
-                    minHeight: "420px",
+                    minWidth: "0",
+                    minHeight: "320px",
                     maxWidth: "95vw",
                     maxHeight: "90vh",
                   }}

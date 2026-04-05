@@ -1206,7 +1206,7 @@ const Index = () => {
                   }}
                   headerRight={
                     configuredInsightsBoundaryYear != null ? (
-                      <span className="text-xs text-foreground whitespace-nowrap">
+                      <span className="text-[11px] text-foreground sm:text-xs">
                         Split year: {configuredInsightsBoundaryYear}
                       </span>
                     ) : null
@@ -1325,7 +1325,7 @@ const Index = () => {
                       </select>
                     </div>
                   )}
-                  <div className="ml-auto flex flex-wrap items-center gap-3 pr-10">
+                  <div className="flex w-full flex-wrap items-center gap-3 sm:ml-auto sm:w-auto sm:pr-10">
                     {[
                       { key: "topics", label: "Topics", visible: showTopics, toggle: setShowTopics },
                       { key: "institutions", label: "Institutions", visible: showInstitutions, toggle: setShowInstitutions },
@@ -1362,7 +1362,7 @@ const Index = () => {
                     ))}
                   </div>
                 </div>
-                <div className="absolute right-3 top-3">
+                <div className="flex justify-end sm:absolute sm:right-3 sm:top-3">
                   <div className="relative flex items-center gap-1">
                     <button
                       type="button"
@@ -1400,7 +1400,7 @@ const Index = () => {
                 </div>
               </CardHeader>
               <CardContent className="pt-2 pb-4">
-                <div ref={chartRef} className="h-[260px] w-full">
+                <div ref={chartRef} className="h-[240px] w-full sm:h-[260px]">
                   <ResponsiveContainer width="100%" height="100%">
                       <ComposedChart
                         data={topicsChartData}
@@ -1502,7 +1502,7 @@ const Index = () => {
                   </label>
                   <select
                     id="recent-publications-mode"
-                    className="h-11 min-w-52 rounded-md border border-border bg-background px-3 text-2xl font-bold text-foreground"
+                    className="h-11 w-full rounded-md border border-border bg-background px-3 text-xl font-bold text-foreground sm:min-w-52 sm:w-auto sm:text-2xl"
                     value={recentPublicationMode}
                     onChange={(event) => {
                       setRecentPublicationMode(event.target.value as RecentPublicationMode);
@@ -1518,7 +1518,7 @@ const Index = () => {
                 {recentPublications.map((work) => (
                   <Card key={work.workId} className="border-border/60">
                     <CardContent className="p-3 space-y-2">
-                      <div className="flex items-start justify-between gap-3">
+                      <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                         <div className="space-y-1">
                       <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
                         <FileText className="h-3 w-3 text-primary" />
@@ -1621,7 +1621,7 @@ const Index = () => {
 
             <div className="space-y-3">
               <div className="flex items-center justify-between">
-                <h2 className="flex items-center gap-2 text-2xl font-bold text-foreground">
+                <h2 className="flex items-center gap-2 text-xl font-bold text-foreground sm:text-2xl">
                   <TrendingUp className="h-5 w-5 text-primary" />
                   <span>Recent publication topics</span>
                 </h2>
@@ -1632,7 +1632,7 @@ const Index = () => {
                     {recentTopics.map((topic, idx) => (
                       <div
                         key={topic.name}
-                        className="flex items-center justify-between rounded-md border border-border/60 bg-card/60 px-3 py-2"
+                        className="flex items-start justify-between gap-3 rounded-md border border-border/60 bg-card/60 px-3 py-2 sm:items-center"
                         onClick={() => {
                           const search = buildRangeParams();
                           search.set("topic", topic.name);
@@ -1643,13 +1643,13 @@ const Index = () => {
                         role="button"
                         tabIndex={0}
                       >
-                        <div className="flex items-center gap-2 text-sm font-semibold text-foreground">
+                        <div className="flex min-w-0 items-center gap-2 text-sm font-semibold text-foreground">
                           <span className="text-muted-foreground">{idx + 1}.</span>
-                          <span className="truncate text-primary hover:underline" title={topic.name}>
+                          <span className="block min-w-0 truncate text-primary hover:underline" title={topic.name}>
                             {topic.name}
                           </span>
                         </div>
-                        <div className="text-xs text-muted-foreground">
+                        <div className="shrink-0 text-xs text-muted-foreground">
                           {topic.count.toLocaleString()}
                         </div>
                       </div>
@@ -1685,7 +1685,7 @@ const Index = () => {
 
             <div className="space-y-3">
               <div className="flex items-center justify-between">
-                <h2 className="flex items-center gap-2 text-2xl font-bold text-foreground">
+                <h2 className="flex items-center gap-2 text-xl font-bold text-foreground sm:text-2xl">
                   <Activity className="h-5 w-5 text-primary" />
                   <span>Recent citations</span>
                 </h2>
@@ -1700,7 +1700,7 @@ const Index = () => {
                   recentCitedPublications.map((work) => (
                     <Card key={`cited-${work.workId}`} className="border-border/60">
                       <CardContent className="p-3 space-y-2">
-                        <div className="flex items-start justify-between gap-3">
+                        <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                           <div className="space-y-1">
                             <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
                               <FileText className="h-3 w-3 text-primary" />

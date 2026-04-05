@@ -3,7 +3,6 @@ import { useEffect, useMemo, useState } from "react";
 import { Award } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import siteInfo from "../../data/config/siteinfo.json";
-import themesConfig from "../../data/config/themes.json";
 import announcement from "../../data/config/announcement.json";
 import { Button } from "@/components/ui/button";
 
@@ -21,12 +20,8 @@ interface AnnouncementConfig {
   linkHref?: string;
 }
 
-type ThemeOption = { id: string; label: string; vars: Record<string, string> };
-type ThemeConfig = { themes?: ThemeOption[] };
 type NavLink = { label: string; href: string };
 type SiteInfoConfig = {
-  enableThemeSelection?: boolean;
-  activeTheme?: string;
   navLinks?: NavLink[];
   shortTitle?: string;
   title?: string;
@@ -38,18 +33,8 @@ type SiteInfoConfig = {
 
 const typedAnnouncement = announcement as AnnouncementConfig;
 const siteInfoConfig = siteInfo as SiteInfoConfig;
-const themeConfig = themesConfig as ThemeConfig;
 
 export const SiteShell = ({ children }: SiteShellProps) => {
-  const themes = useMemo(
-    () => (Array.isArray(themeConfig.themes) ? themeConfig.themes : []),
-    [themeConfig.themes],
-  );
-  const allowThemeSelection =
-    siteInfoConfig.enableThemeSelection !== undefined ? Boolean(siteInfoConfig.enableThemeSelection) : true;
-  const defaultThemeId = siteInfoConfig.activeTheme || (themes.length ? themes[0].id : "default");
-  const [activeThemeId, setActiveThemeId] = useState(defaultThemeId);
-
   const assetBase =
     typeof import.meta.env.BASE_URL === "string" ? import.meta.env.BASE_URL : "/";
   const normalizedLogoPath = siteInfo.logoSrc?.replace(/^\//, "") ?? "";
@@ -117,24 +102,6 @@ export const SiteShell = ({ children }: SiteShellProps) => {
     }
   }, []);
 
-  useEffect(() => {
-    if (typeof window === "undefined" || !themes.length) return;
-    const stored = window.localStorage.getItem("theme");
-    if (stored && themes.some((theme) => theme.id === stored)) {
-      setActiveThemeId(stored);
-    }
-  }, [themes]);
-
-  useEffect(() => {
-    if (typeof document === "undefined") return;
-    const theme = themes.find((item) => item.id === activeThemeId);
-    if (!theme) return;
-    Object.entries(theme.vars || {}).forEach(([key, value]) => {
-      document.documentElement.style.setProperty(`--${key}`, value);
-    });
-    document.documentElement.dataset.theme = theme.id;
-  }, [activeThemeId, themes]);
-
   const navLinks: NavLink[] =
     Array.isArray(siteInfoConfig.navLinks) && siteInfoConfig.navLinks.length
       ? siteInfoConfig.navLinks
@@ -160,59 +127,38 @@ export const SiteShell = ({ children }: SiteShellProps) => {
   return (
     <div className="min-h-screen bg-background flex flex-col">
       <header className="border-b border-border bg-card/50">
-        <div className="container mx-auto px-4 py-2 sm:py-2">
-          <div className="flex items-center justify-between gap-4">
+        <div className="container mx-auto px-4 py-3">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
             <Link
               to="/"
-              className="text-base font-semibold text-foreground hover:text-primary sm:text-lg"
+              className="min-w-0 text-base font-semibold text-foreground hover:text-primary sm:text-lg"
             >
               {siteInfo.shortTitle || siteInfo.title}
             </Link>
 
-            <div className="flex items-center gap-3">
-              {allowThemeSelection && themes.length > 1 && (
-                <label className="flex items-center gap-2 text-xs text-muted-foreground">
-                  <span className="font-semibold text-foreground">Theme</span>
-                  <select
-                    className="h-7 rounded border border-border bg-background px-2 text-xs"
-                    value={activeThemeId}
-                    onChange={(event) => {
-                      const next = event.target.value;
-                      setActiveThemeId(next);
-                      if (typeof window !== "undefined") {
-                        window.localStorage.setItem("theme", next);
-                      }
-                    }}
-                  >
-                    {themes.map((theme) => (
-                      <option key={theme.id} value={theme.id}>
-                        {theme.label}
-                      </option>
-                    ))}
-                  </select>
-                </label>
-              )}
-              <nav className="flex items-center gap-2 text-xs sm:text-sm">
-              {navLinks.map((item: { label: string; href: string }) => {
-                const active = isActiveLink(item.href);
-                const isExternal = /^https?:\/\//i.test(item.href);
-                return (
-                  <Button
-                    key={`${item.href}-${item.label}`}
-                    asChild
-                    size="xs"
-                    variant={active ? "secondary" : "ghost"}
-                  >
-                    {isExternal ? (
-                      <a href={item.href} target="_blank" rel="noreferrer">
-                        {item.label}
-                      </a>
-                    ) : (
-                      <Link to={item.href}>{item.label}</Link>
-                    )}
-                  </Button>
-                );
-              })}
+            <div className="flex w-full flex-col gap-3 sm:w-auto sm:flex-row sm:items-center sm:justify-end">
+              <nav className="flex flex-wrap items-center gap-2 text-xs sm:text-sm">
+                {navLinks.map((item: { label: string; href: string }) => {
+                  const active = isActiveLink(item.href);
+                  const isExternal = /^https?:\/\//i.test(item.href);
+                  return (
+                    <Button
+                      key={`${item.href}-${item.label}`}
+                      asChild
+                      size="xs"
+                      variant={active ? "secondary" : "ghost"}
+                      className="min-w-0"
+                    >
+                      {isExternal ? (
+                        <a href={item.href} target="_blank" rel="noreferrer">
+                          {item.label}
+                        </a>
+                      ) : (
+                        <Link to={item.href}>{item.label}</Link>
+                      )}
+                    </Button>
+                  );
+                })}
               </nav>
             </div>
           </div>
@@ -224,7 +170,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
           className={`border-b border-border/60 ${typedAnnouncement.bgClass || "bg-red-50"
             } ${typedAnnouncement.textClass || "text-red-900"}`}
         >
-          <div className="container mx-auto px-4 py-2.5 text-xs sm:text-sm flex items-start justify-between gap-3">
+          <div className="container mx-auto flex flex-col gap-3 px-4 py-2.5 text-xs sm:flex-row sm:items-start sm:justify-between sm:text-sm">
             <p className="leading-snug">
               {typedAnnouncement.message}
               {typedAnnouncement.linkText && typedAnnouncement.linkHref && (
@@ -245,7 +191,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
             <button
               type="button"
               onClick={handleDismissAnnouncement}
-              className="ml-2 rounded-full px-3 py-1 text-sm font-semibold leading-none hover:bg-red-100"
+              className="self-start rounded-full px-3 py-1 text-sm font-semibold leading-none hover:bg-red-100 sm:ml-2"
               aria-label="Dismiss announcement"
             >
               X

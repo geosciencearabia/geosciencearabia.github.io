@@ -1042,7 +1042,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
               </div>
             </div>
             <div className="flex flex-wrap items-center gap-3">
-              <div className="relative min-w-[260px] flex-1 max-w-xl">
+              <div className="relative w-full flex-1 sm:min-w-[260px] sm:max-w-xl">
                 <Input
                   type="text"
                   value={searchQuery}
@@ -1055,7 +1055,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
                 />
                 <Search className="pointer-events-none absolute left-2 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted-foreground" />
               </div>
-              <div className="flex items-center gap-2 text-xs text-muted-foreground">
+              <div className="flex w-full flex-wrap items-center gap-2 text-xs text-muted-foreground sm:w-auto">
                 <span className="font-semibold text-foreground">Publication type:</span>
                 <select
                   className="h-8 rounded border border-border bg-background px-2 text-xs"
@@ -1072,7 +1072,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
                 </select>
               </div>
               {showInstitutionFilter && (
-                <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                <div className="flex w-full flex-wrap items-center gap-2 text-xs text-muted-foreground sm:w-auto">
                   <span className="font-semibold text-foreground">Institution:</span>
                   <select
                     className="h-8 rounded border border-border bg-background px-2 text-xs"
@@ -1090,7 +1090,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
                   </select>
                 </div>
               )}
-              <div className="flex items-center gap-2 text-xs text-muted-foreground">
+              <div className="flex w-full flex-wrap items-center gap-2 text-xs text-muted-foreground sm:w-auto">
                 <span className="font-semibold text-foreground">Retracted:</span>
                 <select
                   className="h-8 rounded border border-border bg-background px-2 text-xs"
@@ -1106,7 +1106,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
                 </select>
               </div>
               {allYears.length > 0 && (
-                <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                <div className="flex w-full flex-wrap items-center gap-2 text-xs text-muted-foreground sm:w-auto">
                   <span className="font-semibold text-foreground">Year range:</span>
                   <select
                     className="h-8 rounded border border-border bg-background px-2 text-xs"

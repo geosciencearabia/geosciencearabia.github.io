@@ -321,7 +321,7 @@ useEffect(() => {
           </CardHeader>
           <CardContent>
             <div className="overflow-x-auto rounded-md border border-border/60 bg-card/40">
-              <div className="flex flex-wrap items-center justify-end gap-3 px-3 pt-3 text-[11px] text-muted-foreground">
+              <div className="flex flex-wrap items-center justify-start gap-3 px-3 pt-3 text-[11px] text-muted-foreground sm:justify-end">
                 {allYears.length > 0 && (
                   <>
                     <span className="font-semibold text-foreground">Year range:</span>

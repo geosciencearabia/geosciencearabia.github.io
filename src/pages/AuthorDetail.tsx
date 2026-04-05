@@ -2646,7 +2646,7 @@ export default function AuthorDetail() {
               <CardContent>
                 <div className="mb-4 space-y-3">
                   <div className="flex flex-wrap items-start justify-between gap-3">
-                    <div className="flex w-full max-w-lg items-center">
+                    <div className="flex w-full items-center sm:max-w-lg">
                       <div className="relative w-full">
                         <Input
                           type="text"
@@ -2734,7 +2734,7 @@ export default function AuthorDetail() {
                       </span>
                     </div>
                     <div className="flex flex-wrap items-center gap-3 justify-end">
-                      <div className="flex items-center gap-2">
+                      <div className="flex flex-wrap items-center gap-2">
                         <span className="font-semibold text-foreground">{compareInsights ? "Period A" : "Period"}</span>
                         {compareInsights ? (
                           <>
@@ -2817,7 +2817,7 @@ export default function AuthorDetail() {
                         )}
                       </div>
                       {compareInsights && (
-                        <div className="flex items-center gap-2">
+                        <div className="flex flex-wrap items-center gap-2">
                           <span className="font-semibold text-foreground">Period B</span>
                           <label className="font-semibold text-foreground">From</label>
                           <select
@@ -2862,7 +2862,7 @@ export default function AuthorDetail() {
                   {showInsightsChart && (
                     <>
                       <Card className="border-border/60 mb-4">
-                        <CardContent className="flex h-[360px] sm:h-[320px] flex-col space-y-3 overflow-hidden pb-4 pt-4">
+                        <CardContent className="flex h-[340px] sm:h-[320px] flex-col space-y-3 overflow-hidden pb-4 pt-4">
                         <div className="flex flex-wrap items-center gap-3 text-[11px] text-muted-foreground">
                         <div className="flex flex-wrap items-center gap-2">
                           <Button
@@ -2896,7 +2896,7 @@ export default function AuthorDetail() {
                               <span className="inline-block h-0 w-5 border-t-2 border-dashed border-current" />
                             </Button>
                           </div>
-                          <div className="flex items-center gap-2">
+                          <div className="flex flex-wrap items-center gap-2">
                             <Button
                               type="button"
                               variant={authorInsightsScale === "linear" ? "secondary" : "outline"}
@@ -2965,7 +2965,7 @@ export default function AuthorDetail() {
                       onClick={() => setShowAuthorInsightsPopout(false)}
                     >
                       <div
-                        className="rounded-lg bg-background shadow-xl border border-border overflow-hidden resize w-[90vw] h-[50vh] max-w-[900px] max-h-[60vh] sm:w-[60vw] sm:h-[60vh] sm:min-w-[480px] sm:min-h-[360px] absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
+                        className="absolute left-1/2 top-1/2 h-[70vh] w-[95vw] max-h-[85vh] max-w-[900px] -translate-x-1/2 -translate-y-1/2 overflow-hidden rounded-lg border border-border bg-background shadow-xl sm:h-[60vh] sm:w-[60vw] sm:min-h-[360px] sm:min-w-[480px]"
                         onClick={(e) => e.stopPropagation()}
                       >
                         <div className="flex h-full flex-col">
