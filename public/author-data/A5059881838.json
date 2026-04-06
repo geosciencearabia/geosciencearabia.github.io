@@ -408,7 +408,7 @@
     },
     "block_key": "a koeshidayatullah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059881838",
-    "updated_date": "2026-04-04T12:23:31",
+    "updated_date": "2026-04-05T12:21:57",
     "created_date": "2020-03-23T00:00:00"
   },
   "works": [
@@ -1629,16 +1629,16 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 20.1893,
+      "fwci": 20.2124,
       "has_fulltext": true,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.99466439,
+        "value": 0.99467198,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 100
       },
       "biblio": {
@@ -1942,6 +1942,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pure.atira.dk:openaire/c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb",
+          "is_oa": true,
+          "landing_page_url": "https://research.manchester.ac.uk/en/publications/c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400662",
+            "display_name": "Research Explorer (The University of Manchester)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I28407311",
+            "host_organization_name": "University of Manchester",
+            "host_organization_lineage": [
+              "https://openalex.org/I28407311"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A, Robertson, H, Whitaker, F & Hollis, C 2020, 'Evaluating new fault‐controlled hydrothermal dolomitisation models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin', Sedimentology, vol. 67, no. 6, pp. 2945-2973. https://doi.org/10.1111/sed.12729",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
           "id": "pmh:oai:research-information.bris.ac.uk:publications/fda56d79-8fe1-47a5-be94-5c45b59395ce",
           "is_oa": true,
           "landing_page_url": "https://research-information.bris.ac.uk/en/publications/fda56d79-8fe1-47a5-be94-5c45b59395ce",
@@ -1999,35 +2028,6 @@
           "raw_type": "Articles"
         },
         {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb",
-          "is_oa": true,
-          "landing_page_url": "https://research.manchester.ac.uk/en/publications/c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400662",
-            "display_name": "Research Explorer (The University of Manchester)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I28407311",
-            "host_organization_name": "University of Manchester",
-            "host_organization_lineage": [
-              "https://openalex.org/I28407311"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A, Robertson, H, Whitaker, F & Hollis, C 2020, 'Evaluating new fault‐controlled hydrothermal dolomitisation models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin', Sedimentology, vol. 67, no. 6, pp. 2945-2973. https://doi.org/10.1111/sed.12729",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pure.atira.dk:publications/c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb",
           "is_oa": true,
           "landing_page_url": "https://www.research.manchester.ac.uk/portal/en/publications/evaluating-new-faultcontrolled-hydrothermal-dolomitisation-models-insights-from-the-cambrian-dolomite-western-canadian-sedimentary-basin(c56bf8f8-4cf1-4f2b-8191-7d61be7f51bb).html",
@@ -2054,7 +2054,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A, Robertson, H, Whitaker, F & Hollis, C 2020, 'Evaluating new fault‐controlled hydrothermal dolomitisation models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin', Sedimentology, vol. 67, no. 6, pp. 2945-2973. https://doi.org/10.1111/sed.12729",
-          "raw_type": "article"
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
         {
           "id": "pmh:oai:research-information.bris.ac.uk:openaire_cris_publications/fda56d79-8fe1-47a5-be94-5c45b59395ce",
@@ -3044,7 +3044,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-04-06T07:47:59.780226",
       "created_date": "2020-03-23T00:00:00"
     },
     {
@@ -4265,11 +4265,11 @@
         "currency": "USD",
         "value_usd": 4000
       },
-      "fwci": 16.5504,
+      "fwci": 16.5742,
       "has_fulltext": false,
       "cited_by_count": 70,
       "citation_normalized_percentile": {
-        "value": 0.99193351,
+        "value": 0.99194696,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4502,7 +4502,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.epsl.2020.116291",
@@ -4539,6 +4539,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pure.atira.dk:openaire/0788466a-b9e2-4032-94e3-b2755ed58a3b",
+          "is_oa": true,
+          "landing_page_url": "https://research.manchester.ac.uk/en/publications/0788466a-b9e2-4032-94e3-b2755ed58a3b",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400662",
+            "display_name": "Research Explorer (The University of Manchester)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I28407311",
+            "host_organization_name": "University of Manchester",
+            "host_organization_lineage": [
+              "https://openalex.org/I28407311"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A & Hollis, C 2020, 'Origin and Evolution of Fault-Controlled Hydrothermal Dolomitization Fronts : A New Insight', Earth and Planetary Science Letters, vol. 541, 116291. https://doi.org/10.1016/j.epsl.2020.116291",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
           "id": "pmh:oai:eprints.gla.ac.uk:216758",
           "is_oa": true,
           "landing_page_url": null,
@@ -4567,64 +4596,6 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Articles"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/0788466a-b9e2-4032-94e3-b2755ed58a3b",
-          "is_oa": true,
-          "landing_page_url": "https://research.manchester.ac.uk/en/publications/0788466a-b9e2-4032-94e3-b2755ed58a3b",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400662",
-            "display_name": "Research Explorer (The University of Manchester)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I28407311",
-            "host_organization_name": "University of Manchester",
-            "host_organization_lineage": [
-              "https://openalex.org/I28407311"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A & Hollis, C 2020, 'Origin and Evolution of Fault-Controlled Hydrothermal Dolomitization Fronts : A New Insight', Earth and Planetary Science Letters, vol. 541, 116291. https://doi.org/10.1016/j.epsl.2020.116291",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:publications/0788466a-b9e2-4032-94e3-b2755ed58a3b",
-          "is_oa": true,
-          "landing_page_url": "https://www.research.manchester.ac.uk/portal/en/publications/origin-and-evolution-of-faultcontrolled-hydrothermal-dolomitization-fronts(0788466a-b9e2-4032-94e3-b2755ed58a3b).html",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400662",
-            "display_name": "Research Explorer (The University of Manchester)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I28407311",
-            "host_organization_name": "University of Manchester",
-            "host_organization_lineage": [
-              "https://openalex.org/I28407311"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Koeshidayatullah, A, Corlett, H, Stacey, J, Swart, P K, Boyce, A & Hollis, C 2020, 'Origin and Evolution of Fault-Controlled Hydrothermal Dolomitization Fronts : A New Insight', Earth and Planetary Science Letters, vol. 541, 116291. https://doi.org/10.1016/j.epsl.2020.116291",
-          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -5551,7 +5522,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-06T07:47:59.780226",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10428,16 +10399,16 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 4.4137,
+      "fwci": 4.4424,
       "has_fulltext": true,
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.95073987,
+        "value": 0.95103507,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 99,
+        "min": 96,
         "max": 100
       },
       "biblio": {
@@ -11580,6 +11551,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 13
         },
@@ -11592,7 +11567,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2026-04-06T07:47:59.780226",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20169,11 +20144,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1393,
+      "fwci": 3.1397,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.91886732,
+        "value": 0.91889639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20540,11 +20515,11 @@
           },
           "license": null,
           "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
           "raw_source_name": "Stacey, J, Corlett, H, Holland, G, Koeshidayatullah, A, Cao, C, Swart, P, Crowley, S & Hollis, C 2020, 'Regional fault-controlled shallow dolomitization of the Middle Cambrian Cathedral Formation by hydrothermal fluids fluxed through a basal clastic aquifer', Geological Society of America Bulletin.",
-          "raw_type": "article"
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         }
       ],
       "best_oa_location": {
@@ -21328,7 +21303,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-04-04T16:13:02.066488",
+      "updated_date": "2026-04-05T17:49:38.594831",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22319,11 +22294,11 @@
         "currency": "USD",
         "value_usd": 3900
       },
-      "fwci": 7.6697,
+      "fwci": 7.6807,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.96736739,
+        "value": 0.96742181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22607,7 +22582,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1111/bre.12489",
@@ -22644,7 +22619,7 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/4e177978-b1c0-4229-85d4-45177dd85f83",
+          "id": "pmh:oai:pure.atira.dk:openaire/4e177978-b1c0-4229-85d4-45177dd85f83",
           "is_oa": true,
           "landing_page_url": "https://research.manchester.ac.uk/en/publications/4e177978-b1c0-4229-85d4-45177dd85f83",
           "pdf_url": null,
@@ -22666,40 +22641,11 @@
           },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
           "raw_source_name": "Stacey, J, Hollis, C, Corlett, H & Koeshidayatullah, A 2021, 'Burial dolomitization driven by modified seawater and basal aquifer‐sourced brines: Insights from the Middle and Upper Devonian of the Western Canadian Sedimentary Basin', Basin Research, vol. 33, no. 1, pp. 648-680. https://doi.org/10.1111/bre.12489",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:publications/4e177978-b1c0-4229-85d4-45177dd85f83",
-          "is_oa": true,
-          "landing_page_url": "https://www.research.manchester.ac.uk/portal/en/publications/burial-dolomitization-driven-by-modified-seawater-and-basal-aquifersourced-brines-insights-from-the-middle-and-upper-devonian-of-the-western-canadian-sedimentary-basin(4e177978-b1c0-4229-85d4-45177dd85f83).html",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400662",
-            "display_name": "Research Explorer (The University of Manchester)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I28407311",
-            "host_organization_name": "University of Manchester",
-            "host_organization_lineage": [
-              "https://openalex.org/I28407311"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Stacey, J, Hollis, C, Corlett, H & Koeshidayatullah, A 2021, 'Burial dolomitization driven by modified seawater and basal aquifer‐sourced brines: Insights from the Middle and Upper Devonian of the Western Canadian Sedimentary Basin', Basin Research, vol. 33, no. 1, pp. 648-680. https://doi.org/10.1111/bre.12489",
-          "raw_type": "article"
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         }
       ],
       "best_oa_location": {
@@ -23611,7 +23557,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-06T07:47:59.780226",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29363,11 +29309,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 8.61,
-      "has_fulltext": false,
+      "fwci": 8.6153,
+      "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.97195731,
+        "value": 0.97198064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29886,7 +29832,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-05T17:49:38.594831",
       "created_date": "2025-10-10T00:00:00"
     },
     {
