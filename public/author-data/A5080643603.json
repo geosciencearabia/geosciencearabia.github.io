@@ -224,7 +224,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000379,
+        "value": 0.0000378,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -969,8 +969,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -1643,8 +1643,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -3752,8 +3752,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -4508,8 +4508,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -5853,8 +5853,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -8409,8 +8409,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -10615,8 +10615,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -15159,8 +15159,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -15634,8 +15634,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -16590,8 +16590,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -17590,8 +17590,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -19054,8 +19054,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -20747,8 +20747,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -21842,8 +21842,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -23353,8 +23353,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -27160,7 +27160,8 @@
       "publication_date": "2026-03-20",
       "ids": {
         "openalex": "https://openalex.org/W7139925539",
-        "doi": "https://doi.org/10.1016/j.mex.2026.103875"
+        "doi": "https://doi.org/10.1016/j.mex.2026.103875",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41937918"
       },
       "language": "en",
       "primary_location": {
@@ -27199,13 +27200,14 @@
       "type": "article",
       "indexed_in": [
         "crossref",
-        "doaj"
+        "doaj",
+        "pubmed"
       ],
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
         "oa_url": "https://doi.org/10.1016/j.mex.2026.103875",
-        "any_repository_has_fulltext": false
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -27294,32 +27296,17 @@
             "display_name": "Septriandi A. Chan",
             "orcid": "https://orcid.org/0000-0002-3681-7464"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
-            "National Energy Services Reunited Corp., NESR, Dhahran, Saudi Arabia"
+            "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "National Energy Services Reunited Corp., NESR, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "raw_affiliation_string": "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia",
+              "institution_ids": []
             }
           ]
         }
@@ -27347,7 +27334,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66315595,
+        "value": 0.53833384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27521,7 +27508,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.mex.2026.103875",
@@ -27555,6 +27542,64 @@
           "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:41937918",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41937918",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "MethodsX",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:13049995",
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049995/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "MethodsX",
+          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -27604,811 +27649,712 @@
       ],
       "related_works": [],
       "abstract_inverted_index": {
-        "2": [
-          349
-        ],
-        "•": [
-          0,
-          20
-        ],
-        "This": [
-          1,
-          21,
-          110,
-          211
-        ],
-        "comprehensive": [
-          2
-        ],
-        "workflow": [
-          3,
-          23,
-          116,
-          156,
-          172,
-          323
-        ],
-        "is": [
-          4,
-          67,
-          294
-        ],
-        "applicable": [
-          5
-        ],
-        "across": [
-          6,
-          281
-        ],
-        "diverse": [
-          7
-        ],
-        "fields,": [
-          8
-        ],
-        "including": [
-          9,
-          261
-        ],
-        "unconventional": [
-          10,
-          81,
-          345
-        ],
-        "hydrocarbons,": [
-          11
-        ],
-        "CO2": [
-          12
-        ],
-        "storage,": [
-          13
-        ],
-        "geothermal": [
-          14,
-          352
-        ],
-        "systems,": [
-          15,
-          353
-        ],
-        "and": [
-          16,
-          28,
-          49,
-          59,
-          76,
-          87,
-          127,
-          167,
-          191,
-          207,
-          230,
-          232,
-          265,
-          272,
-          286,
-          302,
-          313,
-          316,
-          332,
-          340,
-          354
-        ],
-        "mineral": [
-          17,
-          355
-        ],
-        "resources": [
-          18
-        ],
-        "exploration.": [
-          19
-        ],
-        "integrated": [
-          22,
-          208,
-          212
-        ],
-        "combines": [
-          24,
-          173
-        ],
-        "lithological,": [
-          25
-        ],
-        "geochemical,": [
-          26,
-          85
-        ],
-        "petrophysical,": [
-          27,
-          86
-        ],
-        "rock": [
-          29,
-          47,
-          94,
-          176,
-          204
-        ],
-        "mechanical": [
-          30,
-          88,
-          129,
-          205,
-          233
-        ],
-        "data": [
-          31,
-          169,
-          209
-        ],
-        "for": [
-          32,
-          69,
-          93,
-          135,
-          215,
-          258,
-          329
-        ],
-        "immature": [
-          33,
-          63,
-          336
-        ],
-        "organic-rich": [
-          34,
-          64,
-          337
-        ],
-        "carbonate": [
-          35,
-          65,
-          338
-        ],
-        "reservoirs,": [
-          36,
-          221,
-          347
-        ],
-        "providing": [
-          37
-        ],
-        "continuous": [
-          38,
-          124,
-          160,
-          271
-        ],
-        "high-resolution": [
-          39
-        ],
-        "profiles": [
-          40
-        ],
-        "along": [
-          41,
-          244
+        "Understanding": [
+          0
         ],
         "the": [
-          42,
-          53,
-          57,
-          144,
-          245,
-          276,
-          282,
-          321
-        ],
-        "core": [
-          43,
-          246,
-          284
-        ],
-        "interval": [
-          44,
-          285
-        ],
-        "that": [
-          45,
-          117,
-          157
-        ],
-        "capture": [
-          46,
-          241
-        ],
-        "heterogeneity": [
-          48,
-          61,
-          293,
-          334
-        ],
-        "improve": [
-          50
-        ],
-        "understanding": [
-          51
-        ],
-        "of": [
-          52,
-          62,
-          108,
-          218,
+          1,
+          88,
+          189,
+          220,
           226,
-          270,
-          278,
-          289
-        ],
-        "complex": [
-          54,
-          220
-        ],
-        "nature.": [
-          55
-        ],
-        "Understanding": [
-          56
+          265
         ],
         "vertical": [
-          58,
-          331
-        ],
-        "lateral": [
-          60,
-          333
-        ],
-        "reservoirs": [
-          66
-        ],
-        "essential": [
-          68
-        ],
-        "predicting": [
-          70
-        ],
-        "reservoir": [
-          71
-        ],
-        "quality,": [
-          72,
-          229
-        ],
-        "maintaining": [
-          73
-        ],
-        "wellbore": [
-          74
-        ],
-        "stability,": [
-          75
-        ],
-        "identifying": [
-          77
-        ],
-        "sweet-spot": [
-          78
-        ],
-        "intervals": [
-          79
-        ],
-        "in": [
-          80,
-          100,
-          143,
-          149,
-          305,
-          335
-        ],
-        "systems.": [
-          82
-        ],
-        "Although": [
-          83
-        ],
-        "geological,": [
-          84
-        ],
-        "techniques": [
-          89,
-          147
-        ],
-        "are": [
-          90,
-          97,
-          237,
-          256
-        ],
-        "extensively": [
-          91
-        ],
-        "employed": [
-          92
-        ],
-        "characterization,": [
-          95
-        ],
-        "they": [
-          96
-        ],
-        "frequently": [
-          98
-        ],
-        "applied": [
-          99
-        ],
-        "isolation,": [
-          101
-        ],
-        "which": [
-          102,
-          249
-        ],
-        "can": [
-          103,
-          341
-        ],
-        "hinder": [
-          104
-        ],
-        "a": [
-          105,
-          113,
-          132,
-          154,
-          223,
-          325
-        ],
-        "systematic": [
-          106,
-          224,
-          287
-        ],
-        "assessment": [
-          107,
-          225
-        ],
-        "variability.": [
-          109
-        ],
-        "paper": [
-          111
-        ],
-        "introduces": [
-          112
-        ],
-        "structured,": [
-          114
-        ],
-        "reproducible": [
-          115
-        ],
-        "integrates": [
-          118
-        ],
-        "lithological": [
-          119,
-          174
-        ],
-        "description,": [
-          120
-        ],
-        "multivariate": [
-          121
-        ],
-        "geochemical": [
-          122
-        ],
-        "classification,": [
-          123
-        ],
-        "petrophysical": [
-          125,
-          201,
-          231,
-          266
-        ],
-        "profiling,": [
-          126,
-          202
-        ],
-        "non-destructive": [
-          128,
-          161,
-          203
-        ],
-        "testing": [
-          130
-        ],
-        "into": [
-          131,
-          153
-        ],
-        "unified": [
-          133
-        ],
-        "framework": [
-          134
-        ],
-        "evaluating": [
-          136
-        ],
-        "heterogeneity.": [
-          137
-        ],
-        "The": [
-          138,
-          171,
-          268
-        ],
-        "methodological": [
-          139,
-          327
-        ],
-        "innovation": [
-          140
-        ],
-        "resides": [
-          141
-        ],
-        "not": [
-          142
-        ],
-        "individual": [
-          145
-        ],
-        "analytical": [
-          146
-        ],
-        "but": [
-          148
-        ],
-        "their": [
-          150,
-          227
-        ],
-        "sequential": [
-          151
-        ],
-        "integration": [
-          152,
-          269
-        ],
-        "facies-guided": [
-          155
-        ],
-        "seamlessly": [
-          158
-        ],
-        "links": [
-          159
-        ],
-        "measurements": [
-          162,
-          236
-        ],
-        "with": [
-          163
-        ],
-        "targeted": [
-          164
-        ],
-        "laboratory": [
-          165,
-          259
-        ],
-        "analyses": [
-          166
-        ],
-        "predictive": [
-          168
-        ],
-        "integration.": [
-          170
-        ],
-        "descriptions,": [
-          175
-        ],
-        "classification": [
-          177
-        ],
-        "using": [
-          178
-        ],
-        "unsupervised": [
-          179
-        ],
-        "machine": [
-          180
-        ],
-        "learning": [
-          181
-        ],
-        "methods": [
-          182
-        ],
-        "such": [
-          183
-        ],
-        "as": [
-          184
-        ],
-        "silhouette": [
-          185
-        ],
-        "analysis,": [
-          186
-        ],
-        "principal": [
-          187,
-          195
-        ],
-        "component": [
-          188,
-          196
-        ],
-        "analysis": [
-          189,
-          197
-        ],
-        "(PCA),": [
-          190
-        ],
-        "hierarchical": [
-          192
-        ],
-        "clustering": [
-          193
-        ],
-        "on": [
-          194
-        ],
-        "(HCPC),": [
-          198
-        ],
-        "bulk": [
-          199
-        ],
-        "geochemistry,": [
-          200,
-          264
-        ],
-        "testing,": [
-          206
-        ],
-        "interpretation.": [
-          210
-        ],
-        "method": [
-          213
-        ],
-        "allows": [
-          214
-        ],
-        "accurate": [
-          216
-        ],
-        "characterization": [
-          217
-        ],
-        "these": [
-          219
-        ],
-        "supporting": [
-          222
-        ],
-        "heterogeneity,": [
-          228
-        ],
-        "behavior.": [
-          234
-        ],
-        "Continuous": [
-          235
-        ],
-        "first": [
-          238
-        ],
-        "used": [
-          239
-        ],
-        "to": [
-          240,
-          344
-        ],
-        "spatial": [
-          242
-        ],
-        "variability": [
-          243
-        ],
-        "interval,": [
-          247
-        ],
-        "after": [
-          248
-        ],
-        "representative": [
-          250
-        ],
-        "samples": [
-          251
-        ],
-        "from": [
-          252
-        ],
-        "identified": [
-          253,
-          295
-        ],
-        "facies": [
-          254
-        ],
-        "domains": [
-          255
-        ],
-        "selected": [
-          257
-        ],
-        "analyses,": [
-          260
-        ],
-        "mineralogy,": [
-          262
-        ],
-        "organic": [
-          263,
-          310
-        ],
-        "measurements.": [
-          267
-        ],
-        "discrete": [
-          273
-        ],
-        "datasets": [
-          274
-        ],
-        "enables": [
+          2,
           275
         ],
-        "evaluation": [
-          277
-        ],
-        "key": [
-          279
-        ],
-        "properties": [
-          280
-        ],
-        "entire": [
-          283
-        ],
-        "identification": [
-          288
-        ],
-        "heterogeneous": [
-          290
-        ],
-        "zones.": [
-          291
-        ],
-        "Lateral": [
-          292
-        ],
-        "by": [
-          296
-        ],
-        "comparing": [
+        "and": [
+          3,
+          20,
+          31,
+          71,
+          111,
+          135,
+          151,
+          174,
+          176,
+          209,
+          216,
+          230,
+          246,
+          257,
+          260,
+          276,
+          284,
           297
         ],
+        "lateral": [
+          4,
+          277
+        ],
+        "heterogeneity": [
+          5,
+          237,
+          278
+        ],
+        "of": [
+          6,
+          52,
+          162,
+          170,
+          214,
+          222,
+          233
+        ],
+        "immature": [
+          7,
+          280
+        ],
+        "organic-rich": [
+          8,
+          281
+        ],
+        "carbonate": [
+          9,
+          282
+        ],
+        "reservoirs": [
+          10
+        ],
+        "is": [
+          11,
+          238
+        ],
+        "essential": [
+          12
+        ],
+        "for": [
+          13,
+          37,
+          79,
+          159,
+          202,
+          273
+        ],
+        "predicting": [
+          14
+        ],
+        "reservoir": [
+          15
+        ],
+        "quality,": [
+          16,
+          173
+        ],
+        "maintaining": [
+          17
+        ],
+        "wellbore": [
+          18
+        ],
+        "stability,": [
+          19
+        ],
+        "identifying": [
+          21
+        ],
+        "sweet-spot": [
+          22
+        ],
+        "intervals": [
+          23
+        ],
+        "in": [
+          24,
+          44,
+          87,
+          93,
+          249,
+          279
+        ],
+        "unconventional": [
+          25,
+          289
+        ],
+        "systems.": [
+          26
+        ],
+        "Although": [
+          27
+        ],
+        "geological,": [
+          28
+        ],
+        "geochemical,": [
+          29
+        ],
+        "petrophysical,": [
+          30
+        ],
+        "mechanical": [
+          32,
+          73,
+          149,
+          177
+        ],
+        "techniques": [
+          33,
+          91
+        ],
+        "are": [
+          34,
+          41,
+          181,
+          200
+        ],
+        "extensively": [
+          35
+        ],
+        "employed": [
+          36
+        ],
+        "rock": [
+          38,
+          120,
+          148
+        ],
+        "characterization,": [
+          39
+        ],
+        "they": [
+          40
+        ],
+        "frequently": [
+          42
+        ],
+        "applied": [
+          43
+        ],
+        "isolation,": [
+          45
+        ],
+        "which": [
+          46,
+          193
+        ],
+        "can": [
+          47,
+          285
+        ],
+        "hinder": [
+          48
+        ],
+        "a": [
+          49,
+          57,
+          76,
+          98,
+          167,
+          269
+        ],
+        "systematic": [
+          50,
+          168,
+          231
+        ],
+        "assessment": [
+          51,
+          169
+        ],
+        "variability.": [
+          53
+        ],
+        "This": [
+          54,
+          155
+        ],
+        "paper": [
+          55
+        ],
+        "introduces": [
+          56
+        ],
+        "structured,": [
+          58
+        ],
+        "reproducible": [
+          59
+        ],
+        "workflow": [
+          60,
+          100,
+          116,
+          267
+        ],
+        "that": [
+          61,
+          101
+        ],
+        "integrates": [
+          62
+        ],
+        "lithological": [
+          63,
+          118
+        ],
+        "description,": [
+          64
+        ],
+        "multivariate": [
+          65
+        ],
+        "geochemical": [
+          66
+        ],
+        "classification,": [
+          67
+        ],
+        "continuous": [
+          68,
+          104,
+          215
+        ],
+        "petrophysical": [
+          69,
+          145,
+          175,
+          210
+        ],
+        "profiling,": [
+          70,
+          146
+        ],
+        "non-destructive": [
+          72,
+          105,
+          147
+        ],
+        "testing": [
+          74
+        ],
+        "into": [
+          75,
+          97
+        ],
+        "unified": [
+          77
+        ],
+        "framework": [
+          78
+        ],
+        "evaluating": [
+          80
+        ],
+        "heterogeneity.": [
+          81
+        ],
+        "The": [
+          82,
+          115,
+          212
+        ],
+        "methodological": [
+          83,
+          271
+        ],
+        "innovation": [
+          84
+        ],
+        "resides": [
+          85
+        ],
+        "not": [
+          86
+        ],
+        "individual": [
+          89
+        ],
+        "analytical": [
+          90
+        ],
+        "but": [
+          92
+        ],
+        "their": [
+          94,
+          171
+        ],
+        "sequential": [
+          95
+        ],
+        "integration": [
+          96,
+          213
+        ],
+        "facies-guided": [
+          99
+        ],
+        "seamlessly": [
+          102
+        ],
+        "links": [
+          103
+        ],
+        "measurements": [
+          106,
+          180
+        ],
+        "with": [
+          107
+        ],
+        "targeted": [
+          108
+        ],
+        "laboratory": [
+          109,
+          203
+        ],
+        "analyses": [
+          110
+        ],
+        "predictive": [
+          112
+        ],
+        "data": [
+          113,
+          153
+        ],
+        "integration.": [
+          114
+        ],
+        "combines": [
+          117
+        ],
+        "descriptions,": [
+          119
+        ],
+        "classification": [
+          121
+        ],
+        "using": [
+          122
+        ],
+        "unsupervised": [
+          123
+        ],
+        "machine": [
+          124
+        ],
+        "learning": [
+          125
+        ],
+        "methods": [
+          126
+        ],
+        "such": [
+          127
+        ],
+        "as": [
+          128
+        ],
+        "silhouette": [
+          129
+        ],
+        "analysis,": [
+          130
+        ],
+        "principal": [
+          131,
+          139
+        ],
+        "component": [
+          132,
+          140
+        ],
+        "analysis": [
+          133,
+          141
+        ],
+        "(PCA),": [
+          134
+        ],
+        "hierarchical": [
+          136
+        ],
+        "clustering": [
+          137
+        ],
+        "on": [
+          138
+        ],
+        "(HCPC),": [
+          142
+        ],
+        "bulk": [
+          143
+        ],
+        "geochemistry,": [
+          144,
+          208
+        ],
+        "testing,": [
+          150
+        ],
+        "integrated": [
+          152,
+          156
+        ],
+        "interpretation.": [
+          154
+        ],
+        "method": [
+          157
+        ],
+        "allows": [
+          158
+        ],
+        "accurate": [
+          160
+        ],
+        "characterization": [
+          161
+        ],
+        "these": [
+          163
+        ],
+        "complex": [
+          164
+        ],
+        "reservoirs,": [
+          165,
+          291
+        ],
+        "supporting": [
+          166
+        ],
+        "heterogeneity,": [
+          172
+        ],
+        "behavior.": [
+          178
+        ],
+        "Continuous": [
+          179
+        ],
+        "first": [
+          182
+        ],
+        "used": [
+          183
+        ],
+        "to": [
+          184,
+          288
+        ],
+        "capture": [
+          185
+        ],
+        "spatial": [
+          186
+        ],
+        "variability": [
+          187
+        ],
+        "along": [
+          188
+        ],
+        "core": [
+          190,
+          228
+        ],
+        "interval,": [
+          191
+        ],
+        "after": [
+          192
+        ],
+        "representative": [
+          194
+        ],
+        "samples": [
+          195
+        ],
+        "from": [
+          196
+        ],
+        "identified": [
+          197,
+          239
+        ],
+        "facies": [
+          198
+        ],
+        "domains": [
+          199
+        ],
+        "selected": [
+          201
+        ],
+        "analyses,": [
+          204
+        ],
+        "including": [
+          205
+        ],
+        "mineralogy,": [
+          206
+        ],
+        "organic": [
+          207,
+          254
+        ],
+        "measurements.": [
+          211
+        ],
+        "discrete": [
+          217
+        ],
+        "datasets": [
+          218
+        ],
+        "enables": [
+          219
+        ],
+        "evaluation": [
+          221
+        ],
+        "key": [
+          223
+        ],
+        "properties": [
+          224
+        ],
+        "across": [
+          225
+        ],
+        "entire": [
+          227
+        ],
+        "interval": [
+          229
+        ],
+        "identification": [
+          232
+        ],
+        "heterogeneous": [
+          234
+        ],
+        "zones.": [
+          235
+        ],
+        "Lateral": [
+          236
+        ],
+        "by": [
+          240
+        ],
+        "comparing": [
+          241
+        ],
         "lithofacies": [
-          298
+          242
         ],
         "transitions,": [
-          299
+          243
         ],
         "chemofacies": [
-          300
+          244
         ],
         "shifts,": [
-          301
+          245
         ],
         "coordinated": [
-          303
+          247
         ],
         "changes": [
-          304
+          248
         ],
         "porosity,": [
-          306
+          250
         ],
         "velocity": [
-          307
+          251
         ],
         "(Vp),": [
-          308
+          252
         ],
         "total": [
-          309
+          253
         ],
         "carbon": [
-          311
+          255
         ],
         "(TOC),": [
-          312
+          256
         ],
         "strength": [
-          314
+          258
         ],
         "(UCS)": [
-          315
+          259
         ],
         "hardness": [
-          317
+          261
         ],
         "(HLD)": [
-          318
+          262
         ],
         "logs.": [
-          319
+          263
         ],
         "Moreover,": [
-          320
+          264
         ],
         "proposed": [
-          322
+          266
         ],
         "provides": [
-          324
+          268
         ],
         "clear": [
-          326
+          270
         ],
         "pathway": [
-          328
+          272
         ],
         "assessing": [
-          330
+          274
         ],
         "systems": [
-          339
+          283
         ],
         "be": [
-          342
+          286
         ],
         "adapted": [
-          343
+          287
         ],
         "hydrocarbon": [
-          346
+          290
         ],
-        "CO": [
-          348
+        "CO<sub>2</sub>": [
+          292
         ],
         "storage": [
-          350
+          293
         ],
         "formations,": [
-          351
+          294
+        ],
+        "geothermal": [
+          295
+        ],
+        "systems,": [
+          296
+        ],
+        "mineral": [
+          298
         ],
         "exploration": [
-          356
+          299
         ],
         "studies.": [
-          357
-        ],
-        "Summited": [
-          358
-        ],
-        "separately": [
-          359
+          300
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-24T05:59:24.953642",
+      "updated_date": "2026-04-07T14:57:38.498316",
       "created_date": "2026-03-21T00:00:00"
     }
   ]

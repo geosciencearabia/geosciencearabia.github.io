@@ -10316,43 +10316,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4410925295",
-    "doi": "https://doi.org/10.1029/2025gl115393",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5087279198",
-      "A5089149869",
-      "A5075778736",
-      "A5010123383"
-    ],
-    "firstAuthorLastName": "Kesumastuti",
-    "allAuthors": [
-      "Lintang Kesumastuti",
-      "Simone Pilia",
-      "Nicholas Rawlinson",
-      "Scott Whattam",
-      "Pepen Supendi"
-    ],
-    "title": "Evidence of Multiple Subducting Slabs Beneath Sulawesi From Teleseismic P‐Wave Tomography",
-    "publicationDate": "2025-05-30",
-    "year": 2025,
-    "venue": "Geophysical Research Letters",
-    "citations": 1,
-    "fwci": 1.8048,
-    "topics": [
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Cambridge",
-      "Meteorological, Climatological, And Geophysical Agency"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4411087739",
     "doi": "https://doi.org/10.1016/j.epsl.2025.119467",
     "program": "",
@@ -10708,6 +10671,43 @@ export const worksTable: WorkTableRecord[] = [
       "Oregon State University",
       "Ministry of Education",
       "Central South University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4410925295",
+    "doi": "https://doi.org/10.1029/2025gl115393",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5087279198",
+      "A5089149869",
+      "A5075778736",
+      "A5010123383"
+    ],
+    "firstAuthorLastName": "Kesumastuti",
+    "allAuthors": [
+      "Lintang Kesumastuti",
+      "Simone Pilia",
+      "Nicholas Rawlinson",
+      "Scott Whattam",
+      "Pepen Supendi"
+    ],
+    "title": "Evidence of Multiple Subducting Slabs Beneath Sulawesi From Teleseismic P‐Wave Tomography",
+    "publicationDate": "2025-05-30",
+    "year": 2025,
+    "venue": "Geophysical Research Letters",
+    "citations": 1,
+    "fwci": 1.7973,
+    "topics": [
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Cambridge",
+      "Meteorological, Climatological, And Geophysical Agency"
     ]
   },
   {
@@ -28979,8 +28979,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-06-23",
     "year": 2020,
     "venue": "Journal of Energy Resources Technology",
-    "citations": 24,
-    "fwci": 2.0965,
+    "citations": 25,
+    "fwci": 2.1183,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Enhanced Oil Recovery Techniques",
@@ -50489,55 +50489,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4416556497",
-    "doi": "https://doi.org/10.1080/10106049.2025.2586775",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5036616600",
-      "A5095780465",
-      "A5025618130",
-      "A5100375667",
-      "A5057920339",
-      "A5024020559",
-      "A5014606576",
-      "A5109707707",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Rahman",
-    "allAuthors": [
-      "Mahfuzur Rahman",
-      "Mahfuzur Rahman",
-      "Zulfiqar Hammad",
-      "Hyeong-Joo Kim",
-      "Seonju Lee",
-      "Tae-Woong Park",
-      "Hyeong-Soo Kim",
-      "Md Masudur Rahman",
-      "Md Masudur Rahman",
-      "Md Anuwer Hossain",
-      "Mohammed Benaafi",
-      "Isam H. Aljundi"
-    ],
-    "title": "Urban expansion and warming jointly amplify drought and surface heat island effects",
-    "publicationDate": "2025-11-23",
-    "year": 2025,
-    "venue": "Geocarto International",
-    "citations": 1,
-    "fwci": 0.7732,
-    "topics": [
-      "Urban Heat Island Mitigation",
-      "Plant Water Relations and Carbon Dynamics",
-      "Climate change and permafrost"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Kunsan National University",
-      "International University of Business Agriculture and Technology"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4416868394",
     "doi": "https://doi.org/10.1016/j.asr.2025.11.099",
     "program": "",
@@ -50615,6 +50566,55 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "University of Nigeria",
       "Near East University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4416556497",
+    "doi": "https://doi.org/10.1080/10106049.2025.2586775",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5036616600",
+      "A5095780465",
+      "A5025618130",
+      "A5100375667",
+      "A5057920339",
+      "A5024020559",
+      "A5014606576",
+      "A5109707707",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Rahman",
+    "allAuthors": [
+      "Mahfuzur Rahman",
+      "Mahfuzur Rahman",
+      "Zulfiqar Hammad",
+      "Hyeong-Joo Kim",
+      "Seonju Lee",
+      "Tae-Woong Park",
+      "Hyeong-Soo Kim",
+      "Md Masudur Rahman",
+      "Md Masudur Rahman",
+      "Md Anuwer Hossain",
+      "Mohammed Benaafi",
+      "Isam H. Aljundi"
+    ],
+    "title": "Urban expansion and warming jointly amplify drought and surface heat island effects",
+    "publicationDate": "2025-11-23",
+    "year": 2025,
+    "venue": "Geocarto International",
+    "citations": 1,
+    "fwci": 0.7706,
+    "topics": [
+      "Urban Heat Island Mitigation",
+      "Plant Water Relations and Carbon Dynamics",
+      "Climate change and permafrost"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Kunsan National University",
+      "International University of Business Agriculture and Technology"
     ]
   },
   {
@@ -69463,7 +69463,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5847,
+    "fwci": 18.5839,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -70365,7 +70365,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 38,
-    "fwci": 3.7491,
+    "fwci": 3.7496,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -86817,7 +86817,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1542,
+    "fwci": 32.1553,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87222,7 +87222,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.872,
+    "fwci": 2.8721,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87506,7 +87506,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3354,
+    "citations": 3355,
     "fwci": 71.873,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -87766,7 +87766,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 448,
+    "citations": 449,
     "fwci": 39.0628,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -88390,6 +88390,46 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2142229802",
+    "doi": "https://doi.org/10.1144/0016-764903-080",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5048940107",
+      "A5007718824",
+      "A5112137514",
+      "A5090419918",
+      "A5113440313"
+    ],
+    "firstAuthorLastName": "Robertson",
+    "allAuthors": [
+      "Alastair H. F. Robertson",
+      "Tı̇mur Ustaömer",
+      "Elizabeth Pickett",
+      "Alan S. Collins",
+      "Theo Andrew",
+      "John E. Dixon"
+    ],
+    "title": "Testing models of Late Palaeozoic–Early Mesozoic orogeny in Western Turkey: support for an evolving open-Tethys model",
+    "publicationDate": "2004-05-01",
+    "year": 2004,
+    "venue": "Journal of the Geological Society",
+    "citations": 141,
+    "fwci": 5.6165,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Edinburgh",
+      "Istanbul University",
+      "British Geological Survey",
+      "University of Western Australia"
     ]
   },
   {
@@ -89100,8 +89140,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-09-25",
     "year": 2017,
     "venue": "Tectonics",
-    "citations": 77,
-    "fwci": 5.6993,
+    "citations": 78,
+    "fwci": 5.6893,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89837,46 +89877,6 @@ export const worksTable: WorkTableRecord[] = [
       "Curtin University",
       "Johannes Gutenberg University Mainz",
       "Dokuz Eylül University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2142229802",
-    "doi": "https://doi.org/10.1144/0016-764903-080",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5048940107",
-      "A5007718824",
-      "A5112137514",
-      "A5090419918",
-      "A5113440313"
-    ],
-    "firstAuthorLastName": "Robertson",
-    "allAuthors": [
-      "Alastair H. F. Robertson",
-      "Tı̇mur Ustaömer",
-      "Elizabeth Pickett",
-      "Alan S. Collins",
-      "Theo Andrew",
-      "John E. Dixon"
-    ],
-    "title": "Testing models of Late Palaeozoic–Early Mesozoic orogeny in Western Turkey: support for an evolving open-Tethys model",
-    "publicationDate": "2004-05-01",
-    "year": 2004,
-    "venue": "Journal of the Geological Society",
-    "citations": 140,
-    "fwci": 5.6194,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Edinburgh",
-      "Istanbul University",
-      "British Geological Survey",
-      "University of Western Australia"
     ]
   },
   {
@@ -90976,14 +90976,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Developments in precambrian geology",
     "citations": 60,
-    "fwci": 29.4951,
+    "fwci": 29.6127,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
       "Geochemistry and Elemental Analysis"
     ],
     "institutions": [
-      "University of Adelaide",
+      "The University of Adelaide",
       "Northwestern University",
       "University of California, Santa Barbara"
     ]
@@ -91687,6 +91687,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1862437989",
+    "doi": "https://doi.org/10.1002/2015tc003876",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5035215595",
+      "A5000343935",
+      "A5011312843",
+      "A5084273448"
+    ],
+    "firstAuthorLastName": "Arboit",
+    "allAuthors": [
+      "Francesco Arboit",
+      "Khalid Amrouch",
+      "Alan S. Collins",
+      "Rosalind King",
+      "C.K. Morley"
+    ],
+    "title": "Determination of the tectonic evolution from fractures, faults, and calcite twins on the southwestern margin of the Indochina Block",
+    "publicationDate": "2015-06-19",
+    "year": 2015,
+    "venue": "Tectonics",
+    "citations": 41,
+    "fwci": 11.4394,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "UCL Australia",
+      "Chiang Mai University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1985658815",
     "doi": "https://doi.org/10.1016/j.precamres.2011.01.014",
     "program": "",
@@ -91745,43 +91782,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1862437989",
-    "doi": "https://doi.org/10.1002/2015tc003876",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5035215595",
-      "A5000343935",
-      "A5011312843",
-      "A5084273448"
-    ],
-    "firstAuthorLastName": "Arboit",
-    "allAuthors": [
-      "Francesco Arboit",
-      "Khalid Amrouch",
-      "Alan S. Collins",
-      "Rosalind King",
-      "C.K. Morley"
-    ],
-    "title": "Determination of the tectonic evolution from fractures, faults, and calcite twins on the southwestern margin of the Indochina Block",
-    "publicationDate": "2015-06-19",
-    "year": 2015,
-    "venue": "Tectonics",
-    "citations": 40,
-    "fwci": 11.2872,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "earthquake and tectonic studies",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "UCL Australia",
-      "Chiang Mai University"
     ]
   },
   {
@@ -105979,8 +105979,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-07-01",
     "year": 2001,
     "venue": "GeoArabia",
-    "citations": 524,
-    "fwci": 6.9308,
+    "citations": 525,
+    "fwci": 6.9206,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -107713,8 +107713,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-02-01",
     "year": 2019,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 111,
-    "fwci": 6.0381,
+    "citations": 112,
+    "fwci": 6.0357,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -114494,7 +114494,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Earth and Planetary Science Letters",
     "citations": 70,
-    "fwci": 16.5742,
+    "fwci": 16.5746,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -114874,7 +114874,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Basin Research",
     "citations": 36,
-    "fwci": 7.6807,
+    "fwci": 7.6809,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -122703,6 +122703,75 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2219636280",
+    "doi": "https://doi.org/10.1111/maps.12555",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5073646175",
+      "A5062048732",
+      "A5085540654",
+      "A5105467538",
+      "A5045550782"
+    ],
+    "firstAuthorLastName": "Kenkmann",
+    "allAuthors": [
+      "T. Kenkmann",
+      "Abdulkader M. Afifi",
+      "Simon A. Stewart",
+      "M. H. Poelchau",
+      "Douglas J. Cook",
+      "Allen S. Neville"
+    ],
+    "title": "Saqqar: A 34 km diameter impact structure in Saudi Arabia",
+    "publicationDate": "2015-10-15",
+    "year": 2015,
+    "venue": "Meteoritics and Planetary Science",
+    "citations": 16,
+    "fwci": 1.516,
+    "topics": [
+      "Planetary Science and Exploration",
+      "Geology and Paleoclimatology Research",
+      "Astro and Planetary Science"
+    ],
+    "institutions": [
+      "University of Freiburg",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2993803229",
+    "doi": "https://doi.org/10.2113/geoarabia190117",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5045550782",
+      "A5105455704",
+      "A5062048732"
+    ],
+    "firstAuthorLastName": "Neville",
+    "allAuthors": [
+      "Allen S. Neville",
+      "Douglas J. Cook",
+      "Abdulkader M. Afifi",
+      "Simon A. Stewart"
+    ],
+    "title": "Five buried crater structures imaged on reflection seismic data in Saudi Arabia",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "GeoArabia",
+    "citations": 14,
+    "fwci": 1.7072,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Methane Hydrates and Related Phenomena",
+      "Astro and Planetary Science"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W4317791642",
     "doi": "https://doi.org/10.2118/212701-ms",
     "program": "",
@@ -122766,44 +122835,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Michigan–Ann Arbor"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2219636280",
-    "doi": "https://doi.org/10.1111/maps.12555",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5073646175",
-      "A5062048732",
-      "A5085540654",
-      "A5105467538",
-      "A5045550782"
-    ],
-    "firstAuthorLastName": "Kenkmann",
-    "allAuthors": [
-      "T. Kenkmann",
-      "Abdulkader M. Afifi",
-      "Simon A. Stewart",
-      "M. H. Poelchau",
-      "Douglas J. Cook",
-      "Allen S. Neville"
-    ],
-    "title": "Saqqar: A 34 km diameter impact structure in Saudi Arabia",
-    "publicationDate": "2015-10-15",
-    "year": 2015,
-    "venue": "Meteoritics and Planetary Science",
-    "citations": 15,
-    "fwci": 1.5722,
-    "topics": [
-      "Planetary Science and Exploration",
-      "Geology and Paleoclimatology Research",
-      "Astro and Planetary Science"
-    ],
-    "institutions": [
-      "University of Freiburg",
-      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -122877,37 +122908,6 @@ export const worksTable: WorkTableRecord[] = [
       "Maritime and Coastal Archaeology",
       "Marine and environmental studies",
       "Oceanographic and Atmospheric Processes"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2993803229",
-    "doi": "https://doi.org/10.2113/geoarabia190117",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5045550782",
-      "A5105455704",
-      "A5062048732"
-    ],
-    "firstAuthorLastName": "Neville",
-    "allAuthors": [
-      "Allen S. Neville",
-      "Douglas J. Cook",
-      "Abdulkader M. Afifi",
-      "Simon A. Stewart"
-    ],
-    "title": "Five buried crater structures imaged on reflection seismic data in Saudi Arabia",
-    "publicationDate": "2014-01-01",
-    "year": 2014,
-    "venue": "GeoArabia",
-    "citations": 13,
-    "fwci": 1.6683,
-    "topics": [
-      "earthquake and tectonic studies",
-      "Methane Hydrates and Related Phenomena",
-      "Astro and Planetary Science"
     ],
     "institutions": []
   },
@@ -127416,8 +127416,7 @@ export const worksTable: WorkTableRecord[] = [
       "Karst Systems and Hydrogeology"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Aramco (Saudi Arabia)"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -131464,7 +131463,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 13,
-    "fwci": 3.234,
+    "fwci": 3.2341,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -134547,7 +134546,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Journal of Sedimentary Research",
     "citations": 7,
-    "fwci": 1.6341,
+    "fwci": 1.6354,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Methane Hydrates and Related Phenomena",
