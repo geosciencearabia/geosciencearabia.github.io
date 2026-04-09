@@ -3,7 +3,7 @@
     "id": "https://openalex.org/A5014657720",
     "orcid": "https://orcid.org/0000-0002-4637-9883",
     "display_name": "Abdulwahab Muhammad Bello",
-    "display_name_alternatives": [
+    "raw_author_names": [
       "A. Bello",
       "A.M. Bello",
       "Abdulwahab  Muhammad Bello",
@@ -14,6 +14,7 @@
       "Abdulwahab Muhammed Bello",
       "Bello, Abdulwahab"
     ],
+    "full_name": "Abdulwahab  Muhammad Bello",
     "works_count": 64,
     "cited_by_count": 642,
     "summary_stats": {
@@ -263,7 +264,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000714,
+        "value": 0.0000713,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -389,17 +390,20 @@
         "cited_by_count": 2
       }
     ],
-    "longest_name": "Abdulwahab  Muhammad Bello",
-    "parsed_longest_name": {
-      "first": "abdulwahab",
-      "middle": "muhammad",
-      "last": "bello",
-      "suffix": "",
-      "nickname": ""
-    },
+    "display_name_alternatives": [
+      "A. Bello",
+      "A.M. Bello",
+      "Abdulwahab  Muhammad Bello",
+      "Abdulwahab Bello",
+      "Abdulwahab M. Bello",
+      "Abdulwahab Mohammed Bello",
+      "Abdulwahab Muhammad Bello",
+      "Abdulwahab Muhammed Bello",
+      "Bello, Abdulwahab"
+    ],
     "block_key": "a bello",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5014657720",
-    "updated_date": "2026-04-06T12:23:03",
+    "updated_date": null,
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
@@ -1073,8 +1077,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water"
         }
       ],
@@ -1955,8 +1959,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -2916,8 +2920,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5699999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -3777,8 +3781,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -5200,8 +5204,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5,
           "display_name": "Life in Land"
         }
       ],
@@ -6454,8 +6458,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5,
           "display_name": "Life in Land"
         }
       ],
@@ -7885,8 +7889,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -8571,8 +8575,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -9661,8 +9665,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -10448,8 +10452,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -11983,8 +11987,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -13922,8 +13926,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -15503,8 +15507,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -16838,8 +16842,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
@@ -18948,8 +18952,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394,
           "display_name": "Life in Land"
         }
       ],
@@ -21891,11 +21895,11 @@
         "currency": "USD",
         "value_usd": 1750
       },
-      "fwci": 3.1421,
+      "fwci": 3.0878,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.91640119,
+        "value": 0.91480953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22273,21 +22277,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5400000214576721,
           "display_name": "Climate action"
         }
       ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G1114908691",
-          "display_name": null,
-          "funder_award_id": "TETFUND",
-          "funder_id": "https://openalex.org/F4320325463",
-          "funder_display_name": "Tertiary Education Trust Fund"
-        }
-      ],
+      "awards": [],
       "funders": [
+        {
+          "id": "https://openalex.org/F4320321709",
+          "display_name": "Ministry of Higher Education, Malaysia",
+          "ror": "https://ror.org/05mcs2t73"
+        },
         {
           "id": "https://openalex.org/F4320325463",
           "display_name": "Tertiary Education Trust Fund",
@@ -23147,7 +23148,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-01T17:29:45.350535",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25039,11 +25040,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 6.4704,
+      "fwci": 6.213,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.95895224,
+        "value": 0.95687971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25259,13 +25260,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.44999998807907104,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -25422,7 +25429,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30710,8 +30717,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6100000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -31713,8 +31720,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -32207,16 +32214,16 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 2.0973,
+      "fwci": 2.1025,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.85573785,
+        "value": 0.8559879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -32603,20 +32610,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water"
         }
       ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G4281104375",
-          "display_name": null,
-          "funder_award_id": "PTDF/ED/PHD/BAM/1103/17",
-          "funder_id": "https://openalex.org/F4320335413",
-          "funder_display_name": "Petroleum Technology Development Fund"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320315885",
@@ -33294,7 +33293,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33931,8 +33930,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -34112,6 +34111,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767744",
               "display_name": "State Key Laboratory of Marine Geology",
               "ror": "https://ror.org/02bxj9z30",
@@ -34120,16 +34129,6 @@
               "lineage": [
                 "https://openalex.org/I116953780",
                 "https://openalex.org/I4391767744"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I116953780",
-              "display_name": "Tongji University",
-              "ror": "https://ror.org/03rc6as71",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116953780"
               ]
             },
             {
@@ -34178,6 +34177,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767744",
               "display_name": "State Key Laboratory of Marine Geology",
               "ror": "https://ror.org/02bxj9z30",
@@ -34186,16 +34195,6 @@
               "lineage": [
                 "https://openalex.org/I116953780",
                 "https://openalex.org/I4391767744"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I116953780",
-              "display_name": "Tongji University",
-              "ror": "https://ror.org/03rc6as71",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116953780"
               ]
             }
           ],
@@ -34487,11 +34486,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 4.1954,
+      "fwci": 4.0787,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.93642399,
+        "value": 0.93405114,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34769,13 +34768,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320313560",
+          "display_name": "Central Intelligence Agency",
+          "ror": "https://ror.org/0135c5n64"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -34910,7 +34915,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35428,8 +35433,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4399999976158142,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -36206,11 +36211,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0435,
+      "fwci": 2.02,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.85824967,
+        "value": 0.85633529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36524,7 +36529,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -37539,7 +37550,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-04-02T15:55:50.835912",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38360,8 +38371,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4099999964237213,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -39582,8 +39593,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5,
           "display_name": "Life in Land"
         }
       ],
@@ -40922,8 +40933,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -43580,11 +43591,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 92.4828,
+      "fwci": 85.6076,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99869476,
+        "value": 0.99866903,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -43918,8 +43929,27 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4360844425",
+          "display_name": null,
+          "funder_award_id": "SF24004",
+          "funder_id": "https://openalex.org/F4320336956",
+          "funder_display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -44023,7 +44053,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -44632,8 +44662,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5699999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -45121,8 +45151,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -46442,8 +46472,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7900000214576721,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -48072,8 +48102,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -49408,8 +49438,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -50142,8 +50172,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -51449,8 +51479,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.550000011920929,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -53438,16 +53468,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I45711476",
-              "display_name": "Obafemi Awolowo University",
-              "ror": "https://ror.org/04snhqa82",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I45711476"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210153400",
               "display_name": "King's College Hospital",
               "ror": "https://ror.org/044nptt90",
@@ -53456,6 +53476,16 @@
               "lineage": [
                 "https://openalex.org/I4210111135",
                 "https://openalex.org/I4210153400"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I45711476",
+              "display_name": "Obafemi Awolowo University",
+              "ror": "https://ror.org/04snhqa82",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I45711476"
               ]
             }
           ],
@@ -53789,11 +53819,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 1.404,
+      "fwci": 1.242,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74920868,
+        "value": 0.72680881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54033,7 +54063,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320359",
+          "display_name": "University of Aberdeen",
+          "ror": "https://ror.org/016476m91"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -54125,7 +54161,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-19T04:01:09.351973",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54742,8 +54778,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -55528,8 +55564,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6399999856948853,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -56179,7 +56215,7 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
           "countries": [],
@@ -56445,8 +56481,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -56478,7 +56514,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-24T08:02:53.985720",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56863,8 +56899,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -57545,8 +57581,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705,
           "display_name": "Life below water"
         }
       ],
@@ -58029,8 +58065,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -58612,8 +58648,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8399999737739563,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -59359,8 +59395,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858,
           "display_name": "Life below water"
         }
       ],
@@ -61311,8 +61347,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4399999976158142,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -61856,8 +61892,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -63232,8 +63268,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],

@@ -3,7 +3,7 @@
     "id": "https://openalex.org/A5039010638",
     "orcid": "https://orcid.org/0000-0002-4373-8713",
     "display_name": "Mohamed O. Abouelresh",
-    "display_name_alternatives": [
+    "raw_author_names": [
       "M. Abouelresh",
       "M.O. Abouelresh",
       "M.O. Abouelresh*",
@@ -11,6 +11,7 @@
       "Mohamed O. Abouelresh",
       "Mohamed Omar Abouelresh"
     ],
+    "full_name": "Mohamed Omar Abouelresh",
     "works_count": 50,
     "cited_by_count": 985,
     "summary_stats": {
@@ -220,7 +221,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002799,
+        "value": 0.0002797,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -433,17 +434,17 @@
         "cited_by_count": 0
       }
     ],
-    "longest_name": "Mohamed Omar Abouelresh",
-    "parsed_longest_name": {
-      "first": "mohamed",
-      "middle": "omar",
-      "last": "abouelresh",
-      "suffix": "",
-      "nickname": ""
-    },
+    "display_name_alternatives": [
+      "M. Abouelresh",
+      "M.O. Abouelresh",
+      "M.O. Abouelresh*",
+      "Mohamed Abouelresh",
+      "Mohamed O. Abouelresh",
+      "Mohamed Omar Abouelresh"
+    ],
     "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
-    "updated_date": "2026-04-05T12:21:57",
+    "updated_date": null,
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -19685,11 +19686,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7993,
+      "fwci": 6.5505,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96028834,
+        "value": 0.95897106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20079,6 +20080,11 @@
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [
+        {
+          "id": "https://openalex.org/F4320319142",
+          "display_name": "Znanstveni centar izvrsnosti za napredne materijale i senzore, Hrvatska Zaklada za Znanost",
+          "ror": null
+        },
         {
           "id": "https://openalex.org/F4320322323",
           "display_name": "King Fahd University of Petroleum and Minerals",
@@ -20641,7 +20647,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22493,826 +22499,6 @@
         }
       ],
       "updated_date": "2026-02-27T16:54:17.756197",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4413136238",
-      "doi": "https://doi.org/10.1016/j.ecofro.2025.07.013",
-      "title": "Profiling the microeukaryote diversity in arid sabkha soils in NEOM, Saudi Arabia, using 18S rRNA-based eDNA metabarcoding",
-      "display_name": "Profiling the microeukaryote diversity in arid sabkha soils in NEOM, Saudi Arabia, using 18S rRNA-based eDNA metabarcoding",
-      "publication_year": 2025,
-      "publication_date": "2025-08-08",
-      "ids": {
-        "openalex": "https://openalex.org/W4413136238",
-        "doi": "https://doi.org/10.1016/j.ecofro.2025.07.013"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ecofro.2025.07.013",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.ecofro.2025.07.013",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S5407037086",
-          "display_name": "Ecological Frontiers",
-          "issn_l": "2950-5097",
-          "issn": [
-            "2950-5097"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Ecological Frontiers",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078509022",
-            "display_name": "Jayanath Gopi",
-            "orcid": "https://orcid.org/0000-0002-4028-2028"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Jayanath Gopi",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061144117",
-            "display_name": "Thadickal V. Joydas",
-            "orcid": "https://orcid.org/0000-0002-6725-4094"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Thadickal V. Joydas",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5015538346",
-            "display_name": "Seerangan Manokaran",
-            "orcid": "https://orcid.org/0000-0001-5482-5866"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Seerangan Manokaran",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039010638",
-            "display_name": "Mohamed O. Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed O. Abouelresh",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5043684379",
-            "display_name": "P. R. Jayachandran",
-            "orcid": "https://orcid.org/0000-0002-4710-2130"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Paravanparambil R. Jayachandran",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072739054",
-            "display_name": "Sudhanshu Dixit",
-            "orcid": "https://orcid.org/0000-0003-0056-1409"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sudhanshu Dixit",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108598618",
-            "display_name": "M. Rafeeq",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammed Rafeeq",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053999990",
-            "display_name": "Ali Almusabeh",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali H. Almusabeh",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044218213",
-            "display_name": "Mazen K. Nazal",
-            "orcid": "https://orcid.org/0000-0001-5673-1900"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mazen K. Nazal",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050282879",
-            "display_name": "Karuppasamy P. Manikandan",
-            "orcid": "https://orcid.org/0000-0003-4975-3938"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Karuppasamy P. Manikandan",
-          "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5119279875",
-            "display_name": "Sharif Hala",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122480",
-              "display_name": "National Public Health Laboratory",
-              "ror": "https://ror.org/0276bkt19",
-              "country_code": "NP",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210095786",
-                "https://openalex.org/I4210122480",
-                "https://openalex.org/I4210143444"
-              ]
-            }
-          ],
-          "countries": [
-            "NP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sharif Hala",
-          "raw_affiliation_strings": [
-            "Biothreat Response, Public Health Laboratory, Public Health Authority, Riyadh, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biothreat Response, Public Health Laboratory, Public Health Authority, Riyadh, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210122480"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5093126377",
-            "display_name": "Bruno Pulido",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Bruno Pulido",
-          "raw_affiliation_strings": [
-            "NEOM Environment, Neom, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "NEOM Environment, Neom, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 12,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5061144117",
-        "https://openalex.org/A5078509022"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.8581,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.86375361,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "45",
-        "issue": "6",
-        "first_page": "1814",
-        "last_page": "1822"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12640",
-        "display_name": "Environmental DNA in Biodiversity Studies",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2303",
-          "display_name": "Ecology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12640",
-          "display_name": "Environmental DNA in Biodiversity Studies",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11791",
-          "display_name": "Microbial Community Ecology and Physiology",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11879",
-          "display_name": "Protist diversity and phylogeny",
-          "score": 0.9884999990463257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1312",
-            "display_name": "Molecular Biology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/13",
-            "display_name": "Biochemistry, Genetics and Molecular Biology"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.9537015557289124
-        },
-        {
-          "id": "https://openalex.org/keywords/arid",
-          "display_name": "Arid",
-          "score": 0.6752434372901917
-        },
-        {
-          "id": "https://openalex.org/keywords/profiling",
-          "display_name": "Profiling (computer programming)",
-          "score": 0.44170546531677246
-        },
-        {
-          "id": "https://openalex.org/keywords/soil-water",
-          "display_name": "Soil water",
-          "score": 0.42414504289627075
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.40946292877197266
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3807704448699951
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.3079071044921875
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.1682162880897522
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.9537015557289124
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.6752434372901917
-        },
-        {
-          "id": "https://openalex.org/C187191949",
-          "wikidata": "https://www.wikidata.org/wiki/Q1138496",
-          "display_name": "Profiling (computer programming)",
-          "level": 2,
-          "score": 0.44170546531677246
-        },
-        {
-          "id": "https://openalex.org/C159750122",
-          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
-          "display_name": "Soil water",
-          "level": 2,
-          "score": 0.42414504289627075
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.40946292877197266
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3807704448699951
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.3079071044921875
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.1682162880897522
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111919701",
-          "wikidata": "https://www.wikidata.org/wiki/Q9135",
-          "display_name": "Operating system",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ecofro.2025.07.013",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.ecofro.2025.07.013",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S5407037086",
-            "display_name": "Ecological Frontiers",
-            "issn_l": "2950-5097",
-            "issn": [
-              "2950-5097"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Ecological Frontiers",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 50,
-      "referenced_works": [
-        "https://openalex.org/W1815195908",
-        "https://openalex.org/W1979060637",
-        "https://openalex.org/W1989898205",
-        "https://openalex.org/W1998300678",
-        "https://openalex.org/W2039516620",
-        "https://openalex.org/W2042439277",
-        "https://openalex.org/W2046764068",
-        "https://openalex.org/W2054660352",
-        "https://openalex.org/W2056279562",
-        "https://openalex.org/W2094404481",
-        "https://openalex.org/W2136879569",
-        "https://openalex.org/W2161872045",
-        "https://openalex.org/W2402876573",
-        "https://openalex.org/W2418372146",
-        "https://openalex.org/W2460850757",
-        "https://openalex.org/W2513506562",
-        "https://openalex.org/W2789763523",
-        "https://openalex.org/W2807444063",
-        "https://openalex.org/W2892183136",
-        "https://openalex.org/W2903153560",
-        "https://openalex.org/W2910754831",
-        "https://openalex.org/W2914234940",
-        "https://openalex.org/W2947380190",
-        "https://openalex.org/W2981272410",
-        "https://openalex.org/W2995671733",
-        "https://openalex.org/W3044902569",
-        "https://openalex.org/W3047685984",
-        "https://openalex.org/W3151336368",
-        "https://openalex.org/W3199311266",
-        "https://openalex.org/W4200517972",
-        "https://openalex.org/W4206914536",
-        "https://openalex.org/W4283652146",
-        "https://openalex.org/W4293224412",
-        "https://openalex.org/W4322494063",
-        "https://openalex.org/W4362595649",
-        "https://openalex.org/W4380290933",
-        "https://openalex.org/W4385602287",
-        "https://openalex.org/W4387435833",
-        "https://openalex.org/W4388023293",
-        "https://openalex.org/W4389116855",
-        "https://openalex.org/W4389950473",
-        "https://openalex.org/W4390583734",
-        "https://openalex.org/W4392925747",
-        "https://openalex.org/W4401374774",
-        "https://openalex.org/W4401714023",
-        "https://openalex.org/W4409324386",
-        "https://openalex.org/W6725474386",
-        "https://openalex.org/W6839335771",
-        "https://openalex.org/W6853480148",
-        "https://openalex.org/W6870830858"
-      ],
-      "related_works": [
-        "https://openalex.org/W1540552215",
-        "https://openalex.org/W3029224077",
-        "https://openalex.org/W2319566318",
-        "https://openalex.org/W2737535802",
-        "https://openalex.org/W2319864368",
-        "https://openalex.org/W2046153878",
-        "https://openalex.org/W3199311266",
-        "https://openalex.org/W4320072888",
-        "https://openalex.org/W2802940033",
-        "https://openalex.org/W2992798906"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-02-03T00:53:05.648605",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25606,6 +24792,832 @@
         }
       ],
       "updated_date": "2026-03-27T05:58:40.876381",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4413136238",
+      "doi": "https://doi.org/10.1016/j.ecofro.2025.07.013",
+      "title": "Profiling the microeukaryote diversity in arid sabkha soils in NEOM, Saudi Arabia, using 18S rRNA-based eDNA metabarcoding",
+      "display_name": "Profiling the microeukaryote diversity in arid sabkha soils in NEOM, Saudi Arabia, using 18S rRNA-based eDNA metabarcoding",
+      "publication_year": 2025,
+      "publication_date": "2025-08-08",
+      "ids": {
+        "openalex": "https://openalex.org/W4413136238",
+        "doi": "https://doi.org/10.1016/j.ecofro.2025.07.013"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ecofro.2025.07.013",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.ecofro.2025.07.013",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5407037086",
+          "display_name": "Ecological Frontiers",
+          "issn_l": "2950-5097",
+          "issn": [
+            "2950-5097"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Ecological Frontiers",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078509022",
+            "display_name": "Jayanath Gopi",
+            "orcid": "https://orcid.org/0000-0002-4028-2028"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jayanath Gopi",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061144117",
+            "display_name": "Thadickal V. Joydas",
+            "orcid": "https://orcid.org/0000-0002-6725-4094"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Thadickal V. Joydas",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015538346",
+            "display_name": "Seerangan Manokaran",
+            "orcid": "https://orcid.org/0000-0001-5482-5866"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Seerangan Manokaran",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039010638",
+            "display_name": "Mohamed O. Abouelresh",
+            "orcid": "https://orcid.org/0000-0002-4373-8713"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed O. Abouelresh",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043684379",
+            "display_name": "P. R. Jayachandran",
+            "orcid": "https://orcid.org/0000-0002-4710-2130"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paravanparambil R. Jayachandran",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072739054",
+            "display_name": "Sudhanshu Dixit",
+            "orcid": "https://orcid.org/0000-0003-0056-1409"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sudhanshu Dixit",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108598618",
+            "display_name": "M. Rafeeq",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammed Rafeeq",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053999990",
+            "display_name": "Ali Almusabeh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali H. Almusabeh",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044218213",
+            "display_name": "Mazen K. Nazal",
+            "orcid": "https://orcid.org/0000-0001-5673-1900"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mazen K. Nazal",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050282879",
+            "display_name": "Karuppasamy P. Manikandan",
+            "orcid": "https://orcid.org/0000-0003-4975-3938"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Karuppasamy P. Manikandan",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5119279875",
+            "display_name": "Sharif Hala",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122480",
+              "display_name": "National Public Health Laboratory",
+              "ror": "https://ror.org/0276bkt19",
+              "country_code": "NP",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210095786",
+                "https://openalex.org/I4210122480",
+                "https://openalex.org/I4210143444"
+              ]
+            }
+          ],
+          "countries": [
+            "NP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sharif Hala",
+          "raw_affiliation_strings": [
+            "Biothreat Response, Public Health Laboratory, Public Health Authority, Riyadh, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biothreat Response, Public Health Laboratory, Public Health Authority, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210122480"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5093126377",
+            "display_name": "Bruno Pulido",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bruno Pulido",
+          "raw_affiliation_strings": [
+            "NEOM Environment, Neom, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NEOM Environment, Neom, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061144117",
+        "https://openalex.org/A5078509022"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.6367,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.84759632,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "45",
+        "issue": "6",
+        "first_page": "1814",
+        "last_page": "1822"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12640",
+        "display_name": "Environmental DNA in Biodiversity Studies",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2303",
+          "display_name": "Ecology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12640",
+          "display_name": "Environmental DNA in Biodiversity Studies",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11791",
+          "display_name": "Microbial Community Ecology and Physiology",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11879",
+          "display_name": "Protist diversity and phylogeny",
+          "score": 0.9884999990463257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1312",
+            "display_name": "Molecular Biology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/13",
+            "display_name": "Biochemistry, Genetics and Molecular Biology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "Sabkha",
+          "score": 0.9537015557289124
+        },
+        {
+          "id": "https://openalex.org/keywords/arid",
+          "display_name": "Arid",
+          "score": 0.6752434372901917
+        },
+        {
+          "id": "https://openalex.org/keywords/profiling",
+          "display_name": "Profiling (computer programming)",
+          "score": 0.44170546531677246
+        },
+        {
+          "id": "https://openalex.org/keywords/soil-water",
+          "display_name": "Soil water",
+          "score": 0.42414504289627075
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.40946292877197266
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3807704448699951
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.3079071044921875
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.1682162880897522
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.9537015557289124
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.6752434372901917
+        },
+        {
+          "id": "https://openalex.org/C187191949",
+          "wikidata": "https://www.wikidata.org/wiki/Q1138496",
+          "display_name": "Profiling (computer programming)",
+          "level": 2,
+          "score": 0.44170546531677246
+        },
+        {
+          "id": "https://openalex.org/C159750122",
+          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+          "display_name": "Soil water",
+          "level": 2,
+          "score": 0.42414504289627075
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.40946292877197266
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3807704448699951
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.3079071044921875
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.1682162880897522
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ecofro.2025.07.013",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.ecofro.2025.07.013",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S5407037086",
+            "display_name": "Ecological Frontiers",
+            "issn_l": "2950-5097",
+            "issn": [
+              "2950-5097"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Ecological Frontiers",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 50,
+      "referenced_works": [
+        "https://openalex.org/W1815195908",
+        "https://openalex.org/W1979060637",
+        "https://openalex.org/W1989898205",
+        "https://openalex.org/W1998300678",
+        "https://openalex.org/W2039516620",
+        "https://openalex.org/W2042439277",
+        "https://openalex.org/W2046764068",
+        "https://openalex.org/W2054660352",
+        "https://openalex.org/W2056279562",
+        "https://openalex.org/W2094404481",
+        "https://openalex.org/W2136879569",
+        "https://openalex.org/W2161872045",
+        "https://openalex.org/W2402876573",
+        "https://openalex.org/W2418372146",
+        "https://openalex.org/W2460850757",
+        "https://openalex.org/W2513506562",
+        "https://openalex.org/W2789763523",
+        "https://openalex.org/W2807444063",
+        "https://openalex.org/W2892183136",
+        "https://openalex.org/W2903153560",
+        "https://openalex.org/W2910754831",
+        "https://openalex.org/W2914234940",
+        "https://openalex.org/W2947380190",
+        "https://openalex.org/W2981272410",
+        "https://openalex.org/W2995671733",
+        "https://openalex.org/W3044902569",
+        "https://openalex.org/W3047685984",
+        "https://openalex.org/W3151336368",
+        "https://openalex.org/W3199311266",
+        "https://openalex.org/W4200517972",
+        "https://openalex.org/W4206914536",
+        "https://openalex.org/W4283652146",
+        "https://openalex.org/W4293224412",
+        "https://openalex.org/W4322494063",
+        "https://openalex.org/W4362595649",
+        "https://openalex.org/W4380290933",
+        "https://openalex.org/W4385602287",
+        "https://openalex.org/W4387435833",
+        "https://openalex.org/W4388023293",
+        "https://openalex.org/W4389116855",
+        "https://openalex.org/W4389950473",
+        "https://openalex.org/W4390583734",
+        "https://openalex.org/W4392925747",
+        "https://openalex.org/W4401374774",
+        "https://openalex.org/W4401714023",
+        "https://openalex.org/W4409324386",
+        "https://openalex.org/W6725474386",
+        "https://openalex.org/W6839335771",
+        "https://openalex.org/W6853480148",
+        "https://openalex.org/W6870830858"
+      ],
+      "related_works": [
+        "https://openalex.org/W1540552215",
+        "https://openalex.org/W3029224077",
+        "https://openalex.org/W2319566318",
+        "https://openalex.org/W2737535802",
+        "https://openalex.org/W2319864368",
+        "https://openalex.org/W2046153878",
+        "https://openalex.org/W3199311266",
+        "https://openalex.org/W4320072888",
+        "https://openalex.org/W2802940033",
+        "https://openalex.org/W2992798906"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45832,7 +45844,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34902772,
+        "value": 0.3421334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46151,8 +46163,22 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G8260893046",
+          "display_name": null,
+          "funder_award_id": "King Fahd University of Petroleum and Minerals",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -46205,7 +46231,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46542,7 +46568,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36243277,
+        "value": 0.35545686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46814,8 +46840,22 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G996811674",
+          "display_name": null,
+          "funder_award_id": "KFUPM",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -46873,7 +46913,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {

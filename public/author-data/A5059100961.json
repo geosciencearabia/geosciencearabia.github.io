@@ -3,12 +3,13 @@
     "id": "https://openalex.org/A5059100961",
     "orcid": "https://orcid.org/0000-0002-5595-0017",
     "display_name": "Ayman Al-Lehyani",
-    "display_name_alternatives": [
+    "raw_author_names": [
       "A. Al-Lehyani",
       "Ayman Al-Lehyani",
       "Ayman F. Al-Lehyani",
       "Ayman Fazea Al-Lehyani"
     ],
+    "full_name": "Ayman Fazea Al-Lehyani",
     "works_count": 8,
     "cited_by_count": 83,
     "summary_stats": {
@@ -302,17 +303,15 @@
         "cited_by_count": 0
       }
     ],
-    "longest_name": "Ayman Fazea Al-Lehyani",
-    "parsed_longest_name": {
-      "first": "ayman",
-      "middle": "fazea",
-      "last": "al-lehyani",
-      "suffix": "",
-      "nickname": ""
-    },
+    "display_name_alternatives": [
+      "A. Al-Lehyani",
+      "Ayman Al-Lehyani",
+      "Ayman F. Al-Lehyani",
+      "Ayman Fazea Al-Lehyani"
+    ],
     "block_key": "a al-lehyani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
-    "updated_date": "2026-04-04T12:23:31",
+    "updated_date": null,
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -791,16 +790,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -2167,9 +2166,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -2194,8 +2193,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -2773,8 +2772,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -3327,8 +3326,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4330,16 +4329,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
@@ -4774,8 +4773,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5879,8 +5878,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -7001,8 +7000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,

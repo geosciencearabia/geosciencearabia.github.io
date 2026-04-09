@@ -3,10 +3,11 @@
     "id": "https://openalex.org/A5051867931",
     "orcid": null,
     "display_name": "Jacques Manivit",
-    "display_name_alternatives": [
+    "raw_author_names": [
       "J. Manivit",
       "Jacques Manivit"
     ],
+    "full_name": "Jacques Manivit",
     "works_count": 8,
     "cited_by_count": 315,
     "summary_stats": {
@@ -281,17 +282,13 @@
         "cited_by_count": 6
       }
     ],
-    "longest_name": "Jacques Manivit",
-    "parsed_longest_name": {
-      "first": "jacques",
-      "middle": "",
-      "last": "manivit",
-      "suffix": "",
-      "nickname": ""
-    },
+    "display_name_alternatives": [
+      "J. Manivit",
+      "Jacques Manivit"
+    ],
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2026-04-04T12:23:31",
+    "updated_date": null,
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -735,8 +732,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1223,8 +1220,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6499999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2452,8 +2449,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3563,8 +3560,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6125,8 +6122,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

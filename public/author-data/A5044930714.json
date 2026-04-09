@@ -3,7 +3,7 @@
     "id": "https://openalex.org/A5044930714",
     "orcid": "https://orcid.org/0000-0001-8551-3240",
     "display_name": "Abdullah Memesh",
-    "display_name_alternatives": [
+    "raw_author_names": [
       "A. MEMESH",
       "A.M.S. Memesh",
       "ABDULLAH MEMESH",
@@ -11,6 +11,7 @@
       "Abdullah M.S. Memesh",
       "Abdullah Memesh"
     ],
+    "full_name": "Abdullah M.S. Memesh",
     "works_count": 24,
     "cited_by_count": 410,
     "summary_stats": {
@@ -458,17 +459,17 @@
         "cited_by_count": 1
       }
     ],
-    "longest_name": "Abdullah M.S. Memesh",
-    "parsed_longest_name": {
-      "first": "abdullah",
-      "middle": "ms",
-      "last": "memesh",
-      "suffix": "",
-      "nickname": ""
-    },
+    "display_name_alternatives": [
+      "A. MEMESH",
+      "A.M.S. Memesh",
+      "ABDULLAH MEMESH",
+      "Abdullah M. Memesh",
+      "Abdullah M.S. Memesh",
+      "Abdullah Memesh"
+    ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-04-07T19:50:09",
+    "updated_date": "2026-04-08T21:20:09",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1852,11 +1853,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.0962,
+      "fwci": 135.1197,
       "has_fulltext": true,
       "cited_by_count": 184,
       "citation_normalized_percentile": {
-        "value": 0.99962153,
+        "value": 0.99962159,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2736,26 +2737,11 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G2553481603",
-          "display_name": null,
-          "funder_award_id": "262618",
-          "funder_id": "https://openalex.org/F4320323299",
-          "funder_display_name": "Norges Forskningsråd"
-        },
-        {
-          "id": "https://openalex.org/G3748656914",
-          "display_name": null,
-          "funder_award_id": "Norway",
-          "funder_id": "https://openalex.org/F4320323299",
-          "funder_display_name": "Norges Forskningsråd"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320319993",
@@ -2789,8 +2775,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -2948,7 +2934,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-06T07:47:59.780226",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -4304,8 +4290,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -4330,8 +4316,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -5198,15 +5184,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -6305,15 +6291,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1496924522.pdf",
@@ -7018,1137 +7004,6 @@
         }
       ],
       "updated_date": "2026-02-25T08:12:03.925757",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4254410303",
-      "doi": "https://doi.org/10.15666/aeer/1804_56075625",
-      "title": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
-      "display_name": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
-      "publication_year": 2020,
-      "publication_date": "2020-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4254410303",
-        "doi": "https://doi.org/10.15666/aeer/1804_56075625"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.15666/aeer/1804_56075625",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "source": {
-          "id": "https://openalex.org/S87697115",
-          "display_name": "Applied Ecology and Environmental Research",
-          "issn_l": "1589-1623",
-          "issn": [
-            "1589-1623",
-            "1785-0037"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310315419",
-          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315419"
-          ],
-          "host_organization_lineage_names": [
-            "Hungarian University of Agriculture and Life Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Ecology and Environmental Research",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5032633264",
-            "display_name": "Mohammed H. Aljahdali",
-            "orcid": "https://orcid.org/0000-0001-8194-8810"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "M.H. ALJAHDALI",
-          "raw_affiliation_strings": [
-            "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066220518",
-            "display_name": "Mohamed Elhag",
-            "orcid": "https://orcid.org/0000-0001-9048-0084"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39706905",
-              "display_name": "German University of Technology",
-              "ror": "https://ror.org/055hq4920",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "OM",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. ELHAG",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011385947",
-            "display_name": "Yahya A. Mufrreh",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39706905",
-              "display_name": "German University of Technology",
-              "ror": "https://ror.org/055hq4920",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "OM",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Y. MUFRREH",
-          "raw_affiliation_strings": [
-            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. MEMESH",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003725129",
-            "display_name": "Salih A. AlSoubhi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S. ALSOUBHI",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067218163",
-            "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "I.S. ZALMOUT",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5032633264"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I185163786"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.2349,
-      "has_fulltext": true,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.84753881,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "18",
-        "issue": "4",
-        "first_page": "5607",
-        "last_page": "5625"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.6133000254631042,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.6133000254631042,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/calcareous",
-          "display_name": "Calcareous",
-          "score": 0.869719386100769
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.8680746555328369
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6673723459243774
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6646689176559448
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C123552892",
-          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
-          "display_name": "Calcareous",
-          "level": 2,
-          "score": 0.869719386100769
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.8680746555328369
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6673723459243774
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6646689176559448
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.15666/aeer/1804_56075625",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-          "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-          "source": {
-            "id": "https://openalex.org/S87697115",
-            "display_name": "Applied Ecology and Environmental Research",
-            "issn_l": "1589-1623",
-            "issn": [
-              "1589-1623",
-              "1785-0037"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310315419",
-            "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310315419"
-            ],
-            "host_organization_lineage_names": [
-              "Hungarian University of Agriculture and Life Sciences"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Applied Ecology and Environmental Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.15666/aeer/1804_56075625",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "source": {
-          "id": "https://openalex.org/S87697115",
-          "display_name": "Applied Ecology and Environmental Research",
-          "issn_l": "1589-1623",
-          "issn": [
-            "1589-1623",
-            "1785-0037"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310315419",
-          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315419"
-          ],
-          "host_organization_lineage_names": [
-            "Hungarian University of Agriculture and Life Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Ecology and Environmental Research",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G7792163140",
-          "display_name": null,
-          "funder_award_id": "Scientific Research (DSR)",
-          "funder_id": "https://openalex.org/F4320322322",
-          "funder_display_name": "King Abdulaziz University"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322322",
-          "display_name": "King Abdulaziz University",
-          "ror": "https://ror.org/02ma4wv74"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4254410303.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4254410303.grobid-xml"
-      },
-      "referenced_works_count": 35,
-      "referenced_works": [
-        "https://openalex.org/W51574308",
-        "https://openalex.org/W62718268",
-        "https://openalex.org/W138655657",
-        "https://openalex.org/W165726177",
-        "https://openalex.org/W619791465",
-        "https://openalex.org/W1963643588",
-        "https://openalex.org/W1992037087",
-        "https://openalex.org/W1999809323",
-        "https://openalex.org/W2005922833",
-        "https://openalex.org/W2034752484",
-        "https://openalex.org/W2051882950",
-        "https://openalex.org/W2051981199",
-        "https://openalex.org/W2054410655",
-        "https://openalex.org/W2070541126",
-        "https://openalex.org/W2107861740",
-        "https://openalex.org/W2110015126",
-        "https://openalex.org/W2112586657",
-        "https://openalex.org/W2130950244",
-        "https://openalex.org/W2163452924",
-        "https://openalex.org/W2188088257",
-        "https://openalex.org/W2241447090",
-        "https://openalex.org/W2263903515",
-        "https://openalex.org/W2321578907",
-        "https://openalex.org/W2415580977",
-        "https://openalex.org/W2487828741",
-        "https://openalex.org/W2488266322",
-        "https://openalex.org/W2581207081",
-        "https://openalex.org/W2606193916",
-        "https://openalex.org/W2972032438",
-        "https://openalex.org/W3008797821",
-        "https://openalex.org/W3162357285",
-        "https://openalex.org/W4234161373",
-        "https://openalex.org/W4254410303",
-        "https://openalex.org/W4254503286",
-        "https://openalex.org/W4390291387"
-      ],
-      "related_works": [
-        "https://openalex.org/W2491828709",
-        "https://openalex.org/W2237244829",
-        "https://openalex.org/W2478286986",
-        "https://openalex.org/W2020246637",
-        "https://openalex.org/W2620625521",
-        "https://openalex.org/W2625397266",
-        "https://openalex.org/W1985513757",
-        "https://openalex.org/W3147539266",
-        "https://openalex.org/W2909010594",
-        "https://openalex.org/W4297821198"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          190
-        ],
-        "3": [
-          192
-        ],
-        "21": [
-          74
-        ],
-        "44": [
-          70
-        ],
-        "The": [
-          0,
-          21,
-          43,
-          124
-        ],
-        "current": [
-          1
-        ],
-        "research": [
-          2
-        ],
-        "work": [
-          3
-        ],
-        "represents": [
-          4
-        ],
-        "the": [
-          5,
-          12,
-          33,
-          47,
-          51,
-          60,
-          84,
-          90,
-          97,
-          115,
-          134,
-          138,
-          144,
-          148,
-          168,
-          180,
-          186,
-          194,
-          204
-        ],
-        "first": [
-          6
-        ],
-        "calcareous": [
-          7,
-          176
-        ],
-        "nannofossil": [
-          8,
-          41,
-          66,
-          177
-        ],
-        "biostratigraphic": [
-          9,
-          67
-        ],
-        "record": [
-          10
-        ],
-        "of": [
-          11,
-          50,
-          86,
-          92,
-          119,
-          128,
-          140,
-          157,
-          172,
-          193
-        ],
-        "upper": [
-          13
-        ],
-        "Eocene": [
-          14,
-          26,
-          122
-        ],
-        "Rashrashiyah": [
-          15,
-          22,
-          44,
-          181
-        ],
-        "Formation": [
-          16,
-          23,
-          45,
-          54,
-          182,
-          197
-        ],
-        "in": [
-          17,
-          94,
-          114,
-          147,
-          198,
-          203
-        ],
-        "northern": [
-          18
-        ],
-        "Saudi": [
-          19
-        ],
-        "Arabia.": [
-          20
-        ],
-        "is": [
-          24,
-          56
-        ],
-        "an": [
-          25
-        ],
-        "carbonate": [
-          27
-        ],
-        "sedimentary": [
-          28
-        ],
-        "unit,": [
-          29
-        ],
-        "exposed": [
-          30
-        ],
-        "adjacent": [
-          31
-        ],
-        "to": [
-          32,
-          73
-        ],
-        "Jordanian": [
-          34
-        ],
-        "border,": [
-          35
-        ],
-        "and": [
-          36,
-          39,
-          55,
-          89,
-          105,
-          110,
-          153,
-          165,
-          191
-        ],
-        "yielded": [
-          37
-        ],
-        "rich": [
-          38
-        ],
-        "diverse": [
-          40
-        ],
-        "assemblages.": [
-          42
-        ],
-        "overlies": [
-          46
-        ],
-        "Paleogene": [
-          48
-        ],
-        "rocks": [
-          49
-        ],
-        "Umm": [
-          52
-        ],
-        "Wu'al": [
-          53
-        ],
-        "unconformably": [
-          57
-        ],
-        "topped": [
-          58
-        ],
-        "by": [
-          59
-        ],
-        "Neogene": [
-          61
-        ],
-        "(Miocene)": [
-          62
-        ],
-        "Sirhan": [
-          63
-        ],
-        "Formation.": [
-          64
-        ],
-        "Our": [
-          65,
-          175
-        ],
-        "data": [
-          68
-        ],
-        "recognized": [
-          69,
-          113
-        ],
-        "species": [
-          71
-        ],
-        "belonging": [
-          72
-        ],
-        "genera.": [
-          75
-        ],
-        "These": [
-          76
-        ],
-        "taxa": [
-          77
-        ],
-        "indicate": [
-          78
-        ],
-        "a": [
-          79,
-          120
-        ],
-        "Priabonian": [
-          80,
-          99
-        ],
-        "age": [
-          81
-        ],
-        "based": [
-          82
-        ],
-        "on": [
-          83
-        ],
-        "presence": [
-          85
-        ],
-        "Chiasmolithus": [
-          87,
-          141
-        ],
-        "oamaruensis,": [
-          88
-        ],
-        "recognition": [
-          91
-        ],
-        "bioevents": [
-          93
-        ],
-        "concordance": [
-          95
-        ],
-        "with": [
-          96,
-          185
-        ],
-        "global": [
-          98
-        ],
-        "zonations.": [
-          100
-        ],
-        "Three": [
-          101
-        ],
-        "comparable": [
-          102
-        ],
-        "major": [
-          103
-        ],
-        "zones": [
-          104
-        ],
-        "zonal": [
-          106
-        ],
-        "boundaries": [
-          107
-        ],
-        "(CP14b/CP15,": [
-          108
-        ],
-        "NP18,": [
-          109
-        ],
-        "CNE17)": [
-          111
-        ],
-        "were": [
-          112
-        ],
-        "study": [
-          116
-        ],
-        "section": [
-          117
-        ],
-        "indicative": [
-          118
-        ],
-        "late": [
-          121
-        ],
-        "age.": [
-          123
-        ],
-        "Base": [
-          125
-        ],
-        "common": [
-          126
-        ],
-        "(Bc)": [
-          127
-        ],
-        "Reticulofenestra": [
-          129
-        ],
-        "erbae": [
-          130
-        ],
-        "was": [
-          131,
-          160
-        ],
-        "detected": [
-          132
-        ],
-        "at": [
-          133,
-          167
-        ],
-        "same": [
-          135
-        ],
-        "level": [
-          136
-        ],
-        "as": [
-          137
-        ],
-        "top": [
-          139
-        ],
-        "grandis,": [
-          142
-        ],
-        "supporting": [
-          143
-        ],
-        "bioevent": [
-          145
-        ],
-        "reliability": [
-          146
-        ],
-        "Tethys": [
-          149
-        ],
-        "realm.": [
-          150
-        ],
-        "A": [
-          151
-        ],
-        "single": [
-          152
-        ],
-        "more": [
-          154
-        ],
-        "isolated": [
-          155
-        ],
-        "occurrence": [
-          156
-        ],
-        "Isthmolithus": [
-          158
-        ],
-        "recurvus": [
-          159
-        ],
-        "observed": [
-          161
-        ],
-        "within": [
-          162
-        ],
-        "Zones": [
-          163
-        ],
-        "CP15": [
-          164
-        ],
-        "NP18": [
-          166
-        ],
-        "maximum": [
-          169
-        ],
-        "increase": [
-          170
-        ],
-        "abundance": [
-          171
-        ],
-        "R.": [
-          173
-        ],
-        "erbae.": [
-          174
-        ],
-        "biostratigraphy": [
-          178
-        ],
-        "from": [
-          179
-        ],
-        "has": [
-          183
-        ],
-        "coincided": [
-          184
-        ],
-        "assignment": [
-          187
-        ],
-        "for": [
-          188
-        ],
-        "units": [
-          189
-        ],
-        "Wadi": [
-          195
-        ],
-        "Esh-Shallalah": [
-          196
-        ],
-        "Qa'": [
-          199
-        ],
-        "Faydat": [
-          200
-        ],
-        "ad": [
-          201
-        ],
-        "Dahikiya": [
-          202
-        ],
-        "eastern": [
-          205
-        ],
-        "desert": [
-          206
-        ],
-        "Jordan.": [
-          207
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-03-15T09:29:46.208133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8861,8 +7716,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -8901,8 +7756,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -9989,8 +8844,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -11599,8 +10454,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -12923,8 +11778,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -13031,6 +11886,1129 @@
         }
       ],
       "updated_date": "2026-04-05T17:49:38.594831",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4254410303",
+      "doi": "https://doi.org/10.15666/aeer/1804_56075625",
+      "title": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
+      "display_name": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4254410303",
+        "doi": "https://doi.org/10.15666/aeer/1804_56075625"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.15666/aeer/1804_56075625",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "source": {
+          "id": "https://openalex.org/S87697115",
+          "display_name": "Applied Ecology and Environmental Research",
+          "issn_l": "1589-1623",
+          "issn": [
+            "1589-1623",
+            "1785-0037"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315419",
+          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315419"
+          ],
+          "host_organization_lineage_names": [
+            "Hungarian University of Agriculture and Life Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Ecology and Environmental Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032633264",
+            "display_name": "Mohammed H. Aljahdali",
+            "orcid": "https://orcid.org/0000-0001-8194-8810"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M.H. ALJAHDALI",
+          "raw_affiliation_strings": [
+            "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066220518",
+            "display_name": "Mohamed Elhag",
+            "orcid": "https://orcid.org/0000-0001-9048-0084"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39706905",
+              "display_name": "German University of Technology",
+              "ror": "https://ror.org/055hq4920",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "OM",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. ELHAG",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011385947",
+            "display_name": "Yahya A. Mufrreh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39706905",
+              "display_name": "German University of Technology",
+              "ror": "https://ror.org/055hq4920",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "OM",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Y. MUFRREH",
+          "raw_affiliation_strings": [
+            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044930714",
+            "display_name": "Abdullah Memesh",
+            "orcid": "https://orcid.org/0000-0001-8551-3240"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. MEMESH",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003725129",
+            "display_name": "Salih A. AlSoubhi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. ALSOUBHI",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067218163",
+            "display_name": "Iyad S. Zalmout",
+            "orcid": "https://orcid.org/0000-0003-1874-801X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I.S. ZALMOUT",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5032633264"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I185163786"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.2234,
+      "has_fulltext": true,
+      "cited_by_count": 14,
+      "citation_normalized_percentile": {
+        "value": 0.84817528,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": "4",
+        "first_page": "5607",
+        "last_page": "5625"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.6133000254631042,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.6133000254631042,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/calcareous",
+          "display_name": "Calcareous",
+          "score": 0.869719386100769
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.8680746555328369
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6673723459243774
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6646689176559448
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.869719386100769
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.8680746555328369
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6673723459243774
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6646689176559448
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.15666/aeer/1804_56075625",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+          "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+          "source": {
+            "id": "https://openalex.org/S87697115",
+            "display_name": "Applied Ecology and Environmental Research",
+            "issn_l": "1589-1623",
+            "issn": [
+              "1589-1623",
+              "1785-0037"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310315419",
+            "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310315419"
+            ],
+            "host_organization_lineage_names": [
+              "Hungarian University of Agriculture and Life Sciences"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Ecology and Environmental Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.15666/aeer/1804_56075625",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "source": {
+          "id": "https://openalex.org/S87697115",
+          "display_name": "Applied Ecology and Environmental Research",
+          "issn_l": "1589-1623",
+          "issn": [
+            "1589-1623",
+            "1785-0037"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315419",
+          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315419"
+          ],
+          "host_organization_lineage_names": [
+            "Hungarian University of Agriculture and Life Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Ecology and Environmental Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322322",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4254410303.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4254410303.grobid-xml"
+      },
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W51574308",
+        "https://openalex.org/W62718268",
+        "https://openalex.org/W138655657",
+        "https://openalex.org/W165726177",
+        "https://openalex.org/W619791465",
+        "https://openalex.org/W1963643588",
+        "https://openalex.org/W1992037087",
+        "https://openalex.org/W1999809323",
+        "https://openalex.org/W2005922833",
+        "https://openalex.org/W2034752484",
+        "https://openalex.org/W2051882950",
+        "https://openalex.org/W2051981199",
+        "https://openalex.org/W2054410655",
+        "https://openalex.org/W2070541126",
+        "https://openalex.org/W2107861740",
+        "https://openalex.org/W2110015126",
+        "https://openalex.org/W2112586657",
+        "https://openalex.org/W2130950244",
+        "https://openalex.org/W2163452924",
+        "https://openalex.org/W2188088257",
+        "https://openalex.org/W2241447090",
+        "https://openalex.org/W2263903515",
+        "https://openalex.org/W2321578907",
+        "https://openalex.org/W2415580977",
+        "https://openalex.org/W2487828741",
+        "https://openalex.org/W2488266322",
+        "https://openalex.org/W2581207081",
+        "https://openalex.org/W2606193916",
+        "https://openalex.org/W2972032438",
+        "https://openalex.org/W3008797821",
+        "https://openalex.org/W3162357285",
+        "https://openalex.org/W4234161373",
+        "https://openalex.org/W4254410303",
+        "https://openalex.org/W4254503286",
+        "https://openalex.org/W4390291387"
+      ],
+      "related_works": [
+        "https://openalex.org/W2491828709",
+        "https://openalex.org/W2237244829",
+        "https://openalex.org/W2478286986",
+        "https://openalex.org/W2020246637",
+        "https://openalex.org/W2620625521",
+        "https://openalex.org/W2625397266",
+        "https://openalex.org/W1985513757",
+        "https://openalex.org/W3147539266",
+        "https://openalex.org/W2909010594",
+        "https://openalex.org/W4297821198"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          190
+        ],
+        "3": [
+          192
+        ],
+        "21": [
+          74
+        ],
+        "44": [
+          70
+        ],
+        "The": [
+          0,
+          21,
+          43,
+          124
+        ],
+        "current": [
+          1
+        ],
+        "research": [
+          2
+        ],
+        "work": [
+          3
+        ],
+        "represents": [
+          4
+        ],
+        "the": [
+          5,
+          12,
+          33,
+          47,
+          51,
+          60,
+          84,
+          90,
+          97,
+          115,
+          134,
+          138,
+          144,
+          148,
+          168,
+          180,
+          186,
+          194,
+          204
+        ],
+        "first": [
+          6
+        ],
+        "calcareous": [
+          7,
+          176
+        ],
+        "nannofossil": [
+          8,
+          41,
+          66,
+          177
+        ],
+        "biostratigraphic": [
+          9,
+          67
+        ],
+        "record": [
+          10
+        ],
+        "of": [
+          11,
+          50,
+          86,
+          92,
+          119,
+          128,
+          140,
+          157,
+          172,
+          193
+        ],
+        "upper": [
+          13
+        ],
+        "Eocene": [
+          14,
+          26,
+          122
+        ],
+        "Rashrashiyah": [
+          15,
+          22,
+          44,
+          181
+        ],
+        "Formation": [
+          16,
+          23,
+          45,
+          54,
+          182,
+          197
+        ],
+        "in": [
+          17,
+          94,
+          114,
+          147,
+          198,
+          203
+        ],
+        "northern": [
+          18
+        ],
+        "Saudi": [
+          19
+        ],
+        "Arabia.": [
+          20
+        ],
+        "is": [
+          24,
+          56
+        ],
+        "an": [
+          25
+        ],
+        "carbonate": [
+          27
+        ],
+        "sedimentary": [
+          28
+        ],
+        "unit,": [
+          29
+        ],
+        "exposed": [
+          30
+        ],
+        "adjacent": [
+          31
+        ],
+        "to": [
+          32,
+          73
+        ],
+        "Jordanian": [
+          34
+        ],
+        "border,": [
+          35
+        ],
+        "and": [
+          36,
+          39,
+          55,
+          89,
+          105,
+          110,
+          153,
+          165,
+          191
+        ],
+        "yielded": [
+          37
+        ],
+        "rich": [
+          38
+        ],
+        "diverse": [
+          40
+        ],
+        "assemblages.": [
+          42
+        ],
+        "overlies": [
+          46
+        ],
+        "Paleogene": [
+          48
+        ],
+        "rocks": [
+          49
+        ],
+        "Umm": [
+          52
+        ],
+        "Wu'al": [
+          53
+        ],
+        "unconformably": [
+          57
+        ],
+        "topped": [
+          58
+        ],
+        "by": [
+          59
+        ],
+        "Neogene": [
+          61
+        ],
+        "(Miocene)": [
+          62
+        ],
+        "Sirhan": [
+          63
+        ],
+        "Formation.": [
+          64
+        ],
+        "Our": [
+          65,
+          175
+        ],
+        "data": [
+          68
+        ],
+        "recognized": [
+          69,
+          113
+        ],
+        "species": [
+          71
+        ],
+        "belonging": [
+          72
+        ],
+        "genera.": [
+          75
+        ],
+        "These": [
+          76
+        ],
+        "taxa": [
+          77
+        ],
+        "indicate": [
+          78
+        ],
+        "a": [
+          79,
+          120
+        ],
+        "Priabonian": [
+          80,
+          99
+        ],
+        "age": [
+          81
+        ],
+        "based": [
+          82
+        ],
+        "on": [
+          83
+        ],
+        "presence": [
+          85
+        ],
+        "Chiasmolithus": [
+          87,
+          141
+        ],
+        "oamaruensis,": [
+          88
+        ],
+        "recognition": [
+          91
+        ],
+        "bioevents": [
+          93
+        ],
+        "concordance": [
+          95
+        ],
+        "with": [
+          96,
+          185
+        ],
+        "global": [
+          98
+        ],
+        "zonations.": [
+          100
+        ],
+        "Three": [
+          101
+        ],
+        "comparable": [
+          102
+        ],
+        "major": [
+          103
+        ],
+        "zones": [
+          104
+        ],
+        "zonal": [
+          106
+        ],
+        "boundaries": [
+          107
+        ],
+        "(CP14b/CP15,": [
+          108
+        ],
+        "NP18,": [
+          109
+        ],
+        "CNE17)": [
+          111
+        ],
+        "were": [
+          112
+        ],
+        "study": [
+          116
+        ],
+        "section": [
+          117
+        ],
+        "indicative": [
+          118
+        ],
+        "late": [
+          121
+        ],
+        "age.": [
+          123
+        ],
+        "Base": [
+          125
+        ],
+        "common": [
+          126
+        ],
+        "(Bc)": [
+          127
+        ],
+        "Reticulofenestra": [
+          129
+        ],
+        "erbae": [
+          130
+        ],
+        "was": [
+          131,
+          160
+        ],
+        "detected": [
+          132
+        ],
+        "at": [
+          133,
+          167
+        ],
+        "same": [
+          135
+        ],
+        "level": [
+          136
+        ],
+        "as": [
+          137
+        ],
+        "top": [
+          139
+        ],
+        "grandis,": [
+          142
+        ],
+        "supporting": [
+          143
+        ],
+        "bioevent": [
+          145
+        ],
+        "reliability": [
+          146
+        ],
+        "Tethys": [
+          149
+        ],
+        "realm.": [
+          150
+        ],
+        "A": [
+          151
+        ],
+        "single": [
+          152
+        ],
+        "more": [
+          154
+        ],
+        "isolated": [
+          155
+        ],
+        "occurrence": [
+          156
+        ],
+        "Isthmolithus": [
+          158
+        ],
+        "recurvus": [
+          159
+        ],
+        "observed": [
+          161
+        ],
+        "within": [
+          162
+        ],
+        "Zones": [
+          163
+        ],
+        "CP15": [
+          164
+        ],
+        "NP18": [
+          166
+        ],
+        "maximum": [
+          169
+        ],
+        "increase": [
+          170
+        ],
+        "abundance": [
+          171
+        ],
+        "R.": [
+          173
+        ],
+        "erbae.": [
+          174
+        ],
+        "biostratigraphy": [
+          178
+        ],
+        "from": [
+          179
+        ],
+        "has": [
+          183
+        ],
+        "coincided": [
+          184
+        ],
+        "assignment": [
+          187
+        ],
+        "for": [
+          188
+        ],
+        "units": [
+          189
+        ],
+        "Wadi": [
+          195
+        ],
+        "Esh-Shallalah": [
+          196
+        ],
+        "Qa'": [
+          199
+        ],
+        "Faydat": [
+          200
+        ],
+        "ad": [
+          201
+        ],
+        "Dahikiya": [
+          202
+        ],
+        "eastern": [
+          205
+        ],
+        "desert": [
+          206
+        ],
+        "Jordan.": [
+          207
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13488,8 +13466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -13861,11 +13839,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.0831,
+      "fwci": 2.0168,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86150623,
+        "value": 0.85594806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14180,18 +14158,11 @@
       "sustainable_development_goals": [],
       "awards": [
         {
-          "id": "https://openalex.org/G1650125035",
+          "id": "https://openalex.org/G3662876810",
           "display_name": null,
-          "funder_award_id": "B-I00",
-          "funder_id": "https://openalex.org/F4320322930",
-          "funder_display_name": "Ministerio de Ciencia e Innovación"
-        },
-        {
-          "id": "https://openalex.org/G3998201246",
-          "display_name": null,
-          "funder_award_id": "Social",
-          "funder_id": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund"
+          "funder_award_id": "DEM_GEOL4204",
+          "funder_id": "https://openalex.org/F4320321602",
+          "funder_display_name": "Deutsches Zentrum für Luft- und Raumfahrt"
         },
         {
           "id": "https://openalex.org/G8653831550",
@@ -14213,14 +14184,19 @@
           "ror": "https://ror.org/034900433"
         },
         {
+          "id": "https://openalex.org/F4320326208",
+          "display_name": "Gobierno de Aragón",
+          "ror": "https://ror.org/0425pg203"
+        },
+        {
           "id": "https://openalex.org/F4320338080",
           "display_name": "European Social Fund",
           "ror": "https://ror.org/00k4n6c32"
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14997,7 +14973,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-25T23:56:10.502304",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15599,15 +15575,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1604102604.pdf",
@@ -17171,8 +17147,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -17184,8 +17160,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -17649,15 +17625,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18871,11 +18847,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8721,
+      "fwci": 2.8722,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89077092,
+        "value": 0.89077505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19260,8 +19236,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -19273,8 +19249,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -19843,7 +19819,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-07T14:57:38.498316",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20389,15 +20365,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -20774,8 +20750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21893,8 +21869,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -23153,8 +23129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24067,15 +24043,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -25214,8 +25190,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -26467,8 +26443,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -28011,7 +27987,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38658819,
+        "value": 0.38528508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28747,11 +28723,37 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3705416774",
+          "display_name": null,
+          "funder_award_id": "n/e",
+          "funder_id": "https://openalex.org/F4320322434",
+          "funder_display_name": "Max-Planck-Gesellschaft"
+        },
+        {
+          "id": "https://openalex.org/G6805317064",
+          "display_name": null,
+          "funder_award_id": "Grant Ref: RPG-2017-087",
+          "funder_id": "https://openalex.org/F4320319993",
+          "funder_display_name": "Leverhulme Trust"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320319993",
+          "display_name": "Leverhulme Trust",
+          "ror": "https://ror.org/012mzw131"
+        },
+        {
+          "id": "https://openalex.org/F4320322434",
+          "display_name": "Max-Planck-Gesellschaft",
+          "ror": "https://ror.org/01hhn8329"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -29223,7 +29225,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-04T16:13:02.066488",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -29614,8 +29616,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
