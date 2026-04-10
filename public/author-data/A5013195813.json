@@ -13,7 +13,7 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 114,
-    "cited_by_count": 2780,
+    "cited_by_count": 2785,
     "summary_stats": {
       "2yr_mean_citedness": 1.2727272727272727,
       "h_index": 31,
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003011,
+        "value": 0.0003009,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -315,7 +315,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002773,
+        "value": 0.0002772,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -332,7 +332,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001832,
+        "value": 0.0001831,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -460,7 +460,7 @@
         "year": 2009,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 138
+        "cited_by_count": 139
       },
       {
         "year": 2010,
@@ -478,7 +478,7 @@
         "year": 2012,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 509
+        "cited_by_count": 512
       },
       {
         "year": 2013,
@@ -520,7 +520,7 @@
         "year": 2019,
         "works_count": 8,
         "oa_works_count": 0,
-        "cited_by_count": 221
+        "cited_by_count": 222
       },
       {
         "year": 2020,
@@ -569,7 +569,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-04-08T18:54:32",
+    "updated_date": "2026-04-09T12:26:41",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -925,8 +925,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5299999713897705
         }
       ],
@@ -1414,8 +1414,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -2149,8 +2149,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -4014,11 +4014,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 104.1477,
+      "fwci": 104.1545,
       "has_fulltext": false,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
-        "value": 0.99944685,
+        "value": 0.99944688,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4319,7 +4319,22 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1256337755",
+          "display_name": null,
+          "funder_award_id": "18-14575S",
+          "funder_id": "https://openalex.org/F4320321006",
+          "funder_display_name": "Grantová Agentura České Republiky"
+        },
+        {
+          "id": "https://openalex.org/G5784215521",
+          "display_name": null,
+          "funder_award_id": "Chair",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320308269",
@@ -4515,7 +4530,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4936,8 +4951,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -6168,8 +6183,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -6848,8 +6863,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -7320,8 +7335,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563
         }
       ],
@@ -8544,8 +8559,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858
         }
       ],
@@ -9013,8 +9028,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705
         }
       ],
@@ -9244,8 +9259,8 @@
           "raw_author_name": "Paul Baville",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "affiliations": [
             {
@@ -9257,14 +9272,14 @@
               ]
             },
             {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -9484,8 +9499,8 @@
           "raw_author_name": "Christophe Antoine",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "affiliations": [
             {
@@ -9497,14 +9512,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -9671,11 +9686,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3885,
+      "fwci": 1.3886,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81922151,
+        "value": 0.8192336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9996,8 +10011,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -10121,7 +10136,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10508,8 +10523,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -11551,8 +11566,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316
         }
       ],
@@ -12229,8 +12244,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -13495,11 +13510,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.4686,
+      "fwci": 14.5383,
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.99196141,
+        "value": 0.992,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -13775,8 +13790,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563
         }
       ],
@@ -13969,7 +13984,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14643,8 +14658,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716
         }
       ],
@@ -15565,8 +15580,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
@@ -16585,8 +16600,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -17769,8 +17784,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -18972,8 +18987,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75
         }
       ],
@@ -20027,8 +20042,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721
         }
       ],
@@ -20543,8 +20558,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -21036,8 +21051,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -22086,8 +22101,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -23210,8 +23225,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.41999998688697815
         }
       ],
@@ -24504,8 +24519,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -26972,8 +26987,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995
         }
       ],
@@ -27539,8 +27554,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -28109,8 +28124,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -28596,13 +28611,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104
         }
       ],
@@ -29212,8 +29227,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995
         }
       ],
@@ -30515,8 +30530,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863
         }
       ],
@@ -31070,8 +31085,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -31525,8 +31540,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -32679,8 +32694,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -33296,8 +33311,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579
         }
       ],
@@ -34070,8 +34085,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432
         }
       ],
@@ -34735,8 +34750,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -35651,8 +35666,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7200000286102295
         }
       ],
@@ -36498,8 +36513,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -37283,8 +37298,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574
         }
       ],
@@ -37656,8 +37671,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.46000000834465027
         }
       ],
@@ -38693,8 +38708,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7200000286102295
         }
       ],
@@ -39561,8 +39576,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -40188,8 +40203,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579
         }
       ],
@@ -40779,8 +40794,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -41470,8 +41485,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7200000286102295
         }
       ],
@@ -42597,12 +42612,251 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.44999998807907104
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1040737061",
+          "display_name": null,
+          "funder_award_id": "XDB26000000",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G1121271761",
+          "display_name": null,
+          "funder_award_id": "Program",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G1374076867",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G1465307564",
+          "display_name": null,
+          "funder_award_id": "41890844",
+          "funder_id": "https://openalex.org/F4320322439",
+          "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G1748430082",
+          "display_name": null,
+          "funder_award_id": "26000000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G1783795302",
+          "display_name": null,
+          "funder_award_id": "Project",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G1803178129",
+          "display_name": null,
+          "funder_award_id": "41720104002",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G2087396116",
+          "display_name": null,
+          "funder_award_id": "China",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G2437038145",
+          "display_name": null,
+          "funder_award_id": "VR Project no. 2018-03390",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G26592854",
+          "display_name": null,
+          "funder_award_id": "XDB26000000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G3317480652",
+          "display_name": null,
+          "funder_award_id": "Science",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3453800716",
+          "display_name": null,
+          "funder_award_id": "41890844",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3593028331",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G37568934",
+          "display_name": null,
+          "funder_award_id": "Grant",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3863937708",
+          "display_name": null,
+          "funder_award_id": "18-03",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G4089449993",
+          "display_name": null,
+          "funder_award_id": "17013",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G4642564596",
+          "display_name": null,
+          "funder_award_id": "600000",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G470682840",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G5059221399",
+          "display_name": null,
+          "funder_award_id": "01040",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G5478655126",
+          "display_name": null,
+          "funder_award_id": "XDB26000000",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G5616351183",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G5726160133",
+          "display_name": null,
+          "funder_award_id": "41425008",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G5994120800",
+          "display_name": null,
+          "funder_award_id": "Natural",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G6258415954",
+          "display_name": null,
+          "funder_award_id": "Chinese",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G6269633226",
+          "display_name": null,
+          "funder_award_id": "XDB2600000",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G6570152631",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G6904766669",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G712237916",
+          "display_name": null,
+          "funder_award_id": "41720104002",
+          "funder_id": "https://openalex.org/F4320322439",
+          "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G712881263",
+          "display_name": null,
+          "funder_award_id": "2018-",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G7297870045",
+          "display_name": null,
+          "funder_award_id": "000000",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G7484037782",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G7568142948",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320321133",
+          "funder_display_name": "Chinese Academy of Sciences"
+        },
+        {
+          "id": "https://openalex.org/G7695561278",
+          "display_name": null,
+          "funder_award_id": "2018-03390",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G775327389",
+          "display_name": null,
+          "funder_award_id": "4189084",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321001",
@@ -43252,7 +43506,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43838,8 +44092,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
@@ -45306,8 +45560,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -46000,8 +46254,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -46481,8 +46735,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426
         }
       ],
@@ -47103,8 +47357,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437
         }
       ],
@@ -48216,8 +48470,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137
         }
       ],
@@ -48779,8 +49033,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568
         }
       ],
@@ -49460,11 +49714,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 2.3925,
+      "fwci": 2.3893,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.88390531,
+        "value": 0.88386756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49711,12 +49965,41 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4361480289",
+          "display_name": null,
+          "funder_award_id": "293109",
+          "funder_id": "https://openalex.org/F4320321108",
+          "funder_display_name": "Academy of Finland"
+        },
+        {
+          "id": "https://openalex.org/G6799316715",
+          "display_name": null,
+          "funder_award_id": "PUTJD1106",
+          "funder_id": "https://openalex.org/F4320321090",
+          "funder_display_name": "Eesti Teadusagentuur"
+        },
+        {
+          "id": "https://openalex.org/G7495269861",
+          "display_name": null,
+          "funder_award_id": "PUTJD110",
+          "funder_id": "https://openalex.org/F4320321090",
+          "funder_display_name": "Eesti Teadusagentuur"
+        },
+        {
+          "id": "https://openalex.org/G7873613073",
+          "display_name": null,
+          "funder_award_id": "#293109",
+          "funder_id": "https://openalex.org/F4320321108",
+          "funder_display_name": "Academy of Finland"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320310659",
@@ -50095,7 +50378,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50441,8 +50724,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -51860,8 +52143,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -52335,8 +52618,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705
         }
       ],
@@ -52983,8 +53266,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -53548,8 +53831,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -54630,8 +54913,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -55160,8 +55443,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -56173,8 +56456,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -57015,8 +57298,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -57723,7 +58006,7 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 2.2387,
+      "fwci": 2.2386,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
@@ -58063,12 +58346,118 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1465307564",
+          "display_name": null,
+          "funder_award_id": "41890844",
+          "funder_id": "https://openalex.org/F4320322439",
+          "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G1474490597",
+          "display_name": null,
+          "funder_award_id": "111 Project",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G1803178129",
+          "display_name": null,
+          "funder_award_id": "41720104002",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G2087396116",
+          "display_name": null,
+          "funder_award_id": "China",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3317480652",
+          "display_name": null,
+          "funder_award_id": "Science",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3453800716",
+          "display_name": null,
+          "funder_award_id": "41890844",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G391238517",
+          "display_name": null,
+          "funder_award_id": ", and",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G4089449993",
+          "display_name": null,
+          "funder_award_id": "17013",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G470682840",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G5994120800",
+          "display_name": null,
+          "funder_award_id": "Natural",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G6570152631",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320327912",
+          "funder_display_name": "Higher Education Discipline Innovation Project"
+        },
+        {
+          "id": "https://openalex.org/G6904766669",
+          "display_name": null,
+          "funder_award_id": "41621003",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G712237916",
+          "display_name": null,
+          "funder_award_id": "41720104002",
+          "funder_id": "https://openalex.org/F4320322439",
+          "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G7484037782",
+          "display_name": null,
+          "funder_award_id": "D17013",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G775327389",
+          "display_name": null,
+          "funder_award_id": "4189084",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321001",
@@ -58666,7 +59055,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59175,8 +59564,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -60926,8 +61315,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -61859,8 +62248,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721
         }
       ],
@@ -63234,8 +63623,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -63789,8 +64178,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716
         }
       ],
@@ -64250,8 +64639,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -65068,8 +65457,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137
         }
       ],
@@ -66170,8 +66559,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.5699999928474426
         }
       ],
@@ -67247,8 +67636,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721
         }
       ],
@@ -68330,8 +68719,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5199999809265137
         }
       ],
@@ -69031,8 +69420,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137
         }
       ],
@@ -70229,8 +70618,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -72167,8 +72556,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6399999856948853
         }
       ],
@@ -72944,8 +73333,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -74725,8 +75114,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137
         }
       ],
@@ -77188,8 +77577,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.6600000262260437
         }
       ],
@@ -80255,8 +80644,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705
         }
       ],
@@ -81328,8 +81717,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705
         }
       ],
@@ -82153,8 +82542,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815
         }
       ],

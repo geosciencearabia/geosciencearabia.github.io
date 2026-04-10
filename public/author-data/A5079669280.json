@@ -711,11 +711,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 3.2162,
+      "fwci": 3.2163,
       "has_fulltext": true,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.92834925,
+        "value": 0.92835187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1182,11 +1182,25 @@
       ],
       "awards": [
         {
+          "id": "https://openalex.org/G5997868131",
+          "display_name": null,
+          "funder_award_id": "Project",
+          "funder_id": "https://openalex.org/F4320321079",
+          "funder_display_name": "Russian Foundation for Basic Research"
+        },
+        {
           "id": "https://openalex.org/G7317667946",
           "display_name": null,
           "funder_award_id": "NPRP12S-0305-190235",
           "funder_id": "https://openalex.org/F4320332753",
           "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G7529895602",
+          "display_name": null,
+          "funder_award_id": "18-05-60005",
+          "funder_id": "https://openalex.org/F4320321079",
+          "funder_display_name": "Russian Foundation for Basic Research"
         }
       ],
       "funders": [
@@ -1781,7 +1795,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2518,6 +2532,20 @@
           "funder_award_id": "7-443-1-083",
           "funder_id": "https://openalex.org/F4320332753",
           "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G8447256652",
+          "display_name": null,
+          "funder_award_id": "7-443-1-083",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        },
+        {
+          "id": "https://openalex.org/G8897484831",
+          "display_name": null,
+          "funder_award_id": "NPRP grant 7-443-1-083",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
         }
       ],
       "funders": [
@@ -3346,7 +3374,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11111,11 +11139,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 1.2566,
+      "fwci": 1.255,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.76532547,
+        "value": 0.76511481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11544,11 +11572,32 @@
       ],
       "awards": [
         {
+          "id": "https://openalex.org/G1299758263",
+          "display_name": null,
+          "funder_award_id": "NPRP13S-0207-20029",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G4411838489",
+          "display_name": null,
+          "funder_award_id": "NPRP13",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
           "id": "https://openalex.org/G7159742592",
           "display_name": null,
           "funder_award_id": "NPRP13S-0207-200291",
           "funder_id": "https://openalex.org/F4320332753",
           "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G8154206437",
+          "display_name": null,
+          "funder_award_id": "NPRP13S-0207-200291",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
         }
       ],
       "funders": [
@@ -12063,7 +12112,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12958,11 +13007,11 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.9594,
+      "fwci": 1.9595,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.8840524,
+        "value": 0.88406101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13390,7 +13439,15 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1659715620",
+          "display_name": null,
+          "funder_award_id": "NPRP10",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320318240",
@@ -14174,7 +14231,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -14394,7 +14451,7 @@
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.75883562,
+        "value": 0.75881848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14757,7 +14814,29 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2894603144",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G5162379661",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305-190235",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        },
+        {
+          "id": "https://openalex.org/G7317667946",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305-190235",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320309815",
@@ -14855,7 +14934,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16883,7 +16962,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.68441697,
+        "value": 0.68441333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17351,7 +17430,15 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5737527671",
+          "display_name": null,
+          "funder_award_id": "QUEX-ESC-QAFCO-20/21-1",
+          "funder_id": "https://openalex.org/F4320322472",
+          "funder_display_name": "Qatar University"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320306101",
@@ -17914,7 +18001,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18374,11 +18461,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6211,
+      "fwci": 4.6013,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92553486,
+        "value": 0.92525952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18726,7 +18813,50 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1385313657",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0313-190349",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G1597412403",
+          "display_name": null,
+          "funder_award_id": "RGPIN-",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G2165548363",
+          "display_name": null,
+          "funder_award_id": "Canada",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G2894603144",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G6221715925",
+          "display_name": null,
+          "funder_award_id": "RGPIN",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G7248088776",
+          "display_name": null,
+          "funder_award_id": "RGPIN-06184",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320309815",
@@ -19459,7 +19589,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20944,7 +21074,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.14978208,
+        "value": 0.14977252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21289,7 +21419,15 @@
           "score": 0.8899999856948853
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5162379661",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305-190235",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320309815",
@@ -21961,7 +22099,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {

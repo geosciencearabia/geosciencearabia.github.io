@@ -30,7 +30,7 @@
           "ror": "https://ror.org/035a68863",
           "display_name": "United States Geological Survey",
           "country_code": "US",
-          "type": "government",
+          "type": "funder",
           "lineage": [
             "https://openalex.org/I1286329397",
             "https://openalex.org/I1335927249"
@@ -469,7 +469,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-04-08T21:20:09",
+    "updated_date": "2026-04-09T12:26:41",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -2736,12 +2736,27 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2553481603",
+          "display_name": null,
+          "funder_award_id": "262618",
+          "funder_id": "https://openalex.org/F4320323299",
+          "funder_display_name": "Norges Forskningsråd"
+        },
+        {
+          "id": "https://openalex.org/G3748656914",
+          "display_name": null,
+          "funder_award_id": "Norway",
+          "funder_id": "https://openalex.org/F4320323299",
+          "funder_display_name": "Norges Forskningsråd"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320319993",
@@ -2934,7 +2949,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3725,11 +3740,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 32.1553,
+      "fwci": 32.1525,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99379901,
+        "value": 0.99379888,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4289,8 +4304,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716
         }
       ],
@@ -4518,7 +4533,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-07T14:57:38.498316",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5183,8 +5198,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137
         }
       ],
@@ -6290,8 +6305,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -7715,8 +7730,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.800000011920929
         }
       ],
@@ -12421,12 +12436,20 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5400000214576721
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7792163140",
+          "display_name": null,
+          "funder_award_id": "Scientific Research (DSR)",
+          "funder_id": "https://openalex.org/F4320322322",
+          "funder_display_name": "King Abdulaziz University"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320322322",
@@ -13008,7 +13031,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13839,11 +13862,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 2.0168,
+      "fwci": 2.0134,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.85594806,
+        "value": 0.85583801,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14158,11 +14181,25 @@
       "sustainable_development_goals": [],
       "awards": [
         {
+          "id": "https://openalex.org/G1650125035",
+          "display_name": null,
+          "funder_award_id": "B-I00",
+          "funder_id": "https://openalex.org/F4320322930",
+          "funder_display_name": "Ministerio de Ciencia e Innovación"
+        },
+        {
           "id": "https://openalex.org/G3662876810",
           "display_name": null,
           "funder_award_id": "DEM_GEOL4204",
           "funder_id": "https://openalex.org/F4320321602",
           "funder_display_name": "Deutsches Zentrum für Luft- und Raumfahrt"
+        },
+        {
+          "id": "https://openalex.org/G3998201246",
+          "display_name": null,
+          "funder_award_id": "Social",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
         },
         {
           "id": "https://openalex.org/G8653831550",
@@ -14973,7 +15010,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15574,8 +15611,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -17146,8 +17183,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -17624,8 +17661,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -18324,7 +18361,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -18371,7 +18408,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -18576,7 +18613,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -18623,7 +18660,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -18847,11 +18884,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8722,
+      "fwci": 2.8724,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89077505,
+        "value": 0.89078331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19235,8 +19272,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -19819,7 +19856,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-04-10T15:06:20.359241",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20364,8 +20401,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6899999976158142
         }
       ],
@@ -24042,8 +24079,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
