@@ -393,676 +393,6 @@
   },
   "works": [
     {
-      "id": "https://openalex.org/W1525628619",
-      "doi": "https://doi.org/10.1306/m40454c14",
-      "title": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
-      "display_name": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
-      "publication_year": 1986,
-      "publication_date": "1986-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1525628619",
-        "doi": "https://doi.org/10.1306/m40454c14",
-        "mag": "1525628619"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1306/m40454c14",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1306/m40454c14",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306462797",
-          "display_name": "American Association of Petroleum Geologists eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Future Petroleum Provinces of the World",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5061320565",
-            "display_name": "Abdulaziz A. Al-Laboun",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulaziz Abdullah al-Laboun",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5061320565"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.9177,
-      "has_fulltext": false,
-      "cited_by_count": 77,
-      "citation_normalized_percentile": {
-        "value": 0.90028222,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9922999739646912,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9922999739646912,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.9909999966621399,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9714000225067139,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6619856357574463
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.5651283264160156
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-succession",
-          "display_name": "Ecological succession",
-          "score": 0.526831328868866
-        },
-        {
-          "id": "https://openalex.org/keywords/arctic",
-          "display_name": "Arctic",
-          "score": 0.5173901319503784
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.46550920605659485
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.44131040573120117
-        },
-        {
-          "id": "https://openalex.org/keywords/the-arctic",
-          "display_name": "The arctic",
-          "score": 0.4190748333930969
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.3822765648365021
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.36141669750213623
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.32596608996391296
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.32575470209121704
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.13611659407615662
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6619856357574463
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.5651283264160156
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.526831328868866
-        },
-        {
-          "id": "https://openalex.org/C518008717",
-          "wikidata": "https://www.wikidata.org/wiki/Q25322",
-          "display_name": "Arctic",
-          "level": 2,
-          "score": 0.5173901319503784
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.46550920605659485
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.44131040573120117
-        },
-        {
-          "id": "https://openalex.org/C3018378255",
-          "wikidata": "https://www.wikidata.org/wiki/Q25322",
-          "display_name": "The arctic",
-          "level": 2,
-          "score": 0.4190748333930969
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.3822765648365021
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.36141669750213623
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.32596608996391296
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.32575470209121704
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.13611659407615662
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1306/m40454c14",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/m40454c14",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306462797",
-            "display_name": "American Association of Petroleum Geologists eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Future Petroleum Provinces of the World",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W131443289",
-        "https://openalex.org/W2023186840",
-        "https://openalex.org/W133610609",
-        "https://openalex.org/W3004838324",
-        "https://openalex.org/W4249616540",
-        "https://openalex.org/W1445961721",
-        "https://openalex.org/W1636101495",
-        "https://openalex.org/W2564920106",
-        "https://openalex.org/W2808919446",
-        "https://openalex.org/W2042818960"
-      ],
-      "abstract_inverted_index": {
-        "31": [
-          11
-        ],
-        "1984": [
-          3
-        ],
-        "Based": [
-          0
-        ],
-        "on": [
-          1
-        ],
-        "a": [
-          2,
-          8
-        ],
-        "conference,": [
-          4
-        ],
-        "this": [
-          5
-        ],
-        "volume": [
-          6
-        ],
-        "is": [
-          7
-        ],
-        "compilation": [
-          9
-        ],
-        "of": [
-          10,
-          12,
-          25,
-          45,
-          51
-        ],
-        "the": [
-          13,
-          22,
-          27,
-          74
-        ],
-        "papers": [
-          14
-        ],
-        "presented": [
-          15
-        ],
-        "at": [
-          16
-        ],
-        "that": [
-          17
-        ],
-        "conference.": [
-          18
-        ],
-        "These": [
-          19
-        ],
-        "articles": [
-          20
-        ],
-        "address": [
-          21
-        ],
-        "challenging": [
-          23
-        ],
-        "questions": [
-          24
-        ],
-        "where": [
-          26
-        ],
-        "world's": [
-          28
-        ],
-        "explorationists": [
-          29
-        ],
-        "must": [
-          30
-        ],
-        "search": [
-          31
-        ],
-        "for": [
-          32
-        ],
-        "petroleum.": [
-          33
-        ],
-        "Potential": [
-          34
-        ],
-        "and": [
-          35,
-          73
-        ],
-        "prospective": [
-          36
-        ],
-        "areas": [
-          37
-        ],
-        "discussed": [
-          38
-        ],
-        "include:": [
-          39
-        ],
-        "Antarctica,": [
-          40
-        ],
-        "Circum-Arctic,": [
-          41
-        ],
-        "Alaska,": [
-          42
-        ],
-        "Arctic": [
-          43
-        ],
-        "basins": [
-          44
-        ],
-        "Canada,": [
-          46,
-          48
-        ],
-        "Eastern": [
-          47
-        ],
-        "Amazon,": [
-          49
-        ],
-        "Gulf": [
-          50
-        ],
-        "Mexico,": [
-          52
-        ],
-        "U.S.": [
-          53
-        ],
-        "Atlantic": [
-          54
-        ],
-        "margin,": [
-          55
-        ],
-        "Arabia,": [
-          56
-        ],
-        "Mozambique,": [
-          57
-        ],
-        "Ghana,": [
-          58
-        ],
-        "Australia,": [
-          59
-        ],
-        "northwestern": [
-          60
-        ],
-        "China,": [
-          61
-        ],
-        "Philippine": [
-          62
-        ],
-        "Islands,": [
-          63
-        ],
-        "west": [
-          64
-        ],
-        "Siberia,": [
-          65
-        ],
-        "Mediterranean,": [
-          66
-        ],
-        "Sicily,": [
-          67
-        ],
-        "North": [
-          68
-        ],
-        "Sea,": [
-          69
-        ],
-        "Norway,": [
-          70
-        ],
-        "Greenland": [
-          71
-        ],
-        "sea,": [
-          72
-        ],
-        "Barents": [
-          75
-        ],
-        "sea.": [
-          76
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2071064541",
       "doi": "https://doi.org/10.1306/94886d3a-1704-11d7-8645000102c1865d",
       "title": "Unayzah Formation: A New Permian-Carboniferous Unit in Saudi Arabia",
@@ -1131,7 +461,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Abdulaziz A. Al-Laboun (2)",
+          "raw_author_name": "Abdulaziz A. AL-Laboun",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -1145,11 +475,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8429,
+      "fwci": 0.86,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.77506775,
+        "value": 0.77931034,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1159,9 +489,9 @@
       },
       "biblio": {
         "volume": "71",
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "issue": "1",
+        "first_page": "29",
+        "last_page": "38"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -1393,8 +723,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1424,424 +754,346 @@
       ],
       "abstract_inverted_index": {
         "1982": [
-          29
+          30
+        ],
+        "ABSTRACT": [
+          0
         ],
         "The": [
-          0,
-          32,
-          78,
-          107,
-          117,
-          160
+          1,
+          33,
+          79,
+          108,
+          118
         ],
         "sandstones,": [
-          1
-        ],
-        "shales,": [
           2
         ],
+        "shales,": [
+          3
+        ],
         "and": [
-          3,
-          30,
-          45,
-          64,
-          123,
-          153,
-          177
+          4,
+          31,
+          46,
+          65,
+          135
         ],
         "thin": [
-          4
-        ],
-        "beds": [
           5
         ],
+        "beds": [
+          6
+        ],
         "of": [
-          6,
-          15,
-          36,
-          43,
-          88,
-          137,
-          155,
-          163,
-          180
+          7,
+          16,
+          37,
+          44,
+          89,
+          121,
+          138
         ],
         "argillaceous": [
-          7
-        ],
-        "limestone": [
           8
         ],
-        "previously": [
+        "limestone": [
           9
         ],
-        "included": [
+        "previously": [
           10
         ],
+        "included": [
+          11
+        ],
         "as": [
-          11,
-          22
+          12,
+          23
         ],
         "the": [
-          12,
-          16,
-          23,
-          41,
-          52,
-          85,
-          89,
-          113,
-          127,
-          134,
-          138,
-          151,
-          156,
-          164,
-          175,
-          181,
-          188
+          13,
+          17,
+          24,
+          42,
+          53,
+          86,
+          90,
+          114,
+          122,
+          133,
+          139,
+          146
         ],
         "basal": [
-          13,
-          94
+          14,
+          95
         ],
         "part": [
-          14
+          15
         ],
         "Permian": [
-          17,
-          73,
-          128,
-          144
+          18,
+          74
         ],
         "Khuff": [
-          18,
-          90,
-          139
+          19,
+          91
         ],
         "Formation": [
-          19,
+          20,
+          26,
+          81,
+          110,
+          124
+        ],
+        "were": [
+          21
+        ],
+        "described": [
+          22
+        ],
+        "Unayzah": [
           25,
           80,
           109,
-          140,
-          166
-        ],
-        "were": [
-          20,
-          141
-        ],
-        "described": [
-          21
-        ],
-        "Unayzah": [
-          24,
-          79,
-          108,
-          165
+          123
         ],
         "by": [
-          26,
-          84,
-          98
+          27,
+          85,
+          99
         ],
         "al-Laboun": [
-          27
+          28
         ],
         "in": [
-          28,
-          40,
-          51,
-          112,
-          150,
-          174
-        ],
-        "1986.": [
-          31
-        ],
-        "type": [
-          33
-        ],
-        "locality": [
-          34
-        ],
-        "(stratotype?)": [
-          35
-        ],
-        "this": [
-          37
-        ],
-        "formation": [
-          38
-        ],
-        "is": [
-          39,
-          81,
-          96,
-          110
-        ],
-        "town": [
-          42
-        ],
-        "Unayzah,": [
-          44
-        ],
-        "a": [
-          46,
-          70,
-          99,
-          147
-        ],
-        "reference": [
-          47
-        ],
-        "section": [
-          48
-        ],
-        "was": [
-          49
-        ],
-        "established": [
-          50
-        ],
-        "Qusayba": [
-          53
-        ],
-        "area,": [
-          54
-        ],
-        "al-Qasim": [
-          55
-        ],
-        "district,": [
-          56
-        ],
-        "Saudi": [
-          57
-        ],
-        "Arabia.": [
-          58
-        ],
-        "Fossil": [
-          59
-        ],
-        "flora": [
-          60
-        ],
-        "collected": [
-          61
-        ],
-        "from": [
-          62,
-          67,
-          187
-        ],
-        "outcrops": [
-          63
-        ],
-        "palynomorphs": [
-          65
-        ],
-        "obtained": [
-          66
-        ],
-        "boreholes": [
-          68
-        ],
-        "support": [
-          69
-        ],
-        "Late": [
-          71
-        ],
-        "Carboniferous-Early": [
-          72
-        ],
-        "age": [
-          74
-        ],
-        "for": [
-          75
-        ],
-        "these": [
-          76
-        ],
-        "strata.": [
-          77
-        ],
-        "conformably": [
-          82
-        ],
-        "overlain": [
-          83
-        ],
-        "massive": [
-          86,
-          135
-        ],
-        "carbonates": [
-          87,
-          136
-        ],
-        "Formation,": [
-          91
-        ],
-        "whereas": [
-          92
-        ],
-        "its": [
-          93
-        ],
-        "contact": [
-          95
-        ],
-        "marked": [
-          97,
-          146
-        ],
-        "regional": [
-          100,
-          129
-        ],
-        "angular": [
-          101
-        ],
-        "unconformity": [
-          102
-        ],
-        "with": [
-          103
-        ],
-        "various": [
-          104
-        ],
-        "older": [
-          105
-        ],
-        "units.": [
-          106
-        ],
-        "widespread": [
-          111
-        ],
-        "Greater": [
-          114,
-          157,
-          182
-        ],
-        "Arabian": [
-          115,
-          158,
-          183
-        ],
-        "basin.": [
-          116,
-          159
-        ],
-        "f": [
-          118
-        ],
-        "rmation": [
-          119
-        ],
-        "represents": [
-          120
-        ],
-        "cyclic": [
-          121
-        ],
-        "transgressive": [
-          122
-        ],
-        "regressive": [
-          124
-        ],
-        "deposits": [
-          125
-        ],
-        "preceding": [
-          126
-        ],
-        "marine": [
-          130
-        ],
-        "transgression,": [
-          131
-        ],
-        "during": [
+          29,
+          41,
+          52,
+          113,
           132
         ],
-        "which": [
-          133
+        "1986.": [
+          32
         ],
-        "deposited.": [
-          142
+        "type": [
+          34
         ],
-        "This": [
-          143
+        "locality": [
+          35
         ],
-        "transgression": [
+        "(stratotype?)": [
+          36
+        ],
+        "this": [
+          38
+        ],
+        "formation": [
+          39
+        ],
+        "is": [
+          40,
+          82,
+          97,
+          111
+        ],
+        "town": [
+          43
+        ],
+        "Unayzah,": [
+          45
+        ],
+        "a": [
+          47,
+          71,
+          100
+        ],
+        "reference": [
+          48
+        ],
+        "section": [
+          49
+        ],
+        "was": [
+          50
+        ],
+        "established": [
+          51
+        ],
+        "Qusayba": [
+          54
+        ],
+        "area,": [
+          55
+        ],
+        "al-Qasim": [
+          56
+        ],
+        "district,": [
+          57
+        ],
+        "Saudi": [
+          58
+        ],
+        "Arabia.": [
+          59
+        ],
+        "Fossil": [
+          60
+        ],
+        "flora": [
+          61
+        ],
+        "collected": [
+          62
+        ],
+        "from": [
+          63,
+          68,
           145
         ],
-        "major": [
-          148
+        "outcrops": [
+          64
         ],
-        "change": [
-          149
+        "palynomorphs": [
+          66
         ],
-        "sedimentation": [
-          152
+        "obtained": [
+          67
         ],
-        "evolution": [
-          154
+        "boreholes": [
+          69
+        ],
+        "support": [
+          70
+        ],
+        "Late": [
+          72
+        ],
+        "Carboniferous-Early": [
+          73
+        ],
+        "age": [
+          75
+        ],
+        "for": [
+          76
+        ],
+        "these": [
+          77
+        ],
+        "strata.": [
+          78
+        ],
+        "conformably": [
+          83
+        ],
+        "overlain": [
+          84
+        ],
+        "massive": [
+          87
+        ],
+        "carbonates": [
+          88
+        ],
+        "Formation,": [
+          92
+        ],
+        "whereas": [
+          93
+        ],
+        "its": [
+          94
+        ],
+        "contact": [
+          96
+        ],
+        "marked": [
+          98
+        ],
+        "regional": [
+          101
+        ],
+        "angular": [
+          102
+        ],
+        "unconformity": [
+          103
+        ],
+        "with": [
+          104
+        ],
+        "various": [
+          105
+        ],
+        "older": [
+          106
+        ],
+        "units.": [
+          107
+        ],
+        "widespread": [
+          112
+        ],
+        "Greater": [
+          115,
+          140
+        ],
+        "Arabian": [
+          116,
+          141
+        ],
+        "basin.": [
+          117
         ],
         "porous": [
-          161
+          119
         ],
         "sandstones": [
-          162
+          120
         ],
         "are": [
-          167
+          125
         ],
         "important": [
-          168
+          126
         ],
         "exploration": [
-          169
+          127
         ],
         "targets": [
-          170
+          128
         ],
         "because": [
-          171
+          129
         ],
         "several": [
-          172
+          130
         ],
         "fields": [
-          173
+          131
         ],
         "eastern": [
-          176
+          134
         ],
         "southeastern": [
-          178
+          136
         ],
         "parts": [
-          179
+          137
         ],
         "basin": [
-          184
+          142
         ],
         "produce": [
-          185
+          143
         ],
         "hydrocarbons": [
-          186
+          144
         ],
         "Unayzah.": [
-          189
+          147
         ]
       },
       "counts_by_year": [
@@ -1890,7 +1142,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-11T08:14:18.477133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2314,8 +1566,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2908,8 +2160,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2997,6 +2249,676 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1525628619",
+      "doi": "https://doi.org/10.1306/m40454c14",
+      "title": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
+      "display_name": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
+      "publication_year": 1986,
+      "publication_date": "1986-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1525628619",
+        "doi": "https://doi.org/10.1306/m40454c14",
+        "mag": "1525628619"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1306/m40454c14",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1306/m40454c14",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306462797",
+          "display_name": "American Association of Petroleum Geologists eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Future Petroleum Provinces of the World",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061320565",
+            "display_name": "Abdulaziz A. Al-Laboun",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulaziz Abdullah al-Laboun",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061320565"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.9561,
+      "has_fulltext": false,
+      "cited_by_count": 78,
+      "citation_normalized_percentile": {
+        "value": 0.92506938,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9922999739646912,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9922999739646912,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.9909999966621399,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9714000225067139,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6619856357574463
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.5651283264160156
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-succession",
+          "display_name": "Ecological succession",
+          "score": 0.526831328868866
+        },
+        {
+          "id": "https://openalex.org/keywords/arctic",
+          "display_name": "Arctic",
+          "score": 0.5173901319503784
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.46550920605659485
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.44131040573120117
+        },
+        {
+          "id": "https://openalex.org/keywords/the-arctic",
+          "display_name": "The arctic",
+          "score": 0.4190748333930969
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.3822765648365021
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.36141669750213623
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.32596608996391296
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-geography",
+          "display_name": "Physical geography",
+          "score": 0.32575470209121704
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.13611659407615662
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6619856357574463
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.5651283264160156
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.526831328868866
+        },
+        {
+          "id": "https://openalex.org/C518008717",
+          "wikidata": "https://www.wikidata.org/wiki/Q25322",
+          "display_name": "Arctic",
+          "level": 2,
+          "score": 0.5173901319503784
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.46550920605659485
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.44131040573120117
+        },
+        {
+          "id": "https://openalex.org/C3018378255",
+          "wikidata": "https://www.wikidata.org/wiki/Q25322",
+          "display_name": "The arctic",
+          "level": 2,
+          "score": 0.4190748333930969
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.3822765648365021
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.36141669750213623
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.32596608996391296
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.32575470209121704
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.13611659407615662
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1306/m40454c14",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/m40454c14",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306462797",
+            "display_name": "American Association of Petroleum Geologists eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Future Petroleum Provinces of the World",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8999999761581421,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W131443289",
+        "https://openalex.org/W2023186840",
+        "https://openalex.org/W133610609",
+        "https://openalex.org/W3004838324",
+        "https://openalex.org/W4249616540",
+        "https://openalex.org/W1445961721",
+        "https://openalex.org/W1636101495",
+        "https://openalex.org/W2564920106",
+        "https://openalex.org/W2808919446",
+        "https://openalex.org/W2042818960"
+      ],
+      "abstract_inverted_index": {
+        "31": [
+          11
+        ],
+        "1984": [
+          3
+        ],
+        "Based": [
+          0
+        ],
+        "on": [
+          1
+        ],
+        "a": [
+          2,
+          8
+        ],
+        "conference,": [
+          4
+        ],
+        "this": [
+          5
+        ],
+        "volume": [
+          6
+        ],
+        "is": [
+          7
+        ],
+        "compilation": [
+          9
+        ],
+        "of": [
+          10,
+          12,
+          25,
+          45,
+          51
+        ],
+        "the": [
+          13,
+          22,
+          27,
+          74
+        ],
+        "papers": [
+          14
+        ],
+        "presented": [
+          15
+        ],
+        "at": [
+          16
+        ],
+        "that": [
+          17
+        ],
+        "conference.": [
+          18
+        ],
+        "These": [
+          19
+        ],
+        "articles": [
+          20
+        ],
+        "address": [
+          21
+        ],
+        "challenging": [
+          23
+        ],
+        "questions": [
+          24
+        ],
+        "where": [
+          26
+        ],
+        "world's": [
+          28
+        ],
+        "explorationists": [
+          29
+        ],
+        "must": [
+          30
+        ],
+        "search": [
+          31
+        ],
+        "for": [
+          32
+        ],
+        "petroleum.": [
+          33
+        ],
+        "Potential": [
+          34
+        ],
+        "and": [
+          35,
+          73
+        ],
+        "prospective": [
+          36
+        ],
+        "areas": [
+          37
+        ],
+        "discussed": [
+          38
+        ],
+        "include:": [
+          39
+        ],
+        "Antarctica,": [
+          40
+        ],
+        "Circum-Arctic,": [
+          41
+        ],
+        "Alaska,": [
+          42
+        ],
+        "Arctic": [
+          43
+        ],
+        "basins": [
+          44
+        ],
+        "Canada,": [
+          46,
+          48
+        ],
+        "Eastern": [
+          47
+        ],
+        "Amazon,": [
+          49
+        ],
+        "Gulf": [
+          50
+        ],
+        "Mexico,": [
+          52
+        ],
+        "U.S.": [
+          53
+        ],
+        "Atlantic": [
+          54
+        ],
+        "margin,": [
+          55
+        ],
+        "Arabia,": [
+          56
+        ],
+        "Mozambique,": [
+          57
+        ],
+        "Ghana,": [
+          58
+        ],
+        "Australia,": [
+          59
+        ],
+        "northwestern": [
+          60
+        ],
+        "China,": [
+          61
+        ],
+        "Philippine": [
+          62
+        ],
+        "Islands,": [
+          63
+        ],
+        "west": [
+          64
+        ],
+        "Siberia,": [
+          65
+        ],
+        "Mediterranean,": [
+          66
+        ],
+        "Sicily,": [
+          67
+        ],
+        "North": [
+          68
+        ],
+        "Sea,": [
+          69
+        ],
+        "Norway,": [
+          70
+        ],
+        "Greenland": [
+          71
+        ],
+        "sea,": [
+          72
+        ],
+        "Barents": [
+          75
+        ],
+        "sea.": [
+          76
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-04-11T08:14:18.477133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3624,8 +3546,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -4639,8 +4561,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -5089,8 +5011,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6635,8 +6557,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -7587,8 +7509,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8939,8 +8861,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9918,8 +9840,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11447,8 +11369,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12188,8 +12110,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12770,8 +12692,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14271,8 +14193,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

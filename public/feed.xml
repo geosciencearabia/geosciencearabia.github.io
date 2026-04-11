@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Fri, 10 Apr 2026 21:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 21:32:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Seismic Event Classification With a Lightweight Fourier Neural Operator Model</title>
+      <link>https://doi.org/10.1111/1365-2478.70176</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7153309765</guid>
+      <dc:creator>Ayrat Abdullin, Umair Bin Waheed, Leo Eisner, Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Geophysical Prospecting</dc:publisher>
+      <category>Computer science</category>
+      <category>Microseism</category>
+      <category>Artificial neural network</category>
+      <category>Data mining</category>
+      <category>Waveform</category>
+      <description>Abstract: ABSTRACT Real‐time monitoring of induced seismicity is critical to mitigate operational risks, relying on the rapid and accurate classification of triggered data from continuous data streams. Deep learning models are effective for this purpose but require substantial computational resources, making real‐time processing difficult. To address this limitation, a lightweight model based on the Fourier neural operator (FNO) is proposed for the classification of microseismic events, leveraging its inherent resolution‐invariance and computational efficiency for waveform processing. In the STanford EArthquake Dataset (STEAD), a global and large‐scale database of seismic waveforms, the FNO‐based model demonstrates high effectiveness for trigger classification, with an F1 score of 95% even in the scenario of data sparsity in training. The new FNO model greatly decreases the computer power needed relative to current deep learning models without sacrificing the classification success rate measured by the F1 score. A test on a real microseismic dataset shows a classification success rate with an F1 score of 98%, outperforming many traditional deep‐learning techniques. The reduced computational cost makes the proposed FNO model well‐suited for deployment in resource‐constrained, near‐real‐time seismic monitoring workflows, including traffic‐light implementations. The source code for the proposed FNO classifier is available at https://github.com/ayratabd/FNOclass .&#10;Topics: Computer science, Microseism, Artificial neural network, Data mining, Waveform&#10;Venue: Geophysical Prospecting&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Neoproterozoic Arc Construction, NW Midyan terrane, Arabian Shield: 50 m.y. of alkaline and calc-alkaline post-collisional magmatism</title>
       <link>https://doi.org/10.1016/j.lithos.2026.108515</link>
@@ -1364,20 +1378,6 @@
       <category>Vitrinite reflectance</category>
       <category>Reflectivity</category>
       <description>Abstract: Abstract Palynomorph Darkness Index (PDI) is a fully quantitative optical method for assessing thermal maturity which has been established as a rapid and low-cost ‘add-on’ to palynostratigraphic investigations, especially in pre-Devonian sediments. Here, we applied the PDI method to Silurian strata in Saudi Arabia to enhance calibration of Acritarch PDI to vitrinite reflectance (VRo) via Vitrinite Reflectance Equivalents (VREs) such as pyrolysis-based Tmax determination, and graptolite and chitinozoan reflectance. Unoxidised palynological concentrates were obtained from core samples from various sections in Saudi Arabia from the early Silurian (Qalibah Formation) and a maturity range from immature through the oil, condensate and gas windows to the postmature stage. PDI measurements were taken on suitable acritarch taxa using a transmitted light optical microscope and a digital camera. The PDI values obtained were correlated with VREs derived from Tmax, graptolite reflectance and chitinozoan reflectance. Published PDI – VRo correlations established in Devonian-Carboniferous sections in the eastern USA were also considered. The present results confirm that acritarch PDI can be successfully applied for thermal maturity estimation, especially in pre-Devonian age, organic-rich sediments, where most of the available alternative methods show weak correlation toVRo. The most suitable acritarchs for PDI determination are the Veryhachium / Neoveryhachium Group. Preliminary results sugg…&#10;Topics: Acritarch, Paleozoic, Maturity (psychological), Vitrinite reflectance, Reflectivity&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Effect of steep climate gradient on palynological assemblages on the Arabian part of the Tethys shore in two Carboniferous-Permian ice age time slices</title>
-      <link>https://doi.org/10.1016/j.revpalbo.2025.105448</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414244365</guid>
-      <dc:creator>Michael H. Stephenson, Shu‐zhong Shen, Junxuan Fan, Linshu Hu, Qi Jin</dc:creator>
-      <dc:publisher>Review of Palaeobotany and Palynology</dc:publisher>
-      <category>Palynology</category>
-      <category>Gondwana</category>
-      <category>Geology</category>
-      <category>Paleoclimatology</category>
-      <category>Carboniferous</category>
-      <description>Topics: Palynology, Gondwana, Geology, Paleoclimatology, Carboniferous&#10;Venue: Review of Palaeobotany and Palynology&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

@@ -10960,11 +10960,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1843,
+      "fwci": 1.1954,
       "has_fulltext": false,
-      "cited_by_count": 54,
+      "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.73550489,
+        "value": 0.73829378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12064,7 +12064,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-11T08:14:18.477133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15748,11 +15748,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1996,
+      "fwci": 3.3159,
       "has_fulltext": false,
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.93931398,
+        "value": 0.94177215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16109,7 +16109,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-11T08:14:18.477133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20148,6 +20148,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -20160,14 +20170,22 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Mustafa A. Al Ibrahim",
           "raw_affiliation_strings": [
+            "Saudi Aramco 1 Geology Technology Team, EXPEC Advanced Research Center, , Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: Stanford University, Green Earth Science Building, Room 50, 365 Panama Street, Stanford, California 94305; Mustafa.Geoscientist@outlook.com",
             "Saudi ARAMCO"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco 1 Geology Technology Team, EXPEC Advanced Research Center, , Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: Stanford University, Green Earth Science Building, Room 50, 365 Panama Street, Stanford, California 94305; Mustafa.Geoscientist@outlook.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
@@ -20201,9 +20219,16 @@
           "is_corresponding": false,
           "raw_author_name": "J. Frederick Sarg",
           "raw_affiliation_strings": [
+            "Colorado School of Mines 2 Department of Geology and Geological Engineering, , 1516 Illinois Street, Golden, Colorado 80401; jsarg@mines.edu",
             "Colorado School of Mines"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Colorado School of Mines 2 Department of Geology and Geological Engineering, , 1516 Illinois Street, Golden, Colorado 80401; jsarg@mines.edu",
+              "institution_ids": [
+                "https://openalex.org/I167576493"
+              ]
+            },
             {
               "raw_affiliation_string": "Colorado School of Mines",
               "institution_ids": [
@@ -20221,6 +20246,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I186131212",
+              "display_name": "Chevron (Netherlands)",
+              "ror": "https://ror.org/053k40h13",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I186131212",
+                "https://openalex.org/I4210118014"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210118014",
               "display_name": "Chevron (United States)",
               "ror": "https://ror.org/02jfa8730",
@@ -20232,14 +20268,23 @@
             }
           ],
           "countries": [
+            "NL",
             "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Neil Hurley",
           "raw_affiliation_strings": [
+            "Chevron 3 , 1500 Louisiana Street, Room 31114, Houston, Texas 77002; nhurley@chevron.com",
             "CHEVRON"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Chevron 3 , 1500 Louisiana Street, Room 31114, Houston, Texas 77002; nhurley@chevron.com",
+              "institution_ids": [
+                "https://openalex.org/I4210118014",
+                "https://openalex.org/I186131212"
+              ]
+            },
             {
               "raw_affiliation_string": "CHEVRON",
               "institution_ids": [
@@ -20255,12 +20300,45 @@
             "display_name": "Dave L. Cantrell",
             "orcid": "https://orcid.org/0000-0003-3118-9769"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "4Geology Technology Team, EXPEC Advanced Research Center, Saudi Aramco, Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: King Fahd University of Petroleum and Minerals, P.O. Box 10831, Dhahran 31311, Saudi Arabia; dcantrell@kfupm.edu.sa"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "4Geology Technology Team, EXPEC Advanced Research Center, Saudi Aramco, Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: King Fahd University of Petroleum and Minerals, P.O. Box 10831, Dhahran 31311, Saudi Arabia; dcantrell@kfupm.edu.sa",
+              "institution_ids": [
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -20269,14 +20347,34 @@
             "display_name": "John Humphrey",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I188538660",
+              "display_name": "University of Colorado Boulder",
+              "ror": "https://ror.org/02ttsq026",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I188538660"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
+            "5SedimentarySolutions.com, 4625 15th Street #C, Boulder, Colorado 80304; jhumphre@gmail.com",
             "SedimentarySolutions.com, 4625 15th Street #C, Boulder, Colorado 80304; jhumphre@gmail.com"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "5SedimentarySolutions.com, 4625 15th Street #C, Boulder, Colorado 80304; jhumphre@gmail.com",
+              "institution_ids": [
+                "https://openalex.org/I188538660"
+              ]
+            },
             {
               "raw_affiliation_string": "SedimentarySolutions.com, 4625 15th Street #C, Boulder, Colorado 80304; jhumphre@gmail.com",
               "institution_ids": []
@@ -20285,21 +20383,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5009963240"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9742,
+      "fwci": 3.0229,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89718853,
+        "value": 0.89881602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20309,7 +20408,7 @@
       },
       "biblio": {
         "volume": "101",
-        "issue": "05",
+        "issue": "5",
         "first_page": "683",
         "last_page": "714"
       },
@@ -20622,9 +20721,11 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 36,
+      "referenced_works_count": 43,
       "referenced_works": [
+        "https://openalex.org/W106024889",
         "https://openalex.org/W195523536",
+        "https://openalex.org/W302662738",
         "https://openalex.org/W1603391494",
         "https://openalex.org/W1608292140",
         "https://openalex.org/W1825260807",
@@ -20647,10 +20748,12 @@
         "https://openalex.org/W2109430410",
         "https://openalex.org/W2110159066",
         "https://openalex.org/W2116736066",
+        "https://openalex.org/W2126128065",
         "https://openalex.org/W2134746957",
         "https://openalex.org/W2146844961",
         "https://openalex.org/W2155051757",
         "https://openalex.org/W2156433034",
+        "https://openalex.org/W2163054078",
         "https://openalex.org/W2165117122",
         "https://openalex.org/W2169964049",
         "https://openalex.org/W2182971207",
@@ -20659,7 +20762,10 @@
         "https://openalex.org/W2954735392",
         "https://openalex.org/W2990128836",
         "https://openalex.org/W3128966218",
-        "https://openalex.org/W3131236843"
+        "https://openalex.org/W3131236843",
+        "https://openalex.org/W4214634148",
+        "https://openalex.org/W4242085965",
+        "https://openalex.org/W4243034119"
       ],
       "related_works": [
         "https://openalex.org/W2356518127",
@@ -20678,633 +20784,633 @@
           0
         ],
         "Depositional": [
-          2
+          1
         ],
         "interpretation": [
-          3,
-          54
+          2,
+          53
         ],
         "and": [
-          4,
-          14,
-          22,
-          27,
-          41,
-          52,
-          68,
-          105,
-          117,
-          168,
-          179,
-          181,
-          208,
-          214
+          3,
+          13,
+          21,
+          26,
+          40,
+          51,
+          67,
+          104,
+          116,
+          167,
+          178,
+          180,
+          207,
+          213
         ],
         "sequence": [
+          4,
+          27,
+          88
+        ],
+        "stratigraphic": [
           5,
+          20,
           28,
           89
         ],
-        "stratigraphic": [
-          6,
-          21,
-          29,
-          90
-        ],
         "analysis": [
-          7,
-          13,
-          30,
-          61,
-          109,
-          130
+          6,
+          12,
+          29,
+          60,
+          108,
+          129
         ],
         "of": [
-          8,
-          37,
-          62,
-          125,
-          187,
-          212,
-          222,
-          241
+          7,
+          36,
+          61,
+          124,
+          186,
+          211,
+          221,
+          240
         ],
         "carbonate": [
-          9
+          8
         ],
         "mudrocks": [
-          10
+          9
         ],
         "requires": [
-          11
+          10
         ],
         "numerical": [
-          12
+          11
         ],
         "data": [
-          15,
-          93
+          14,
+          92
         ],
         "integration": [
-          16
+          15
         ],
         "to": [
-          17,
-          88,
-          112,
-          160,
-          174,
-          192,
-          228,
-          238,
-          256
+          16,
+          87,
+          111,
+          159,
+          173,
+          191,
+          227,
+          237,
+          255
         ],
         "achieve": [
-          18
+          17
         ],
         "quantitative,": [
-          19
+          18
         ],
         "predictive": [
-          20
+          19
         ],
         "geochemical": [
-          23,
-          53
+          22,
+          52
         ],
         "models.": [
-          24
+          23
         ],
         "A": [
-          25
+          24
         ],
         "depositional": [
-          26,
-          97
+          25,
+          96
         ],
         "is": [
-          31,
-          78,
-          110,
-          190,
-          265
+          30,
+          77,
+          109,
+          189,
+          264
         ],
         "built": [
-          32
+          31
         ],
         "for": [
-          33,
-          72,
-          80,
-          96,
-          269
+          32,
+          71,
+          79,
+          95,
+          268
         ],
         "a": [
-          34,
-          73,
-          230,
-          267
+          33,
+          72,
+          229,
+          266
         ],
         "basinal": [
-          35
+          34
         ],
         "interval": [
-          36,
-          189
+          35,
+          188
         ],
         "the": [
-          38,
-          135,
-          152,
-          188,
-          205,
-          223,
-          239,
-          244
+          37,
+          134,
+          151,
+          187,
+          204,
+          222,
+          238,
+          243
         ],
         "Tuwaiq": [
+          38,
+          205
+        ],
+        "Mountain": [
           39,
           206
         ],
-        "Mountain": [
-          40,
-          207
-        ],
         "Hanifa": [
-          42,
-          209,
-          224
+          41,
+          208,
+          223
         ],
         "Formations,": [
-          43
+          42
         ],
         "Saudi": [
-          44
+          43
         ],
         "Arabia.": [
-          45
+          44
         ],
         "Conventional": [
-          46
+          45
         ],
         "geologic": [
-          47
+          46
         ],
         "interpretation,": [
-          48,
-          99
-        ],
-        "automated": [
-          49
-        ],
-        "electrofacies": [
-          50,
-          75,
-          123
-        ],
-        "analysis,": [
-          51
-        ],
-        "are": [
-          55,
-          226,
-          277
-        ],
-        "integrated": [
-          56
-        ],
-        "using": [
-          57,
-          65,
-          122
-        ],
-        "quantitative": [
-          58
-        ],
-        "means.": [
-          59
-        ],
-        "Cluster": [
-          60
-        ],
-        "well": [
-          63,
-          253
-        ],
-        "logs": [
-          64
-        ],
-        "self-organizing": [
-          66
-        ],
-        "maps": [
-          67
-        ],
-        "hierarchical": [
-          69
-        ],
-        "clustering": [
-          70,
-          124
-        ],
-        "allowed": [
-          71
-        ],
-        "multiscale": [
-          74
-        ],
-        "analysis.": [
-          76
-        ],
-        "This": [
-          77
-        ],
-        "useful": [
-          79
-        ],
-        "identifying": [
-          81
-        ],
-        "major": [
-          82,
-          146,
-          199
-        ],
-        "lithological": [
-          83
-        ],
-        "surfaces,": [
-          84
-        ],
-        "which": [
-          85
-        ],
-        "commonly": [
-          86
-        ],
-        "correspond": [
-          87
-        ],
-        "surfaces.": [
-          91
-        ],
-        "Geochemical": [
-          92
-        ],
-        "were": [
-          94,
-          120
-        ],
-        "used": [
-          95,
-          111
-        ],
-        "environment": [
+          47,
           98
         ],
-        "such": [
-          100
+        "automated": [
+          48
         ],
-        "as": [
-          101
+        "electrofacies": [
+          49,
+          74,
+          122
         ],
-        "sediment": [
-          102
+        "analysis,": [
+          50
         ],
-        "provenance,": [
-          103
+        "are": [
+          54,
+          225,
+          276
         ],
-        "redox,": [
-          104
+        "integrated": [
+          55
         ],
-        "paleoproductivity": [
-          106,
-          118
-        ],
-        "conditions.": [
-          107
-        ],
-        "Factor": [
-          108
-        ],
-        "group": [
-          113
-        ],
-        "element": [
-          114
-        ],
-        "data.": [
-          115
-        ],
-        "Redox": [
-          116
-        ],
-        "indices": [
-          119
-        ],
-        "calculated": [
+        "using": [
+          56,
+          64,
           121
         ],
+        "quantitative": [
+          57
+        ],
+        "means.": [
+          58
+        ],
+        "Cluster": [
+          59
+        ],
+        "well": [
+          62,
+          252
+        ],
+        "logs": [
+          63
+        ],
+        "self-organizing": [
+          65
+        ],
+        "maps": [
+          66
+        ],
+        "hierarchical": [
+          68
+        ],
+        "clustering": [
+          69,
+          123
+        ],
+        "allowed": [
+          70
+        ],
+        "multiscale": [
+          73
+        ],
+        "analysis.": [
+          75
+        ],
+        "This": [
+          76
+        ],
+        "useful": [
+          78
+        ],
+        "identifying": [
+          80
+        ],
+        "major": [
+          81,
+          145,
+          198
+        ],
+        "lithological": [
+          82
+        ],
+        "surfaces,": [
+          83
+        ],
+        "which": [
+          84
+        ],
+        "commonly": [
+          85
+        ],
+        "correspond": [
+          86
+        ],
+        "surfaces.": [
+          90
+        ],
+        "Geochemical": [
+          91
+        ],
+        "were": [
+          93,
+          119
+        ],
+        "used": [
+          94,
+          110
+        ],
+        "environment": [
+          97
+        ],
+        "such": [
+          99
+        ],
+        "as": [
+          100
+        ],
+        "sediment": [
+          101
+        ],
+        "provenance,": [
+          102
+        ],
+        "redox,": [
+          103
+        ],
+        "paleoproductivity": [
+          105,
+          117
+        ],
+        "conditions.": [
+          106
+        ],
+        "Factor": [
+          107
+        ],
+        "group": [
+          112
+        ],
+        "element": [
+          113
+        ],
+        "data.": [
+          114
+        ],
+        "Redox": [
+          115
+        ],
+        "indices": [
+          118
+        ],
+        "calculated": [
+          120
+        ],
         "different": [
-          126
+          125
         ],
         "elemental": [
-          127
+          126
         ],
         "groups.": [
-          128
+          127
         ],
         "Electrofacies": [
-          129
+          128
         ],
         "shows": [
-          131
+          130
         ],
         "good": [
-          132
+          131
         ],
         "correlation": [
-          133
+          132
         ],
         "with": [
-          134,
-          234,
-          254
+          133,
+          233,
+          253
         ],
         "lithofacies;": [
-          136
+          135
         ],
         "that": [
-          137,
-          259
+          136,
+          258
         ],
         "is,": [
-          138
+          137
         ],
         "lithofacies": [
-          139,
-          147
+          138,
+          146
         ],
         "can": [
-          140
+          139
         ],
         "be": [
-          141,
-          193,
-          229
+          140,
+          192,
+          228
         ],
         "identified": [
-          142,
-          150,
-          203
-        ],
-        "from": [
-          143
-        ],
-        "logs.": [
-          144
-        ],
-        "Five": [
-          145
-        ],
-        "have": [
-          148,
-          201,
-          260
-        ],
-        "been": [
+          141,
           149,
           202
         ],
+        "from": [
+          142
+        ],
+        "logs.": [
+          143
+        ],
+        "Five": [
+          144
+        ],
+        "have": [
+          147,
+          200,
+          259
+        ],
+        "been": [
+          148,
+          201
+        ],
         "in": [
-          151,
-          204,
-          279
+          150,
+          203,
+          278
         ],
         "studied": [
-          153,
-          245
+          152,
+          244
         ],
         "interval:": [
-          154
+          153
         ],
         "(1)": [
-          155
+          154
         ],
         "wispy": [
-          156
+          155
         ],
         "laminated": [
-          157,
-          171
-        ],
-        "skeletal": [
-          158,
-          165
-        ],
-        "wackestones": [
-          159
-        ],
-        "mudstones;": [
-          161
-        ],
-        "(2)": [
-          162
-        ],
-        "differentially": [
-          163
-        ],
-        "cemented": [
-          164
-        ],
-        "wackestones,": [
-          166
-        ],
-        "packstones,": [
-          167
-        ],
-        "grainstones;": [
-          169
-        ],
-        "(3)": [
+          156,
           170
         ],
+        "skeletal": [
+          157,
+          164
+        ],
+        "wackestones": [
+          158
+        ],
+        "mudstones;": [
+          160
+        ],
+        "(2)": [
+          161
+        ],
+        "differentially": [
+          162
+        ],
+        "cemented": [
+          163
+        ],
+        "wackestones,": [
+          165
+        ],
+        "packstones,": [
+          166
+        ],
+        "grainstones;": [
+          168
+        ],
+        "(3)": [
+          169
+        ],
         "peloidal": [
-          172
+          171
         ],
         "mudstones": [
-          173
+          172
         ],
         "wackestones;": [
-          175,
-          180
+          174,
+          179
         ],
         "(4)": [
-          176
+          175
         ],
         "bioturbated": [
+          176,
+          219
+        ],
+        "packstones": [
           177,
           220
         ],
-        "packstones": [
-          178,
-          221
-        ],
         "(5)": [
-          182
+          181
         ],
         "palmate": [
-          183
+          182
         ],
         "anhydrite.": [
-          184
+          183
         ],
         "The": [
-          185,
-          218
+          184,
+          217
         ],
         "majority": [
-          186
+          185
         ],
         "interpreted": [
-          191,
-          227
+          190,
+          226
         ],
         "deposited": [
-          194
+          193
         ],
         "by": [
-          195
+          194
         ],
         "gravity": [
-          196
+          195
         ],
         "processes.": [
-          197
+          196
         ],
         "Four": [
-          198
+          197
         ],
         "sequences": [
-          200
+          199
         ],
         "Formations": [
-          210
+          209
         ],
         "made": [
-          211
+          210
         ],
         "transgressive": [
-          213,
-          280
+          212,
+          279
         ],
         "highstand": [
-          215
+          214
         ],
         "systems": [
-          216,
-          232,
-          281
+          215,
+          231,
+          280
         ],
         "tracts.": [
-          217,
-          282
+          216,
+          281
         ],
         "uppermost": [
-          219
+          218
         ],
         "Formation": [
-          225
+          224
         ],
         "lowstand": [
-          231
+          230
         ],
         "tract": [
-          233
+          232
         ],
         "subsequent": [
-          235
+          234
         ],
         "restriction": [
-          236
+          235
         ],
         "leading": [
-          237
+          236
         ],
         "deposition": [
-          240
+          239
         ],
         "gypsum.": [
-          242
+          241
         ],
         "In": [
-          243
+          242
         ],
         "interval,": [
-          246
+          245
         ],
         "total": [
-          247
+          246
         ],
         "organic": [
-          248,
-          270
+          247,
+          269
         ],
         "carbon": [
-          249
+          248
         ],
         "(TOC)": [
-          250
+          249
         ],
         "content": [
-          251
+          250
         ],
         "correlates": [
-          252
+          251
         ],
         "suboxic": [
-          255
+          254
         ],
         "anoxic": [
-          257
+          256
         ],
         "intervals": [
-          258,
-          276
-        ],
-        "high": [
-          261,
-          274
-        ],
-        "paleoproductivity.": [
-          262
-        ],
-        "Complete": [
-          263
-        ],
-        "anoxia": [
-          264
-        ],
-        "not": [
-          266
-        ],
-        "prerequisite": [
-          268
-        ],
-        "matter": [
-          271
-        ],
-        "preservation.": [
-          272
-        ],
-        "These": [
-          273
-        ],
-        "TOC": [
+          257,
           275
         ],
+        "high": [
+          260,
+          273
+        ],
+        "paleoproductivity.": [
+          261
+        ],
+        "Complete": [
+          262
+        ],
+        "anoxia": [
+          263
+        ],
+        "not": [
+          265
+        ],
+        "prerequisite": [
+          267
+        ],
+        "matter": [
+          270
+        ],
+        "preservation.": [
+          271
+        ],
+        "These": [
+          272
+        ],
+        "TOC": [
+          274
+        ],
         "mainly": [
-          278
+          277
         ]
       },
       "counts_by_year": [
@@ -21341,7 +21447,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-11T08:14:18.477133",
       "created_date": "2025-10-10T00:00:00"
     },
     {
