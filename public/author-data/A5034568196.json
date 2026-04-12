@@ -11,7 +11,7 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 72,
-    "cited_by_count": 983,
+    "cited_by_count": 984,
     "summary_stats": {
       "2yr_mean_citedness": 4.777777777777778,
       "h_index": 20,
@@ -152,7 +152,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0001924,
+        "value": 0.0001922,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -169,7 +169,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.000158,
+        "value": 0.0001579,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -186,7 +186,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0001535,
+        "value": 0.0001534,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -203,7 +203,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000581,
+        "value": 0.000058,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T10572",
         "display_name": "Geophysical and Geoelectrical Methods",
-        "value": 0.0000413,
+        "value": 0.0000412,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -326,7 +326,7 @@
         "year": 2023,
         "works_count": 14,
         "oa_works_count": 8,
-        "cited_by_count": 334
+        "cited_by_count": 335
       },
       {
         "year": 2024,
@@ -349,7 +349,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-04-09T12:26:41",
+    "updated_date": "2026-04-11T12:23:28",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -8016,11 +8016,11 @@
         "currency": "CHF",
         "value_usd": 2490
       },
-      "fwci": 5.2739,
+      "fwci": 5.2896,
       "has_fulltext": false,
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.96012349,
+        "value": 0.96025641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9442,7 +9442,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -9461,7 +9461,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-04-12T07:58:50.170612",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43129,7 +43129,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -43190,7 +43190,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -43718,11 +43718,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 0.7532,
+      "fwci": 0.7516,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76452837,
+        "value": 0.76404155,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44679,7 +44679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-11T08:14:18.477133",
+      "updated_date": "2026-04-12T07:58:50.170612",
       "created_date": "2025-11-23T00:00:00"
     },
     {
