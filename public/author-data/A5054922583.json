@@ -311,7 +311,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0004055,
+        "value": 0.0004054,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -345,7 +345,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001525,
+        "value": 0.0001524,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -580,9 +580,9 @@
       "Abdulrahman Al-Shuhail",
       "Al-Shuhail, Abdullatif"
     ],
-    "block_key": "a al‐shuhail",
+    "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-04-11T12:23:28",
+    "updated_date": "2026-04-13T12:23:49",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -32139,904 +32139,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4281625600",
-      "doi": "https://doi.org/10.1061/9780784484258.007",
-      "title": "Coupled Geomechanical and Fault Activation Modeling during CO <sub>2</sub> Injection into the Dhruma Reservoir: A Study Focused on Mitigating CO <sub>2</sub> Emissions",
-      "display_name": "Coupled Geomechanical and Fault Activation Modeling during CO <sub>2</sub> Injection into the Dhruma Reservoir: A Study Focused on Mitigating CO <sub>2</sub> Emissions",
-      "publication_year": 2022,
-      "publication_date": "2022-06-02",
-      "ids": {
-        "openalex": "https://openalex.org/W4281625600",
-        "doi": "https://doi.org/10.1061/9780784484258.007"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1061/9780784484258.007",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1061/9780784484258.007",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363606693",
-          "display_name": "World Environmental and Water Resources Congress 2022",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "World Environmental and Water Resources Congress 2022",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5065687785",
-            "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Sikandar Khan",
-          "raw_affiliation_strings": [
-            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
-            "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Al‐Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
-            "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5065687785"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.04916261,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "74",
-        "last_page": "86"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.5093585252761841
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.45199042558670044
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3825416564941406
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.5093585252761841
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.45199042558670044
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3825416564941406
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1061/9780784484258.007",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1061/9780784484258.007",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363606693",
-            "display_name": "World Environmental and Water Resources Congress 2022",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "World Environmental and Water Resources Congress 2022",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 50,
-      "referenced_works": [
-        "https://openalex.org/W54956797",
-        "https://openalex.org/W75231382",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1907781017",
-        "https://openalex.org/W1965560778",
-        "https://openalex.org/W1966941707",
-        "https://openalex.org/W1971257077",
-        "https://openalex.org/W1991279786",
-        "https://openalex.org/W1996074021",
-        "https://openalex.org/W1998754639",
-        "https://openalex.org/W2014738020",
-        "https://openalex.org/W2016852233",
-        "https://openalex.org/W2024748718",
-        "https://openalex.org/W2028651545",
-        "https://openalex.org/W2041454602",
-        "https://openalex.org/W2041577694",
-        "https://openalex.org/W2042410044",
-        "https://openalex.org/W2042696905",
-        "https://openalex.org/W2063244626",
-        "https://openalex.org/W2068468784",
-        "https://openalex.org/W2069060282",
-        "https://openalex.org/W2073108784",
-        "https://openalex.org/W2080746477",
-        "https://openalex.org/W2082246974",
-        "https://openalex.org/W2087897702",
-        "https://openalex.org/W2089340703",
-        "https://openalex.org/W2091826113",
-        "https://openalex.org/W2093822345",
-        "https://openalex.org/W2144603483",
-        "https://openalex.org/W2146334946",
-        "https://openalex.org/W2159352443",
-        "https://openalex.org/W2530113942",
-        "https://openalex.org/W2567288527",
-        "https://openalex.org/W2605105641",
-        "https://openalex.org/W2606830343",
-        "https://openalex.org/W2784350055",
-        "https://openalex.org/W2915336810",
-        "https://openalex.org/W2921146897",
-        "https://openalex.org/W2924632911",
-        "https://openalex.org/W2988910414",
-        "https://openalex.org/W3105348157",
-        "https://openalex.org/W3106877997",
-        "https://openalex.org/W3118667325",
-        "https://openalex.org/W3127304390",
-        "https://openalex.org/W3201659986",
-        "https://openalex.org/W4213327538",
-        "https://openalex.org/W4246782376",
-        "https://openalex.org/W4247431486",
-        "https://openalex.org/W6924743381",
-        "https://openalex.org/W7065038328"
-      ],
-      "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779",
-        "https://openalex.org/W2029513011"
-      ],
-      "abstract_inverted_index": {
-        "Enormous": [
-          0
-        ],
-        "amounts": [
-          1
-        ],
-        "of": [
-          2,
-          31,
-          46,
-          65,
-          80,
-          184,
-          214
-        ],
-        "carbon": [
-          3,
-          23,
-          81,
-          101,
-          125,
-          195,
-          227
-        ],
-        "dioxide": [
-          4,
-          24,
-          82,
-          102,
-          126,
-          196,
-          228
-        ],
-        "have": [
-          5
-        ],
-        "been": [
-          6
-        ],
-        "emitted": [
-          7
-        ],
-        "into": [
-          8,
-          172,
-          198
-        ],
-        "the": [
-          9,
-          17,
-          27,
-          32,
-          36,
-          44,
-          50,
-          54,
-          57,
-          62,
-          66,
-          77,
-          84,
-          90,
-          97,
-          119,
-          130,
-          134,
-          147,
-          163,
-          175,
-          185,
-          199,
-          209,
-          215,
-          232
-        ],
-        "environment": [
-          10
-        ],
-        "in": [
-          11,
-          22,
-          26,
-          43,
-          49,
-          56,
-          118,
-          150,
-          155,
-          231
-        ],
-        "recent": [
-          12
-        ],
-        "decades,": [
-          13
-        ],
-        "primarily": [
-          14
-        ],
-        "due": [
-          15
-        ],
-        "to": [
-          16,
-          75,
-          89,
-          129,
-          207,
-          224
-        ],
-        "fuel": [
-          18
-        ],
-        "combustion.": [
-          19
-        ],
-        "The": [
-          20,
-          123,
-          158,
-          182,
-          201,
-          212
-        ],
-        "rise": [
-          21
-        ],
-        "concentration": [
-          25
-        ],
-        "atmosphere": [
-          28,
-          85
-        ],
-        "is": [
-          29,
-          74,
-          103,
-          153,
-          169
-        ],
-        "one": [
-          30
-        ],
-        "basic": [
-          33
-        ],
-        "reasons": [
-          34
-        ],
-        "for": [
-          35,
-          69,
-          146
-        ],
-        "global": [
-          37,
-          40,
-          72
-        ],
-        "changes": [
-          38,
-          73
-        ],
-        "like": [
-          39
-        ],
-        "warming,": [
-          41
-        ],
-        "change": [
-          42,
-          48
-        ],
-        "quantity": [
-          45,
-          79
-        ],
-        "rainfall,": [
-          47
-        ],
-        "sea": [
-          51
-        ],
-        "levels,": [
-          52
-        ],
-        "and": [
-          53,
-          86,
-          113,
-          121,
-          142,
-          165,
-          178,
-          189,
-          219
-        ],
-        "increase": [
-          55
-        ],
-        "bush": [
-          58
-        ],
-        "forest": [
-          59
-        ],
-        "fires": [
-          60
-        ],
-        "around": [
-          61
-        ],
-        "world.": [
-          63
-        ],
-        "One": [
-          64
-        ],
-        "possible": [
-          67
-        ],
-        "solutions": [
-          68
-        ],
-        "reducing": [
-          70
-        ],
-        "these": [
-          71
-        ],
-        "capture": [
-          76
-        ],
-        "excessive": [
-          78
-        ],
-        "from": [
-          83
-        ],
-        "inject": [
-          87
-        ],
-        "it": [
-          88
-        ],
-        "natural": [
-          91
-        ],
-        "deep": [
-          92
-        ],
-        "underground": [
-          93
-        ],
-        "sedimentary": [
-          94
-        ],
-        "reservoirs.": [
-          95
-        ],
-        "During": [
-          96
-        ],
-        "geological": [
-          98
-        ],
-        "storage": [
-          99
-        ],
-        "process,": [
-          100
-        ],
-        "pumped": [
-          104
-        ],
-        "at": [
-          105
-        ],
-        "greater": [
-          106
-        ],
-        "inlet": [
-          107
-        ],
-        "pressure,": [
-          108
-        ],
-        "causing": [
-          109
-        ],
-        "excess": [
-          110
-        ],
-        "pressure": [
-          111,
-          188,
-          218
-        ],
-        "building": [
-          112
-        ],
-        "potentially": [
-          114
-        ],
-        "reactivating": [
-          115
-        ],
-        "pre-existing": [
-          116,
-          135
-        ],
-        "faults": [
-          117,
-          136
-        ],
-        "reservoirs": [
-          120
-        ],
-        "caprock.": [
-          122
-        ],
-        "deposited": [
-          124
-        ],
-        "will": [
-          127
-        ],
-        "flow": [
-          128
-        ],
-        "top": [
-          131
-        ],
-        "layers": [
-          132
-        ],
-        "once": [
-          133
-        ],
-        "are": [
-          137
-        ],
-        "re-activated.": [
-          138
-        ],
-        "A": [
-          139
-        ],
-        "combined": [
-          140,
-          176
-        ],
-        "geomechanical": [
-          141,
-          177
-        ],
-        "fault": [
-          143,
-          159,
-          179
-        ],
-        "activation": [
-          144,
-          180
-        ],
-        "modeling": [
-          145
-        ],
-        "Dhruma": [
-          148,
-          164
-        ],
-        "reservoir": [
-          149,
-          186,
-          216
-        ],
-        "Saudi": [
-          151
-        ],
-        "Arabia": [
-          152
-        ],
-        "presented": [
-          154
-        ],
-        "this": [
-          156
-        ],
-        "paper.": [
-          157
-        ],
-        "that": [
-          160
-        ],
-        "runs": [
-          161
-        ],
-        "through": [
-          162
-        ],
-        "Hanifa": [
-          166
-        ],
-        "Tuwaiq": [
-          167
-        ],
-        "strata": [
-          168
-        ],
-        "also": [
-          170
-        ],
-        "taken": [
-          171
-        ],
-        "account": [
-          173
-        ],
-        "during": [
-          174,
-          194
-        ],
-        "modeling.": [
-          181
-        ],
-        "magnitudes": [
-          183,
-          213
-        ],
-        "pore": [
-          187,
-          217
-        ],
-        "ground": [
-          190,
-          220
-        ],
-        "uplift": [
-          191,
-          221
-        ],
-        "were": [
-          192,
-          222
-        ],
-        "computed": [
-          193
-        ],
-        "injection": [
-          197,
-          229
-        ],
-        "reservoir.": [
-          200
-        ],
-        "Mohr-Coulomb": [
-          202
-        ],
-        "failure": [
-          203
-        ],
-        "criterion": [
-          204
-        ],
-        "was": [
-          205
-        ],
-        "used": [
-          206,
-          223
-        ],
-        "assess": [
-          208
-        ],
-        "reservoir’s": [
-          210
-        ],
-        "stability.": [
-          211
-        ],
-        "determine": [
-          225
-        ],
-        "acceptable": [
-          226
-        ],
-        "variables": [
-          230
-        ],
-        "present": [
-          233
-        ],
-        "analysis.": [
-          234
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-01-13T01:12:25.745995",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2811175459",
       "doi": "https://doi.org/10.1007/s12665-018-7610-4",
       "title": "Alleviation of pore pressure buildup and ground uplift during carbon dioxide injection into Ghawar Arab-D carbonate naturally fractured reservoir",
@@ -43147,6 +42249,911 @@
         }
       ],
       "updated_date": "2026-03-20T23:20:44.827607",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4281625600",
+      "doi": "https://doi.org/10.1061/9780784484258.007",
+      "title": "Coupled Geomechanical and Fault Activation Modeling during CO <sub>2</sub> Injection into the Dhruma Reservoir: A Study Focused on Mitigating CO <sub>2</sub> Emissions",
+      "display_name": "Coupled Geomechanical and Fault Activation Modeling during CO <sub>2</sub> Injection into the Dhruma Reservoir: A Study Focused on Mitigating CO <sub>2</sub> Emissions",
+      "publication_year": 2022,
+      "publication_date": "2022-06-02",
+      "ids": {
+        "openalex": "https://openalex.org/W4281625600",
+        "doi": "https://doi.org/10.1061/9780784484258.007"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1061/9780784484258.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1061/9780784484258.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363606693",
+          "display_name": "World Environmental and Water Resources Congress 2022",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "World Environmental and Water Resources Congress 2022",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065687785",
+            "display_name": "Sikandar Khan",
+            "orcid": "https://orcid.org/0000-0002-5631-8312"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sikandar Khan",
+          "raw_affiliation_strings": [
+            "King Fahd Univ. of Petroleum and Minerals",
+            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
+            "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd Univ. of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Al‐Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "King Fahd Univ. of Petroleum and Minerals",
+            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd Univ. of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia:",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5065687785"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.04962244,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "74",
+        "last_page": "86"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.5093585252761841
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.45199042558670044
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3825416564941406
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.5093585252761841
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.45199042558670044
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3825416564941406
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1061/9780784484258.007",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1061/9780784484258.007",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363606693",
+            "display_name": "World Environmental and Water Resources Congress 2022",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "World Environmental and Water Resources Congress 2022",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.800000011920929,
+          "display_name": "Climate action"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 50,
+      "referenced_works": [
+        "https://openalex.org/W54956797",
+        "https://openalex.org/W75231382",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1907781017",
+        "https://openalex.org/W1965560778",
+        "https://openalex.org/W1966941707",
+        "https://openalex.org/W1971257077",
+        "https://openalex.org/W1991279786",
+        "https://openalex.org/W1996074021",
+        "https://openalex.org/W1998754639",
+        "https://openalex.org/W2014738020",
+        "https://openalex.org/W2016852233",
+        "https://openalex.org/W2024748718",
+        "https://openalex.org/W2028651545",
+        "https://openalex.org/W2041454602",
+        "https://openalex.org/W2041577694",
+        "https://openalex.org/W2042410044",
+        "https://openalex.org/W2042696905",
+        "https://openalex.org/W2063244626",
+        "https://openalex.org/W2068468784",
+        "https://openalex.org/W2069060282",
+        "https://openalex.org/W2073108784",
+        "https://openalex.org/W2080746477",
+        "https://openalex.org/W2082246974",
+        "https://openalex.org/W2087897702",
+        "https://openalex.org/W2089340703",
+        "https://openalex.org/W2091826113",
+        "https://openalex.org/W2093822345",
+        "https://openalex.org/W2144603483",
+        "https://openalex.org/W2146334946",
+        "https://openalex.org/W2159352443",
+        "https://openalex.org/W2530113942",
+        "https://openalex.org/W2567288527",
+        "https://openalex.org/W2605105641",
+        "https://openalex.org/W2606830343",
+        "https://openalex.org/W2784350055",
+        "https://openalex.org/W2915336810",
+        "https://openalex.org/W2921146897",
+        "https://openalex.org/W2924632911",
+        "https://openalex.org/W2988910414",
+        "https://openalex.org/W3105348157",
+        "https://openalex.org/W3106877997",
+        "https://openalex.org/W3118667325",
+        "https://openalex.org/W3127304390",
+        "https://openalex.org/W3201659986",
+        "https://openalex.org/W4213327538",
+        "https://openalex.org/W4246782376",
+        "https://openalex.org/W4247431486",
+        "https://openalex.org/W6924743381",
+        "https://openalex.org/W7065038328"
+      ],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779",
+        "https://openalex.org/W2029513011"
+      ],
+      "abstract_inverted_index": {
+        "Enormous": [
+          0
+        ],
+        "amounts": [
+          1
+        ],
+        "of": [
+          2,
+          31,
+          46,
+          65,
+          80,
+          184,
+          214
+        ],
+        "carbon": [
+          3,
+          23,
+          81,
+          101,
+          125,
+          195,
+          227
+        ],
+        "dioxide": [
+          4,
+          24,
+          82,
+          102,
+          126,
+          196,
+          228
+        ],
+        "have": [
+          5
+        ],
+        "been": [
+          6
+        ],
+        "emitted": [
+          7
+        ],
+        "into": [
+          8,
+          172,
+          198
+        ],
+        "the": [
+          9,
+          17,
+          27,
+          32,
+          36,
+          44,
+          50,
+          54,
+          57,
+          62,
+          66,
+          77,
+          84,
+          90,
+          97,
+          119,
+          130,
+          134,
+          147,
+          163,
+          175,
+          185,
+          199,
+          209,
+          215,
+          232
+        ],
+        "environment": [
+          10
+        ],
+        "in": [
+          11,
+          22,
+          26,
+          43,
+          49,
+          56,
+          118,
+          150,
+          155,
+          231
+        ],
+        "recent": [
+          12
+        ],
+        "decades,": [
+          13
+        ],
+        "primarily": [
+          14
+        ],
+        "due": [
+          15
+        ],
+        "to": [
+          16,
+          75,
+          89,
+          129,
+          207,
+          224
+        ],
+        "fuel": [
+          18
+        ],
+        "combustion.": [
+          19
+        ],
+        "The": [
+          20,
+          123,
+          158,
+          182,
+          201,
+          212
+        ],
+        "rise": [
+          21
+        ],
+        "concentration": [
+          25
+        ],
+        "atmosphere": [
+          28,
+          85
+        ],
+        "is": [
+          29,
+          74,
+          103,
+          153,
+          169
+        ],
+        "one": [
+          30
+        ],
+        "basic": [
+          33
+        ],
+        "reasons": [
+          34
+        ],
+        "for": [
+          35,
+          69,
+          146
+        ],
+        "global": [
+          37,
+          40,
+          72
+        ],
+        "changes": [
+          38,
+          73
+        ],
+        "like": [
+          39
+        ],
+        "warming,": [
+          41
+        ],
+        "change": [
+          42,
+          48
+        ],
+        "quantity": [
+          45,
+          79
+        ],
+        "rainfall,": [
+          47
+        ],
+        "sea": [
+          51
+        ],
+        "levels,": [
+          52
+        ],
+        "and": [
+          53,
+          86,
+          113,
+          121,
+          142,
+          165,
+          178,
+          189,
+          219
+        ],
+        "increase": [
+          55
+        ],
+        "bush": [
+          58
+        ],
+        "forest": [
+          59
+        ],
+        "fires": [
+          60
+        ],
+        "around": [
+          61
+        ],
+        "world.": [
+          63
+        ],
+        "One": [
+          64
+        ],
+        "possible": [
+          67
+        ],
+        "solutions": [
+          68
+        ],
+        "reducing": [
+          70
+        ],
+        "these": [
+          71
+        ],
+        "capture": [
+          76
+        ],
+        "excessive": [
+          78
+        ],
+        "from": [
+          83
+        ],
+        "inject": [
+          87
+        ],
+        "it": [
+          88
+        ],
+        "natural": [
+          91
+        ],
+        "deep": [
+          92
+        ],
+        "underground": [
+          93
+        ],
+        "sedimentary": [
+          94
+        ],
+        "reservoirs.": [
+          95
+        ],
+        "During": [
+          96
+        ],
+        "geological": [
+          98
+        ],
+        "storage": [
+          99
+        ],
+        "process,": [
+          100
+        ],
+        "pumped": [
+          104
+        ],
+        "at": [
+          105
+        ],
+        "greater": [
+          106
+        ],
+        "inlet": [
+          107
+        ],
+        "pressure,": [
+          108
+        ],
+        "causing": [
+          109
+        ],
+        "excess": [
+          110
+        ],
+        "pressure": [
+          111,
+          188,
+          218
+        ],
+        "building": [
+          112
+        ],
+        "potentially": [
+          114
+        ],
+        "reactivating": [
+          115
+        ],
+        "pre-existing": [
+          116,
+          135
+        ],
+        "faults": [
+          117,
+          136
+        ],
+        "reservoirs": [
+          120
+        ],
+        "caprock.": [
+          122
+        ],
+        "deposited": [
+          124
+        ],
+        "will": [
+          127
+        ],
+        "flow": [
+          128
+        ],
+        "top": [
+          131
+        ],
+        "layers": [
+          132
+        ],
+        "once": [
+          133
+        ],
+        "are": [
+          137
+        ],
+        "re-activated.": [
+          138
+        ],
+        "A": [
+          139
+        ],
+        "combined": [
+          140,
+          176
+        ],
+        "geomechanical": [
+          141,
+          177
+        ],
+        "fault": [
+          143,
+          159,
+          179
+        ],
+        "activation": [
+          144,
+          180
+        ],
+        "modeling": [
+          145
+        ],
+        "Dhruma": [
+          148,
+          164
+        ],
+        "reservoir": [
+          149,
+          186,
+          216
+        ],
+        "Saudi": [
+          151
+        ],
+        "Arabia": [
+          152
+        ],
+        "presented": [
+          154
+        ],
+        "this": [
+          156
+        ],
+        "paper.": [
+          157
+        ],
+        "that": [
+          160
+        ],
+        "runs": [
+          161
+        ],
+        "through": [
+          162
+        ],
+        "Hanifa": [
+          166
+        ],
+        "Tuwaiq": [
+          167
+        ],
+        "strata": [
+          168
+        ],
+        "also": [
+          170
+        ],
+        "taken": [
+          171
+        ],
+        "account": [
+          173
+        ],
+        "during": [
+          174,
+          194
+        ],
+        "modeling.": [
+          181
+        ],
+        "magnitudes": [
+          183,
+          213
+        ],
+        "pore": [
+          187,
+          217
+        ],
+        "ground": [
+          190,
+          220
+        ],
+        "uplift": [
+          191,
+          221
+        ],
+        "were": [
+          192,
+          222
+        ],
+        "computed": [
+          193
+        ],
+        "injection": [
+          197,
+          229
+        ],
+        "reservoir.": [
+          200
+        ],
+        "Mohr-Coulomb": [
+          202
+        ],
+        "failure": [
+          203
+        ],
+        "criterion": [
+          204
+        ],
+        "was": [
+          205
+        ],
+        "used": [
+          206,
+          223
+        ],
+        "assess": [
+          208
+        ],
+        "reservoir’s": [
+          210
+        ],
+        "stability.": [
+          211
+        ],
+        "determine": [
+          225
+        ],
+        "acceptable": [
+          226
+        ],
+        "variables": [
+          230
+        ],
+        "present": [
+          233
+        ],
+        "analysis.": [
+          234
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-04-14T08:04:32.555800",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63062,16 +63069,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3809,
+      "fwci": 0.3891,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.57274879,
+        "value": 0.58192592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -63747,7 +63754,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-14T08:04:32.555800",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -91763,11 +91770,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2608,
+      "fwci": 0.2684,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59171852,
+        "value": 0.60281152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92374,7 +92381,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-14T08:04:32.555800",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -121376,13 +121383,14 @@
           "is_corresponding": true,
           "raw_author_name": "Sikandar Khan",
           "raw_affiliation_strings": [
-            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+            "King Fahd Univ. of Petroleum and Minerals",
             "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-            "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
+            "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+              "raw_affiliation_string": "King Fahd Univ. of Petroleum and Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -121395,6 +121403,12 @@
             },
             {
               "raw_affiliation_string": "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -121426,13 +121440,13 @@
           "is_corresponding": false,
           "raw_author_name": "Y. A. Khulief",
           "raw_affiliation_strings": [
-            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+            "King Fahd Univ. of Petroleum and Minerals",
             "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
             "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
+              "raw_affiliation_string": "King Fahd Univ. of Petroleum and Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -121476,25 +121490,18 @@
           "is_corresponding": false,
           "raw_author_name": "A. A. Al-Shuhail",
           "raw_affiliation_strings": [
-            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-            "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-            "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
+            "King Fahd Univ. of Petroleum and Minerals",
+            "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia"
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "King Fahd Univ. of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
               "raw_affiliation_string": "Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Professor, Dept. of Geosciences, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Professor, Dept. of Mechanical Engineering, King Fahd Univ. of Petroleum and Minerals, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -121517,7 +121524,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08742331,
+        "value": 0.08708938,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122457,7 +122464,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-14T08:04:32.555800",
       "created_date": "2025-10-10T00:00:00"
     },
     {
