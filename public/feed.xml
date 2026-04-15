@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Tue, 14 Apr 2026 21:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 21:52:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Cooperative Joint Mission Between Seismic Recording and Surveying UAVs for Autonomous Near-Surface Characterization</title>
+      <link>https://doi.org/10.3390/drones10040281</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7154267272</guid>
+      <dc:creator>Jory Alqahtani, Ahmad Ramdani, Pavel Golikov, Artem Timoshenko, Grigoriy Yashin, Ilya Mashkov, Van Do, Ezzedeen Alfataierge</dc:creator>
+      <dc:publisher>Drones</dc:publisher>
+      <category>Geophone</category>
+      <category>Data acquisition</category>
+      <category>Software deployment</category>
+      <category>Terrain</category>
+      <category>Geology</category>
+      <description>Abstract: Generally, land seismic data acquisition in arid areas is a labor-intensive, costly, and challenging process, often hindered by challenging terrain and safety risks. To overcome these limitations, we propose the integration of autonomous Unmanned Aerial Vehicles (UAVs) into land seismic data acquisition, enabling efficient data collection in difficult, inaccessible terrain. This is a cooperative mission workflow combining a Scouting UAV for high-resolution aerial scouting, followed by the swarm deployment of an Autonomous Seismic Acquisition Device (ASAD) for seismic data recording. The cooperative system allows for precise landing and subsequent deployment of seismic sensors in optimal locations. Previously, we demonstrated the applicability of passive seismic recorded with ASAD drones to near-surface characterization. This study covers the results of a field trial, where both the ASAD and Scouting UAV systems successfully acquired high-resolution seismic data with an active source, comparable to that of a conventional seismic data acquisition system. The results show that the ASAD seismic data exhibit a slightly higher noise level due to coupling variances and the fact that geophones were hardwired into 9-sensor arrays. However, due to its single-point sensing nature, it yields a superior frequency bandwidth, making it suitable for imaging shallow anomalies. The system underwent P-wave refraction tomography modeling and accurately detected a shallow subsurface cavity, showc…&#10;Topics: Geophone, Data acquisition, Software deployment, Terrain, Geology&#10;Venue: Drones&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Seismic Event Classification With a Lightweight Fourier Neural Operator Model</title>
       <link>https://doi.org/10.1111/1365-2478.70176</link>
@@ -19,6 +33,20 @@
       <category>Data mining</category>
       <category>Waveform</category>
       <description>Abstract: ABSTRACT Real‐time monitoring of induced seismicity is critical to mitigate operational risks, relying on the rapid and accurate classification of triggered data from continuous data streams. Deep learning models are effective for this purpose but require substantial computational resources, making real‐time processing difficult. To address this limitation, a lightweight model based on the Fourier neural operator (FNO) is proposed for the classification of microseismic events, leveraging its inherent resolution‐invariance and computational efficiency for waveform processing. In the STanford EArthquake Dataset (STEAD), a global and large‐scale database of seismic waveforms, the FNO‐based model demonstrates high effectiveness for trigger classification, with an F1 score of 95% even in the scenario of data sparsity in training. The new FNO model greatly decreases the computer power needed relative to current deep learning models without sacrificing the classification success rate measured by the F1 score. A test on a real microseismic dataset shows a classification success rate with an F1 score of 98%, outperforming many traditional deep‐learning techniques. The reduced computational cost makes the proposed FNO model well‐suited for deployment in resource‐constrained, near‐real‐time seismic monitoring workflows, including traffic‐light implementations. The source code for the proposed FNO classifier is available at https://github.com/ayratabd/FNOclass .&#10;Topics: Computer science, Microseism, Artificial neural network, Data mining, Waveform&#10;Venue: Geophysical Prospecting&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Micro-architectural trapping in bioturbated strata: A review and conceptual framework for early CO2 trapping mechanisms</title>
+      <link>https://doi.org/10.1016/j.earscirev.2026.105492</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7152046279</guid>
+      <dc:creator>Hassan A. Eltom</dc:creator>
+      <dc:publisher>Earth-Science Reviews</dc:publisher>
+      <category>Trapping</category>
+      <category>Conceptual framework</category>
+      <category>Computer science</category>
+      <category>Physics</category>
+      <category>Nanotechnology</category>
+      <description>Topics: Trapping, Conceptual framework, Computer science, Physics, Nanotechnology&#10;Venue: Earth-Science Reviews&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Neoproterozoic Arc Construction, NW Midyan terrane, Arabian Shield: 50 m.y. of alkaline and calc-alkaline post-collisional magmatism</title>
@@ -47,20 +75,6 @@
       <category>Geotechnical engineering</category>
       <category>Mineralogy</category>
       <description>Abstract: Understanding the degradation behavior of carbonate rocks under cyclic climatic conditions is essential for predicting their long-term durability, particularly in coastal and arid environments. This study examines the evolution of the mechanical, chemical, and microstructural properties of stylolite and burrow limestone samples from Riyadh, Saudi Arabia. The rock samples were subjected to 15 wetting-drying (WD) cycles. A combination of destructive and non-destructive tests, including computed tomography (CT) scanning, ultrasonic wave velocity analysis, unconfined compression strength (UCS), porosity measurements, and chemical composition mapping, was conducted. The results reveal differential degradation patterns linked to initial heterogeneity. Stylolite samples exhibited a nonmonotonic trend in UCS, with a peak strength loss of approximately 50% of the original strength at the 5 th cycle, followed by partial recovery. Burrow samples demonstrated a 27% gradual reduction in UCS. CT revealed concentrated pore structure degradation in stylolites at the mid-height of the sample, with severe effects observed at the 5 th and 15 th cycles. In contrast, the burrow samples experienced uniform degradation with the progression of WD. Despite the constant water absorption with WD cycles, the porosities of all the samples progressively increased. X-ray fluorescence mapping confirmed a progressive loss of calcium, accompanied by the simultaneous evolution of silicates and chlorides, parti…&#10;Topics: Burrow, Geology, Stylolite, Geotechnical engineering, Mineralogy&#10;Venue: Rock Mechanics Bulletin&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Micro-architectural trapping in bioturbated strata: A review and conceptual framework for early CO2 trapping mechanisms</title>
-      <link>https://doi.org/10.1016/j.earscirev.2026.105492</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7152046279</guid>
-      <dc:creator>Hassan A. Eltom</dc:creator>
-      <dc:publisher>Earth-Science Reviews</dc:publisher>
-      <category>Trapping</category>
-      <category>Conceptual framework</category>
-      <category>Computer science</category>
-      <category>Physics</category>
-      <category>Nanotechnology</category>
-      <description>Topics: Trapping, Conceptual framework, Computer science, Physics, Nanotechnology&#10;Venue: Earth-Science Reviews&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Impact of hydrothermal conversion of organic-rich carbonate rock of the Natih Formation in North Oman on organic matter characteristics and mechanism of chemical reactions</title>
@@ -645,7 +659,7 @@
       <category>Carbonate</category>
       <category>Reservoir modeling</category>
       <category>Acoustic impedance</category>
-      <description>Abstract: • Predicted acoustic impedance (AI) was generated using multilayer perceptron regression (MLPR), random forest regression (RFR), and extra tree regression (ETR) models compared to AI log and band-limited impedance inversion (BLIMP). • Optimized porosity ( Φ ) and permeability ( K ) derived from the AI data were obtained using empirical exponential rock physics relationships and petrophysical power-law transforms. • Net pay determination based on the condition that the optimized Φ and K values exceed their thresholds. • Net pay masking was applied to identify the productive zone within the hydrocarbon pore volume before computing the original oil in place and performing reserve estimation. • The ETR provided the closest match to the ground truth of the AI log data and all downstream results until the reserve estimation. Reserve estimation in carbonate reservoirs remains challenging because of the nonlinear, power-law relationships among the acoustic impedance (AI), rock physics, and petrophysical properties that govern net pay identification. This study develops a machine learning (ML)-based seismic inversion workflow that integrates multilayer perceptron (MLPR), random forest (RFR), and extra tree regression (ETR) algorithms to predict AI from seismic attributes, depth, and two-way travel time. A limited-memory Broyden-Fletcher-Goldfarb-Shanno with Boundaries (LBFGS-B) optimization minimizes the square errors between reservoir extremes and the threshold values to obtain empir…&#10;Topics: Geology, Inversion (geology), Carbonate, Reservoir modeling, Acoustic impedance&#10;Venue: Results in Engineering&#10;Year: 2025&#10;Citations: 1</description>
+      <description>Abstract: • Predicted acoustic impedance (AI) was generated using multilayer perceptron regression (MLPR), random forest regression (RFR), and extra tree regression (ETR) models compared to AI log and band-limited impedance inversion (BLIMP). • Optimized porosity ( Φ ) and permeability ( K ) derived from the AI data were obtained using empirical exponential rock physics relationships and petrophysical power-law transforms. • Net pay determination based on the condition that the optimized Φ and K values exceed their thresholds. • Net pay masking was applied to identify the productive zone within the hydrocarbon pore volume before computing the original oil in place and performing reserve estimation. • The ETR provided the closest match to the ground truth of the AI log data and all downstream results until the reserve estimation. Reserve estimation in carbonate reservoirs remains challenging because of the nonlinear, power-law relationships among the acoustic impedance (AI), rock physics, and petrophysical properties that govern net pay identification. This study develops a machine learning (ML)-based seismic inversion workflow that integrates multilayer perceptron (MLPR), random forest (RFR), and extra tree regression (ETR) algorithms to predict AI from seismic attributes, depth, and two-way travel time. A limited-memory Broyden-Fletcher-Goldfarb-Shanno with Boundaries (LBFGS-B) optimization minimizes the square errors between reservoir extremes and the threshold values to obtain empir…&#10;Topics: Geology, Inversion (geology), Carbonate, Reservoir modeling, Acoustic impedance&#10;Venue: Results in Engineering&#10;Year: 2025&#10;Citations: 2</description>
     </item>
     <item>
       <title>Where were the mountains and how big were they?</title>
@@ -1365,19 +1379,6 @@
       <category>Seawater</category>
       <category>Groundwater</category>
       <description>Abstract: Abstract The study aims to understand the geochemical evolution of coastal groundwater in the eastern coastal region of Saudi Arabia using integrated lab-scale experimental and inverse geochemical modeling. The primary focus is on the geochemical processes occurring during seawater-groundwater mixing with emphasis on mineral dissolution/precipitation, cation exchange, adsorption, and trace element mobilization. 3D lab-scale physical experiments were carried out to simulate seawater intrusion in coastal aquifers using local aquifer materials, groundwater, and seawater. The lab experiments were conducted under various hydrogeological conditions and variable control factors to simulate groundwater dynamics in sandy coastal aquifers impacted by seawater intrusion. Post-experiment advanced geochemical analysis was performed to describe the chemical change of groundwater characteristics during seawater intrusion. Inverse geochemical modeling was performed to identify the geochemical processes that controlled the water chemistry during the seawater intrusion experiment. The lab experiment data were used to validate geochemical models. The integrated lab-scale experiment and inverse geochemical modeling reveal that the seawater intrusion in coastal aquifers has significantly impacted the groundwater quality through increasing salinity and trace element mobilization. The study showed that significant changes in groundwater quality occurred during low pumping and no recharge scenarios …&#10;Topics: Aquifer, Hydrogeology, Groundwater recharge, Seawater, Groundwater&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Assessment of Thermal Maturity Using Palynomorph Darkness Index (PDI) in the Early Paleozoic of Saudi Arabia</title>
-      <link>https://doi.org/10.2118/227471-ms</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414232083</guid>
-      <dc:creator>Marco Vecoli, Geoff Clayton</dc:creator>
-      <category>Acritarch</category>
-      <category>Paleozoic</category>
-      <category>Maturity (psychological)</category>
-      <category>Vitrinite reflectance</category>
-      <category>Reflectivity</category>
-      <description>Abstract: Abstract Palynomorph Darkness Index (PDI) is a fully quantitative optical method for assessing thermal maturity which has been established as a rapid and low-cost ‘add-on’ to palynostratigraphic investigations, especially in pre-Devonian sediments. Here, we applied the PDI method to Silurian strata in Saudi Arabia to enhance calibration of Acritarch PDI to vitrinite reflectance (VRo) via Vitrinite Reflectance Equivalents (VREs) such as pyrolysis-based Tmax determination, and graptolite and chitinozoan reflectance. Unoxidised palynological concentrates were obtained from core samples from various sections in Saudi Arabia from the early Silurian (Qalibah Formation) and a maturity range from immature through the oil, condensate and gas windows to the postmature stage. PDI measurements were taken on suitable acritarch taxa using a transmitted light optical microscope and a digital camera. The PDI values obtained were correlated with VREs derived from Tmax, graptolite reflectance and chitinozoan reflectance. Published PDI – VRo correlations established in Devonian-Carboniferous sections in the eastern USA were also considered. The present results confirm that acritarch PDI can be successfully applied for thermal maturity estimation, especially in pre-Devonian age, organic-rich sediments, where most of the available alternative methods show weak correlation toVRo. The most suitable acritarchs for PDI determination are the Veryhachium / Neoveryhachium Group. Preliminary results sugg…&#10;Topics: Acritarch, Paleozoic, Maturity (psychological), Vitrinite reflectance, Reflectivity&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

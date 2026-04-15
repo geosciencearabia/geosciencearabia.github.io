@@ -13,7 +13,7 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 114,
-    "cited_by_count": 2787,
+    "cited_by_count": 2788,
     "summary_stats": {
       "2yr_mean_citedness": 1.2727272727272727,
       "h_index": 31,
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003007,
+        "value": 0.0003006,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -538,7 +538,7 @@
         "year": 2022,
         "works_count": 9,
         "oa_works_count": 6,
-        "cited_by_count": 104
+        "cited_by_count": 105
       },
       {
         "year": 2023,
@@ -569,7 +569,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-04-13T20:02:09",
+    "updated_date": "2026-04-14T12:21:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -33136,8 +33136,8 @@
           "raw_author_name": "Christophe Antoine",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "affiliations": [
             {
@@ -33149,14 +33149,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -33281,8 +33281,8 @@
           "raw_author_name": "Guillaume Caumon",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Ecole Nationale Supérieure de Géologie",
-            "GeoRessources"
+            "GeoRessources",
+            "Ecole Nationale Supérieure de Géologie"
           ],
           "affiliations": [
             {
@@ -33294,14 +33294,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
             }
           ]
         }
@@ -33773,7 +33773,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-14T08:04:32.555800",
+      "updated_date": "2026-04-15T08:11:43.952461",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42721,6 +42721,13 @@
           "funder_display_name": "National Natural Science Foundation of China"
         },
         {
+          "id": "https://openalex.org/G4020255992",
+          "display_name": null,
+          "funder_award_id": "Project",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
           "id": "https://openalex.org/G4089449993",
           "display_name": null,
           "funder_award_id": "17013",
@@ -43503,7 +43510,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-13T07:58:08.660418",
+      "updated_date": "2026-04-15T08:11:43.952461",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58003,11 +58010,11 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 2.2375,
+      "fwci": 2.237,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88554217,
+        "value": 0.88555136,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58395,6 +58402,13 @@
           "id": "https://openalex.org/G391238517",
           "display_name": null,
           "funder_award_id": ", and",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G4020255992",
+          "display_name": null,
+          "funder_award_id": "Project",
           "funder_id": "https://openalex.org/F4320321001",
           "funder_display_name": "National Natural Science Foundation of China"
         },
@@ -59052,7 +59066,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-14T08:04:32.555800",
+      "updated_date": "2026-04-15T08:11:43.952461",
       "created_date": "2025-10-10T00:00:00"
     },
     {
