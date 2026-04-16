@@ -8,11 +8,11 @@
       "Ezzedeen Alfataierge"
     ],
     "full_name": "Ezzedeen Alfataierge",
-    "works_count": 30,
-    "cited_by_count": 78,
+    "works_count": 31,
+    "cited_by_count": 79,
     "summary_stats": {
-      "2yr_mean_citedness": 0.75,
-      "h_index": 5,
+      "2yr_mean_citedness": 0.7692307692307693,
+      "h_index": 6,
       "i10_index": 3
     },
     "ids": {
@@ -32,6 +32,7 @@
           ]
         },
         "years": [
+          2026,
           2025,
           2024,
           2023
@@ -79,6 +80,16 @@
     ],
     "last_known_institutions": [
       {
+        "id": "https://openalex.org/I4210143841",
+        "ror": "https://ror.org/03ypap427",
+        "display_name": "Saudi Aramco (Saudi Arabia)",
+        "country_code": "SA",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210143841"
+        ]
+      },
+      {
         "id": "https://openalex.org/I62856769",
         "ror": "https://ror.org/035n7q728",
         "display_name": "Saudi Aramco (United States)",
@@ -94,7 +105,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "count": 17,
+        "count": 18,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -181,7 +192,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.000058,
+        "value": 0.0000579,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -215,7 +226,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0000356,
+        "value": 0.0000377,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -287,7 +298,7 @@
         "id": "165205528",
         "wikidata": "https://www.wikidata.org/wiki/Q83371",
         "display_name": "Seismology",
-        "score": 0.4802168309688568
+        "score": 0.486299991607666
       },
       {
         "id": "127413603",
@@ -337,7 +348,7 @@
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 9
+        "cited_by_count": 10
       },
       {
         "year": 2025,
@@ -347,8 +358,8 @@
       },
       {
         "year": 2026,
-        "works_count": 3,
-        "oa_works_count": 0,
+        "works_count": 4,
+        "oa_works_count": 1,
         "cited_by_count": 0
       }
     ],
@@ -358,7 +369,7 @@
     ],
     "block_key": "e alfataierge",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5052123503",
-    "updated_date": null,
+    "updated_date": "2026-04-15T12:24:10",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1147,8 +1158,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
@@ -2168,8 +2179,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -3270,8 +3281,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -4266,16 +4277,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -5338,8 +5349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -6253,16 +6264,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7386,16 +7397,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -8464,8 +8475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -9319,16 +9330,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -10621,8 +10632,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11265,8 +11276,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -11999,8 +12010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -12962,16 +12973,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13887,16 +13898,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14457,8 +14468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -15334,8 +15345,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16331,16 +16342,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17288,16 +17299,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -18455,8 +18466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18836,16 +18847,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19452,8 +19463,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20110,8 +20121,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20875,8 +20886,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -21629,16 +21640,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22382,16 +22393,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23309,8 +23320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -24294,8 +24305,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -25282,8 +25293,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26248,8 +26259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -26877,16 +26888,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4758980870246887,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -27681,7 +27692,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.97504419,
+        "value": 0.96647065,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28051,8 +28062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -28655,7 +28666,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-15T08:11:43.952461",
+      "updated_date": "2026-04-15T06:04:33.058270",
       "created_date": "2026-04-15T00:00:00"
     }
   ]

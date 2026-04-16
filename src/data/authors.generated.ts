@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 404,
-    "totalCitations": 19310,
+    "totalCitations": 19311,
     "hIndex": 70
   },
   {
@@ -216,7 +216,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 64,
-    "totalCitations": 643,
+    "totalCitations": 644,
     "hIndex": 14
   },
   {
@@ -251,9 +251,9 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "fataireo@outlook.com",
     "orcid": "",
-    "totalPublications": 30,
-    "totalCitations": 78,
-    "hIndex": 5
+    "totalPublications": 31,
+    "totalCitations": 79,
+    "hIndex": 6
   },
   {
     "authorId": "idb0013-kanfar-rayan",
@@ -324,7 +324,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 160,
-    "totalCitations": 2900,
+    "totalCitations": 2901,
     "hIndex": 31
   },
   {
@@ -432,7 +432,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 173,
-    "totalCitations": 1304,
+    "totalCitations": 1306,
     "hIndex": 21
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 249,
-    "totalCitations": 3382,
+    "totalCitations": 3383,
     "hIndex": 26
   },
   {
@@ -828,7 +828,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 168,
-    "totalCitations": 3701,
+    "totalCitations": 3703,
     "hIndex": 34
   },
   {
@@ -1008,7 +1008,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 81,
-    "totalCitations": 5919,
+    "totalCitations": 5920,
     "hIndex": 33
   },
   {

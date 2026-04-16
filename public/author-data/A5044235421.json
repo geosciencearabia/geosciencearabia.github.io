@@ -4059,9 +4059,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "id": null,
+            "display_name": "Ammar El-Husseiny",
+            "orcid": null
           },
           "institutions": [
             {
@@ -4104,11 +4104,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5654,
+      "fwci": 2.5724,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.8893731,
+        "value": 0.88957627,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4565,7 +4565,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-16T08:26:57.006410",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26833,9 +26833,9 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "id": null,
+            "display_name": "Ammar El-Husseiny",
+            "orcid": null
           },
           "institutions": [
             {
@@ -26906,9 +26906,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5064720324"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
@@ -26918,11 +26916,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.4774,
+      "fwci": 1.4827,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.7932484,
+        "value": 0.79406016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27373,7 +27371,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-16T08:26:57.006410",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31433,6 +31431,1436 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3194471172",
+      "doi": "https://doi.org/10.1190/geo2021-0136.1",
+      "title": "Can fluid-substitution models continue to ignore the complex physicochemical properties of crude oil?",
+      "display_name": "Can fluid-substitution models continue to ignore the complex physicochemical properties of crude oil?",
+      "publication_year": 2021,
+      "publication_date": "2021-08-24",
+      "ids": {
+        "openalex": "https://openalex.org/W3194471172",
+        "doi": "https://doi.org/10.1190/geo2021-0136.1",
+        "mag": "3194471172"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/geo2021-0136.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/geo2021-0136.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106174089",
+          "display_name": "Geophysics",
+          "issn_l": "0016-8033",
+          "issn": [
+            "0016-8033",
+            "1942-2156"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geophysics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000034016",
+            "display_name": "Mohamed R. Khodja",
+            "orcid": "https://orcid.org/0000-0002-1413-1795"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohamed R. Khodja",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108225096",
+            "display_name": "Syed Nizamuddin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Syed Nizamuddin",
+          "raw_affiliation_strings": [
+            "Khalifa University of Science and Technology 2 , P.O. Box 127788, Abu Dhabi, United Arab Emirates. E-mail: nizamupm@gmail.com ",
+            "Khalifa University of Science and Technology, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Khalifa University of Science and Technology 2 , P.O. Box 127788, Abu Dhabi, United Arab Emirates. E-mail: nizamupm@gmail.com ",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Khalifa University of Science and Technology, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009478389",
+            "display_name": "Abdulwahab Ali",
+            "orcid": "https://orcid.org/0000-0002-7698-5219"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulwahab Ali",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013528796",
+            "display_name": "Mohamed E. Kandil",
+            "orcid": "https://orcid.org/0000-0001-8545-5909"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed E. Kandil",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Ammar El-Husseiny",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ammar El-Husseiny",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044218213",
+            "display_name": "Mazen K. Nazal",
+            "orcid": "https://orcid.org/0000-0001-5673-1900"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mazen K. Nazal",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044235421",
+            "display_name": "Lamidi Babalola",
+            "orcid": "https://orcid.org/0000-0002-0052-5603"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lamidi O. Babalola",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5038432622",
+            "display_name": "Theis I. Sølling",
+            "orcid": "https://orcid.org/0000-0003-1710-9072"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Theis Solling",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5000034016"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.4448,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.56292488,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "86",
+        "issue": "6",
+        "first_page": "MR299",
+        "last_page": "MR314"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11630",
+          "display_name": "Petroleum Processing and Analysis",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/asphaltene",
+          "display_name": "Asphaltene",
+          "score": 0.7081887125968933
+        },
+        {
+          "id": "https://openalex.org/keywords/rheology",
+          "display_name": "Rheology",
+          "score": 0.6478103995323181
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.4782344698905945
+        },
+        {
+          "id": "https://openalex.org/keywords/crude-oil",
+          "display_name": "Crude oil",
+          "score": 0.47631534934043884
+        },
+        {
+          "id": "https://openalex.org/keywords/dilatant",
+          "display_name": "Dilatant",
+          "score": 0.45817941427230835
+        },
+        {
+          "id": "https://openalex.org/keywords/wetting",
+          "display_name": "Wetting",
+          "score": 0.4269029498100281
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.41432759165763855
+        },
+        {
+          "id": "https://openalex.org/keywords/thermodynamics",
+          "display_name": "Thermodynamics",
+          "score": 0.38898810744285583
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.3443172574043274
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2962568402290344
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.2470538318157196
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.22023499011993408
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.18684372305870056
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C65324659",
+          "wikidata": "https://www.wikidata.org/wiki/Q255712",
+          "display_name": "Asphaltene",
+          "level": 2,
+          "score": 0.7081887125968933
+        },
+        {
+          "id": "https://openalex.org/C200990466",
+          "wikidata": "https://www.wikidata.org/wiki/Q271707",
+          "display_name": "Rheology",
+          "level": 2,
+          "score": 0.6478103995323181
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4782344698905945
+        },
+        {
+          "id": "https://openalex.org/C2987168347",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Crude oil",
+          "level": 2,
+          "score": 0.47631534934043884
+        },
+        {
+          "id": "https://openalex.org/C74108042",
+          "wikidata": "https://www.wikidata.org/wiki/Q1225407",
+          "display_name": "Dilatant",
+          "level": 2,
+          "score": 0.45817941427230835
+        },
+        {
+          "id": "https://openalex.org/C134514944",
+          "wikidata": "https://www.wikidata.org/wiki/Q817136",
+          "display_name": "Wetting",
+          "level": 2,
+          "score": 0.4269029498100281
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.41432759165763855
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.38898810744285583
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.3443172574043274
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2962568402290344
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.2470538318157196
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.22023499011993408
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.18684372305870056
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/geo2021-0136.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/geo2021-0136.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106174089",
+            "display_name": "Geophysics",
+            "issn_l": "0016-8033",
+            "issn": [
+              "0016-8033",
+              "1942-2156"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geophysics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 118,
+      "referenced_works": [
+        "https://openalex.org/W1505668941",
+        "https://openalex.org/W1653647249",
+        "https://openalex.org/W1850872222",
+        "https://openalex.org/W1883111988",
+        "https://openalex.org/W1937630795",
+        "https://openalex.org/W1965408708",
+        "https://openalex.org/W1966101546",
+        "https://openalex.org/W1970710265",
+        "https://openalex.org/W1970783937",
+        "https://openalex.org/W1972142567",
+        "https://openalex.org/W1972204976",
+        "https://openalex.org/W1973329283",
+        "https://openalex.org/W1974302886",
+        "https://openalex.org/W1977367857",
+        "https://openalex.org/W1983094364",
+        "https://openalex.org/W1983673729",
+        "https://openalex.org/W1984957438",
+        "https://openalex.org/W1985388391",
+        "https://openalex.org/W1985608154",
+        "https://openalex.org/W1995233719",
+        "https://openalex.org/W1999957281",
+        "https://openalex.org/W2000241135",
+        "https://openalex.org/W2000474073",
+        "https://openalex.org/W2001091967",
+        "https://openalex.org/W2003964352",
+        "https://openalex.org/W2005457526",
+        "https://openalex.org/W2006532942",
+        "https://openalex.org/W2012091913",
+        "https://openalex.org/W2012518746",
+        "https://openalex.org/W2015071626",
+        "https://openalex.org/W2020561968",
+        "https://openalex.org/W2027536254",
+        "https://openalex.org/W2034352153",
+        "https://openalex.org/W2034420961",
+        "https://openalex.org/W2036664654",
+        "https://openalex.org/W2040227495",
+        "https://openalex.org/W2041253520",
+        "https://openalex.org/W2047372589",
+        "https://openalex.org/W2049624109",
+        "https://openalex.org/W2057406087",
+        "https://openalex.org/W2058832429",
+        "https://openalex.org/W2059918560",
+        "https://openalex.org/W2060024874",
+        "https://openalex.org/W2061232534",
+        "https://openalex.org/W2065037782",
+        "https://openalex.org/W2066886026",
+        "https://openalex.org/W2070102335",
+        "https://openalex.org/W2072176741",
+        "https://openalex.org/W2072180467",
+        "https://openalex.org/W2072954894",
+        "https://openalex.org/W2073700305",
+        "https://openalex.org/W2076432368",
+        "https://openalex.org/W2078813801",
+        "https://openalex.org/W2079940061",
+        "https://openalex.org/W2083407492",
+        "https://openalex.org/W2086639504",
+        "https://openalex.org/W2088215458",
+        "https://openalex.org/W2088726937",
+        "https://openalex.org/W2092379963",
+        "https://openalex.org/W2101856264",
+        "https://openalex.org/W2104982886",
+        "https://openalex.org/W2105807305",
+        "https://openalex.org/W2116571591",
+        "https://openalex.org/W2124452226",
+        "https://openalex.org/W2128820185",
+        "https://openalex.org/W2138290479",
+        "https://openalex.org/W2138533005",
+        "https://openalex.org/W2150087834",
+        "https://openalex.org/W2151631291",
+        "https://openalex.org/W2154715492",
+        "https://openalex.org/W2156193302",
+        "https://openalex.org/W2159220388",
+        "https://openalex.org/W2159448958",
+        "https://openalex.org/W2160319921",
+        "https://openalex.org/W2162279475",
+        "https://openalex.org/W2165084730",
+        "https://openalex.org/W2166571187",
+        "https://openalex.org/W2168900424",
+        "https://openalex.org/W2171312568",
+        "https://openalex.org/W2259096515",
+        "https://openalex.org/W2313003846",
+        "https://openalex.org/W2322981909",
+        "https://openalex.org/W2324344477",
+        "https://openalex.org/W2326716911",
+        "https://openalex.org/W2333203250",
+        "https://openalex.org/W2338921032",
+        "https://openalex.org/W2345394035",
+        "https://openalex.org/W2473894695",
+        "https://openalex.org/W2506158629",
+        "https://openalex.org/W2517240191",
+        "https://openalex.org/W2599530815",
+        "https://openalex.org/W2604327922",
+        "https://openalex.org/W2734870462",
+        "https://openalex.org/W2737206241",
+        "https://openalex.org/W2746117066",
+        "https://openalex.org/W2755370328",
+        "https://openalex.org/W2765712633",
+        "https://openalex.org/W2767513505",
+        "https://openalex.org/W2768441063",
+        "https://openalex.org/W2781830708",
+        "https://openalex.org/W2803975037",
+        "https://openalex.org/W2885447159",
+        "https://openalex.org/W2897041467",
+        "https://openalex.org/W2902686671",
+        "https://openalex.org/W2967913039",
+        "https://openalex.org/W2980773803",
+        "https://openalex.org/W2986251043",
+        "https://openalex.org/W2989601128",
+        "https://openalex.org/W3005307893",
+        "https://openalex.org/W3011174324",
+        "https://openalex.org/W3048767980",
+        "https://openalex.org/W4206755964",
+        "https://openalex.org/W4237529304",
+        "https://openalex.org/W4244485176",
+        "https://openalex.org/W4247766929",
+        "https://openalex.org/W4255075494",
+        "https://openalex.org/W4256129314",
+        "https://openalex.org/W4293101132"
+      ],
+      "related_works": [
+        "https://openalex.org/W2485174250",
+        "https://openalex.org/W2083791385",
+        "https://openalex.org/W2895957016",
+        "https://openalex.org/W3112281130",
+        "https://openalex.org/W3198712013",
+        "https://openalex.org/W1990627808",
+        "https://openalex.org/W2055422080",
+        "https://openalex.org/W1893676263",
+        "https://openalex.org/W2322982760",
+        "https://openalex.org/W34615303"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1
+        ],
+        "mechanical": [
+          2
+        ],
+        "nature": [
+          3
+        ],
+        "of": [
+          4,
+          15,
+          37,
+          58,
+          67,
+          76,
+          96,
+          128,
+          138,
+          185,
+          201,
+          219
+        ],
+        "fluid-substitution": [
+          5,
+          235
+        ],
+        "models": [
+          6,
+          236
+        ],
+        "has": [
+          7
+        ],
+        "always": [
+          8
+        ],
+        "been": [
+          9
+        ],
+        "recognized": [
+          10
+        ],
+        "as": [
+          11,
+          26,
+          150,
+          162,
+          164
+        ],
+        "a": [
+          12,
+          55,
+          65,
+          109,
+          113,
+          133,
+          178,
+          238
+        ],
+        "major": [
+          13
+        ],
+        "cause": [
+          14,
+          173
+        ],
+        "their": [
+          16,
+          32,
+          39
+        ],
+        "limited": [
+          17
+        ],
+        "predictive": [
+          18,
+          241
+        ],
+        "power.": [
+          19,
+          242
+        ],
+        "For": [
+          20
+        ],
+        "instance,": [
+          21
+        ],
+        "saturants": [
+          22
+        ],
+        "are": [
+          23,
+          118,
+          148
+        ],
+        "typically": [
+          24
+        ],
+        "treated": [
+          25
+        ],
+        "simple": [
+          27
+        ],
+        "fluids": [
+          28
+        ],
+        "characterized": [
+          29,
+          63
+        ],
+        "only": [
+          30
+        ],
+        "by": [
+          31,
+          64,
+          215
+        ],
+        "densities,": [
+          33,
+          124
+        ],
+        "viscosities,": [
+          34,
+          125
+        ],
+        "and": [
+          35,
+          71,
+          73,
+          111,
+          126,
+          130,
+          135,
+          146,
+          160,
+          222,
+          226
+        ],
+        "moduli": [
+          36,
+          127
+        ],
+        "elasticity;": [
+          38
+        ],
+        "chemistry": [
+          40
+        ],
+        "is": [
+          41,
+          48,
+          54,
+          84,
+          143
+        ],
+        "just": [
+          42
+        ],
+        "ignored,": [
+          43
+        ],
+        "even": [
+          44
+        ],
+        "when": [
+          45,
+          89,
+          140
+        ],
+        "that": [
+          46,
+          117,
+          131,
+          157
+        ],
+        "fluid": [
+          47
+        ],
+        "crude": [
+          49,
+          52,
+          115,
+          174
+        ],
+        "oil.": [
+          50,
+          144
+        ],
+        "However,": [
+          51
+        ],
+        "oil": [
+          53,
+          116,
+          175
+        ],
+        "complex": [
+          56
+        ],
+        "mixture": [
+          57
+        ],
+        "several": [
+          59
+        ],
+        "thousand": [
+          60
+        ],
+        "organic": [
+          61
+        ],
+        "compounds": [
+          62
+        ],
+        "variety": [
+          66
+        ],
+        "molecular": [
+          68
+        ],
+        "weights,": [
+          69
+        ],
+        "polarities,": [
+          70
+        ],
+        "polarizabilities,": [
+          72
+        ],
+        "the": [
+          74,
+          93,
+          141,
+          153,
+          182,
+          192,
+          199,
+          213
+        ],
+        "response": [
+          75
+        ],
+        "its": [
+          77
+        ],
+        "rheological": [
+          78
+        ],
+        "behavior": [
+          79,
+          180
+        ],
+        "to": [
+          80,
+          86,
+          172,
+          176,
+          198
+        ],
+        "acoustic": [
+          81
+        ],
+        "wave": [
+          82
+        ],
+        "propagation": [
+          83
+        ],
+        "difficult": [
+          85
+        ],
+        "predict,": [
+          87
+        ],
+        "especially": [
+          88
+        ],
+        "it": [
+          90
+        ],
+        "resides": [
+          91
+        ],
+        "in": [
+          92,
+          212,
+          232
+        ],
+        "pore": [
+          94,
+          183
+        ],
+        "space": [
+          95,
+          184
+        ],
+        "rocks.": [
+          97
+        ],
+        "We": [
+          98,
+          155
+        ],
+        "have": [
+          99
+        ],
+        "performed": [
+          100
+        ],
+        "ultrasonic-velocity": [
+          101
+        ],
+        "measurements": [
+          102
+        ],
+        "on": [
+          103
+        ],
+        "carbonate": [
+          104
+        ],
+        "core": [
+          105
+        ],
+        "plugs": [
+          106
+        ],
+        "saturated": [
+          107
+        ],
+        "with": [
+          108,
+          112,
+          237
+        ],
+        "brine": [
+          110
+        ],
+        "light": [
+          114
+        ],
+        "mechanically": [
+          119
+        ],
+        "similar": [
+          120,
+          197,
+          227
+        ],
+        "(i.e.,": [
+          121
+        ],
+        "having": [
+          122
+        ],
+        "comparable": [
+          123
+        ],
+        "elasticity)": [
+          129
+        ],
+        "show": [
+          132
+        ],
+        "significant": [
+          134
+        ],
+        "consistent": [
+          136,
+          240
+        ],
+        "excess": [
+          137
+        ],
+        "hardening": [
+          139,
+          200
+        ],
+        "saturant": [
+          142
+        ],
+        "Dispersion": [
+          145
+        ],
+        "wettability": [
+          147
+        ],
+        "excluded": [
+          149
+        ],
+        "explanations": [
+          151
+        ],
+        "for": [
+          152
+        ],
+        "data.": [
+          154
+        ],
+        "hypothesize": [
+          156
+        ],
+        "asphaltene": [
+          158
+        ],
+        "aggregation": [
+          159
+        ],
+        "adsorption": [
+          161
+        ],
+        "well": [
+          163
+        ],
+        "paraffin-wax": [
+          165
+        ],
+        "crystallization": [
+          166
+        ],
+        "(and": [
+          167
+        ],
+        "possibly": [
+          168
+        ],
+        "volumetric": [
+          169
+        ],
+        "expansion)": [
+          170
+        ],
+        "combine": [
+          171
+        ],
+        "exhibit": [
+          177
+        ],
+        "dilatant-like": [
+          179
+        ],
+        "within": [
+          181
+        ],
+        "carbonates": [
+          186
+        ],
+        "at": [
+          187,
+          203
+        ],
+        "ultrasonic": [
+          188
+        ],
+        "frequencies.": [
+          189
+        ],
+        "In": [
+          190
+        ],
+        "general,": [
+          191
+        ],
+        "observed": [
+          193
+        ],
+        "effect": [
+          194
+        ],
+        "would": [
+          195,
+          229
+        ],
+        "be": [
+          196,
+          210,
+          230
+        ],
+        "ooblek": [
+          202
+        ],
+        "high": [
+          204
+        ],
+        "deformation": [
+          205
+        ],
+        "rates.": [
+          206
+        ],
+        "This": [
+          207,
+          225
+        ],
+        "hypothesis": [
+          208
+        ],
+        "could": [
+          209
+        ],
+        "tested": [
+          211
+        ],
+        "future": [
+          214
+        ],
+        "an": [
+          216
+        ],
+        "adequate": [
+          217
+        ],
+        "combination": [
+          218
+        ],
+        "high-resolution": [
+          220
+        ],
+        "imaging": [
+          221
+        ],
+        "microfluidic": [
+          223
+        ],
+        "setups.": [
+          224
+        ],
+        "studies": [
+          228
+        ],
+        "beneficial": [
+          231
+        ],
+        "developing": [
+          233
+        ],
+        "physical": [
+          234
+        ],
+        "more": [
+          239
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-04-16T08:26:57.006410",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3205476876",
       "doi": "https://doi.org/10.2118/205176-ms",
       "title": "Characterization of Fluid Drainage Mechanism at Core and Pore Scales: an NMR Capillary Pressure–Based Saturation Exponent Prediction",
@@ -31630,9 +33058,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "id": null,
+            "display_name": "Ammar El-Husseiny",
+            "orcid": null
           },
           "institutions": [
             {
@@ -31675,11 +33103,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7525,
+      "fwci": 2.7255,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.91174987,
+        "value": 0.91142426,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32890,7 +34318,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-16T08:26:57.006410",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38227,1313 +39655,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3194471172",
-      "doi": "https://doi.org/10.1190/geo2021-0136.1",
-      "title": "Can fluid-substitution models continue to ignore the complex physicochemical properties of crude oil?",
-      "display_name": "Can fluid-substitution models continue to ignore the complex physicochemical properties of crude oil?",
-      "publication_year": 2021,
-      "publication_date": "2021-08-24",
-      "ids": {
-        "openalex": "https://openalex.org/W3194471172",
-        "doi": "https://doi.org/10.1190/geo2021-0136.1",
-        "mag": "3194471172"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/geo2021-0136.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/geo2021-0136.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S106174089",
-          "display_name": "Geophysics",
-          "issn_l": "0016-8033",
-          "issn": [
-            "0016-8033",
-            "1942-2156"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316678",
-          "host_organization_name": "Society of Exploration Geophysicists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316678"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Exploration Geophysicists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geophysics",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5000034016",
-            "display_name": "Mohamed R. Khodja",
-            "orcid": "https://orcid.org/0000-0002-1413-1795"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Mohamed R. Khodja",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108225096",
-            "display_name": "Syed Nizamuddin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Syed Nizamuddin",
-          "raw_affiliation_strings": [
-            "Khalifa University of Science and Technology 2 , P.O. Box 127788, Abu Dhabi, United Arab Emirates. E-mail: nizamupm@gmail.com ",
-            "Khalifa University of Science and Technology, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Khalifa University of Science and Technology 2 , P.O. Box 127788, Abu Dhabi, United Arab Emirates. E-mail: nizamupm@gmail.com ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Khalifa University of Science and Technology, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009478389",
-            "display_name": "Abdulwahab Ali",
-            "orcid": "https://orcid.org/0000-0002-7698-5219"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulwahab Ali",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013528796",
-            "display_name": "Mohamed E. Kandil",
-            "orcid": "https://orcid.org/0000-0001-8545-5909"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed E. Kandil",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ammar El-Husseiny",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044218213",
-            "display_name": "Mazen K. Nazal",
-            "orcid": "https://orcid.org/0000-0001-5673-1900"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mazen K. Nazal",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044235421",
-            "display_name": "Lamidi Babalola",
-            "orcid": "https://orcid.org/0000-0002-0052-5603"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Lamidi O. Babalola",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5038432622",
-            "display_name": "Theis I. Sølling",
-            "orcid": "https://orcid.org/0000-0003-1710-9072"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Theis Solling",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); "
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Dhahran 31261, Saudi Arabia. E-mail: mrkhodja@kfupm.edu.sa ; awali@kfupm.edu.sa (corresponding author); mkandil@kfupm.edu.sa ; ammar.elhusseiny@kfupm.edu.sa ; mazennazal@kfupm.edu.sa ; lbabalola@kfupm.edu.sa ; theis.solling@kfupm.edu.sa ",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia.(corresponding author); ",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5000034016"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.4399,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.55802305,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "86",
-        "issue": "6",
-        "first_page": "MR299",
-        "last_page": "MR314"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11630",
-          "display_name": "Petroleum Processing and Analysis",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/asphaltene",
-          "display_name": "Asphaltene",
-          "score": 0.7081887125968933
-        },
-        {
-          "id": "https://openalex.org/keywords/rheology",
-          "display_name": "Rheology",
-          "score": 0.6478103995323181
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.4782344698905945
-        },
-        {
-          "id": "https://openalex.org/keywords/crude-oil",
-          "display_name": "Crude oil",
-          "score": 0.47631534934043884
-        },
-        {
-          "id": "https://openalex.org/keywords/dilatant",
-          "display_name": "Dilatant",
-          "score": 0.45817941427230835
-        },
-        {
-          "id": "https://openalex.org/keywords/wetting",
-          "display_name": "Wetting",
-          "score": 0.4269029498100281
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.41432759165763855
-        },
-        {
-          "id": "https://openalex.org/keywords/thermodynamics",
-          "display_name": "Thermodynamics",
-          "score": 0.38898810744285583
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3443172574043274
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2962568402290344
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.2470538318157196
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.22023499011993408
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.18684372305870056
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C65324659",
-          "wikidata": "https://www.wikidata.org/wiki/Q255712",
-          "display_name": "Asphaltene",
-          "level": 2,
-          "score": 0.7081887125968933
-        },
-        {
-          "id": "https://openalex.org/C200990466",
-          "wikidata": "https://www.wikidata.org/wiki/Q271707",
-          "display_name": "Rheology",
-          "level": 2,
-          "score": 0.6478103995323181
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.4782344698905945
-        },
-        {
-          "id": "https://openalex.org/C2987168347",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Crude oil",
-          "level": 2,
-          "score": 0.47631534934043884
-        },
-        {
-          "id": "https://openalex.org/C74108042",
-          "wikidata": "https://www.wikidata.org/wiki/Q1225407",
-          "display_name": "Dilatant",
-          "level": 2,
-          "score": 0.45817941427230835
-        },
-        {
-          "id": "https://openalex.org/C134514944",
-          "wikidata": "https://www.wikidata.org/wiki/Q817136",
-          "display_name": "Wetting",
-          "level": 2,
-          "score": 0.4269029498100281
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.41432759165763855
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0.38898810744285583
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3443172574043274
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2962568402290344
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.2470538318157196
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.22023499011993408
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.18684372305870056
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/geo2021-0136.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/geo2021-0136.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S106174089",
-            "display_name": "Geophysics",
-            "issn_l": "0016-8033",
-            "issn": [
-              "0016-8033",
-              "1942-2156"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316678",
-            "host_organization_name": "Society of Exploration Geophysicists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316678"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Exploration Geophysicists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geophysics",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 118,
-      "referenced_works": [
-        "https://openalex.org/W1505668941",
-        "https://openalex.org/W1653647249",
-        "https://openalex.org/W1850872222",
-        "https://openalex.org/W1883111988",
-        "https://openalex.org/W1937630795",
-        "https://openalex.org/W1965408708",
-        "https://openalex.org/W1966101546",
-        "https://openalex.org/W1970710265",
-        "https://openalex.org/W1970783937",
-        "https://openalex.org/W1972142567",
-        "https://openalex.org/W1972204976",
-        "https://openalex.org/W1973329283",
-        "https://openalex.org/W1974302886",
-        "https://openalex.org/W1977367857",
-        "https://openalex.org/W1983094364",
-        "https://openalex.org/W1983673729",
-        "https://openalex.org/W1984957438",
-        "https://openalex.org/W1985388391",
-        "https://openalex.org/W1985608154",
-        "https://openalex.org/W1995233719",
-        "https://openalex.org/W1999957281",
-        "https://openalex.org/W2000241135",
-        "https://openalex.org/W2000474073",
-        "https://openalex.org/W2001091967",
-        "https://openalex.org/W2003964352",
-        "https://openalex.org/W2005457526",
-        "https://openalex.org/W2006532942",
-        "https://openalex.org/W2012091913",
-        "https://openalex.org/W2012518746",
-        "https://openalex.org/W2015071626",
-        "https://openalex.org/W2020561968",
-        "https://openalex.org/W2027536254",
-        "https://openalex.org/W2034352153",
-        "https://openalex.org/W2034420961",
-        "https://openalex.org/W2036664654",
-        "https://openalex.org/W2040227495",
-        "https://openalex.org/W2041253520",
-        "https://openalex.org/W2047372589",
-        "https://openalex.org/W2049624109",
-        "https://openalex.org/W2057406087",
-        "https://openalex.org/W2058832429",
-        "https://openalex.org/W2059918560",
-        "https://openalex.org/W2060024874",
-        "https://openalex.org/W2061232534",
-        "https://openalex.org/W2065037782",
-        "https://openalex.org/W2066886026",
-        "https://openalex.org/W2070102335",
-        "https://openalex.org/W2072176741",
-        "https://openalex.org/W2072180467",
-        "https://openalex.org/W2072954894",
-        "https://openalex.org/W2073700305",
-        "https://openalex.org/W2076432368",
-        "https://openalex.org/W2078813801",
-        "https://openalex.org/W2079940061",
-        "https://openalex.org/W2083407492",
-        "https://openalex.org/W2086639504",
-        "https://openalex.org/W2088215458",
-        "https://openalex.org/W2088726937",
-        "https://openalex.org/W2092379963",
-        "https://openalex.org/W2101856264",
-        "https://openalex.org/W2104982886",
-        "https://openalex.org/W2105807305",
-        "https://openalex.org/W2116571591",
-        "https://openalex.org/W2124452226",
-        "https://openalex.org/W2128820185",
-        "https://openalex.org/W2138290479",
-        "https://openalex.org/W2138533005",
-        "https://openalex.org/W2150087834",
-        "https://openalex.org/W2151631291",
-        "https://openalex.org/W2154715492",
-        "https://openalex.org/W2156193302",
-        "https://openalex.org/W2159220388",
-        "https://openalex.org/W2159448958",
-        "https://openalex.org/W2160319921",
-        "https://openalex.org/W2162279475",
-        "https://openalex.org/W2165084730",
-        "https://openalex.org/W2166571187",
-        "https://openalex.org/W2168900424",
-        "https://openalex.org/W2171312568",
-        "https://openalex.org/W2259096515",
-        "https://openalex.org/W2313003846",
-        "https://openalex.org/W2322981909",
-        "https://openalex.org/W2324344477",
-        "https://openalex.org/W2326716911",
-        "https://openalex.org/W2333203250",
-        "https://openalex.org/W2338921032",
-        "https://openalex.org/W2345394035",
-        "https://openalex.org/W2473894695",
-        "https://openalex.org/W2506158629",
-        "https://openalex.org/W2517240191",
-        "https://openalex.org/W2599530815",
-        "https://openalex.org/W2604327922",
-        "https://openalex.org/W2734870462",
-        "https://openalex.org/W2737206241",
-        "https://openalex.org/W2746117066",
-        "https://openalex.org/W2755370328",
-        "https://openalex.org/W2765712633",
-        "https://openalex.org/W2767513505",
-        "https://openalex.org/W2768441063",
-        "https://openalex.org/W2781830708",
-        "https://openalex.org/W2803975037",
-        "https://openalex.org/W2885447159",
-        "https://openalex.org/W2897041467",
-        "https://openalex.org/W2902686671",
-        "https://openalex.org/W2967913039",
-        "https://openalex.org/W2980773803",
-        "https://openalex.org/W2986251043",
-        "https://openalex.org/W2989601128",
-        "https://openalex.org/W3005307893",
-        "https://openalex.org/W3011174324",
-        "https://openalex.org/W3048767980",
-        "https://openalex.org/W4206755964",
-        "https://openalex.org/W4237529304",
-        "https://openalex.org/W4244485176",
-        "https://openalex.org/W4247766929",
-        "https://openalex.org/W4255075494",
-        "https://openalex.org/W4256129314",
-        "https://openalex.org/W4293101132"
-      ],
-      "related_works": [
-        "https://openalex.org/W2485174250",
-        "https://openalex.org/W2083791385",
-        "https://openalex.org/W2895957016",
-        "https://openalex.org/W3112281130",
-        "https://openalex.org/W3198712013",
-        "https://openalex.org/W1990627808",
-        "https://openalex.org/W2055422080",
-        "https://openalex.org/W1893676263",
-        "https://openalex.org/W2322982760",
-        "https://openalex.org/W34615303"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1
-        ],
-        "mechanical": [
-          2
-        ],
-        "nature": [
-          3
-        ],
-        "of": [
-          4,
-          15,
-          37,
-          58,
-          67,
-          76,
-          96,
-          128,
-          138,
-          185,
-          201,
-          219
-        ],
-        "fluid-substitution": [
-          5,
-          235
-        ],
-        "models": [
-          6,
-          236
-        ],
-        "has": [
-          7
-        ],
-        "always": [
-          8
-        ],
-        "been": [
-          9
-        ],
-        "recognized": [
-          10
-        ],
-        "as": [
-          11,
-          26,
-          150,
-          162,
-          164
-        ],
-        "a": [
-          12,
-          55,
-          65,
-          109,
-          113,
-          133,
-          178,
-          238
-        ],
-        "major": [
-          13
-        ],
-        "cause": [
-          14,
-          173
-        ],
-        "their": [
-          16,
-          32,
-          39
-        ],
-        "limited": [
-          17
-        ],
-        "predictive": [
-          18,
-          241
-        ],
-        "power.": [
-          19,
-          242
-        ],
-        "For": [
-          20
-        ],
-        "instance,": [
-          21
-        ],
-        "saturants": [
-          22
-        ],
-        "are": [
-          23,
-          118,
-          148
-        ],
-        "typically": [
-          24
-        ],
-        "treated": [
-          25
-        ],
-        "simple": [
-          27
-        ],
-        "fluids": [
-          28
-        ],
-        "characterized": [
-          29,
-          63
-        ],
-        "only": [
-          30
-        ],
-        "by": [
-          31,
-          64,
-          215
-        ],
-        "densities,": [
-          33,
-          124
-        ],
-        "viscosities,": [
-          34,
-          125
-        ],
-        "and": [
-          35,
-          71,
-          73,
-          111,
-          126,
-          130,
-          135,
-          146,
-          160,
-          222,
-          226
-        ],
-        "moduli": [
-          36,
-          127
-        ],
-        "elasticity;": [
-          38
-        ],
-        "chemistry": [
-          40
-        ],
-        "is": [
-          41,
-          48,
-          54,
-          84,
-          143
-        ],
-        "just": [
-          42
-        ],
-        "ignored,": [
-          43
-        ],
-        "even": [
-          44
-        ],
-        "when": [
-          45,
-          89,
-          140
-        ],
-        "that": [
-          46,
-          117,
-          131,
-          157
-        ],
-        "fluid": [
-          47
-        ],
-        "crude": [
-          49,
-          52,
-          115,
-          174
-        ],
-        "oil.": [
-          50,
-          144
-        ],
-        "However,": [
-          51
-        ],
-        "oil": [
-          53,
-          116,
-          175
-        ],
-        "complex": [
-          56
-        ],
-        "mixture": [
-          57
-        ],
-        "several": [
-          59
-        ],
-        "thousand": [
-          60
-        ],
-        "organic": [
-          61
-        ],
-        "compounds": [
-          62
-        ],
-        "variety": [
-          66
-        ],
-        "molecular": [
-          68
-        ],
-        "weights,": [
-          69
-        ],
-        "polarities,": [
-          70
-        ],
-        "polarizabilities,": [
-          72
-        ],
-        "the": [
-          74,
-          93,
-          141,
-          153,
-          182,
-          192,
-          199,
-          213
-        ],
-        "response": [
-          75
-        ],
-        "its": [
-          77
-        ],
-        "rheological": [
-          78
-        ],
-        "behavior": [
-          79,
-          180
-        ],
-        "to": [
-          80,
-          86,
-          172,
-          176,
-          198
-        ],
-        "acoustic": [
-          81
-        ],
-        "wave": [
-          82
-        ],
-        "propagation": [
-          83
-        ],
-        "difficult": [
-          85
-        ],
-        "predict,": [
-          87
-        ],
-        "especially": [
-          88
-        ],
-        "it": [
-          90
-        ],
-        "resides": [
-          91
-        ],
-        "in": [
-          92,
-          212,
-          232
-        ],
-        "pore": [
-          94,
-          183
-        ],
-        "space": [
-          95,
-          184
-        ],
-        "rocks.": [
-          97
-        ],
-        "We": [
-          98,
-          155
-        ],
-        "have": [
-          99
-        ],
-        "performed": [
-          100
-        ],
-        "ultrasonic-velocity": [
-          101
-        ],
-        "measurements": [
-          102
-        ],
-        "on": [
-          103
-        ],
-        "carbonate": [
-          104
-        ],
-        "core": [
-          105
-        ],
-        "plugs": [
-          106
-        ],
-        "saturated": [
-          107
-        ],
-        "with": [
-          108,
-          112,
-          237
-        ],
-        "brine": [
-          110
-        ],
-        "light": [
-          114
-        ],
-        "mechanically": [
-          119
-        ],
-        "similar": [
-          120,
-          197,
-          227
-        ],
-        "(i.e.,": [
-          121
-        ],
-        "having": [
-          122
-        ],
-        "comparable": [
-          123
-        ],
-        "elasticity)": [
-          129
-        ],
-        "show": [
-          132
-        ],
-        "significant": [
-          134
-        ],
-        "consistent": [
-          136,
-          240
-        ],
-        "excess": [
-          137
-        ],
-        "hardening": [
-          139,
-          200
-        ],
-        "saturant": [
-          142
-        ],
-        "Dispersion": [
-          145
-        ],
-        "wettability": [
-          147
-        ],
-        "excluded": [
-          149
-        ],
-        "explanations": [
-          151
-        ],
-        "for": [
-          152
-        ],
-        "data.": [
-          154
-        ],
-        "hypothesize": [
-          156
-        ],
-        "asphaltene": [
-          158
-        ],
-        "aggregation": [
-          159
-        ],
-        "adsorption": [
-          161
-        ],
-        "well": [
-          163
-        ],
-        "paraffin-wax": [
-          165
-        ],
-        "crystallization": [
-          166
-        ],
-        "(and": [
-          167
-        ],
-        "possibly": [
-          168
-        ],
-        "volumetric": [
-          169
-        ],
-        "expansion)": [
-          170
-        ],
-        "combine": [
-          171
-        ],
-        "exhibit": [
-          177
-        ],
-        "dilatant-like": [
-          179
-        ],
-        "within": [
-          181
-        ],
-        "carbonates": [
-          186
-        ],
-        "at": [
-          187,
-          203
-        ],
-        "ultrasonic": [
-          188
-        ],
-        "frequencies.": [
-          189
-        ],
-        "In": [
-          190
-        ],
-        "general,": [
-          191
-        ],
-        "observed": [
-          193
-        ],
-        "effect": [
-          194
-        ],
-        "would": [
-          195,
-          229
-        ],
-        "be": [
-          196,
-          210,
-          230
-        ],
-        "ooblek": [
-          202
-        ],
-        "high": [
-          204
-        ],
-        "deformation": [
-          205
-        ],
-        "rates.": [
-          206
-        ],
-        "This": [
-          207,
-          225
-        ],
-        "hypothesis": [
-          208
-        ],
-        "could": [
-          209
-        ],
-        "tested": [
-          211
-        ],
-        "future": [
-          214
-        ],
-        "an": [
-          216
-        ],
-        "adequate": [
-          217
-        ],
-        "combination": [
-          218
-        ],
-        "high-resolution": [
-          220
-        ],
-        "imaging": [
-          221
-        ],
-        "microfluidic": [
-          223
-        ],
-        "setups.": [
-          224
-        ],
-        "studies": [
-          228
-        ],
-        "beneficial": [
-          231
-        ],
-        "developing": [
-          233
-        ],
-        "physical": [
-          234
-        ],
-        "more": [
-          239
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-12-13T23:11:00.310470",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2970417606",
       "doi": "https://doi.org/10.3997/2214-4609.201901101",
       "title": "Petrophysical Evaluation of Prospective Reservoir Zones in Srikail Gas Field, Bengal Basin Bangladesh",
@@ -39623,9 +39744,9 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "id": null,
+            "display_name": "A. El-Husseiny",
+            "orcid": null
           },
           "institutions": [
             {
@@ -39740,11 +39861,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7303,
+      "fwci": 0.7305,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.65780619,
+        "value": 0.65792129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40625,7 +40746,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-16T08:26:57.006410",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43195,6 +43316,13 @@
       ],
       "awards": [
         {
+          "id": "https://openalex.org/G2862252062",
+          "display_name": null,
+          "funder_award_id": "Grant",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
           "id": "https://openalex.org/G4425119916",
           "display_name": null,
           "funder_award_id": "Wilson",
@@ -43688,7 +43816,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-13T07:58:08.660418",
+      "updated_date": "2026-04-16T08:26:57.006410",
       "created_date": "2025-10-10T00:00:00"
     },
     {
