@@ -4417,1347 +4417,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4395702789",
-      "doi": "https://doi.org/10.1016/j.jksus.2024.103221",
-      "title": "Integrated analysis of wireline logs analysis, seismic interpretation, and machine learning for reservoir characterisation: Insights from the late Eocene McKee Formation, onshore Taranaki Basin, New Zealand",
-      "display_name": "Integrated analysis of wireline logs analysis, seismic interpretation, and machine learning for reservoir characterisation: Insights from the late Eocene McKee Formation, onshore Taranaki Basin, New Zealand",
-      "publication_year": 2024,
-      "publication_date": "2024-04-27",
-      "ids": {
-        "openalex": "https://openalex.org/W4395702789",
-        "doi": "https://doi.org/10.1016/j.jksus.2024.103221"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jksus.2024.103221",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S163784168",
-          "display_name": "Journal of King Saud University - Science",
-          "issn_l": "1018-3647",
-          "issn": [
-            "1018-3647",
-            "2213-686X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of King Saud University - Science",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.jksus.2024.103221",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5093215591",
-            "display_name": "John Oluwadamilola Olutoki",
-            "orcid": "https://orcid.org/0009-0006-7660-1701"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "John Oluwadamilola Olutoki",
-          "raw_affiliation_strings": [
-            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032627421",
-            "display_name": "Numair Ahmed Siddiqui",
-            "orcid": "https://orcid.org/0000-0002-6703-0699"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Numair Ahmed Siddiqui",
-          "raw_affiliation_strings": [
-            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009594846",
-            "display_name": "AKM Eahsanul Haque",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "AKM Eahsanul Haque",
-          "raw_affiliation_strings": [
-            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008843127",
-            "display_name": "Oluwaseun Daniel Akinyemi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Oluwaseun Daniel Akinyemi",
-          "raw_affiliation_strings": [
-            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079028492",
-            "display_name": "Hoda Abdelazeem Mohammed",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hassan Salisu Mohammed",
-          "raw_affiliation_strings": [
-            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5022637228",
-            "display_name": "Yasir Bashir",
-            "orcid": "https://orcid.org/0000-0002-4614-796X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I48912391",
-              "display_name": "Istanbul Technical University",
-              "ror": "https://ror.org/059636586",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I48912391"
-              ]
-            }
-          ],
-          "countries": [
-            "TR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yasir Bashir",
-          "raw_affiliation_strings": [
-            "Department of Geophysical Engineering, Faculty of Mines, İstanbul Technical University, İstanbul, Turkey"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geophysical Engineering, Faculty of Mines, İstanbul Technical University, İstanbul, Turkey",
-              "institution_ids": [
-                "https://openalex.org/I48912391"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [
-            "Earth Sciences Research Centre, Sultan Qaboos University, Al-Khoudh, Muscat, Oman"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Research Centre, Sultan Qaboos University, Al-Khoudh, Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5093215591"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I203899302"
-      ],
-      "apc_list": {
-        "value": 1250,
-        "currency": "USD",
-        "value_usd": 1250
-      },
-      "apc_paid": {
-        "value": 1250,
-        "currency": "USD",
-        "value_usd": 1250
-      },
-      "fwci": 3.5345,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.9310146,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "36",
-        "issue": "6",
-        "first_page": "103221",
-        "last_page": "103221"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9993000030517578,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9972000122070312,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/wireline",
-          "display_name": "Wireline",
-          "score": 0.9740864038467407
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7125774621963501
-        },
-        {
-          "id": "https://openalex.org/keywords/interpretation",
-          "display_name": "Interpretation (philosophy)",
-          "score": 0.6608121991157532
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.6597505807876587
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.3489982485771179
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.21481123566627502
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.08685743808746338
-        },
-        {
-          "id": "https://openalex.org/keywords/programming-language",
-          "display_name": "Programming language",
-          "score": 0.04316791892051697
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776951270",
-          "wikidata": "https://www.wikidata.org/wiki/Q8026910",
-          "display_name": "Wireline",
-          "level": 3,
-          "score": 0.9740864038467407
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7125774621963501
-        },
-        {
-          "id": "https://openalex.org/C527412718",
-          "wikidata": "https://www.wikidata.org/wiki/Q855395",
-          "display_name": "Interpretation (philosophy)",
-          "level": 2,
-          "score": 0.6608121991157532
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.6597505807876587
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3489982485771179
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.21481123566627502
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.08685743808746338
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0.04316791892051697
-        },
-        {
-          "id": "https://openalex.org/C555944384",
-          "wikidata": "https://www.wikidata.org/wiki/Q249",
-          "display_name": "Wireless",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jksus.2024.103221",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S163784168",
-            "display_name": "Journal of King Saud University - Science",
-            "issn_l": "1018-3647",
-            "issn": [
-              "1018-3647",
-              "2213-686X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of King Saud University - Science",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:3b5817452bc0414fa76256e35029cc25",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/3b5817452bc0414fa76256e35029cc25",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Journal of King Saud University: Science, Vol 36, Iss 6, Pp 103221- (2024)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.jksus.2024.103221",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S163784168",
-          "display_name": "Journal of King Saud University - Science",
-          "issn_l": "1018-3647",
-          "issn": [
-            "1018-3647",
-            "2213-686X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of King Saud University - Science",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G7651314514",
-          "display_name": null,
-          "funder_award_id": "YUTP 015LCO-363",
-          "funder_id": "https://openalex.org/F4320323380",
-          "funder_display_name": "Universiti Teknologi Petronas"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320323380",
-          "display_name": "Universiti Teknologi Petronas",
-          "ror": "https://ror.org/048g2sh07"
-        },
-        {
-          "id": "https://openalex.org/F4320329394",
-          "display_name": "Yayasan UTP",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W152424754",
-        "https://openalex.org/W1582780567",
-        "https://openalex.org/W1988954431",
-        "https://openalex.org/W2020128729",
-        "https://openalex.org/W2027123470",
-        "https://openalex.org/W2039581585",
-        "https://openalex.org/W2060579131",
-        "https://openalex.org/W2142102256",
-        "https://openalex.org/W2148228104",
-        "https://openalex.org/W2773450839",
-        "https://openalex.org/W2801382193",
-        "https://openalex.org/W2979492422",
-        "https://openalex.org/W3092388368",
-        "https://openalex.org/W3175239874",
-        "https://openalex.org/W3199468155",
-        "https://openalex.org/W3209514648",
-        "https://openalex.org/W4210874630",
-        "https://openalex.org/W4298146807",
-        "https://openalex.org/W4313260174",
-        "https://openalex.org/W4313441739",
-        "https://openalex.org/W4316038465",
-        "https://openalex.org/W4322012200",
-        "https://openalex.org/W4360980561",
-        "https://openalex.org/W4367673399",
-        "https://openalex.org/W4386846102",
-        "https://openalex.org/W4388459910",
-        "https://openalex.org/W4388567382",
-        "https://openalex.org/W6672678346",
-        "https://openalex.org/W6680941967",
-        "https://openalex.org/W6768330015",
-        "https://openalex.org/W6848750059",
-        "https://openalex.org/W6856731539",
-        "https://openalex.org/W6963944750",
-        "https://openalex.org/W7053331927"
-      ],
-      "related_works": [
-        "https://openalex.org/W2368190399",
-        "https://openalex.org/W4200241224",
-        "https://openalex.org/W2374510365",
-        "https://openalex.org/W1964703610",
-        "https://openalex.org/W2085787479",
-        "https://openalex.org/W2759444425",
-        "https://openalex.org/W4246159570",
-        "https://openalex.org/W2381888053",
-        "https://openalex.org/W2356623904",
-        "https://openalex.org/W2085986895"
-      ],
-      "abstract_inverted_index": {
-        "This": [
-          0,
-          232
-        ],
-        "study": [
-          1,
-          234
-        ],
-        "aims": [
-          2
-        ],
-        "to": [
-          3,
-          40,
-          80,
-          86,
-          129,
-          150,
-          158,
-          191,
-          196,
-          200,
-          209,
-          240
-        ],
-        "integrate": [
-          4
-        ],
-        "seismic": [
-          5,
-          58,
-          74,
-          116
-        ],
-        "and": [
-          6,
-          11,
-          15,
-          62,
-          78,
-          99,
-          102,
-          154,
-          164,
-          183,
-          185,
-          203,
-          206,
-          238,
-          246
-        ],
-        "well": [
-          7
-        ],
-        "data": [
-          8,
-          75
-        ],
-        "for": [
-          9,
-          176,
-          225,
-          256
-        ],
-        "re-assessment": [
-          10
-        ],
-        "delineating": [
-          12
-        ],
-        "the": [
-          13,
-          19,
-          25,
-          45,
-          52,
-          55,
-          90,
-          103,
-          112,
-          115,
-          123,
-          134,
-          142,
-          146,
-          159,
-          226,
-          230,
-          247
-        ],
-        "geological": [
-          14
-        ],
-        "petrophysical": [
-          16,
-          169
-        ],
-        "characteristics": [
-          17
-        ],
-        "of": [
-          18,
-          57,
-          105,
-          122,
-          136,
-          161,
-          215,
-          229
-        ],
-        "Late": [
-          20
-        ],
-        "Eocene": [
-          21
-        ],
-        "McKee": [
-          22,
-          26
-        ],
-        "Formation.": [
-          23
-        ],
-        "Despite": [
-          24
-        ],
-        "Formation": [
-          27
-        ],
-        "being": [
-          28
-        ],
-        "a": [
-          29,
-          119,
-          152
-        ],
-        "hydrocarbon-producing": [
-          30
-        ],
-        "field,": [
-          31
-        ],
-        "there": [
-          32
-        ],
-        "have": [
-          33
-        ],
-        "been": [
-          34
-        ],
-        "no": [
-          35
-        ],
-        "previous": [
-          36
-        ],
-        "integrated": [
-          37,
-          233
-        ],
-        "studies": [
-          38
-        ],
-        "conducted": [
-          39
-        ],
-        "characterize": [
-          41
-        ],
-        "its": [
-          42
-        ],
-        "deposits": [
-          43
-        ],
-        "in": [
-          44,
-          141,
-          220,
-          243,
-          259
-        ],
-        "Taranaki": [
-          46
-        ],
-        "Basin.": [
-          47
-        ],
-        "To": [
-          48
-        ],
-        "execute": [
-          49
-        ],
-        "these": [
-          50
-        ],
-        "tasks,": [
-          51
-        ],
-        "process": [
-          53
-        ],
-        "involves": [
-          54
-        ],
-        "interpretation": [
-          56
-        ],
-        "data,": [
-          59
-        ],
-        "wireline": [
-          60,
-          143
-        ],
-        "analysis,": [
-          61,
-          145
-        ],
-        "3D": [
-          63
-        ],
-        "porosity": [
-          64
-        ],
-        "volume": [
-          65
-        ],
-        "prediction": [
-          66
-        ],
-        "using": [
-          67,
-          111
-        ],
-        "multi-layered": [
-          68
-        ],
-        "feed-forward": [
-          69
-        ],
-        "neural": [
-          70
-        ],
-        "network": [
-          71
-        ],
-        "models.": [
-          72
-        ],
-        "The": [
-          73,
-          173,
-          213,
-          250
-        ],
-        "was": [
-          76,
-          94,
-          109,
-          148
-        ],
-        "interpreted": [
-          77
-        ],
-        "found": [
-          79,
-          149
-        ],
-        "contain": [
-          81
-        ],
-        "low": [
-          82,
-          128
-        ],
-        "displacement": [
-          83
-        ],
-        "faults": [
-          84
-        ],
-        "due": [
-          85
-        ],
-        "intricate": [
-          87
-        ],
-        "geometric": [
-          88
-        ],
-        "complexities,": [
-          89
-        ],
-        "contour": [
-          91
-        ],
-        "map": [
-          92
-        ],
-        "that": [
-          93
-        ],
-        "generated": [
-          95
-        ],
-        "shows": [
-          96
-        ],
-        "lateral": [
-          97
-        ],
-        "extension": [
-          98
-        ],
-        "thickness": [
-          100
-        ],
-        "variation,": [
-          101
-        ],
-        "region": [
-          104,
-          224
-        ],
-        "direct": [
-          106
-        ],
-        "hydrocarbon": [
-          107,
-          186
-        ],
-        "indicators": [
-          108
-        ],
-        "detected": [
-          110
-        ],
-        "root-mean-square.": [
-          113
-        ],
-        "Additionally,": [
-          114
-        ],
-        "inversion": [
-          117
-        ],
-        "provides": [
-          118
-        ],
-        "comprehensive": [
-          120
-        ],
-        "understanding": [
-          121
-        ],
-        "acoustic": [
-          124
-        ],
-        "impedance": [
-          125
-        ],
-        "variations": [
-          126
-        ],
-        "from": [
-          127
-        ],
-        "high": [
-          130
-        ],
-        "value,": [
-          131
-        ],
-        "which": [
-          132
-        ],
-        "signifies": [
-          133
-        ],
-        "presence": [
-          135,
-          160
-        ],
-        "mudstone": [
-          137
-        ],
-        "clasts": [
-          138
-        ],
-        "content.": [
-          139
-        ],
-        "Furthermore,": [
-          140
-        ],
-        "log": [
-          144
-        ],
-        "reservoir": [
-          147,
-          179
-        ],
-        "be": [
-          151,
-          236
-        ],
-        "Silici-clastic": [
-          153
-        ],
-        "carbonate": [
-          155
-        ],
-        "field": [
-          156
-        ],
-        "owing": [
-          157
-        ],
-        "dolomite,": [
-          162
-        ],
-        "calcite,": [
-          163
-        ],
-        "quartz.": [
-          165
-        ],
-        "After": [
-          166
-        ],
-        "applying": [
-          167
-        ],
-        "cutoffs,": [
-          168
-        ],
-        "parameters": [
-          170
-        ],
-        "were": [
-          171,
-          188
-        ],
-        "evaluated.": [
-          172
-        ],
-        "estimated": [
-          174
-        ],
-        "values": [
-          175
-        ],
-        "effective": [
-          177
-        ],
-        "porosity,": [
-          178
-        ],
-        "thickness,": [
-          180
-        ],
-        "shale": [
-          181
-        ],
-        "volume,": [
-          182
-        ],
-        "water": [
-          184
-        ],
-        "saturation": [
-          187
-        ],
-        "15.04": [
-          189
-        ],
-        "%": [
-          190,
-          202,
-          208
-        ],
-        "17.29": [
-          192
-        ],
-        "%,": [
-          193,
-          205,
-          211
-        ],
-        "85.44": [
-          194
-        ],
-        "m": [
-          195
-        ],
-        "122.41": [
-          197
-        ],
-        "m,": [
-          198
-        ],
-        "8.99": [
-          199
-        ],
-        "14.87": [
-          201
-        ],
-        "12.97–27.10": [
-          204
-        ],
-        "72.9": [
-          207
-        ],
-        "87.03": [
-          210
-        ],
-        "respectively.": [
-          212
-        ],
-        "outcome": [
-          214
-        ],
-        "this": [
-          216,
-          223
-        ],
-        "extensive": [
-          217
-        ],
-        "research": [
-          218
-        ],
-        "aids": [
-          219
-        ],
-        "accurately": [
-          221
-        ],
-        "characterizing": [
-          222
-        ],
-        "future": [
-          227
-        ],
-        "prospectively": [
-          228
-        ],
-        "field.": [
-          231
-        ],
-        "can": [
-          235
-        ],
-        "applied": [
-          237
-        ],
-        "adapted": [
-          239
-        ],
-        "other": [
-          241
-        ],
-        "basins": [
-          242,
-          261
-        ],
-        "New": [
-          244
-        ],
-        "Zealand": [
-          245
-        ],
-        "southwestern": [
-          248
-        ],
-        "Pacific.": [
-          249
-        ],
-        "proposed": [
-          251
-        ],
-        "workflow": [
-          252
-        ],
-        "is": [
-          253
-        ],
-        "also": [
-          254
-        ],
-        "suitable": [
-          255
-        ],
-        "analogous": [
-          257
-        ],
-        "scenarios": [
-          258
-        ],
-        "various": [
-          260
-        ],
-        "worldwide.": [
-          262
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        }
-      ],
-      "updated_date": "2026-03-25T14:56:36.534964",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1988588474",
       "doi": "https://doi.org/10.1016/j.oregeorev.2013.02.008",
       "title": "Detection of hydrothermal mineralized zones associated with listwaenites in Central Oman using ASTER data",
@@ -19754,6 +18413,1347 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4395702789",
+      "doi": "https://doi.org/10.1016/j.jksus.2024.103221",
+      "title": "Integrated analysis of wireline logs analysis, seismic interpretation, and machine learning for reservoir characterisation: Insights from the late Eocene McKee Formation, onshore Taranaki Basin, New Zealand",
+      "display_name": "Integrated analysis of wireline logs analysis, seismic interpretation, and machine learning for reservoir characterisation: Insights from the late Eocene McKee Formation, onshore Taranaki Basin, New Zealand",
+      "publication_year": 2024,
+      "publication_date": "2024-04-27",
+      "ids": {
+        "openalex": "https://openalex.org/W4395702789",
+        "doi": "https://doi.org/10.1016/j.jksus.2024.103221"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jksus.2024.103221",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S163784168",
+          "display_name": "Journal of King Saud University - Science",
+          "issn_l": "1018-3647",
+          "issn": [
+            "1018-3647",
+            "2213-686X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of King Saud University - Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.jksus.2024.103221",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5093215591",
+            "display_name": "John Oluwadamilola Olutoki",
+            "orcid": "https://orcid.org/0009-0006-7660-1701"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "John Oluwadamilola Olutoki",
+          "raw_affiliation_strings": [
+            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032627421",
+            "display_name": "Numair Ahmed Siddiqui",
+            "orcid": "https://orcid.org/0000-0002-6703-0699"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Numair Ahmed Siddiqui",
+          "raw_affiliation_strings": [
+            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009594846",
+            "display_name": "AKM Eahsanul Haque",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "AKM Eahsanul Haque",
+          "raw_affiliation_strings": [
+            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008843127",
+            "display_name": "Oluwaseun Daniel Akinyemi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oluwaseun Daniel Akinyemi",
+          "raw_affiliation_strings": [
+            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Hassan Salisu Mohammed",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hassan Salisu Mohammed",
+          "raw_affiliation_strings": [
+            "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Excellence in Subsurface Seismic Imaging and Hydrocarbon Prediction, Department of Geoscience, Faculty of Geoscience & Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022637228",
+            "display_name": "Yasir Bashir",
+            "orcid": "https://orcid.org/0000-0002-4614-796X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I48912391",
+              "display_name": "Istanbul Technical University",
+              "ror": "https://ror.org/059636586",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I48912391"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yasir Bashir",
+          "raw_affiliation_strings": [
+            "Department of Geophysical Engineering, Faculty of Mines, İstanbul Technical University, İstanbul, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geophysical Engineering, Faculty of Mines, İstanbul Technical University, İstanbul, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I48912391"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A.K. El-Ghali",
+          "raw_affiliation_strings": [
+            "Earth Sciences Research Centre, Sultan Qaboos University, Al-Khoudh, Muscat, Oman"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Research Centre, Sultan Qaboos University, Al-Khoudh, Muscat, Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5093215591"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I203899302"
+      ],
+      "apc_list": {
+        "value": 1250,
+        "currency": "USD",
+        "value_usd": 1250
+      },
+      "apc_paid": {
+        "value": 1250,
+        "currency": "USD",
+        "value_usd": 1250
+      },
+      "fwci": 3.3718,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.92527446,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "36",
+        "issue": "6",
+        "first_page": "103221",
+        "last_page": "103221"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9972000122070312,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/wireline",
+          "display_name": "Wireline",
+          "score": 0.9740864038467407
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7125774621963501
+        },
+        {
+          "id": "https://openalex.org/keywords/interpretation",
+          "display_name": "Interpretation (philosophy)",
+          "score": 0.6608121991157532
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.6597505807876587
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.3489982485771179
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.21481123566627502
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.08685743808746338
+        },
+        {
+          "id": "https://openalex.org/keywords/programming-language",
+          "display_name": "Programming language",
+          "score": 0.04316791892051697
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776951270",
+          "wikidata": "https://www.wikidata.org/wiki/Q8026910",
+          "display_name": "Wireline",
+          "level": 3,
+          "score": 0.9740864038467407
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7125774621963501
+        },
+        {
+          "id": "https://openalex.org/C527412718",
+          "wikidata": "https://www.wikidata.org/wiki/Q855395",
+          "display_name": "Interpretation (philosophy)",
+          "level": 2,
+          "score": 0.6608121991157532
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.6597505807876587
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.3489982485771179
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.21481123566627502
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.08685743808746338
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.04316791892051697
+        },
+        {
+          "id": "https://openalex.org/C555944384",
+          "wikidata": "https://www.wikidata.org/wiki/Q249",
+          "display_name": "Wireless",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jksus.2024.103221",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S163784168",
+            "display_name": "Journal of King Saud University - Science",
+            "issn_l": "1018-3647",
+            "issn": [
+              "1018-3647",
+              "2213-686X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of King Saud University - Science",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:3b5817452bc0414fa76256e35029cc25",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/3b5817452bc0414fa76256e35029cc25",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of King Saud University: Science, Vol 36, Iss 6, Pp 103221- (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.jksus.2024.103221",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S163784168",
+          "display_name": "Journal of King Saud University - Science",
+          "issn_l": "1018-3647",
+          "issn": [
+            "1018-3647",
+            "2213-686X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of King Saud University - Science",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G7651314514",
+          "display_name": null,
+          "funder_award_id": "YUTP 015LCO-363",
+          "funder_id": "https://openalex.org/F4320323380",
+          "funder_display_name": "Universiti Teknologi Petronas"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323380",
+          "display_name": "Universiti Teknologi Petronas",
+          "ror": "https://ror.org/048g2sh07"
+        },
+        {
+          "id": "https://openalex.org/F4320329394",
+          "display_name": "Yayasan UTP",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W152424754",
+        "https://openalex.org/W1582780567",
+        "https://openalex.org/W1988954431",
+        "https://openalex.org/W2020128729",
+        "https://openalex.org/W2027123470",
+        "https://openalex.org/W2039581585",
+        "https://openalex.org/W2060579131",
+        "https://openalex.org/W2142102256",
+        "https://openalex.org/W2148228104",
+        "https://openalex.org/W2773450839",
+        "https://openalex.org/W2801382193",
+        "https://openalex.org/W2979492422",
+        "https://openalex.org/W3092388368",
+        "https://openalex.org/W3175239874",
+        "https://openalex.org/W3199468155",
+        "https://openalex.org/W3209514648",
+        "https://openalex.org/W4210874630",
+        "https://openalex.org/W4298146807",
+        "https://openalex.org/W4313260174",
+        "https://openalex.org/W4313441739",
+        "https://openalex.org/W4316038465",
+        "https://openalex.org/W4322012200",
+        "https://openalex.org/W4360980561",
+        "https://openalex.org/W4367673399",
+        "https://openalex.org/W4386846102",
+        "https://openalex.org/W4388459910",
+        "https://openalex.org/W4388567382",
+        "https://openalex.org/W6672678346",
+        "https://openalex.org/W6680941967",
+        "https://openalex.org/W6768330015",
+        "https://openalex.org/W6848750059",
+        "https://openalex.org/W6856731539",
+        "https://openalex.org/W6963944750",
+        "https://openalex.org/W7053331927"
+      ],
+      "related_works": [
+        "https://openalex.org/W2368190399",
+        "https://openalex.org/W4200241224",
+        "https://openalex.org/W2374510365",
+        "https://openalex.org/W1964703610",
+        "https://openalex.org/W2085787479",
+        "https://openalex.org/W2759444425",
+        "https://openalex.org/W4246159570",
+        "https://openalex.org/W2381888053",
+        "https://openalex.org/W2356623904",
+        "https://openalex.org/W2085986895"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          232
+        ],
+        "study": [
+          1,
+          234
+        ],
+        "aims": [
+          2
+        ],
+        "to": [
+          3,
+          40,
+          80,
+          86,
+          129,
+          150,
+          158,
+          191,
+          196,
+          200,
+          209,
+          240
+        ],
+        "integrate": [
+          4
+        ],
+        "seismic": [
+          5,
+          58,
+          74,
+          116
+        ],
+        "and": [
+          6,
+          11,
+          15,
+          62,
+          78,
+          99,
+          102,
+          154,
+          164,
+          183,
+          185,
+          203,
+          206,
+          238,
+          246
+        ],
+        "well": [
+          7
+        ],
+        "data": [
+          8,
+          75
+        ],
+        "for": [
+          9,
+          176,
+          225,
+          256
+        ],
+        "re-assessment": [
+          10
+        ],
+        "delineating": [
+          12
+        ],
+        "the": [
+          13,
+          19,
+          25,
+          45,
+          52,
+          55,
+          90,
+          103,
+          112,
+          115,
+          123,
+          134,
+          142,
+          146,
+          159,
+          226,
+          230,
+          247
+        ],
+        "geological": [
+          14
+        ],
+        "petrophysical": [
+          16,
+          169
+        ],
+        "characteristics": [
+          17
+        ],
+        "of": [
+          18,
+          57,
+          105,
+          122,
+          136,
+          161,
+          215,
+          229
+        ],
+        "Late": [
+          20
+        ],
+        "Eocene": [
+          21
+        ],
+        "McKee": [
+          22,
+          26
+        ],
+        "Formation.": [
+          23
+        ],
+        "Despite": [
+          24
+        ],
+        "Formation": [
+          27
+        ],
+        "being": [
+          28
+        ],
+        "a": [
+          29,
+          119,
+          152
+        ],
+        "hydrocarbon-producing": [
+          30
+        ],
+        "field,": [
+          31
+        ],
+        "there": [
+          32
+        ],
+        "have": [
+          33
+        ],
+        "been": [
+          34
+        ],
+        "no": [
+          35
+        ],
+        "previous": [
+          36
+        ],
+        "integrated": [
+          37,
+          233
+        ],
+        "studies": [
+          38
+        ],
+        "conducted": [
+          39
+        ],
+        "characterize": [
+          41
+        ],
+        "its": [
+          42
+        ],
+        "deposits": [
+          43
+        ],
+        "in": [
+          44,
+          141,
+          220,
+          243,
+          259
+        ],
+        "Taranaki": [
+          46
+        ],
+        "Basin.": [
+          47
+        ],
+        "To": [
+          48
+        ],
+        "execute": [
+          49
+        ],
+        "these": [
+          50
+        ],
+        "tasks,": [
+          51
+        ],
+        "process": [
+          53
+        ],
+        "involves": [
+          54
+        ],
+        "interpretation": [
+          56
+        ],
+        "data,": [
+          59
+        ],
+        "wireline": [
+          60,
+          143
+        ],
+        "analysis,": [
+          61,
+          145
+        ],
+        "3D": [
+          63
+        ],
+        "porosity": [
+          64
+        ],
+        "volume": [
+          65
+        ],
+        "prediction": [
+          66
+        ],
+        "using": [
+          67,
+          111
+        ],
+        "multi-layered": [
+          68
+        ],
+        "feed-forward": [
+          69
+        ],
+        "neural": [
+          70
+        ],
+        "network": [
+          71
+        ],
+        "models.": [
+          72
+        ],
+        "The": [
+          73,
+          173,
+          213,
+          250
+        ],
+        "was": [
+          76,
+          94,
+          109,
+          148
+        ],
+        "interpreted": [
+          77
+        ],
+        "found": [
+          79,
+          149
+        ],
+        "contain": [
+          81
+        ],
+        "low": [
+          82,
+          128
+        ],
+        "displacement": [
+          83
+        ],
+        "faults": [
+          84
+        ],
+        "due": [
+          85
+        ],
+        "intricate": [
+          87
+        ],
+        "geometric": [
+          88
+        ],
+        "complexities,": [
+          89
+        ],
+        "contour": [
+          91
+        ],
+        "map": [
+          92
+        ],
+        "that": [
+          93
+        ],
+        "generated": [
+          95
+        ],
+        "shows": [
+          96
+        ],
+        "lateral": [
+          97
+        ],
+        "extension": [
+          98
+        ],
+        "thickness": [
+          100
+        ],
+        "variation,": [
+          101
+        ],
+        "region": [
+          104,
+          224
+        ],
+        "direct": [
+          106
+        ],
+        "hydrocarbon": [
+          107,
+          186
+        ],
+        "indicators": [
+          108
+        ],
+        "detected": [
+          110
+        ],
+        "root-mean-square.": [
+          113
+        ],
+        "Additionally,": [
+          114
+        ],
+        "inversion": [
+          117
+        ],
+        "provides": [
+          118
+        ],
+        "comprehensive": [
+          120
+        ],
+        "understanding": [
+          121
+        ],
+        "acoustic": [
+          124
+        ],
+        "impedance": [
+          125
+        ],
+        "variations": [
+          126
+        ],
+        "from": [
+          127
+        ],
+        "high": [
+          130
+        ],
+        "value,": [
+          131
+        ],
+        "which": [
+          132
+        ],
+        "signifies": [
+          133
+        ],
+        "presence": [
+          135,
+          160
+        ],
+        "mudstone": [
+          137
+        ],
+        "clasts": [
+          138
+        ],
+        "content.": [
+          139
+        ],
+        "Furthermore,": [
+          140
+        ],
+        "log": [
+          144
+        ],
+        "reservoir": [
+          147,
+          179
+        ],
+        "be": [
+          151,
+          236
+        ],
+        "Silici-clastic": [
+          153
+        ],
+        "carbonate": [
+          155
+        ],
+        "field": [
+          156
+        ],
+        "owing": [
+          157
+        ],
+        "dolomite,": [
+          162
+        ],
+        "calcite,": [
+          163
+        ],
+        "quartz.": [
+          165
+        ],
+        "After": [
+          166
+        ],
+        "applying": [
+          167
+        ],
+        "cutoffs,": [
+          168
+        ],
+        "parameters": [
+          170
+        ],
+        "were": [
+          171,
+          188
+        ],
+        "evaluated.": [
+          172
+        ],
+        "estimated": [
+          174
+        ],
+        "values": [
+          175
+        ],
+        "effective": [
+          177
+        ],
+        "porosity,": [
+          178
+        ],
+        "thickness,": [
+          180
+        ],
+        "shale": [
+          181
+        ],
+        "volume,": [
+          182
+        ],
+        "water": [
+          184
+        ],
+        "saturation": [
+          187
+        ],
+        "15.04": [
+          189
+        ],
+        "%": [
+          190,
+          202,
+          208
+        ],
+        "17.29": [
+          192
+        ],
+        "%,": [
+          193,
+          205,
+          211
+        ],
+        "85.44": [
+          194
+        ],
+        "m": [
+          195
+        ],
+        "122.41": [
+          197
+        ],
+        "m,": [
+          198
+        ],
+        "8.99": [
+          199
+        ],
+        "14.87": [
+          201
+        ],
+        "12.97–27.10": [
+          204
+        ],
+        "72.9": [
+          207
+        ],
+        "87.03": [
+          210
+        ],
+        "respectively.": [
+          212
+        ],
+        "outcome": [
+          214
+        ],
+        "this": [
+          216,
+          223
+        ],
+        "extensive": [
+          217
+        ],
+        "research": [
+          218
+        ],
+        "aids": [
+          219
+        ],
+        "accurately": [
+          221
+        ],
+        "characterizing": [
+          222
+        ],
+        "future": [
+          227
+        ],
+        "prospectively": [
+          228
+        ],
+        "field.": [
+          231
+        ],
+        "can": [
+          235
+        ],
+        "applied": [
+          237
+        ],
+        "adapted": [
+          239
+        ],
+        "other": [
+          241
+        ],
+        "basins": [
+          242,
+          261
+        ],
+        "New": [
+          244
+        ],
+        "Zealand": [
+          245
+        ],
+        "southwestern": [
+          248
+        ],
+        "Pacific.": [
+          249
+        ],
+        "proposed": [
+          251
+        ],
+        "workflow": [
+          252
+        ],
+        "is": [
+          253
+        ],
+        "also": [
+          254
+        ],
+        "suitable": [
+          255
+        ],
+        "analogous": [
+          257
+        ],
+        "scenarios": [
+          258
+        ],
+        "various": [
+          260
+        ],
+        "worldwide.": [
+          262
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2026-04-17T18:11:37.981687",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4313419763",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106066",
       "title": "Microfacies and depositional model of the Lower Mahil Formation (outcrop Khuff-equivalent (KS-1)) in Jabal Akhdar, Northern Oman: Implications for reservoir characterization",
@@ -24065,8 +24065,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5086779337",
-            "display_name": "Ahmed Al-Fahdi",
+            "id": null,
+            "display_name": "Abdullah Al-Fahdi",
             "orcid": null
           },
           "institutions": [
@@ -24246,9 +24246,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086779337"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I47818738"
       ],
@@ -24258,11 +24256,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 8.2042,
+      "fwci": 7.6998,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.96864921,
+        "value": 0.96602899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24630,7 +24628,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-17T18:11:37.981687",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44349,11 +44347,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 7.7185,
+      "fwci": 7.6998,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.9600692,
+        "value": 0.95997509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -44737,7 +44735,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-04-16T15:07:20.185449",
+      "updated_date": "2026-04-17T18:11:37.981687",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68741,7 +68739,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23701681,
+        "value": 0.23700412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69659,7 +69657,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-16T15:07:20.185449",
+      "updated_date": "2026-04-17T18:11:37.981687",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77699,8 +77697,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5086393512",
-            "display_name": "Ibrahim S. Ahmed",
+            "id": null,
+            "display_name": "Iftikhar Ahmed",
             "orcid": null
           },
           "institutions": [
@@ -77857,7 +77855,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42395437,
+        "value": 0.40495868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78207,7 +78205,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-17T18:11:37.981687",
       "created_date": "2025-10-30T00:00:00"
     },
     {
