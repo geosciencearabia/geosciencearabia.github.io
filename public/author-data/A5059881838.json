@@ -27688,11 +27688,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.7111,
+      "fwci": 6.7108,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95916647,
+        "value": 0.95917138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28281,6 +28281,13 @@
         }
       ],
       "awards": [
+        {
+          "id": "https://openalex.org/G2087396116",
+          "display_name": null,
+          "funder_award_id": "China",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
         {
           "id": "https://openalex.org/G3317480652",
           "display_name": null,
@@ -29086,7 +29093,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-04-18T07:56:08.524223",
       "created_date": "2025-10-10T00:00:00"
     },
     {

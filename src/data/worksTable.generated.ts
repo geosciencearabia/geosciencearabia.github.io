@@ -7761,8 +7761,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-11-01",
     "year": 2015,
     "venue": "Nature",
-    "citations": 471,
-    "fwci": 24.682,
+    "citations": 472,
+    "fwci": 24.6828,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -7800,8 +7800,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2012-05-17",
     "year": 2012,
     "venue": "Lithosphere",
-    "citations": 451,
-    "fwci": 11.6691,
+    "citations": 453,
+    "fwci": 11.7068,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -7832,8 +7832,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-04-26",
     "year": 2011,
     "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 417,
-    "fwci": 12.0607,
+    "citations": 419,
+    "fwci": 12.1004,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -7842,6 +7842,92 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Smithsonian Tropical Research Institute",
       "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2904082105",
+    "doi": "https://doi.org/10.1029/2018gc007731",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5064788534",
+      "A5018815834",
+      "A5035575657",
+      "A5013976612",
+      "A5107656345",
+      "A5067901321",
+      "A5059778018",
+      "A5062915518",
+      "A5081444035",
+      "A5043114681",
+      "A5029740838",
+      "A5034527051",
+      "A5010910479",
+      "A5086919759",
+      "A5037898760",
+      "A5032601901",
+      "A5091663361",
+      "A5047400113"
+    ],
+    "firstAuthorLastName": "Shervais",
+    "allAuthors": [
+      "John W. Shervais",
+      "Mark K. Reagan",
+      "Emily Haugen",
+      "Renat Almeev",
+      "Julian A. Pearce",
+      "Julie Prytulak",
+      "Jeffrey G. Ryan",
+      "Scott Whattam",
+      "Marguerite Godard",
+      "Timothy Chapman",
+      "Hongyan Li",
+      "Walter Kurz",
+      "Wendy R. Nelson",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Kenji Shimizu",
+      "Tetsuya Sakuyama",
+      "Yibing Li",
+      "Scott K. Vetter"
+    ],
+    "title": "Magmatic Response to Subduction Initiation: Part 1. Fore‐arc Basalts of the Izu‐Bonin Arc From IODP Expedition 352",
+    "publicationDate": "2018-12-19",
+    "year": 2018,
+    "venue": "Geochemistry Geophysics Geosystems",
+    "citations": 191,
+    "fwci": 15.8438,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Utah State University",
+      "University of Iowa",
+      "California State University, Sacramento",
+      "Leibniz University Hannover",
+      "Cardiff University",
+      "Durham University",
+      "University of South Florida",
+      "King Fahd University of Petroleum and Minerals",
+      "Centre National de la Recherche Scientifique",
+      "Université de Montpellier",
+      "Géosciences Montpellier",
+      "The University of Sydney",
+      "Chinese Academy of Sciences",
+      "Guangzhou Institute of Geochemistry",
+      "University of Graz",
+      "Nawi Graz",
+      "Towson University",
+      "Oregon State University",
+      "University of Cologne",
+      "Japan Agency for Marine-Earth Science and Technology",
+      "Osaka Health Science University",
+      "The University of Osaka",
+      "Chinese Academy of Geological Sciences",
+      "Centenary College of Louisiana"
     ]
   },
   {
@@ -7960,92 +8046,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2904082105",
-    "doi": "https://doi.org/10.1029/2018gc007731",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5064788534",
-      "A5018815834",
-      "A5035575657",
-      "A5013976612",
-      "A5107656345",
-      "A5067901321",
-      "A5059778018",
-      "A5062915518",
-      "A5081444035",
-      "A5043114681",
-      "A5029740838",
-      "A5034527051",
-      "A5010910479",
-      "A5086919759",
-      "A5037898760",
-      "A5032601901",
-      "A5091663361",
-      "A5047400113"
-    ],
-    "firstAuthorLastName": "Shervais",
-    "allAuthors": [
-      "John W. Shervais",
-      "Mark K. Reagan",
-      "Emily Haugen",
-      "Renat Almeev",
-      "Julian A. Pearce",
-      "Julie Prytulak",
-      "Jeffrey G. Ryan",
-      "Scott Whattam",
-      "Marguerite Godard",
-      "Timothy Chapman",
-      "Hongyan Li",
-      "Walter Kurz",
-      "Wendy R. Nelson",
-      "Daniel E. Heaton",
-      "Maria Kirchenbaur",
-      "Kenji Shimizu",
-      "Tetsuya Sakuyama",
-      "Yibing Li",
-      "Scott K. Vetter"
-    ],
-    "title": "Magmatic Response to Subduction Initiation: Part 1. Fore‐arc Basalts of the Izu‐Bonin Arc From IODP Expedition 352",
-    "publicationDate": "2018-12-19",
-    "year": 2018,
-    "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 190,
-    "fwci": 15.8445,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Utah State University",
-      "University of Iowa",
-      "California State University, Sacramento",
-      "Leibniz University Hannover",
-      "Cardiff University",
-      "Durham University",
-      "University of South Florida",
-      "King Fahd University of Petroleum and Minerals",
-      "Centre National de la Recherche Scientifique",
-      "Université de Montpellier",
-      "Géosciences Montpellier",
-      "The University of Sydney",
-      "Chinese Academy of Sciences",
-      "Guangzhou Institute of Geochemistry",
-      "University of Graz",
-      "Nawi Graz",
-      "Towson University",
-      "Oregon State University",
-      "University of Cologne",
-      "Japan Agency for Marine-Earth Science and Technology",
-      "Osaka Health Science University",
-      "The University of Osaka",
-      "Chinese Academy of Geological Sciences",
-      "Centenary College of Louisiana"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2070782043",
     "doi": "https://doi.org/10.1016/j.gr.2014.07.011",
     "program": "",
@@ -8127,8 +8127,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-17",
     "year": 2020,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 96,
-    "fwci": 9.7193,
+    "citations": 97,
+    "fwci": 9.7195,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -8951,8 +8951,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-05-21",
     "year": 2019,
     "venue": "Nature Communications",
-    "citations": 39,
-    "fwci": 5.25,
+    "citations": 40,
+    "fwci": 5.2486,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -24298,7 +24298,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3889,
+    "fwci": 1.389,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -24696,7 +24696,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 9,
-    "fwci": 1.4124,
+    "fwci": 1.4125,
     "topics": [
       "Geological formations and processes",
       "Geology and Paleoclimatology Research",
@@ -25421,7 +25421,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.237,
+    "fwci": 2.2369,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -32098,7 +32098,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Scientific Reports",
     "citations": 13,
-    "fwci": 6.7111,
+    "fwci": 6.7108,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -48926,8 +48926,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-06-16",
     "year": 2023,
     "venue": "Chemosphere",
-    "citations": 68,
-    "fwci": 7.7414,
+    "citations": 69,
+    "fwci": 7.777,
     "topics": [
       "Fluoride Effects and Removal",
       "Groundwater and Isotope Geochemistry"
@@ -50279,7 +50279,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 1,
-    "fwci": 0.7333,
+    "fwci": 0.7296,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -67769,8 +67769,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-10-10",
     "year": 2019,
     "venue": "",
-    "citations": 28,
-    "fwci": 4.6949,
+    "citations": 29,
+    "fwci": 4.7561,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "NMR spectroscopy and applications",
@@ -69208,7 +69208,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5934,
+    "fwci": 18.5929,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -69312,8 +69312,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-09-01",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 56,
-    "fwci": 14.5533,
+    "citations": 57,
+    "fwci": 14.5612,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -70040,7 +70040,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.7497,
+    "fwci": 3.7496,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -74475,6 +74475,54 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4411625917",
+    "doi": "https://doi.org/10.1016/j.cub.2025.06.006",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039734802",
+    "allAuthorOpenAlexIds": [
+      "A5039734802",
+      "A5001052278",
+      "A5060032483",
+      "A5036217481",
+      "A5027418132",
+      "A5085007251",
+      "A5058862006",
+      "A5088439801",
+      "A5061005201"
+    ],
+    "firstAuthorLastName": "Singh",
+    "allAuthors": [
+      "Pulkit Singh",
+      "Jordan Ferré",
+      "Bridget Thrasher",
+      "Pedro M. Monarrez",
+      "Khalid Al‐Ramadan",
+      "Dave L. Cantrell",
+      "Daniel J. Lehrmann",
+      "Michele Morsilli",
+      "Jonathan L. Payne"
+    ],
+    "title": "Macroevolutionary coupling of marine biomass and biodiversity across the Phanerozoic",
+    "publicationDate": "2025-06-25",
+    "year": 2025,
+    "venue": "Current Biology",
+    "citations": 2,
+    "fwci": 7.8046,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Planetary Science Institute",
+      "Stanford University",
+      "Virginia Tech",
+      "King Fahd University of Petroleum and Minerals",
+      "Trinity University",
+      "University of Ferrara"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2768709882",
     "doi": "https://doi.org/10.1144/petgeo2017-052",
     "program": "",
@@ -74555,54 +74603,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Wisconsin–Green Bay",
       "Pennsylvania State University",
       "Guizhou University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4411625917",
-    "doi": "https://doi.org/10.1016/j.cub.2025.06.006",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039734802",
-    "allAuthorOpenAlexIds": [
-      "A5039734802",
-      "A5001052278",
-      "A5060032483",
-      "A5036217481",
-      "A5027418132",
-      "A5085007251",
-      "A5058862006",
-      "A5088439801",
-      "A5061005201"
-    ],
-    "firstAuthorLastName": "Singh",
-    "allAuthors": [
-      "Pulkit Singh",
-      "Jordan Ferré",
-      "Bridget Thrasher",
-      "Pedro M. Monarrez",
-      "Khalid Al‐Ramadan",
-      "Dave L. Cantrell",
-      "Daniel J. Lehrmann",
-      "Michele Morsilli",
-      "Jonathan L. Payne"
-    ],
-    "title": "Macroevolutionary coupling of marine biomass and biodiversity across the Phanerozoic",
-    "publicationDate": "2025-06-25",
-    "year": 2025,
-    "venue": "Current Biology",
-    "citations": 1,
-    "fwci": 4.0897,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geophysical Studies",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "Planetary Science Institute",
-      "Stanford University",
-      "Virginia Tech",
-      "King Fahd University of Petroleum and Minerals",
-      "Trinity University",
-      "University of Ferrara"
     ]
   },
   {
@@ -77241,7 +77241,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Episodes",
     "citations": 18,
-    "fwci": 4.4485,
+    "fwci": 4.4493,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration",
@@ -77470,7 +77470,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 2,
-    "fwci": 2.4079,
+    "fwci": 2.378,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Evolution and Paleontology Studies",
@@ -86572,7 +86572,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1554,
+    "fwci": 32.1586,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -86977,7 +86977,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.8727,
+    "fwci": 2.8728,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87261,8 +87261,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3366,
-    "fwci": 71.873,
+    "citations": 3368,
+    "fwci": 71.8858,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -87348,8 +87348,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 771,
-    "fwci": 24.9963,
+    "citations": 772,
+    "fwci": 24.99,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -87847,8 +87847,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-05-31",
     "year": 2022,
     "venue": "Earth-Science Reviews",
-    "citations": 186,
-    "fwci": 31.3917,
+    "citations": 187,
+    "fwci": 31.3914,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -88856,7 +88856,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 78,
-    "fwci": 5.69,
+    "fwci": 5.6902,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89535,8 +89535,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-02-07",
     "year": 2024,
     "venue": "Geology",
-    "citations": 24,
-    "fwci": 12.3777,
+    "citations": 25,
+    "fwci": 12.8356,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -90552,6 +90552,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2738122598",
+    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5031810631",
+      "A5064936522",
+      "A5057911678",
+      "A5110504212",
+      "A5060667788"
+    ],
+    "firstAuthorLastName": "Song",
+    "allAuthors": [
+      "Dongfang Song",
+      "Wenjiao Xiao",
+      "Alan S. Collins",
+      "Stijn Glorie",
+      "Chunming Han",
+      "Yongchen Li"
+    ],
+    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
+    "publicationDate": "2017-07-19",
+    "year": 2017,
+    "venue": "Precambrian Research",
+    "citations": 68,
+    "fwci": 4.5521,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Sciences",
+      "Institute of Geology and Geophysics",
+      "University of Adelaide",
+      "Center for Excellence in Tibetan Plateau Earth Sciences",
+      "Xinjiang Institute of Ecology and Geography"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2021882539",
     "doi": "https://doi.org/10.1016/j.gr.2011.04.011",
     "program": "",
@@ -90581,47 +90622,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Adelaide",
       "Universidade de São Paulo"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2738122598",
-    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5031810631",
-      "A5064936522",
-      "A5057911678",
-      "A5110504212",
-      "A5060667788"
-    ],
-    "firstAuthorLastName": "Song",
-    "allAuthors": [
-      "Dongfang Song",
-      "Wenjiao Xiao",
-      "Alan S. Collins",
-      "Stijn Glorie",
-      "Chunming Han",
-      "Yongchen Li"
-    ],
-    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
-    "publicationDate": "2017-07-19",
-    "year": 2017,
-    "venue": "Precambrian Research",
-    "citations": 67,
-    "fwci": 4.5229,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Sciences",
-      "Institute of Geology and Geophysics",
-      "University of Adelaide",
-      "Center for Excellence in Tibetan Plateau Earth Sciences",
-      "Xinjiang Institute of Ecology and Geography"
     ]
   },
   {
@@ -92451,7 +92451,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 29,
-    "fwci": 8.0073,
+    "fwci": 7.9862,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -118167,7 +118167,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Biogeochemistry",
     "citations": 5,
-    "fwci": 7.9082,
+    "fwci": 7.8176,
     "topics": [
       "Coastal wetland ecosystem dynamics",
       "Geology and Paleoclimatology Research",
@@ -119134,7 +119134,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geo-Bio Interfaces",
     "citations": 2,
-    "fwci": 4.4855,
+    "fwci": 4.4301,
     "topics": [
       "Coastal and Marine Management",
       "Coastal wetland ecosystem dynamics",
@@ -130687,6 +130687,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W8606722",
+    "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5073534648",
+      "A5103919369",
+      "A5021417075",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Alméras",
+    "allAuthors": [
+      "Yves Alméras",
+      "Philippe Fauré",
+      "Serge Elmi",
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "Geobios",
+    "citations": 17,
+    "fwci": 12.6244,
+    "topics": [
+      "Pleistocene-Era Hominins and Archaeology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Toulouse III - Paul Sabatier"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W270704681",
     "doi": "",
     "program": "",
@@ -131321,43 +131358,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W8606722",
-    "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5084630459",
-    "allAuthorOpenAlexIds": [
-      "A5084630459",
-      "A5073534648",
-      "A5103919369",
-      "A5021417075",
-      "A5113658841"
-    ],
-    "firstAuthorLastName": "Alméras",
-    "allAuthors": [
-      "Yves Alméras",
-      "Philippe Fauré",
-      "Serge Elmi",
-      "Raymond Énay",
-      "Charles Mangold"
-    ],
-    "title": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
-    "publicationDate": "2007-01-01",
-    "year": 2007,
-    "venue": "Geobios",
-    "citations": 16,
-    "fwci": 12.5726,
-    "topics": [
-      "Pleistocene-Era Hominins and Archaeology",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geophysical Studies Worldwide"
-    ],
-    "institutions": [
-      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-      "Université Claude Bernard Lyon 1",
-      "Université Toulouse III - Paul Sabatier"
-    ]
   },
   {
     "workId": "https://openalex.org/W1560373638",
@@ -138156,7 +138156,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-01-01",
     "year": 2004,
     "venue": "Developments in precambrian geology",
-    "citations": 321,
+    "citations": 322,
     "fwci": 6.2528,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -138369,6 +138369,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2952598493",
+    "doi": "https://doi.org/10.1016/j.gr.2019.06.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5056332242",
+      "A5082538179",
+      "A5015557176"
+    ],
+    "firstAuthorLastName": "Zoheir",
+    "allAuthors": [
+      "Basem Zoheir",
+      "Peter R. Johnson",
+      "Richard J. Goldfarb",
+      "Dietrich D. Klemm"
+    ],
+    "title": "Orogenic gold in the Egyptian Eastern Desert: Widespread gold mineralization in the late stages of Neoproterozoic orogeny",
+    "publicationDate": "2019-06-18",
+    "year": 2019,
+    "venue": "Gondwana Research",
+    "citations": 96,
+    "fwci": 7.1926,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Kiel University",
+      "Benha University",
+      "Wild Salmon Center",
+      "China University of Geosciences (Beijing)",
+      "Ludwig-Maximilians-Universität München"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2013617939",
     "doi": "https://doi.org/10.1007/s00531-009-0427-3",
     "program": "",
@@ -138405,43 +138442,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2952598493",
-    "doi": "https://doi.org/10.1016/j.gr.2019.06.002",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103098706",
-    "allAuthorOpenAlexIds": [
-      "A5103098706",
-      "A5056332242",
-      "A5082538179",
-      "A5015557176"
-    ],
-    "firstAuthorLastName": "Zoheir",
-    "allAuthors": [
-      "Basem Zoheir",
-      "Peter R. Johnson",
-      "Richard J. Goldfarb",
-      "Dietrich D. Klemm"
-    ],
-    "title": "Orogenic gold in the Egyptian Eastern Desert: Widespread gold mineralization in the late stages of Neoproterozoic orogeny",
-    "publicationDate": "2019-06-18",
-    "year": 2019,
-    "venue": "Gondwana Research",
-    "citations": 95,
-    "fwci": 7.1918,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Kiel University",
-      "Benha University",
-      "Wild Salmon Center",
-      "China University of Geosciences (Beijing)",
-      "Ludwig-Maximilians-Universität München"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2766757858",
     "doi": "https://doi.org/10.25131/gssajg.120.1.63",
     "program": "",
@@ -138467,8 +138467,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-03-01",
     "year": 2017,
     "venue": "South African Journal of Geology",
-    "citations": 88,
-    "fwci": 4.732,
+    "citations": 89,
+    "fwci": 4.7797,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
