@@ -11,7 +11,7 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 72,
-    "cited_by_count": 990,
+    "cited_by_count": 991,
     "summary_stats": {
       "2yr_mean_citedness": 4.851851851851852,
       "h_index": 20,
@@ -320,7 +320,7 @@
         "year": 2022,
         "works_count": 11,
         "oa_works_count": 9,
-        "cited_by_count": 345
+        "cited_by_count": 346
       },
       {
         "year": 2023,
@@ -349,7 +349,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-04-18T12:23:12",
+    "updated_date": "2026-04-21T12:23:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1358,8 +1358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -2221,9 +2221,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -2235,8 +2235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308105876.pdf",
@@ -3623,9 +3623,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -3647,8 +3647,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -4536,16 +4536,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -5219,8 +5219,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -6086,8 +6086,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -7499,8 +7499,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -8724,16 +8724,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4304806286.pdf",
@@ -10027,16 +10027,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -11548,8 +11548,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -12694,16 +12694,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -13601,9 +13601,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [
@@ -13628,8 +13628,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382136343.pdf"
@@ -15344,8 +15344,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -16773,9 +16773,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.550000011920929
         }
       ],
       "awards": [
@@ -16795,8 +16795,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386774596.pdf"
@@ -17489,8 +17489,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399208527.pdf"
@@ -18580,9 +18580,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -18594,8 +18594,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -19432,8 +19432,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -20334,8 +20334,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -21790,8 +21790,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4212839989.pdf",
@@ -22943,9 +22943,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -22962,8 +22962,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -23830,9 +23830,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -23844,8 +23844,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939371353.pdf",
@@ -25039,9 +25039,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -25053,8 +25053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3179531231.pdf",
@@ -26518,8 +26518,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213328516.pdf",
@@ -27802,9 +27802,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -27824,8 +27824,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362580681.pdf"
@@ -29062,16 +29062,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -30028,16 +30028,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -30632,16 +30632,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -32028,16 +32028,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399584810.pdf"
@@ -33562,9 +33562,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -33589,8 +33589,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386365539.pdf"
@@ -34936,16 +34936,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -36224,9 +36224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -36238,8 +36238,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -37006,16 +37006,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -37717,9 +37717,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -37739,8 +37739,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -37869,6 +37869,1640 @@
       ],
       "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4416556497",
+      "doi": "https://doi.org/10.1080/10106049.2025.2586775",
+      "title": "Urban expansion and warming jointly amplify drought and surface heat island effects",
+      "display_name": "Urban expansion and warming jointly amplify drought and surface heat island effects",
+      "publication_year": 2025,
+      "publication_date": "2025-11-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4416556497",
+        "doi": "https://doi.org/10.1080/10106049.2025.2586775"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/10106049.2025.2586775",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106004775",
+          "display_name": "Geocarto International",
+          "issn_l": "1010-6049",
+          "issn": [
+            "1010-6049",
+            "1752-0762"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geocarto International",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1080/10106049.2025.2586775",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036616600",
+            "display_name": "Mahfuzur Rahman",
+            "orcid": "https://orcid.org/0000-0001-8402-156X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mahfuzur Rahman",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036616600",
+            "display_name": "Mahfuzur Rahman",
+            "orcid": "https://orcid.org/0000-0001-8402-156X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "KR",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mahfuzur Rahman",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+            "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5095780465",
+            "display_name": "Zulfiqar Hammad",
+            "orcid": "https://orcid.org/0009-0003-6260-9313"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Zulfiqar Hammad",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Kunsan National University",
+            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025618130",
+            "display_name": "Hyeong-Joo Kim",
+            "orcid": "https://orcid.org/0000-0003-1365-6992"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hyeong-Joo Kim",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Kunsan National University",
+            "Renewable Energy Research Institute, Kunsan National University",
+            "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "SeokJae Lee",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "SeokJae Lee",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Kunsan National University",
+            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057920339",
+            "display_name": "Tae-Woong Park",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tae-Woong Park",
+          "raw_affiliation_strings": [
+            "Renewable Energy Research Institute, Kunsan National University",
+            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024020559",
+            "display_name": "Hyeong-Soo Kim",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120158604",
+              "display_name": "Kunsan National University",
+              "ror": "https://ror.org/02yj55q56",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "KR",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hyeong-Soo Kim",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Kunsan National University",
+            "Renewable Energy Research Institute, Kunsan National University",
+            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
+              "institution_ids": [
+                "https://openalex.org/I120158604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014606576",
+            "display_name": "Md Masudur Rahman",
+            "orcid": "https://orcid.org/0000-0001-5546-0491"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Md Masudur Rahman",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+            "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014606576",
+            "display_name": "Md Masudur Rahman",
+            "orcid": "https://orcid.org/0000-0001-5546-0491"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md Masudur Rahman",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109707707",
+            "display_name": "Md Anuwer Hossain",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md Anuwer Hossain",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT)",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT)",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030371811",
+            "display_name": "Isam H. Aljundi",
+            "orcid": "https://orcid.org/0000-0002-0714-8580"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam H. Aljundi",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5014606576",
+        "https://openalex.org/A5036616600",
+        "https://openalex.org/A5095780465"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I120158604",
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210132231"
+      ],
+      "apc_list": {
+        "value": 3265,
+        "currency": "AUD",
+        "value_usd": 2390
+      },
+      "apc_paid": {
+        "value": 3265,
+        "currency": "AUD",
+        "value_usd": 2390
+      },
+      "fwci": 1.4374,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.83566411,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "40",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10766",
+        "display_name": "Urban Heat Island Mitigation",
+        "score": 0.9577000141143799,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10766",
+          "display_name": "Urban Heat Island Mitigation",
+          "score": 0.9577000141143799,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10266",
+          "display_name": "Plant Water Relations and Carbon Dynamics",
+          "score": 0.006399999838322401,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11333",
+          "display_name": "Climate change and permafrost",
+          "score": 0.004800000227987766,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/urban-heat-island",
+          "display_name": "Urban heat island",
+          "score": 0.7203999757766724
+        },
+        {
+          "id": "https://openalex.org/keywords/urbanization",
+          "display_name": "Urbanization",
+          "score": 0.6585999727249146
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.6237999796867371
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-model",
+          "display_name": "Climate model",
+          "score": 0.43220001459121704
+        },
+        {
+          "id": "https://openalex.org/keywords/baseline",
+          "display_name": "Baseline (sea)",
+          "score": 0.41920000314712524
+        },
+        {
+          "id": "https://openalex.org/keywords/warning-system",
+          "display_name": "Warning system",
+          "score": 0.41530001163482666
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-climate",
+          "display_name": "Urban climate",
+          "score": 0.3824000060558319
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-expansion",
+          "display_name": "Urban expansion",
+          "score": 0.37369999289512634
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C54005896",
+          "wikidata": "https://www.wikidata.org/wiki/Q215712",
+          "display_name": "Urban heat island",
+          "level": 2,
+          "score": 0.7203999757766724
+        },
+        {
+          "id": "https://openalex.org/C49204034",
+          "wikidata": "https://www.wikidata.org/wiki/Q52139",
+          "display_name": "Climatology",
+          "level": 1,
+          "score": 0.6859999895095825
+        },
+        {
+          "id": "https://openalex.org/C39853841",
+          "wikidata": "https://www.wikidata.org/wiki/Q161078",
+          "display_name": "Urbanization",
+          "level": 2,
+          "score": 0.6585999727249146
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.6327000260353088
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.6237999796867371
+        },
+        {
+          "id": "https://openalex.org/C168754636",
+          "wikidata": "https://www.wikidata.org/wiki/Q620920",
+          "display_name": "Climate model",
+          "level": 3,
+          "score": 0.43220001459121704
+        },
+        {
+          "id": "https://openalex.org/C12725497",
+          "wikidata": "https://www.wikidata.org/wiki/Q810247",
+          "display_name": "Baseline (sea)",
+          "level": 2,
+          "score": 0.41920000314712524
+        },
+        {
+          "id": "https://openalex.org/C29825287",
+          "wikidata": "https://www.wikidata.org/wiki/Q1427940",
+          "display_name": "Warning system",
+          "level": 2,
+          "score": 0.41530001163482666
+        },
+        {
+          "id": "https://openalex.org/C158049464",
+          "wikidata": "https://www.wikidata.org/wiki/Q1075337",
+          "display_name": "Urban climate",
+          "level": 3,
+          "score": 0.3824000060558319
+        },
+        {
+          "id": "https://openalex.org/C2984674859",
+          "wikidata": "https://www.wikidata.org/wiki/Q192042",
+          "display_name": "Urban expansion",
+          "level": 3,
+          "score": 0.37369999289512634
+        },
+        {
+          "id": "https://openalex.org/C115343472",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Global warming",
+          "level": 3,
+          "score": 0.3675999939441681
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3580000102519989
+        },
+        {
+          "id": "https://openalex.org/C134097258",
+          "wikidata": "https://www.wikidata.org/wiki/Q1507383",
+          "display_name": "Sea surface temperature",
+          "level": 2,
+          "score": 0.34470000863075256
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.34290000796318054
+        },
+        {
+          "id": "https://openalex.org/C4792198",
+          "wikidata": "https://www.wikidata.org/wiki/Q1165944",
+          "display_name": "Land use",
+          "level": 2,
+          "score": 0.33079999685287476
+        },
+        {
+          "id": "https://openalex.org/C2779296788",
+          "wikidata": "https://www.wikidata.org/wiki/Q5326904",
+          "display_name": "Early warning system",
+          "level": 3,
+          "score": 0.32100000977516174
+        },
+        {
+          "id": "https://openalex.org/C158709400",
+          "wikidata": "https://www.wikidata.org/wiki/Q3578586",
+          "display_name": "Spatial ecology",
+          "level": 2,
+          "score": 0.3037000000476837
+        },
+        {
+          "id": "https://openalex.org/C2983363897",
+          "wikidata": "https://www.wikidata.org/wiki/Q845339",
+          "display_name": "Air temperature",
+          "level": 2,
+          "score": 0.29760000109672546
+        },
+        {
+          "id": "https://openalex.org/C139807058",
+          "wikidata": "https://www.wikidata.org/wiki/Q352374",
+          "display_name": "Adaptation (eye)",
+          "level": 2,
+          "score": 0.2971999943256378
+        },
+        {
+          "id": "https://openalex.org/C2994323764",
+          "wikidata": "https://www.wikidata.org/wiki/Q909741",
+          "display_name": "Surface air temperature",
+          "level": 3,
+          "score": 0.2759000062942505
+        },
+        {
+          "id": "https://openalex.org/C2993220731",
+          "wikidata": "https://www.wikidata.org/wiki/Q215864",
+          "display_name": "Heat wave",
+          "level": 3,
+          "score": 0.2736999988555908
+        },
+        {
+          "id": "https://openalex.org/C41156917",
+          "wikidata": "https://www.wikidata.org/wiki/Q682831",
+          "display_name": "Downscaling",
+          "level": 3,
+          "score": 0.2653000056743622
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.25760000944137573
+        },
+        {
+          "id": "https://openalex.org/C2777774347",
+          "wikidata": "https://www.wikidata.org/wiki/Q841083",
+          "display_name": "Sea level rise",
+          "level": 3,
+          "score": 0.2563999891281128
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1080/10106049.2025.2586775",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106004775",
+            "display_name": "Geocarto International",
+            "issn_l": "1010-6049",
+            "issn": [
+              "1010-6049",
+              "1752-0762"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geocarto International",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:doi:10.6084/m9.figshare.30689127",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922384",
+            "display_name": "Open MIND",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal contribution"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:c1684e3f4400448cba5fff52451b252f",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/c1684e3f4400448cba5fff52451b252f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geocarto International, Vol 40, Iss 1 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1080/10106049.2025.2586775",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106004775",
+          "display_name": "Geocarto International",
+          "issn_l": "1010-6049",
+          "issn": [
+            "1010-6049",
+            "1752-0762"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geocarto International",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G666057042",
+          "display_name": null,
+          "funder_award_id": "NRF-2021R1A6A1A03045185",
+          "funder_id": "https://openalex.org/F4320322120",
+          "funder_display_name": "National Research Foundation of Korea"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322120",
+          "display_name": "National Research Foundation of Korea",
+          "ror": "https://ror.org/013aysd81"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 43,
+      "referenced_works": [
+        "https://openalex.org/W1975518602",
+        "https://openalex.org/W1985479415",
+        "https://openalex.org/W2005138873",
+        "https://openalex.org/W2006394281",
+        "https://openalex.org/W2113405802",
+        "https://openalex.org/W2154367967",
+        "https://openalex.org/W2162063693",
+        "https://openalex.org/W2775816357",
+        "https://openalex.org/W2928351920",
+        "https://openalex.org/W2938051346",
+        "https://openalex.org/W2996241265",
+        "https://openalex.org/W2998268303",
+        "https://openalex.org/W3004665383",
+        "https://openalex.org/W3007372778",
+        "https://openalex.org/W3014395776",
+        "https://openalex.org/W3118681262",
+        "https://openalex.org/W4214846087",
+        "https://openalex.org/W4221009493",
+        "https://openalex.org/W4281619551",
+        "https://openalex.org/W4285098427",
+        "https://openalex.org/W4309563211",
+        "https://openalex.org/W4321496345",
+        "https://openalex.org/W4324387385",
+        "https://openalex.org/W4379469007",
+        "https://openalex.org/W4384936964",
+        "https://openalex.org/W4386221174",
+        "https://openalex.org/W4392906050",
+        "https://openalex.org/W4393099855",
+        "https://openalex.org/W4393182100",
+        "https://openalex.org/W4394880332",
+        "https://openalex.org/W4400764581",
+        "https://openalex.org/W4402371782",
+        "https://openalex.org/W4403154245",
+        "https://openalex.org/W4405386714",
+        "https://openalex.org/W4406249925",
+        "https://openalex.org/W4407003282",
+        "https://openalex.org/W4407897778",
+        "https://openalex.org/W4408259025",
+        "https://openalex.org/W4409194451",
+        "https://openalex.org/W4409374080",
+        "https://openalex.org/W4410327531",
+        "https://openalex.org/W4413983460",
+        "https://openalex.org/W4416027069"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "2100": [
+          89
+        ],
+        "Urbanization": [
+          0
+        ],
+        "and": [
+          1,
+          10,
+          36,
+          59,
+          100,
+          108,
+          147,
+          154
+        ],
+        "climate": [
+          2,
+          57,
+          137
+        ],
+        "change": [
+          3
+        ],
+        "are": [
+          4
+        ],
+        "intensifying": [
+          5
+        ],
+        "the": [
+          6,
+          31,
+          91,
+          133,
+          142,
+          156
+        ],
+        "co-occurrence": [
+          7
+        ],
+        "of": [
+          8,
+          34,
+          119,
+          136,
+          144
+        ],
+        "drought": [
+          9,
+          35,
+          109,
+          120
+        ],
+        "surface": [
+          11
+        ],
+        "urban": [
+          12
+        ],
+        "heat": [
+          13
+        ],
+        "island": [
+          14
+        ],
+        "(SUHI)": [
+          15
+        ],
+        "effects,": [
+          16
+        ],
+        "yet": [
+          17
+        ],
+        "their": [
+          18
+        ],
+        "combined": [
+          19
+        ],
+        "dynamics": [
+          20
+        ],
+        "remain": [
+          21
+        ],
+        "poorly": [
+          22
+        ],
+        "understood": [
+          23
+        ],
+        "at": [
+          24
+        ],
+        "high": [
+          25
+        ],
+        "spatial": [
+          26
+        ],
+        "resolution.": [
+          27
+        ],
+        "This": [
+          28
+        ],
+        "study": [
+          29
+        ],
+        "evaluates": [
+          30
+        ],
+        "compound": [
+          32
+        ],
+        "risk": [
+          33
+        ],
+        "UHI": [
+          37,
+          104
+        ],
+        "in": [
+          38,
+          150
+        ],
+        "South": [
+          39
+        ],
+        "Korea's": [
+          40
+        ],
+        "Saemangeum": [
+          41
+        ],
+        "region": [
+          42
+        ],
+        "using": [
+          43
+        ],
+        "a": [
+          44
+        ],
+        "hybrid": [
+          45
+        ],
+        "KNN–LSTM": [
+          46,
+          64
+        ],
+        "model,": [
+          47
+        ],
+        "alongside": [
+          48
+        ],
+        "three": [
+          49
+        ],
+        "comparative": [
+          50
+        ],
+        "approaches": [
+          51
+        ],
+        "(KNN,": [
+          52
+        ],
+        "CNN,": [
+          53
+        ],
+        "CNN–LSTM),": [
+          54
+        ],
+        "incorporating": [
+          55
+        ],
+        "CMIP6": [
+          56
+        ],
+        "projections": [
+          58
+        ],
+        "satellite-derived": [
+          60
+        ],
+        "land": [
+          61,
+          114
+        ],
+        "metrics.": [
+          62
+        ],
+        "The": [
+          63
+        ],
+        "model": [
+          65
+        ],
+        "demonstrated": [
+          66
+        ],
+        "superior": [
+          67
+        ],
+        "performance": [
+          68
+        ],
+        "(R²": [
+          69
+        ],
+        "=": [
+          70,
+          73
+        ],
+        "0.94;": [
+          71
+        ],
+        "MSE": [
+          72
+        ],
+        "0.0053),": [
+          74
+        ],
+        "accurately": [
+          75
+        ],
+        "capturing": [
+          76
+        ],
+        "an": [
+          77
+        ],
+        "increasing": [
+          78
+        ],
+        "drought–SUHI": [
+          79
+        ],
+        "association,": [
+          80
+        ],
+        "which": [
+          81
+        ],
+        "rose": [
+          82
+        ],
+        "from": [
+          83
+        ],
+        "0.84": [
+          84
+        ],
+        "(1991–2020)": [
+          85
+        ],
+        "to": [
+          86
+        ],
+        "1.00": [
+          87
+        ],
+        "by": [
+          88,
+          164
+        ],
+        "under": [
+          90,
+          122,
+          129
+        ],
+        "SSP585": [
+          92
+        ],
+        "scenario.": [
+          93
+        ],
+        "High-risk": [
+          94
+        ],
+        "zones": [
+          95
+        ],
+        "predominantly": [
+          96
+        ],
+        "overlap": [
+          97
+        ],
+        "with": [
+          98
+        ],
+        "built-up": [
+          99
+        ],
+        "cropland": [
+          101
+        ],
+        "areas,": [
+          102
+        ],
+        "where": [
+          103
+        ],
+        "indices": [
+          105
+        ],
+        "exceed": [
+          106
+        ],
+        "4.0": [
+          107
+        ],
+        "probabilities": [
+          110
+        ],
+        "surpass": [
+          111
+        ],
+        "0.9.": [
+          112
+        ],
+        "Although": [
+          113
+        ],
+        "use": [
+          115
+        ],
+        "explains": [
+          116
+        ],
+        "over": [
+          117
+        ],
+        "80%": [
+          118
+        ],
+        "variability": [
+          121
+        ],
+        "baseline": [
+          123
+        ],
+        "conditions,": [
+          124
+        ],
+        "its": [
+          125
+        ],
+        "predictive": [
+          126
+        ],
+        "power": [
+          127
+        ],
+        "diminishes": [
+          128
+        ],
+        "future": [
+          130
+        ],
+        "warming,": [
+          131
+        ],
+        "highlighting": [
+          132
+        ],
+        "growing": [
+          134
+        ],
+        "role": [
+          135
+        ],
+        "feedbacks.": [
+          138
+        ],
+        "These": [
+          139
+        ],
+        "findings": [
+          140
+        ],
+        "emphasize": [
+          141
+        ],
+        "emergence": [
+          143
+        ],
+        "synchronized": [
+          145
+        ],
+        "thermal": [
+          146
+        ],
+        "hydrological": [
+          148
+        ],
+        "stressors": [
+          149
+        ],
+        "urbanizing": [
+          151
+        ],
+        "coastal": [
+          152
+        ],
+        "regions": [
+          153
+        ],
+        "underscore": [
+          155
+        ],
+        "need": [
+          157
+        ],
+        "for": [
+          158
+        ],
+        "integrated": [
+          159
+        ],
+        "land-climate": [
+          160
+        ],
+        "adaptation": [
+          161
+        ],
+        "strategies": [
+          162
+        ],
+        "supported": [
+          163
+        ],
+        "machine": [
+          165
+        ],
+        "learning-based": [
+          166
+        ],
+        "early": [
+          167
+        ],
+        "warning": [
+          168
+        ],
+        "systems.": [
+          169
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-04-22T08:38:42.863108",
+      "created_date": "2025-11-23T00:00:00"
     },
     {
       "id": "https://openalex.org/W4283746594",
@@ -38918,9 +40552,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -38932,8 +40566,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283746594.pdf",
@@ -40171,9 +41805,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -40193,8 +41827,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -40982,9 +42616,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [
@@ -41004,8 +42638,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -42326,9 +43960,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -42348,8 +43982,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -42969,8 +44603,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -43044,1640 +44678,6 @@
       ],
       "updated_date": "2026-04-17T18:11:37.981687",
       "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4416556497",
-      "doi": "https://doi.org/10.1080/10106049.2025.2586775",
-      "title": "Urban expansion and warming jointly amplify drought and surface heat island effects",
-      "display_name": "Urban expansion and warming jointly amplify drought and surface heat island effects",
-      "publication_year": 2025,
-      "publication_date": "2025-11-23",
-      "ids": {
-        "openalex": "https://openalex.org/W4416556497",
-        "doi": "https://doi.org/10.1080/10106049.2025.2586775"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1080/10106049.2025.2586775",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S106004775",
-          "display_name": "Geocarto International",
-          "issn_l": "1010-6049",
-          "issn": [
-            "1010-6049",
-            "1752-0762"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geocarto International",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1080/10106049.2025.2586775",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5036616600",
-            "display_name": "Mahfuzur Rahman",
-            "orcid": "https://orcid.org/0000-0001-8402-156X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mahfuzur Rahman",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036616600",
-            "display_name": "Mahfuzur Rahman",
-            "orcid": "https://orcid.org/0000-0001-8402-156X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "KR",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mahfuzur Rahman",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-            "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5095780465",
-            "display_name": "Zulfiqar Hammad",
-            "orcid": "https://orcid.org/0009-0003-6260-9313"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ],
-          "countries": [
-            "KR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Zulfiqar Hammad",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Kunsan National University",
-            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025618130",
-            "display_name": "Hyeong-Joo Kim",
-            "orcid": "https://orcid.org/0000-0003-1365-6992"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ],
-          "countries": [
-            "KR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hyeong-Joo Kim",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Kunsan National University",
-            "Renewable Energy Research Institute, Kunsan National University",
-            "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University, Gunsan, Republic of Korea",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "SeokJae Lee",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ],
-          "countries": [
-            "KR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "SeokJae Lee",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Kunsan National University",
-            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057920339",
-            "display_name": "Tae-Woong Park",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ],
-          "countries": [
-            "KR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tae-Woong Park",
-          "raw_affiliation_strings": [
-            "Renewable Energy Research Institute, Kunsan National University",
-            "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University, Gunsan, Republic of Korea",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024020559",
-            "display_name": "Hyeong-Soo Kim",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I120158604",
-              "display_name": "Kunsan National University",
-              "ror": "https://ror.org/02yj55q56",
-              "country_code": "KR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "KR",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hyeong-Soo Kim",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Kunsan National University",
-            "Renewable Energy Research Institute, Kunsan National University",
-            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Renewable Energy Research Institute, Kunsan National University",
-              "institution_ids": [
-                "https://openalex.org/I120158604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014606576",
-            "display_name": "Md Masudur Rahman",
-            "orcid": "https://orcid.org/0000-0001-5546-0491"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD",
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Md Masudur Rahman",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-            "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014606576",
-            "display_name": "Md Masudur Rahman",
-            "orcid": "https://orcid.org/0000-0001-5546-0491"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md Masudur Rahman",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109707707",
-            "display_name": "Md Anuwer Hossain",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md Anuwer Hossain",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT)",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology (IUBAT)",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam H. Aljundi",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum & Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 12,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5014606576",
-        "https://openalex.org/A5036616600",
-        "https://openalex.org/A5095780465"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210132231"
-      ],
-      "apc_list": {
-        "value": 3265,
-        "currency": "AUD",
-        "value_usd": 2390
-      },
-      "apc_paid": {
-        "value": 3265,
-        "currency": "AUD",
-        "value_usd": 2390
-      },
-      "fwci": 0.7223,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.75646811,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "40",
-        "issue": "1",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10766",
-        "display_name": "Urban Heat Island Mitigation",
-        "score": 0.9577000141143799,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10766",
-          "display_name": "Urban Heat Island Mitigation",
-          "score": 0.9577000141143799,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10266",
-          "display_name": "Plant Water Relations and Carbon Dynamics",
-          "score": 0.006399999838322401,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11333",
-          "display_name": "Climate change and permafrost",
-          "score": 0.004800000227987766,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/urban-heat-island",
-          "display_name": "Urban heat island",
-          "score": 0.7203999757766724
-        },
-        {
-          "id": "https://openalex.org/keywords/urbanization",
-          "display_name": "Urbanization",
-          "score": 0.6585999727249146
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.6237999796867371
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-model",
-          "display_name": "Climate model",
-          "score": 0.43220001459121704
-        },
-        {
-          "id": "https://openalex.org/keywords/baseline",
-          "display_name": "Baseline (sea)",
-          "score": 0.41920000314712524
-        },
-        {
-          "id": "https://openalex.org/keywords/warning-system",
-          "display_name": "Warning system",
-          "score": 0.41530001163482666
-        },
-        {
-          "id": "https://openalex.org/keywords/urban-climate",
-          "display_name": "Urban climate",
-          "score": 0.3824000060558319
-        },
-        {
-          "id": "https://openalex.org/keywords/urban-expansion",
-          "display_name": "Urban expansion",
-          "score": 0.37369999289512634
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C54005896",
-          "wikidata": "https://www.wikidata.org/wiki/Q215712",
-          "display_name": "Urban heat island",
-          "level": 2,
-          "score": 0.7203999757766724
-        },
-        {
-          "id": "https://openalex.org/C49204034",
-          "wikidata": "https://www.wikidata.org/wiki/Q52139",
-          "display_name": "Climatology",
-          "level": 1,
-          "score": 0.6859999895095825
-        },
-        {
-          "id": "https://openalex.org/C39853841",
-          "wikidata": "https://www.wikidata.org/wiki/Q161078",
-          "display_name": "Urbanization",
-          "level": 2,
-          "score": 0.6585999727249146
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.6327000260353088
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.6237999796867371
-        },
-        {
-          "id": "https://openalex.org/C168754636",
-          "wikidata": "https://www.wikidata.org/wiki/Q620920",
-          "display_name": "Climate model",
-          "level": 3,
-          "score": 0.43220001459121704
-        },
-        {
-          "id": "https://openalex.org/C12725497",
-          "wikidata": "https://www.wikidata.org/wiki/Q810247",
-          "display_name": "Baseline (sea)",
-          "level": 2,
-          "score": 0.41920000314712524
-        },
-        {
-          "id": "https://openalex.org/C29825287",
-          "wikidata": "https://www.wikidata.org/wiki/Q1427940",
-          "display_name": "Warning system",
-          "level": 2,
-          "score": 0.41530001163482666
-        },
-        {
-          "id": "https://openalex.org/C158049464",
-          "wikidata": "https://www.wikidata.org/wiki/Q1075337",
-          "display_name": "Urban climate",
-          "level": 3,
-          "score": 0.3824000060558319
-        },
-        {
-          "id": "https://openalex.org/C2984674859",
-          "wikidata": "https://www.wikidata.org/wiki/Q192042",
-          "display_name": "Urban expansion",
-          "level": 3,
-          "score": 0.37369999289512634
-        },
-        {
-          "id": "https://openalex.org/C115343472",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Global warming",
-          "level": 3,
-          "score": 0.3675999939441681
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3580000102519989
-        },
-        {
-          "id": "https://openalex.org/C134097258",
-          "wikidata": "https://www.wikidata.org/wiki/Q1507383",
-          "display_name": "Sea surface temperature",
-          "level": 2,
-          "score": 0.34470000863075256
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.34290000796318054
-        },
-        {
-          "id": "https://openalex.org/C4792198",
-          "wikidata": "https://www.wikidata.org/wiki/Q1165944",
-          "display_name": "Land use",
-          "level": 2,
-          "score": 0.33079999685287476
-        },
-        {
-          "id": "https://openalex.org/C2779296788",
-          "wikidata": "https://www.wikidata.org/wiki/Q5326904",
-          "display_name": "Early warning system",
-          "level": 3,
-          "score": 0.32100000977516174
-        },
-        {
-          "id": "https://openalex.org/C158709400",
-          "wikidata": "https://www.wikidata.org/wiki/Q3578586",
-          "display_name": "Spatial ecology",
-          "level": 2,
-          "score": 0.3037000000476837
-        },
-        {
-          "id": "https://openalex.org/C2983363897",
-          "wikidata": "https://www.wikidata.org/wiki/Q845339",
-          "display_name": "Air temperature",
-          "level": 2,
-          "score": 0.29760000109672546
-        },
-        {
-          "id": "https://openalex.org/C139807058",
-          "wikidata": "https://www.wikidata.org/wiki/Q352374",
-          "display_name": "Adaptation (eye)",
-          "level": 2,
-          "score": 0.2971999943256378
-        },
-        {
-          "id": "https://openalex.org/C2994323764",
-          "wikidata": "https://www.wikidata.org/wiki/Q909741",
-          "display_name": "Surface air temperature",
-          "level": 3,
-          "score": 0.2759000062942505
-        },
-        {
-          "id": "https://openalex.org/C2993220731",
-          "wikidata": "https://www.wikidata.org/wiki/Q215864",
-          "display_name": "Heat wave",
-          "level": 3,
-          "score": 0.2736999988555908
-        },
-        {
-          "id": "https://openalex.org/C41156917",
-          "wikidata": "https://www.wikidata.org/wiki/Q682831",
-          "display_name": "Downscaling",
-          "level": 3,
-          "score": 0.2653000056743622
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.25760000944137573
-        },
-        {
-          "id": "https://openalex.org/C2777774347",
-          "wikidata": "https://www.wikidata.org/wiki/Q841083",
-          "display_name": "Sea level rise",
-          "level": 3,
-          "score": 0.2563999891281128
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1080/10106049.2025.2586775",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S106004775",
-            "display_name": "Geocarto International",
-            "issn_l": "1010-6049",
-            "issn": [
-              "1010-6049",
-              "1752-0762"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
-            ],
-            "host_organization_lineage_names": [
-              "Taylor & Francis"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geocarto International",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:doi:10.6084/m9.figshare.30689127",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922384",
-            "display_name": "Open MIND",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Journal contribution"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:c1684e3f4400448cba5fff52451b252f",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/c1684e3f4400448cba5fff52451b252f",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geocarto International, Vol 40, Iss 1 (2025)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1080/10106049.2025.2586775",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1080/10106049.2025.2586775",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S106004775",
-          "display_name": "Geocarto International",
-          "issn_l": "1010-6049",
-          "issn": [
-            "1010-6049",
-            "1752-0762"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geocarto International",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G666057042",
-          "display_name": null,
-          "funder_award_id": "NRF-2021R1A6A1A03045185",
-          "funder_id": "https://openalex.org/F4320322120",
-          "funder_display_name": "National Research Foundation of Korea"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322120",
-          "display_name": "National Research Foundation of Korea",
-          "ror": "https://ror.org/013aysd81"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 43,
-      "referenced_works": [
-        "https://openalex.org/W1975518602",
-        "https://openalex.org/W1985479415",
-        "https://openalex.org/W2005138873",
-        "https://openalex.org/W2006394281",
-        "https://openalex.org/W2113405802",
-        "https://openalex.org/W2154367967",
-        "https://openalex.org/W2162063693",
-        "https://openalex.org/W2775816357",
-        "https://openalex.org/W2928351920",
-        "https://openalex.org/W2938051346",
-        "https://openalex.org/W2996241265",
-        "https://openalex.org/W2998268303",
-        "https://openalex.org/W3004665383",
-        "https://openalex.org/W3007372778",
-        "https://openalex.org/W3014395776",
-        "https://openalex.org/W3118681262",
-        "https://openalex.org/W4214846087",
-        "https://openalex.org/W4221009493",
-        "https://openalex.org/W4281619551",
-        "https://openalex.org/W4285098427",
-        "https://openalex.org/W4309563211",
-        "https://openalex.org/W4321496345",
-        "https://openalex.org/W4324387385",
-        "https://openalex.org/W4379469007",
-        "https://openalex.org/W4384936964",
-        "https://openalex.org/W4386221174",
-        "https://openalex.org/W4392906050",
-        "https://openalex.org/W4393099855",
-        "https://openalex.org/W4393182100",
-        "https://openalex.org/W4394880332",
-        "https://openalex.org/W4400764581",
-        "https://openalex.org/W4402371782",
-        "https://openalex.org/W4403154245",
-        "https://openalex.org/W4405386714",
-        "https://openalex.org/W4406249925",
-        "https://openalex.org/W4407003282",
-        "https://openalex.org/W4407897778",
-        "https://openalex.org/W4408259025",
-        "https://openalex.org/W4409194451",
-        "https://openalex.org/W4409374080",
-        "https://openalex.org/W4410327531",
-        "https://openalex.org/W4413983460",
-        "https://openalex.org/W4416027069"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": {
-        "2100": [
-          89
-        ],
-        "Urbanization": [
-          0
-        ],
-        "and": [
-          1,
-          10,
-          36,
-          59,
-          100,
-          108,
-          147,
-          154
-        ],
-        "climate": [
-          2,
-          57,
-          137
-        ],
-        "change": [
-          3
-        ],
-        "are": [
-          4
-        ],
-        "intensifying": [
-          5
-        ],
-        "the": [
-          6,
-          31,
-          91,
-          133,
-          142,
-          156
-        ],
-        "co-occurrence": [
-          7
-        ],
-        "of": [
-          8,
-          34,
-          119,
-          136,
-          144
-        ],
-        "drought": [
-          9,
-          35,
-          109,
-          120
-        ],
-        "surface": [
-          11
-        ],
-        "urban": [
-          12
-        ],
-        "heat": [
-          13
-        ],
-        "island": [
-          14
-        ],
-        "(SUHI)": [
-          15
-        ],
-        "effects,": [
-          16
-        ],
-        "yet": [
-          17
-        ],
-        "their": [
-          18
-        ],
-        "combined": [
-          19
-        ],
-        "dynamics": [
-          20
-        ],
-        "remain": [
-          21
-        ],
-        "poorly": [
-          22
-        ],
-        "understood": [
-          23
-        ],
-        "at": [
-          24
-        ],
-        "high": [
-          25
-        ],
-        "spatial": [
-          26
-        ],
-        "resolution.": [
-          27
-        ],
-        "This": [
-          28
-        ],
-        "study": [
-          29
-        ],
-        "evaluates": [
-          30
-        ],
-        "compound": [
-          32
-        ],
-        "risk": [
-          33
-        ],
-        "UHI": [
-          37,
-          104
-        ],
-        "in": [
-          38,
-          150
-        ],
-        "South": [
-          39
-        ],
-        "Korea's": [
-          40
-        ],
-        "Saemangeum": [
-          41
-        ],
-        "region": [
-          42
-        ],
-        "using": [
-          43
-        ],
-        "a": [
-          44
-        ],
-        "hybrid": [
-          45
-        ],
-        "KNN–LSTM": [
-          46,
-          64
-        ],
-        "model,": [
-          47
-        ],
-        "alongside": [
-          48
-        ],
-        "three": [
-          49
-        ],
-        "comparative": [
-          50
-        ],
-        "approaches": [
-          51
-        ],
-        "(KNN,": [
-          52
-        ],
-        "CNN,": [
-          53
-        ],
-        "CNN–LSTM),": [
-          54
-        ],
-        "incorporating": [
-          55
-        ],
-        "CMIP6": [
-          56
-        ],
-        "projections": [
-          58
-        ],
-        "satellite-derived": [
-          60
-        ],
-        "land": [
-          61,
-          114
-        ],
-        "metrics.": [
-          62
-        ],
-        "The": [
-          63
-        ],
-        "model": [
-          65
-        ],
-        "demonstrated": [
-          66
-        ],
-        "superior": [
-          67
-        ],
-        "performance": [
-          68
-        ],
-        "(R²": [
-          69
-        ],
-        "=": [
-          70,
-          73
-        ],
-        "0.94;": [
-          71
-        ],
-        "MSE": [
-          72
-        ],
-        "0.0053),": [
-          74
-        ],
-        "accurately": [
-          75
-        ],
-        "capturing": [
-          76
-        ],
-        "an": [
-          77
-        ],
-        "increasing": [
-          78
-        ],
-        "drought–SUHI": [
-          79
-        ],
-        "association,": [
-          80
-        ],
-        "which": [
-          81
-        ],
-        "rose": [
-          82
-        ],
-        "from": [
-          83
-        ],
-        "0.84": [
-          84
-        ],
-        "(1991–2020)": [
-          85
-        ],
-        "to": [
-          86
-        ],
-        "1.00": [
-          87
-        ],
-        "by": [
-          88,
-          164
-        ],
-        "under": [
-          90,
-          122,
-          129
-        ],
-        "SSP585": [
-          92
-        ],
-        "scenario.": [
-          93
-        ],
-        "High-risk": [
-          94
-        ],
-        "zones": [
-          95
-        ],
-        "predominantly": [
-          96
-        ],
-        "overlap": [
-          97
-        ],
-        "with": [
-          98
-        ],
-        "built-up": [
-          99
-        ],
-        "cropland": [
-          101
-        ],
-        "areas,": [
-          102
-        ],
-        "where": [
-          103
-        ],
-        "indices": [
-          105
-        ],
-        "exceed": [
-          106
-        ],
-        "4.0": [
-          107
-        ],
-        "probabilities": [
-          110
-        ],
-        "surpass": [
-          111
-        ],
-        "0.9.": [
-          112
-        ],
-        "Although": [
-          113
-        ],
-        "use": [
-          115
-        ],
-        "explains": [
-          116
-        ],
-        "over": [
-          117
-        ],
-        "80%": [
-          118
-        ],
-        "variability": [
-          121
-        ],
-        "baseline": [
-          123
-        ],
-        "conditions,": [
-          124
-        ],
-        "its": [
-          125
-        ],
-        "predictive": [
-          126
-        ],
-        "power": [
-          127
-        ],
-        "diminishes": [
-          128
-        ],
-        "future": [
-          130
-        ],
-        "warming,": [
-          131
-        ],
-        "highlighting": [
-          132
-        ],
-        "growing": [
-          134
-        ],
-        "role": [
-          135
-        ],
-        "feedbacks.": [
-          138
-        ],
-        "These": [
-          139
-        ],
-        "findings": [
-          140
-        ],
-        "emphasize": [
-          141
-        ],
-        "emergence": [
-          143
-        ],
-        "synchronized": [
-          145
-        ],
-        "thermal": [
-          146
-        ],
-        "hydrological": [
-          148
-        ],
-        "stressors": [
-          149
-        ],
-        "urbanizing": [
-          151
-        ],
-        "coastal": [
-          152
-        ],
-        "regions": [
-          153
-        ],
-        "underscore": [
-          155
-        ],
-        "need": [
-          157
-        ],
-        "for": [
-          158
-        ],
-        "integrated": [
-          159
-        ],
-        "land-climate": [
-          160
-        ],
-        "adaptation": [
-          161
-        ],
-        "strategies": [
-          162
-        ],
-        "supported": [
-          163
-        ],
-        "machine": [
-          165
-        ],
-        "learning-based": [
-          166
-        ],
-        "early": [
-          167
-        ],
-        "warning": [
-          168
-        ],
-        "systems.": [
-          169
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-04-21T08:09:41.155169",
-      "created_date": "2025-11-23T00:00:00"
     },
     {
       "id": "https://openalex.org/W4416868394",
@@ -45395,8 +45395,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -46374,8 +46374,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -46949,9 +46949,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -46963,8 +46963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -47665,9 +47665,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -47687,8 +47687,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -48429,8 +48429,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -49116,16 +49116,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -49812,16 +49812,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -51053,16 +51053,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -51533,9 +51533,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -51560,8 +51560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -52714,16 +52714,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -53330,8 +53330,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -54626,16 +54626,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55202,8 +55202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -55766,16 +55766,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -56849,16 +56849,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57727,16 +57727,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59006,9 +59006,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -59025,8 +59025,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4315434479.pdf"
@@ -60341,16 +60341,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -61610,8 +61610,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -62974,8 +62974,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -64042,8 +64042,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64417,8 +64417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64895,16 +64895,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65454,16 +65454,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66486,16 +66486,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66927,16 +66927,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68045,16 +68045,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69297,8 +69297,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70442,9 +70442,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -70456,8 +70456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405443624.pdf",
@@ -70879,8 +70879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71796,8 +71796,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72314,8 +72314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -73568,8 +73568,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,

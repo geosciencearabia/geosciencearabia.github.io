@@ -11,14 +11,12 @@
       "H.J. Droste",
       "HENK J. DROSTE",
       "Henk Droste",
-      "Henk Droste and John Aitken",
       "Henk H.J. Droste",
-      "Henk J. Droste",
-      "and Henk Droste"
+      "Henk J. Droste"
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
-    "works_count": 45,
-    "cited_by_count": 2113,
+    "works_count": 43,
+    "cited_by_count": 2112,
     "summary_stats": {
       "2yr_mean_citedness": 8,
       "h_index": 17,
@@ -144,7 +142,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 35,
+        "count": 33,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -161,27 +159,10 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 20,
+        "count": 18,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 13,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -199,6 +180,23 @@
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 12,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -231,7 +229,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000084,
+        "value": 0.0000756,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -248,7 +246,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000763,
+        "value": 0.000072,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -282,7 +280,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000466,
+        "value": 0.000043,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -299,7 +297,7 @@
       {
         "id": "https://openalex.org/T11926",
         "display_name": "Subterranean biodiversity and taxonomy",
-        "value": 0.0000251,
+        "value": 0.000025,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -415,9 +413,9 @@
       },
       {
         "year": 2008,
-        "works_count": 8,
+        "works_count": 6,
         "oa_works_count": 1,
-        "cited_by_count": 65
+        "cited_by_count": 64
       },
       {
         "year": 2010,
@@ -476,14 +474,12 @@
       "H.J. Droste",
       "HENK J. DROSTE",
       "Henk Droste",
-      "Henk Droste and John Aitken",
       "Henk H.J. Droste",
-      "Henk J. Droste",
-      "and Henk Droste"
+      "Henk J. Droste"
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-04-16T16:02:47",
+    "updated_date": "2026-04-21T12:23:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [

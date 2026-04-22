@@ -7,16 +7,15 @@
       "M. Osman",
       "M. S. Osman",
       "M.S. Osman",
-      "Mudather A. M. Osman",
       "Mutasim Osman",
       "Mutasim S. Osman",
       "Mutasim Sami Osman"
     ],
     "full_name": "Mutasim Osman",
-    "works_count": 41,
-    "cited_by_count": 62,
+    "works_count": 40,
+    "cited_by_count": 60,
     "summary_stats": {
-      "2yr_mean_citedness": 1.0909090909090908,
+      "2yr_mean_citedness": 1,
       "h_index": 4,
       "i10_index": 2
     },
@@ -65,21 +64,6 @@
         "years": [
           2025
         ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I90097577",
-          "ror": "https://ror.org/04k46b490",
-          "display_name": "Red Sea University",
-          "country_code": "SD",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I90097577"
-          ]
-        },
-        "years": [
-          2025
-        ]
       }
     ],
     "last_known_institutions": [
@@ -115,27 +99,10 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "count": 15,
+        "count": 14,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 11,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -164,9 +131,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 10,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "count": 8,
+        "count": 7,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -182,23 +166,6 @@
       }
     ],
     "topic_share": [
-      {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000592,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
@@ -217,9 +184,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "value": 0.0000553,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000394,
+        "value": 0.0000358,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -369,9 +353,9 @@
       },
       {
         "year": 2025,
-        "works_count": 7,
-        "oa_works_count": 3,
-        "cited_by_count": 12
+        "works_count": 6,
+        "oa_works_count": 2,
+        "cited_by_count": 10
       },
       {
         "year": 2026,
@@ -384,14 +368,13 @@
       "M. Osman",
       "M. S. Osman",
       "M.S. Osman",
-      "Mudather A. M. Osman",
       "Mutasim Osman",
       "Mutasim S. Osman",
       "Mutasim Sami Osman"
     ],
     "block_key": "m osman",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5035421092",
-    "updated_date": "2026-04-17T03:36:40",
+    "updated_date": "2026-04-21T12:23:24",
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
