@@ -2777,8 +2777,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-12",
     "year": 2003,
     "venue": "Earth-Science Reviews",
-    "citations": 285,
-    "fwci": 4.4325,
+    "citations": 286,
+    "fwci": 4.4267,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -9355,7 +9355,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Chemical Geology",
     "citations": 23,
-    "fwci": 2.98,
+    "fwci": 2.9816,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -24296,7 +24296,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3891,
+    "fwci": 1.3888,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -27913,8 +27913,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-07-30",
     "year": 2025,
     "venue": "Energy",
-    "citations": 2,
-    "fwci": 1.5581,
+    "citations": 3,
+    "fwci": 2.1418,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Methane Hydrates and Related Phenomena",
@@ -41488,6 +41488,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2902377948",
+    "doi": "https://doi.org/10.3390/en11123342",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5038141698",
+      "A5010375854",
+      "A5059457709",
+      "A5020722852"
+    ],
+    "firstAuthorLastName": "Abdulelah",
+    "allAuthors": [
+      "Hesham Abdulelah",
+      "Syed Mohammad Mahmood",
+      "Sameer Al‐Hajri",
+      "Mohammed Hail Hakimi",
+      "Eswaran Padmanabhan"
+    ],
+    "title": "Retention of Hydraulic Fracturing Water in Shale: The Influence of Anionic Surfactant",
+    "publicationDate": "2018-11-30",
+    "year": 2018,
+    "venue": "Energies",
+    "citations": 26,
+    "fwci": 1.4621,
+    "topics": [
+      "Atmospheric and Environmental Gas Dynamics",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Taiz University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1989524143",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2015.02.032",
     "program": "",
@@ -41518,42 +41554,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Malaya",
-      "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2902377948",
-    "doi": "https://doi.org/10.3390/en11123342",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5038141698",
-      "A5010375854",
-      "A5059457709",
-      "A5020722852"
-    ],
-    "firstAuthorLastName": "Abdulelah",
-    "allAuthors": [
-      "Hesham Abdulelah",
-      "Syed Mohammad Mahmood",
-      "Sameer Al‐Hajri",
-      "Mohammed Hail Hakimi",
-      "Eswaran Padmanabhan"
-    ],
-    "title": "Retention of Hydraulic Fracturing Water in Shale: The Influence of Anionic Surfactant",
-    "publicationDate": "2018-11-30",
-    "year": 2018,
-    "venue": "Energies",
-    "citations": 25,
-    "fwci": 1.4615,
-    "topics": [
-      "Atmospheric and Environmental Gas Dynamics",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "Universiti Teknologi Petronas",
       "Taiz University"
     ]
   },
@@ -42770,6 +42770,63 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4411506548",
+    "doi": "https://doi.org/10.1016/j.fuel.2025.136032",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5073694501",
+      "A5005831087",
+      "A5022427193",
+      "A5094294379",
+      "A5100868453",
+      "A5010916300",
+      "A5019002975",
+      "A5108751417",
+      "A5017411505",
+      "A5052349236",
+      "A5088118808",
+      "A5006037747",
+      "A5044656964"
+    ],
+    "firstAuthorLastName": "Saeed",
+    "allAuthors": [
+      "Shadi A. Saeed",
+      "Ameen A. Al‐Muntaser",
+      "Mohammed Hail Hakimi",
+      "Muneer A. Suwaid",
+      "Ismail Khelil",
+      "Xiao-Dong Zhou",
+      "С. А. Ситнов",
+      "Mikhail A. Varfolomeev",
+      "Danis K. Nurgaliev",
+      "В. П. Морозов",
+      "Marsel Fazlyyyakhmatov",
+      "Ahmed S. Al‐Fatesh",
+      "Rawesh Kumar",
+      "Nafis A. Nazimov"
+    ],
+    "title": "Catalytic hydrothermal conversion of the Bitumen-Kerogen-Bearing Domanik shale rocks using nickel (II) sulfate as a water-soluble catalyst",
+    "publicationDate": "2025-06-21",
+    "year": 2025,
+    "venue": "Fuel",
+    "citations": 4,
+    "fwci": 2.6609,
+    "topics": [
+      "Petroleum Processing and Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "Kazan Federal University",
+      "China University of Petroleum, Beijing",
+      "King Saud University",
+      "Patna University",
+      "Rosneft (Russia)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2916531119",
     "doi": "https://doi.org/10.1080/10916466.2019.1575861",
     "program": "",
@@ -43903,63 +43960,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Malaya",
       "Kazan Federal University",
       "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4411506548",
-    "doi": "https://doi.org/10.1016/j.fuel.2025.136032",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5073694501",
-      "A5005831087",
-      "A5022427193",
-      "A5094294379",
-      "A5100868453",
-      "A5010916300",
-      "A5019002975",
-      "A5108751417",
-      "A5017411505",
-      "A5052349236",
-      "A5088118808",
-      "A5006037747",
-      "A5044656964"
-    ],
-    "firstAuthorLastName": "Saeed",
-    "allAuthors": [
-      "Shadi A. Saeed",
-      "Ameen A. Al‐Muntaser",
-      "Mohammed Hail Hakimi",
-      "Muneer A. Suwaid",
-      "Ismail Khelil",
-      "Xiao-Dong Zhou",
-      "С. А. Ситнов",
-      "Mikhail A. Varfolomeev",
-      "Danis K. Nurgaliev",
-      "В. П. Морозов",
-      "Marsel Fazlyyyakhmatov",
-      "Ahmed S. Al‐Fatesh",
-      "Rawesh Kumar",
-      "Nafis A. Nazimov"
-    ],
-    "title": "Catalytic hydrothermal conversion of the Bitumen-Kerogen-Bearing Domanik shale rocks using nickel (II) sulfate as a water-soluble catalyst",
-    "publicationDate": "2025-06-21",
-    "year": 2025,
-    "venue": "Fuel",
-    "citations": 3,
-    "fwci": 2.1437,
-    "topics": [
-      "Petroleum Processing and Analysis",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Enhanced Oil Recovery Techniques"
-    ],
-    "institutions": [
-      "Kazan Federal University",
-      "China University of Petroleum, Beijing",
-      "King Saud University",
-      "Patna University",
-      "Rosneft (Russia)"
     ]
   },
   {
@@ -49126,8 +49126,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-07-20",
     "year": 2022,
     "venue": "Ain Shams Engineering Journal",
-    "citations": 41,
-    "fwci": 3.3759,
+    "citations": 42,
+    "fwci": 3.3761,
     "topics": [
       "Hydrological Forecasting Using AI",
       "Groundwater flow and contamination studies",
@@ -49456,8 +49456,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-05-31",
     "year": 2024,
     "venue": "Water",
-    "citations": 20,
-    "fwci": 4.8948,
+    "citations": 21,
+    "fwci": 5.0163,
     "topics": [
       "Per- and polyfluoroalkyl substances research",
       "Toxic Organic Pollutants Impact",
@@ -50131,7 +50131,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.4374,
+    "fwci": 1.4279,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -50338,7 +50338,6 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5034568196",
       "A5087168718",
-      "A5030774665",
       "A5121450463",
       "A5121489773",
       "A5049066509",
@@ -50351,7 +50350,7 @@ export const worksTable: WorkTableRecord[] = [
     "firstAuthorLastName": "Akhtar",
     "allAuthors": [
       "Naseem Akhtar",
-      "Muhammad Syakir",
+      "Muhammad Izzuddin Syakir",
       "Syahidah Akmal Muhammad",
       "Aznan Fazli Ismail",
       "Mohamad Shaiful Md Yusuff",
@@ -50367,7 +50366,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Paddy and Water Environment",
     "citations": 1,
-    "fwci": 0.7451,
+    "fwci": 0.7139,
     "topics": [
       "Groundwater and Watershed Analysis",
       "Groundwater and Isotope Geochemistry",
@@ -52331,7 +52330,7 @@ export const worksTable: WorkTableRecord[] = [
     "title": "Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence",
     "publicationDate": "2026-01-14",
     "year": 2026,
-    "venue": "ArXiv.org",
+    "venue": "arXiv (Cornell University)",
     "citations": 0,
     "fwci": 0,
     "topics": [
@@ -52748,6 +52747,52 @@ export const worksTable: WorkTableRecord[] = [
       "Birkbeck, University of London",
       "Sandvik (Norway)",
       "Petroleum Geo-Services (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2612186309",
+    "doi": "https://doi.org/10.1016/j.bmc.2017.05.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5015160769",
+      "A5058660769",
+      "A5078065032",
+      "A5052594340",
+      "A5025847286",
+      "A5090969950",
+      "A5100318325",
+      "A5053151249",
+      "A5084106975"
+    ],
+    "firstAuthorLastName": "Franz",
+    "allAuthors": [
+      "Nicholas D. Franz",
+      "Juan M. Belardinelli",
+      "Michael A. Kaminski",
+      "Louis C. Dunn",
+      "Vinicius Calado Nogueira de Moura",
+      "Michael A. Blaha",
+      "Dan D. Truong",
+      "Wěi Li",
+      "Mary Jackson",
+      "E. Jeffrey North"
+    ],
+    "title": "Design, synthesis and evaluation of indole-2-carboxamides with pan anti-mycobacterial activity",
+    "publicationDate": "2017-05-08",
+    "year": 2017,
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "citations": 69,
+    "fwci": 4.3198,
+    "topics": [
+      "Mycobacterium research and diagnosis",
+      "Tuberculosis Research and Epidemiology",
+      "Quinazolinone synthesis and applications"
+    ],
+    "institutions": [
+      "Creighton University",
+      "Colorado State University"
     ]
   },
   {
@@ -53349,52 +53394,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W2612186309",
-    "doi": "https://doi.org/10.1016/j.bmc.2017.05.015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5015160769",
-      "A5058660769",
-      "A5078065032",
-      "A5052594340",
-      "A5025847286",
-      "A5090969950",
-      "A5100318325",
-      "A5053151249",
-      "A5084106975"
-    ],
-    "firstAuthorLastName": "Franz",
-    "allAuthors": [
-      "Nicholas D. Franz",
-      "Juan M. Belardinelli",
-      "Michael A. Kaminski",
-      "Louis C. Dunn",
-      "Vinicius Calado Nogueira de Moura",
-      "Michael A. Blaha",
-      "Dan D. Truong",
-      "Wěi Li",
-      "Mary Jackson",
-      "E. Jeffrey North"
-    ],
-    "title": "Design, synthesis and evaluation of indole-2-carboxamides with pan anti-mycobacterial activity",
-    "publicationDate": "2017-05-08",
-    "year": 2017,
-    "venue": "Bioorganic & Medicinal Chemistry",
-    "citations": 68,
-    "fwci": 4.3183,
-    "topics": [
-      "Mycobacterium research and diagnosis",
-      "Tuberculosis Research and Epidemiology",
-      "Quinazolinone synthesis and applications"
-    ],
-    "institutions": [
-      "Creighton University",
-      "Colorado State University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2954375023",
     "doi": "https://doi.org/10.1093/nsr/nwz084",
     "program": "",
@@ -53420,7 +53419,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-06-25",
     "year": 2019,
     "venue": "National Science Review",
-    "citations": 60,
+    "citations": 61,
     "fwci": 14.3019,
     "topics": [
       "Geological and Geophysical Studies",
@@ -69039,7 +69038,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5937,
+    "fwci": 18.6003,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -69871,7 +69870,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.7501,
+    "fwci": 3.7498,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -74127,41 +74126,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2775124168",
-    "doi": "https://doi.org/10.2110/jsr.2017.71",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039734802",
-    "allAuthorOpenAlexIds": [
-      "A5039734802",
-      "A5040857714",
-      "A5021951962",
-      "A5010428004",
-      "A5047905444"
-    ],
-    "firstAuthorLastName": "Eltom",
-    "allAuthors": [
-      "Hassan A. Eltom",
-      "Eugene C. Rankey",
-      "Stephen T. Hasiotis",
-      "Luis A. González",
-      "Dave L. Cantrell"
-    ],
-    "title": "Impact of Upwelling On Heterozoan, Biosiliceous, and Organic-rich Deposits: Jurassic (oxfordian) Hanifa Formation, Saudi Arabia",
-    "publicationDate": "2017-12-05",
-    "year": 2017,
-    "venue": "Journal of Sedimentary Research",
-    "citations": 22,
-    "fwci": 2.5356,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Methane Hydrates and Related Phenomena",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2795665315",
     "doi": "https://doi.org/10.1016/j.jafrearsci.2018.04.002",
     "program": "",
@@ -77487,7 +77451,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "NERC Open Research Archive (Natural Environment Research Council)",
     "citations": 9,
-    "fwci": 1.2905,
+    "fwci": 1.2907,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -80662,6 +80626,41 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Kansas",
       "Universidad Nacional Autónoma de México",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2775124168",
+    "doi": "https://doi.org/10.2110/jsr.2017.71",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5021951962",
+      "A5010428004",
+      "A5047905444"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Eugene C. Rankey",
+      "Stephen T. Hasiotis",
+      "Luis A. González",
+      "Dave A. Cantrell"
+    ],
+    "title": "Impact of Upwelling On Heterozoan, Biosiliceous, and Organic-rich Deposits: Jurassic (oxfordian) Hanifa Formation, Saudi Arabia",
+    "publicationDate": "2017-12-05",
+    "year": 2017,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 22,
+    "fwci": 2.5414,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Methane Hydrates and Related Phenomena",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "University of Kansas",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -86272,7 +86271,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 185,
-    "fwci": 135.1996,
+    "fwci": 135.2123,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -86356,7 +86355,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1651,
+    "fwci": 32.1696,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -86761,7 +86760,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.8728,
+    "fwci": 2.874,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87654,7 +87653,6 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5046466285",
       "A5109375716",
-      "A5004188350",
       "A5069920487",
       "A5060053337",
       "A5113567621",
@@ -87664,7 +87662,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Diana Plavsa",
       "Alan S. Collins",
-      "John Foden",
+      "John F. Foden",
       "Louise Kropinski",
       "M. Santosh",
       "T.R.K. Chetty",
@@ -87675,16 +87673,16 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Precambrian Research",
     "citations": 184,
-    "fwci": 12.7805,
+    "fwci": 12.823,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
       "High-pressure geophysics and materials"
     ],
     "institutions": [
-      "University of Adelaide",
-      "Kōchi University",
+      "The University of Adelaide",
       "Akebono (Japan)",
+      "Kōchi University",
       "National Geophysical Research Institute",
       "Curtin University"
     ]
@@ -117188,8 +117186,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-09-24",
     "year": 2015,
     "venue": "Carbonates and Evaporites",
-    "citations": 69,
-    "fwci": 4.9094,
+    "citations": 70,
+    "fwci": 4.9076,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -117570,6 +117568,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4385287273",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5085989529",
+      "A5079669280",
+      "A5069824368"
+    ],
+    "firstAuthorLastName": "Disi",
+    "allAuthors": [
+      "Zulfa Ali Al Disi",
+      "Fadhil Sadooni",
+      "Hamad Al-Saad Al-Kuwari",
+      "Tomaso R. R. Bontognali"
+    ],
+    "title": "Microbially influenced formation of anhydrite at low temperature",
+    "publicationDate": "2023-07-26",
+    "year": 2023,
+    "venue": "The Science of The Total Environment",
+    "citations": 11,
+    "fwci": 1.5112,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Qatar University",
+      "University of Basel"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2030156662",
     "doi": "https://doi.org/10.1007/bf03175193",
     "program": "",
@@ -117631,40 +117663,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Qatar University",
       "United Arab Emirates University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4385287273",
-    "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5085989529",
-      "A5079669280",
-      "A5069824368"
-    ],
-    "firstAuthorLastName": "Disi",
-    "allAuthors": [
-      "Zulfa Ali Al Disi",
-      "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "Tomaso R. R. Bontognali"
-    ],
-    "title": "Microbially influenced formation of anhydrite at low temperature",
-    "publicationDate": "2023-07-26",
-    "year": 2023,
-    "venue": "The Science of The Total Environment",
-    "citations": 10,
-    "fwci": 1.3838,
-    "topics": [
-      "Methane Hydrates and Related Phenomena",
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "Qatar University",
-      "University of Basel"
     ]
   },
   {
@@ -117771,8 +117769,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-09-01",
     "year": 2023,
     "venue": "Astrobiology",
-    "citations": 8,
-    "fwci": 1.4581,
+    "citations": 9,
+    "fwci": 1.5837,
     "topics": [
       "Planetary Science and Exploration",
       "Methane Hydrates and Related Phenomena"
@@ -121172,8 +121170,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-06-19",
     "year": 2023,
     "venue": "International Journal of Hydrogen Energy",
-    "citations": 89,
-    "fwci": 10.7406,
+    "citations": 90,
+    "fwci": 10.7766,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -121395,8 +121393,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-28",
     "year": 2022,
     "venue": "Scientific Reports",
-    "citations": 40,
-    "fwci": 3.0297,
+    "citations": 41,
+    "fwci": 3.0298,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Groundwater flow and contamination studies",
@@ -124002,8 +124000,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-02-02",
     "year": 2017,
     "venue": "Frontiers in Environmental Science",
-    "citations": 65,
-    "fwci": 4.3403,
+    "citations": 66,
+    "fwci": 4.3397,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Paleontology and Stratigraphy of Fossils",
@@ -126256,8 +126254,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2005-12-16",
     "year": 2005,
     "venue": "Remote Sensing of Environment",
-    "citations": 282,
-    "fwci": 7.6353,
+    "citations": 283,
+    "fwci": 7.6764,
     "topics": [
       "Soil Moisture and Remote Sensing",
       "Cryospheric studies and observations",
@@ -127074,8 +127072,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-02-25",
     "year": 2020,
     "venue": "Ore Geology Reviews",
-    "citations": 32,
-    "fwci": 2.2135,
+    "citations": 33,
+    "fwci": 2.2138,
     "topics": [
       "Mine drainage and remediation techniques",
       "Geochemistry and Geologic Mapping",
@@ -128296,8 +128294,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-02-25",
     "year": 2020,
     "venue": "Gondwana Research",
-    "citations": 72,
-    "fwci": 17.3835,
+    "citations": 73,
+    "fwci": 17.4025,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -129782,8 +129780,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1997-11-01",
     "year": 1997,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 73,
-    "fwci": 5.8723,
+    "citations": 74,
+    "fwci": 5.9102,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -130243,8 +130241,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-09-01",
     "year": 2004,
     "venue": "Geobios",
-    "citations": 37,
-    "fwci": 0.2591,
+    "citations": 38,
+    "fwci": 0.2592,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -130839,7 +130837,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 13,
-    "fwci": 3.2367,
+    "fwci": 3.2377,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",

@@ -18,7 +18,7 @@
     ],
     "full_name": "Scott Andrew Whattam",
     "works_count": 249,
-    "cited_by_count": 3392,
+    "cited_by_count": 3403,
     "summary_stats": {
       "2yr_mean_citedness": 2.5476190476190474,
       "h_index": 26,
@@ -355,7 +355,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0001833,
+        "value": 0.0001832,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -372,7 +372,7 @@
       {
         "id": "https://openalex.org/T13925",
         "display_name": "Offshore Engineering and Technologies",
-        "value": 0.0001684,
+        "value": 0.0001683,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -529,7 +529,7 @@
         "year": 2012,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 493
+        "cited_by_count": 494
       },
       {
         "year": 2013,
@@ -541,13 +541,13 @@
         "year": 2014,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 175
+        "cited_by_count": 176
       },
       {
         "year": 2015,
         "works_count": 110,
         "oa_works_count": 105,
-        "cited_by_count": 605
+        "cited_by_count": 608
       },
       {
         "year": 2016,
@@ -559,13 +559,13 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 4,
-        "cited_by_count": 250
+        "cited_by_count": 251
       },
       {
         "year": 2018,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 294
+        "cited_by_count": 296
       },
       {
         "year": 2019,
@@ -577,7 +577,7 @@
         "year": 2020,
         "works_count": 5,
         "oa_works_count": 5,
-        "cited_by_count": 155
+        "cited_by_count": 158
       },
       {
         "year": 2021,
@@ -631,7 +631,7 @@
     ],
     "block_key": "s whattam",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5011750653",
-    "updated_date": "2026-04-21T12:23:24",
+    "updated_date": "2026-04-22T12:20:23",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -42269,11 +42269,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 2.98,
+      "fwci": 2.9816,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.91133313,
+        "value": 0.91138335,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -42887,7 +42887,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-15T08:11:43.952461",
+      "updated_date": "2026-04-23T09:07:50.710637",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -217708,9 +217708,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
