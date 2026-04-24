@@ -924,9 +924,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -2423,9 +2423,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -3422,9 +3422,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -4732,9 +4732,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -5488,9 +5488,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -6173,9 +6173,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6749,9 +6749,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -7638,9 +7638,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -8342,9 +8342,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -8520,6 +8520,7 @@
           "is_corresponding": true,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8534,6 +8535,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -8548,6 +8550,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -8560,11 +8563,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5049,
+      "fwci": 1.5252,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.84280156,
+        "value": 0.84478896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9285,9 +9288,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -9502,6 +9505,7 @@
             "Institute of Geology at Tallinn University of Technology, Ehitajate 5, 19086 Tallinn, Estonia",
             "Institute of Geology at Tallinn"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4670-4452",
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Geology at Tallinn University of Technology, Ehitajate 5, 19086 Tallinn, Estonia",
@@ -9525,6 +9529,16 @@
             "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
@@ -9553,16 +9567,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -9583,6 +9587,7 @@
             "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
             "Géosciences Rennes"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
@@ -9644,6 +9649,7 @@
             "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
             "Saudi — Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
@@ -9676,11 +9682,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 3.813,
+      "fwci": 3.8295,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.92127705,
+        "value": 0.92156863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9962,9 +9968,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -10502,9 +10508,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -11061,6 +11067,7 @@
           "is_corresponding": true,
           "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6015-1885",
           "affiliations": []
         },
         {
@@ -11090,6 +11097,7 @@
           "raw_affiliation_strings": [
             "Université de Liège - ULiège >  > Relations académiques et scientifiques (Sciences) >"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège - ULiège >  > Relations académiques et scientifiques (Sciences) >",
@@ -11111,6 +11119,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -11125,6 +11134,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -11137,11 +11147,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.897,
+      "fwci": 1.9032,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.89673697,
+        "value": 0.89690518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11475,6 +11485,7 @@
           "raw_affiliation_strings": [
             "Géosciences Rennes"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géosciences Rennes",
@@ -11496,6 +11507,7 @@
           "is_corresponding": false,
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6046-4283",
           "affiliations": []
         },
         {
@@ -11510,6 +11522,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -11524,6 +11537,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jan Zalasiewicz",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3220-4855",
           "affiliations": []
         },
         {
@@ -11538,6 +11552,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mark Williams",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7987-6069",
           "affiliations": []
         }
       ],
@@ -11552,11 +11567,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5749,
+      "fwci": 0.5743,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80998568,
+        "value": 0.81025442,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11807,9 +11822,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -11857,7 +11872,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12444,6 +12459,7 @@
           "is_corresponding": true,
           "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-8257-7588",
           "affiliations": []
         },
         {
@@ -12458,6 +12474,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -12474,7 +12491,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.43613211,
+        "value": 0.43366844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12767,6 +12784,7 @@
           "is_corresponding": true,
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -12781,6 +12799,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -12795,6 +12814,7 @@
           "is_corresponding": false,
           "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6015-1885",
           "affiliations": []
         },
         {
@@ -12809,6 +12829,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -12821,11 +12842,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.6909,
+      "fwci": 5.7097,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.95483486,
+        "value": 0.95485906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13147,6 +13168,7 @@
           "raw_affiliation_strings": [
             "Géosciences Rennes"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géosciences Rennes",
@@ -13168,6 +13190,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -13182,6 +13205,7 @@
           "is_corresponding": false,
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6046-4283",
           "affiliations": []
         },
         {
@@ -13196,6 +13220,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13210,6 +13235,7 @@
           "is_corresponding": false,
           "raw_author_name": "James Melvin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -13224,16 +13250,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.292,
+      "fwci": 0.2956,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66214397,
+        "value": 0.66613656,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -13465,9 +13491,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -13580,6 +13606,7 @@
           "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13594,6 +13621,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -13608,6 +13636,7 @@
           "is_corresponding": false,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13622,6 +13651,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mansour Al-Ruwaili",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13629,13 +13659,14 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
+            "orcid": null
           },
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": []
         },
         {
@@ -13650,6 +13681,7 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -13666,7 +13698,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.25892617,
+        "value": 0.25965005,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13927,9 +13959,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -15216,9 +15248,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -15314,6 +15346,7 @@
           "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15328,6 +15361,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15357,6 +15391,7 @@
           "raw_affiliation_strings": [
             "Université de Liège - ULiège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >  >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège - ULiège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >  >",
@@ -15378,6 +15413,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15392,6 +15428,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -15408,7 +15445,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01590997,
+        "value": 0.01621418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15568,9 +15605,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -16123,9 +16160,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -16852,6 +16889,7 @@
           "is_corresponding": true,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -16859,7 +16897,7 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
+            "orcid": null
           },
           "institutions": [
             {
@@ -16881,6 +16919,7 @@
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -16902,6 +16941,7 @@
           "is_corresponding": false,
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -16916,6 +16956,7 @@
           "is_corresponding": false,
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
           "affiliations": []
         },
         {
@@ -16930,6 +16971,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -16946,7 +16988,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11860541,
+        "value": 0.12551406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17184,9 +17226,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -17203,7 +17245,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17268,6 +17310,7 @@
           "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17297,6 +17340,7 @@
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -17318,6 +17362,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17332,6 +17377,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17346,6 +17392,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -17362,7 +17409,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21441815,
+        "value": 0.21297482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17481,9 +17528,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -17565,6 +17612,7 @@
           "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17579,6 +17627,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mansour Al-Ruwaili",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17593,6 +17642,7 @@
           "is_corresponding": false,
           "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6015-1885",
           "affiliations": []
         },
         {
@@ -17607,6 +17657,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17621,6 +17672,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ken Higgs",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17635,6 +17687,7 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17649,6 +17702,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17663,6 +17717,7 @@
           "is_corresponding": false,
           "raw_author_name": "John Marshall",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9242-3646",
           "affiliations": []
         },
         {
@@ -17677,6 +17732,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-8257-7588",
           "affiliations": []
         },
         {
@@ -17691,6 +17747,7 @@
           "is_corresponding": false,
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
           "affiliations": []
         },
         {
@@ -17698,7 +17755,7 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
+            "orcid": null
           },
           "institutions": [
             {
@@ -17720,6 +17777,7 @@
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -17741,6 +17799,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mike Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17755,6 +17814,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michel Vanguestaine",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17769,6 +17829,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -17783,6 +17844,7 @@
           "is_corresponding": false,
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
           "affiliations": []
         }
       ],
@@ -17799,7 +17861,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16215678,
+        "value": 0.16183718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18635,7 +18697,7 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
+            "orcid": null
           },
           "institutions": [
             {
@@ -18657,6 +18719,7 @@
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -18678,6 +18741,7 @@
           "is_corresponding": false,
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -18692,6 +18756,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -18706,6 +18771,7 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -18720,6 +18786,7 @@
           "is_corresponding": false,
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
           "affiliations": []
         },
         {
@@ -18734,6 +18801,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -18748,6 +18816,7 @@
           "is_corresponding": false,
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
           "affiliations": []
         }
       ],
@@ -18766,7 +18835,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08007606,
+        "value": 0.08201599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19115,7 +19184,7 @@
           "author": {
             "id": "https://openalex.org/A5044489988",
             "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
+            "orcid": null
           },
           "institutions": [
             {
@@ -19137,6 +19206,7 @@
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -19158,6 +19228,7 @@
           "is_corresponding": false,
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19172,6 +19243,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19186,6 +19258,7 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19200,6 +19273,7 @@
           "is_corresponding": false,
           "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6421-4559",
           "affiliations": []
         },
         {
@@ -19214,6 +19288,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2939-7684",
           "affiliations": []
         },
         {
@@ -19228,6 +19303,7 @@
           "is_corresponding": false,
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
           "affiliations": []
         }
       ],
@@ -19246,7 +19322,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09328264,
+        "value": 0.09641439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19493,9 +19569,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -19585,6 +19661,7 @@
           "is_corresponding": true,
           "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0550-1704",
           "affiliations": []
         },
         {
@@ -19599,6 +19676,7 @@
           "is_corresponding": false,
           "raw_author_name": "W. Taylor",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19613,6 +19691,7 @@
           "is_corresponding": false,
           "raw_author_name": "CH Wellman",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -19642,6 +19721,7 @@
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1183-6324",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >",
@@ -19663,6 +19743,7 @@
           "is_corresponding": false,
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
           "affiliations": []
         },
         {
@@ -19677,6 +19758,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -19693,7 +19775,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03911,
+        "value": 0.04058093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19905,9 +19987,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -20005,6 +20087,7 @@
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi ARAMCO",
@@ -20026,6 +20109,7 @@
           "is_corresponding": false,
           "raw_author_name": "Anthony Butcher",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20040,6 +20124,7 @@
           "is_corresponding": false,
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9203-7625",
           "affiliations": []
         },
         {
@@ -20054,6 +20139,7 @@
           "is_corresponding": false,
           "raw_author_name": "Kaya Ertug",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20068,6 +20154,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ahmed Al-Shawareb",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20082,6 +20169,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20096,6 +20184,7 @@
           "is_corresponding": false,
           "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -20114,7 +20203,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09456255,
+        "value": 0.09997895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20271,9 +20360,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -20614,9 +20703,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],

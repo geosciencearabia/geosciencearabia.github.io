@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002785,
+        "value": 0.0002787,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -864,8 +864,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2635,8 +2635,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -2832,6 +2832,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6703-9001",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia",
@@ -2868,6 +2869,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7209-3715",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia",
@@ -2904,6 +2906,7 @@
           "raw_affiliation_strings": [
             "Center of Integrative Petroleum Research, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7698-5219",
           "affiliations": [
             {
               "raw_affiliation_string": "Center of Integrative Petroleum Research, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia",
@@ -2940,6 +2943,7 @@
           "raw_affiliation_strings": [
             "Center of Environment and Water, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center of Environment and Water, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia",
@@ -2976,6 +2980,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum &amp; Minerals, Dhahran 31261, Saudi Arabia",
@@ -3005,11 +3010,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 5.6699,
+      "fwci": 5.6745,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.96855206,
+        "value": 0.96858375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3472,8 +3477,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -4065,7 +4070,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-04-05T17:49:38.594831",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4152,6 +4157,7 @@
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -4188,6 +4194,7 @@
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -4224,6 +4231,7 @@
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -4242,16 +4250,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I130009713",
-              "display_name": "Suez University",
-              "ror": "https://ror.org/00ndhrx30",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I130009713"
-              ]
-            },
-            {
               "id": "https://openalex.org/I126596746",
               "display_name": "Jagiellonian University",
               "ror": "https://ror.org/03bqmcz70",
@@ -4259,6 +4257,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I126596746"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I130009713",
+              "display_name": "Suez University",
+              "ror": "https://ror.org/00ndhrx30",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130009713"
               ]
             },
             {
@@ -4283,6 +4291,7 @@
             "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
             "Exploration Department, Gulf of Suez Petroleum Company, 2400, Cairo, Egypt"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3011-5832",
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
@@ -4326,6 +4335,7 @@
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Engineering Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -4374,6 +4384,7 @@
             "Centre for Environment & Marine Studies, Research Institute, KFUPM, Saudi Arabia",
             "Faculty of Petroleum & Mining Engineering, Suez University, Egypt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Environment & Marine Studies, Research Institute, KFUPM, Saudi Arabia",
@@ -4409,11 +4420,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.6196,
+      "fwci": 5.6364,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.97280072,
+        "value": 0.97288172,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4758,18 +4769,16 @@
           "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/304021",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401249",
-            "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+            "id": "https://openalex.org/S4306400316",
+            "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I126596746",
-            "host_organization_name": "Jagiellonian University",
-            "host_organization_lineage": [
-              "https://openalex.org/I126596746"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -4779,7 +4788,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
-          "raw_type": "info:eu-repo/semantics/article"
+          "raw_type": "artykuł w czasopiśmie"
         }
       ],
       "best_oa_location": {
@@ -4788,18 +4797,16 @@
         "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/304021",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306401249",
-          "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+          "id": "https://openalex.org/S4306400316",
+          "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I126596746",
-          "host_organization_name": "Jagiellonian University",
-          "host_organization_lineage": [
-            "https://openalex.org/I126596746"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -4809,7 +4816,7 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "artykuł w czasopiśmie"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -4932,7 +4939,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5420,8 +5427,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5600,6 +5607,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -5636,6 +5644,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -5672,6 +5681,7 @@
           "raw_affiliation_strings": [
             "K.L University, Vaddeswaram, Vijayawada, Andhra Pradesh, 522302, India"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "K.L University, Vaddeswaram, Vijayawada, Andhra Pradesh, 522302, India",
@@ -5708,6 +5718,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -5744,6 +5755,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -5769,11 +5781,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.8456,
+      "fwci": 5.108,
       "has_fulltext": false,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95006911,
+        "value": 0.95347834,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6066,8 +6078,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -6154,7 +6166,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -6165,7 +6177,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-24T08:23:43.765630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9660,8 +9672,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10972,8 +10984,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -13120,8 +13132,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -13904,6 +13916,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -13940,6 +13953,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4395-9567",
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -13976,6 +13990,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14012,6 +14027,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14041,11 +14057,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 2.4219,
+      "fwci": 2.4227,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.87957982,
+        "value": 0.87961806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15368,7 +15384,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15455,6 +15471,7 @@
           "raw_affiliation_strings": [
             "Center for Environment and Marine Studies, RI, KFUPM, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Environment and Marine Studies, RI, KFUPM, Saudi Arabia",
@@ -15491,6 +15508,7 @@
           "raw_affiliation_strings": [
             "Petroleum Engineering Department, CPG, KFUPM, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Engineering Department, CPG, KFUPM, Saudi Arabia",
@@ -15538,6 +15556,7 @@
           "raw_affiliation_strings": [
             "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3011-5832",
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
@@ -15577,6 +15596,7 @@
           "raw_affiliation_strings": [
             "British Geological Survey, Lyell Center, Research Avenue South, Edinburgh, EH216ER, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Lyell Center, Research Avenue South, Edinburgh, EH216ER, UK",
@@ -15625,6 +15645,7 @@
             "Department of Petroleum Engineering, School of Earth Resources, China University of Geosciences, Wuhan, China",
             "Energy & Environmental Research Center, University of North Dakota, Grand Forks, ND, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, School of Earth Resources, China University of Geosciences, Wuhan, China",
@@ -15667,6 +15688,7 @@
           "raw_affiliation_strings": [
             "Geology Department, Port Said University, Egypt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, Port Said University, Egypt",
@@ -15703,7 +15725,7 @@
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.91003273,
+        "value": 0.91003476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17110,7 +17132,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-22T08:38:42.863108",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17199,6 +17221,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17235,6 +17258,7 @@
           "raw_affiliation_strings": [
             "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, 50-137, Wrocław, Poland"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5232-7476",
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, 50-137, Wrocław, Poland",
@@ -17271,6 +17295,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17307,6 +17332,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -17336,11 +17362,11 @@
         "currency": "EUR",
         "value_usd": 3490
       },
-      "fwci": 5.6532,
+      "fwci": 5.501,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.95767104,
+        "value": 0.95649922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17704,8 +17730,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -18709,8 +18735,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -18958,6 +18984,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -18994,6 +19021,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -19030,6 +19058,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6725-4094",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -19066,6 +19095,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -19102,6 +19132,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -19125,6 +19156,7 @@
           "raw_affiliation_strings": [
             "NEOM Environment, NEOM, NEOM, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "NEOM Environment, NEOM, NEOM, Saudi Arabia",
@@ -19148,11 +19180,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 9.5809,
+      "fwci": 9.5493,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.9767009,
+        "value": 0.97664421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19414,8 +19446,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19532,7 +19564,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-22T08:38:42.863108",
+      "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22634,16 +22666,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130009713",
               "display_name": "Suez University",
               "ror": "https://ror.org/00ndhrx30",
@@ -22651,6 +22673,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130009713"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -22664,6 +22696,7 @@
             "Center for Environment & Water, RI, King Fahd University of Petroleum & Minerals, Saudi Arabia",
             "Faculty of Petroleum & Mining Engineering, Suez University, Egypt"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4373-8713",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Environment & Water, RI, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -22706,6 +22739,7 @@
           "raw_affiliation_strings": [
             "CIPR, CPG, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
           "affiliations": [
             {
               "raw_affiliation_string": "CIPR, CPG, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -22729,6 +22763,7 @@
           "raw_affiliation_strings": [
             "Faculty of Petroleum Engineering, Peace University, Sudan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Petroleum Engineering, Peace University, Sudan",
@@ -22763,6 +22798,7 @@
           "raw_affiliation_strings": [
             "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7258-0863",
           "affiliations": [
             {
               "raw_affiliation_string": "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -22799,6 +22835,7 @@
           "raw_affiliation_strings": [
             "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -22835,6 +22872,7 @@
           "raw_affiliation_strings": [
             "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Weatherford, Dhahran Techno Valley, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -22861,11 +22899,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.9167,
+      "fwci": 2.9288,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.90119281,
+        "value": 0.90160003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23476,6 +23514,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -23513,6 +23552,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-0543-9026",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -23555,6 +23595,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -23591,6 +23632,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -23627,6 +23669,7 @@
           "raw_affiliation_strings": [
             "Applied Research Centre for Environment and Marine Studies, Research Institute, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Centre for Environment and Marine Studies, Research Institute, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -23648,11 +23691,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8041,
+      "fwci": 2.7986,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90042526,
+        "value": 0.90010832,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24009,8 +24052,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24267,6 +24310,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -24303,6 +24347,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -24339,6 +24384,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -24375,6 +24421,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -24398,6 +24445,7 @@
           "raw_affiliation_strings": [
             "NEOM Environment, Neom, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "NEOM Environment, Neom, Saudi Arabia",
@@ -24432,6 +24480,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -24457,11 +24506,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.3406,
+      "fwci": 3.1831,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.91424709,
+        "value": 0.91074751,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24769,15 +24818,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G4396996754",
-          "display_name": null,
-          "funder_award_id": "King Fahd University of Petroleum & Minerals",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320322323",
@@ -27335,16 +27376,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I8692664",
-              "display_name": "University of Oklahoma",
-              "ror": "https://ror.org/02aqsxs83",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I8692664"
-              ]
-            },
-            {
               "id": "https://openalex.org/I24101674",
               "display_name": "ConocoPhillips (United States)",
               "ror": "https://ror.org/04hadnb81",
@@ -27352,6 +27383,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I24101674"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I8692664",
+              "display_name": "University of Oklahoma",
+              "ror": "https://ror.org/02aqsxs83",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8692664"
               ]
             }
           ],
@@ -27363,6 +27404,7 @@
           "raw_affiliation_strings": [
             "Conoco-Phillips School of Geology and Geophysics, University of Oklahoma, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Conoco-Phillips School of Geology and Geophysics, University of Oklahoma, USA",
@@ -27382,16 +27424,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130009713",
               "display_name": "Suez University",
               "ror": "https://ror.org/00ndhrx30",
@@ -27399,6 +27431,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130009713"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -27412,6 +27454,7 @@
             "Faculty of Petroleum and Mining Engineering, Suez University, Suez, Egypt",
             "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4373-8713",
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Petroleum and Mining Engineering, Suez University, Suez, Egypt",
@@ -27444,11 +27487,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.0525,
+      "fwci": 1.0568,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.77243571,
+        "value": 0.77336335,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28183,8 +28226,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -30287,8 +30330,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31368,8 +31411,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33705,8 +33748,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37253,8 +37296,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -39131,8 +39174,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40963,8 +41006,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -45162,8 +45205,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -45745,6 +45788,7 @@
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
             "Experts Vision Consulting (EVC), Riyadh, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
@@ -45774,6 +45818,7 @@
           "raw_affiliation_strings": [
             "Royal Commission for AlUla, AlUla, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Royal Commission for AlUla, AlUla, Saudi Arabia",
@@ -45808,6 +45853,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
@@ -45844,6 +45890,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
@@ -45880,6 +45927,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
@@ -45910,7 +45958,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3421334,
+        "value": 0.33499673,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46229,15 +46277,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G8260893046",
-          "display_name": null,
-          "funder_award_id": "King Fahd University of Petroleum and Minerals",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320322323",
@@ -46297,7 +46337,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46397,6 +46437,7 @@
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Experts Vision Consulting (EVC), Riyadh, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -46439,6 +46480,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -46475,6 +46517,7 @@
           "raw_affiliation_strings": [
             "National Center for Vegetation Cover and Combating Desertification, RAFA4164, 4164 Northern Ring Br Rd, 6724, Al Falah, Riyadh, 13314, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Center for Vegetation Cover and Combating Desertification, RAFA4164, 4164 Northern Ring Br Rd, 6724, Al Falah, Riyadh, 13314, Saudi Arabia",
@@ -46511,6 +46554,7 @@
           "raw_affiliation_strings": [
             "Experts Vision Consulting (EVC), Riyadh, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Experts Vision Consulting (EVC), Riyadh, Saudi Arabia",
@@ -46547,6 +46591,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -46570,6 +46615,7 @@
           "raw_affiliation_strings": [
             "Danxiashan UNESCO Global Geopark, Shaoguan, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Danxiashan UNESCO Global Geopark, Shaoguan, China",
@@ -46604,6 +46650,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment & Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -46634,7 +46681,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35545686,
+        "value": 0.34800393,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46906,15 +46953,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G996811674",
-          "display_name": null,
-          "funder_award_id": "KFUPM",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320322323",
@@ -46979,7 +47018,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47065,6 +47104,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4028-2028",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47101,6 +47141,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47137,6 +47178,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47173,6 +47215,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47209,6 +47252,7 @@
           "raw_affiliation_strings": [
             "National Centre for Aquatic Animal Health, Cochin University of Science and Technology, Kerala, India"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Centre for Aquatic Animal Health, Cochin University of Science and Technology, Kerala, India",
@@ -47245,6 +47289,7 @@
           "raw_affiliation_strings": [
             "Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, NO-0316, Oslo, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, NO-0316, Oslo, Norway",
@@ -47281,6 +47326,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47317,6 +47363,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47353,6 +47400,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47389,6 +47437,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47410,6 +47459,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mohamed Asharaf",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -47439,6 +47489,7 @@
           "raw_affiliation_strings": [
             "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research and Innovation, King Fahd University of Petroleum & Minerals, P. B. No. 1995, Dhahran 31261, Saudi Arabia",
@@ -47475,6 +47526,7 @@
           "raw_affiliation_strings": [
             "Biothreat Response, Public Health Laboratory, Public Health Authority, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Biothreat Response, Public Health Laboratory, Public Health Authority, Saudi Arabia",
@@ -47498,6 +47550,7 @@
           "raw_affiliation_strings": [
             "NEOM Environment, Neom, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "NEOM Environment, Neom, Saudi Arabia",
@@ -47526,7 +47579,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21659853,
+        "value": 0.11860759,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

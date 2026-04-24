@@ -1073,9 +1073,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -1097,8 +1097,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -2141,16 +2141,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4457,16 +4457,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality Education"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4251869326.pdf",
@@ -5105,8 +5105,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -7197,16 +7197,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality Education"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231640444.pdf",
@@ -8619,16 +8619,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4246434093.pdf",
@@ -9717,9 +9717,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -9731,8 +9731,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -10545,16 +10545,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11448,16 +11448,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12241,6 +12241,7 @@
           "is_corresponding": true,
           "raw_author_name": "Muhammad Arslan",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9620-6710",
           "affiliations": []
         },
         {
@@ -12255,6 +12256,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": []
         },
         {
@@ -12269,6 +12271,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bassam Tawabini",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
           "affiliations": []
         },
         {
@@ -12283,6 +12286,7 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid Al Ramadan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -12297,6 +12301,7 @@
           "is_corresponding": false,
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
           "affiliations": []
         },
         {
@@ -12311,6 +12316,7 @@
           "is_corresponding": false,
           "raw_author_name": "Fabrizio Frontalini",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0425-9306",
           "affiliations": []
         }
       ],
@@ -12327,7 +12333,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69188768,
+        "value": 0.69164715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12528,16 +12534,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12633,6 +12639,7 @@
           "raw_affiliation_strings": [
             "KFUPM"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4568-2941",
           "affiliations": [
             {
               "raw_affiliation_string": "KFUPM",
@@ -12669,6 +12676,7 @@
           "raw_affiliation_strings": [
             "KFUPM"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4153-3415",
           "affiliations": [
             {
               "raw_affiliation_string": "KFUPM",
@@ -12705,6 +12713,7 @@
           "raw_affiliation_strings": [
             "Aristotle University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aristotle University",
@@ -12741,6 +12750,7 @@
           "raw_affiliation_strings": [
             "University of Copenhagen"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Copenhagen",
@@ -12777,6 +12787,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
@@ -12813,6 +12824,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Peteroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Peteroleum and Minerals",
@@ -12849,6 +12861,7 @@
           "raw_affiliation_strings": [
             "KFUPM"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "KFUPM",
@@ -12885,6 +12898,7 @@
           "raw_affiliation_strings": [
             "KFUPM"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7540-3897",
           "affiliations": [
             {
               "raw_affiliation_string": "KFUPM",
@@ -12910,7 +12924,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22490607,
+        "value": 0.22428006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13055,16 +13069,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

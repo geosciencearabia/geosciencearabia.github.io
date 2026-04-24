@@ -322,6 +322,1039 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W4396745839",
+      "doi": "https://doi.org/10.1144/sp550-2024-7",
+      "title": "Overview of the carbon capture and storage opportunities in Oman",
+      "display_name": "Overview of the carbon capture and storage opportunities in Oman",
+      "publication_year": 2024,
+      "publication_date": "2024-05-08",
+      "ids": {
+        "openalex": "https://openalex.org/W4396745839",
+        "doi": "https://doi.org/10.1144/sp550-2024-7"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1144/sp550-2024-7",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1144/sp550-2024-7",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed Al-Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
+            "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5007597150"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210114766",
+        "https://openalex.org/I4210122910"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9827,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.71249378,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "550",
+        "issue": "1",
+        "first_page": "449",
+        "last_page": "467"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9970999956130981,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7594127655029297
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.6001123785972595
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.5790387392044067
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.546853244304657
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-exploration",
+          "display_name": "Hydrocarbon exploration",
+          "score": 0.5010802745819092
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.4862431585788727
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.480145663022995
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.4414086937904358
+        },
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.3832363784313202
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.34812211990356445
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.2988261580467224
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.2076823115348816
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.18442904949188232
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.14126524329185486
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.13361358642578125
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7594127655029297
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.6001123785972595
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.5790387392044067
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.546853244304657
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.5010802745819092
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4862431585788727
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.480145663022995
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.4414086937904358
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.3832363784313202
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.34812211990356445
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.2988261580467224
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2076823115348816
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.18442904949188232
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.14126524329185486
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.13361358642578125
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1144/sp550-2024-7",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S29311329",
+            "display_name": "Geological Society London Special Publications",
+            "issn_l": "0305-8719",
+            "issn": [
+              "0305-8719",
+              "2041-4927"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311650",
+            "host_organization_name": "Geological Society of London",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311650"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of London"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geological Society, London, Special Publications",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1144/sp550-2024-7",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W5762793",
+        "https://openalex.org/W203888015",
+        "https://openalex.org/W1537425267",
+        "https://openalex.org/W1967486945",
+        "https://openalex.org/W1972449614",
+        "https://openalex.org/W1978672601",
+        "https://openalex.org/W1979820932",
+        "https://openalex.org/W1988046891",
+        "https://openalex.org/W1997806358",
+        "https://openalex.org/W2001143037",
+        "https://openalex.org/W2003533313",
+        "https://openalex.org/W2018263303",
+        "https://openalex.org/W2023098547",
+        "https://openalex.org/W2053665288",
+        "https://openalex.org/W2054113323",
+        "https://openalex.org/W2063378619",
+        "https://openalex.org/W2069188138",
+        "https://openalex.org/W2083772074",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2092453928",
+        "https://openalex.org/W2093634178",
+        "https://openalex.org/W2102735659",
+        "https://openalex.org/W2120387501",
+        "https://openalex.org/W2120767531",
+        "https://openalex.org/W2126278414",
+        "https://openalex.org/W2146586425",
+        "https://openalex.org/W2147257097",
+        "https://openalex.org/W2164074972",
+        "https://openalex.org/W2248650298",
+        "https://openalex.org/W2259645488",
+        "https://openalex.org/W2263126038",
+        "https://openalex.org/W2309275844",
+        "https://openalex.org/W2540812079",
+        "https://openalex.org/W2563038316",
+        "https://openalex.org/W2589836693",
+        "https://openalex.org/W2754747596",
+        "https://openalex.org/W2789325428",
+        "https://openalex.org/W2792040563",
+        "https://openalex.org/W2795095535",
+        "https://openalex.org/W2884588303",
+        "https://openalex.org/W2888284655",
+        "https://openalex.org/W2910061647",
+        "https://openalex.org/W2945318394",
+        "https://openalex.org/W2954119218",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2967069995",
+        "https://openalex.org/W2992820450",
+        "https://openalex.org/W3104635880",
+        "https://openalex.org/W3106505032",
+        "https://openalex.org/W3107735373",
+        "https://openalex.org/W3120849645",
+        "https://openalex.org/W3133826733",
+        "https://openalex.org/W3185959185",
+        "https://openalex.org/W3214204475",
+        "https://openalex.org/W4200520867",
+        "https://openalex.org/W4214703750",
+        "https://openalex.org/W4237201342",
+        "https://openalex.org/W4292600253",
+        "https://openalex.org/W4307664753",
+        "https://openalex.org/W4311103994",
+        "https://openalex.org/W4365514716",
+        "https://openalex.org/W4388923668",
+        "https://openalex.org/W4391723776",
+        "https://openalex.org/W6632240102"
+      ],
+      "related_works": [
+        "https://openalex.org/W2099125473",
+        "https://openalex.org/W3197394425",
+        "https://openalex.org/W2186664940",
+        "https://openalex.org/W145912162",
+        "https://openalex.org/W4318054758",
+        "https://openalex.org/W2323211337",
+        "https://openalex.org/W2188726490",
+        "https://openalex.org/W1985917712",
+        "https://openalex.org/W947733520",
+        "https://openalex.org/W2470557154"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          53,
+          68,
+          137,
+          155,
+          172,
+          179
+        ],
+        "This": [
+          0
+        ],
+        "work": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "an": [
+          3
+        ],
+        "overview": [
+          4
+        ],
+        "of": [
+          5,
+          38,
+          177
+        ],
+        "the": [
+          6,
+          39,
+          55,
+          58,
+          142,
+          175,
+          187
+        ],
+        "surface": [
+          7
+        ],
+        "and": [
+          8,
+          12,
+          16,
+          75,
+          80,
+          174
+        ],
+        "subsurface": [
+          9,
+          60
+        ],
+        "carbon": [
+          10,
+          87
+        ],
+        "capture": [
+          11
+        ],
+        "storage": [
+          13,
+          64,
+          173
+        ],
+        "(CCS)": [
+          14
+        ],
+        "opportunities,": [
+          15
+        ],
+        "their": [
+          17,
+          47
+        ],
+        "associated": [
+          18
+        ],
+        "risks,": [
+          19
+        ],
+        "in": [
+          20,
+          71,
+          180,
+          192
+        ],
+        "Oman.": [
+          21,
+          193
+        ],
+        "Oman's": [
+          22,
+          113
+        ],
+        "stratigraphy": [
+          23
+        ],
+        "encompasses": [
+          24
+        ],
+        "various": [
+          25
+        ],
+        "rock": [
+          26
+        ],
+        "sequences": [
+          27,
+          61
+        ],
+        "that": [
+          28
+        ],
+        "can": [
+          29,
+          92
+        ],
+        "be": [
+          30,
+          94,
+          120
+        ],
+        "harnessed": [
+          31
+        ],
+        "for": [
+          32,
+          46,
+          66,
+          86,
+          96,
+          111,
+          128,
+          170,
+          190
+        ],
+        "CCS": [
+          33,
+          144,
+          191
+        ],
+        "purposes.": [
+          34
+        ],
+        "The": [
+          35
+        ],
+        "ultramafic": [
+          36
+        ],
+        "rocks": [
+          37
+        ],
+        "Samail": [
+          40
+        ],
+        "Ophiolite": [
+          41
+        ],
+        "have": [
+          42
+        ],
+        "long": [
+          43
+        ],
+        "been": [
+          44
+        ],
+        "researched": [
+          45
+        ],
+        "ability": [
+          48
+        ],
+        "to": [
+          49,
+          99,
+          116,
+          122,
+          156
+        ],
+        "permanently": [
+          50
+        ],
+        "sequestrate": [
+          51
+        ],
+        "CO": [
+          52,
+          67,
+          136,
+          154,
+          171,
+          178
+        ],
+        "near": [
+          54
+        ],
+        "surface,": [
+          56
+        ],
+        "whilst": [
+          57
+        ],
+        "well-studied": [
+          59
+        ],
+        "also": [
+          62,
+          93
+        ],
+        "offer": [
+          63
+        ],
+        "opportunities": [
+          65,
+          145,
+          189
+        ],
+        ",": [
+          69
+        ],
+        "particularly": [
+          70
+        ],
+        "deeply": [
+          72
+        ],
+        "buried": [
+          73
+        ],
+        "clastic": [
+          74,
+          182
+        ],
+        "carbonate": [
+          76
+        ],
+        "saline": [
+          77,
+          183
+        ],
+        "aquifers.": [
+          78
+        ],
+        "Structural": [
+          79
+        ],
+        "stratigraphic": [
+          81
+        ],
+        "traps": [
+          82,
+          110
+        ],
+        "could": [
+          83,
+          119
+        ],
+        "hold": [
+          84
+        ],
+        "potential": [
+          85
+        ],
+        "disposal.": [
+          88,
+          112
+        ],
+        "Producing": [
+          89
+        ],
+        "hydrocarbon": [
+          90,
+          101,
+          158,
+          168
+        ],
+        "fields": [
+          91,
+          169
+        ],
+        "considered": [
+          95
+        ],
+        "CCS,": [
+          97
+        ],
+        "either": [
+          98
+        ],
+        "enhance": [
+          100,
+          157
+        ],
+        "production": [
+          102
+        ],
+        "from": [
+          103
+        ],
+        "existing": [
+          104
+        ],
+        "reservoirs": [
+          105
+        ],
+        "or": [
+          106
+        ],
+        "by": [
+          107,
+          160
+        ],
+        "utilizing": [
+          108
+        ],
+        "deep": [
+          109,
+          181
+        ],
+        "Late": [
+          114
+        ],
+        "Proterozoic": [
+          115
+        ],
+        "Cambrian": [
+          117
+        ],
+        "evaporites": [
+          118
+        ],
+        "utilized": [
+          121
+        ],
+        "create": [
+          123
+        ],
+        "large": [
+          124
+        ],
+        "underground": [
+          125
+        ],
+        "salt": [
+          126
+        ],
+        "caverns": [
+          127
+        ],
+        "storing": [
+          129
+        ],
+        "hydrogen": [
+          130
+        ],
+        "and,": [
+          131
+        ],
+        "a": [
+          132
+        ],
+        "less": [
+          133
+        ],
+        "attractive": [
+          134
+        ],
+        "option,": [
+          135
+        ],
+        ".": [
+          138
+        ],
+        "In": [
+          139
+        ],
+        "this": [
+          140
+        ],
+        "work,": [
+          141
+        ],
+        "identified": [
+          143
+        ],
+        "are": [
+          146
+        ],
+        "ranked": [
+          147
+        ],
+        "based": [
+          148
+        ],
+        "on": [
+          149
+        ],
+        "different": [
+          150
+        ],
+        "criteria.": [
+          151
+        ],
+        "Using": [
+          152
+        ],
+        "injected": [
+          153
+        ],
+        "recovery": [
+          159
+        ],
+        "providing": [
+          161
+        ],
+        "additional": [
+          162
+        ],
+        "reservoir": [
+          163
+        ],
+        "pressure": [
+          164
+        ],
+        "support,": [
+          165
+        ],
+        "using": [
+          166
+        ],
+        "depleted": [
+          167
+        ],
+        "injection": [
+          176
+        ],
+        "aquifers": [
+          184
+        ],
+        "rank": [
+          185
+        ],
+        "among": [
+          186
+        ],
+        "main": [
+          188
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-03-27T05:58:40.876381",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3010622588",
       "doi": "https://doi.org/10.3390/geosciences10030095",
       "title": "Timing, Mechanics and Controls of the Evolution of the Southernmost Part of the Oman Mountains: The Salakh Arch",
@@ -406,6 +1439,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, P.C. 611, P.O.Box 979 Muscat, Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.C. 611, P.O.Box 979 Muscat, Oman",
@@ -435,17 +1469,17 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 0.1868,
+      "fwci": 0.1869,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.49019841,
+        "value": 0.49146161,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 99
+        "max": 98
       },
       "biblio": {
         "volume": "10",
@@ -1825,6 +2859,7 @@
           "raw_affiliation_strings": [
             "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
           ],
+          "raw_orcid": "https://orcid.org/0009-0005-2430-9517",
           "affiliations": [
             {
               "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
@@ -1861,6 +2896,7 @@
           "raw_affiliation_strings": [
             "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
@@ -1897,6 +2933,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre  Muscat Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
@@ -1933,6 +2970,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre  Muscat Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
@@ -1969,6 +3007,7 @@
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
@@ -2005,6 +3044,7 @@
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
@@ -2041,6 +3081,7 @@
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
@@ -2077,6 +3118,7 @@
           "raw_affiliation_strings": [
             "Shell International Exploration and Production  Houston Texas USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
@@ -2102,17 +3144,17 @@
         "value_usd": 4840
       },
       "apc_paid": null,
-      "fwci": 2.4849,
+      "fwci": 2.1733,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.89698236,
+        "value": 0.88566372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 96,
-        "max": 99
+        "max": 98
       },
       "biblio": {
         "volume": "50",
@@ -2403,9 +3445,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -3246,1038 +4288,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4396745839",
-      "doi": "https://doi.org/10.1144/sp550-2024-7",
-      "title": "Overview of the carbon capture and storage opportunities in Oman",
-      "display_name": "Overview of the carbon capture and storage opportunities in Oman",
-      "publication_year": 2024,
-      "publication_date": "2024-05-08",
-      "ids": {
-        "openalex": "https://openalex.org/W4396745839",
-        "doi": "https://doi.org/10.1144/sp550-2024-7"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1144/sp550-2024-7",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1144/sp550-2024-7",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5007597150",
-            "display_name": "Mohammed Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Al-Kindi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
-            "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5007597150"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210114766",
-        "https://openalex.org/I4210122910"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.0294,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.72124192,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "550",
-        "issue": "1",
-        "first_page": "449",
-        "last_page": "467"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9970999956130981,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7594127655029297
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.6001123785972595
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.5790387392044067
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.546853244304657
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-exploration",
-          "display_name": "Hydrocarbon exploration",
-          "score": 0.5010802745819092
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.4862431585788727
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.480145663022995
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.4414086937904358
-        },
-        {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.3832363784313202
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.34812211990356445
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.2988261580467224
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.2076823115348816
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.18442904949188232
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.14126524329185486
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.13361358642578125
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7594127655029297
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.6001123785972595
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.5790387392044067
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.546853244304657
-        },
-        {
-          "id": "https://openalex.org/C2776662147",
-          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
-          "display_name": "Hydrocarbon exploration",
-          "level": 3,
-          "score": 0.5010802745819092
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4862431585788727
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.480145663022995
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.4414086937904358
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.3832363784313202
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.34812211990356445
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.2988261580467224
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2076823115348816
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.18442904949188232
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.14126524329185486
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.13361358642578125
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1144/sp550-2024-7",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S29311329",
-            "display_name": "Geological Society London Special Publications",
-            "issn_l": "0305-8719",
-            "issn": [
-              "0305-8719",
-              "2041-4927"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311650",
-            "host_organization_name": "Geological Society of London",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311650"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of London"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geological Society, London, Special Publications",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1144/sp550-2024-7",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1144/sp550-2024-7",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 64,
-      "referenced_works": [
-        "https://openalex.org/W5762793",
-        "https://openalex.org/W203888015",
-        "https://openalex.org/W1537425267",
-        "https://openalex.org/W1967486945",
-        "https://openalex.org/W1972449614",
-        "https://openalex.org/W1978672601",
-        "https://openalex.org/W1979820932",
-        "https://openalex.org/W1988046891",
-        "https://openalex.org/W1997806358",
-        "https://openalex.org/W2001143037",
-        "https://openalex.org/W2003533313",
-        "https://openalex.org/W2018263303",
-        "https://openalex.org/W2023098547",
-        "https://openalex.org/W2053665288",
-        "https://openalex.org/W2054113323",
-        "https://openalex.org/W2063378619",
-        "https://openalex.org/W2069188138",
-        "https://openalex.org/W2083772074",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2092453928",
-        "https://openalex.org/W2093634178",
-        "https://openalex.org/W2102735659",
-        "https://openalex.org/W2120387501",
-        "https://openalex.org/W2120767531",
-        "https://openalex.org/W2126278414",
-        "https://openalex.org/W2146586425",
-        "https://openalex.org/W2147257097",
-        "https://openalex.org/W2164074972",
-        "https://openalex.org/W2248650298",
-        "https://openalex.org/W2259645488",
-        "https://openalex.org/W2263126038",
-        "https://openalex.org/W2309275844",
-        "https://openalex.org/W2540812079",
-        "https://openalex.org/W2563038316",
-        "https://openalex.org/W2589836693",
-        "https://openalex.org/W2754747596",
-        "https://openalex.org/W2789325428",
-        "https://openalex.org/W2792040563",
-        "https://openalex.org/W2795095535",
-        "https://openalex.org/W2884588303",
-        "https://openalex.org/W2888284655",
-        "https://openalex.org/W2910061647",
-        "https://openalex.org/W2945318394",
-        "https://openalex.org/W2954119218",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2967069995",
-        "https://openalex.org/W2992820450",
-        "https://openalex.org/W3104635880",
-        "https://openalex.org/W3106505032",
-        "https://openalex.org/W3107735373",
-        "https://openalex.org/W3120849645",
-        "https://openalex.org/W3133826733",
-        "https://openalex.org/W3185959185",
-        "https://openalex.org/W3214204475",
-        "https://openalex.org/W4200520867",
-        "https://openalex.org/W4214703750",
-        "https://openalex.org/W4237201342",
-        "https://openalex.org/W4292600253",
-        "https://openalex.org/W4307664753",
-        "https://openalex.org/W4311103994",
-        "https://openalex.org/W4365514716",
-        "https://openalex.org/W4388923668",
-        "https://openalex.org/W4391723776",
-        "https://openalex.org/W6632240102"
-      ],
-      "related_works": [
-        "https://openalex.org/W2099125473",
-        "https://openalex.org/W3197394425",
-        "https://openalex.org/W2186664940",
-        "https://openalex.org/W145912162",
-        "https://openalex.org/W4318054758",
-        "https://openalex.org/W2323211337",
-        "https://openalex.org/W2188726490",
-        "https://openalex.org/W1985917712",
-        "https://openalex.org/W947733520",
-        "https://openalex.org/W2470557154"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          53,
-          68,
-          137,
-          155,
-          172,
-          179
-        ],
-        "This": [
-          0
-        ],
-        "work": [
-          1
-        ],
-        "presents": [
-          2
-        ],
-        "an": [
-          3
-        ],
-        "overview": [
-          4
-        ],
-        "of": [
-          5,
-          38,
-          177
-        ],
-        "the": [
-          6,
-          39,
-          55,
-          58,
-          142,
-          175,
-          187
-        ],
-        "surface": [
-          7
-        ],
-        "and": [
-          8,
-          12,
-          16,
-          75,
-          80,
-          174
-        ],
-        "subsurface": [
-          9,
-          60
-        ],
-        "carbon": [
-          10,
-          87
-        ],
-        "capture": [
-          11
-        ],
-        "storage": [
-          13,
-          64,
-          173
-        ],
-        "(CCS)": [
-          14
-        ],
-        "opportunities,": [
-          15
-        ],
-        "their": [
-          17,
-          47
-        ],
-        "associated": [
-          18
-        ],
-        "risks,": [
-          19
-        ],
-        "in": [
-          20,
-          71,
-          180,
-          192
-        ],
-        "Oman.": [
-          21,
-          193
-        ],
-        "Oman's": [
-          22,
-          113
-        ],
-        "stratigraphy": [
-          23
-        ],
-        "encompasses": [
-          24
-        ],
-        "various": [
-          25
-        ],
-        "rock": [
-          26
-        ],
-        "sequences": [
-          27,
-          61
-        ],
-        "that": [
-          28
-        ],
-        "can": [
-          29,
-          92
-        ],
-        "be": [
-          30,
-          94,
-          120
-        ],
-        "harnessed": [
-          31
-        ],
-        "for": [
-          32,
-          46,
-          66,
-          86,
-          96,
-          111,
-          128,
-          170,
-          190
-        ],
-        "CCS": [
-          33,
-          144,
-          191
-        ],
-        "purposes.": [
-          34
-        ],
-        "The": [
-          35
-        ],
-        "ultramafic": [
-          36
-        ],
-        "rocks": [
-          37
-        ],
-        "Samail": [
-          40
-        ],
-        "Ophiolite": [
-          41
-        ],
-        "have": [
-          42
-        ],
-        "long": [
-          43
-        ],
-        "been": [
-          44
-        ],
-        "researched": [
-          45
-        ],
-        "ability": [
-          48
-        ],
-        "to": [
-          49,
-          99,
-          116,
-          122,
-          156
-        ],
-        "permanently": [
-          50
-        ],
-        "sequestrate": [
-          51
-        ],
-        "CO": [
-          52,
-          67,
-          136,
-          154,
-          171,
-          178
-        ],
-        "near": [
-          54
-        ],
-        "surface,": [
-          56
-        ],
-        "whilst": [
-          57
-        ],
-        "well-studied": [
-          59
-        ],
-        "also": [
-          62,
-          93
-        ],
-        "offer": [
-          63
-        ],
-        "opportunities": [
-          65,
-          145,
-          189
-        ],
-        ",": [
-          69
-        ],
-        "particularly": [
-          70
-        ],
-        "deeply": [
-          72
-        ],
-        "buried": [
-          73
-        ],
-        "clastic": [
-          74,
-          182
-        ],
-        "carbonate": [
-          76
-        ],
-        "saline": [
-          77,
-          183
-        ],
-        "aquifers.": [
-          78
-        ],
-        "Structural": [
-          79
-        ],
-        "stratigraphic": [
-          81
-        ],
-        "traps": [
-          82,
-          110
-        ],
-        "could": [
-          83,
-          119
-        ],
-        "hold": [
-          84
-        ],
-        "potential": [
-          85
-        ],
-        "disposal.": [
-          88,
-          112
-        ],
-        "Producing": [
-          89
-        ],
-        "hydrocarbon": [
-          90,
-          101,
-          158,
-          168
-        ],
-        "fields": [
-          91,
-          169
-        ],
-        "considered": [
-          95
-        ],
-        "CCS,": [
-          97
-        ],
-        "either": [
-          98
-        ],
-        "enhance": [
-          100,
-          157
-        ],
-        "production": [
-          102
-        ],
-        "from": [
-          103
-        ],
-        "existing": [
-          104
-        ],
-        "reservoirs": [
-          105
-        ],
-        "or": [
-          106
-        ],
-        "by": [
-          107,
-          160
-        ],
-        "utilizing": [
-          108
-        ],
-        "deep": [
-          109,
-          181
-        ],
-        "Late": [
-          114
-        ],
-        "Proterozoic": [
-          115
-        ],
-        "Cambrian": [
-          117
-        ],
-        "evaporites": [
-          118
-        ],
-        "utilized": [
-          121
-        ],
-        "create": [
-          123
-        ],
-        "large": [
-          124
-        ],
-        "underground": [
-          125
-        ],
-        "salt": [
-          126
-        ],
-        "caverns": [
-          127
-        ],
-        "storing": [
-          129
-        ],
-        "hydrogen": [
-          130
-        ],
-        "and,": [
-          131
-        ],
-        "a": [
-          132
-        ],
-        "less": [
-          133
-        ],
-        "attractive": [
-          134
-        ],
-        "option,": [
-          135
-        ],
-        ".": [
-          138
-        ],
-        "In": [
-          139
-        ],
-        "this": [
-          140
-        ],
-        "work,": [
-          141
-        ],
-        "identified": [
-          143
-        ],
-        "are": [
-          146
-        ],
-        "ranked": [
-          147
-        ],
-        "based": [
-          148
-        ],
-        "on": [
-          149
-        ],
-        "different": [
-          150
-        ],
-        "criteria.": [
-          151
-        ],
-        "Using": [
-          152
-        ],
-        "injected": [
-          153
-        ],
-        "recovery": [
-          159
-        ],
-        "providing": [
-          161
-        ],
-        "additional": [
-          162
-        ],
-        "reservoir": [
-          163
-        ],
-        "pressure": [
-          164
-        ],
-        "support,": [
-          165
-        ],
-        "using": [
-          166
-        ],
-        "depleted": [
-          167
-        ],
-        "injection": [
-          176
-        ],
-        "aquifers": [
-          184
-        ],
-        "rank": [
-          185
-        ],
-        "among": [
-          186
-        ],
-        "main": [
-          188
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-03-27T05:58:40.876381",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3107735373",
       "doi": "https://doi.org/10.3390/geosciences10120490",
       "title": "Understanding the Relationship between Large-Scale Fold Structures and Small-Scale Fracture Patterns: A Case Study from the Oman Mountains",
@@ -4362,6 +4372,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Center, P.C. 611, Muscat P.O. Box 979, Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Center, P.C. 611, Muscat P.O. Box 979, Oman",
@@ -4391,11 +4402,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 1.1208,
+      "fwci": 1.1213,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.74908528,
+        "value": 0.74959976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5787,6 +5798,7 @@
             "23 Croftdown Court",
             "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-7154-3123",
           "affiliations": [
             {
               "raw_affiliation_string": "23 Croftdown Court",
@@ -5840,6 +5852,7 @@
             "Green Mountain Press",
             "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Green Mountain Press",
@@ -5882,6 +5895,7 @@
             "Earth Sciences Consultancy Centre",
             "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre",
@@ -5908,11 +5922,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4866,
+      "fwci": 2.3848,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89355347,
+        "value": 0.88957309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6203,9 +6217,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -6874,6 +6888,7 @@
           "raw_affiliation_strings": [
             "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-9152-9935",
           "affiliations": [
             {
               "raw_affiliation_string": "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France",
@@ -6911,6 +6926,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman",
@@ -6937,11 +6953,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.1097,
+      "fwci": 0.1073,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.39032623,
+        "value": 0.38992112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7209,9 +7225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -7371,6 +7387,7 @@
             "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université,",
             "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université,"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9017-1107",
           "affiliations": [
             {
               "raw_affiliation_string": "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université,",
@@ -7403,6 +7420,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre",
@@ -7424,6 +7442,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-1811-2532",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre",
@@ -7445,6 +7464,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-7843-1474",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre",
@@ -7466,6 +7486,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-0187-0238",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre",
@@ -7487,11 +7508,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8078,
+      "fwci": 0.7847,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82272023,
+        "value": 0.82200769,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7749,9 +7770,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -8032,6 +8053,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8485-6070",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
@@ -8069,6 +8091,7 @@
           "raw_affiliation_strings": [
             "Department of Civil and Environmental Engineering, Howell Building, Brunel University London, Kingston Lane, Uxbridge, UB8 3P, Middlesex, UK"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4982-381X",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Civil and Environmental Engineering, Howell Building, Brunel University London, Kingston Lane, Uxbridge, UB8 3P, Middlesex, UK",
@@ -8105,6 +8128,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
@@ -8134,7 +8158,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1173987,
+        "value": 0.11674052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8418,9 +8442,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -8560,6 +8584,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8485-6070",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
@@ -8596,6 +8621,7 @@
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
@@ -8625,7 +8651,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06074317,
+        "value": 0.0600725,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8960,9 +8986,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],

@@ -386,6 +386,7 @@
           "raw_affiliation_strings": [
             "Dornier Consulting, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-5192-1753",
           "affiliations": [
             {
               "raw_affiliation_string": "Dornier Consulting, Abu Dhabi, United Arab Emirates",
@@ -409,6 +410,7 @@
           "raw_affiliation_strings": [
             "Ministry of Water & Electricity, Riyadh, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Water & Electricity, Riyadh, Saudi Arabia",
@@ -428,6 +430,7 @@
           "is_corresponding": false,
           "raw_author_name": "Peter Kienast",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -440,7 +443,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -457,6 +460,7 @@
           "raw_affiliation_strings": [
             "TU Darmstadt, Darmstadt, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "TU Darmstadt, Darmstadt, Germany",
@@ -482,11 +486,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.7861,
+      "fwci": 0.788,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.70576984,
+        "value": 0.70650562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -825,8 +829,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -900,7 +904,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2872,8 +2876,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5199999809265137,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -2983,6 +2987,7 @@
           "is_corresponding": true,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -2997,6 +3002,7 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -3011,6 +3017,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -3025,6 +3032,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -3037,11 +3045,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9741,
+      "fwci": 1.9969,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.83984964,
+        "value": 0.84171864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3356,6 +3364,7 @@
           "is_corresponding": true,
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2053-3157",
           "affiliations": []
         },
         {
@@ -3370,6 +3379,7 @@
           "is_corresponding": false,
           "raw_author_name": "Andreas Kallioras",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3384,6 +3394,7 @@
           "is_corresponding": false,
           "raw_author_name": "M. Piepenbrink",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3398,6 +3409,7 @@
           "is_corresponding": false,
           "raw_author_name": "Heike Pfletschinger",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3412,6 +3424,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3426,6 +3439,7 @@
           "is_corresponding": false,
           "raw_author_name": "Irina Engelhardt",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2590-7728",
           "affiliations": []
         },
         {
@@ -3440,6 +3454,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         },
         {
@@ -3454,6 +3469,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al-Saud",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -3470,7 +3486,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.05537721,
+        "value": 0.05719942,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3794,8 +3810,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4268,7 +4284,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8111,6 +8127,7 @@
           "raw_affiliation_strings": [
             "University of Erlangen-Nuremberg"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": [
             {
               "raw_affiliation_string": "University of Erlangen-Nuremberg",
@@ -8132,6 +8149,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8146,6 +8164,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -8160,6 +8179,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -8178,7 +8198,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03165652,
+        "value": 0.03431585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8482,8 +8502,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6299999952316284,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8642,7 +8662,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8692,6 +8712,7 @@
           "is_corresponding": true,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8706,6 +8727,7 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -8720,6 +8742,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -8734,6 +8757,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -8750,7 +8774,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03184877,
+        "value": 0.03450202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9068,6 +9092,7 @@
           "is_corresponding": true,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -9082,6 +9107,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -9096,6 +9122,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -9110,6 +9137,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -9126,7 +9154,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10283893,
+        "value": 0.10337047,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10014,7 +10042,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10079,6 +10107,7 @@
           "is_corresponding": true,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -10093,6 +10122,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10107,6 +10137,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -10121,6 +10152,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -10137,7 +10169,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07936271,
+        "value": 0.08050919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10350,8 +10382,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6000000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10392,7 +10424,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10442,6 +10474,7 @@
           "is_corresponding": true,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10456,6 +10489,7 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -10470,6 +10504,7 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -10484,6 +10519,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         }
       ],
@@ -10500,7 +10536,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03595506,
+        "value": 0.0367264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10799,6 +10835,7 @@
           "is_corresponding": true,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
           "affiliations": []
         },
         {
@@ -10813,6 +10850,7 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
           "affiliations": []
         },
         {
@@ -10827,6 +10865,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10841,6 +10880,7 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3635-7821",
           "affiliations": []
         },
         {
@@ -10855,6 +10895,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jens Hornung",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3553-4654",
           "affiliations": []
         },
         {
@@ -10869,6 +10910,7 @@
           "is_corresponding": false,
           "raw_author_name": "C. Filomena",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10883,6 +10925,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Dirner",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10897,6 +10940,7 @@
           "is_corresponding": false,
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2053-3157",
           "affiliations": []
         }
       ],
@@ -10913,7 +10957,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07565495,
+        "value": 0.07623713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11169,7 +11213,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

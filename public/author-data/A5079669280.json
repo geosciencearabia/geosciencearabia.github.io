@@ -16,7 +16,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 43,
-    "cited_by_count": 467,
+    "cited_by_count": 469,
     "summary_stats": {
       "2yr_mean_citedness": 0.7058823529411765,
       "h_index": 11,
@@ -295,7 +295,7 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 65
+        "cited_by_count": 66
       },
       {
         "year": 2020,
@@ -319,7 +319,7 @@
         "year": 2023,
         "works_count": 4,
         "oa_works_count": 3,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2024,
@@ -347,7 +347,7 @@
     ],
     "block_key": "h al-kuwari",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
-    "updated_date": "2026-04-21T12:23:24",
+    "updated_date": "2026-04-23T12:20:11",
     "created_date": "2020-10-01T00:00:00"
   },
   "works": [
@@ -1157,8 +1157,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.44999998807907104,
           "display_name": "Climate action"
         }
       ],
@@ -3440,10 +3440,13 @@
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9371-9908",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
             },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
@@ -3480,6 +3483,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
@@ -3516,6 +3520,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5027-0648",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
@@ -3552,6 +3557,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
@@ -3588,6 +3594,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
@@ -3624,6 +3631,7 @@
           "raw_affiliation_strings": [
             "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius",
@@ -3660,6 +3668,7 @@
           "raw_affiliation_strings": [
             "Department of Applied Geology, National Institute of Technology, Raipur, India"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
@@ -3696,6 +3705,7 @@
           "raw_affiliation_strings": [
             "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman",
@@ -3721,11 +3731,11 @@
         "value_usd": 3770
       },
       "apc_paid": null,
-      "fwci": 2.5889,
+      "fwci": 2.5946,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.89970296,
+        "value": 0.8999122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4179,8 +4189,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279,
           "display_name": "Life below water"
         }
       ],
@@ -5601,8 +5611,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water"
         }
       ],
@@ -7237,8 +7247,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
@@ -7500,6 +7510,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9371-9908",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -7536,6 +7547,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -7572,6 +7584,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5027-0648",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -7608,6 +7621,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -7644,6 +7658,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -7680,6 +7695,7 @@
           "raw_affiliation_strings": [
             "Department of Applied Geology, National Institute of Technology, Raipur, India"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
@@ -7716,6 +7732,7 @@
           "raw_affiliation_strings": [
             "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
@@ -7745,11 +7762,11 @@
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.2976,
+      "fwci": 1.2973,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.77317778,
+        "value": 0.7731197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8837,7 +8854,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8925,6 +8942,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, University of Houston, Houston, TX, USA"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-2137-2084",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, Houston, TX, USA",
@@ -8961,6 +8979,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, University of Houston, Houston, TX, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, Houston, TX, USA",
@@ -8997,6 +9016,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5027-0648",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
@@ -9033,6 +9053,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
@@ -9054,16 +9075,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2184,
+      "fwci": 2.2249,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.86055633,
+        "value": 0.86081971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 94,
         "max": 99
       },
       "biblio": {
@@ -9494,7 +9515,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-27T14:29:43.386196",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10273,11 +10294,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 1.5112,
+      "fwci": 1.6465,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79863122,
+        "value": 0.81293108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10699,8 +10720,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -11225,7 +11246,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -11236,7 +11257,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-23T09:07:50.710637",
+      "updated_date": "2026-04-24T08:23:43.765630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11955,8 +11976,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5799999833106995,
           "display_name": "Life in Land"
         }
       ],
@@ -12611,8 +12632,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8299999833106995,
           "display_name": "Climate action"
         }
       ],
@@ -15609,8 +15630,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5,
           "display_name": "Life below water"
         }
       ],
@@ -16219,8 +16240,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.7300000190734863,
           "display_name": "Life in Land"
         }
       ],
@@ -16731,6 +16752,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9371-9908",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
@@ -16767,6 +16789,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, Qatar University, Doha, Qatar",
@@ -16803,6 +16826,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5027-0648",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
@@ -16839,6 +16863,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, Qatar University, Doha, Qatar",
@@ -16862,6 +16887,7 @@
           "raw_affiliation_strings": [
             "Qatar Fertiliser Company (QAFCO), Mesaieed, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Qatar Fertiliser Company (QAFCO), Mesaieed, Qatar",
@@ -16896,6 +16922,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
@@ -16925,11 +16952,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 0.4164,
+      "fwci": 0.4162,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.68441333,
+        "value": 0.68435607,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17968,7 +17995,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-10T15:06:20.359241",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18051,6 +18078,7 @@
             "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
             "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-1140-1745",
           "affiliations": [
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
@@ -18093,6 +18121,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-7566-4002",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18129,6 +18158,7 @@
           "raw_affiliation_strings": [
             "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
@@ -18165,6 +18195,7 @@
           "raw_affiliation_strings": [
             "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
@@ -18201,6 +18232,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-0935-4545",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18237,6 +18269,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18273,6 +18306,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18309,6 +18343,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18345,6 +18380,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -18394,6 +18430,7 @@
             "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8112-2661",
           "affiliations": [
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
@@ -18428,11 +18465,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.381,
+      "fwci": 4.3231,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92217095,
+        "value": 0.92127243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18789,25 +18826,11 @@
           "funder_display_name": "Qatar National Research Fund"
         },
         {
-          "id": "https://openalex.org/G1597412403",
-          "display_name": null,
-          "funder_award_id": "RGPIN-",
-          "funder_id": "https://openalex.org/F4320334593",
-          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
-        },
-        {
           "id": "https://openalex.org/G2894603144",
           "display_name": null,
           "funder_award_id": "NPRP12S-",
           "funder_id": "https://openalex.org/F4320332753",
           "funder_display_name": "Qatar National Research Fund"
-        },
-        {
-          "id": "https://openalex.org/G6221715925",
-          "display_name": null,
-          "funder_award_id": "RGPIN",
-          "funder_id": "https://openalex.org/F4320334593",
-          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
         },
         {
           "id": "https://openalex.org/G7248088776",
@@ -19549,7 +19572,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-03-09T07:00:12.390032",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19637,6 +19660,7 @@
           "raw_affiliation_strings": [
             "Gas Processing Center, College of Engineering, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Gas Processing Center, College of Engineering, Qatar University, Doha, Qatar",
@@ -19673,6 +19697,7 @@
           "raw_affiliation_strings": [
             "Gas Processing Center, College of Engineering, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-2990-2772",
           "affiliations": [
             {
               "raw_affiliation_string": "Gas Processing Center, College of Engineering, Qatar University, Doha, Qatar",
@@ -19710,6 +19735,7 @@
             "Department of Chemical Engineering, College of Engineering, Qatar University, Doha, Qatar",
             "Gas Processing Center, College of Engineering, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6672-8649",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemical Engineering, College of Engineering, Qatar University, Doha, Qatar",
@@ -19752,6 +19778,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
@@ -19788,6 +19815,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5027-0648",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
@@ -19809,11 +19837,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.639,
+      "fwci": 1.5304,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.80029874,
+        "value": 0.78711912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20726,7 +20754,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-01-19T04:01:09.351973",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21374,8 +21402,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -22620,8 +22648,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6499999761581421,
           "display_name": "Climate action"
         }
       ],
@@ -23386,6 +23414,7 @@
             "Biomedical Research Centre, QU health, Qatar University, Doha, Qatar",
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-9259-3082",
           "affiliations": [
             {
               "raw_affiliation_string": "Biomedical Research Centre, QU health, Qatar University, Doha, Qatar",
@@ -23428,6 +23457,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23464,6 +23494,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23500,6 +23531,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23536,6 +23568,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23572,6 +23605,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23608,6 +23642,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-0935-4545",
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -23637,11 +23672,11 @@
         "currency": "USD",
         "value_usd": 1840
       },
-      "fwci": 0.7223,
+      "fwci": 0.7112,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68875709,
+        "value": 0.68562038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24091,8 +24126,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water"
         }
       ],
@@ -24739,7 +24774,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-01-20T17:24:06.736184",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25201,8 +25236,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6800000071525574,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -27348,8 +27383,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -29922,8 +29957,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -31069,8 +31104,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -32105,8 +32140,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -32653,8 +32688,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/2",
+          "score": 0.699999988079071,
           "display_name": "Zero hunger"
         }
       ],
@@ -34178,8 +34213,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7900000214576721,
           "display_name": "Climate action"
         }
       ],

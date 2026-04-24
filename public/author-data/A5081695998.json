@@ -15,7 +15,7 @@
     ],
     "full_name": "Salah A. Al‐Khirbash",
     "works_count": 45,
-    "cited_by_count": 945,
+    "cited_by_count": 946,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 16,
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000556,
+        "value": 0.0000557,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -405,7 +405,7 @@
         "year": 2020,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 32
+        "cited_by_count": 33
       },
       {
         "year": 2021,
@@ -438,7 +438,7 @@
     ],
     "block_key": "s al-khirbash",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
-    "updated_date": "2026-04-18T12:23:12",
+    "updated_date": "2026-04-23T12:20:11",
     "created_date": "2022-05-11T00:00:00"
   },
   "works": [
@@ -1279,9 +1279,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1298,8 +1298,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3730,9 +3730,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3749,8 +3749,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -3982,6 +3982,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-7288-8713",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4018,6 +4019,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4054,6 +4056,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4090,6 +4093,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4126,6 +4130,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4162,6 +4167,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4198,6 +4204,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -4234,6 +4241,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), School of Built and Natural Environments, University of South Australia, Adelaide, SA 5095, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), School of Built and Natural Environments, University of South Australia, Adelaide, SA 5095, Australia",
@@ -4270,6 +4278,7 @@
           "raw_affiliation_strings": [
             "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman",
@@ -4306,6 +4315,7 @@
           "raw_affiliation_strings": [
             "Western Australian Argon Facility, Curtin University, GPO Box U1987, Perth, WA 6845, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Western Australian Argon Facility, Curtin University, GPO Box U1987, Perth, WA 6845, Australia",
@@ -4741,16 +4751,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -5474,7 +5484,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5957,8 +5967,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -6765,9 +6775,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Peace, Justice and strong institutions",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions"
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "awards": [
@@ -6816,8 +6826,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -7622,16 +7632,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -8172,9 +8182,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8186,8 +8196,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -8986,16 +8996,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -10465,16 +10475,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -10715,6 +10725,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4653-4476",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -10751,6 +10762,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-7288-8713",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -10787,6 +10799,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3408-5474",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -10823,6 +10836,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3564-7253",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -10859,6 +10873,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), School of Built and Natural Environments, University of South Australia, Adelaide, SA 5001, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), School of Built and Natural Environments, University of South Australia, Adelaide, SA 5001, Australia",
@@ -10895,6 +10910,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3107-9028",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -10931,6 +10947,7 @@
           "raw_affiliation_strings": [
             "Research School of Earth Sciences, The Australian National University, Canberra, ACT 0200, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Research School of Earth Sciences, The Australian National University, Canberra, ACT 0200, Australia",
@@ -10967,6 +10984,7 @@
           "raw_affiliation_strings": [
             "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Tectonics, Resources and Exploration (TRaX), Department of Earth Sciences, The University of Adelaide, Adelaide, SA 5005, Australia",
@@ -11003,6 +11021,7 @@
           "raw_affiliation_strings": [
             "Sultan Qaboos University, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University, Muscat, Sultanate of Oman",
@@ -11024,11 +11043,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.916,
+      "fwci": 2.9162,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.90256762,
+        "value": 0.90257922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11285,9 +11304,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -11307,8 +11326,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -12019,7 +12038,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12089,16 +12108,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2801711128",
-              "display_name": "Swedish Museum of Natural History",
-              "ror": "https://ror.org/05k323c76",
-              "country_code": "SE",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I2801711128"
-              ]
-            },
-            {
               "id": "https://openalex.org/I161593684",
               "display_name": "Stockholm University",
               "ror": "https://ror.org/05f0yaq80",
@@ -12106,6 +12115,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I161593684"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801711128",
+              "display_name": "Swedish Museum of Natural History",
+              "ror": "https://ror.org/05k323c76",
+              "country_code": "SE",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I2801711128"
               ]
             }
           ],
@@ -12118,6 +12137,7 @@
             "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
             "Department of Geosciences, Swedish Museum of Natural History, Box 50007, SE104 05 Stockholm, Sweden"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3654-3149",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
@@ -12161,6 +12181,7 @@
             "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
             "Department of Geological Sciences Stockholm University SE‐106 91 Stockholm Sweden"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
@@ -12214,6 +12235,7 @@
             "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
             "Department of Geosciences, Swedish Museum of Natural History, Box 50007, SE104 05 Stockholm, Sweden"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
@@ -12257,6 +12279,7 @@
             "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman",
             "Sultan Qaboos University, Al Khoudh, 123 Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman",
@@ -12289,11 +12312,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 1.1286,
+      "fwci": 1.1349,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.76667049,
+        "value": 0.76794367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12593,9 +12616,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12607,8 +12630,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -13174,9 +13197,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -13196,8 +13219,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -13447,6 +13470,7 @@
             "Department of Earth Sciences Sultan Qaboos University  Muscat Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences Sultan Qaboos University  Muscat Oman",
@@ -13503,6 +13527,7 @@
             "Faculty of Earth Science, King Abdulaziz University, Jeddah, Saudi Arabia",
             "Department of Geology, Faculty of Science, Helwan University, Cairo, Egypt"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology Faculty of Science Helwan University  Cairo Egypt",
@@ -13546,11 +13571,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 1.1181,
+      "fwci": 1.1178,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76542022,
+        "value": 0.7653638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13849,8 +13874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -14492,7 +14517,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-17T18:11:37.981687",
+      "updated_date": "2025-11-23T05:10:03.516525",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15050,16 +15075,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -16288,8 +16313,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -16870,9 +16895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Peace, Justice and strong institutions",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions"
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "awards": [
@@ -16921,8 +16946,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -17624,8 +17649,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -18241,16 +18266,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -19031,6 +19056,7 @@
           "raw_affiliation_strings": [
             "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-2227-577X",
           "affiliations": [
             {
               "raw_affiliation_string": "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden",
@@ -19068,6 +19094,7 @@
             "CASP, West Building, Madingley Rise, Madingley Road, Cambridge CB3 OUD, UK",
             "CASP, West Building, Madingley Rise, Madingley Road, Cambridge, CB3 OUD, UK"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9710-2593",
           "affiliations": [
             {
               "raw_affiliation_string": "CASP, West Building, Madingley Rise, Madingley Road, Cambridge CB3 OUD, UK",
@@ -19108,6 +19135,7 @@
           "raw_affiliation_strings": [
             "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-0533-1162",
           "affiliations": [
             {
               "raw_affiliation_string": "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden",
@@ -19145,6 +19173,7 @@
             "Department of Earth Sciences",
             "Sultan Qaboos University"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences",
@@ -19185,6 +19214,7 @@
           "raw_affiliation_strings": [
             "Trem Y Wawr"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Trem Y Wawr",
@@ -19206,11 +19236,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.496,
+      "fwci": 6.6282,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96803354,
+        "value": 0.96173659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19475,8 +19505,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20583,9 +20613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20597,8 +20627,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -21284,8 +21314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -21979,16 +22009,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -22992,16 +23022,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -23920,6 +23950,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -23956,6 +23987,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -23992,6 +24024,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -24028,6 +24061,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1272-5204",
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -24064,6 +24098,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -24100,6 +24135,7 @@
           "raw_affiliation_strings": [
             "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Department, Sultan Qaboos University, P.O. Box 36, 123 Al-Khoud, Muscat, Oman",
@@ -24123,6 +24159,7 @@
           "raw_affiliation_strings": [
             "Petroleum Development Oman (PDO), Mina Al-Fahal, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Development Oman (PDO), Mina Al-Fahal, Muscat, Oman",
@@ -24144,6 +24181,7 @@
           "raw_affiliation_strings": [
             "Ministry of Commerce & Industry, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Commerce & Industry, Muscat, Oman",
@@ -24167,11 +24205,11 @@
         "value_usd": 2980
       },
       "apc_paid": null,
-      "fwci": 0.2103,
+      "fwci": 0.2113,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.56347766,
+        "value": 0.56575142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24516,9 +24554,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24530,8 +24568,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -24693,6 +24731,7 @@
           "is_corresponding": true,
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": []
         },
         {
@@ -24707,6 +24746,7 @@
           "is_corresponding": false,
           "raw_author_name": "Khadija Semhi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -24723,7 +24763,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.32311699,
+        "value": 0.32551262,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24896,16 +24936,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25254,16 +25294,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25972,6 +26012,7 @@
           "is_corresponding": true,
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": []
         }
       ],
@@ -25988,7 +26029,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22183788,
+        "value": 0.22047755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26251,8 +26292,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27055,7 +27096,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27859,16 +27900,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28499,6 +28540,7 @@
           "is_corresponding": true,
           "raw_author_name": "Salah Al‐Khirbash",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": []
         }
       ],
@@ -28515,7 +28557,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24852019,
+        "value": 0.24725132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28741,8 +28783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28750,7 +28792,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29482,16 +29524,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -29584,6 +29626,7 @@
           "raw_affiliation_strings": [
             "Sultan Qaboos University"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University",
@@ -29607,6 +29650,7 @@
           "raw_affiliation_strings": [
             "Faculty of Earth Sciences, KAU"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
@@ -29630,7 +29674,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20065194,
+        "value": 0.19987974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29978,8 +30022,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -30384,6 +30428,7 @@
           "raw_affiliation_strings": [
             "Sultan Qaboos University"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University",
@@ -30407,6 +30452,7 @@
           "raw_affiliation_strings": [
             "Faculty of Earth Sciences, KAU"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
@@ -30430,7 +30476,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29479136,
+        "value": 0.29273117,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30745,16 +30791,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31763,16 +31809,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -32130,16 +32176,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -33036,8 +33082,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33498,8 +33544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33890,8 +33936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34852,8 +34898,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35302,8 +35348,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35771,8 +35817,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36236,8 +36282,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36696,8 +36742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37182,8 +37228,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37332,6 +37378,7 @@
             "Department of Mineral Resources and Rocks, Faculty of Earth Sciences, King Abdulaziz University, Jeddah, Saudi Arabia",
             "Department of Geology, Faculty of Science, Helwan University, Cairo, Egypt"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, Faculty of Science",
@@ -37400,6 +37447,7 @@
             "Department of Earth Sciences, College of Science, Sultan Qaboos University, Oman",
             "UNESCO Chair on Ophiolite Studies, Sultan Qaboos University, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Science, Sultan Qaboos University",
@@ -37459,6 +37507,7 @@
             "4, Rue de Marlenheim",
             "Independent consultant, 4, Rue de Marlenheim Strasbourg France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "4, Rue de Marlenheim",
@@ -37490,7 +37539,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18762023,
+        "value": 0.18161601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37679,16 +37728,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -38558,7 +38607,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-27T14:29:43.386196",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39047,8 +39096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

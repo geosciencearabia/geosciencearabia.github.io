@@ -12,7 +12,7 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 35,
-    "cited_by_count": 475,
+    "cited_by_count": 476,
     "summary_stats": {
       "2yr_mean_citedness": 1.1666666666666667,
       "h_index": 9,
@@ -309,7 +309,7 @@
         "year": 2005,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 282
+        "cited_by_count": 283
       },
       {
         "year": 2006,
@@ -399,7 +399,7 @@
     ],
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-04-22T12:20:23",
+    "updated_date": "2026-04-23T12:20:11",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -944,9 +944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -963,8 +963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -1155,6 +1155,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -1191,6 +1192,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -1227,6 +1229,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4872-6201",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, Research Group on Reservoir Characterization, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -1263,6 +1266,7 @@
           "raw_affiliation_strings": [
             "Center of Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center of Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -1288,11 +1292,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.663,
+      "fwci": 1.6629,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.83351444,
+        "value": 0.83351013,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1618,9 +1622,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -1647,8 +1651,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -1803,7 +1807,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-22T08:38:42.863108",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1891,6 +1895,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -1927,6 +1932,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -1974,6 +1980,7 @@
             "Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University Science and Technology, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-0477-9854",
           "affiliations": [
             {
               "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University Science and Technology, Saudi Arabia",
@@ -2016,6 +2023,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -2052,6 +2060,7 @@
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-2391-5743",
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Saudi Arabia",
@@ -2088,6 +2097,7 @@
           "raw_affiliation_strings": [
             "Emerging Unconventional Assets Department, Saudi Aramco, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-1415-0782",
           "affiliations": [
             {
               "raw_affiliation_string": "Emerging Unconventional Assets Department, Saudi Aramco, Saudi Arabia",
@@ -2109,16 +2119,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5492,
+      "fwci": 3.5599,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93187389,
+        "value": 0.93208749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -2505,8 +2515,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -3133,7 +3143,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3223,6 +3233,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3266,6 +3277,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3309,6 +3321,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3352,6 +3365,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3540-6807",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3395,6 +3409,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3438,6 +3453,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran,  31261, Saudi Arabia",
@@ -3469,11 +3485,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.181,
+      "fwci": 2.1885,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.86365376,
+        "value": 0.86409304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3727,16 +3743,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -4483,16 +4499,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -5828,16 +5844,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -6005,6 +6021,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6041,6 +6058,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6077,6 +6095,7 @@
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6113,6 +6132,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6126,8 +6146,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -6149,6 +6169,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6185,6 +6206,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -6206,11 +6228,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3166,
+      "fwci": 3.3239,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91396814,
+        "value": 0.91417976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6456,8 +6478,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -6969,8 +6991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7430,16 +7452,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8156,8 +8178,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8894,6 +8916,7 @@
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "UR Exploration and Characterization Department, Saudi Aramco, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -8937,6 +8960,7 @@
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -8979,6 +9003,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -9016,6 +9041,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -9059,6 +9085,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -9101,6 +9128,7 @@
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
@@ -9130,11 +9158,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3,
+      "fwci": 1.2812,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.73851071,
+        "value": 0.73521239,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9434,8 +9462,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -10223,7 +10251,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-02-08T09:19:03.324500",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11063,9 +11091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -11090,8 +11118,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -11247,6 +11275,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia",
@@ -11283,6 +11312,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia",
@@ -11319,6 +11349,7 @@
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-5631-8312",
           "affiliations": [
             {
               "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia",
@@ -11355,6 +11386,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6239-0070",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia",
@@ -11391,6 +11423,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-2171-0154",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum &amp; Minerals, Dhahran 34464, Saudi Arabia",
@@ -11420,11 +11453,11 @@
         "currency": "CHF",
         "value_usd": 2490
       },
-      "fwci": 0.7298,
+      "fwci": 0.7454,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.64626306,
+        "value": 0.653571,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11776,8 +11809,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -12807,8 +12840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -13609,8 +13642,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14068,8 +14101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -14788,6 +14821,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -14824,6 +14858,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4487-6982",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -14860,6 +14895,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -14896,6 +14932,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4395-9567",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -14932,6 +14969,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9994-4436",
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals",
@@ -14953,11 +14991,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2429,
+      "fwci": 0.2466,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.53462273,
+        "value": 0.54136394,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15138,16 +15176,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15613,16 +15651,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15968,6 +16006,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9451-0188",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -16011,6 +16050,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -16054,6 +16094,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -16097,6 +16138,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -16132,11 +16174,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 1.1188,
+      "fwci": 1.1194,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83743427,
+        "value": 0.83752557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16569,16 +16611,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -17192,7 +17234,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17569,16 +17611,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -17939,8 +17981,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18261,8 +18303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18545,8 +18587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19033,16 +19075,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -19686,6 +19728,7 @@
           "is_corresponding": true,
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": []
         },
         {
@@ -19700,6 +19743,7 @@
           "is_corresponding": false,
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
           "affiliations": []
         },
         {
@@ -19714,6 +19758,7 @@
           "is_corresponding": false,
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": []
         }
       ],
@@ -19730,7 +19775,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34033613,
+        "value": 0.34029228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19962,8 +20007,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20055,6 +20100,7 @@
           "is_corresponding": true,
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": []
         },
         {
@@ -20069,6 +20115,7 @@
           "is_corresponding": false,
           "raw_author_name": "Muhammad Malik",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20083,6 +20130,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": []
         },
         {
@@ -20097,6 +20145,7 @@
           "is_corresponding": false,
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0052-5603",
           "affiliations": []
         }
       ],
@@ -20113,7 +20162,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44269263,
+        "value": 0.44580777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20383,8 +20432,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20476,6 +20525,7 @@
           "is_corresponding": true,
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": []
         },
         {
@@ -20490,6 +20540,7 @@
           "is_corresponding": false,
           "raw_author_name": "SanLinn I. Kaka",
           "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1229-4627",
           "affiliations": []
         }
       ],
@@ -20506,7 +20557,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50189946,
+        "value": 0.50238897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20726,16 +20777,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21392,8 +21443,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21479,6 +21530,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-3681-7464",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)",
@@ -21515,6 +21567,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)",
@@ -21551,6 +21604,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia (septriandi.chan@kfupm.edu.sa)",
@@ -21565,8 +21619,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
-        "https://openalex.org/A5080643603",
-        "https://openalex.org/A5035815399"
+        "https://openalex.org/A5035815399",
+        "https://openalex.org/A5080643603"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -21577,7 +21631,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03511697,
+        "value": 0.03306207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21821,16 +21875,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22778,8 +22832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -22927,6 +22981,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -22964,10 +23019,13 @@
             "Center of Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4487-6982",
           "affiliations": [
             {
               "raw_affiliation_string": "Center of Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -23004,6 +23062,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -23040,6 +23099,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -23076,6 +23136,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -23112,6 +23173,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -23141,7 +23203,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17465934,
+        "value": 0.1684678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23332,16 +23394,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -23903,8 +23965,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -25252,8 +25314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -25649,6 +25711,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -25686,6 +25749,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5832-7354",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -25729,6 +25793,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -25771,6 +25836,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -25807,6 +25873,7 @@
           "raw_affiliation_strings": [
             "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia",
@@ -25843,6 +25910,7 @@
           "raw_affiliation_strings": [
             "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia",
@@ -25876,7 +25944,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52234138,
+        "value": 0.43460626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26348,8 +26416,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -27133,7 +27201,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-03-04T07:04:00.330322",
       "created_date": "2026-03-03T00:00:00"
     },
     {
@@ -27222,6 +27290,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -27259,6 +27328,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5832-7354",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -27288,6 +27358,7 @@
           "raw_affiliation_strings": [
             "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Energy Services Reunited, NESR, Dhahran, Saudi Arabia",
@@ -27319,7 +27390,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47154907,
+        "value": 0.46000525,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27630,8 +27701,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -28345,7 +28416,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-04-07T06:01:17.266235",
       "created_date": "2026-03-21T00:00:00"
     }
   ]

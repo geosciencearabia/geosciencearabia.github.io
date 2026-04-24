@@ -423,6 +423,7 @@
           "raw_affiliation_strings": [
             "Department of Chemical Engineering, Texas Tech University, Lubbock, TX, 79409, USA"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5215-2311",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemical Engineering, Texas Tech University, Lubbock, TX, 79409, USA",
@@ -459,6 +460,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA",
@@ -495,6 +497,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA",
@@ -531,6 +534,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA",
@@ -577,6 +581,7 @@
           "raw_affiliation_strings": [
             "Department of Surgery, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, 79430, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Surgery, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, 79430, USA",
@@ -614,6 +619,7 @@
           "raw_affiliation_strings": [
             "Department of Chemical Engineering, Texas Tech University, Lubbock, TX, 79409, USA"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4738-1475",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemical Engineering, Texas Tech University, Lubbock, TX, 79409, USA",
@@ -650,6 +656,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-1680-1561",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77204, USA",
@@ -673,11 +680,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.7939,
+      "fwci": 9.7955,
       "has_fulltext": false,
       "cited_by_count": 106,
       "citation_normalized_percentile": {
-        "value": 0.9868376,
+        "value": 0.98683985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1058,9 +1065,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
           "score": 0.5600000023841858,
-          "display_name": "Good health and well-being"
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "awards": [
@@ -1138,8 +1145,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -1806,7 +1813,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-04-17T18:11:37.981687",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2517,16 +2524,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -3272,9 +3279,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3291,8 +3298,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -4032,9 +4039,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4046,8 +4053,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf"
@@ -5722,9 +5729,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5741,8 +5748,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -6730,6 +6737,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
@@ -6778,6 +6786,7 @@
             "Department of Earth and Atmospheric Sciences, University of Alberta, T6G 2E3 Edmonton, Canada",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Atmospheric Sciences, University of Alberta, T6G 2E3 Edmonton, Canada",
@@ -6820,6 +6829,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
@@ -6856,6 +6866,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -6893,6 +6904,7 @@
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -6947,6 +6959,7 @@
             "Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin, Austin, TX, USA",
             "National Institute for Research and Development of Marine Geology and Geoecology – GeoEcoMar, Bucharest, Romania"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin, Austin, TX, USA",
@@ -6989,6 +7002,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -7026,6 +7040,7 @@
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
@@ -7057,11 +7072,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.6455,
+      "fwci": 3.4326,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.92645275,
+        "value": 0.91921853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7253,16 +7268,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 137,
@@ -7436,7 +7451,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-02-03T00:53:05.648605",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -7514,6 +7529,7 @@
           "raw_affiliation_strings": [
             "Indapta Therapeutics, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Indapta Therapeutics, Houston, TX;",
@@ -7535,6 +7551,7 @@
           "raw_affiliation_strings": [
             "Indapta Therapeutics, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Indapta Therapeutics, Houston, TX;",
@@ -7570,6 +7587,7 @@
           "raw_affiliation_strings": [
             "Department of Molecular Physiology and Biophysics, Baylor College of Medicine, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Molecular Physiology and Biophysics, Baylor College of Medicine, Houston, TX;",
@@ -7606,6 +7624,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -7642,6 +7661,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -7678,6 +7698,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -7714,6 +7735,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -7750,6 +7772,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -7789,6 +7812,7 @@
             "Department of Laboratory Medicine and",
             "Helen Diller Family Comprehensive Cancer Center, San Francisco, CA; and"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-2622-4822",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Laboratory Medicine and",
@@ -7832,6 +7856,7 @@
             "Department of Laboratory Medicine and",
             "Helen Diller Family Comprehensive Cancer Center, San Francisco, CA; and"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Laboratory Medicine and",
@@ -7859,6 +7884,7 @@
           "raw_affiliation_strings": [
             "Indapta Therapeutics, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Indapta Therapeutics, Houston, TX;",
@@ -7880,6 +7906,7 @@
           "raw_affiliation_strings": [
             "Indapta Therapeutics, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Indapta Therapeutics, Houston, TX;",
@@ -7901,6 +7928,7 @@
           "raw_affiliation_strings": [
             "Department of Laboratory Medicine and"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Laboratory Medicine and",
@@ -7948,6 +7976,7 @@
             "Division of Hematology/Oncology, University of California, San Francisco, San Francisco, CA",
             "Helen Diller Family Comprehensive Cancer Center, San Francisco, CA; and"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Division of Hematology/Oncology, University of California, San Francisco, San Francisco, CA",
@@ -7993,6 +8022,7 @@
             "Department of Laboratory Medicine and",
             "Helen Diller Family Comprehensive Cancer Center, San Francisco, CA; and"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7465-6964",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Laboratory Medicine and",
@@ -8033,6 +8063,7 @@
           "raw_affiliation_strings": [
             "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX;",
@@ -8060,11 +8091,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 2.1274,
+      "fwci": 2.1276,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.87864661,
+        "value": 0.87865827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8787,16 +8818,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
           "score": 0.800000011920929,
-          "display_name": "Good health and well-being"
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3192702626.pdf",
@@ -9437,7 +9468,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9874,16 +9905,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10744,16 +10775,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11731,9 +11762,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11750,8 +11781,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -11934,6 +11965,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
@@ -11948,7 +11980,7 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
+            "orcid": null
           },
           "institutions": [
             {
@@ -11970,6 +12002,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
@@ -12006,6 +12039,7 @@
           "raw_affiliation_strings": [
             "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA",
@@ -12038,11 +12072,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.8598,
+      "fwci": 0.8669,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.81475572,
+        "value": 0.81603873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12320,9 +12354,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12334,8 +12368,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -13028,16 +13062,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14175,9 +14209,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14189,8 +14223,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -14378,6 +14412,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9451-0188",
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14421,6 +14456,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14464,6 +14500,7 @@
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14507,6 +14544,7 @@
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -14542,11 +14580,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 1.1188,
+      "fwci": 1.1194,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83743427,
+        "value": 0.83752557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14979,16 +15017,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -15602,7 +15640,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15946,16 +15984,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
           "score": 0.7099999785423279,
-          "display_name": "Good health and well-being"
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16910,16 +16948,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17543,16 +17581,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.4399999976158142,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17638,6 +17676,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences,  College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (info@kfupm.edu.sa)"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-9451-0188",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences,  College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (info@kfupm.edu.sa)",
@@ -17674,6 +17713,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences,  College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (info@kfupm.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences,  College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (info@kfupm.edu.sa)",
@@ -17710,6 +17750,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)",
@@ -17746,6 +17787,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-8203-851X",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)",
@@ -17782,6 +17824,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)",
@@ -17819,6 +17862,7 @@
             "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)",
             "Department of Geosciences,  College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (info@kfupm.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia (cipr@kfupm.edu.sa)",
@@ -17851,7 +17895,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00733266,
+        "value": 0.00708558,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18088,16 +18132,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19464,16 +19508,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -20981,8 +21025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22068,6 +22112,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -22105,6 +22150,7 @@
             "Center for Integrated Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-9094-1258",
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -22148,6 +22194,7 @@
             "Center for Integrated Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
@@ -22179,7 +22226,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24101643,
+        "value": 0.13235747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22600,8 +22647,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -23379,7 +23426,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2026-02-03T00:53:05.648605",
       "created_date": "2026-01-24T00:00:00"
     }
   ]
