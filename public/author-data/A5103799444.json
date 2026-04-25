@@ -565,13 +565,43 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
               ]
             },
             {
@@ -583,10 +613,82 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": true,
@@ -598,10 +700,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -617,11 +722,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -634,6 +748,46 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
+              ]
+            },
+            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -641,6 +795,33 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I32597200"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -652,10 +833,45 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
@@ -667,10 +883,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -686,11 +905,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -703,6 +931,46 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
+              ]
+            },
+            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -710,6 +978,33 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I32597200"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -721,10 +1016,45 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
@@ -736,10 +1066,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -755,11 +1088,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -772,13 +1114,43 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
               ]
             },
             {
@@ -790,10 +1162,82 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
@@ -805,10 +1249,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -824,11 +1271,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -841,13 +1297,43 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
               ]
             },
             {
@@ -859,10 +1345,82 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
@@ -874,10 +1432,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -893,11 +1454,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -910,6 +1480,46 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
+              ]
+            },
+            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -917,6 +1527,33 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I32597200"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -928,10 +1565,45 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
@@ -943,10 +1615,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -962,11 +1637,20 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         },
@@ -979,13 +1663,43 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
+              "id": "https://openalex.org/I126425946",
+              "display_name": "Université Européenne de Bretagne",
+              "ror": "https://ror.org/033c46s90",
+              "country_code": "FR",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I126425946"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3124938446",
+              "display_name": "Université Rennes 2",
+              "ror": "https://ror.org/01m84wm78",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3124938446"
               ]
             },
             {
@@ -997,10 +1711,82 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210096833",
+              "display_name": "Géosciences Rennes",
+              "ror": "https://ror.org/00vn0zc62",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800285241",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210117091",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210150854",
+                "https://openalex.org/I4387156395",
+                "https://openalex.org/I4399657933",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
             "BE",
+            "FR",
             "SA"
           ],
           "is_corresponding": true,
@@ -1012,10 +1798,13 @@
             "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
             "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
             },
             {
               "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
@@ -1031,38 +1820,54 @@
             },
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I126425946",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I3124938446",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210096833"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5044489988",
         "https://openalex.org/A5058654714"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I126425946",
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I157674565",
+        "https://openalex.org/I3124938446",
         "https://openalex.org/I32597200",
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210096833",
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I4210157108",
+        "https://openalex.org/I56067802"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.4491,
+      "fwci": 16.4851,
       "has_fulltext": true,
       "cited_by_count": 268,
       "citation_normalized_percentile": {
-        "value": 0.99436108,
+        "value": 0.99434681,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 100
       },
       "biblio": {
@@ -1665,8 +2470,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929
         }
       ],
       "awards": [
@@ -2103,7 +2908,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2026-04-25T08:17:42.794288",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2501,8 +3306,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -3738,8 +4543,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -4665,8 +5470,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -5206,8 +6011,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -5792,8 +6597,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -7552,8 +8357,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -9163,8 +9968,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -10911,8 +11716,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -11519,8 +12324,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -14857,8 +15662,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -16063,8 +16868,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -17138,8 +17943,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -18971,8 +19776,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -19730,8 +20535,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Reduced inequalities",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/10"
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -20158,8 +20963,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -21225,8 +22030,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -27062,8 +27867,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -27707,8 +28512,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -28120,8 +28925,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -29096,8 +29901,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -30108,8 +30913,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -30607,8 +31412,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -31508,8 +32313,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -32382,8 +33187,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -33109,8 +33914,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -33532,8 +34337,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],

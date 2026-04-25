@@ -18,9 +18,9 @@
     ],
     "full_name": "Scott Andrew Whattam",
     "works_count": 249,
-    "cited_by_count": 3403,
+    "cited_by_count": 3404,
     "summary_stats": {
-      "2yr_mean_citedness": 2.5476190476190474,
+      "2yr_mean_citedness": 2.5714285714285716,
       "h_index": 26,
       "i10_index": 47
     },
@@ -601,7 +601,7 @@
         "year": 2024,
         "works_count": 21,
         "oa_works_count": 10,
-        "cited_by_count": 76
+        "cited_by_count": 77
       },
       {
         "year": 2025,
@@ -631,7 +631,7 @@
     ],
     "block_key": "s whattam",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5011750653",
-    "updated_date": "2026-04-22T12:20:23",
+    "updated_date": "2026-04-24T12:20:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -724,6 +724,7 @@
             "Department of Earth Sciences, ETH-Zurich, Sonneggstrasse 5, Zurich, 8092, Switzerland",
             "Department of Earth Sciences, ETH-Zurich, Sonneggstrasse 5, 8092 Zurich, Switzerland"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, ETH-Zurich, Sonneggstrasse 5, Zurich, 8092, Switzerland",
@@ -767,6 +768,7 @@
             "Geosciences Department, University of Texas at Dallas, Richardson, Texas, 75083-0688, USA",
             "Geosciences Department, University of Texas at Dallas, Richardson, Texas 75083-0688, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, University of Texas at Dallas, Richardson, Texas, 75083-0688, USA",
@@ -811,6 +813,7 @@
             "GFZ German Research Center for Geosciences, Heinrich-Mann-Allee 18/19, Potsdam, 14473, Germany",
             "GFZ German Research Center for Geosciences, Heinrich-Mann-Allee 18/19, 14473 Potsdam, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "GFZ German Research Center for Geosciences, Heinrich-Mann-Allee 18/19, Potsdam, 14473, Germany",
@@ -867,6 +870,7 @@
             "Institute of Earth and Environmental Science, University of Potsdam, Karl-Liebknecht-Straße 24-25, 14476 Potsdam-Golm, Germany",
             "GFZ German Research Center for Geosciences, Heinrich-Mann-Allee 18/19, 14473 Potsdam, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "GFZ German Research Center for Geosciences, Heinrich-Mann-Allee 18/19, Potsdam, 14473, Germany",
@@ -922,6 +926,7 @@
             "Department of Earth and Environmental Sciences, Korea University, Seoul, 136-701, South Korea",
             "Department of Earth and Environmental Sciences, Korea University, Seoul 136-701, South Korea"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Environmental Sciences, Korea University, Seoul, 136-701, South Korea",
@@ -953,11 +958,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 24.6828,
+      "fwci": 24.685,
       "has_fulltext": false,
-      "cited_by_count": 473,
+      "cited_by_count": 474,
       "citation_normalized_percentile": {
-        "value": 0.99863166,
+        "value": 0.99863178,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1377,7 +1382,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2025,
@@ -1424,7 +1429,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-22T08:38:42.863108",
+      "updated_date": "2026-04-25T08:17:42.794288",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -23443,6 +23448,1031 @@
         }
       ],
       "updated_date": "2026-02-03T00:53:05.648605",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4410043106",
+      "doi": "https://doi.org/10.1080/00206814.2025.2497938",
+      "title": "Petrological and Re-Os isotopic constraints on the origin of chromitites and peridotites of the late cretaceous Waziristan ophiolite, western Pakistan: implications for subduction initiation",
+      "display_name": "Petrological and Re-Os isotopic constraints on the origin of chromitites and peridotites of the late cretaceous Waziristan ophiolite, western Pakistan: implications for subduction initiation",
+      "publication_year": 2025,
+      "publication_date": "2025-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4410043106",
+        "doi": "https://doi.org/10.1080/00206814.2025.2497938"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/00206814.2025.2497938",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/00206814.2025.2497938",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S65039790",
+          "display_name": "International Geology Review",
+          "issn_l": "0020-6814",
+          "issn": [
+            "0020-6814",
+            "1938-2839"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Geology Review",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5088849273",
+            "display_name": "Zaheen Ullah",
+            "orcid": "https://orcid.org/0000-0002-8412-8954"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139660479",
+              "display_name": "Central South University",
+              "ror": "https://ror.org/00f1zfq44",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I335365548",
+              "display_name": "University of Swat",
+              "ror": "https://ror.org/01q9mqz67",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I335365548"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zaheen Ullah",
+          "raw_affiliation_strings": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
+            "University of Swat"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Swat",
+              "institution_ids": [
+                "https://openalex.org/I335365548"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038638644",
+            "display_name": "Asad Khan",
+            "orcid": "https://orcid.org/0000-0002-8651-308X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139660479",
+              "display_name": "Central South University",
+              "ror": "https://ror.org/00f1zfq44",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210120100",
+              "display_name": "FATA University",
+              "ror": "https://ror.org/02tm1xq35",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210120100"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Asad Khan",
+          "raw_affiliation_strings": [
+            "FATA University",
+            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FATA University",
+              "institution_ids": [
+                "https://openalex.org/I4210120100"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052716474",
+            "display_name": "Huan Li",
+            "orcid": "https://orcid.org/0000-0001-5211-8324"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139660479",
+              "display_name": "Central South University",
+              "ror": "https://ror.org/00f1zfq44",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139660479"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Huan Li",
+          "raw_affiliation_strings": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5211-8324",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
+              "institution_ids": [
+                "https://openalex.org/I139660479"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011750653",
+            "display_name": "Scott Whattam",
+            "orcid": "https://orcid.org/0000-0001-9193-9002"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Scott A. Whattam",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum and Minerals"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9193-9002",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103587504",
+            "display_name": "Muhammad Tahir Shah",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36001604",
+              "display_name": "University of Peshawar",
+              "ror": "https://ror.org/02t2qwf81",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Tahir Shah",
+          "raw_affiliation_strings": [
+            "University of Peshawar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Peshawar",
+              "institution_ids": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087370048",
+            "display_name": "Liaqat Ali",
+            "orcid": "https://orcid.org/0000-0002-5847-3105"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36001604",
+              "display_name": "University of Peshawar",
+              "ror": "https://ror.org/02t2qwf81",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Liaqat Ali",
+          "raw_affiliation_strings": [
+            "University of Peshawar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Peshawar",
+              "institution_ids": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034481413",
+            "display_name": "Shah Faisal",
+            "orcid": "https://orcid.org/0000-0001-5115-1237"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36001604",
+              "display_name": "University of Peshawar",
+              "ror": "https://ror.org/02t2qwf81",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shah Faisal",
+          "raw_affiliation_strings": [
+            "University of Peshawar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Peshawar",
+              "institution_ids": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037745835",
+            "display_name": "Tehseen Zafar",
+            "orcid": "https://orcid.org/0000-0002-5403-8982"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I20231570",
+              "display_name": "Peking University",
+              "ror": "https://ror.org/02v51f717",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I20231570"
+              ]
+            }
+          ],
+          "countries": [
+            "AE",
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tehseen Zafar",
+          "raw_affiliation_strings": [
+            "Chinese Academy of Sciences",
+            "Geosciences Department, College of Science, United Arab Emirates University, Al Ain, The United Arab Emirates",
+            "Peking University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chinese Academy of Sciences",
+              "institution_ids": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Science, United Arab Emirates University, Al Ain, The United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Peking University",
+              "institution_ids": [
+                "https://openalex.org/I20231570"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100639437",
+            "display_name": "Muhammad Farhan",
+            "orcid": "https://orcid.org/0000-0001-5169-9323"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I76130692",
+              "display_name": "Zhejiang University",
+              "ror": "https://ror.org/00a2xv884",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Farhan",
+          "raw_affiliation_strings": [
+            "Zhejiang University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Zhejiang University",
+              "institution_ids": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057270032",
+            "display_name": "Shuja Ullah",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36001604",
+              "display_name": "University of Peshawar",
+              "ror": "https://ror.org/02t2qwf81",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shuja Ullah",
+          "raw_affiliation_strings": [
+            "University of Peshawar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Peshawar",
+              "institution_ids": [
+                "https://openalex.org/I36001604"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018658605",
+            "display_name": "Syed Tanvir Shah",
+            "orcid": "https://orcid.org/0000-0001-9843-9000"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181063083",
+              "display_name": "Abdul Wali Khan University Mardan",
+              "ror": "https://ror.org/03b9y4e65",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181063083"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Syed Tanvir Shah",
+          "raw_affiliation_strings": [
+            "Abdul Wali Khan University Mardan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Abdul Wali Khan University Mardan",
+              "institution_ids": [
+                "https://openalex.org/I181063083"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100664870",
+            "display_name": "Zahid Hussain",
+            "orcid": "https://orcid.org/0000-0002-6978-3133"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I163340411",
+              "display_name": "Hohai University",
+              "ror": "https://ror.org/01wd4xt90",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I163340411"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zahid Hussain",
+          "raw_affiliation_strings": [
+            "Hohai University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hohai University",
+              "institution_ids": [
+                "https://openalex.org/I163340411"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5107915722",
+            "display_name": "Nusrat Hussain",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nusrat Hussain",
+          "raw_affiliation_strings": [
+            "University of Baltistan Skardu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Baltistan Skardu",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 13,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052716474"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139660479"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 9.9041,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.98396501,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "67",
+        "issue": "17",
+        "first_page": "1981",
+        "last_page": "2010"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10413",
+          "display_name": "High-pressure geophysics and materials",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9202535152435303
+        },
+        {
+          "id": "https://openalex.org/keywords/ophiolite",
+          "display_name": "Ophiolite",
+          "score": 0.8120633363723755
+        },
+        {
+          "id": "https://openalex.org/keywords/subduction",
+          "display_name": "Subduction",
+          "score": 0.8026506900787354
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.7329460978507996
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.5480135679244995
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.40511566400527954
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.28314682841300964
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9202535152435303
+        },
+        {
+          "id": "https://openalex.org/C23923706",
+          "wikidata": "https://www.wikidata.org/wiki/Q605396",
+          "display_name": "Ophiolite",
+          "level": 3,
+          "score": 0.8120633363723755
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.8026506900787354
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.7329460978507996
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5480135679244995
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.40511566400527954
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.28314682841300964
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/00206814.2025.2497938",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/00206814.2025.2497938",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S65039790",
+            "display_name": "International Geology Review",
+            "issn_l": "0020-6814",
+            "issn": [
+              "0020-6814",
+              "1938-2839"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Geology Review",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 143,
+      "referenced_works": [
+        "https://openalex.org/W802638875",
+        "https://openalex.org/W1203985308",
+        "https://openalex.org/W1468127994",
+        "https://openalex.org/W1509335520",
+        "https://openalex.org/W1533579068",
+        "https://openalex.org/W1535363067",
+        "https://openalex.org/W1601238847",
+        "https://openalex.org/W1641367876",
+        "https://openalex.org/W1654749589",
+        "https://openalex.org/W1964407709",
+        "https://openalex.org/W1965596457",
+        "https://openalex.org/W1966685022",
+        "https://openalex.org/W1969859799",
+        "https://openalex.org/W1970767963",
+        "https://openalex.org/W1971419367",
+        "https://openalex.org/W1973636328",
+        "https://openalex.org/W1974064481",
+        "https://openalex.org/W1978649689",
+        "https://openalex.org/W1978795897",
+        "https://openalex.org/W1980529631",
+        "https://openalex.org/W1981250804",
+        "https://openalex.org/W1982563793",
+        "https://openalex.org/W1984750552",
+        "https://openalex.org/W1987570951",
+        "https://openalex.org/W1996038144",
+        "https://openalex.org/W1999214929",
+        "https://openalex.org/W2001498872",
+        "https://openalex.org/W2002267842",
+        "https://openalex.org/W2003512977",
+        "https://openalex.org/W2005296492",
+        "https://openalex.org/W2011238896",
+        "https://openalex.org/W2011607179",
+        "https://openalex.org/W2012819291",
+        "https://openalex.org/W2012942615",
+        "https://openalex.org/W2016012285",
+        "https://openalex.org/W2019738508",
+        "https://openalex.org/W2023997601",
+        "https://openalex.org/W2024224250",
+        "https://openalex.org/W2026704415",
+        "https://openalex.org/W2026963820",
+        "https://openalex.org/W2027786463",
+        "https://openalex.org/W2032043856",
+        "https://openalex.org/W2032557139",
+        "https://openalex.org/W2033619193",
+        "https://openalex.org/W2033804331",
+        "https://openalex.org/W2034333474",
+        "https://openalex.org/W2041149617",
+        "https://openalex.org/W2046934317",
+        "https://openalex.org/W2047659594",
+        "https://openalex.org/W2051596475",
+        "https://openalex.org/W2054075105",
+        "https://openalex.org/W2054148437",
+        "https://openalex.org/W2054153355",
+        "https://openalex.org/W2057958061",
+        "https://openalex.org/W2062075136",
+        "https://openalex.org/W2062426403",
+        "https://openalex.org/W2066314009",
+        "https://openalex.org/W2069015452",
+        "https://openalex.org/W2070681730",
+        "https://openalex.org/W2071123829",
+        "https://openalex.org/W2076996184",
+        "https://openalex.org/W2081424548",
+        "https://openalex.org/W2083591846",
+        "https://openalex.org/W2084620949",
+        "https://openalex.org/W2085341666",
+        "https://openalex.org/W2085845662",
+        "https://openalex.org/W2086737016",
+        "https://openalex.org/W2090541109",
+        "https://openalex.org/W2098701409",
+        "https://openalex.org/W2104830403",
+        "https://openalex.org/W2107891851",
+        "https://openalex.org/W2111696176",
+        "https://openalex.org/W2113369720",
+        "https://openalex.org/W2116788973",
+        "https://openalex.org/W2122467685",
+        "https://openalex.org/W2127340060",
+        "https://openalex.org/W2128662179",
+        "https://openalex.org/W2129215112",
+        "https://openalex.org/W2132136583",
+        "https://openalex.org/W2136892820",
+        "https://openalex.org/W2139639432",
+        "https://openalex.org/W2146410887",
+        "https://openalex.org/W2149170714",
+        "https://openalex.org/W2151010548",
+        "https://openalex.org/W2155168966",
+        "https://openalex.org/W2157506684",
+        "https://openalex.org/W2160147971",
+        "https://openalex.org/W2161493148",
+        "https://openalex.org/W2161785359",
+        "https://openalex.org/W2161866809",
+        "https://openalex.org/W2162537633",
+        "https://openalex.org/W2166632770",
+        "https://openalex.org/W2166828164",
+        "https://openalex.org/W2168672163",
+        "https://openalex.org/W2171801505",
+        "https://openalex.org/W2268828948",
+        "https://openalex.org/W2299006103",
+        "https://openalex.org/W2321887429",
+        "https://openalex.org/W2334345936",
+        "https://openalex.org/W2340289454",
+        "https://openalex.org/W2497906081",
+        "https://openalex.org/W2508757349",
+        "https://openalex.org/W2519429919",
+        "https://openalex.org/W2610138969",
+        "https://openalex.org/W2737500990",
+        "https://openalex.org/W2755900853",
+        "https://openalex.org/W2757255375",
+        "https://openalex.org/W2783101039",
+        "https://openalex.org/W2797605623",
+        "https://openalex.org/W2800753759",
+        "https://openalex.org/W2863510570",
+        "https://openalex.org/W2883608281",
+        "https://openalex.org/W2896278271",
+        "https://openalex.org/W2904082105",
+        "https://openalex.org/W2950514427",
+        "https://openalex.org/W2953981961",
+        "https://openalex.org/W2957351600",
+        "https://openalex.org/W2980352260",
+        "https://openalex.org/W2995301094",
+        "https://openalex.org/W3016237799",
+        "https://openalex.org/W3019541576",
+        "https://openalex.org/W3023399975",
+        "https://openalex.org/W3098330206",
+        "https://openalex.org/W3115678982",
+        "https://openalex.org/W3152129569",
+        "https://openalex.org/W3160492586",
+        "https://openalex.org/W3165308387",
+        "https://openalex.org/W3173551832",
+        "https://openalex.org/W3194873978",
+        "https://openalex.org/W3206851905",
+        "https://openalex.org/W4200475041",
+        "https://openalex.org/W4200559166",
+        "https://openalex.org/W4206806138",
+        "https://openalex.org/W4220921024",
+        "https://openalex.org/W4221003439",
+        "https://openalex.org/W4236819559",
+        "https://openalex.org/W4243774149",
+        "https://openalex.org/W4285676292",
+        "https://openalex.org/W4289524087",
+        "https://openalex.org/W4316661757",
+        "https://openalex.org/W4321612157",
+        "https://openalex.org/W4321787482",
+        "https://openalex.org/W4392295814"
+      ],
+      "related_works": [
+        "https://openalex.org/W2369191739",
+        "https://openalex.org/W2762997592",
+        "https://openalex.org/W2800531900",
+        "https://openalex.org/W2479908282",
+        "https://openalex.org/W2521553249",
+        "https://openalex.org/W2206140473",
+        "https://openalex.org/W1981133170",
+        "https://openalex.org/W3191324057",
+        "https://openalex.org/W2902686343",
+        "https://openalex.org/W2113750225"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-04-25T08:17:42.794288",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58669,1031 +59699,6 @@
         {
           "year": 2024,
           "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4410043106",
-      "doi": "https://doi.org/10.1080/00206814.2025.2497938",
-      "title": "Petrological and Re-Os isotopic constraints on the origin of chromitites and peridotites of the late cretaceous Waziristan ophiolite, western Pakistan: implications for subduction initiation",
-      "display_name": "Petrological and Re-Os isotopic constraints on the origin of chromitites and peridotites of the late cretaceous Waziristan ophiolite, western Pakistan: implications for subduction initiation",
-      "publication_year": 2025,
-      "publication_date": "2025-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4410043106",
-        "doi": "https://doi.org/10.1080/00206814.2025.2497938"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1080/00206814.2025.2497938",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1080/00206814.2025.2497938",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S65039790",
-          "display_name": "International Geology Review",
-          "issn_l": "0020-6814",
-          "issn": [
-            "0020-6814",
-            "1938-2839"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Geology Review",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5088849273",
-            "display_name": "Zaheen Ullah",
-            "orcid": "https://orcid.org/0000-0002-8412-8954"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139660479",
-              "display_name": "Central South University",
-              "ror": "https://ror.org/00f1zfq44",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I335365548",
-              "display_name": "University of Swat",
-              "ror": "https://ror.org/01q9mqz67",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I335365548"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zaheen Ullah",
-          "raw_affiliation_strings": [
-            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
-            "University of Swat"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Swat",
-              "institution_ids": [
-                "https://openalex.org/I335365548"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038638644",
-            "display_name": "Asad Khan",
-            "orcid": "https://orcid.org/0000-0002-8651-308X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139660479",
-              "display_name": "Central South University",
-              "ror": "https://ror.org/00f1zfq44",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210120100",
-              "display_name": "FATA University",
-              "ror": "https://ror.org/02tm1xq35",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210120100"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Asad Khan",
-          "raw_affiliation_strings": [
-            "FATA University",
-            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "FATA University",
-              "institution_ids": [
-                "https://openalex.org/I4210120100"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052716474",
-            "display_name": "Huan Li",
-            "orcid": "https://orcid.org/0000-0001-5211-8324"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139660479",
-              "display_name": "Central South University",
-              "ror": "https://ror.org/00f1zfq44",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139660479"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Huan Li",
-          "raw_affiliation_strings": [
-            "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-            "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-5211-8324",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geosciences and Info-Physics, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            },
-            {
-              "raw_affiliation_string": "State Key Laboratory of Critical Mineral Research and Exploration, Central South University, Changsha, China",
-              "institution_ids": [
-                "https://openalex.org/I139660479"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011750653",
-            "display_name": "Scott Whattam",
-            "orcid": "https://orcid.org/0000-0001-9193-9002"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Scott A. Whattam",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-9193-9002",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103587504",
-            "display_name": "Muhammad Tahir Shah",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I36001604",
-              "display_name": "University of Peshawar",
-              "ror": "https://ror.org/02t2qwf81",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Tahir Shah",
-          "raw_affiliation_strings": [
-            "University of Peshawar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Peshawar",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5087370048",
-            "display_name": "Liaqat Ali",
-            "orcid": "https://orcid.org/0000-0002-5847-3105"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I36001604",
-              "display_name": "University of Peshawar",
-              "ror": "https://ror.org/02t2qwf81",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Liaqat Ali",
-          "raw_affiliation_strings": [
-            "University of Peshawar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Peshawar",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034481413",
-            "display_name": "Shah Faisal",
-            "orcid": "https://orcid.org/0000-0001-5115-1237"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I36001604",
-              "display_name": "University of Peshawar",
-              "ror": "https://ror.org/02t2qwf81",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shah Faisal",
-          "raw_affiliation_strings": [
-            "University of Peshawar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Peshawar",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037745835",
-            "display_name": "Tehseen Zafar",
-            "orcid": "https://orcid.org/0000-0002-5403-8982"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I20231570",
-              "display_name": "Peking University",
-              "ror": "https://ror.org/02v51f717",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I20231570"
-              ]
-            }
-          ],
-          "countries": [
-            "AE",
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tehseen Zafar",
-          "raw_affiliation_strings": [
-            "Chinese Academy of Sciences",
-            "Geosciences Department, College of Science, United Arab Emirates University, Al Ain, The United Arab Emirates",
-            "Peking University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Chinese Academy of Sciences",
-              "institution_ids": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Science, United Arab Emirates University, Al Ain, The United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Peking University",
-              "institution_ids": [
-                "https://openalex.org/I20231570"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100639437",
-            "display_name": "Muhammad Farhan",
-            "orcid": "https://orcid.org/0000-0001-5169-9323"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I76130692",
-              "display_name": "Zhejiang University",
-              "ror": "https://ror.org/00a2xv884",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I76130692"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Farhan",
-          "raw_affiliation_strings": [
-            "Zhejiang University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Zhejiang University",
-              "institution_ids": [
-                "https://openalex.org/I76130692"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057270032",
-            "display_name": "Shuja Ullah",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I36001604",
-              "display_name": "University of Peshawar",
-              "ror": "https://ror.org/02t2qwf81",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shuja Ullah",
-          "raw_affiliation_strings": [
-            "University of Peshawar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Peshawar",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018658605",
-            "display_name": "Syed Tanvir Shah",
-            "orcid": "https://orcid.org/0000-0001-9843-9000"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I181063083",
-              "display_name": "Abdul Wali Khan University Mardan",
-              "ror": "https://ror.org/03b9y4e65",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181063083"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Syed Tanvir Shah",
-          "raw_affiliation_strings": [
-            "Abdul Wali Khan University Mardan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Abdul Wali Khan University Mardan",
-              "institution_ids": [
-                "https://openalex.org/I181063083"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100664870",
-            "display_name": "Zahid Hussain",
-            "orcid": "https://orcid.org/0000-0002-6978-3133"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I163340411",
-              "display_name": "Hohai University",
-              "ror": "https://ror.org/01wd4xt90",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I163340411"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zahid Hussain",
-          "raw_affiliation_strings": [
-            "Hohai University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Hohai University",
-              "institution_ids": [
-                "https://openalex.org/I163340411"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5107915722",
-            "display_name": "Nusrat Hussain",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Nusrat Hussain",
-          "raw_affiliation_strings": [
-            "University of Baltistan Skardu"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Baltistan Skardu",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 13,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052716474"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139660479"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 8.2853,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.9770614,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "67",
-        "issue": "17",
-        "first_page": "1981",
-        "last_page": "2010"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10413",
-          "display_name": "High-pressure geophysics and materials",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9202535152435303
-        },
-        {
-          "id": "https://openalex.org/keywords/ophiolite",
-          "display_name": "Ophiolite",
-          "score": 0.8120633363723755
-        },
-        {
-          "id": "https://openalex.org/keywords/subduction",
-          "display_name": "Subduction",
-          "score": 0.8026506900787354
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7329460978507996
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5480135679244995
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.40511566400527954
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.28314682841300964
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9202535152435303
-        },
-        {
-          "id": "https://openalex.org/C23923706",
-          "wikidata": "https://www.wikidata.org/wiki/Q605396",
-          "display_name": "Ophiolite",
-          "level": 3,
-          "score": 0.8120633363723755
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.8026506900787354
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.7329460978507996
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.5480135679244995
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.40511566400527954
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.28314682841300964
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1080/00206814.2025.2497938",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1080/00206814.2025.2497938",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S65039790",
-            "display_name": "International Geology Review",
-            "issn_l": "0020-6814",
-            "issn": [
-              "0020-6814",
-              "1938-2839"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
-            ],
-            "host_organization_lineage_names": [
-              "Taylor & Francis"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Geology Review",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 143,
-      "referenced_works": [
-        "https://openalex.org/W802638875",
-        "https://openalex.org/W1203985308",
-        "https://openalex.org/W1468127994",
-        "https://openalex.org/W1509335520",
-        "https://openalex.org/W1533579068",
-        "https://openalex.org/W1535363067",
-        "https://openalex.org/W1601238847",
-        "https://openalex.org/W1641367876",
-        "https://openalex.org/W1654749589",
-        "https://openalex.org/W1964407709",
-        "https://openalex.org/W1965596457",
-        "https://openalex.org/W1966685022",
-        "https://openalex.org/W1969859799",
-        "https://openalex.org/W1970767963",
-        "https://openalex.org/W1971419367",
-        "https://openalex.org/W1973636328",
-        "https://openalex.org/W1974064481",
-        "https://openalex.org/W1978649689",
-        "https://openalex.org/W1978795897",
-        "https://openalex.org/W1980529631",
-        "https://openalex.org/W1981250804",
-        "https://openalex.org/W1982563793",
-        "https://openalex.org/W1984750552",
-        "https://openalex.org/W1987570951",
-        "https://openalex.org/W1996038144",
-        "https://openalex.org/W1999214929",
-        "https://openalex.org/W2001498872",
-        "https://openalex.org/W2002267842",
-        "https://openalex.org/W2003512977",
-        "https://openalex.org/W2005296492",
-        "https://openalex.org/W2011238896",
-        "https://openalex.org/W2011607179",
-        "https://openalex.org/W2012819291",
-        "https://openalex.org/W2012942615",
-        "https://openalex.org/W2016012285",
-        "https://openalex.org/W2019738508",
-        "https://openalex.org/W2023997601",
-        "https://openalex.org/W2024224250",
-        "https://openalex.org/W2026704415",
-        "https://openalex.org/W2026963820",
-        "https://openalex.org/W2027786463",
-        "https://openalex.org/W2032043856",
-        "https://openalex.org/W2032557139",
-        "https://openalex.org/W2033619193",
-        "https://openalex.org/W2033804331",
-        "https://openalex.org/W2034333474",
-        "https://openalex.org/W2041149617",
-        "https://openalex.org/W2046934317",
-        "https://openalex.org/W2047659594",
-        "https://openalex.org/W2051596475",
-        "https://openalex.org/W2054075105",
-        "https://openalex.org/W2054148437",
-        "https://openalex.org/W2054153355",
-        "https://openalex.org/W2057958061",
-        "https://openalex.org/W2062075136",
-        "https://openalex.org/W2062426403",
-        "https://openalex.org/W2066314009",
-        "https://openalex.org/W2069015452",
-        "https://openalex.org/W2070681730",
-        "https://openalex.org/W2071123829",
-        "https://openalex.org/W2076996184",
-        "https://openalex.org/W2081424548",
-        "https://openalex.org/W2083591846",
-        "https://openalex.org/W2084620949",
-        "https://openalex.org/W2085341666",
-        "https://openalex.org/W2085845662",
-        "https://openalex.org/W2086737016",
-        "https://openalex.org/W2090541109",
-        "https://openalex.org/W2098701409",
-        "https://openalex.org/W2104830403",
-        "https://openalex.org/W2107891851",
-        "https://openalex.org/W2111696176",
-        "https://openalex.org/W2113369720",
-        "https://openalex.org/W2116788973",
-        "https://openalex.org/W2122467685",
-        "https://openalex.org/W2127340060",
-        "https://openalex.org/W2128662179",
-        "https://openalex.org/W2129215112",
-        "https://openalex.org/W2132136583",
-        "https://openalex.org/W2136892820",
-        "https://openalex.org/W2139639432",
-        "https://openalex.org/W2146410887",
-        "https://openalex.org/W2149170714",
-        "https://openalex.org/W2151010548",
-        "https://openalex.org/W2155168966",
-        "https://openalex.org/W2157506684",
-        "https://openalex.org/W2160147971",
-        "https://openalex.org/W2161493148",
-        "https://openalex.org/W2161785359",
-        "https://openalex.org/W2161866809",
-        "https://openalex.org/W2162537633",
-        "https://openalex.org/W2166632770",
-        "https://openalex.org/W2166828164",
-        "https://openalex.org/W2168672163",
-        "https://openalex.org/W2171801505",
-        "https://openalex.org/W2268828948",
-        "https://openalex.org/W2299006103",
-        "https://openalex.org/W2321887429",
-        "https://openalex.org/W2334345936",
-        "https://openalex.org/W2340289454",
-        "https://openalex.org/W2497906081",
-        "https://openalex.org/W2508757349",
-        "https://openalex.org/W2519429919",
-        "https://openalex.org/W2610138969",
-        "https://openalex.org/W2737500990",
-        "https://openalex.org/W2755900853",
-        "https://openalex.org/W2757255375",
-        "https://openalex.org/W2783101039",
-        "https://openalex.org/W2797605623",
-        "https://openalex.org/W2800753759",
-        "https://openalex.org/W2863510570",
-        "https://openalex.org/W2883608281",
-        "https://openalex.org/W2896278271",
-        "https://openalex.org/W2904082105",
-        "https://openalex.org/W2950514427",
-        "https://openalex.org/W2953981961",
-        "https://openalex.org/W2957351600",
-        "https://openalex.org/W2980352260",
-        "https://openalex.org/W2995301094",
-        "https://openalex.org/W3016237799",
-        "https://openalex.org/W3019541576",
-        "https://openalex.org/W3023399975",
-        "https://openalex.org/W3098330206",
-        "https://openalex.org/W3115678982",
-        "https://openalex.org/W3152129569",
-        "https://openalex.org/W3160492586",
-        "https://openalex.org/W3165308387",
-        "https://openalex.org/W3173551832",
-        "https://openalex.org/W3194873978",
-        "https://openalex.org/W3206851905",
-        "https://openalex.org/W4200475041",
-        "https://openalex.org/W4200559166",
-        "https://openalex.org/W4206806138",
-        "https://openalex.org/W4220921024",
-        "https://openalex.org/W4221003439",
-        "https://openalex.org/W4236819559",
-        "https://openalex.org/W4243774149",
-        "https://openalex.org/W4285676292",
-        "https://openalex.org/W4289524087",
-        "https://openalex.org/W4316661757",
-        "https://openalex.org/W4321612157",
-        "https://openalex.org/W4321787482",
-        "https://openalex.org/W4392295814"
-      ],
-      "related_works": [
-        "https://openalex.org/W2369191739",
-        "https://openalex.org/W2762997592",
-        "https://openalex.org/W2800531900",
-        "https://openalex.org/W2479908282",
-        "https://openalex.org/W2521553249",
-        "https://openalex.org/W2206140473",
-        "https://openalex.org/W1981133170",
-        "https://openalex.org/W3191324057",
-        "https://openalex.org/W2902686343",
-        "https://openalex.org/W2113750225"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -220860,8 +220865,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7599999904632568,
           "display_name": "Life below water"
         }
       ],
