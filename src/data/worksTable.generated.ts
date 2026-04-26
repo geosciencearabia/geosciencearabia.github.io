@@ -7799,8 +7799,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2012-05-17",
     "year": 2012,
     "venue": "Lithosphere",
-    "citations": 454,
-    "fwci": 11.7071,
+    "citations": 455,
+    "fwci": 11.7079,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -11379,7 +11379,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "International Geology Review",
     "citations": 1,
-    "fwci": 1.6571,
+    "fwci": 1.6453,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -24328,7 +24328,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3879,
+    "fwci": 1.388,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -25418,7 +25418,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.239,
+    "fwci": 2.2393,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -50040,7 +50040,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.4163,
+    "fwci": 1.4124,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -50049,6 +50049,44 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Kunsan National University",
+      "International University of Business Agriculture and Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4416868394",
+    "doi": "https://doi.org/10.1016/j.asr.2025.11.099",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5036616600",
+      "A5067256109",
+      "A5032359229",
+      "A5109707707",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Rahman",
+    "allAuthors": [
+      "Mahfuzur Rahman",
+      "Asif Raihan",
+      "Syed Masiur Rahman",
+      "Md Anuwer Hossain",
+      "Mohammed Benaafi",
+      "Isam H. Aljundi"
+    ],
+    "title": "Groundwater science in the age of AI: emerging paradigms and challenges",
+    "publicationDate": "2025-12-01",
+    "year": 2025,
+    "venue": "Advances in Space Research",
+    "citations": 2,
+    "fwci": 1.4124,
+    "topics": [
+      "Hydrological Forecasting Using AI",
+      "Groundwater and Watershed Analysis",
+      "Groundwater and Isotope Geochemistry"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
       "International University of Business Agriculture and Technology"
     ]
   },
@@ -50236,44 +50274,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Saud University",
       "National University of Malaysia",
       "University of Nizwa"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4416868394",
-    "doi": "https://doi.org/10.1016/j.asr.2025.11.099",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5036616600",
-      "A5067256109",
-      "A5032359229",
-      "A5109707707",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Rahman",
-    "allAuthors": [
-      "Mahfuzur Rahman",
-      "Asif Raihan",
-      "Syed Masiur Rahman",
-      "Md Anuwer Hossain",
-      "Mohammed Benaafi",
-      "Isam H. Aljundi"
-    ],
-    "title": "Groundwater science in the age of AI: emerging paradigms and challenges",
-    "publicationDate": "2025-12-01",
-    "year": 2025,
-    "venue": "Advances in Space Research",
-    "citations": 1,
-    "fwci": 0.7112,
-    "topics": [
-      "Hydrological Forecasting Using AI",
-      "Groundwater and Watershed Analysis",
-      "Groundwater and Isotope Geochemistry"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "International University of Business Agriculture and Technology"
     ]
   },
   {
@@ -68988,7 +68988,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.6003,
+    "fwci": 18.6015,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -70536,6 +70536,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2085768522",
+    "doi": "https://doi.org/10.1144/sp339.4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039685767",
+    "allAuthorOpenAlexIds": [
+      "A5039685767",
+      "A5073496917",
+      "A5088719239"
+    ],
+    "firstAuthorLastName": "Strother",
+    "allAuthors": [
+      "Paul K. Strother",
+      "Thomas Servais",
+      "Marco Vecoli"
+    ],
+    "title": "The effects of terrestrialization on marine ecosystems: the fall of CO <sub>2</sub>",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "Geological Society London Special Publications",
+    "citations": 18,
+    "fwci": 0.5925,
+    "topics": [
+      "Ocean Acidification Effects and Responses",
+      "Paleontology and Stratigraphy of Fossils",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "Boston College",
+      "Unité Évolution, Écologie et Paléontologie",
+      "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2120996157",
     "doi": "https://doi.org/10.1080/01916122.2014.944278",
     "program": "",
@@ -71218,39 +71251,6 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2085768522",
-    "doi": "https://doi.org/10.1144/sp339.4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039685767",
-    "allAuthorOpenAlexIds": [
-      "A5039685767",
-      "A5073496917",
-      "A5088719239"
-    ],
-    "firstAuthorLastName": "Strother",
-    "allAuthors": [
-      "Paul K. Strother",
-      "Thomas Servais",
-      "Marco Vecoli"
-    ],
-    "title": "The effects of terrestrialization on marine ecosystems: the fall of CO <sub>2</sub>",
-    "publicationDate": "2010-01-01",
-    "year": 2010,
-    "venue": "Geological Society London Special Publications",
-    "citations": 17,
-    "fwci": 0.5845,
-    "topics": [
-      "Ocean Acidification Effects and Responses",
-      "Paleontology and Stratigraphy of Fossils",
-      "Methane Hydrates and Related Phenomena"
-    ],
-    "institutions": [
-      "Boston College",
-      "Unité Évolution, Écologie et Paléontologie",
-      "Centre National de la Recherche Scientifique"
-    ]
   },
   {
     "workId": "https://openalex.org/W2033520806",
@@ -74878,7 +74878,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-03-16",
     "year": 2018,
     "venue": "International Journal of Coal Geology",
-    "citations": 120,
+    "citations": 121,
     "fwci": 10.263,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -76585,7 +76585,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Terra Nova",
     "citations": 31,
-    "fwci": 3.3756,
+    "fwci": 3.3767,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -86710,7 +86710,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 7,
-    "fwci": 2.874,
+    "fwci": 2.8739,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87201,8 +87201,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 632,
-    "fwci": 56.8999,
+    "citations": 633,
+    "fwci": 56.8981,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -87254,8 +87254,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 454,
-    "fwci": 39.0626,
+    "citations": 455,
+    "fwci": 39.0614,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -88818,6 +88818,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2738122598",
+    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5031810631",
+      "A5064936522",
+      "A5057911678",
+      "A5110504212",
+      "A5060667788"
+    ],
+    "firstAuthorLastName": "Song",
+    "allAuthors": [
+      "Dongfang Song",
+      "Wenjiao Xiao",
+      "Alan S. Collins",
+      "Stijn Glorie",
+      "Chunming Han",
+      "Yongchen Li"
+    ],
+    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
+    "publicationDate": "2017-07-19",
+    "year": 2017,
+    "venue": "Precambrian Research",
+    "citations": 69,
+    "fwci": 4.5519,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Sciences",
+      "Institute of Geology and Geophysics",
+      "University of Adelaide",
+      "Center for Excellence in Tibetan Plateau Earth Sciences",
+      "Xinjiang Institute of Ecology and Geography"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2266038041",
     "doi": "https://doi.org/10.1130/b31411.1",
     "program": "",
@@ -90130,47 +90171,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geoscience Australia",
       "Curtin University",
       "University of Adelaide"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2738122598",
-    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5031810631",
-      "A5064936522",
-      "A5057911678",
-      "A5110504212",
-      "A5060667788"
-    ],
-    "firstAuthorLastName": "Song",
-    "allAuthors": [
-      "Dongfang Song",
-      "Wenjiao Xiao",
-      "Alan S. Collins",
-      "Stijn Glorie",
-      "Chunming Han",
-      "Yongchen Li"
-    ],
-    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
-    "publicationDate": "2017-07-19",
-    "year": 2017,
-    "venue": "Precambrian Research",
-    "citations": 68,
-    "fwci": 4.552,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Sciences",
-      "Institute of Geology and Geophysics",
-      "University of Adelaide",
-      "Center for Excellence in Tibetan Plateau Earth Sciences",
-      "Xinjiang Institute of Ecology and Geography"
     ]
   },
   {
@@ -133869,7 +133869,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 2.1537,
+    "fwci": 2.1518,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
