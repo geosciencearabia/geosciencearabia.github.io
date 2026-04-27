@@ -31324,8 +31324,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-07-04",
     "year": 2024,
     "venue": "Energy",
-    "citations": 24,
-    "fwci": 4.7168,
+    "citations": 25,
+    "fwci": 4.8958,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geological and Geochemical Analysis",
@@ -35035,8 +35035,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1989-06-01",
     "year": 1989,
     "venue": "Sedimentary Geology",
-    "citations": 131,
-    "fwci": 0.836,
+    "citations": 132,
+    "fwci": 0.8419,
     "topics": [
       "Geological formations and processes",
       "Hydrology and Sediment Transport Processes",
@@ -48912,8 +48912,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-02",
     "year": 2022,
     "venue": "Remote Sensing",
-    "citations": 60,
-    "fwci": 6.346,
+    "citations": 61,
+    "fwci": 6.3454,
     "topics": [
       "Flood Risk Assessment and Management",
       "Hydrology and Drought Analysis",
@@ -50040,7 +50040,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.4124,
+    "fwci": 1.4106,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -69820,7 +69820,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.75,
+    "fwci": 3.7502,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -74842,8 +74842,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 298,
-    "fwci": 18.6587,
+    "citations": 299,
+    "fwci": 18.6767,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -86221,7 +86221,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 185,
-    "fwci": 135.2443,
+    "fwci": 135.2475,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -90577,6 +90577,52 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2990866968",
+    "doi": "https://doi.org/10.1016/j.gr.2019.12.006",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5004188350",
+      "A5076630029",
+      "A5090734880",
+      "A5002671147",
+      "A5024022389",
+      "A5067737483",
+      "A5016377125",
+      "A5058911532"
+    ],
+    "firstAuthorLastName": "Foden",
+    "allAuthors": [
+      "John Foden",
+      "Marlina Elburg",
+      "Simon Turner",
+      "Chris Clark",
+      "Morgan Blades",
+      "Grant M. Cox",
+      "Alan S. Collins",
+      "Keryn Wolff",
+      "Christian O. George"
+    ],
+    "title": "Cambro-Ordovician magmatism in the Delamerian orogeny: Implications for tectonic development of the southern Gondwanan margin",
+    "publicationDate": "2020-01-16",
+    "year": 2020,
+    "venue": "Gondwana Research",
+    "citations": 55,
+    "fwci": 6.5418,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "University of Johannesburg",
+      "Macquarie University",
+      "Curtin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2204495290",
     "doi": "https://doi.org/10.1016/j.precamres.2015.09.018",
     "program": "",
@@ -90619,52 +90665,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "University of South Australia",
       "Government of Ethiopia",
-      "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2990866968",
-    "doi": "https://doi.org/10.1016/j.gr.2019.12.006",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5004188350",
-      "A5076630029",
-      "A5090734880",
-      "A5002671147",
-      "A5024022389",
-      "A5067737483",
-      "A5016377125",
-      "A5058911532"
-    ],
-    "firstAuthorLastName": "Foden",
-    "allAuthors": [
-      "John Foden",
-      "Marlina Elburg",
-      "Simon Turner",
-      "Chris Clark",
-      "Morgan Blades",
-      "Grant M. Cox",
-      "Alan S. Collins",
-      "Keryn Wolff",
-      "Christian O. George"
-    ],
-    "title": "Cambro-Ordovician magmatism in the Delamerian orogeny: Implications for tectonic development of the southern Gondwanan margin",
-    "publicationDate": "2020-01-16",
-    "year": 2020,
-    "venue": "Gondwana Research",
-    "citations": 54,
-    "fwci": 6.5204,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "University of Johannesburg",
-      "Macquarie University",
       "Curtin University"
     ]
   },
@@ -92142,7 +92142,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 29,
-    "fwci": 7.9373,
+    "fwci": 7.9279,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -107890,6 +107890,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3138693444",
+    "doi": "https://doi.org/10.1016/j.jappgeo.2021.104307",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5061327523",
+      "A5006106360",
+      "A5036348137",
+      "A5008213975",
+      "A5056307764",
+      "A5024607591",
+      "A5110864539"
+    ],
+    "firstAuthorLastName": "Edigbue",
+    "allAuthors": [
+      "Paul Edigbue",
+      "Abdullah Abobakr Al-Mashhor",
+      "Anastasios Plougarlis",
+      "Pantelis Soupios",
+      "Μάρκος Δ. Τρανός",
+      "SanLinn I. Kaka",
+      "Abdullatif Al‐Shuhail",
+      "Mansour A. Al‐Garni"
+    ],
+    "title": "Geological and geophysical investigations of an engineering site characterization for construction purposes in Western Saudi Arabia",
+    "publicationDate": "2021-03-14",
+    "year": 2021,
+    "venue": "Journal of Applied Geophysics",
+    "citations": 13,
+    "fwci": 1.3044,
+    "topics": [
+      "Geophysical and Geoelectrical Methods",
+      "Geophysical Methods and Applications",
+      "Seismic Waves and Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Aristotle University of Thessaloniki",
+      "King Abdulaziz University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3128211510",
     "doi": "https://doi.org/10.1029/2020ea001432",
     "program": "",
@@ -108202,49 +108245,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Ocean University of China",
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3138693444",
-    "doi": "https://doi.org/10.1016/j.jappgeo.2021.104307",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5061327523",
-      "A5006106360",
-      "A5036348137",
-      "A5008213975",
-      "A5056307764",
-      "A5024607591",
-      "A5110864539"
-    ],
-    "firstAuthorLastName": "Edigbue",
-    "allAuthors": [
-      "Paul Edigbue",
-      "Abdullah Abobakr Al-Mashhor",
-      "Anastasios Plougarlis",
-      "Pantelis Soupios",
-      "Μάρκος Δ. Τρανός",
-      "SanLinn I. Kaka",
-      "Abdullatif Al‐Shuhail",
-      "Mansour A. Al‐Garni"
-    ],
-    "title": "Geological and geophysical investigations of an engineering site characterization for construction purposes in Western Saudi Arabia",
-    "publicationDate": "2021-03-14",
-    "year": 2021,
-    "venue": "Journal of Applied Geophysics",
-    "citations": 12,
-    "fwci": 1.3038,
-    "topics": [
-      "Geophysical and Geoelectrical Methods",
-      "Geophysical Methods and Applications",
-      "Seismic Waves and Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Aristotle University of Thessaloniki",
-      "King Abdulaziz University"
     ]
   },
   {

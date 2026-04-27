@@ -30,7 +30,7 @@
           "ror": "https://ror.org/035a68863",
           "display_name": "United States Geological Survey",
           "country_code": "US",
-          "type": "government",
+          "type": "funder",
           "lineage": [
             "https://openalex.org/I1286329397",
             "https://openalex.org/I1335927249"
@@ -469,7 +469,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-04-25T12:21:27",
+    "updated_date": "2026-04-26T12:20:06",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1883,11 +1883,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.2443,
+      "fwci": 135.2475,
       "has_fulltext": true,
       "cited_by_count": 185,
       "citation_normalized_percentile": {
-        "value": 0.99962194,
+        "value": 0.99962195,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2972,7 +2972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-25T08:17:42.794288",
+      "updated_date": "2026-04-27T08:22:11.395708",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -18690,7 +18690,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -18738,7 +18738,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -19939,7 +19939,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-26T08:31:28.666265",
+      "updated_date": "2026-04-27T08:22:11.395708",
       "created_date": "2025-10-10T00:00:00"
     },
     {
