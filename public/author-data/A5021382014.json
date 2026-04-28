@@ -9,7 +9,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 11,
-    "cited_by_count": 64,
+    "cited_by_count": 65,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T10734",
         "display_name": "Information and Cyber Security",
-        "value": 0.0000078,
+        "value": 0.0000077,
         "subfield": {
           "id": "https://openalex.org/subfields/1710",
           "display_name": "Information Systems"
@@ -289,7 +289,7 @@
         "year": 2011,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 44
+        "cited_by_count": 45
       },
       {
         "year": 2014,
@@ -322,7 +322,7 @@
     ],
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
-    "updated_date": null,
+    "updated_date": "2026-04-28T12:20:23",
     "created_date": "2020-10-08T00:00:00"
   },
   "works": [
@@ -449,6 +449,7 @@
             "U.S. Geological Survey, Reston, VA, USA",
             "University of Oxford, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -504,6 +505,7 @@
             "University of Oxford, UK",
             "University of Oxford, UK,"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Oxford, UK",
@@ -547,6 +549,7 @@
             "Michigan State University, USA",
             "Michigan State University, , USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Michigan State University, USA",
@@ -591,6 +594,7 @@
             "U.S. Geological Survey, Reston, VA, USA",
             "U.S. Geological Survey, Reston, VA, USA#TAB#"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey, Reston, VA, USA",
@@ -635,6 +639,7 @@
             "U.S. Geological Survey, Vancouver, WA, USA",
             "U.S. Geological Survey; Vancouver WA USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey, Vancouver, WA, USA",
@@ -664,6 +669,7 @@
           "raw_affiliation_strings": [
             "National Drilling Company/U. S. Geological Survey, Al Ain, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Drilling Company/U. S. Geological Survey, Al Ain, United Arab Emirates",
@@ -699,6 +705,7 @@
             "University of Oxford, UK",
             "University of Oxford, UK,"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Oxford, UK",
@@ -742,6 +749,7 @@
             "King Fahd University of Petroleum and Minerals, Saudi Arabia",
             "(King Fahd University of Petroleum and Minerals, Saudi Arabia)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia",
@@ -772,11 +780,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3875,
+      "fwci": 1.3872,
       "has_fulltext": false,
-      "cited_by_count": 44,
+      "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.81415001,
+        "value": 0.81419991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1073,8 +1081,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -1097,8 +1105,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1521,7 +1529,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -1576,7 +1584,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-02T15:55:50.835912",
+      "updated_date": "2026-04-28T14:05:53.105641",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2141,16 +2149,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4457,16 +4465,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4251869326.pdf",
@@ -5105,8 +5113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -7197,16 +7205,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231640444.pdf",
@@ -8619,16 +8627,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth",
           "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4246434093.pdf",
@@ -9717,8 +9725,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -9731,8 +9739,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -10545,16 +10553,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11448,16 +11456,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12534,16 +12542,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13069,16 +13077,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

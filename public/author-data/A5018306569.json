@@ -475,6 +475,7 @@
             "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates. mohamed.jouini@ku.ac.ae",
             "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates. mohamed.jouini@ku.ac.ae",
@@ -527,6 +528,7 @@
             "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK",
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK",
@@ -569,6 +571,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
@@ -605,6 +608,7 @@
           "raw_affiliation_strings": [
             "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates",
@@ -641,6 +645,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
@@ -664,6 +669,7 @@
           "raw_affiliation_strings": [
             "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates",
@@ -691,11 +697,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 4.2557,
+      "fwci": 4.2254,
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.95444074,
+        "value": 0.95362756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1205,8 +1211,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -1326,340 +1332,95 @@
         "https://openalex.org/W2368475191"
       ],
       "abstract_inverted_index": {
-        "Characterization": [
+        "estimated": [
           0
         ],
-        "and": [
-          1,
-          20,
-          66,
-          104,
-          116,
-          121,
-          133,
-          144
-        ],
-        "prediction": [
-          2
-        ],
-        "of": [
-          3,
-          28,
-          84,
-          99,
-          131
-        ],
-        "reservoir": [
-          4,
-          35
-        ],
-        "heterogeneity": [
-          5,
-          27
-        ],
-        "are": [
-          6
-        ],
-        "crucial": [
-          7
-        ],
-        "for": [
-          8
-        ],
-        "hydrocarbon": [
-          9
-        ],
-        "production.": [
-          10
-        ],
-        "This": [
-          11
-        ],
-        "study": [
-          12
-        ],
-        "applies": [
-          13
-        ],
-        "the": [
-          14,
-          26,
-          37,
-          81,
-          85,
-          89,
-          93,
-          97,
-          105,
-          109,
-          138
-        ],
-        "multifractal": [
-          15,
-          135
-        ],
-        "theory": [
-          16
-        ],
-        "using": [
-          17
-        ],
-        "both": [
-          18,
-          64
-        ],
-        "numerical": [
-          19,
-          67
-        ],
-        "experimental": [
-          21,
-          57,
-          65,
-          73,
-          117,
-          134
-        ],
-        "data": [
-          22,
-          118
-        ],
-        "to": [
-          23,
-          124,
-          140
-        ],
-        "characterize": [
-          24
-        ],
-        "quantitatively": [
-          25,
-          125
-        ],
-        "pore": [
-          29,
-          86,
-          100
-        ],
-        "structures": [
-          30,
-          87
-        ],
-        "in": [
-          31,
-          92,
-          108
-        ],
-        "Lower": [
-          32
-        ],
-        "Cretaceous": [
-          33
-        ],
-        "limestone": [
-          34
-        ],
         "from": [
-          36,
-          44,
-          114
-        ],
-        "United": [
-          38
-        ],
-        "Arab": [
-          39
-        ],
-        "Emirates.": [
-          40
-        ],
-        "Fractal": [
-          41
-        ],
-        "dimensions": [
-          42,
-          69
-        ],
-        "calculated": [
-          43
-        ],
-        "three": [
-          45
-        ],
-        "dimensional": [
-          46
+          1
         ],
         "digital": [
-          47,
-          115,
-          132
+          2,
+          19
         ],
-        "images": [
-          48
+        "and": [
+          3,
+          8,
+          20,
+          31
         ],
-        "showed": [
-          49
+        "experimental": [
+          4,
+          21
         ],
-        "good": [
-          50
-        ],
-        "correlation": [
-          51
-        ],
-        "(R<sup>2</sup>": [
-          52
-        ],
-        "=": [
-          53
-        ],
-        "+": [
-          54
-        ],
-        "0.69)": [
-          55
-        ],
-        "with": [
-          56,
-          72
-        ],
-        "high-pressure": [
-          58
-        ],
-        "mercury": [
-          59
-        ],
-        "injection": [
-          60
-        ],
-        "(HPMI)": [
-          61
-        ],
-        "measurements.": [
-          62,
-          76
-        ],
-        "Moreover,": [
-          63
-        ],
-        "fractal": [
-          68
-        ],
-        "correlate": [
-          70
-        ],
-        "well": [
-          71,
-          120
-        ],
-        "HPMI": [
-          74
-        ],
-        "porosity": [
-          75
-        ],
-        "Multifractal": [
-          77
-        ],
-        "parameters": [
-          78,
-          136
-        ],
-        "such": [
-          79
-        ],
-        "as": [
-          80
-        ],
-        "non-uniformity": [
-          82
-        ],
-        "degree": [
-          83,
-          91,
-          107
-        ],
-        "Δα,": [
-          88
-        ],
-        "asymmetry": [
-          90,
-          106
-        ],
-        "vertical": [
-          94
-        ],
-        "axis": [
-          95,
-          111
-        ],
-        "Δf(α),": [
-          96
-        ],
-        "concentration": [
-          98
-        ],
-        "size": [
-          101
-        ],
-        "distribution": [
-          102
-        ],
-        "α<sub>0</sub>": [
-          103
-        ],
-        "horizontal": [
-          110
-        ],
-        "R<sub>d</sub>": [
-          112
-        ],
-        "estimated": [
-          113
+        "data": [
+          5
         ],
         "correlated": [
-          119
+          6
+        ],
+        "well": [
+          7
         ],
         "revealed": [
-          122
+          9
         ],
         "ability": [
-          123
+          10
+        ],
+        "to": [
+          11,
+          27
+        ],
+        "quantitatively": [
+          12
         ],
         "describe": [
-          126
+          13
         ],
         "samples": [
-          127
+          14
         ],
         "heterogeneity.": [
-          128
+          15
         ],
         "The": [
-          129
+          16
         ],
         "ranges": [
-          130
+          17
+        ],
+        "of": [
+          18
+        ],
+        "multifractal": [
+          22
+        ],
+        "parameters": [
+          23
         ],
         "provided": [
-          137
+          24
+        ],
+        "the": [
+          25
         ],
         "means": [
-          139
+          26
         ],
         "differentiate": [
-          141
+          28
         ],
         "between": [
-          142
+          29
         ],
         "homogeneous": [
-          143
+          30
         ],
         "heterogeneous": [
-          145
+          32
         ],
         "samples.": [
-          146
+          33
         ]
       },
       "counts_by_year": [
@@ -1676,7 +1437,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-04-28T14:05:53.105641",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2310,8 +2071,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3305,8 +3066,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4296,8 +4057,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5129,8 +4890,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -6351,8 +6112,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7028,8 +6789,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -7901,8 +7662,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -9363,8 +9124,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12497,8 +12258,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14696,8 +14457,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -16914,8 +16675,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -17471,8 +17232,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -18874,8 +18635,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -21521,8 +21282,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22844,8 +22605,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23950,8 +23711,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24796,8 +24557,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4302540421485901
+          "score": 0.4302540421485901,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26274,8 +26035,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -27429,8 +27190,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -28358,8 +28119,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29565,8 +29326,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -30301,8 +30062,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -33104,8 +32865,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34360,8 +34121,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -35517,8 +35278,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36465,8 +36226,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -37016,8 +36777,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -37873,8 +37634,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -38632,8 +38393,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -39622,8 +39383,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40965,8 +40726,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
