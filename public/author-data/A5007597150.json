@@ -4,6 +4,7 @@
     "orcid": "https://orcid.org/0000-0002-8456-158X",
     "display_name": "Mohammed Al Kindi",
     "raw_author_names": [
+      "Al Kindi, Mohammed",
       "MH Al Kindi",
       "Mohammed Al Kindi",
       "Mohammed Al-Kindi",
@@ -11,10 +12,10 @@
       "Mohammed H. N. Al-Kindi"
     ],
     "full_name": "Mohammed H. Al Kindi",
-    "works_count": 9,
+    "works_count": 12,
     "cited_by_count": 24,
     "summary_stats": {
-      "2yr_mean_citedness": 3,
+      "2yr_mean_citedness": 1.5,
       "h_index": 3,
       "i10_index": 0
     },
@@ -58,19 +59,42 @@
         ]
       }
     ],
-    "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I4210122910",
-        "ror": "https://ror.org/03tcppy59",
-        "display_name": "The Research Council",
-        "country_code": "OM",
-        "type": "government",
-        "lineage": [
-          "https://openalex.org/I4210122910"
-        ]
-      }
-    ],
+    "last_known_institutions": null,
     "topics": [
+      {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "count": 4,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "count": 4,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
@@ -106,46 +130,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
         "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T13372",
-        "display_name": "Archaeology and Historical Studies",
-        "count": 2,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1204",
-          "display_name": "Archeology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "count": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -158,6 +148,40 @@
       }
     ],
     "topic_share": [
+      {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.0000414,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000168,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
@@ -178,7 +202,7 @@
       {
         "id": "https://openalex.org/T11933",
         "display_name": "Mining and Resource Management",
-        "value": 0.0000154,
+        "value": 0.0000152,
         "subfield": {
           "id": "https://openalex.org/subfields/2215",
           "display_name": "Building and Construction"
@@ -208,40 +232,6 @@
           "id": "https://openalex.org/domains/2",
           "display_name": "Social Sciences"
         }
-      },
-      {
-        "id": "https://openalex.org/T12821",
-        "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000125,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000102,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
       }
     ],
     "x_concepts": [
@@ -252,28 +242,28 @@
         "score": 0.9032025337219238
       },
       {
-        "id": "6494504",
-        "wikidata": "https://www.wikidata.org/wiki/Q82480",
-        "display_name": "Sedimentary rock",
-        "score": 0.7527401447296143
+        "id": "108497213",
+        "wikidata": "https://www.wikidata.org/wiki/Q271669",
+        "display_name": "Landform",
+        "score": 0.7233863472938538
       },
       {
         "id": "151730666",
         "wikidata": "https://www.wikidata.org/wiki/Q7205",
         "display_name": "Paleontology",
-        "score": 0.5549712777137756
+        "score": 0.6812999844551086
       },
       {
         "id": "114793014",
         "wikidata": "https://www.wikidata.org/wiki/Q52109",
         "display_name": "Geomorphology",
-        "score": 0.38737571239471436
+        "score": 0.4941999912261963
       },
       {
-        "id": "109007969",
-        "wikidata": "https://www.wikidata.org/wiki/Q749565",
-        "display_name": "Structural basin",
-        "score": 0.21062514185905457
+        "id": "1965285",
+        "wikidata": "https://www.wikidata.org/wiki/Q8008",
+        "display_name": "Earth science",
+        "score": 0.4414086937904358
       }
     ],
     "counts_by_year": [
@@ -306,9 +296,16 @@
         "works_count": 1,
         "oa_works_count": 1,
         "cited_by_count": 1
+      },
+      {
+        "year": 2026,
+        "works_count": 3,
+        "oa_works_count": 3,
+        "cited_by_count": 0
       }
     ],
     "display_name_alternatives": [
+      "Al Kindi, Mohammed",
       "MH Al Kindi",
       "Mohammed Al Kindi",
       "Mohammed Al-Kindi",
@@ -317,7 +314,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-04-08T18:54:32",
+    "updated_date": "2026-04-29T12:20:03",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -3445,9 +3442,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6217,9 +6214,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7225,9 +7222,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -7770,9 +7767,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8442,9 +8439,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8986,9 +8983,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.550000011920929
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -9053,6 +9050,2746 @@
       "counts_by_year": [],
       "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7155484971",
+      "doi": "https://doi.org/10.6084/m9.figshare.32095661.v1",
+      "title": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "display_name": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "publication_year": 2026,
+      "publication_date": "2026-04-24",
+      "ids": {
+        "openalex": "https://openalex.org/W7155484971",
+        "doi": "https://doi.org/10.6084/m9.figshare.32095661.v1"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.6084/m9.figshare.32095661.v1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661.v1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196282",
+          "display_name": "Figshare",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4210132348",
+          "host_organization_name": "Figshare (United Kingdom)",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210132348"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      "type": "article",
+      "indexed_in": [
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.6084/m9.figshare.32095661.v1",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091426946",
+            "display_name": "Andrea Pezzotta",
+            "orcid": "https://orcid.org/0000-0002-1093-1576"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Pezzotta, Andrea",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012088042",
+            "display_name": "Alessia Marinoni",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marinoni, Alessia",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Al Kindi, Mohammed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041575007",
+            "display_name": "Davide Susini",
+            "orcid": "https://orcid.org/0000-0003-0526-9407"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Susini, Davide",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5134503469",
+            "display_name": "Sam Turner",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Turner, Sam",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037028344",
+            "display_name": "Michele Zucali",
+            "orcid": "https://orcid.org/0000-0003-3600-7856"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zucali, Michele",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5134553090",
+            "display_name": "Andrea Zerboni",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zerboni, Andrea",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5091426946"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.92960426,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "score": 0.3698999881744385,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.3698999881744385,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.16120000183582306,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.13740000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/landform",
+          "display_name": "Landform",
+          "score": 0.7071999907493591
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.5509999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/dome",
+          "display_name": "Dome (geology)",
+          "score": 0.48019999265670776
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial",
+          "display_name": "Fluvial",
+          "score": 0.39590001106262207
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.376800000667572
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8360000252723694
+        },
+        {
+          "id": "https://openalex.org/C108497213",
+          "wikidata": "https://www.wikidata.org/wiki/Q271669",
+          "display_name": "Landform",
+          "level": 2,
+          "score": 0.7071999907493591
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6812999844551086
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5509999990463257
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.4941999912261963
+        },
+        {
+          "id": "https://openalex.org/C189092281",
+          "wikidata": "https://www.wikidata.org/wiki/Q3236743",
+          "display_name": "Dome (geology)",
+          "level": 2,
+          "score": 0.48019999265670776
+        },
+        {
+          "id": "https://openalex.org/C112959462",
+          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
+          "display_name": "Fluvial",
+          "level": 3,
+          "score": 0.39590001106262207
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3806999921798706
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.376800000667572
+        },
+        {
+          "id": "https://openalex.org/C139419234",
+          "wikidata": "https://www.wikidata.org/wiki/Q1592877",
+          "display_name": "Tectonic uplift",
+          "level": 3,
+          "score": 0.367000013589859
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.29499998688697815
+        },
+        {
+          "id": "https://openalex.org/C123157820",
+          "wikidata": "https://www.wikidata.org/wiki/Q80026",
+          "display_name": "Erosion",
+          "level": 2,
+          "score": 0.2865999937057495
+        },
+        {
+          "id": "https://openalex.org/C136752280",
+          "wikidata": "https://www.wikidata.org/wiki/Q152827",
+          "display_name": "Geodynamics",
+          "level": 3,
+          "score": 0.25529998540878296
+        },
+        {
+          "id": "https://openalex.org/C119477230",
+          "wikidata": "https://www.wikidata.org/wiki/Q7950",
+          "display_name": "Plate tectonics",
+          "level": 3,
+          "score": 0.25440001487731934
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.6084/m9.figshare.32095661.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "article-journal"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.6084/m9.figshare.32095661.v1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661.v1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196282",
+          "display_name": "Figshare",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4210132348",
+          "host_organization_name": "Figshare (United Kingdom)",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210132348"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.45413655042648315,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "a": [
+          3,
+          18,
+          74
+        ],
+        "comprehensive": [
+          4
+        ],
+        "geomorphological": [
+          5,
+          53
+        ],
+        "map": [
+          6
+        ],
+        "of": [
+          7,
+          16,
+          28,
+          34,
+          122,
+          129
+        ],
+        "the": [
+          8,
+          13,
+          24,
+          29,
+          52,
+          94,
+          120,
+          127
+        ],
+        "Jebel": [
+          9,
+          123
+        ],
+        "Akhdar": [
+          10,
+          124
+        ],
+        "dome": [
+          11,
+          21,
+          125
+        ],
+        "in": [
+          12,
+          143
+        ],
+        "northern": [
+          14
+        ],
+        "Sultanate": [
+          15
+        ],
+        "Oman,": [
+          17
+        ],
+        "prominent": [
+          19
+        ],
+        "carbonate": [
+          20
+        ],
+        "formed": [
+          22
+        ],
+        "during": [
+          23,
+          93
+        ],
+        "Late": [
+          25,
+          80
+        ],
+        "Cretaceous": [
+          26,
+          81
+        ],
+        "obduction": [
+          27
+        ],
+        "Semail": [
+          30
+        ],
+        "Ophiolite.": [
+          31
+        ],
+        "The": [
+          32,
+          55,
+          70
+        ],
+        "integration": [
+          33
+        ],
+        "remote": [
+          35
+        ],
+        "sensing": [
+          36
+        ],
+        "observations": [
+          37
+        ],
+        "and": [
+          38,
+          49,
+          68,
+          82,
+          86,
+          100,
+          102,
+          131,
+          146
+        ],
+        "field": [
+          39
+        ],
+        "surveys": [
+          40
+        ],
+        "validations": [
+          41
+        ],
+        "permits": [
+          42
+        ],
+        "to": [
+          43
+        ],
+        "recognise": [
+          44
+        ],
+        "landforms": [
+          45,
+          59
+        ],
+        "at": [
+          46
+        ],
+        "different": [
+          47
+        ],
+        "scales,": [
+          48
+        ],
+        "thus": [
+          50
+        ],
+        "complete": [
+          51
+        ],
+        "mapping.": [
+          54
+        ],
+        "research": [
+          56
+        ],
+        "identifies": [
+          57
+        ],
+        "key": [
+          58
+        ],
+        "shaped": [
+          60
+        ],
+        "by": [
+          61,
+          89,
+          97
+        ],
+        "complex": [
+          62,
+          147
+        ],
+        "interactions": [
+          63
+        ],
+        "between": [
+          64
+        ],
+        "tectonics,": [
+          65
+        ],
+        "surface": [
+          66
+        ],
+        "processes,": [
+          67,
+          104
+        ],
+        "climate.": [
+          69
+        ],
+        "region's": [
+          71
+        ],
+        "landscape": [
+          72,
+          110,
+          141
+        ],
+        "reflects": [
+          73
+        ],
+        "long": [
+          75
+        ],
+        "evolutionary": [
+          76
+        ],
+        "history": [
+          77
+        ],
+        "beginning": [
+          78
+        ],
+        "with": [
+          79,
+          105
+        ],
+        "Cenozoic": [
+          83
+        ],
+        "tectonic": [
+          84,
+          107
+        ],
+        "doming": [
+          85
+        ],
+        "uplift,": [
+          87
+        ],
+        "followed": [
+          88
+        ],
+        "prevailing": [
+          90
+        ],
+        "exogenous": [
+          91,
+          132
+        ],
+        "processes": [
+          92
+        ],
+        "Miocene-Quaternary,": [
+          95
+        ],
+        "characterised": [
+          96
+        ],
+        "erosion,": [
+          98
+        ],
+        "karstification,": [
+          99
+        ],
+        "fluvial": [
+          101
+        ],
+        "slope": [
+          103
+        ],
+        "ongoing": [
+          106
+        ],
+        "activity": [
+          108
+        ],
+        "influencing": [
+          109
+        ],
+        "dynamics.": [
+          111
+        ],
+        "Human": [
+          112
+        ],
+        "interventions": [
+          113
+        ],
+        "have": [
+          114
+        ],
+        "also": [
+          115
+        ],
+        "affected": [
+          116
+        ],
+        "topographic": [
+          117
+        ],
+        "features.": [
+          118
+        ],
+        "Overall,": [
+          119
+        ],
+        "geomorphology": [
+          121
+        ],
+        "exemplifies": [
+          126
+        ],
+        "interplay": [
+          128
+        ],
+        "endogenous": [
+          130
+        ],
+        "forces": [
+          133
+        ],
+        "over": [
+          134
+        ],
+        "geological": [
+          135
+        ],
+        "timescales,": [
+          136
+        ],
+        "providing": [
+          137
+        ],
+        "vital": [
+          138
+        ],
+        "insights": [
+          139
+        ],
+        "into": [
+          140
+        ],
+        "evolution": [
+          142
+        ],
+        "arid": [
+          144
+        ],
+        "environments": [
+          145
+        ],
+        "geodynamic": [
+          148
+        ],
+        "settings.": [
+          149
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-04-29T09:16:38.111599",
+      "created_date": "2026-04-25T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7155508834",
+      "doi": "https://doi.org/10.6084/m9.figshare.32095661",
+      "title": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "display_name": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "publication_year": 2026,
+      "publication_date": "2026-04-24",
+      "ids": {
+        "openalex": "https://openalex.org/W7155508834",
+        "doi": "https://doi.org/10.6084/m9.figshare.32095661"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.6084/m9.figshare.32095661",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196282",
+          "display_name": "Figshare",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4210132348",
+          "host_organization_name": "Figshare (United Kingdom)",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210132348"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      "type": "article",
+      "indexed_in": [
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.6084/m9.figshare.32095661",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091426946",
+            "display_name": "Andrea Pezzotta",
+            "orcid": "https://orcid.org/0000-0002-1093-1576"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Pezzotta, Andrea",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012088042",
+            "display_name": "Alessia Marinoni",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marinoni, Alessia",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Al Kindi, Mohammed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041575007",
+            "display_name": "Davide Susini",
+            "orcid": "https://orcid.org/0000-0003-0526-9407"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Susini, Davide",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5134503469",
+            "display_name": "Sam Turner",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Turner, Sam",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037028344",
+            "display_name": "Michele Zucali",
+            "orcid": "https://orcid.org/0000-0003-3600-7856"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zucali, Michele",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5134553090",
+            "display_name": "Andrea Zerboni",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zerboni, Andrea",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5091426946"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.93226788,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "score": 0.3698999881744385,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.3698999881744385,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.16120000183582306,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.13740000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/landform",
+          "display_name": "Landform",
+          "score": 0.7071999907493591
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.5509999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/dome",
+          "display_name": "Dome (geology)",
+          "score": 0.48019999265670776
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial",
+          "display_name": "Fluvial",
+          "score": 0.39590001106262207
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.376800000667572
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8360000252723694
+        },
+        {
+          "id": "https://openalex.org/C108497213",
+          "wikidata": "https://www.wikidata.org/wiki/Q271669",
+          "display_name": "Landform",
+          "level": 2,
+          "score": 0.7071999907493591
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6812999844551086
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5572999715805054
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5509999990463257
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.4941999912261963
+        },
+        {
+          "id": "https://openalex.org/C189092281",
+          "wikidata": "https://www.wikidata.org/wiki/Q3236743",
+          "display_name": "Dome (geology)",
+          "level": 2,
+          "score": 0.48019999265670776
+        },
+        {
+          "id": "https://openalex.org/C112959462",
+          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
+          "display_name": "Fluvial",
+          "level": 3,
+          "score": 0.39590001106262207
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3806999921798706
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.376800000667572
+        },
+        {
+          "id": "https://openalex.org/C139419234",
+          "wikidata": "https://www.wikidata.org/wiki/Q1592877",
+          "display_name": "Tectonic uplift",
+          "level": 3,
+          "score": 0.367000013589859
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.29499998688697815
+        },
+        {
+          "id": "https://openalex.org/C123157820",
+          "wikidata": "https://www.wikidata.org/wiki/Q80026",
+          "display_name": "Erosion",
+          "level": 2,
+          "score": 0.2865999937057495
+        },
+        {
+          "id": "https://openalex.org/C136752280",
+          "wikidata": "https://www.wikidata.org/wiki/Q152827",
+          "display_name": "Geodynamics",
+          "level": 3,
+          "score": 0.25529998540878296
+        },
+        {
+          "id": "https://openalex.org/C119477230",
+          "wikidata": "https://www.wikidata.org/wiki/Q7950",
+          "display_name": "Plate tectonics",
+          "level": 3,
+          "score": 0.25440001487731934
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.6084/m9.figshare.32095661",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "article-journal"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.6084/m9.figshare.32095661",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.6084/m9.figshare.32095661",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196282",
+          "display_name": "Figshare",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4210132348",
+          "host_organization_name": "Figshare (United Kingdom)",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210132348"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.45413655042648315,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "a": [
+          3,
+          18,
+          74
+        ],
+        "comprehensive": [
+          4
+        ],
+        "geomorphological": [
+          5,
+          53
+        ],
+        "map": [
+          6
+        ],
+        "of": [
+          7,
+          16,
+          28,
+          34,
+          122,
+          129
+        ],
+        "the": [
+          8,
+          13,
+          24,
+          29,
+          52,
+          94,
+          120,
+          127
+        ],
+        "Jebel": [
+          9,
+          123
+        ],
+        "Akhdar": [
+          10,
+          124
+        ],
+        "dome": [
+          11,
+          21,
+          125
+        ],
+        "in": [
+          12,
+          143
+        ],
+        "northern": [
+          14
+        ],
+        "Sultanate": [
+          15
+        ],
+        "Oman,": [
+          17
+        ],
+        "prominent": [
+          19
+        ],
+        "carbonate": [
+          20
+        ],
+        "formed": [
+          22
+        ],
+        "during": [
+          23,
+          93
+        ],
+        "Late": [
+          25,
+          80
+        ],
+        "Cretaceous": [
+          26,
+          81
+        ],
+        "obduction": [
+          27
+        ],
+        "Semail": [
+          30
+        ],
+        "Ophiolite.": [
+          31
+        ],
+        "The": [
+          32,
+          55,
+          70
+        ],
+        "integration": [
+          33
+        ],
+        "remote": [
+          35
+        ],
+        "sensing": [
+          36
+        ],
+        "observations": [
+          37
+        ],
+        "and": [
+          38,
+          49,
+          68,
+          82,
+          86,
+          100,
+          102,
+          131,
+          146
+        ],
+        "field": [
+          39
+        ],
+        "surveys": [
+          40
+        ],
+        "validations": [
+          41
+        ],
+        "permits": [
+          42
+        ],
+        "to": [
+          43
+        ],
+        "recognise": [
+          44
+        ],
+        "landforms": [
+          45,
+          59
+        ],
+        "at": [
+          46
+        ],
+        "different": [
+          47
+        ],
+        "scales,": [
+          48
+        ],
+        "thus": [
+          50
+        ],
+        "complete": [
+          51
+        ],
+        "mapping.": [
+          54
+        ],
+        "research": [
+          56
+        ],
+        "identifies": [
+          57
+        ],
+        "key": [
+          58
+        ],
+        "shaped": [
+          60
+        ],
+        "by": [
+          61,
+          89,
+          97
+        ],
+        "complex": [
+          62,
+          147
+        ],
+        "interactions": [
+          63
+        ],
+        "between": [
+          64
+        ],
+        "tectonics,": [
+          65
+        ],
+        "surface": [
+          66
+        ],
+        "processes,": [
+          67,
+          104
+        ],
+        "climate.": [
+          69
+        ],
+        "region's": [
+          71
+        ],
+        "landscape": [
+          72,
+          110,
+          141
+        ],
+        "reflects": [
+          73
+        ],
+        "long": [
+          75
+        ],
+        "evolutionary": [
+          76
+        ],
+        "history": [
+          77
+        ],
+        "beginning": [
+          78
+        ],
+        "with": [
+          79,
+          105
+        ],
+        "Cenozoic": [
+          83
+        ],
+        "tectonic": [
+          84,
+          107
+        ],
+        "doming": [
+          85
+        ],
+        "uplift,": [
+          87
+        ],
+        "followed": [
+          88
+        ],
+        "prevailing": [
+          90
+        ],
+        "exogenous": [
+          91,
+          132
+        ],
+        "processes": [
+          92
+        ],
+        "Miocene-Quaternary,": [
+          95
+        ],
+        "characterised": [
+          96
+        ],
+        "erosion,": [
+          98
+        ],
+        "karstification,": [
+          99
+        ],
+        "fluvial": [
+          101
+        ],
+        "slope": [
+          103
+        ],
+        "ongoing": [
+          106
+        ],
+        "activity": [
+          108
+        ],
+        "influencing": [
+          109
+        ],
+        "dynamics.": [
+          111
+        ],
+        "Human": [
+          112
+        ],
+        "interventions": [
+          113
+        ],
+        "have": [
+          114
+        ],
+        "also": [
+          115
+        ],
+        "affected": [
+          116
+        ],
+        "topographic": [
+          117
+        ],
+        "features.": [
+          118
+        ],
+        "Overall,": [
+          119
+        ],
+        "geomorphology": [
+          121
+        ],
+        "exemplifies": [
+          126
+        ],
+        "interplay": [
+          128
+        ],
+        "endogenous": [
+          130
+        ],
+        "forces": [
+          133
+        ],
+        "over": [
+          134
+        ],
+        "geological": [
+          135
+        ],
+        "timescales,": [
+          136
+        ],
+        "providing": [
+          137
+        ],
+        "vital": [
+          138
+        ],
+        "insights": [
+          139
+        ],
+        "into": [
+          140
+        ],
+        "evolution": [
+          142
+        ],
+        "arid": [
+          144
+        ],
+        "environments": [
+          145
+        ],
+        "geodynamic": [
+          148
+        ],
+        "settings.": [
+          149
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-04-29T09:16:38.111599",
+      "created_date": "2026-04-25T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7155534781",
+      "doi": "https://doi.org/10.1080/17445647.2026.2649056",
+      "title": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "display_name": "Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution",
+      "publication_year": 2026,
+      "publication_date": "2026-04-24",
+      "ids": {
+        "openalex": "https://openalex.org/W7155534781",
+        "doi": "https://doi.org/10.1080/17445647.2026.2649056"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/17445647.2026.2649056",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/17445647.2026.2649056",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38233421",
+          "display_name": "Journal of Maps",
+          "issn_l": "1744-5647",
+          "issn": [
+            "1744-5647"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Maps",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1080/17445647.2026.2649056",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091426946",
+            "display_name": "Andrea Pezzotta",
+            "orcid": "https://orcid.org/0000-0002-1093-1576"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189158943",
+              "display_name": "University of Milan",
+              "ror": "https://ror.org/00wjc7c48",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andrea Pezzotta",
+          "raw_affiliation_strings": [
+            "Università degli Studi di Milano"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1093-1576",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Università degli Studi di Milano",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012088042",
+            "display_name": "Alessia Marinoni",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189158943",
+              "display_name": "University of Milan",
+              "ror": "https://ror.org/00wjc7c48",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alessia Marinoni",
+          "raw_affiliation_strings": [
+            "Università degli Studi di Milano"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0000-5841-9830",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Università degli Studi di Milano",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041575007",
+            "display_name": "Davide Susini",
+            "orcid": "https://orcid.org/0000-0003-0526-9407"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102064193",
+              "display_name": "University of Siena",
+              "ror": "https://ror.org/01tevnk56",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102064193"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210096172",
+              "display_name": "Institute of Environmental Geology and Geoengineering",
+              "ror": "https://ror.org/00ytw6m58",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210096172",
+                "https://openalex.org/I4210155236"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Davide Susini",
+          "raw_affiliation_strings": [
+            "Institute of Environmental Geology and Geoengineering, National Research Council",
+            "Università di Siena"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0526-9407",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environmental Geology and Geoengineering, National Research Council",
+              "institution_ids": [
+                "https://openalex.org/I4210096172"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Università di Siena",
+              "institution_ids": [
+                "https://openalex.org/I102064193"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019415548",
+            "display_name": "Sam Turner",
+            "orcid": "https://orcid.org/0000-0002-3257-0070"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84884186",
+              "display_name": "Newcastle University",
+              "ror": "https://ror.org/01kj2bm70",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sam Turner",
+          "raw_affiliation_strings": [
+            "Newcastle University"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3257-0070",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Newcastle University",
+              "institution_ids": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037028344",
+            "display_name": "Michele Zucali",
+            "orcid": "https://orcid.org/0000-0003-3600-7856"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189158943",
+              "display_name": "University of Milan",
+              "ror": "https://ror.org/00wjc7c48",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michele Zucali",
+          "raw_affiliation_strings": [
+            "Università degli Studi di Milano"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3600-7856",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Università degli Studi di Milano",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067454334",
+            "display_name": "Andrea Zerboni",
+            "orcid": "https://orcid.org/0000-0002-6844-8528"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189158943",
+              "display_name": "University of Milan",
+              "ror": "https://ror.org/00wjc7c48",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrea Zerboni",
+          "raw_affiliation_strings": [
+            "Università degli Studi di Milano"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6844-8528",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Università degli Studi di Milano",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5091426946"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I189158943"
+      ],
+      "apc_list": {
+        "value": 635,
+        "currency": "GBP",
+        "value_usd": 778
+      },
+      "apc_paid": {
+        "value": 635,
+        "currency": "GBP",
+        "value_usd": 778
+      },
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.95284221,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "22",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.19189999997615814,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.19189999997615814,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.14329999685287476,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11643",
+          "display_name": "Building materials and conservation",
+          "score": 0.12770000100135803,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dome",
+          "display_name": "Dome (geology)",
+          "score": 0.7348999977111816
+        },
+        {
+          "id": "https://openalex.org/keywords/surface",
+          "display_name": "Surface (topology)",
+          "score": 0.38960000872612
+        },
+        {
+          "id": "https://openalex.org/keywords/geologic-map",
+          "display_name": "Geologic map",
+          "score": 0.24819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/landform",
+          "display_name": "Landform",
+          "score": 0.23749999701976776
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8126000165939331
+        },
+        {
+          "id": "https://openalex.org/C189092281",
+          "wikidata": "https://www.wikidata.org/wiki/Q3236743",
+          "display_name": "Dome (geology)",
+          "level": 2,
+          "score": 0.7348999977111816
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4702000021934509
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.46000000834465027
+        },
+        {
+          "id": "https://openalex.org/C2776799497",
+          "wikidata": "https://www.wikidata.org/wiki/Q484298",
+          "display_name": "Surface (topology)",
+          "level": 2,
+          "score": 0.38960000872612
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.2547000050544739
+        },
+        {
+          "id": "https://openalex.org/C82586738",
+          "wikidata": "https://www.wikidata.org/wiki/Q193842",
+          "display_name": "Geologic map",
+          "level": 2,
+          "score": 0.24819999933242798
+        },
+        {
+          "id": "https://openalex.org/C108497213",
+          "wikidata": "https://www.wikidata.org/wiki/Q271669",
+          "display_name": "Landform",
+          "level": 2,
+          "score": 0.23749999701976776
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.23360000550746918
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.20309999585151672
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1080/17445647.2026.2649056",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/17445647.2026.2649056",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S38233421",
+            "display_name": "Journal of Maps",
+            "issn_l": "1744-5647",
+            "issn": [
+              "1744-5647"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Maps",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:deff3d3094be4a43967ef1b7a388f00d",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/deff3d3094be4a43967ef1b7a388f00d",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Maps, Vol 22, Iss 1 (2026)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1080/17445647.2026.2649056",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/17445647.2026.2649056",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38233421",
+          "display_name": "Journal of Maps",
+          "issn_l": "1744-5647",
+          "issn": [
+            "1744-5647"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Maps",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 51,
+      "referenced_works": [
+        "https://openalex.org/W112984935",
+        "https://openalex.org/W1514213934",
+        "https://openalex.org/W1967187046",
+        "https://openalex.org/W1977411148",
+        "https://openalex.org/W1979820932",
+        "https://openalex.org/W1990336227",
+        "https://openalex.org/W2020526247",
+        "https://openalex.org/W2027043853",
+        "https://openalex.org/W2039766898",
+        "https://openalex.org/W2045563285",
+        "https://openalex.org/W2045872680",
+        "https://openalex.org/W2069339276",
+        "https://openalex.org/W2072377673",
+        "https://openalex.org/W2079896118",
+        "https://openalex.org/W2081229353",
+        "https://openalex.org/W2084638152",
+        "https://openalex.org/W2095003426",
+        "https://openalex.org/W2113162852",
+        "https://openalex.org/W2127110316",
+        "https://openalex.org/W2158865798",
+        "https://openalex.org/W2167767686",
+        "https://openalex.org/W2259645488",
+        "https://openalex.org/W2315819912",
+        "https://openalex.org/W2586620042",
+        "https://openalex.org/W2789576189",
+        "https://openalex.org/W2790496950",
+        "https://openalex.org/W2795095535",
+        "https://openalex.org/W2888391641",
+        "https://openalex.org/W2896914614",
+        "https://openalex.org/W2916099470",
+        "https://openalex.org/W2935894711",
+        "https://openalex.org/W2945318394",
+        "https://openalex.org/W2954119218",
+        "https://openalex.org/W2963259956",
+        "https://openalex.org/W2972639377",
+        "https://openalex.org/W2980555696",
+        "https://openalex.org/W3005932770",
+        "https://openalex.org/W3023068516",
+        "https://openalex.org/W3080482274",
+        "https://openalex.org/W3124446681",
+        "https://openalex.org/W3133826733",
+        "https://openalex.org/W3156665560",
+        "https://openalex.org/W4221135302",
+        "https://openalex.org/W4224015340",
+        "https://openalex.org/W4239884961",
+        "https://openalex.org/W4311866797",
+        "https://openalex.org/W4315648273",
+        "https://openalex.org/W4319458913",
+        "https://openalex.org/W4362631097",
+        "https://openalex.org/W4388602773",
+        "https://openalex.org/W4407547917"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "a": [
+          3,
+          18,
+          74
+        ],
+        "comprehensive": [
+          4
+        ],
+        "geomorphological": [
+          5,
+          53
+        ],
+        "map": [
+          6
+        ],
+        "of": [
+          7,
+          16,
+          28,
+          34,
+          122,
+          129
+        ],
+        "the": [
+          8,
+          13,
+          24,
+          29,
+          52,
+          94,
+          120,
+          127
+        ],
+        "Jebel": [
+          9,
+          123
+        ],
+        "Akhdar": [
+          10,
+          124
+        ],
+        "dome": [
+          11,
+          21,
+          125
+        ],
+        "in": [
+          12,
+          143
+        ],
+        "northern": [
+          14
+        ],
+        "Sultanate": [
+          15
+        ],
+        "Oman,": [
+          17
+        ],
+        "prominent": [
+          19
+        ],
+        "carbonate": [
+          20
+        ],
+        "formed": [
+          22
+        ],
+        "during": [
+          23,
+          93
+        ],
+        "Late": [
+          25,
+          80
+        ],
+        "Cretaceous": [
+          26,
+          81
+        ],
+        "obduction": [
+          27
+        ],
+        "Semail": [
+          30
+        ],
+        "Ophiolite.": [
+          31
+        ],
+        "The": [
+          32,
+          55,
+          70
+        ],
+        "integration": [
+          33
+        ],
+        "remote": [
+          35
+        ],
+        "sensing": [
+          36
+        ],
+        "observations": [
+          37
+        ],
+        "and": [
+          38,
+          49,
+          68,
+          82,
+          86,
+          100,
+          102,
+          131,
+          146
+        ],
+        "field": [
+          39
+        ],
+        "surveys": [
+          40
+        ],
+        "validations": [
+          41
+        ],
+        "permits": [
+          42
+        ],
+        "to": [
+          43
+        ],
+        "recognise": [
+          44
+        ],
+        "landforms": [
+          45,
+          59
+        ],
+        "at": [
+          46
+        ],
+        "different": [
+          47
+        ],
+        "scales,": [
+          48
+        ],
+        "thus": [
+          50
+        ],
+        "complete": [
+          51
+        ],
+        "mapping.": [
+          54
+        ],
+        "research": [
+          56
+        ],
+        "identifies": [
+          57
+        ],
+        "key": [
+          58
+        ],
+        "shaped": [
+          60
+        ],
+        "by": [
+          61,
+          89,
+          97
+        ],
+        "complex": [
+          62,
+          147
+        ],
+        "interactions": [
+          63
+        ],
+        "between": [
+          64
+        ],
+        "tectonics,": [
+          65
+        ],
+        "surface": [
+          66
+        ],
+        "processes,": [
+          67,
+          104
+        ],
+        "climate.": [
+          69
+        ],
+        "region's": [
+          71
+        ],
+        "landscape": [
+          72,
+          110,
+          141
+        ],
+        "reflects": [
+          73
+        ],
+        "long": [
+          75
+        ],
+        "evolutionary": [
+          76
+        ],
+        "history": [
+          77
+        ],
+        "beginning": [
+          78
+        ],
+        "with": [
+          79,
+          105
+        ],
+        "Cenozoic": [
+          83
+        ],
+        "tectonic": [
+          84,
+          107
+        ],
+        "doming": [
+          85
+        ],
+        "uplift,": [
+          87
+        ],
+        "followed": [
+          88
+        ],
+        "prevailing": [
+          90
+        ],
+        "exogenous": [
+          91,
+          132
+        ],
+        "processes": [
+          92
+        ],
+        "Miocene-Quaternary,": [
+          95
+        ],
+        "characterised": [
+          96
+        ],
+        "erosion,": [
+          98
+        ],
+        "karstification,": [
+          99
+        ],
+        "fluvial": [
+          101
+        ],
+        "slope": [
+          103
+        ],
+        "ongoing": [
+          106
+        ],
+        "activity": [
+          108
+        ],
+        "influencing": [
+          109
+        ],
+        "dynamics.": [
+          111
+        ],
+        "Human": [
+          112
+        ],
+        "interventions": [
+          113
+        ],
+        "have": [
+          114
+        ],
+        "also": [
+          115
+        ],
+        "affected": [
+          116
+        ],
+        "topographic": [
+          117
+        ],
+        "features.": [
+          118
+        ],
+        "Overall,": [
+          119
+        ],
+        "geomorphology": [
+          121
+        ],
+        "exemplifies": [
+          126
+        ],
+        "interplay": [
+          128
+        ],
+        "endogenous": [
+          130
+        ],
+        "forces": [
+          133
+        ],
+        "over": [
+          134
+        ],
+        "geological": [
+          135
+        ],
+        "timescales,": [
+          136
+        ],
+        "providing": [
+          137
+        ],
+        "vital": [
+          138
+        ],
+        "insights": [
+          139
+        ],
+        "into": [
+          140
+        ],
+        "evolution": [
+          142
+        ],
+        "arid": [
+          144
+        ],
+        "environments": [
+          145
+        ],
+        "geodynamic": [
+          148
+        ],
+        "settings.": [
+          149
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-04-29T09:16:38.111599",
+      "created_date": "2026-04-25T00:00:00"
     }
   ]
 }
