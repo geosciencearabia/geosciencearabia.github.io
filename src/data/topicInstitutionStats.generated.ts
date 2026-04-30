@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1245,
-    "citations": 22207
+    "citations": 22209
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1022,
-    "citations": 28809
+    "citations": 28810
   },
   {
     "id": "https://openalex.org/T10017",
@@ -44,7 +44,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 638,
-    "citations": 18365
+    "citations": 18367
   },
   {
     "id": "https://openalex.org/T12157",
@@ -62,7 +62,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 334,
-    "citations": 4150
+    "citations": 4151
   },
   {
     "id": "https://openalex.org/T10995",
@@ -188,7 +188,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 60,
-    "citations": 522
+    "citations": 524
   },
   {
     "id": "https://openalex.org/T11354",
@@ -230,7 +230,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10894",
     "name": "Groundwater flow and contamination studies",
     "publications": 37,
-    "citations": 475
+    "citations": 476
   },
   {
     "id": "https://openalex.org/T12383",
@@ -3479,7 +3479,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 902,
-    "citations": 10141
+    "citations": 10143
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3593,13 +3593,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 47,
-    "citations": 701
+    "citations": 702
   },
   {
     "id": "https://openalex.org/I176601375",
     "name": "Khalifa University of Science and Technology",
     "publications": 47,
-    "citations": 376
+    "citations": 377
   },
   {
     "id": "https://openalex.org/I2279609970",
@@ -3971,7 +3971,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I876237426",
     "name": "Gombe State University",
     "publications": 15,
-    "citations": 161
+    "citations": 162
   },
   {
     "id": "https://openalex.org/I1336856363",
@@ -4223,7 +4223,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I46208956",
     "name": "Salahaddin University-Erbil",
     "publications": 11,
-    "citations": 112
+    "citations": 113
   },
   {
     "id": "https://openalex.org/I55202024",
@@ -4355,7 +4355,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I169864488",
     "name": "Abubakar Tafawa Balewa University",
     "publications": 9,
-    "citations": 202
+    "citations": 203
   },
   {
     "id": "https://openalex.org/I165368041",
@@ -4397,7 +4397,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4387156178",
     "name": "Federal University Dutse",
     "publications": 9,
-    "citations": 76
+    "citations": 77
   },
   {
     "id": "https://openalex.org/I21370196",
@@ -4409,7 +4409,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I70703428",
     "name": "Palacký University Olomouc",
     "publications": 9,
-    "citations": 51
+    "citations": 52
   },
   {
     "id": "https://openalex.org/I4387154749",
@@ -4907,7 +4907,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I116953780",
     "name": "Tongji University",
     "publications": 6,
-    "citations": 127
+    "citations": 128
   },
   {
     "id": "https://openalex.org/I1313606977",
@@ -5255,7 +5255,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4391767744",
     "name": "State Key Laboratory of Marine Geology",
     "publications": 5,
-    "citations": 66
+    "citations": 67
   },
   {
     "id": "https://openalex.org/I135120706",
@@ -5270,16 +5270,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 50
   },
   {
-    "id": "https://openalex.org/I1337471766",
-    "name": "Wadia Institute of Himalayan Geology",
+    "id": "https://openalex.org/I45711476",
+    "name": "Obafemi Awolowo University",
     "publications": 5,
     "citations": 48
   },
   {
-    "id": "https://openalex.org/I45711476",
-    "name": "Obafemi Awolowo University",
+    "id": "https://openalex.org/I1337471766",
+    "name": "Wadia Institute of Himalayan Geology",
     "publications": 5,
-    "citations": 47
+    "citations": 48
   },
   {
     "id": "https://openalex.org/I23075662",
@@ -6041,7 +6041,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210092225",
     "name": "ET Enterprises (United Kingdom)",
     "publications": 3,
-    "citations": 33
+    "citations": 34
   },
   {
     "id": "https://openalex.org/I206011266",
