@@ -344,7 +344,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0001236,
+        "value": 0.0001232,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -629,7 +629,7 @@
     ],
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-04-30T12:21:03",
+    "updated_date": "2026-05-01T12:19:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -5477,11 +5477,11 @@
         "currency": "USD",
         "value_usd": 1805
       },
-      "fwci": 18.5005,
+      "fwci": 18.5013,
       "has_fulltext": false,
       "cited_by_count": 117,
       "citation_normalized_percentile": {
-        "value": 0.99220846,
+        "value": 0.99220879,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5920,7 +5920,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 18,
+      "locations_count": 17,
       "locations": [
         {
           "id": "doi:10.1371/journal.pone.0099438",
@@ -6041,33 +6041,6 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Article"
-        },
-        {
-          "id": "pmh:oai:DiVA.org:nrm-571",
-          "is_oa": true,
-          "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:nrm:diva-571",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401559",
-            "display_name": "KTH Publication Database DiVA (KTH Royal Institute of Technology)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "text"
         },
         {
           "id": "pmh:oai:HAL:hal-01015443v1",
@@ -7090,7 +7063,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-01T08:36:08.643496",
+      "updated_date": "2026-05-02T08:42:23.175194",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16128,6 +16101,7 @@
             "Departamento Ciencias de la Tierra, Universidad de Zaragoza, 50009-Zaragoza, Spain",
             "Laboratoire ‘Paléontologie et Paléogéographie du Paléozoïque’, UMR 8014 CNRS, Université de Lille I, 59655-Villeneuve d'Ascq, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departamento Ciencias de la Tierra, Universidad de Zaragoza, 50009-Zaragoza, Spain",
@@ -16172,6 +16146,7 @@
           "raw_affiliation_strings": [
             "Dipartimento di Scienze della Terra, Università di Modena e Reggio Emilia, largo S. Eufemia 19, 41100-Modena, Italy"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra, Università di Modena e Reggio Emilia, largo S. Eufemia 19, 41100-Modena, Italy",
@@ -16208,6 +16183,7 @@
           "raw_affiliation_strings": [
             "Departamento Ciencias de la Tierra, Universidad de Zaragoza, 50009-Zaragoza, Spain"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departamento Ciencias de la Tierra, Universidad de Zaragoza, 50009-Zaragoza, Spain",
@@ -16244,6 +16220,7 @@
           "raw_affiliation_strings": [
             "Dipartimento del Museo di Paleobiologia e dell'Orto Botanico, Università di Modena e Reggio Emilia, Via Università 4, 41100-Modena, Italy"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento del Museo di Paleobiologia e dell'Orto Botanico, Università di Modena e Reggio Emilia, Via Università 4, 41100-Modena, Italy",
@@ -16267,6 +16244,7 @@
           "raw_affiliation_strings": [
             "Departamento Paleozoología Invertebrados, Museo de Ciencias Naturales, Paseo del Bosque s/n°, 1900-La Plata, Argentina"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departamento Paleozoología Invertebrados, Museo de Ciencias Naturales, Paseo del Bosque s/n°, 1900-La Plata, Argentina",
@@ -16325,6 +16303,7 @@
           "raw_affiliation_strings": [
             "Laboratoire ‘Paléontologie et Paléogéographie du Paléozoïque’, UMR 8014 CNRS, Université de Lille I, 59655-Villeneuve d'Ascq, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire ‘Paléontologie et Paléogéographie du Paléozoïque’, UMR 8014 CNRS, Université de Lille I, 59655-Villeneuve d'Ascq, France",
@@ -16350,6 +16329,7 @@
           "raw_affiliation_strings": [
             "7 rue Jean-Baptiste Chardin, Maquens, 11090-Carcassonne, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "7 rue Jean-Baptiste Chardin, Maquens, 11090-Carcassonne, France",
@@ -16376,11 +16356,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 3.3476,
+      "fwci": 3.3667,
       "has_fulltext": true,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.90912773,
+        "value": 0.90957447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16653,35 +16633,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:iris.unimore.it:11380/584377",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/11380/584377",
-          "pdf_url": "http://hdl.handle.net/11380/584377",
-          "source": {
-            "id": "https://openalex.org/S4306400718",
-            "display_name": "IRIS UNIMORE (University of Modena and Reggio Emilia)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I122346577",
-            "host_organization_name": "University of Modena and Reggio Emilia",
-            "host_organization_lineage": [
-              "https://openalex.org/I122346577"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
           "id": "pmh:oai:HAL:hal-00327329v1",
           "is_oa": false,
           "landing_page_url": "https://hal.science/hal-00327329",
@@ -16736,16 +16687,45 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:iris.unimore.it:11380/584377",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/11380/584377",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196326",
+            "display_name": "Iris Unimore (University of Modena and Reggio Emilia)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I122346577",
+            "host_organization_name": "University of Modena and Reggio Emilia",
+            "host_organization_lineage": [
+              "https://openalex.org/I122346577"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
         "id": "pmh:oai:iris.unimore.it:11380/584377",
         "is_oa": true,
         "landing_page_url": "http://hdl.handle.net/11380/584377",
-        "pdf_url": "http://hdl.handle.net/11380/584377",
+        "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400718",
-          "display_name": "IRIS UNIMORE (University of Modena and Reggio Emilia)",
+          "id": "https://openalex.org/S4377196326",
+          "display_name": "Iris Unimore (University of Modena and Reggio Emilia)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -16759,8 +16739,8 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -16778,11 +16758,9 @@
       "funders": [],
       "has_content": {
         "grobid_xml": false,
-        "pdf": true
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2059964545.pdf"
-      },
+      "content_urls": null,
       "referenced_works_count": 180,
       "referenced_works": [
         "https://openalex.org/W30901855",
@@ -17037,7 +17015,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-28T08:17:26.163206",
+      "updated_date": "2026-05-02T08:42:23.175194",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27065,9 +27043,9 @@
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
             "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -27077,6 +27055,12 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -27090,12 +27074,6 @@
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
               ]
             }
           ]
@@ -27116,11 +27094,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 3.7523,
+      "fwci": 3.7534,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.92828261,
+        "value": 0.9283055,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27656,7 +27634,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-04-30T09:15:22.047038",
+      "updated_date": "2026-05-02T08:42:23.175194",
       "created_date": "2025-10-10T00:00:00"
     },
     {
