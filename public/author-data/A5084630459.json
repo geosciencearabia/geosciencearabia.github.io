@@ -24250,16 +24250,17 @@
           "is_corresponding": false,
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
               "institution_ids": [
-                "https://openalex.org/I39804081"
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4210126236"
               ]
             },
             {
@@ -24269,10 +24270,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
               "institution_ids": [
-                "https://openalex.org/I4210097099",
-                "https://openalex.org/I4210126236"
+                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -24689,21 +24689,21 @@
           "is_corresponding": false,
           "raw_author_name": "Pieter T. Visscher",
           "raw_affiliation_strings": [
-            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
-            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)"
+            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
               "institution_ids": [
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I177064439"
               ]
-            },
-            {
-              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-              "institution_ids": []
             }
           ]
         }
@@ -24721,11 +24721,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 3.2387,
+      "fwci": 3.2391,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90029218,
+        "value": 0.90030432,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25403,7 +25403,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-02T08:42:23.175194",
+      "updated_date": "2026-05-03T08:25:01.440150",
       "created_date": "2025-10-10T00:00:00"
     },
     {
