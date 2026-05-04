@@ -11,9 +11,9 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 72,
-    "cited_by_count": 998,
+    "cited_by_count": 999,
     "summary_stats": {
-      "2yr_mean_citedness": 5,
+      "2yr_mean_citedness": 5.037037037037037,
       "h_index": 20,
       "i10_index": 32
     },
@@ -152,7 +152,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0001913,
+        "value": 0.000191,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -169,7 +169,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001576,
+        "value": 0.0001575,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -186,7 +186,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0001528,
+        "value": 0.0001525,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -203,7 +203,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000564,
+        "value": 0.0000563,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T10572",
         "display_name": "Geophysical and Geoelectrical Methods",
-        "value": 0.0000413,
+        "value": 0.0000412,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -332,7 +332,7 @@
         "year": 2024,
         "works_count": 15,
         "oa_works_count": 7,
-        "cited_by_count": 116
+        "cited_by_count": 117
       },
       {
         "year": 2025,
@@ -349,7 +349,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-04-29T12:20:03",
+    "updated_date": "2026-05-03T12:19:10",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -35801,7 +35801,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -35863,7 +35863,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -36170,7 +36170,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -36221,7 +36221,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -36390,7 +36390,8 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113"
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210132231"
       ],
       "apc_list": {
         "value": 3265,
@@ -36402,11 +36403,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.398,
+      "fwci": 1.3975,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8312654,
+        "value": 0.83119777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37363,7 +37364,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-03T08:25:01.440150",
+      "updated_date": "2026-05-04T08:30:34.212998",
       "created_date": "2025-11-23T00:00:00"
     },
     {

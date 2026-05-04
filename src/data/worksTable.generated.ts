@@ -8817,8 +8817,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-12-07",
     "year": 2008,
     "venue": "Lithos",
-    "citations": 70,
-    "fwci": 2.1007,
+    "citations": 71,
+    "fwci": 2.1013,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -21931,7 +21931,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5125045689",
       "A5009810098",
       "A5013976612",
-      "A5125042446",
+      "A5075971327",
       "A5125022392",
       "A5124980643",
       "A5033951300",
@@ -21945,7 +21945,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5125094748",
       "A5078011030",
       "A5125020998",
-      "A5125039393",
+      "A5034527051",
       "A5067901321",
       "A5049286867",
       "A5125008875",
@@ -22006,7 +22006,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5125045689",
       "A5009810098",
       "A5013976612",
-      "A5125042446",
+      "A5075971327",
       "A5125022392",
       "A5124980643",
       "A5033951300",
@@ -22020,7 +22020,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5125094748",
       "A5078011030",
       "A5125020998",
-      "A5125039393",
+      "A5034527051",
       "A5067901321",
       "A5049286867",
       "A5125008875",
@@ -22124,7 +22124,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5064788534",
       "A5067901321",
       "A5127898869",
-      "A5127962827",
+      "A5034527051",
       "A5127941758",
       "A5128022151",
       "A5127968810"
@@ -22139,7 +22139,7 @@ export const worksTable: WorkTableRecord[] = [
       "John W. Shervais",
       "Julie Prytulak",
       "Kenji Shimizu",
-      "Wendy R Nelson",
+      "Wendy R. Nelson",
       "Daniel E Heaton",
       "Scott Whattam",
       "Hongyan Li",
@@ -23372,8 +23372,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-02-26",
     "year": 2020,
     "venue": "Papers in Palaeontology",
-    "citations": 54,
-    "fwci": 5.8827,
+    "citations": 55,
+    "fwci": 5.8765,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -25534,7 +25534,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.228,
+    "fwci": 2.2283,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -30590,6 +30590,37 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7128517880",
+    "doi": "https://doi.org/10.1016/j.geoen.2026.214397",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5018306569",
+    "allAuthorOpenAlexIds": [
+      "A5018306569",
+      "A5094215875",
+      "A5038609391",
+      "A5044402103"
+    ],
+    "firstAuthorLastName": "Eleslambouly",
+    "allAuthors": [
+      "Ahmed Eleslambouly",
+      "Mursal Zeynalli",
+      "Emad W. Al-Shalabi",
+      "Mohammad Alsuwaidi"
+    ],
+    "title": "Probabilistic approach for static carbon storage capacity estimation: A case study on the VR014 depleted gas field in offshore Louisiana, USA",
+    "publicationDate": "2026-02-10",
+    "year": 2026,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Methane Hydrates and Related Phenomena",
+      "Marine and Offshore Engineering Studies"
     ],
     "institutions": []
   },
@@ -47888,7 +47919,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5123061423",
       "A5123087737",
       "A5069165007",
-      "A5123248832",
+      "A5102858778",
       "A5036262291",
       "A5123118298"
     ],
@@ -50304,7 +50335,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.398,
+    "fwci": 1.3975,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52617,7 +52648,7 @@ export const worksTable: WorkTableRecord[] = [
     "primaryAuthorOpenAlexId": "A5035815399",
     "allAuthorOpenAlexIds": [
       "A5035815399",
-      "A5090325061",
+      "A5054952413",
       "A5108094589",
       "A5063324707",
       "A5024396336",
@@ -52699,7 +52730,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Nature",
     "citations": 544,
-    "fwci": 218.4642,
+    "fwci": 218.6723,
     "topics": [
       "Geological Studies and Exploration",
       "Methane Hydrates and Related Phenomena",
@@ -58313,7 +58344,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5089265887",
       "A5030473697",
       "A5032470097",
-      "A5090325061",
+      "A5054952413",
       "A5090362285",
       "A5058150067",
       "A5049627320",
@@ -58375,7 +58406,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Nature",
     "citations": 8,
-    "fwci": 0.2506,
+    "fwci": 0.2508,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Methane Hydrates and Related Phenomena",
@@ -60194,7 +60225,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5105421806",
       "A5039737037",
       "A5108094589",
-      "A5090325061",
+      "A5054952413",
       "A5030473697",
       "A5024396336",
       "A5026251160",
@@ -61739,7 +61770,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5035815399",
       "A5049627320",
       "A5065210525",
-      "A5090325061",
+      "A5054952413",
       "A5030473697",
       "A5105421806",
       "A5019448255",
@@ -64520,7 +64551,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5035815399",
       "A5077190558",
-      "A5090325061",
+      "A5054952413",
       "A5030473697",
       "A5063324707",
       "A5019448255",
@@ -65208,7 +65239,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5035815399",
       "A5077190558",
-      "A5090325061",
+      "A5054952413",
       "A5030473697",
       "A5063324707",
       "A5019448255",
@@ -69389,7 +69420,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5018588151",
       "A5013023999",
       "A5073496917",
-      "A5083308766",
+      "A5056906083",
       "A5057636859",
       "A5018003523",
       "A5002010059",
@@ -69417,7 +69448,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Earth-Science Reviews",
     "citations": 57,
-    "fwci": 14.5645,
+    "fwci": 14.576,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -70144,7 +70175,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.7534,
+    "fwci": 3.7537,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -86629,7 +86660,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0746,
+    "fwci": 32.0753,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87525,8 +87556,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 633,
-    "fwci": 56.8981,
+    "citations": 634,
+    "fwci": 56.9088,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -87578,8 +87609,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 455,
-    "fwci": 39.0614,
+    "citations": 456,
+    "fwci": 39.0641,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -88912,7 +88943,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 80,
-    "fwci": 5.69,
+    "fwci": 5.6909,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92466,7 +92497,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 29,
-    "fwci": 7.9121,
+    "fwci": 7.9082,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -96784,7 +96815,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Episodes",
     "citations": 2,
-    "fwci": 0.2914,
+    "fwci": 0.2915,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological Studies and Exploration",
@@ -102999,6 +103030,49 @@ export const worksTable: WorkTableRecord[] = [
       "Australian Resources Research Centre",
       "Monash University"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W7130642444",
+    "doi": "https://doi.org/10.1016/j.precamres.2026.108059",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5001869172",
+      "A5013600091",
+      "A5019411628",
+      "A5001633563",
+      "A5123710507",
+      "A5068557314",
+      "A5065273864",
+      "A5112482037",
+      "A5089414113"
+    ],
+    "firstAuthorLastName": "Vincent",
+    "allAuthors": [
+      "Victor Ikechukwu Vincent",
+      "Koen Torremans",
+      "Darwinaji Subarkah",
+      "Sarah Gilbert",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Jon Stacey",
+      "Aileen Doran",
+      "Simon M. Jones",
+      "Murray W. Hitzman"
+    ],
+    "title": "In situ Rb–Sr geochronology records multiple fluid pulses in Neoproterozoic sequences from the Lubambe-Mingomba Cu deposits in the Zambian Copperbelt",
+    "publicationDate": "2026-02-20",
+    "year": 2026,
+    "venue": "Precambrian Research",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Elemental Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W939704536",
@@ -124210,15 +124284,15 @@ export const worksTable: WorkTableRecord[] = [
     "primaryAuthorOpenAlexId": "A5074794653",
     "allAuthorOpenAlexIds": [
       "A5074794653",
-      "A5123755677",
+      "A5026190523",
       "A5046550034",
       "A5123746399",
       "A5123769458",
       "A5053826418"
     ],
-    "firstAuthorLastName": "Davide",
+    "firstAuthorLastName": "Berno",
     "allAuthors": [
-      "Berno Davide",
+      "Davide Berno",
       "Alessio Sanfilippo",
       "Mattia Bonazzi",
       "Avanzinelli Riccardo",
@@ -134235,7 +134309,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 2.1409,
+    "fwci": 2.1399,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
