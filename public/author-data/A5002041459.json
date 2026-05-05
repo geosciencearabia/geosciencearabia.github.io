@@ -2602,9 +2602,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -3553,9 +3553,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -4096,14 +4096,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/16"
+          "score": 0.49000000953674316
         },
         {
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -6634,9 +6634,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -7756,9 +7756,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -8868,9 +8868,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -9935,9 +9935,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -13895,9 +13895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8669640421867371,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8669640421867371
         }
       ],
       "awards": [],
@@ -14047,6 +14047,7 @@
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia",
@@ -14059,9 +14060,9 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5132633056",
+            "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-8629-983X"
           },
           "institutions": [
             {
@@ -14083,6 +14084,7 @@
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia",
@@ -14119,6 +14121,7 @@
           "raw_affiliation_strings": [
             "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 Saudi Aramco EXPEC ARC, Dhahran, Saudi Arabia",
@@ -14144,9 +14147,9 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93397821,
+        "value": 0.67406988,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
@@ -14402,9 +14405,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8427148461341858,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8427148461341858
         }
       ],
       "awards": [],
@@ -14677,7 +14680,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-02T13:53:19.096889",
+      "updated_date": "2026-05-05T08:41:31.759640",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

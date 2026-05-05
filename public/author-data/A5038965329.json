@@ -11,12 +11,12 @@
       "Vaslet, Denis"
     ],
     "full_name": "Vaslet, Denis",
-    "works_count": 41,
-    "cited_by_count": 1223,
+    "works_count": 44,
+    "cited_by_count": 1482,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 19,
-      "i10_index": 23
+      "h_index": 21,
+      "i10_index": 26
     },
     "ids": {
       "openalex": "https://openalex.org/A5038965329",
@@ -58,6 +58,7 @@
           2002,
           2001,
           1999,
+          1998,
           1997,
           1996,
           1987
@@ -96,10 +97,27 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 26,
+        "count": 27,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "count": 11,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -117,23 +135,6 @@
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "count": 10,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -183,7 +184,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000109,
+        "value": 0.000113,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -200,7 +201,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000624,
+        "value": 0.0000733,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -234,7 +235,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000433,
+        "value": 0.0000434,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -313,9 +314,9 @@
       },
       {
         "year": 1990,
-        "works_count": 1,
-        "oa_works_count": 0,
-        "cited_by_count": 80
+        "works_count": 2,
+        "oa_works_count": 1,
+        "cited_by_count": 266
       },
       {
         "year": 1992,
@@ -337,9 +338,9 @@
       },
       {
         "year": 1998,
-        "works_count": 2,
+        "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 16
+        "cited_by_count": 89
       },
       {
         "year": 1999,
@@ -423,10 +424,413 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-04-14T12:21:37",
+    "updated_date": "2026-05-05T12:20:17",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
+    {
+      "id": "https://openalex.org/W2974207299",
+      "doi": "https://doi.org/10.18814/epiiugs/1990/v13i3/002",
+      "title": "Upper Ordovician glacial deposits in Saudi Arabia",
+      "display_name": "Upper Ordovician glacial deposits in Saudi Arabia",
+      "publication_year": 1990,
+      "publication_date": "1990-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2974207299",
+        "doi": "https://doi.org/10.18814/epiiugs/1990/v13i3/002",
+        "mag": "2974207299"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.18814/epiiugs/1990/v13i3/002",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.18814/epiiugs/1990/v13i3/002",
+        "pdf_url": "http://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/1990/v13i3/002",
+        "source": {
+          "id": "https://openalex.org/S182646890",
+          "display_name": "Episodes",
+          "issn_l": "0705-3797",
+          "issn": [
+            "0705-3797",
+            "2586-1298"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310321803",
+          "host_organization_name": "International Union of Geological Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321803"
+          ],
+          "host_organization_lineage_names": [
+            "International Union of Geological Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Episodes",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/1990/v13i3/002",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5038965329"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6484,
+      "has_fulltext": false,
+      "cited_by_count": 186,
+      "citation_normalized_percentile": {
+        "value": 0.70843287,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "3",
+        "first_page": "147",
+        "last_page": "161"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9889000058174133,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9889000058174133,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9696999788284302,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9634000062942505,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ordovician",
+          "display_name": "Ordovician",
+          "score": 0.9154829382896423
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8740581274032593
+        },
+        {
+          "id": "https://openalex.org/keywords/glacial-period",
+          "display_name": "Glacial period",
+          "score": 0.7664121389389038
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6606005430221558
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.34737733006477356
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.9154829382896423
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8740581274032593
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.7664121389389038
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6606005430221558
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.34737733006477356
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.18814/epiiugs/1990/v13i3/002",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.18814/epiiugs/1990/v13i3/002",
+          "pdf_url": "http://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/1990/v13i3/002",
+          "source": {
+            "id": "https://openalex.org/S182646890",
+            "display_name": "Episodes",
+            "issn_l": "0705-3797",
+            "issn": [
+              "0705-3797",
+              "2586-1298"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310321803",
+            "host_organization_name": "International Union of Geological Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310321803"
+            ],
+            "host_organization_lineage_names": [
+              "International Union of Geological Sciences"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Episodes",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.18814/epiiugs/1990/v13i3/002",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.18814/epiiugs/1990/v13i3/002",
+        "pdf_url": "http://www.episodes.org/journal/download_pdf.php?doi=10.18814/epiiugs/1990/v13i3/002",
+        "source": {
+          "id": "https://openalex.org/S182646890",
+          "display_name": "Episodes",
+          "issn_l": "0705-3797",
+          "issn": [
+            "0705-3797",
+            "2586-1298"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310321803",
+          "host_organization_name": "International Union of Geological Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321803"
+          ],
+          "host_organization_lineage_names": [
+            "International Union of Geological Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Episodes",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.5099999904632568,
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2974207299.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2974207299.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2911869918",
+        "https://openalex.org/W2789304626",
+        "https://openalex.org/W2337712059",
+        "https://openalex.org/W2139590952",
+        "https://openalex.org/W2030407912",
+        "https://openalex.org/W2056830927",
+        "https://openalex.org/W2020209097",
+        "https://openalex.org/W4251503598",
+        "https://openalex.org/W4253583188",
+        "https://openalex.org/W2003091363"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2026-05-05T08:41:31.759640",
+      "created_date": "2025-10-10T00:00:00"
+    },
     {
       "id": "https://openalex.org/W2125021582",
       "doi": "https://doi.org/10.1306/bdff8a24-1718-11d7-8645000102c1865d",
@@ -790,16 +1194,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -1795,16 +2199,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -2522,16 +2926,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2287111010.pdf",
@@ -4143,16 +4547,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6499999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5372,16 +5776,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -6672,8 +7076,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6686,8 +7090,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -7355,16 +7759,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2571373978.pdf",
@@ -8553,8 +8957,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8567,8 +8971,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -9090,16 +9494,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7699999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
@@ -10356,8 +10760,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10370,8 +10774,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -11007,16 +11411,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -11692,16 +12096,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.41999998688697815,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2581167478.pdf",
@@ -13531,16 +13935,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -14651,8 +15055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -16256,8 +16660,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16270,8 +16674,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -16370,6 +16774,998 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2009097639",
+      "doi": "https://doi.org/10.1016/s1251-8050(97)87459-9",
+      "title": "First Pleistocene faunas from the Arabian Peninsula: An Nafud desert, Saudi Arabia",
+      "display_name": "First Pleistocene faunas from the Arabian Peninsula: An Nafud desert, Saudi Arabia",
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2009097639",
+        "doi": "https://doi.org/10.1016/s1251-8050(97)87459-9",
+        "mag": "2009097639"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s1251-8050(97)87459-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s1251-8050(97)87459-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306506706",
+          "display_name": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+          "issn_l": "1251-8050",
+          "issn": [
+            "1251-8050",
+            "1778-4107"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065917909",
+            "display_name": "Herbert Thomas",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I187986737",
+              "display_name": "Collège de France",
+              "ror": "https://ror.org/04ex24z53",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187986737"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Herbert Thomas",
+          "raw_affiliation_strings": [
+            "Collège de France et laboratoire depaléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Collège de France et laboratoire depaléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I187986737",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018986861",
+            "display_name": "Denis Geraads",
+            "orcid": "https://orcid.org/0000-0003-2475-8011"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Geraads",
+          "raw_affiliation_strings": [
+            "BRGM, 3 av. C.-Guillemin, B.P. 6009, 45060 Orléans cedex 2, France",
+            "Musée de l'Homme, UMR 152 CNRS, place du Trocadéro, 75116 Paris cedex 05, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, 3 av. C.-Guillemin, B.P. 6009, 45060 Orléans cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Musée de l'Homme, UMR 152 CNRS, place du Trocadéro, 75116 Paris cedex 05, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "BRGM, 3 av. C.-Guillemin, B.P. 6009, 45060 Orléans cedex 2, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, 3 av. C.-Guillemin, B.P. 6009, 45060 Orléans cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005333967",
+            "display_name": "Abdallah Memesh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdallah Memesh",
+          "raw_affiliation_strings": [
+            "Ministry of Petroleum and Mineral Resources, Deputy Ministry for Mineral Resources, Jeddah, Kingdom of Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ministry of Petroleum and Mineral Resources, Deputy Ministry for Mineral Resources, Jeddah, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106486007",
+            "display_name": "Daniel Billiou",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Billiou",
+          "raw_affiliation_strings": [
+            "Laboratoire de biogéochimie isotopique, UMR 162 CNRS, université Pierre-et-Marie-Curte-Inra, case 120, 4, place Jussieu, 75252 Paris cedex 05, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de biogéochimie isotopique, UMR 162 CNRS, université Pierre-et-Marie-Curte-Inra, case 120, 4, place Jussieu, 75252 Paris cedex 05, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075100197",
+            "display_name": "Hervé Bocherens",
+            "orcid": "https://orcid.org/0000-0002-0494-0126"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hervé Bocherens",
+          "raw_affiliation_strings": [
+            "Laboratoire de biogéochimie isotopique, UMR 162 CNRS, université Pierre-et-Marie-Curte-Inra, case 120, 4, place Jussieu, 75252 Paris cedex 05, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de biogéochimie isotopique, UMR 162 CNRS, université Pierre-et-Marie-Curte-Inra, case 120, 4, place Jussieu, 75252 Paris cedex 05, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113818123",
+            "display_name": "Gauthier Dobigny",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210123595",
+              "display_name": "Muséum national d'Histoire naturelle",
+              "ror": "https://ror.org/03wkt5x30",
+              "country_code": "FR",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I4210123595"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gauthier Dobigny",
+          "raw_affiliation_strings": [
+            "Laboratoire de mammalogie, Muséum national d'histoire naturelle, 55, rue Buffon, 75005 Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de mammalogie, Muséum national d'histoire naturelle, 55, rue Buffon, 75005 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210123595"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106424621",
+            "display_name": "Véra Eisenmann",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Véra Eisenmann",
+          "raw_affiliation_strings": [
+            "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109547446",
+            "display_name": "Mireille Gayet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mireille Gayet",
+          "raw_affiliation_strings": [
+            "UMR 5565 CNRS, UFR Sciences de la Terre, Université Claude Bernard-Lyon 1, 29, bd du 11-novembre-1918, 69622 Villeurbanne cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5565 CNRS, UFR Sciences de la Terre, Université Claude Bernard-Lyon 1, 29, bd du 11-novembre-1918, 69622 Villeurbanne cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105841973",
+            "display_name": "France de Lapparent de Broin",
+            "orcid": "https://orcid.org/0000-0003-4593-650X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "France de Lapparent de Broin",
+          "raw_affiliation_strings": [
+            "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017231858",
+            "display_name": "Germaine Petter",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Germaine Petter",
+          "raw_affiliation_strings": [
+            "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de paléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5027960653",
+            "display_name": "Mohammed Halawani",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Halawani",
+          "raw_affiliation_strings": [
+            "Ministry of Petroleum and Mineral Resources, Deputy Ministry for Mineral Resources, Jeddah, Kingdom of Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ministry of Petroleum and Mineral Resources, Deputy Ministry for Mineral Resources, Jeddah, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5065917909"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I187986737"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 49,
+      "citation_normalized_percentile": {
+        "value": 0.0781415,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "326",
+        "issue": "2",
+        "first_page": "145",
+        "last_page": "152"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11354",
+        "display_name": "Evolution and Paleontology Studies",
+        "score": 0.9979000091552734,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10421",
+          "display_name": "Pleistocene-Era Hominins and Archaeology",
+          "score": 0.9926999807357788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3314",
+            "display_name": "Anthropology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10699",
+          "display_name": "Primate Behavior and Ecology",
+          "score": 0.9853000044822693,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/pleistocene",
+          "display_name": "Pleistocene",
+          "score": 0.8371164798736572
+        },
+        {
+          "id": "https://openalex.org/keywords/fauna",
+          "display_name": "Fauna",
+          "score": 0.6907540559768677
+        },
+        {
+          "id": "https://openalex.org/keywords/early-pleistocene",
+          "display_name": "Early Pleistocene",
+          "score": 0.5931861400604248
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5876861810684204
+        },
+        {
+          "id": "https://openalex.org/keywords/holocene",
+          "display_name": "Holocene",
+          "score": 0.5823107957839966
+        },
+        {
+          "id": "https://openalex.org/keywords/biochronology",
+          "display_name": "Biochronology",
+          "score": 0.5446405410766602
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.503370463848114
+        },
+        {
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.501654863357544
+        },
+        {
+          "id": "https://openalex.org/keywords/eutheria",
+          "display_name": "Eutheria",
+          "score": 0.48075032234191895
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.47147560119628906
+        },
+        {
+          "id": "https://openalex.org/keywords/quaternary",
+          "display_name": "Quaternary",
+          "score": 0.4408319592475891
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.365436315536499
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.32599079608917236
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.31684449315071106
+        },
+        {
+          "id": "https://openalex.org/keywords/phanerozoic",
+          "display_name": "Phanerozoic",
+          "score": 0.28381413221359253
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.19402429461479187
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.0734025239944458
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.0633184015750885
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C53570757",
+          "wikidata": "https://www.wikidata.org/wiki/Q25546",
+          "display_name": "Pleistocene",
+          "level": 2,
+          "score": 0.8371164798736572
+        },
+        {
+          "id": "https://openalex.org/C125471540",
+          "wikidata": "https://www.wikidata.org/wiki/Q104021",
+          "display_name": "Fauna",
+          "level": 2,
+          "score": 0.6907540559768677
+        },
+        {
+          "id": "https://openalex.org/C2777775986",
+          "wikidata": "https://www.wikidata.org/wiki/Q444693",
+          "display_name": "Early Pleistocene",
+          "level": 3,
+          "score": 0.5931861400604248
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5876861810684204
+        },
+        {
+          "id": "https://openalex.org/C140345934",
+          "wikidata": "https://www.wikidata.org/wiki/Q25445",
+          "display_name": "Holocene",
+          "level": 2,
+          "score": 0.5823107957839966
+        },
+        {
+          "id": "https://openalex.org/C2776867882",
+          "wikidata": "https://www.wikidata.org/wiki/Q3814972",
+          "display_name": "Biochronology",
+          "level": 3,
+          "score": 0.5446405410766602
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.503370463848114
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.501654863357544
+        },
+        {
+          "id": "https://openalex.org/C2776325015",
+          "wikidata": "https://www.wikidata.org/wiki/Q17092469",
+          "display_name": "Eutheria",
+          "level": 5,
+          "score": 0.48075032234191895
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.47147560119628906
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.4408319592475891
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.365436315536499
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.32599079608917236
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.31684449315071106
+        },
+        {
+          "id": "https://openalex.org/C167570900",
+          "wikidata": "https://www.wikidata.org/wiki/Q101313",
+          "display_name": "Phanerozoic",
+          "level": 4,
+          "score": 0.28381413221359253
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.19402429461479187
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0734025239944458
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.0633184015750885
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s1251-8050(97)87459-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s1251-8050(97)87459-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306506706",
+            "display_name": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+            "issn_l": "1251-8050",
+            "issn": [
+              "1251-8050",
+              "1778-4107"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8899999856948853,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W31318442",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W658557886",
+        "https://openalex.org/W1533550986",
+        "https://openalex.org/W1970797589",
+        "https://openalex.org/W1989836745",
+        "https://openalex.org/W1991625636",
+        "https://openalex.org/W2009210504",
+        "https://openalex.org/W2102570291",
+        "https://openalex.org/W2328527260",
+        "https://openalex.org/W2471997839",
+        "https://openalex.org/W4285719527"
+      ],
+      "related_works": [
+        "https://openalex.org/W2019197615",
+        "https://openalex.org/W1970161748",
+        "https://openalex.org/W3041999197",
+        "https://openalex.org/W2076751508",
+        "https://openalex.org/W2117438005",
+        "https://openalex.org/W2064132119",
+        "https://openalex.org/W1980293132",
+        "https://openalex.org/W2021199986",
+        "https://openalex.org/W2964981516",
+        "https://openalex.org/W2626439582"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-05-05T08:41:31.759640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17028,16 +18424,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -17874,16 +19270,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.7200000286102295,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -18650,16 +20046,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -18783,6 +20179,1216 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2515427009",
+      "doi": null,
+      "title": "Stratigraphic correlations between the continental and marine Tethyan and Peri-Tethyan basins during the Late Carboniferous and the Early Permian",
+      "display_name": "Stratigraphic correlations between the continental and marine Tethyan and Peri-Tethyan basins during the Late Carboniferous and the Early Permian",
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2515427009",
+        "mag": "2515427009"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2515427009",
+        "is_oa": false,
+        "landing_page_url": "https://sciencepress.mnhn.fr/fr/periodiques/geodiversitas/20/4/correlations-stratigraphiques-dans-les-bassins-tethysiens-et-peri-tethysiens-au-carbonifere-superieur-et-au-permien-inferieur",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S60344327",
+          "display_name": "Geodiversitas",
+          "issn_l": "1280-9659",
+          "issn": [
+            "1280-9659",
+            "1638-9395"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311095",
+          "host_organization_name": "Muséum national d'histoire naturelle",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311095"
+          ],
+          "host_organization_lineage_names": [
+            "Muséum national d'histoire naturelle"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Geodiversitas",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5029382320",
+            "display_name": "Raissa Kozitskaya",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Raissa Kozitskaya",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040047585",
+            "display_name": "Mahmoud Kora",
+            "orcid": "https://orcid.org/0000-0001-6949-8060"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mahmoud Kora",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6949-8060",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103715732",
+            "display_name": "Dominique Massa",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dominique Massa",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105524665",
+            "display_name": "D. Mercier",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Mercier",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035996656",
+            "display_name": "Olivier Monod",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Olivier Monod",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031420394",
+            "display_name": "Tamara I. Nemirovskaya",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tamara I. Nemirovskaya",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112438342",
+            "display_name": "Alexander Maslo",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Maslo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000986346",
+            "display_name": "Olga L. Kossovaya",
+            "orcid": "https://orcid.org/0000-0002-3893-9940"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Olga L. Kossovaya",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3893-9940",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048688630",
+            "display_name": "Karl Krainer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Karl Krainer",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085354192",
+            "display_name": "Jean‐Pierre Laveine",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jean‐Pierre Laveine",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030537961",
+            "display_name": "M.K. Makhlina",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.K. Makhlina",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022374641",
+            "display_name": "Stanislav Opluštil",
+            "orcid": "https://orcid.org/0000-0003-2493-6009"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stanislav Opluštil",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2493-6009",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002925127",
+            "display_name": "Jörg W. Schneider",
+            "orcid": "https://orcid.org/0000-0002-4842-2427"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jörg W. Schneider",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-4842-2427",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068994807",
+            "display_name": "A. Zdanowski",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Zdanowski",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047986725",
+            "display_name": "Tuvia Weissbrod",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tuvia Weissbrod",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025774160",
+            "display_name": "Anna Vozárová",
+            "orcid": "https://orcid.org/0000-0001-8297-7410"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Anna Vozárová",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8297-7410",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030444809",
+            "display_name": "Gian Battista Vai",
+            "orcid": "https://orcid.org/0000-0003-2981-6655"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gian Battista Vai",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2981-6655",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112564522",
+            "display_name": "Hans Peter Schönlaub",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hans Peter Schönlaub",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016885671",
+            "display_name": "Alexander Stschegolev",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Stschegolev",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041538995",
+            "display_name": "Peter Süss",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Süss",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022478113",
+            "display_name": "Daniel Vachard",
+            "orcid": "https://orcid.org/0000-0003-1680-3767"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Vachard",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1680-3767",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056829055",
+            "display_name": "Geroi Joltaev",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Geroi Joltaev",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067708191",
+            "display_name": "Nací Görür",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nací Görür",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108194893",
+            "display_name": "Nayyer Iqbal",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nayyer Iqbal",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028280296",
+            "display_name": "Mohammed Ei Wartiti",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Ei Wartiti",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053058141",
+            "display_name": "Talgat Ensepbaev",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Talgat Ensepbaev",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044786462",
+            "display_name": "Mark Geluk",
+            "orcid": "https://orcid.org/0000-0003-4183-2367"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Geluk",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082561768",
+            "display_name": "Nathalya Goreva",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nathalya Goreva",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052512742",
+            "display_name": "Alain Izart",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alain Izart",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046653958",
+            "display_name": "Martin Donsimoni",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Martin Donsimoni",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019328510",
+            "display_name": "Jean Broutin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Broutin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049362008",
+            "display_name": "Vladimir I. Davydov",
+            "orcid": "https://orcid.org/0000-0003-0294-8017"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Vladimir I. Davydov",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0294-8017",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036030854",
+            "display_name": "Robert Coquel",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Coquel",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008464620",
+            "display_name": "Céline Briand",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Céline Briand",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 35,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5029382320"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.3563,
+      "has_fulltext": false,
+      "cited_by_count": 24,
+      "citation_normalized_percentile": {
+        "value": 0.63827468,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "20",
+        "issue": "4",
+        "first_page": "521",
+        "last_page": "595"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12821",
+        "display_name": "Geological Formations and Processes Exploration",
+        "score": 0.9977999925613403,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12821",
+          "display_name": "Geological Formations and Processes Exploration",
+          "score": 0.9977999925613403,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.9652000069618225,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.9634000062942505,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/westphalian-sovereignty",
+          "display_name": "Westphalian sovereignty",
+          "score": 0.8604761362075806
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.8458752036094666
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8309688568115234
+        },
+        {
+          "id": "https://openalex.org/keywords/carboniferous",
+          "display_name": "Carboniferous",
+          "score": 0.7868216037750244
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.7614338397979736
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.7552298307418823
+        },
+        {
+          "id": "https://openalex.org/keywords/global-boundary-stratotype-section-and-point",
+          "display_name": "Global Boundary Stratotype Section and Point",
+          "score": 0.4516626000404358
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.41856276988983154
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.3859183192253113
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C165730261",
+          "wikidata": "https://www.wikidata.org/wiki/Q442402",
+          "display_name": "Westphalian sovereignty",
+          "level": 4,
+          "score": 0.8604761362075806
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.8458752036094666
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8309688568115234
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.7868216037750244
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.7614338397979736
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.7552298307418823
+        },
+        {
+          "id": "https://openalex.org/C170434497",
+          "wikidata": "https://www.wikidata.org/wiki/Q37402",
+          "display_name": "Global Boundary Stratotype Section and Point",
+          "level": 3,
+          "score": 0.4516626000404358
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.41856276988983154
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.3859183192253113
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2515427009",
+          "is_oa": false,
+          "landing_page_url": "https://sciencepress.mnhn.fr/fr/periodiques/geodiversitas/20/4/correlations-stratigraphiques-dans-les-bassins-tethysiens-et-peri-tethysiens-au-carbonifere-superieur-et-au-permien-inferieur",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S60344327",
+            "display_name": "Geodiversitas",
+            "issn_l": "1280-9659",
+            "issn": [
+              "1280-9659",
+              "1638-9395"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311095",
+            "host_organization_name": "Muséum national d'histoire naturelle",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311095"
+            ],
+            "host_organization_lineage_names": [
+              "Muséum national d'histoire naturelle"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Geodiversitas",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8899999856948853,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2035689687",
+        "https://openalex.org/W2509677649",
+        "https://openalex.org/W1518311132",
+        "https://openalex.org/W2505179336",
+        "https://openalex.org/W2484571194",
+        "https://openalex.org/W2110683606",
+        "https://openalex.org/W2483505912",
+        "https://openalex.org/W2904841937",
+        "https://openalex.org/W1971272805",
+        "https://openalex.org/W2344760894",
+        "https://openalex.org/W2380138492",
+        "https://openalex.org/W2363019611",
+        "https://openalex.org/W2065909438",
+        "https://openalex.org/W2010795648",
+        "https://openalex.org/W2092462813",
+        "https://openalex.org/W2361300980",
+        "https://openalex.org/W2090411216",
+        "https://openalex.org/W2073094033",
+        "https://openalex.org/W2126398656",
+        "https://openalex.org/W1120329161"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          99
+        ],
+        "compilation": [
+          1
+        ],
+        "of": [
+          2,
+          13,
+          29,
+          37,
+          49
+        ],
+        "detailed": [
+          3
+        ],
+        "stratigraphic,": [
+          4
+        ],
+        "sedimentologic": [
+          5
+        ],
+        "and": [
+          6,
+          15,
+          23,
+          45,
+          62,
+          72,
+          85,
+          104,
+          121,
+          133
+        ],
+        "paleontologic": [
+          7
+        ],
+        "data": [
+          8
+        ],
+        "resulted": [
+          9
+        ],
+        "in": [
+          10,
+          20,
+          41,
+          53,
+          67,
+          89,
+          109,
+          125
+        ],
+        "stratigraphic": [
+          11
+        ],
+        "correlations": [
+          12
+        ],
+        "marine": [
+          14
+        ],
+        "continental": [
+          16
+        ],
+        "areas": [
+          17
+        ],
+        "outcropping": [
+          18
+        ],
+        "today": [
+          19
+        ],
+        "the": [
+          21,
+          27,
+          30,
+          35,
+          38,
+          42,
+          47,
+          50,
+          54,
+          58,
+          60,
+          63,
+          68,
+          79,
+          82,
+          86,
+          90,
+          102,
+          105,
+          110,
+          117,
+          127,
+          130,
+          134
+        ],
+        "Tethyan": [
+          22,
+          55,
+          73
+        ],
+        "Peri-Tethyan": [
+          24,
+          43,
+          70,
+          92
+        ],
+        "domains:": [
+          25
+        ],
+        "(1)": [
+          26
+        ],
+        "base": [
+          28,
+          36,
+          48
+        ],
+        "Moscovian": [
+          31
+        ],
+        "would": [
+          32,
+          65,
+          123
+        ],
+        "correspond": [
+          33,
+          66,
+          124
+        ],
+        "to": [
+          34,
+          46,
+          78,
+          94,
+          129,
+          139
+        ],
+        "Westphalian": [
+          39,
+          51
+        ],
+        "C": [
+          40
+        ],
+        "domain": [
+          44,
+          71,
+          74,
+          93
+        ],
+        "B": [
+          52
+        ],
+        "domain;": [
+          56
+        ],
+        "(2)": [
+          57
+        ],
+        "Kasimovian,": [
+          59
+        ],
+        "Gzhelian": [
+          61
+        ],
+        "Orenburgian": [
+          64
+        ],
+        "northern": [
+          69
+        ],
+        "(Carnic": [
+          75
+        ],
+        "Alps)": [
+          76
+        ],
+        "respectively": [
+          77
+        ],
+        "early": [
+          80
+        ],
+        "Stephanian,": [
+          81
+        ],
+        "late": [
+          83
+        ],
+        "Stephanian": [
+          84,
+          103
+        ],
+        "Autunian": [
+          87,
+          106,
+          131
+        ],
+        "p.p.,": [
+          88
+        ],
+        "southern": [
+          91
+        ],
+        "an": [
+          95
+        ],
+        "undifferentiated": [
+          96
+        ],
+        "time": [
+          97
+        ],
+        "interval.": [
+          98
+        ],
+        "boundary": [
+          100
+        ],
+        "between": [
+          101
+        ],
+        "was": [
+          107
+        ],
+        "recognized": [
+          108
+        ],
+        "Donets": [
+          111
+        ],
+        "Basin": [
+          112
+        ],
+        "with": [
+          113
+        ],
+        "some": [
+          114
+        ],
+        "doubts;": [
+          115
+        ],
+        "(3)": [
+          116
+        ],
+        "Asselian,": [
+          118
+        ],
+        "Sakmarian,": [
+          119
+        ],
+        "Artinskian": [
+          120
+        ],
+        "Kungurian": [
+          122
+        ],
+        "all": [
+          126
+        ],
+        "domains": [
+          128
+        ],
+        "p.p.": [
+          132
+        ],
+        "Saxonian": [
+          135
+        ],
+        "that": [
+          136
+        ],
+        "remain": [
+          137
+        ],
+        "difficult": [
+          138
+        ],
+        "separate.": [
+          140
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-05T08:41:31.759640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19188,16 +21794,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
@@ -20082,8 +22688,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
@@ -21089,16 +23695,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
@@ -21863,16 +24469,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf",
@@ -23107,16 +25713,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -23687,16 +26293,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7799999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24941,16 +27547,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
@@ -25853,16 +28459,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26220,8 +28826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26995,16 +29601,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6800000071525574,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28406,16 +31012,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29402,8 +32008,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -30307,8 +32913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31076,8 +33682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31649,16 +34255,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2252368023.pdf"
@@ -33572,8 +36178,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34322,8 +36928,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34632,8 +37238,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35240,8 +37846,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35690,8 +38296,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36054,16 +38660,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36644,8 +39250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37102,16 +39708,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
