@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 87,
-    "cited_by_count": 5949,
+    "cited_by_count": 5953,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -527,7 +527,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000461,
+        "value": 0.000046,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -777,13 +777,13 @@
         "year": 2011,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 786
+        "cited_by_count": 788
       },
       {
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 1019
+        "cited_by_count": 1020
       },
       {
         "year": 2014,
@@ -813,7 +813,7 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 63
+        "cited_by_count": 64
       },
       {
         "year": 2019,
@@ -864,7 +864,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-05-05T12:20:17",
+    "updated_date": "2026-05-06T12:19:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1221,11 +1221,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 24.9971,
+      "fwci": 24.9999,
       "has_fulltext": false,
-      "cited_by_count": 775,
+      "cited_by_count": 777,
       "citation_normalized_percentile": {
-        "value": 0.99867398,
+        "value": 0.99867413,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1958,7 +1958,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 30
+          "cited_by_count": 32
         },
         {
           "year": 2025,
@@ -2017,7 +2017,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-04-29T09:16:38.111599",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2647,9 +2647,9 @@
         "currency": "USD",
         "value_usd": 2650
       },
-      "fwci": 27.6889,
+      "fwci": 27.6884,
       "has_fulltext": false,
-      "cited_by_count": 766,
+      "cited_by_count": 767,
       "citation_normalized_percentile": {
         "value": 0.99905339,
         "is_in_top_1_percent": true,
@@ -4194,7 +4194,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 31
+          "cited_by_count": 32
         },
         {
           "year": 2025,
@@ -4249,7 +4249,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-04-29T09:16:38.111599",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11442,6 +11442,7 @@
           "raw_affiliation_strings": [
             "SW Haines Street, Portland, OR 97219, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SW Haines Street, Portland, OR 97219, USA",
@@ -11478,6 +11479,7 @@
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences/Geotop, McGill University, Montreal, QC H3A 2A7, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences/Geotop, McGill University, Montreal, QC H3A 2A7, Canada",
@@ -11514,6 +11516,7 @@
           "raw_affiliation_strings": [
             "Three Gorges Research Center for Geohazards, State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Wuhan 430074, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Three Gorges Research Center for Geohazards, State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Wuhan 430074, China",
@@ -11550,6 +11553,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, University of Texas at Dallas, Richardson, TX 75080, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, University of Texas at Dallas, Richardson, TX 75080, USA",
@@ -11597,6 +11601,7 @@
             "Department of Geological Sciences, PetroTectonics Facility, Stockholm University,  Stockholm SE-106 91, Sweden",
             "Department of Geological Sciences, PetroTectonics Facility, Stockholm University, Stockholm SE-106 91, Sweden"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, PetroTectonics Facility, Stockholm University,  Stockholm SE-106 91, Sweden",
@@ -11633,11 +11638,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 8.212,
+      "fwci": 8.1869,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.96919993,
+        "value": 0.96890604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11907,21 +11912,18 @@
           "landing_page_url": "https://doaj.org/article/2da29a154dfd473c9eb4ad5ae1d9e3ba",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -12672,7 +12674,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17575,6 +17577,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, University of Texas at Dallas, Richardson, TX, 75080-0688, USA",
@@ -17611,6 +17614,7 @@
           "raw_affiliation_strings": [
             "6016 Haines Street, Portland, OR, 97219, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "6016 Haines Street, Portland, OR, 97219, USA",
@@ -17632,11 +17636,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9203,
+      "fwci": 5.9663,
       "has_fulltext": false,
-      "cited_by_count": 63,
+      "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.95897122,
+        "value": 0.95929526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18098,7 +18102,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -18133,7 +18137,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-05T06:14:27.290980",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {

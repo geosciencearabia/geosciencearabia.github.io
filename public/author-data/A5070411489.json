@@ -327,7 +327,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000745,
+        "value": 0.0000744,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -592,7 +592,7 @@
     ],
     "block_key": "f sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-05-05T12:20:17",
+    "updated_date": "2026-05-06T12:19:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1099,6 +1099,7 @@
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. srajendran@qu.edu.qa",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. srajendran@qu.edu.qa",
@@ -1139,6 +1140,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -1175,6 +1177,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -1213,6 +1216,7 @@
           "raw_affiliation_strings": [
             "Department of Climate Change, State Hydrological Institute, St. Petersburg, Russia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Climate Change, State Hydrological Institute, St. Petersburg, Russia",
@@ -1249,6 +1253,7 @@
           "raw_affiliation_strings": [
             "Department of Applied Geology, National Institute of Technology, Raipur, India"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
@@ -1285,6 +1290,7 @@
           "raw_affiliation_strings": [
             "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman",
@@ -1321,6 +1327,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
@@ -1350,11 +1357,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 3.2181,
+      "fwci": 3.2185,
       "has_fulltext": true,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.92839118,
+        "value": 0.92839136,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1638,21 +1645,18 @@
           "landing_page_url": "https://doaj.org/article/8e1a7610d9244b499a2fbda01eb28b69",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -2427,7 +2431,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6808,11 +6812,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 39.4148,
+      "fwci": 39.4122,
       "has_fulltext": true,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.99577614,
+        "value": 0.99577599,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7144,21 +7148,18 @@
           "landing_page_url": "https://doaj.org/article/14847dbcf0ee439cb40419421600bf34",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -7875,7 +7876,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-02T08:42:23.175194",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20736,11 +20737,11 @@
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.2979,
+      "fwci": 1.2978,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.77323542,
+        "value": 0.77322714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21072,21 +21073,18 @@
           "landing_page_url": "https://doaj.org/article/855a97256f29452c8fc62e1b231a90b8",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -21828,7 +21826,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-03T08:25:01.440150",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24428,11 +24426,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 3.6082,
+      "fwci": 3.572,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.92599164,
+        "value": 0.92498959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24840,24 +24838,21 @@
           "landing_page_url": "https://doaj.org/article/9a286622239643bb92292baaec94e11d",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -25152,7 +25147,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49226,11 +49221,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2523,
+      "fwci": 2.1935,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85686067,
+        "value": 0.8529998,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49508,24 +49503,21 @@
           "landing_page_url": "https://doaj.org/article/bec436d28c894e1888839bc1d51a5b8a",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -50147,7 +50139,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-02T08:42:23.175194",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56424,11 +56416,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.7957,
+      "fwci": 1.7612,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.83614311,
+        "value": 0.83389234,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56923,28 +56915,25 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:eeae6982de41405baced0bbde08752d7",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/eeae6982de41405baced0bbde08752d7",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -57621,7 +57610,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62893,11 +62882,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 0.4162,
+      "fwci": 0.4166,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.68435607,
+        "value": 0.6846283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63189,24 +63178,21 @@
           "landing_page_url": "https://doaj.org/article/9db236a3cc894f4cb6d7b1ff1493ead0",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -63936,7 +63922,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73059,11 +73045,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 0.325,
+      "fwci": 0.3225,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.52546825,
+        "value": 0.52427895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73476,24 +73462,21 @@
           "landing_page_url": "https://doaj.org/article/d9ece158e0b94602891c8ec6319ac388",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -73709,7 +73692,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78313,11 +78296,11 @@
         "currency": "USD",
         "value_usd": 1840
       },
-      "fwci": 0.7028,
+      "fwci": 0.6825,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68348781,
+        "value": 0.67823519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78635,24 +78618,21 @@
           "landing_page_url": "https://doaj.org/article/44bb4929107e4b7f8ec1a165e7f2991d",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -78952,7 +78932,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -104005,6 +103985,7 @@
           "raw_affiliation_strings": [
             "Gas Processing Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Gas Processing Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -104043,6 +104024,7 @@
             "Gas Processing Center, Qatar University, P.O. Box 2713, Doha, Qatar. ihussein@qu.edu.qa",
             "Gas Processing Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemical Engineering, Qatar University, P.O. Box 2713, Doha, Qatar. ihussein@qu.edu.qa",
@@ -104091,6 +104073,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
@@ -104138,6 +104121,7 @@
             "Program of Petroleum Systems Engineering, University of Regina, Regina, SK, S4S 0A2, Canada. Ezeddin.Shirif@uregina.ca",
             "Program of Petroleum Systems Engineering, University of Regina, Regina, SK, S4S 0A2, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Program of Petroleum Systems Engineering, University of Regina, Regina, SK, S4S 0A2, Canada. Ezeddin.Shirif@uregina.ca",
@@ -104179,7 +104163,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01084708,
+        "value": 0.01072968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -104558,24 +104542,21 @@
           "landing_page_url": "https://doaj.org/article/b9066a7b631b477caf197bac3280950d",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -104660,13 +104641,6 @@
           "id": "https://openalex.org/G2894603144",
           "display_name": null,
           "funder_award_id": "NPRP12S-",
-          "funder_id": "https://openalex.org/F4320332753",
-          "funder_display_name": "Qatar National Research Fund"
-        },
-        {
-          "id": "https://openalex.org/G4411838489",
-          "display_name": null,
-          "funder_award_id": "NPRP13",
           "funder_id": "https://openalex.org/F4320332753",
           "funder_display_name": "Qatar National Research Fund"
         },
@@ -104819,7 +104793,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {

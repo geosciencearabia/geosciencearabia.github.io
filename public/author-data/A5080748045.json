@@ -10,9 +10,9 @@
     ],
     "full_name": "Abdulkarim AL-HUSSAINI",
     "works_count": 14,
-    "cited_by_count": 111,
+    "cited_by_count": 112,
     "summary_stats": {
-      "2yr_mean_citedness": 4.666666666666667,
+      "2yr_mean_citedness": 5,
       "h_index": 8,
       "i10_index": 7
     },
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000042,
+        "value": 0.0000419,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000223,
+        "value": 0.0000222,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -361,7 +361,7 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2025,
@@ -377,7 +377,7 @@
     ],
     "block_key": "a al-hussaini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080748045",
-    "updated_date": "2026-04-21T12:23:24",
+    "updated_date": "2026-05-06T12:19:59",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1170,6 +1170,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. abdullah.alqubalee@kfupm.edu.sa",
@@ -1220,6 +1221,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -1256,6 +1258,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -1292,6 +1295,7 @@
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, 31311, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Exploration Organization, Saudi Aramco, 31311, Dhahran, Saudi Arabia",
@@ -1331,6 +1335,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia. ramadank@kfupm.edu.sa",
@@ -1374,11 +1379,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 7.8774,
+      "fwci": 7.7467,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.9675898,
+        "value": 0.96685124,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1674,24 +1679,21 @@
           "landing_page_url": "https://doaj.org/article/ec2db9c3c7c54bc9b435a4b41cb5a1b7",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1736,8 +1738,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -2461,7 +2463,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2784,11 +2786,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.7179,
+      "fwci": 6.68,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95920905,
+        "value": 0.95894252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3280,24 +3282,21 @@
           "landing_page_url": "https://doaj.org/article/05688748a2f24faea2e2ac323255dd10",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -3371,8 +3370,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -3854,7 +3853,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4400,8 +4399,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -5107,8 +5106,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -5869,8 +5868,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -6821,8 +6820,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -7062,6 +7061,761 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4405188231",
+      "doi": "https://doi.org/10.1016/j.cretres.2024.106059",
+      "title": "Geochemistry and regional stratigraphy of the Upper Cretaceous succession of central Saudi Arabia: A record of foreland basin inception on the Arabian Plate",
+      "display_name": "Geochemistry and regional stratigraphy of the Upper Cretaceous succession of central Saudi Arabia: A record of foreland basin inception on the Arabian Plate",
+      "publication_year": 2024,
+      "publication_date": "2024-12-09",
+      "ids": {
+        "openalex": "https://openalex.org/W4405188231",
+        "doi": "https://doi.org/10.1016/j.cretres.2024.106059"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.cretres.2024.106059",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.cretres.2024.106059",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S48852984",
+          "display_name": "Cretaceous Research",
+          "issn_l": "0195-6671",
+          "issn": [
+            "0195-6671",
+            "1095-998X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cretaceous Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5043958071",
+            "display_name": "Mohammed Fallatah",
+            "orcid": "https://orcid.org/0000-0001-7871-7755"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed I. Fallatah",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
+            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7871-7755",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078743538",
+            "display_name": "Mahmoud Alnazghah",
+            "orcid": "https://orcid.org/0000-0002-9209-7676"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mahmoud Alnazghah",
+          "raw_affiliation_strings": [
+            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054443651",
+            "display_name": "Charles Kerans",
+            "orcid": "https://orcid.org/0000-0002-3544-9006"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1288783943",
+              "display_name": "Bureau of Economic Analysis",
+              "ror": "https://ror.org/03b17a012",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1288783943",
+                "https://openalex.org/I1343035065"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles Kerans",
+          "raw_affiliation_strings": [
+            "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
+            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
+              "institution_ids": [
+                "https://openalex.org/I1288783943",
+                "https://openalex.org/I86519309"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5080748045",
+            "display_name": "Abdulkarim Al-Hussaini",
+            "orcid": "https://orcid.org/0000-0003-2730-4672"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkarim Al-Hussaini",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
+            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5043958071"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I86519309"
+      ],
+      "apc_list": {
+        "value": 3140,
+        "currency": "USD",
+        "value_usd": 3140
+      },
+      "apc_paid": null,
+      "fwci": 2.9741,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.91896183,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "168",
+        "issue": null,
+        "first_page": "106059",
+        "last_page": "106059"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.8901822566986084
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8766922354698181
+        },
+        {
+          "id": "https://openalex.org/keywords/foreland-basin",
+          "display_name": "Foreland basin",
+          "score": 0.8376697301864624
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.7830525636672974
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-succession",
+          "display_name": "Ecological succession",
+          "score": 0.6341420412063599
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6139727830886841
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.5736882090568542
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.46181878447532654
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.16087353229522705
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.8901822566986084
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8766922354698181
+        },
+        {
+          "id": "https://openalex.org/C193748577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
+          "display_name": "Foreland basin",
+          "level": 3,
+          "score": 0.8376697301864624
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.7830525636672974
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.6341420412063599
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6139727830886841
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5736882090568542
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.46181878447532654
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.16087353229522705
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.cretres.2024.106059",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.cretres.2024.106059",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S48852984",
+            "display_name": "Cretaceous Research",
+            "issn_l": "0195-6671",
+            "issn": [
+              "0195-6671",
+              "1095-998X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Cretaceous Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320308681",
+          "display_name": "Geological Society of America",
+          "ror": "https://ror.org/0029f7m05"
+        },
+        {
+          "id": "https://openalex.org/F4320311148",
+          "display_name": "American Association of Petroleum Geologists",
+          "ror": "https://ror.org/03aj2mv38"
+        },
+        {
+          "id": "https://openalex.org/F4320314423",
+          "display_name": "American Association of Petroleum Geologists Foundation",
+          "ror": "https://ror.org/03aj2mv38"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 163,
+      "referenced_works": [
+        "https://openalex.org/W125623076",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W585191222",
+        "https://openalex.org/W635102324",
+        "https://openalex.org/W755025044",
+        "https://openalex.org/W1499332682",
+        "https://openalex.org/W1512726750",
+        "https://openalex.org/W1514469041",
+        "https://openalex.org/W1517781559",
+        "https://openalex.org/W1526544082",
+        "https://openalex.org/W1552146141",
+        "https://openalex.org/W1552808260",
+        "https://openalex.org/W1554189221",
+        "https://openalex.org/W1564076024",
+        "https://openalex.org/W1660149743",
+        "https://openalex.org/W1807528795",
+        "https://openalex.org/W1892420698",
+        "https://openalex.org/W1952536840",
+        "https://openalex.org/W1966395620",
+        "https://openalex.org/W1981370349",
+        "https://openalex.org/W1986032233",
+        "https://openalex.org/W1986413497",
+        "https://openalex.org/W1987156095",
+        "https://openalex.org/W1987720010",
+        "https://openalex.org/W1989343619",
+        "https://openalex.org/W1990448469",
+        "https://openalex.org/W1992118268",
+        "https://openalex.org/W1993298118",
+        "https://openalex.org/W1994737413",
+        "https://openalex.org/W1997365972",
+        "https://openalex.org/W1999626549",
+        "https://openalex.org/W2012887763",
+        "https://openalex.org/W2013163832",
+        "https://openalex.org/W2016825400",
+        "https://openalex.org/W2017498700",
+        "https://openalex.org/W2023298606",
+        "https://openalex.org/W2028038371",
+        "https://openalex.org/W2029339755",
+        "https://openalex.org/W2035287165",
+        "https://openalex.org/W2047527622",
+        "https://openalex.org/W2047537726",
+        "https://openalex.org/W2050128151",
+        "https://openalex.org/W2050440902",
+        "https://openalex.org/W2053518653",
+        "https://openalex.org/W2053652705",
+        "https://openalex.org/W2055171968",
+        "https://openalex.org/W2060017564",
+        "https://openalex.org/W2066250998",
+        "https://openalex.org/W2066878756",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2068785216",
+        "https://openalex.org/W2074158949",
+        "https://openalex.org/W2080830021",
+        "https://openalex.org/W2082248128",
+        "https://openalex.org/W2083143741",
+        "https://openalex.org/W2086254897",
+        "https://openalex.org/W2092786871",
+        "https://openalex.org/W2094581504",
+        "https://openalex.org/W2096901723",
+        "https://openalex.org/W2099581206",
+        "https://openalex.org/W2103558226",
+        "https://openalex.org/W2107642068",
+        "https://openalex.org/W2111976184",
+        "https://openalex.org/W2124272991",
+        "https://openalex.org/W2124322162",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2124740620",
+        "https://openalex.org/W2126467150",
+        "https://openalex.org/W2128812097",
+        "https://openalex.org/W2140166729",
+        "https://openalex.org/W2142156816",
+        "https://openalex.org/W2144169221",
+        "https://openalex.org/W2144336460",
+        "https://openalex.org/W2148833898",
+        "https://openalex.org/W2150526959",
+        "https://openalex.org/W2160490562",
+        "https://openalex.org/W2168369208",
+        "https://openalex.org/W2169979508",
+        "https://openalex.org/W2266880387",
+        "https://openalex.org/W2269450759",
+        "https://openalex.org/W2282472653",
+        "https://openalex.org/W2283545049",
+        "https://openalex.org/W2336110293",
+        "https://openalex.org/W2344591300",
+        "https://openalex.org/W2460281620",
+        "https://openalex.org/W2469437234",
+        "https://openalex.org/W2477183935",
+        "https://openalex.org/W2481906433",
+        "https://openalex.org/W2506480916",
+        "https://openalex.org/W2523675631",
+        "https://openalex.org/W2527865532",
+        "https://openalex.org/W2549993001",
+        "https://openalex.org/W2563482683",
+        "https://openalex.org/W2581167478",
+        "https://openalex.org/W2582641026",
+        "https://openalex.org/W2606930028",
+        "https://openalex.org/W2607642360",
+        "https://openalex.org/W2727497512",
+        "https://openalex.org/W2766502028",
+        "https://openalex.org/W2767361131",
+        "https://openalex.org/W2801504284",
+        "https://openalex.org/W2885669595",
+        "https://openalex.org/W2910876150",
+        "https://openalex.org/W2912118949",
+        "https://openalex.org/W2919301606",
+        "https://openalex.org/W2935903750",
+        "https://openalex.org/W2956369912",
+        "https://openalex.org/W2971608975",
+        "https://openalex.org/W2972579613",
+        "https://openalex.org/W2981980747",
+        "https://openalex.org/W2995051499",
+        "https://openalex.org/W2997815011",
+        "https://openalex.org/W3033754753",
+        "https://openalex.org/W3034871675",
+        "https://openalex.org/W3043027909",
+        "https://openalex.org/W3120532631",
+        "https://openalex.org/W3129777047",
+        "https://openalex.org/W3159505305",
+        "https://openalex.org/W3205445333",
+        "https://openalex.org/W4206827513",
+        "https://openalex.org/W4210393982",
+        "https://openalex.org/W4221124205",
+        "https://openalex.org/W4241854385",
+        "https://openalex.org/W4245562411",
+        "https://openalex.org/W4247606186",
+        "https://openalex.org/W4289745731",
+        "https://openalex.org/W4292806850",
+        "https://openalex.org/W4366992704",
+        "https://openalex.org/W6603156698",
+        "https://openalex.org/W6604210726",
+        "https://openalex.org/W6605161034",
+        "https://openalex.org/W6606317879",
+        "https://openalex.org/W6622162282",
+        "https://openalex.org/W6629935875",
+        "https://openalex.org/W6630587405",
+        "https://openalex.org/W6630675632",
+        "https://openalex.org/W6630927542",
+        "https://openalex.org/W6631236569",
+        "https://openalex.org/W6632973950",
+        "https://openalex.org/W6633012315",
+        "https://openalex.org/W6636535511",
+        "https://openalex.org/W6645509370",
+        "https://openalex.org/W6649041380",
+        "https://openalex.org/W6667610414",
+        "https://openalex.org/W6674341383",
+        "https://openalex.org/W6676554092",
+        "https://openalex.org/W6678618728",
+        "https://openalex.org/W6681310490",
+        "https://openalex.org/W6681367646",
+        "https://openalex.org/W6685094671",
+        "https://openalex.org/W6690927731",
+        "https://openalex.org/W6693375262",
+        "https://openalex.org/W6729875898",
+        "https://openalex.org/W6767163766",
+        "https://openalex.org/W6769504289",
+        "https://openalex.org/W6785364872",
+        "https://openalex.org/W6787607463",
+        "https://openalex.org/W6808245878",
+        "https://openalex.org/W6828316006",
+        "https://openalex.org/W6901947028",
+        "https://openalex.org/W7047568528",
+        "https://openalex.org/W7055279259"
+      ],
+      "related_works": [
+        "https://openalex.org/W2360250337",
+        "https://openalex.org/W2367384419",
+        "https://openalex.org/W618053361",
+        "https://openalex.org/W2373153435",
+        "https://openalex.org/W2376133542",
+        "https://openalex.org/W2378842617",
+        "https://openalex.org/W112785592",
+        "https://openalex.org/W2318309206",
+        "https://openalex.org/W2353665858",
+        "https://openalex.org/W1971721508"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7629,8 +8383,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -8554,8 +9308,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -9258,8 +10012,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -9753,757 +10507,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4405188231",
-      "doi": "https://doi.org/10.1016/j.cretres.2024.106059",
-      "title": "Geochemistry and regional stratigraphy of the Upper Cretaceous succession of central Saudi Arabia: A record of foreland basin inception on the Arabian Plate",
-      "display_name": "Geochemistry and regional stratigraphy of the Upper Cretaceous succession of central Saudi Arabia: A record of foreland basin inception on the Arabian Plate",
-      "publication_year": 2024,
-      "publication_date": "2024-12-09",
-      "ids": {
-        "openalex": "https://openalex.org/W4405188231",
-        "doi": "https://doi.org/10.1016/j.cretres.2024.106059"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.cretres.2024.106059",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.cretres.2024.106059",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S48852984",
-          "display_name": "Cretaceous Research",
-          "issn_l": "0195-6671",
-          "issn": [
-            "0195-6671",
-            "1095-998X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Cretaceous Research",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5043958071",
-            "display_name": "Mohammed Fallatah",
-            "orcid": "https://orcid.org/0000-0001-7871-7755"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed I. Fallatah",
-          "raw_affiliation_strings": [
-            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
-            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-7871-7755",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5078743538",
-            "display_name": "Mahmoud Alnazghah",
-            "orcid": "https://orcid.org/0000-0002-9209-7676"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mahmoud Alnazghah",
-          "raw_affiliation_strings": [
-            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054443651",
-            "display_name": "Charles Kerans",
-            "orcid": "https://orcid.org/0000-0002-3544-9006"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1288783943",
-              "display_name": "Bureau of Economic Analysis",
-              "ror": "https://ror.org/03b17a012",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I1343035065"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Kerans",
-          "raw_affiliation_strings": [
-            "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
-            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
-              "institution_ids": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I86519309"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5080748045",
-            "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkarim Al-Hussaini",
-          "raw_affiliation_strings": [
-            "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
-            "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, 2305 Speedway, Stop C1160, Austin, TX 78712-1692, USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Arabian Oil Company, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5043958071"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841",
-        "https://openalex.org/I86519309"
-      ],
-      "apc_list": {
-        "value": 3140,
-        "currency": "USD",
-        "value_usd": 3140
-      },
-      "apc_paid": null,
-      "fwci": 1.5184,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.88880824,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "168",
-        "issue": null,
-        "first_page": "106059",
-        "last_page": "106059"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.8901822566986084
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8766922354698181
-        },
-        {
-          "id": "https://openalex.org/keywords/foreland-basin",
-          "display_name": "Foreland basin",
-          "score": 0.8376697301864624
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.7830525636672974
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-succession",
-          "display_name": "Ecological succession",
-          "score": 0.6341420412063599
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6139727830886841
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5736882090568542
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.46181878447532654
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.16087353229522705
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.8901822566986084
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8766922354698181
-        },
-        {
-          "id": "https://openalex.org/C193748577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
-          "display_name": "Foreland basin",
-          "level": 3,
-          "score": 0.8376697301864624
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.7830525636672974
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.6341420412063599
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6139727830886841
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.5736882090568542
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.46181878447532654
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.16087353229522705
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.cretres.2024.106059",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.cretres.2024.106059",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S48852984",
-            "display_name": "Cretaceous Research",
-            "issn_l": "0195-6671",
-            "issn": [
-              "0195-6671",
-              "1095-998X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Cretaceous Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320308681",
-          "display_name": "Geological Society of America",
-          "ror": "https://ror.org/0029f7m05"
-        },
-        {
-          "id": "https://openalex.org/F4320311148",
-          "display_name": "American Association of Petroleum Geologists",
-          "ror": "https://ror.org/03aj2mv38"
-        },
-        {
-          "id": "https://openalex.org/F4320314423",
-          "display_name": "American Association of Petroleum Geologists Foundation",
-          "ror": "https://ror.org/03aj2mv38"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 163,
-      "referenced_works": [
-        "https://openalex.org/W125623076",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W585191222",
-        "https://openalex.org/W635102324",
-        "https://openalex.org/W755025044",
-        "https://openalex.org/W1499332682",
-        "https://openalex.org/W1512726750",
-        "https://openalex.org/W1514469041",
-        "https://openalex.org/W1517781559",
-        "https://openalex.org/W1526544082",
-        "https://openalex.org/W1552146141",
-        "https://openalex.org/W1552808260",
-        "https://openalex.org/W1554189221",
-        "https://openalex.org/W1564076024",
-        "https://openalex.org/W1660149743",
-        "https://openalex.org/W1807528795",
-        "https://openalex.org/W1892420698",
-        "https://openalex.org/W1952536840",
-        "https://openalex.org/W1966395620",
-        "https://openalex.org/W1981370349",
-        "https://openalex.org/W1986032233",
-        "https://openalex.org/W1986413497",
-        "https://openalex.org/W1987156095",
-        "https://openalex.org/W1987720010",
-        "https://openalex.org/W1989343619",
-        "https://openalex.org/W1990448469",
-        "https://openalex.org/W1992118268",
-        "https://openalex.org/W1993298118",
-        "https://openalex.org/W1994737413",
-        "https://openalex.org/W1997365972",
-        "https://openalex.org/W1999626549",
-        "https://openalex.org/W2012887763",
-        "https://openalex.org/W2013163832",
-        "https://openalex.org/W2016825400",
-        "https://openalex.org/W2017498700",
-        "https://openalex.org/W2023298606",
-        "https://openalex.org/W2028038371",
-        "https://openalex.org/W2029339755",
-        "https://openalex.org/W2035287165",
-        "https://openalex.org/W2047527622",
-        "https://openalex.org/W2047537726",
-        "https://openalex.org/W2050128151",
-        "https://openalex.org/W2050440902",
-        "https://openalex.org/W2053518653",
-        "https://openalex.org/W2053652705",
-        "https://openalex.org/W2055171968",
-        "https://openalex.org/W2060017564",
-        "https://openalex.org/W2066250998",
-        "https://openalex.org/W2066878756",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2068785216",
-        "https://openalex.org/W2074158949",
-        "https://openalex.org/W2080830021",
-        "https://openalex.org/W2082248128",
-        "https://openalex.org/W2083143741",
-        "https://openalex.org/W2086254897",
-        "https://openalex.org/W2092786871",
-        "https://openalex.org/W2094581504",
-        "https://openalex.org/W2096901723",
-        "https://openalex.org/W2099581206",
-        "https://openalex.org/W2103558226",
-        "https://openalex.org/W2107642068",
-        "https://openalex.org/W2111976184",
-        "https://openalex.org/W2124272991",
-        "https://openalex.org/W2124322162",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2124740620",
-        "https://openalex.org/W2126467150",
-        "https://openalex.org/W2128812097",
-        "https://openalex.org/W2140166729",
-        "https://openalex.org/W2142156816",
-        "https://openalex.org/W2144169221",
-        "https://openalex.org/W2144336460",
-        "https://openalex.org/W2148833898",
-        "https://openalex.org/W2150526959",
-        "https://openalex.org/W2160490562",
-        "https://openalex.org/W2168369208",
-        "https://openalex.org/W2169979508",
-        "https://openalex.org/W2266880387",
-        "https://openalex.org/W2269450759",
-        "https://openalex.org/W2282472653",
-        "https://openalex.org/W2283545049",
-        "https://openalex.org/W2336110293",
-        "https://openalex.org/W2344591300",
-        "https://openalex.org/W2460281620",
-        "https://openalex.org/W2469437234",
-        "https://openalex.org/W2477183935",
-        "https://openalex.org/W2481906433",
-        "https://openalex.org/W2506480916",
-        "https://openalex.org/W2523675631",
-        "https://openalex.org/W2527865532",
-        "https://openalex.org/W2549993001",
-        "https://openalex.org/W2563482683",
-        "https://openalex.org/W2581167478",
-        "https://openalex.org/W2582641026",
-        "https://openalex.org/W2606930028",
-        "https://openalex.org/W2607642360",
-        "https://openalex.org/W2727497512",
-        "https://openalex.org/W2766502028",
-        "https://openalex.org/W2767361131",
-        "https://openalex.org/W2801504284",
-        "https://openalex.org/W2885669595",
-        "https://openalex.org/W2910876150",
-        "https://openalex.org/W2912118949",
-        "https://openalex.org/W2919301606",
-        "https://openalex.org/W2935903750",
-        "https://openalex.org/W2956369912",
-        "https://openalex.org/W2971608975",
-        "https://openalex.org/W2972579613",
-        "https://openalex.org/W2981980747",
-        "https://openalex.org/W2995051499",
-        "https://openalex.org/W2997815011",
-        "https://openalex.org/W3033754753",
-        "https://openalex.org/W3034871675",
-        "https://openalex.org/W3043027909",
-        "https://openalex.org/W3120532631",
-        "https://openalex.org/W3129777047",
-        "https://openalex.org/W3159505305",
-        "https://openalex.org/W3205445333",
-        "https://openalex.org/W4206827513",
-        "https://openalex.org/W4210393982",
-        "https://openalex.org/W4221124205",
-        "https://openalex.org/W4241854385",
-        "https://openalex.org/W4245562411",
-        "https://openalex.org/W4247606186",
-        "https://openalex.org/W4289745731",
-        "https://openalex.org/W4292806850",
-        "https://openalex.org/W4366992704",
-        "https://openalex.org/W6603156698",
-        "https://openalex.org/W6604210726",
-        "https://openalex.org/W6605161034",
-        "https://openalex.org/W6606317879",
-        "https://openalex.org/W6622162282",
-        "https://openalex.org/W6629935875",
-        "https://openalex.org/W6630587405",
-        "https://openalex.org/W6630675632",
-        "https://openalex.org/W6630927542",
-        "https://openalex.org/W6631236569",
-        "https://openalex.org/W6632973950",
-        "https://openalex.org/W6633012315",
-        "https://openalex.org/W6636535511",
-        "https://openalex.org/W6645509370",
-        "https://openalex.org/W6649041380",
-        "https://openalex.org/W6667610414",
-        "https://openalex.org/W6674341383",
-        "https://openalex.org/W6676554092",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6681310490",
-        "https://openalex.org/W6681367646",
-        "https://openalex.org/W6685094671",
-        "https://openalex.org/W6690927731",
-        "https://openalex.org/W6693375262",
-        "https://openalex.org/W6729875898",
-        "https://openalex.org/W6767163766",
-        "https://openalex.org/W6769504289",
-        "https://openalex.org/W6785364872",
-        "https://openalex.org/W6787607463",
-        "https://openalex.org/W6808245878",
-        "https://openalex.org/W6828316006",
-        "https://openalex.org/W6901947028",
-        "https://openalex.org/W7047568528",
-        "https://openalex.org/W7055279259"
-      ],
-      "related_works": [
-        "https://openalex.org/W2360250337",
-        "https://openalex.org/W2367384419",
-        "https://openalex.org/W618053361",
-        "https://openalex.org/W2373153435",
-        "https://openalex.org/W2376133542",
-        "https://openalex.org/W2378842617",
-        "https://openalex.org/W112785592",
-        "https://openalex.org/W2318309206",
-        "https://openalex.org/W2353665858",
-        "https://openalex.org/W1971721508"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-01-19T04:01:09.351973",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3108968024",
       "doi": "https://doi.org/10.26153/tsw/10312",
       "title": "New evidence of regressing and transgressing Jurassic siliciclastic coastlines : Dhruma Formation, northern central Arabia",
@@ -10799,8 +10802,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -11805,8 +11808,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

@@ -162,7 +162,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001113,
+        "value": 0.0001112,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -179,7 +179,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000207,
+        "value": 0.0000206,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -213,7 +213,7 @@
       {
         "id": "https://openalex.org/T13404",
         "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0000134,
+        "value": 0.0000133,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -364,7 +364,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-04-28T12:20:23",
+    "updated_date": "2026-05-06T12:19:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -984,9 +984,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -1123,1019 +1123,6 @@
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W176213037",
-      "doi": "https://doi.org/10.3989/egeol.08641429",
-      "title": "Le Numidien de la Tunisie septentrionale: données stratigraphiques et interprétation géodynamique",
-      "display_name": "Le Numidien de la Tunisie septentrionale: données stratigraphiques et interprétation géodynamique",
-      "publication_year": 2008,
-      "publication_date": "2008-06-30",
-      "ids": {
-        "openalex": "https://openalex.org/W176213037",
-        "doi": "https://doi.org/10.3989/egeol.08641429",
-        "mag": "176213037"
-      },
-      "language": "es",
-      "primary_location": {
-        "id": "doi:10.3989/egeol.08641429",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
-        "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
-        "source": {
-          "id": "https://openalex.org/S32706902",
-          "display_name": "Estudios Geológicos",
-          "issn_l": "0367-0449",
-          "issn": [
-            "0367-0449",
-            "1988-3250"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310321139",
-          "host_organization_name": "Spanish National Research Council",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310321139"
-          ],
-          "host_organization_lineage_names": [
-            "Spanish National Research Council"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Estudios Geológicos",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5052653437",
-            "display_name": "Fouad Talbi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3019441195",
-              "display_name": "Laboratoire de Mathématiques d'Orsay",
-              "ror": "https://ror.org/03ab0zs98",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I3019441195"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210141296",
-              "display_name": "Centre Hospitalier Universitaire d’Oujda",
-              "ror": "https://ror.org/04bmqy315",
-              "country_code": "MA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210141296"
-              ]
-            }
-          ],
-          "countries": [
-            "FR",
-            "MA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "F. Talbi",
-          "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
-            "Faculté des Sciences, Département de Géologie, Oujda"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
-              "institution_ids": [
-                "https://openalex.org/I3019441195"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Oujda",
-              "institution_ids": [
-                "https://openalex.org/I4210141296"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038172396",
-            "display_name": "Fetheddine Melki",
-            "orcid": "https://orcid.org/0000-0002-1047-2162"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "F. Melki",
-          "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-            "Faculté des Sciences, Département de Géologie, Tunis"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081979708",
-            "display_name": "Kmar Ben Ismaïl‐Lattrache",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K. Ben Ismail-Lattrache",
-          "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-            "Faculté des Sciences, Département de Géologie, Tunis"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Alouani",
-          "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
-            "Faculté des Sciences, Département de Géologie, Bizerte"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Bizerte",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5111648436",
-            "display_name": "S. Tlig",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. Tlig",
-          "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-            "Faculté des Sciences, Département de Géologie, Tunis"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052653437"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I3019441195",
-        "https://openalex.org/I4210141296"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.7541,
-      "has_fulltext": true,
-      "cited_by_count": 39,
-      "citation_normalized_percentile": {
-        "value": 0.8142894,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "64",
-        "issue": "1",
-        "first_page": "31",
-        "last_page": "44"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9865000247955322,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.986299991607666,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/interpretation",
-          "display_name": "Interpretation (philosophy)",
-          "score": 0.7266315221786499
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6871006488800049
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.3821808695793152
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.3238978385925293
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.2658376693725586
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.08877632021903992
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C527412718",
-          "wikidata": "https://www.wikidata.org/wiki/Q855395",
-          "display_name": "Interpretation (philosophy)",
-          "level": 2,
-          "score": 0.7266315221786499
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6871006488800049
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3821808695793152
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.3238978385925293
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.2658376693725586
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.08877632021903992
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.3989/egeol.08641429",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
-          "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
-          "source": {
-            "id": "https://openalex.org/S32706902",
-            "display_name": "Estudios Geológicos",
-            "issn_l": "0367-0449",
-            "issn": [
-              "0367-0449",
-              "1988-3250"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310321139",
-            "host_organization_name": "Spanish National Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310321139"
-            ],
-            "host_organization_lineage_names": [
-              "Spanish National Research Council"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Estudios Geológicos",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:ae022d36839b44cda2fb009e3bed1274",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/ae022d36839b44cda2fb009e3bed1274",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Estudios Geologicos, Vol 64, Iss 1, Pp 31-44 (2008)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:b9ab3a7e21ca4a8bb88571e894b7f5a4",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/b9ab3a7e21ca4a8bb88571e894b7f5a4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Estudios Geologicos, Vol 64, Iss 1, Pp 31-44 (2008)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3989/egeol.08641429",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
-        "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
-        "source": {
-          "id": "https://openalex.org/S32706902",
-          "display_name": "Estudios Geológicos",
-          "issn_l": "0367-0449",
-          "issn": [
-            "0367-0449",
-            "1988-3250"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310321139",
-          "host_organization_name": "Spanish National Research Council",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310321139"
-          ],
-          "host_organization_lineage_names": [
-            "Spanish National Research Council"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Estudios Geológicos",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W176213037.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W176213037.grobid-xml"
-      },
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W7329682",
-        "https://openalex.org/W78420946",
-        "https://openalex.org/W379050306",
-        "https://openalex.org/W594198844",
-        "https://openalex.org/W625338589",
-        "https://openalex.org/W1965250421",
-        "https://openalex.org/W1968204361",
-        "https://openalex.org/W1968945422",
-        "https://openalex.org/W1979822623",
-        "https://openalex.org/W1990566162",
-        "https://openalex.org/W1994788560",
-        "https://openalex.org/W1995273636",
-        "https://openalex.org/W2003410539",
-        "https://openalex.org/W2020266740",
-        "https://openalex.org/W2023541746",
-        "https://openalex.org/W2024052802",
-        "https://openalex.org/W2037858880",
-        "https://openalex.org/W2051283999",
-        "https://openalex.org/W2064384381",
-        "https://openalex.org/W2066931996",
-        "https://openalex.org/W2074208067",
-        "https://openalex.org/W2088200736",
-        "https://openalex.org/W2088655282",
-        "https://openalex.org/W2092051610",
-        "https://openalex.org/W2106092540",
-        "https://openalex.org/W2109934455",
-        "https://openalex.org/W2114440458",
-        "https://openalex.org/W2134074992",
-        "https://openalex.org/W2134743030",
-        "https://openalex.org/W2169692549",
-        "https://openalex.org/W2314583633",
-        "https://openalex.org/W2322256583",
-        "https://openalex.org/W2329346107",
-        "https://openalex.org/W2332740922",
-        "https://openalex.org/W2593988451",
-        "https://openalex.org/W2606590577",
-        "https://openalex.org/W2701514788",
-        "https://openalex.org/W2729072612",
-        "https://openalex.org/W2770382423",
-        "https://openalex.org/W2797296080",
-        "https://openalex.org/W2808046812",
-        "https://openalex.org/W2891933406",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6676647123",
-        "https://openalex.org/W6870753512"
-      ],
-      "related_works": [
-        "https://openalex.org/W4313320911",
-        "https://openalex.org/W4327743144",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W4245077728",
-        "https://openalex.org/W2607424049",
-        "https://openalex.org/W4390922876",
-        "https://openalex.org/W3183204001",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078"
-      ],
-      "abstract_inverted_index": {
-        "El": [
-          0
-        ],
-        "flysch": [
-          1
-        ],
-        "Numidiense": [
-          2,
-          97
-        ],
-        "es": [
-          3
-        ],
-        "una": [
-          4,
-          106
-        ],
-        "formación": [
-          5,
-          29
-        ],
-        "arenisco-arcillosa": [
-          6
-        ],
-        "de": [
-          7,
-          11,
-          20,
-          27,
-          48,
-          56,
-          64,
-          68,
-          78,
-          88,
-          105,
-          128,
-          132
-        ],
-        "gran": [
-          8
-        ],
-        "espesor": [
-          9
-        ],
-        "y": [
-          10,
-          52,
-          72,
-          81,
-          98
-        ],
-        "edad": [
-          12
-        ],
-        "Oligoceno-Mioceno": [
-          13
-        ],
-        "inferior,": [
-          14
-        ],
-        "que": [
-          15
-        ],
-        "aflora": [
-          16
-        ],
-        "en": [
-          17,
-          46,
-          93,
-          111
-        ],
-        "el": [
-          18,
-          100
-        ],
-        "norte": [
-          19,
-          127
-        ],
-        "Túnez.": [
-          21
-        ],
-        "La": [
-          22
-        ],
-        "naturaleza": [
-          23
-        ],
-        "del": [
-          24,
-          96,
-          126
-        ],
-        "contacto": [
-          25,
-          49,
-          90
-        ],
-        "basal": [
-          26
-        ],
-        "esta": [
-          28
-        ],
-        "ha": [
-          30,
-          83
-        ],
-        "suscitado": [
-          31
-        ],
-        "numerosas": [
-          32
-        ],
-        "discusiones.": [
-          33
-        ],
-        "De": [
-          34
-        ],
-        "ellas": [
-          35
-        ],
-        "destacan": [
-          36
-        ],
-        "dos": [
-          37
-        ],
-        "hipótesis:": [
-          38
-        ],
-        "1)": [
-          39
-        ],
-        "las": [
-          40,
-          115
-        ],
-        "unidades": [
-          41,
-          57
-        ],
-        "numidienses": [
-          42
-        ],
-        "alóctonas": [
-          43
-        ],
-        "se": [
-          44,
-          54,
-          119
-        ],
-        "apoyan": [
-          45
-        ],
-        "forma": [
-          47
-        ],
-        "anormal": [
-          50
-        ],
-        "tangencial,": [
-          51
-        ],
-        "2)": [
-          53
-        ],
-        "trata": [
-          55
-        ],
-        "autóctonas": [
-          58
-        ],
-        "(contacto": [
-          59
-        ],
-        "sedimentario": [
-          60
-        ],
-        "normal,": [
-          61
-        ],
-        "a": [
-          62
-        ],
-        "veces": [
-          63
-        ],
-        "tipo": [
-          65,
-          79
-        ],
-        "\"downlap\").El": [
-          66
-        ],
-        "levantamiento": [
-          67
-        ],
-        "cortes": [
-          69
-        ],
-        "litológicos": [
-          70
-        ],
-        "detallados": [
-          71
-        ],
-        "su": [
-          73
-        ],
-        "datación,": [
-          74
-        ],
-        "combinado": [
-          75
-        ],
-        "con": [
-          76
-        ],
-        "datos": [
-          77
-        ],
-        "geodinámico": [
-          80
-        ],
-        "petrogenético,": [
-          82
-        ],
-        "permitido": [
-          84
-        ],
-        "confirmar": [
-          85
-        ],
-        "la": [
-          86,
-          94,
-          103
-        ],
-        "ausencia": [
-          87
-        ],
-        "un": [
-          89
-        ],
-        "tectónico": [
-          91
-        ],
-        "tangencial": [
-          92
-        ],
-        "base": [
-          95
-        ],
-        "por": [
-          99,
-          130
-        ],
-        "contrario,": [
-          101
-        ],
-        "establecer": [
-          102
-        ],
-        "existencia": [
-          104
-        ],
-        "significativa": [
-          107
-        ],
-        "tectónica": [
-          108
-        ],
-        "terciaria": [
-          109
-        ],
-        "desarrollada": [
-          110
-        ],
-        "varias": [
-          112
-        ],
-        "fases.": [
-          113
-        ],
-        "Asi,": [
-          114
-        ],
-        "series": [
-          116
-        ],
-        "siliciclásticas": [
-          117
-        ],
-        "Numidienses": [
-          118
-        ],
-        "ven": [
-          120
-        ],
-        "afectadas,": [
-          121
-        ],
-        "como": [
-          122
-        ],
-        "otras": [
-          123
-        ],
-        "formaciones": [
-          124
-        ],
-        "terciarias": [
-          125
-        ],
-        "Túnez,": [
-          129
-        ],
-        "cabalgamientos": [
-          131
-        ],
-        "vergencia": [
-          133
-        ],
-        "SE.": [
-          134
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2140958647",
@@ -2734,9 +1721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -2951,6 +1938,7 @@
             "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia",
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia",
@@ -2991,6 +1979,7 @@
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna, 7021 Bizerte, Tunisia",
@@ -3014,6 +2003,7 @@
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia",
@@ -3035,6 +2025,7 @@
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia",
@@ -3056,6 +2047,7 @@
           "raw_affiliation_strings": [
             "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UR05/13-01, Physique des Matériaux Lamellaires et Nanomatériaux Hybrides (PMLNMH), Faculté des Sciences de Bizerte, 7021 Zarzouna, Tunisia",
@@ -3081,11 +2073,11 @@
         "currency": "USD",
         "value_usd": 1650
       },
-      "fwci": 1.2477,
+      "fwci": 1.2479,
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.81080291,
+        "value": 0.81085104,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3435,21 +2427,18 @@
           "landing_page_url": "https://doaj.org/article/5a913c462132460cb3d22fdcefc9a7e5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -3948,7 +2937,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4345,9 +3334,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -5701,9 +4690,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -6158,6 +5147,1018 @@
       ],
       "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W176213037",
+      "doi": "https://doi.org/10.3989/egeol.08641429",
+      "title": "Le Numidien de la Tunisie septentrionale: données stratigraphiques et interprétation géodynamique",
+      "display_name": "Le Numidien de la Tunisie septentrionale: données stratigraphiques et interprétation géodynamique",
+      "publication_year": 2008,
+      "publication_date": "2008-06-30",
+      "ids": {
+        "openalex": "https://openalex.org/W176213037",
+        "doi": "https://doi.org/10.3989/egeol.08641429",
+        "mag": "176213037"
+      },
+      "language": "es",
+      "primary_location": {
+        "id": "doi:10.3989/egeol.08641429",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
+        "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
+        "source": {
+          "id": "https://openalex.org/S32706902",
+          "display_name": "Estudios Geológicos",
+          "issn_l": "0367-0449",
+          "issn": [
+            "0367-0449",
+            "1988-3250"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310321139",
+          "host_organization_name": "Spanish National Research Council",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321139"
+          ],
+          "host_organization_lineage_names": [
+            "Spanish National Research Council"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Estudios Geológicos",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052653437",
+            "display_name": "Fouad Talbi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3019441195",
+              "display_name": "Laboratoire de Mathématiques d'Orsay",
+              "ror": "https://ror.org/03ab0zs98",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I3019441195"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210141296",
+              "display_name": "Centre Hospitalier Universitaire d’Oujda",
+              "ror": "https://ror.org/04bmqy315",
+              "country_code": "MA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210141296"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "MA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "F. Talbi",
+          "raw_affiliation_strings": [
+            "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
+            "Faculté des Sciences, Département de Géologie, Oujda"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
+              "institution_ids": [
+                "https://openalex.org/I3019441195"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Oujda",
+              "institution_ids": [
+                "https://openalex.org/I4210141296"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038172396",
+            "display_name": "Fetheddine Melki",
+            "orcid": "https://orcid.org/0000-0002-1047-2162"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Melki",
+          "raw_affiliation_strings": [
+            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences, Département de Géologie, Tunis"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081979708",
+            "display_name": "Kmar Ben Ismaïl‐Lattrache",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Ben Ismail-Lattrache",
+          "raw_affiliation_strings": [
+            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences, Département de Géologie, Tunis"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Alouani",
+          "raw_affiliation_strings": [
+            "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
+            "Faculté des Sciences, Département de Géologie, Bizerte"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Bizerte",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5111648436",
+            "display_name": "S. Tlig",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Tlig",
+          "raw_affiliation_strings": [
+            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences, Département de Géologie, Tunis"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052653437"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I3019441195",
+        "https://openalex.org/I4210141296"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.8014,
+      "has_fulltext": true,
+      "cited_by_count": 39,
+      "citation_normalized_percentile": {
+        "value": 0.81937424,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "64",
+        "issue": "1",
+        "first_page": "31",
+        "last_page": "44"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9865000247955322,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.986299991607666,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/interpretation",
+          "display_name": "Interpretation (philosophy)",
+          "score": 0.7266315221786499
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6871006488800049
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.3821808695793152
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-geography",
+          "display_name": "Physical geography",
+          "score": 0.3238978385925293
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.2658376693725586
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.08877632021903992
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C527412718",
+          "wikidata": "https://www.wikidata.org/wiki/Q855395",
+          "display_name": "Interpretation (philosophy)",
+          "level": 2,
+          "score": 0.7266315221786499
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6871006488800049
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.3821808695793152
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.3238978385925293
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2658376693725586
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.08877632021903992
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.3989/egeol.08641429",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
+          "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
+          "source": {
+            "id": "https://openalex.org/S32706902",
+            "display_name": "Estudios Geológicos",
+            "issn_l": "0367-0449",
+            "issn": [
+              "0367-0449",
+              "1988-3250"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310321139",
+            "host_organization_name": "Spanish National Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310321139"
+            ],
+            "host_organization_lineage_names": [
+              "Spanish National Research Council"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Estudios Geológicos",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:ae022d36839b44cda2fb009e3bed1274",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/ae022d36839b44cda2fb009e3bed1274",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Estudios Geologicos, Vol 64, Iss 1, Pp 31-44 (2008)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:b9ab3a7e21ca4a8bb88571e894b7f5a4",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/b9ab3a7e21ca4a8bb88571e894b7f5a4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Estudios Geologicos, Vol 64, Iss 1, Pp 31-44 (2008)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3989/egeol.08641429",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3989/egeol.08641429",
+        "pdf_url": "http://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/429/450",
+        "source": {
+          "id": "https://openalex.org/S32706902",
+          "display_name": "Estudios Geológicos",
+          "issn_l": "0367-0449",
+          "issn": [
+            "0367-0449",
+            "1988-3250"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310321139",
+          "host_organization_name": "Spanish National Research Council",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321139"
+          ],
+          "host_organization_lineage_names": [
+            "Spanish National Research Council"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Estudios Geológicos",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.5600000023841858
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W176213037.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W176213037.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W7329682",
+        "https://openalex.org/W78420946",
+        "https://openalex.org/W379050306",
+        "https://openalex.org/W594198844",
+        "https://openalex.org/W625338589",
+        "https://openalex.org/W1965250421",
+        "https://openalex.org/W1968204361",
+        "https://openalex.org/W1968945422",
+        "https://openalex.org/W1979822623",
+        "https://openalex.org/W1990566162",
+        "https://openalex.org/W1994788560",
+        "https://openalex.org/W1995273636",
+        "https://openalex.org/W2003410539",
+        "https://openalex.org/W2020266740",
+        "https://openalex.org/W2023541746",
+        "https://openalex.org/W2024052802",
+        "https://openalex.org/W2037858880",
+        "https://openalex.org/W2051283999",
+        "https://openalex.org/W2064384381",
+        "https://openalex.org/W2066931996",
+        "https://openalex.org/W2074208067",
+        "https://openalex.org/W2088200736",
+        "https://openalex.org/W2088655282",
+        "https://openalex.org/W2092051610",
+        "https://openalex.org/W2106092540",
+        "https://openalex.org/W2109934455",
+        "https://openalex.org/W2114440458",
+        "https://openalex.org/W2134074992",
+        "https://openalex.org/W2134743030",
+        "https://openalex.org/W2169692549",
+        "https://openalex.org/W2314583633",
+        "https://openalex.org/W2322256583",
+        "https://openalex.org/W2329346107",
+        "https://openalex.org/W2332740922",
+        "https://openalex.org/W2593988451",
+        "https://openalex.org/W2606590577",
+        "https://openalex.org/W2701514788",
+        "https://openalex.org/W2729072612",
+        "https://openalex.org/W2770382423",
+        "https://openalex.org/W2797296080",
+        "https://openalex.org/W2808046812",
+        "https://openalex.org/W2891933406",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6676647123",
+        "https://openalex.org/W6870753512"
+      ],
+      "related_works": [
+        "https://openalex.org/W4313320911",
+        "https://openalex.org/W4327743144",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W4245077728",
+        "https://openalex.org/W2607424049",
+        "https://openalex.org/W4390922876",
+        "https://openalex.org/W3183204001",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078"
+      ],
+      "abstract_inverted_index": {
+        "El": [
+          0
+        ],
+        "flysch": [
+          1
+        ],
+        "Numidiense": [
+          2,
+          97
+        ],
+        "es": [
+          3
+        ],
+        "una": [
+          4,
+          106
+        ],
+        "formación": [
+          5,
+          29
+        ],
+        "arenisco-arcillosa": [
+          6
+        ],
+        "de": [
+          7,
+          11,
+          20,
+          27,
+          48,
+          56,
+          64,
+          68,
+          78,
+          88,
+          105,
+          128,
+          132
+        ],
+        "gran": [
+          8
+        ],
+        "espesor": [
+          9
+        ],
+        "y": [
+          10,
+          52,
+          72,
+          81,
+          98
+        ],
+        "edad": [
+          12
+        ],
+        "Oligoceno-Mioceno": [
+          13
+        ],
+        "inferior,": [
+          14
+        ],
+        "que": [
+          15
+        ],
+        "aflora": [
+          16
+        ],
+        "en": [
+          17,
+          46,
+          93,
+          111
+        ],
+        "el": [
+          18,
+          100
+        ],
+        "norte": [
+          19,
+          127
+        ],
+        "Túnez.": [
+          21
+        ],
+        "La": [
+          22
+        ],
+        "naturaleza": [
+          23
+        ],
+        "del": [
+          24,
+          96,
+          126
+        ],
+        "contacto": [
+          25,
+          49,
+          90
+        ],
+        "basal": [
+          26
+        ],
+        "esta": [
+          28
+        ],
+        "ha": [
+          30,
+          83
+        ],
+        "suscitado": [
+          31
+        ],
+        "numerosas": [
+          32
+        ],
+        "discusiones.": [
+          33
+        ],
+        "De": [
+          34
+        ],
+        "ellas": [
+          35
+        ],
+        "destacan": [
+          36
+        ],
+        "dos": [
+          37
+        ],
+        "hipótesis:": [
+          38
+        ],
+        "1)": [
+          39
+        ],
+        "las": [
+          40,
+          115
+        ],
+        "unidades": [
+          41,
+          57
+        ],
+        "numidienses": [
+          42
+        ],
+        "alóctonas": [
+          43
+        ],
+        "se": [
+          44,
+          54,
+          119
+        ],
+        "apoyan": [
+          45
+        ],
+        "forma": [
+          47
+        ],
+        "anormal": [
+          50
+        ],
+        "tangencial,": [
+          51
+        ],
+        "2)": [
+          53
+        ],
+        "trata": [
+          55
+        ],
+        "autóctonas": [
+          58
+        ],
+        "(contacto": [
+          59
+        ],
+        "sedimentario": [
+          60
+        ],
+        "normal,": [
+          61
+        ],
+        "a": [
+          62
+        ],
+        "veces": [
+          63
+        ],
+        "tipo": [
+          65,
+          79
+        ],
+        "\"downlap\").El": [
+          66
+        ],
+        "levantamiento": [
+          67
+        ],
+        "cortes": [
+          69
+        ],
+        "litológicos": [
+          70
+        ],
+        "detallados": [
+          71
+        ],
+        "su": [
+          73
+        ],
+        "datación,": [
+          74
+        ],
+        "combinado": [
+          75
+        ],
+        "con": [
+          76
+        ],
+        "datos": [
+          77
+        ],
+        "geodinámico": [
+          80
+        ],
+        "petrogenético,": [
+          82
+        ],
+        "permitido": [
+          84
+        ],
+        "confirmar": [
+          85
+        ],
+        "la": [
+          86,
+          94,
+          103
+        ],
+        "ausencia": [
+          87
+        ],
+        "un": [
+          89
+        ],
+        "tectónico": [
+          91
+        ],
+        "tangencial": [
+          92
+        ],
+        "base": [
+          95
+        ],
+        "por": [
+          99,
+          130
+        ],
+        "contrario,": [
+          101
+        ],
+        "establecer": [
+          102
+        ],
+        "existencia": [
+          104
+        ],
+        "significativa": [
+          107
+        ],
+        "tectónica": [
+          108
+        ],
+        "terciaria": [
+          109
+        ],
+        "desarrollada": [
+          110
+        ],
+        "varias": [
+          112
+        ],
+        "fases.": [
+          113
+        ],
+        "Asi,": [
+          114
+        ],
+        "series": [
+          116
+        ],
+        "siliciclásticas": [
+          117
+        ],
+        "Numidienses": [
+          118
+        ],
+        "ven": [
+          120
+        ],
+        "afectadas,": [
+          121
+        ],
+        "como": [
+          122
+        ],
+        "otras": [
+          123
+        ],
+        "formaciones": [
+          124
+        ],
+        "terciarias": [
+          125
+        ],
+        "Túnez,": [
+          129
+        ],
+        "cabalgamientos": [
+          131
+        ],
+        "vergencia": [
+          133
+        ],
+        "SE.": [
+          134
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-05-06T08:25:59.206177",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W1966461395",
@@ -8301,9 +8302,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -9286,9 +9287,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -11132,9 +11133,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -11870,9 +11871,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -12285,9 +12286,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -14595,9 +14596,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
