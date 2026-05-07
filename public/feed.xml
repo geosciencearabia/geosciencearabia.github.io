@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Wed, 06 May 2026 21:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:57:56 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Early Devonian trace fossils from a marginal-marine deltaic setting of the Rhenish Slate Mountains (SW Germany)</title>
@@ -736,6 +736,20 @@
       <description>Topics: Palynology, Geology, Gondwana, Paleontology, Permian&#10;Venue: SSRN Electronic Journal&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>LLM-augmented taxonomy for &amp;gt;4500 palaeopalynology genera</title>
+      <link>https://doi.org/10.2139/ssrn.6696221</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7160391401</guid>
+      <dc:creator>Michael H. Stephenson, Jiaxi Yang, Alessandro Carniti, Shu-zhong Shen, Jun-xuan Fan, Jieping Ye</dc:creator>
+      <dc:publisher>SSRN Electronic Journal</dc:publisher>
+      <category>Compendium</category>
+      <category>Taxonomy (biology)</category>
+      <category>Paleontology</category>
+      <category>Context (archaeology)</category>
+      <category>Computer science</category>
+      <description>Topics: Compendium, Taxonomy (biology), Paleontology, Context (archaeology), Computer science&#10;Venue: SSRN Electronic Journal&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Test Dataset for ForamDeepSlice</title>
       <link>https://doi.org/10.25781/kaust-n8900</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
@@ -1369,20 +1383,6 @@
       <category>Seismic velocity</category>
       <category>Algorithm</category>
       <description>Abstract: This study presents a novel methodology for estimating accurate Normal Moveout (NMO) velocities by utilizing residual time shifts resulting from imperfect NMO corrections. The proposed method uses the residual static component that results from using incorrect NMO velocity to estimate a better velocity that minimizes this component of the statics solution. The proposed algorithm is tested on synthetic and real seismic datasets demonstrating its robustness and high accuracy. When compared with the best velocity obtained by an experienced processor, the velocity estimated via the proposed method shows only a 0.05% deviation from the true model velocity. Furthermore, application to real 2D seismic data from East Texas resulted in an estimated NMO velocity value that differed by only 0.6% from the value derived by an experienced processor. The algorithm minimizes the effects of human error, enhances seismic event flattening, and ultimately improves the signal-to-noise ratio (SNR), making it a valuable tool for subsurface imaging in complex geological environments.&#10;Topics: Statics, Residual, Robustness (evolution), Seismic velocity, Algorithm&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Stable carbon and oxygen isotopes of benthic and planktonic foraminifera as palaeoenvironmental and palaeoclimatic proxies for the Bartonian–Priabonian in northwestern Saudi Arabia</title>
-      <link>https://doi.org/10.7306/gq.1799</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415698517</guid>
-      <dc:creator>S. Allam, Asmaa Korin, Adhipa Herlambang, John Humphrey, Mohammed I. Alnajjar, Ahmed A. Bahameem, Abdullah Memesh, Iyad S. Zalmout, Michael A. Kaminski</dc:creator>
-      <dc:publisher>Geological Quarterly</dc:publisher>
-      <category>Foraminifera</category>
-      <category>Benthic zone</category>
-      <category>Geology</category>
-      <category>Plankton</category>
-      <category>Paleontology</category>
-      <description>Abstract: The Eocene epoch is known for its fluctuations in climate patterns and the dominance of global greenhouse climate. The Rashrashiyah Formation represents the middle to upper Eocene (biozones E13–E14) marine deposits of claystone to limestone in Saudi Arabia and contains well- to poorly-preserved planktonic and benthic foraminifera. Four different genera were selected for isotopic analysis (Acarinina spp., Subbotina spp., Cibicidoides spp., and Uvigerina spp.). Foraminiferal calcite was used to define the depth of habitat for each genus and mode of life. Four equations were used to infer palaeotemperatures from foraminiferal calcite; three equations are applicable for estimation of sea-surface temperatures (SST) from planktonic foraminifera data, while the fourth equation is applicable estimation of bottom-water temperatures using benthic foraminifera data. The mean SST derived from Acarinina spp. is ~38°C, while the mean bottom water temperature based on Uvigerina spp. is 26°C. Palaeotemperatures derived from this study are notably higher than those reported from this area in the existing literature. This discrepancy may be due to the unique palaeoclimatic and palaeogeographic conditions prevalent in the study area. The stable isotope curve is used to infer the transition between the Bartonian and Priabonian and the general cooling trend during this period.&#10;Topics: Foraminifera, Benthic zone, Geology, Plankton, Paleontology&#10;Venue: Geological Quarterly&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

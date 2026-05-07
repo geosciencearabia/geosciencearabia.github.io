@@ -1091,9 +1091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75,
           "display_name": "Life below water",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1618,9 +1618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2081,9 +2081,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3292,9 +3292,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4527,9 +4527,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5007,9 +5007,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4399999976158142,
           "display_name": "Life below water",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6332,7 +6332,7 @@
       "apc_paid": null,
       "fwci": 7.6579,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 37,
       "citation_normalized_percentile": {
         "value": 0.98198198,
         "is_in_top_1_percent": false,
@@ -6626,9 +6626,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705,
           "display_name": "Life below water",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7280,6 +7280,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -7336,7 +7340,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-05T08:41:31.759640",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -7812,9 +7816,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8420,9 +8424,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9547,9 +9551,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9949,11 +9953,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 12.6304,
+      "fwci": 12.641,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.98108027,
+        "value": 0.98112924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10123,16 +10127,18 @@
           "landing_page_url": "https://hal.science/hal-00172925",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -10234,7 +10240,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10544,9 +10550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11791,9 +11797,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12966,9 +12972,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6600000262260437,
           "display_name": "Climate action",
-          "score": 0.6600000262260437
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -13388,9 +13394,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13991,9 +13997,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15051,9 +15057,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16320,16 +16326,18 @@
         "landing_page_url": "https://hal.science/hal-01061435",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922466",
-          "display_name": "SPIRE - Sciences Po Institutional REpository",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -16393,6 +16401,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -16446,6 +16455,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -16499,6 +16509,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -16552,6 +16563,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -16576,6 +16588,7 @@
           "raw_affiliation_strings": [
             "CR2P - Centre de Recherche en Paléontologie - Paris (Muséum national d'Histoire naturelle - 8 rue Buffon - CP 38 - 75005 Paris - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "CR2P - Centre de Recherche en Paléontologie - Paris (Muséum national d'Histoire naturelle - 8 rue Buffon - CP 38 - 75005 Paris - France)",
@@ -16614,6 +16627,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -16666,6 +16680,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -16752,6 +16767,7 @@
           "raw_affiliation_strings": [
             "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)",
@@ -16796,6 +16812,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -16819,6 +16836,7 @@
           "raw_affiliation_strings": [
             "CR2P - Centre de Recherche en Paléontologie - Paris (Muséum national d'Histoire naturelle - 8 rue Buffon - CP 38 - 75005 Paris - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "CR2P - Centre de Recherche en Paléontologie - Paris (Muséum national d'Histoire naturelle - 8 rue Buffon - CP 38 - 75005 Paris - France)",
@@ -16869,6 +16887,7 @@
             "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex - France)",
             "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex - France)",
@@ -16915,6 +16934,7 @@
           "raw_affiliation_strings": [
             "ANDRA - Agence Nationale pour la Gestion des Déchets Radioactifs (Parc de la Croix Blanche,  rue Jean Monnet,  92298 Chatenay Malabry - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ANDRA - Agence Nationale pour la Gestion des Déchets Radioactifs (Parc de la Croix Blanche,  rue Jean Monnet,  92298 Chatenay Malabry - France)",
@@ -16980,6 +17000,7 @@
             "LFCR - Laboratoire des Fluides Complexes et leurs Réservoirs (LFCR (UMR 5150) -  Avenue de l'Université - BP1155, 64013 Pau - France)",
             "LFCR - Laboratoire des Fluides Complexes et leurs Réservoirs (BP 1155 - 64013 Pau - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LFCR - Laboratoire des Fluides Complexes et leurs Réservoirs (LFCR (UMR 5150) -  Avenue de l'Université - BP1155, 64013 Pau - France)",
@@ -17024,6 +17045,7 @@
           "raw_affiliation_strings": [
             "UFR SVTE - UFR Sciences de la Vie, de la Terre et de l'Environnement (Université de Bourgogne) (6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UFR SVTE - UFR Sciences de la Vie, de la Terre et de l'Environnement (Université de Bourgogne) (6 boulevard Gabriel - 21000 Dijon - France)",
@@ -17046,11 +17068,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1881,
+      "fwci": 1.1895,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.77907339,
+        "value": 0.77923999,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17308,16 +17330,18 @@
           "landing_page_url": "https://hal.science/hal-01061435",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -17336,16 +17360,18 @@
         "landing_page_url": "https://hal.science/hal-01061435",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922466",
-          "display_name": "SPIRE - Sciences Po Institutional REpository",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -17359,9 +17385,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17500,7 +17526,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-05T06:20:22.020780",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17943,21 +17969,21 @@
           "is_corresponding": false,
           "raw_author_name": "Marie-Françoise Brunet",
           "raw_affiliation_strings": [
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
               "institution_ids": [
                 "https://openalex.org/I4210097099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -18262,21 +18288,21 @@
           "is_corresponding": false,
           "raw_author_name": "Pieter T. Visscher",
           "raw_affiliation_strings": [
-            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
-            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)"
+            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
               "institution_ids": [
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I177064439"
               ]
-            },
-            {
-              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-              "institution_ids": []
             }
           ]
         }
@@ -18717,16 +18743,18 @@
           "landing_page_url": "https://hal.science/hal-02511298",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -18744,16 +18772,18 @@
           "landing_page_url": "https://hal.sorbonne-universite.fr/hal-03625451",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -18796,9 +18826,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18980,7 +19010,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19482,9 +19512,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19854,9 +19884,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20129,6 +20159,7 @@
             "Univ. P. et M. Curie, Paris, France",
             "LRBB - LABORATOIRE DE RHEOLOGIE DU BOIS DE BORDEAUX (69, route d'Arcachon (Pierroton 33612 CESTAS CEDEX - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Univ. P. et M. Curie, Paris, France",
@@ -20152,6 +20183,7 @@
           "is_corresponding": false,
           "raw_author_name": "J. Dercourt",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20168,6 +20200,7 @@
           "raw_affiliation_strings": [
             "TPAO (TPAO, Exploration Group, M. Kemal Mah., 06520 Ankara, Turkey - Turkey)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "TPAO (TPAO, Exploration Group, M. Kemal Mah., 06520 Ankara, Turkey - Turkey)",
@@ -20208,6 +20241,7 @@
           "raw_affiliation_strings": [
             "IM2NP - Institut des Matériaux, de Microélectronique et des Nanosciences de Provence (Faculté des Sciences\r\nAvenue Escadrille Normandie Niemen\r\nCase 142\r\n13397 Marseille Cedex 20 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "IM2NP - Institut des Matériaux, de Microélectronique et des Nanosciences de Provence (Faculté des Sciences\r\nAvenue Escadrille Normandie Niemen\r\nCase 142\r\n13397 Marseille Cedex 20 - France)",
@@ -20231,6 +20265,7 @@
           "raw_affiliation_strings": [
             "TPAO (TPAO, Exploration Group, M. Kemal Mah., 06520 Ankara, Turkey - Turkey)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "TPAO (TPAO, Exploration Group, M. Kemal Mah., 06520 Ankara, Turkey - Turkey)",
@@ -20252,6 +20287,7 @@
           "raw_affiliation_strings": [
             "UR EMGR - Ecosystèmes montagnards (2 rue de la Papeterie-BP 76, F-38402 Saint-Martin-d'Hères - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UR EMGR - Ecosystèmes montagnards (2 rue de la Papeterie-BP 76, F-38402 Saint-Martin-d'Hères - France)",
@@ -20335,6 +20371,7 @@
           "raw_affiliation_strings": [
             "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)",
@@ -20360,6 +20397,7 @@
           "is_corresponding": false,
           "raw_author_name": "P. Cros",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20376,6 +20414,7 @@
           "raw_affiliation_strings": [
             "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)",
@@ -20395,6 +20434,7 @@
           "is_corresponding": false,
           "raw_author_name": "R. Enay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20409,6 +20449,7 @@
           "is_corresponding": false,
           "raw_author_name": "J. Hernandez",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20423,6 +20464,7 @@
           "is_corresponding": false,
           "raw_author_name": "J. P. Lauer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -20437,6 +20479,7 @@
           "is_corresponding": false,
           "raw_author_name": "B. Vrielynck",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -20453,7 +20496,7 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 2.5838,
+      "fwci": 2.5837,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
@@ -20627,16 +20670,18 @@
           "landing_page_url": "https://hal.science/hal-03274775",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -20722,7 +20767,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-15T08:11:43.952461",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21178,9 +21223,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5299999713897705,
           "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21753,9 +21798,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22353,9 +22398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22872,9 +22917,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24025,9 +24070,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24432,9 +24477,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25152,9 +25197,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27293,9 +27338,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30812,9 +30857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31816,9 +31861,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32334,9 +32379,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32818,9 +32863,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33342,9 +33387,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5,
           "display_name": "Life below water",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33874,9 +33919,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.550000011920929,
           "display_name": "Life below water",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -34189,9 +34234,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6100000143051147,
           "display_name": "Life below water",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -34597,9 +34642,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6399999856948853,
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36050,9 +36095,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36624,9 +36669,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6100000143051147,
           "display_name": "Life below water",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -37366,9 +37411,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38954,9 +38999,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5,
           "display_name": "Life below water",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -39744,9 +39789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -40281,9 +40326,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6000000238418579,
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -40795,9 +40840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41426,9 +41471,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41828,9 +41873,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4099999964237213,
           "display_name": "Climate action",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -42185,9 +42230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4699999988079071,
           "display_name": "Life below water",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -42800,9 +42845,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -43734,9 +43779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4000000059604645,
           "display_name": "Life below water",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44384,9 +44429,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104,
           "display_name": "Life below water",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -46460,9 +46505,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -47866,9 +47911,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -48288,9 +48333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7599999904632568,
           "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -48698,9 +48743,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -49414,9 +49459,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -50109,9 +50154,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929,
           "display_name": "Life in Land",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -50856,9 +50901,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -51358,9 +51403,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -51660,9 +51705,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6100000143051147,
           "display_name": "Life in Land",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -52061,9 +52106,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -52495,9 +52540,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -52923,9 +52968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -53434,9 +53479,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -53920,9 +53965,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -54289,9 +54334,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5299999713897705,
           "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -55800,9 +55845,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -56432,9 +56477,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58002,9 +58047,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4000000059604645,
           "display_name": "Life below water",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -59233,9 +59278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -60165,9 +60210,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.7699999809265137,
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "awards": [],
@@ -61401,9 +61446,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -61474,16 +61519,18 @@
         "landing_page_url": "https://hal.science/hal-03981549",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922461",
-          "display_name": "SPIRE - Sciences Po Institutional REpository",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -61518,6 +61565,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -61539,6 +61587,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -61589,6 +61638,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -61642,6 +61692,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -61683,6 +61734,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -61723,6 +61775,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -61759,6 +61812,7 @@
           "raw_affiliation_strings": [
             "UB - Université de Bourgogne (Maison de l'université - Esplanade Érasme - BP 27877 - 21078 Dijon cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UB - Université de Bourgogne (Maison de l'université - Esplanade Érasme - BP 27877 - 21078 Dijon cedex - France)",
@@ -61773,7 +61827,7 @@
           "author": {
             "id": "https://openalex.org/A5091837089",
             "display_name": "Marie‐Françoise Brunet",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4130-3679"
           },
           "institutions": [
             {
@@ -61799,6 +61853,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -61884,6 +61939,7 @@
           "raw_affiliation_strings": [
             "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)",
@@ -61973,6 +62029,7 @@
           "raw_affiliation_strings": [
             "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)",
@@ -62033,6 +62090,7 @@
             "I2M-BX - Institut de Mécanique et d'Ingénierie de Bordeaux (F-33400 Talence - France)",
             "I2M - Institut de Mécanique et d'Ingénierie (F-33400 Talence - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "I2M-BX - Institut de Mécanique et d'Ingénierie de Bordeaux (F-33400 Talence - France)",
@@ -62064,6 +62122,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -62115,6 +62174,7 @@
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
             "Departments of Marine Sciences and Geoscience (Storrs\r\nCT 06340 - United States)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -62143,7 +62203,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11686228,
+        "value": 0.11642482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62252,16 +62312,18 @@
           "landing_page_url": "https://hal.science/hal-03981549",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922461",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -62306,7 +62368,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-29T06:06:40.170366",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62326,16 +62388,18 @@
         "landing_page_url": "https://hal.science/hal-03981259",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922461",
-          "display_name": "SPIRE - Sciences Po Institutional REpository",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -62370,6 +62434,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -62391,6 +62456,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -62441,6 +62507,7 @@
           "raw_affiliation_strings": [
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -62463,6 +62530,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dupias, Victor",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -62496,6 +62564,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -62536,6 +62605,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -62572,6 +62642,7 @@
           "raw_affiliation_strings": [
             "UB - Université de Bourgogne (Maison de l'université - Esplanade Érasme - BP 27877 - 21078 Dijon cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UB - Université de Bourgogne (Maison de l'université - Esplanade Érasme - BP 27877 - 21078 Dijon cedex - France)",
@@ -62586,7 +62657,7 @@
           "author": {
             "id": "https://openalex.org/A5091837089",
             "display_name": "Marie‐Françoise Brunet",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4130-3679"
           },
           "institutions": [
             {
@@ -62612,6 +62683,7 @@
           "raw_affiliation_strings": [
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
@@ -62697,6 +62769,7 @@
           "raw_affiliation_strings": [
             "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "LGL-TPE - Laboratoire de Géologie de Lyon - Terre, Planètes, Environnement (Université Claude Bernard, Lyon1 - Campus de la Doua, bâtiment Géode - 2, rue Raphaël Dubois - 69622 Villeurbanne Cedex\r\nÉcole Normale Supérieure de Lyon - 46, Allée d'Italie - 69364 Lyon cedex 07\r\nUniversité Jean Monnet - Faculté des Sciences et Techniques - 23 rue du Dr Paul Michalon - 42023 Saint Étienne Cedex 02\r\nUMR CNRS 5276 - France)",
@@ -62740,6 +62813,7 @@
           "raw_affiliation_strings": [
             "PEPS - PaleoEnvironnements et PaleobioSphere (Campus de la Doua, Bâtiment GEODE 2 rue Raphaël Dubois 69622 Villeurbanne cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "PEPS - PaleoEnvironnements et PaleobioSphere (Campus de la Doua, Bâtiment GEODE 2 rue Raphaël Dubois 69622 Villeurbanne cedex - France)",
@@ -62774,8 +62848,7 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I196454796",
-                "https://openalex.org/I4405258862"
+                "https://openalex.org/I196454796"
               ]
             },
             {
@@ -62797,6 +62870,7 @@
           "raw_affiliation_strings": [
             "TBI-I2M - I2M - Ingénierie moleculaire et metabolique (TBI\r\nIngénierie moleculaire et metabolique EAD11\r\n INSA/CNRS 5504  \r\nUMR INSA/INRA 792\r\n135 avenue de Rangueil\r\n31077 Toulouse CEDEX 04 - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "TBI-I2M - I2M - Ingénierie moleculaire et metabolique (TBI\r\nIngénierie moleculaire et metabolique EAD11\r\n INSA/CNRS 5504  \r\nUMR INSA/INRA 792\r\n135 avenue de Rangueil\r\n31077 Toulouse CEDEX 04 - France)",
@@ -62822,6 +62896,7 @@
           "raw_affiliation_strings": [
             "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géoressources et environnement (Institut EGID 3 1, allée Daguin F-33607 Pessac cedex - France)",
@@ -62873,6 +62948,7 @@
             "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
             "Departments of Marine Sciences and Geoscience (Storrs\r\nCT 06340 - United States)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
@@ -62901,7 +62977,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34486986,
+        "value": 0.34509922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63036,16 +63112,18 @@
           "landing_page_url": "https://hal.science/hal-03981259",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922461",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -63061,9 +63139,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -63096,7 +63174,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-21T06:16:09.471975",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {

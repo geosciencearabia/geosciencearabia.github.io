@@ -13431,6 +13431,7 @@
           "is_corresponding": true,
           "raw_author_name": "Peter Homewood",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13445,6 +13446,7 @@
           "is_corresponding": false,
           "raw_author_name": "Philippe Razin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13459,6 +13461,7 @@
           "is_corresponding": false,
           "raw_author_name": "Carine Grélaud",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13473,6 +13476,7 @@
           "is_corresponding": false,
           "raw_author_name": "Henk Droste",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13487,6 +13491,7 @@
           "is_corresponding": false,
           "raw_author_name": "Volker Vahrenkamp",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13501,6 +13506,7 @@
           "is_corresponding": false,
           "raw_author_name": "Monique Mettraux",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -13515,6 +13521,7 @@
           "is_corresponding": false,
           "raw_author_name": "Joerg Mattner",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -13527,16 +13534,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2062,
+      "fwci": 6.2378,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.95816906,
+        "value": 0.95882201,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -13816,16 +13823,18 @@
           "landing_page_url": "https://hal.science/hal-05085523",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -14902,7 +14911,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {

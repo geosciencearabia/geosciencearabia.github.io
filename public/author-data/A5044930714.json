@@ -1883,11 +1883,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.2637,
+      "fwci": 135.3766,
       "has_fulltext": true,
-      "cited_by_count": 185,
+      "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99962216,
+        "value": 0.99962246,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2766,9 +2766,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -2933,7 +2933,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -2972,7 +2972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-04T08:30:34.212998",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3782,11 +3782,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 32.0817,
+      "fwci": 32.0812,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99372815,
+        "value": 0.99372828,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4346,9 +4346,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -4575,7 +4575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5240,9 +5240,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -6347,9 +6347,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10453,9 +10453,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [
@@ -11703,7 +11703,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -11751,7 +11751,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -11960,7 +11960,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -12008,7 +12008,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -12622,9 +12622,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -13210,7 +13210,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13925,9 +13925,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -16787,6 +16787,7 @@
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
@@ -16823,6 +16824,7 @@
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
@@ -16846,6 +16848,7 @@
           "raw_affiliation_strings": [
             "Géologie des Systèmes Carbonatés"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géologie des Systèmes Carbonatés",
@@ -16881,6 +16884,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
@@ -16918,6 +16922,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
@@ -16939,11 +16944,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0611,
+      "fwci": 2.0598,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.84676864,
+        "value": 0.8467526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17252,16 +17257,18 @@
           "landing_page_url": "https://brgm.hal.science/hal-00721939",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -17305,9 +17312,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -18375,7 +18382,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-04T16:13:02.066488",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18882,9 +18889,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -19360,9 +19367,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -20486,9 +20493,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -21519,11 +21526,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5493,
+      "fwci": 1.5476,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.85768637,
+        "value": 0.8576487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21875,16 +21882,18 @@
           "landing_page_url": "https://brgm.hal.science/hal-04438935",
           "pdf_url": "https://brgm.hal.science/hal-04438935/document",
           "source": {
-            "id": "https://openalex.org/S4406922466",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -22663,7 +22672,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22744,6 +22753,7 @@
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM); Géologie des systémes et des réservoirs carbonatés - EA4234"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM); Géologie des systémes et des réservoirs carbonatés - EA4234",
@@ -22780,6 +22790,7 @@
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
@@ -22817,6 +22828,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
@@ -22854,6 +22866,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
@@ -22875,11 +22888,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4777,
+      "fwci": 0.4782,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7388099,
+        "value": 0.73903884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23228,16 +23241,18 @@
           "landing_page_url": "https://brgm.hal.science/hal-00623499",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922461",
-            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -23565,7 +23580,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-05T17:49:38.594831",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24168,9 +24183,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
