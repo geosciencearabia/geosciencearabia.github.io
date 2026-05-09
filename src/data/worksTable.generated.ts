@@ -3358,36 +3358,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W1997401669",
-    "doi": "https://doi.org/10.1016/0195-6671(91)90016-6",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681",
-      "A5054234997"
-    ],
-    "firstAuthorLastName": "Alsharhan",
-    "allAuthors": [
-      "Abdulrahman S. Alsharhan",
-      "Christopher Kendall"
-    ],
-    "title": "Cretaceous chronostratigraphy, unconformities and eustatic sealevel changes in the sediments of Abu Dhabi, United Arab Emirates",
-    "publicationDate": "1991-08-01",
-    "year": 1991,
-    "venue": "Cretaceous Research",
-    "citations": 63,
-    "fwci": 4.0538,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "United Arab Emirates University",
-      "University of South Carolina"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2152190278",
     "doi": "https://doi.org/10.2112/1551-5036(2004)020[0464:gaacos]2.0.co;2",
     "program": "",
@@ -3494,7 +3464,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1994,
     "venue": "AAPG Bulletin",
     "citations": 54,
-    "fwci": 2.781,
+    "fwci": 2.7814,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -4151,37 +4121,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3127496043",
-    "doi": "https://doi.org/10.2113/geoarabia1302141",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681",
-      "A5054234997",
-      "A5063559441"
-    ],
-    "firstAuthorLastName": "Alsharhan",
-    "allAuthors": [
-      "Abdulrahman S. Alsharhan",
-      "Christopher Kendall",
-      "Ahmad Saqer Al-Suwaidi"
-    ],
-    "title": "Abstracts of the International Conferences on Evaporite Stratigraphy, Structure and Geochemistry, and their role in Hydrocarbon Exploration and Exploitation",
-    "publicationDate": "2008-04-01",
-    "year": 2008,
-    "venue": "GeoArabia",
-    "citations": 1,
-    "fwci": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena"
-    ],
-    "institutions": [
-      "United Arab Emirates University",
-      "University of South Carolina"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2124157627",
     "doi": "https://doi.org/10.1306/ad462b19-16f7-11d7-8645000102c1865d",
     "program": "",
@@ -4205,6 +4144,36 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
+      "University of South Carolina"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1997401669",
+    "doi": "https://doi.org/10.1016/0195-6671(91)90016-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681",
+      "A5054234997"
+    ],
+    "firstAuthorLastName": "Alsharhan",
+    "allAuthors": [
+      "Abdulrahman S. Alsharhan",
+      "Christopher Kendall"
+    ],
+    "title": "Cretaceous chronostratigraphy, unconformities and eustatic sealevel changes in the sediments of Abu Dhabi, United Arab Emirates",
+    "publicationDate": "1991-08-01",
+    "year": 1991,
+    "venue": "Cretaceous Research",
+    "citations": 63,
+    "fwci": 4.1185,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "United Arab Emirates University",
       "University of South Carolina"
     ]
   },
@@ -4574,6 +4543,37 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3127496043",
+    "doi": "https://doi.org/10.2113/geoarabia1302141",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681",
+      "A5054234997",
+      "A5063559441"
+    ],
+    "firstAuthorLastName": "Alsharhan",
+    "allAuthors": [
+      "Abdulrahman S. Alsharhan",
+      "Christopher Kendall",
+      "Ahmad Saqer Al-Suwaidi"
+    ],
+    "title": "Abstracts of the International Conferences on Evaporite Stratigraphy, Structure and Geochemistry, and their role in Hydrocarbon Exploration and Exploitation",
+    "publicationDate": "2008-04-01",
+    "year": 2008,
+    "venue": "GeoArabia",
+    "citations": 1,
+    "fwci": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "United Arab Emirates University",
+      "University of South Carolina"
+    ]
   },
   {
     "workId": "https://openalex.org/W1858972708",
@@ -8990,7 +8990,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Proceedings of the International Ocean Discovery Program. Expedition reports",
     "citations": 41,
-    "fwci": 17.0789,
+    "fwci": 17.0897,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological and Geochemical Analysis",
@@ -25596,7 +25596,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.2283,
+    "fwci": 2.2281,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -39728,8 +39728,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-04-29",
     "year": 2016,
     "venue": "Fuel",
-    "citations": 133,
-    "fwci": 8.1444,
+    "citations": 134,
+    "fwci": 8.1491,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -50596,7 +50596,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.3472,
+    "fwci": 1.3423,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -57399,7 +57399,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 10,
-    "fwci": 0.3069,
+    "fwci": 0.3068,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Marine and environmental studies",
@@ -67448,7 +67448,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
     "citations": 7,
-    "fwci": 0.9962,
+    "fwci": 0.996,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -69776,7 +69776,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5005,
+    "fwci": 18.4989,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -87157,7 +87157,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.3926,
+    "fwci": 135.399,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -87461,7 +87461,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.867,
+    "fwci": 2.8665,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -88137,8 +88137,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 636,
-    "fwci": 56.9103,
+    "citations": 637,
+    "fwci": 56.9154,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89561,7 +89561,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 75,
-    "fwci": 5.919,
+    "fwci": 5.9192,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93077,8 +93077,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-02-21",
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
-    "citations": 29,
-    "fwci": 7.846,
+    "citations": 30,
+    "fwci": 8.1119,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -104163,6 +104163,40 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2400592313",
+    "doi": "https://doi.org/10.1155/2016/1259094",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5051221143",
+    "allAuthorOpenAlexIds": [
+      "A5051221143",
+      "A5031200702",
+      "A5110933747",
+      "A5111646354"
+    ],
+    "firstAuthorLastName": "Benmohamed",
+    "allAuthors": [
+      "Mohamed Benmohamed",
+      "Rabah Alouani",
+      "Amel Jmayai",
+      "Abdesslem Ben Haj Amara",
+      "H. Ben Rhaïem"
+    ],
+    "title": "Morphological Analysis of White Cement Clinker Minerals: Discussion on the Crystallization-Related Defects",
+    "publicationDate": "2016-01-01",
+    "year": 2016,
+    "venue": "International Journal of Analytical Chemistry",
+    "citations": 27,
+    "fwci": 1.248,
+    "topics": [
+      "Concrete and Cement Materials Research",
+      "Mineral Processing and Grinding",
+      "Drilling and Well Engineering"
+    ],
+    "institutions": [
+      "University of Carthage"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2086655407",
     "doi": "https://doi.org/10.1016/j.petrol.2010.01.009",
     "program": "",
@@ -104236,40 +104270,6 @@ export const worksTable: WorkTableRecord[] = [
       "Tunis El Manar University",
       "University of Carthage",
       "Université Hassan 1er"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2400592313",
-    "doi": "https://doi.org/10.1155/2016/1259094",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5051221143",
-    "allAuthorOpenAlexIds": [
-      "A5051221143",
-      "A5031200702",
-      "A5110933747",
-      "A5111646354"
-    ],
-    "firstAuthorLastName": "Benmohamed",
-    "allAuthors": [
-      "Mohamed Benmohamed",
-      "Rabah Alouani",
-      "Amel Jmayai",
-      "Abdesslem Ben Haj Amara",
-      "H. Ben Rhaïem"
-    ],
-    "title": "Morphological Analysis of White Cement Clinker Minerals: Discussion on the Crystallization-Related Defects",
-    "publicationDate": "2016-01-01",
-    "year": 2016,
-    "venue": "International Journal of Analytical Chemistry",
-    "citations": 26,
-    "fwci": 1.2479,
-    "topics": [
-      "Concrete and Cement Materials Research",
-      "Mineral Processing and Grinding",
-      "Drilling and Well Engineering"
-    ],
-    "institutions": [
-      "University of Carthage"
     ]
   },
   {
@@ -107877,7 +107877,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
     "citations": 8,
-    "fwci": 3.265,
+    "fwci": 3.2645,
     "topics": [
       "Geological and Geophysical Studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -122543,8 +122543,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-07-01",
     "year": 2014,
     "venue": "GeoArabia",
-    "citations": 58,
-    "fwci": 7.7398,
+    "citations": 59,
+    "fwci": 7.7813,
     "topics": [
       "Geological and Geophysical Studies",
       "earthquake and tectonic studies",
@@ -123167,6 +123167,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4408878224",
+    "doi": "https://doi.org/10.1038/s41598-025-92219-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5065604764",
+      "A5054072678",
+      "A5013192472",
+      "A5060797133",
+      "A5052823454"
+    ],
+    "firstAuthorLastName": "Pensa",
+    "allAuthors": [
+      "Tihana Pensa",
+      "Guillaume Baby",
+      "Thomas Teillet",
+      "Antoine Delaunay",
+      "Antonio Delgado‐Huertas",
+      "Abdulkader M. Afifi"
+    ],
+    "title": "Evolution of carbonate platforms in the northeast Red Sea during the last 23 million years",
+    "publicationDate": "2025-03-25",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 3,
+    "fwci": 5.8127,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "Instituto Andaluz de Ciencias de la Tierra"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2115928868",
     "doi": "",
     "program": "",
@@ -123367,44 +123405,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Modeling and Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4408878224",
-    "doi": "https://doi.org/10.1038/s41598-025-92219-x",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5065604764",
-      "A5054072678",
-      "A5013192472",
-      "A5060797133",
-      "A5052823454"
-    ],
-    "firstAuthorLastName": "Pensa",
-    "allAuthors": [
-      "Tihana Pensa",
-      "Guillaume Baby",
-      "Thomas Teillet",
-      "Antoine Delaunay",
-      "Antonio Delgado‐Huertas",
-      "Abdulkader M. Afifi"
-    ],
-    "title": "Evolution of carbonate platforms in the northeast Red Sea during the last 23 million years",
-    "publicationDate": "2025-03-25",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 2,
-    "fwci": 3.95,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "King Abdullah University of Science and Technology",
-      "Instituto Andaluz de Ciencias de la Tierra"
-    ]
   },
   {
     "workId": "https://openalex.org/W4220732712",
@@ -129448,8 +129448,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-05-05",
     "year": 2023,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 18,
-    "fwci": 14.805,
+    "citations": 20,
+    "fwci": 15.4417,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -131132,37 +131132,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2965506511",
-    "doi": "https://doi.org/10.17161/to.v0i0.11672",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5084630459",
-    "allAuthorOpenAlexIds": [
-      "A5084630459",
-      "A5057544445"
-    ],
-    "firstAuthorLastName": "Énay",
-    "allAuthors": [
-      "Raymond Énay",
-      "Michael K. Howarth"
-    ],
-    "title": "Treatise Online no. 120: Part L, Volume 3B, Chapter 7: Systematic Descriptions of the Perisphinctoidea",
-    "publicationDate": "2019-03-19",
-    "year": 2019,
-    "venue": "Treatise Online",
-    "citations": 8,
-    "fwci": 0.2212,
-    "topics": [
-      "Head and Neck Anomalies",
-      "Oropharyngeal Anatomy and Pathologies",
-      "Law, logistics, and international trade"
-    ],
-    "institutions": [
-      "Laboratoire de Sciences de la Terre",
-      "Université Claude Bernard Lyon 1",
-      "Natural History Museum"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2243805225",
     "doi": "https://doi.org/10.18814/epiiugs/1997/v20i1/004",
     "program": "",
@@ -131348,7 +131317,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
     "citations": 16,
-    "fwci": 1.1895,
+    "fwci": 1.1892,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -131412,7 +131381,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 14,
-    "fwci": 3.2392,
+    "fwci": 3.2391,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131464,6 +131433,37 @@ export const worksTable: WorkTableRecord[] = [
       "Université Claude Bernard Lyon 1",
       "Centre National de la Recherche Scientifique",
       "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2965506511",
+    "doi": "https://doi.org/10.17161/to.v0i0.11672",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5057544445"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Michael K. Howarth"
+    ],
+    "title": "Treatise Online no. 120: Part L, Volume 3B, Chapter 7: Systematic Descriptions of the Perisphinctoidea",
+    "publicationDate": "2019-03-19",
+    "year": 2019,
+    "venue": "Treatise Online",
+    "citations": 8,
+    "fwci": 0.2215,
+    "topics": [
+      "Head and Neck Anomalies",
+      "Oropharyngeal Anatomy and Pathologies",
+      "Law, logistics, and international trade"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre",
+      "Université Claude Bernard Lyon 1",
+      "Natural History Museum"
     ]
   },
   {
@@ -142760,7 +142760,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-12-01",
     "year": 2009,
     "venue": "Carbonates and Evaporites",
-    "citations": 10,
+    "citations": 11,
     "fwci": 0,
     "topics": [
       "Geological formations and processes",

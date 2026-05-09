@@ -28,7 +28,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 91,
-    "cited_by_count": 1359,
+    "cited_by_count": 1360,
     "summary_stats": {
       "2yr_mean_citedness": 2.081081081081081,
       "h_index": 21,
@@ -396,7 +396,7 @@
         "year": 2009,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 110
+        "cited_by_count": 111
       },
       {
         "year": 2010,
@@ -508,7 +508,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-05-06T12:19:59",
+    "updated_date": "2026-05-08T12:23:59",
     "created_date": "2019-12-13T00:00:00"
   },
   "works": [
@@ -7274,10 +7274,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://hal.science/hal-00495021",
-        "any_repository_has_fulltext": true
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -7295,6 +7295,7 @@
             "Department of Earth Sciences [Uppsala]",
             "AGR Petroleum"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences [Uppsala]",
@@ -7320,6 +7321,7 @@
           "raw_affiliation_strings": [
             "Departamento de Petrología y Geoquímica, Facultad de Geologia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departamento de Petrología y Geoquímica, Facultad de Geologia",
@@ -7341,6 +7343,7 @@
           "raw_affiliation_strings": [
             "Departamento de Petrología y Geoquímica, Facultad de Geologia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departamento de Petrología y Geoquímica, Facultad de Geologia",
@@ -7363,6 +7366,7 @@
             "Department of Earth Sciences [Uppsala]",
             "Department of Petroleum Geosciences"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences [Uppsala]",
@@ -7388,6 +7392,7 @@
           "raw_affiliation_strings": [
             "Departament de Geologia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Departament de Geologia",
@@ -7425,6 +7430,7 @@
             "SPIN-ENSMSE -\n        Centre Sciences des Processus Industriels et Naturels",
             "GENERIC-ENSMSE -\n        Département Géochimie, environnement, écoulement, réacteurs industriels et cristallisation"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SPIN-ENSMSE -\n        Centre Sciences des Processus Industriels et Naturels",
@@ -7452,6 +7458,7 @@
           "raw_affiliation_strings": [
             "ESCET"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ESCET",
@@ -7473,6 +7480,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Geosciences"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Geosciences",
@@ -7494,6 +7502,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences [Oslo]"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences [Oslo]",
@@ -7515,7 +7524,7 @@
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.92696452,
+        "value": 0.9269315,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7839,7 +7848,7 @@
         },
         {
           "id": "pmh:oai:HAL:hal-00495021v1",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://hal.science/hal-00495021",
           "pdf_url": null,
           "source": {
@@ -7858,8 +7867,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -7867,35 +7876,7 @@
           "raw_type": "Journal articles"
         }
       ],
-      "best_oa_location": {
-        "id": "pmh:oai:HAL:hal-00495021v1",
-        "is_oa": true,
-        "landing_page_url": "https://hal.science/hal-00495021",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Journal of Sedimentary Research, 2009, 79 (9), pp.711-735. &#x27E8;10.2110/jsr.2009.060&#x27E9;",
-        "raw_type": "Journal articles"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
@@ -8068,7 +8049,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-05-09T13:55:54.758798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
