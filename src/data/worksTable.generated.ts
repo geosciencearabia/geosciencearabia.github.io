@@ -2921,8 +2921,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-01-01",
     "year": 2003,
     "venue": "AAPG Bulletin",
-    "citations": 209,
-    "fwci": 1.8972,
+    "citations": 210,
+    "fwci": 1.8982,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -49958,8 +49958,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-05-31",
     "year": 2024,
     "venue": "Water",
-    "citations": 21,
-    "fwci": 4.9033,
+    "citations": 22,
+    "fwci": 5.0895,
     "topics": [
       "Per- and polyfluoroalkyl substances research",
       "Toxic Organic Pollutants Impact",
@@ -50596,7 +50596,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.3384,
+    "fwci": 1.3361,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -69957,8 +69957,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2002-01-01",
     "year": 2002,
     "venue": "Geological Society London Special Publications",
-    "citations": 85,
-    "fwci": 5.1736,
+    "citations": 86,
+    "fwci": 5.1744,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -76967,6 +76967,42 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4366992704",
+    "doi": "https://doi.org/10.1007/s10347-023-00663-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5041363282",
+      "A5040957818",
+      "A5006230501",
+      "A5020524306"
+    ],
+    "firstAuthorLastName": "Carniti",
+    "allAuthors": [
+      "Alessandro P. Carniti",
+      "Giovanna Della Porta",
+      "Vanessa Banks",
+      "Michael H. Stephenson",
+      "Lucia Angiolini"
+    ],
+    "title": "Revisiting the upper Visean mud mounds from Derbyshire (UK): the role of brachiopods in their growth",
+    "publicationDate": "2023-04-01",
+    "year": 2023,
+    "venue": "Facies",
+    "citations": 4,
+    "fwci": 0.8182,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Milan",
+      "British Geological Survey"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4388701331",
     "doi": "https://doi.org/10.1134/s0869593823060047",
     "program": "",
@@ -77302,6 +77338,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1912138828",
+    "doi": "https://doi.org/10.1111/j.1365-3121.2011.01032.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5020524306",
+      "A5004366843",
+      "A5036309577",
+      "A5112517301",
+      "A5024795781",
+      "A5028480475",
+      "A5113839055"
+    ],
+    "firstAuthorLastName": "Angiolini",
+    "allAuthors": [
+      "Lucia Angiolini",
+      "Michael H. Stephenson",
+      "Melanie J. Leng",
+      "Flavio Jadoul",
+      "Dave Millward",
+      "Anthony E. Aldridge",
+      "Julian E. Andrews",
+      "Simon Chenery",
+      "Gareth Williams"
+    ],
+    "title": "Heterogeneity, cyclicity and diagenesis in a Mississippian brachiopod shell of palaeoequatorial Britain",
+    "publicationDate": "2011-11-02",
+    "year": 2011,
+    "venue": "Terra Nova",
+    "citations": 32,
+    "fwci": 3.3648,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "British Geological Survey",
+      "University of East Anglia"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2154028801",
     "doi": "https://doi.org/10.1144/0016-76492010-048",
     "program": "",
@@ -77342,46 +77421,66 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W1912138828",
-    "doi": "https://doi.org/10.1111/j.1365-3121.2011.01032.x",
+    "workId": "https://openalex.org/W2949181946",
+    "doi": "https://doi.org/10.1111/pala.12433",
     "program": "",
     "primaryAuthorOpenAlexId": "A5040147688",
     "allAuthorOpenAlexIds": [
       "A5040147688",
       "A5020524306",
+      "A5084413371",
+      "A5024000448",
+      "A5012863155",
+      "A5031795745",
+      "A5040957818",
+      "A5083519773",
+      "A5057413819",
       "A5004366843",
-      "A5036309577",
-      "A5112517301",
-      "A5024795781",
-      "A5028480475",
-      "A5113839055"
+      "A5026019385",
+      "A5047083721",
+      "A5069313466",
+      "A5032975996",
+      "A5006230501"
     ],
     "firstAuthorLastName": "Angiolini",
     "allAuthors": [
       "Lucia Angiolini",
-      "Michael H. Stephenson",
+      "Gaia Crippa",
+      "Karem Azmy",
+      "Giancarlo Capitani",
+      "Giorgia Confalonieri",
+      "Giovanna Della Porta",
+      "Erika Griesshaber",
+      "David A. T. Harper",
       "Melanie J. Leng",
-      "Flavio Jadoul",
-      "Dave Millward",
-      "Anthony E. Aldridge",
-      "Julian E. Andrews",
-      "Simon Chenery",
-      "Gareth Williams"
+      "Leah Nolan",
+      "Marco Orlandi",
+      "Renato Posenato",
+      "Wolfgang W. Schmahl",
+      "Vanessa Banks",
+      "Michael H. Stephenson"
     ],
-    "title": "Heterogeneity, cyclicity and diagenesis in a Mississippian brachiopod shell of palaeoequatorial Britain",
-    "publicationDate": "2011-11-02",
-    "year": 2011,
-    "venue": "Terra Nova",
-    "citations": 31,
-    "fwci": 3.3767,
+    "title": "The giants of the phylum Brachiopoda: a matter of diet?",
+    "publicationDate": "2019-06-10",
+    "year": 2019,
+    "venue": "Palaeontology",
+    "citations": 24,
+    "fwci": 5.3821,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Isotope Analysis in Ecology"
+      "Isotope Analysis in Ecology",
+      "Marine Biology and Ecology Research"
     ],
     "institutions": [
+      "University of Milan",
+      "Memorial University of Newfoundland",
+      "Ambiente Italia (Italy)",
+      "University of Turin",
+      "Ludwig-Maximilians-Universität München",
+      "Durham University",
       "British Geological Survey",
-      "University of East Anglia"
+      "University of Leicester",
+      "University of Ferrara"
     ]
   },
   {
@@ -77460,69 +77559,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Leicester",
       "British Geological Survey",
       "University of Nottingham"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2949181946",
-    "doi": "https://doi.org/10.1111/pala.12433",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5020524306",
-      "A5084413371",
-      "A5024000448",
-      "A5012863155",
-      "A5031795745",
-      "A5040957818",
-      "A5083519773",
-      "A5057413819",
-      "A5004366843",
-      "A5026019385",
-      "A5047083721",
-      "A5069313466",
-      "A5032975996",
-      "A5006230501"
-    ],
-    "firstAuthorLastName": "Angiolini",
-    "allAuthors": [
-      "Lucia Angiolini",
-      "Gaia Crippa",
-      "Karem Azmy",
-      "Giancarlo Capitani",
-      "Giorgia Confalonieri",
-      "Giovanna Della Porta",
-      "Erika Griesshaber",
-      "David A. T. Harper",
-      "Melanie J. Leng",
-      "Leah Nolan",
-      "Marco Orlandi",
-      "Renato Posenato",
-      "Wolfgang W. Schmahl",
-      "Vanessa Banks",
-      "Michael H. Stephenson"
-    ],
-    "title": "The giants of the phylum Brachiopoda: a matter of diet?",
-    "publicationDate": "2019-06-10",
-    "year": 2019,
-    "venue": "Palaeontology",
-    "citations": 23,
-    "fwci": 5.4014,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Isotope Analysis in Ecology",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "University of Milan",
-      "Memorial University of Newfoundland",
-      "Ambiente Italia (Italy)",
-      "University of Turin",
-      "Ludwig-Maximilians-Universität München",
-      "Durham University",
-      "British Geological Survey",
-      "University of Leicester",
-      "University of Ferrara"
     ]
   },
   {
@@ -77956,42 +77992,6 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Evolutionary Biology"
     ],
     "institutions": [
-      "British Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4366992704",
-    "doi": "https://doi.org/10.1007/s10347-023-00663-w",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5041363282",
-      "A5040957818",
-      "A5006230501",
-      "A5020524306"
-    ],
-    "firstAuthorLastName": "Carniti",
-    "allAuthors": [
-      "Alessandro P. Carniti",
-      "Giovanna Della Porta",
-      "Vanessa Banks",
-      "Michael H. Stephenson",
-      "Lucia Angiolini"
-    ],
-    "title": "Revisiting the upper Visean mud mounds from Derbyshire (UK): the role of brachiopods in their growth",
-    "publicationDate": "2023-04-01",
-    "year": 2023,
-    "venue": "Facies",
-    "citations": 3,
-    "fwci": 0.6222,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "University of Milan",
       "British Geological Survey"
     ]
   },
@@ -88190,8 +88190,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 457,
-    "fwci": 39.0664,
+    "citations": 458,
+    "fwci": 39.0708,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89524,7 +89524,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 81,
-    "fwci": 5.6914,
+    "fwci": 5.6919,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89792,6 +89792,45 @@ export const worksTable: WorkTableRecord[] = [
       "University of Adelaide",
       "Center for Excellence in Tibetan Plateau Earth Sciences",
       "Xinjiang Institute of Ecology and Geography"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2155463429",
+    "doi": "https://doi.org/10.1130/g21485ar.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052145913",
+      "A5046493662",
+      "A5024263885",
+      "A5010111647"
+    ],
+    "firstAuthorLastName": "Gutiérrez‐Alonso",
+    "allAuthors": [
+      "Gabriel Gutiérrez‐Alonso",
+      "Javier Fernández‐Suárez",
+      "Alan S. Collins",
+      "Isabel Abad",
+      "Fernando Nieto"
+    ],
+    "title": "Amazonian Mesoproterozoic basement in the core of the Ibero-Armorican Arc: 40Ar/39Ar detrital mica ages complement the zircon's tale",
+    "publicationDate": "2005-08-01",
+    "year": 2005,
+    "venue": "Geology",
+    "citations": 68,
+    "fwci": 2.4544,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies Worldwide",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Universidad de Salamanca",
+      "Universidad Complutense de Madrid",
+      "University of Adelaide",
+      "Universidad de Jaén",
+      "Universidad de Granada"
     ]
   },
   {
@@ -90067,6 +90106,66 @@ export const worksTable: WorkTableRecord[] = [
       "University of Adelaide",
       "Macquarie University",
       "University of Gothenburg"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2989827384",
+    "doi": "https://doi.org/10.1029/2019tc005781",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5101697987",
+      "A5064936522",
+      "A5111850139",
+      "A5005332589",
+      "A5080994736",
+      "A5053029204",
+      "A5110504212",
+      "A5014045729",
+      "A5024949000",
+      "A5100352605",
+      "A5031810631",
+      "A5100448578"
+    ],
+    "firstAuthorLastName": "Song",
+    "allAuthors": [
+      "Shuaihua Song",
+      "Wenjiao Xiao",
+      "Brian F. Windley",
+      "Alan S. Collins",
+      "Yi-Chao Chen",
+      "Ji’en Zhang",
+      "Karel Schulmann",
+      "Chunming Han",
+      "Bo Wan",
+      "Songjian Ao",
+      "Zhiyong Zhang",
+      "Dongfang Song",
+      "Rui Li"
+    ],
+    "title": "Late Paleozoic Chingiz and Saur Arc Amalgamation in West Junggar (NW China): Implications for Accretionary Tectonics in the Southern Altaids",
+    "publicationDate": "2020-06-03",
+    "year": 2020,
+    "venue": "Tectonics",
+    "citations": 31,
+    "fwci": 3.178,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Chinese Academy of Sciences",
+      "Institute of Geology and Geophysics",
+      "University of Chinese Academy of Sciences",
+      "Beijing Advanced Sciences and Innovation Center",
+      "Xinjiang Institute of Ecology and Geography",
+      "University of Leicester",
+      "The University of Adelaide",
+      "Centre National de la Recherche Scientifique",
+      "Czech Geological Survey",
+      "Université de Strasbourg"
     ]
   },
   {
@@ -91022,8 +91121,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2006-12-07",
     "year": 2006,
     "venue": "Journal of the Geological Society",
-    "citations": 74,
-    "fwci": 2.7206,
+    "citations": 75,
+    "fwci": 2.7229,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -91171,45 +91270,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Curtin University",
       "University of Dar es Salaam"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2155463429",
-    "doi": "https://doi.org/10.1130/g21485ar.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5052145913",
-      "A5046493662",
-      "A5024263885",
-      "A5010111647"
-    ],
-    "firstAuthorLastName": "Gutiérrez‐Alonso",
-    "allAuthors": [
-      "Gabriel Gutiérrez‐Alonso",
-      "Javier Fernández‐Suárez",
-      "Alan S. Collins",
-      "Isabel Abad",
-      "Fernando Nieto"
-    ],
-    "title": "Amazonian Mesoproterozoic basement in the core of the Ibero-Armorican Arc: 40Ar/39Ar detrital mica ages complement the zircon's tale",
-    "publicationDate": "2005-08-01",
-    "year": 2005,
-    "venue": "Geology",
-    "citations": 64,
-    "fwci": 2.4549,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies Worldwide",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Universidad de Salamanca",
-      "Universidad Complutense de Madrid",
-      "University of Adelaide",
-      "Universidad de Jaén",
-      "Universidad de Granada"
     ]
   },
   {
@@ -91745,8 +91805,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-01-17",
     "year": 2018,
     "venue": "Gondwana Research",
-    "citations": 47,
-    "fwci": 4.2134,
+    "citations": 48,
+    "fwci": 4.2285,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -92994,66 +93054,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2989827384",
-    "doi": "https://doi.org/10.1029/2019tc005781",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5101697987",
-      "A5064936522",
-      "A5111850139",
-      "A5005332589",
-      "A5080994736",
-      "A5053029204",
-      "A5110504212",
-      "A5014045729",
-      "A5024949000",
-      "A5100352605",
-      "A5031810631",
-      "A5100448578"
-    ],
-    "firstAuthorLastName": "Song",
-    "allAuthors": [
-      "Shuaihua Song",
-      "Wenjiao Xiao",
-      "Brian F. Windley",
-      "Alan S. Collins",
-      "Yi-Chao Chen",
-      "Ji’en Zhang",
-      "Karel Schulmann",
-      "Chunming Han",
-      "Bo Wan",
-      "Songjian Ao",
-      "Zhiyong Zhang",
-      "Dongfang Song",
-      "Rui Li"
-    ],
-    "title": "Late Paleozoic Chingiz and Saur Arc Amalgamation in West Junggar (NW China): Implications for Accretionary Tectonics in the Southern Altaids",
-    "publicationDate": "2020-06-03",
-    "year": 2020,
-    "venue": "Tectonics",
-    "citations": 30,
-    "fwci": 3.1771,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Chinese Academy of Sciences",
-      "Institute of Geology and Geophysics",
-      "University of Chinese Academy of Sciences",
-      "Beijing Advanced Sciences and Innovation Center",
-      "Xinjiang Institute of Ecology and Geography",
-      "University of Leicester",
-      "The University of Adelaide",
-      "Centre National de la Recherche Scientifique",
-      "Czech Geological Survey",
-      "Université de Strasbourg"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4321452586",
     "doi": "https://doi.org/10.1038/s43017-022-00384-8",
     "program": "",
@@ -93077,8 +93077,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-02-21",
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
-    "citations": 30,
-    "fwci": 8.1119,
+    "citations": 31,
+    "fwci": 8.3706,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -93388,6 +93388,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2990452611",
+    "doi": "https://doi.org/10.1029/2019jb018013",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5047873001",
+      "A5064936522"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Gilby Jepson",
+      "Wenjiao Xiao",
+      "Alan S. Collins"
+    ],
+    "title": "Late Paleozoic Exhumation of the West Junggar Mountains, NW China",
+    "publicationDate": "2019-11-23",
+    "year": 2019,
+    "venue": "Journal of Geophysical Research Solid Earth",
+    "citations": 24,
+    "fwci": 1.9448,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Curtin University",
+      "University of Adelaide",
+      "University of Arizona",
+      "Institute of Geology and Geophysics",
+      "Xinjiang Institute of Ecology and Geography"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4200407726",
     "doi": "https://doi.org/10.1016/j.jseaes.2021.105037",
     "program": "",
@@ -93462,45 +93501,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Adelaide",
       "Unity University College",
       "Government of Ethiopia"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2990452611",
-    "doi": "https://doi.org/10.1029/2019jb018013",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5090122630",
-      "A5057911678",
-      "A5047873001",
-      "A5064936522"
-    ],
-    "firstAuthorLastName": "Gillespie",
-    "allAuthors": [
-      "Jack Gillespie",
-      "Stijn Glorie",
-      "Gilby Jepson",
-      "Wenjiao Xiao",
-      "Alan S. Collins"
-    ],
-    "title": "Late Paleozoic Exhumation of the West Junggar Mountains, NW China",
-    "publicationDate": "2019-11-23",
-    "year": 2019,
-    "venue": "Journal of Geophysical Research Solid Earth",
-    "citations": 23,
-    "fwci": 1.9081,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "Curtin University",
-      "University of Adelaide",
-      "University of Arizona",
-      "Institute of Geology and Geophysics",
-      "Xinjiang Institute of Ecology and Geography"
     ]
   },
   {

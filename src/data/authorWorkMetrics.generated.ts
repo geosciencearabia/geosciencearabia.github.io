@@ -5485,6 +5485,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5040147688",
+    "year": 2023,
+    "citations": 4
+  },
+  {
+    "authorId": "A5040147688",
     "year": 2008,
     "citations": 44
   },
@@ -5511,7 +5516,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5040147688",
     "year": 2019,
-    "citations": 23
+    "citations": 24
   },
   {
     "authorId": "A5040147688",
@@ -5527,11 +5532,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5040147688",
     "year": 2006,
     "citations": 6
-  },
-  {
-    "authorId": "A5040147688",
-    "year": 2023,
-    "citations": 3
   },
   {
     "authorId": "A5040147688",
@@ -6246,7 +6246,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5046466285",
     "year": 2020,
-    "citations": 457
+    "citations": 458
   },
   {
     "authorId": "A5046466285",
@@ -6360,6 +6360,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5046466285",
+    "year": 2005,
+    "citations": 68
+  },
+  {
+    "authorId": "A5046466285",
     "year": 2017,
     "citations": 62
   },
@@ -6382,6 +6387,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5046466285",
     "year": 2021,
     "citations": 32
+  },
+  {
+    "authorId": "A5046466285",
+    "year": 2020,
+    "citations": 31
   },
   {
     "authorId": "A5046466285",
@@ -6456,12 +6466,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5046466285",
     "year": 2006,
-    "citations": 74
-  },
-  {
-    "authorId": "A5046466285",
-    "year": 2005,
-    "citations": 64
+    "citations": 75
   },
   {
     "authorId": "A5046466285",
@@ -6575,13 +6580,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5046466285",
-    "year": 2020,
-    "citations": 30
-  },
-  {
-    "authorId": "A5046466285",
     "year": 2023,
-    "citations": 30
+    "citations": 31
   },
   {
     "authorId": "A5046466285",
