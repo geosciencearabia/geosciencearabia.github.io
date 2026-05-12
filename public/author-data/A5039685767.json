@@ -14,7 +14,7 @@
     ],
     "full_name": "Vecoli, Marco",
     "works_count": 131,
-    "cited_by_count": 3050,
+    "cited_by_count": 3054,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 34,
@@ -31,7 +31,7 @@
           "ror": "https://ror.org/02feahw73",
           "display_name": "Centre National de la Recherche Scientifique",
           "country_code": "FR",
-          "type": "government",
+          "type": "funder",
           "lineage": [
             "https://openalex.org/I1294671590"
           ]
@@ -327,7 +327,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0003972,
+        "value": 0.0003971,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -344,7 +344,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.000122,
+        "value": 0.0001217,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -477,7 +477,7 @@
         "year": 2002,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 120
+        "cited_by_count": 121
       },
       {
         "year": 2003,
@@ -489,7 +489,7 @@
         "year": 2004,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 200
+        "cited_by_count": 201
       },
       {
         "year": 2005,
@@ -519,7 +519,7 @@
         "year": 2009,
         "works_count": 7,
         "oa_works_count": 0,
-        "cited_by_count": 253
+        "cited_by_count": 254
       },
       {
         "year": 2010,
@@ -543,7 +543,7 @@
         "year": 2013,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 97
+        "cited_by_count": 98
       },
       {
         "year": 2014,
@@ -629,7 +629,7 @@
     ],
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-05-10T12:25:35",
+    "updated_date": "2026-05-12T12:20:58",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1347,8 +1347,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -2039,6 +2039,7 @@
           "raw_affiliation_strings": [
             "Université Lille 1, UMR 8157 CNRS, 59655 Villeneuve d'Ascq cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université Lille 1, UMR 8157 CNRS, 59655 Villeneuve d'Ascq cedex, France",
@@ -2086,6 +2087,7 @@
           "raw_affiliation_strings": [
             "Université Lille 1, UMR 8157 CNRS, 59655 Villeneuve d'Ascq cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université Lille 1, UMR 8157 CNRS, 59655 Villeneuve d'Ascq cedex, France",
@@ -2113,11 +2115,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 13.9568,
+      "fwci": 14.0039,
       "has_fulltext": false,
-      "cited_by_count": 171,
+      "cited_by_count": 172,
       "citation_normalized_percentile": {
-        "value": 0.98798799,
+        "value": 0.98803249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2444,8 +2446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -2602,7 +2604,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2020,
@@ -2641,7 +2643,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3314,8 +3316,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 360,
@@ -5929,7 +5931,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 17,
+      "locations_count": 18,
       "locations": [
         {
           "id": "doi:10.1371/journal.pone.0099438",
@@ -6164,6 +6166,33 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:d53a6e1d647a4765b32402f59ee5e9e0",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/d53a6e1d647a4765b32402f59ee5e9e0",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "PLoS ONE, Vol 9, Iss 6, p e99438 (2014)",
+          "raw_type": "article"
         },
         {
           "id": "pmh:oai:dora:psi_8386",
@@ -6468,8 +6497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2115272001.pdf",
@@ -7069,7 +7098,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-11T08:15:01.531666",
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7686,8 +7715,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -8854,8 +8883,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -9741,11 +9770,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 12.226,
+      "fwci": 12.2298,
       "has_fulltext": false,
-      "cited_by_count": 133,
+      "cited_by_count": 134,
       "citation_normalized_percentile": {
-        "value": 0.98538073,
+        "value": 0.98538534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10145,8 +10174,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 161,
@@ -10328,6 +10357,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 6
         },
@@ -10384,7 +10417,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11236,8 +11269,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 230,
@@ -13083,8 +13116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -13762,8 +13795,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 226,
@@ -14586,8 +14619,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 185,
@@ -15866,8 +15899,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -16797,8 +16830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 180,
@@ -17484,8 +17517,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -18173,8 +18206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -19090,8 +19123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -20035,8 +20068,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -20799,8 +20832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -21840,8 +21873,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -22456,8 +22489,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -23213,8 +23246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -23976,8 +24009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -25115,8 +25148,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -25721,8 +25754,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -27110,9 +27143,9 @@
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
             "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -27122,12 +27155,6 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -27141,6 +27168,12 @@
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
               ]
             }
           ]
@@ -27161,11 +27194,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 3.754,
+      "fwci": 3.7541,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.9283177,
+        "value": 0.92831922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27603,8 +27636,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -27703,7 +27736,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-11T08:15:01.531666",
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28242,8 +28275,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -29417,8 +29450,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2761574567.pdf",
@@ -31020,8 +31053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -32200,8 +32233,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 131,
@@ -33033,8 +33066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -33968,8 +34001,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -34650,8 +34683,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -35410,8 +35443,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -36466,8 +36499,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -37108,8 +37141,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -38533,8 +38566,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -38902,8 +38935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39935,8 +39968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -40548,8 +40581,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -41330,8 +41363,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -42142,8 +42175,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -42688,8 +42721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43294,8 +43327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -44185,8 +44218,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -44711,8 +44744,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -45968,8 +46001,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -46925,8 +46958,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -47668,8 +47701,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 218,
@@ -48519,8 +48552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -48667,6 +48700,785 @@
         }
       ],
       "updated_date": "2026-04-04T16:13:02.066488",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2024600003",
+      "doi": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
+      "title": "Chitinozoan biostratigraphy across the Katian (Late Ordovician) GICE event in the Borenshult-1 drillcore (Sweden)",
+      "display_name": "Chitinozoan biostratigraphy across the Katian (Late Ordovician) GICE event in the Borenshult-1 drillcore (Sweden)",
+      "publication_year": 2013,
+      "publication_date": "2013-06-21",
+      "ids": {
+        "openalex": "https://openalex.org/W2024600003",
+        "doi": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
+        "mag": "2024600003"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.revpalbo.2013.05.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S43762691",
+          "display_name": "Review of Palaeobotany and Palynology",
+          "issn_l": "0034-6667",
+          "issn": [
+            "0034-6667",
+            "1879-0615"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Review of Palaeobotany and Palynology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059748866",
+            "display_name": "Lauren Pouille",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lauren Pouille",
+          "raw_affiliation_strings": [
+            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018450545",
+            "display_name": "Aurélien Delabroye",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Aurélien Delabroye",
+          "raw_affiliation_strings": [
+            "Ichron Limited, Century House, Gadbrook Business Centre, Nothwich CW97TL, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ichron Limited, Century House, Gadbrook Business Centre, Nothwich CW97TL, UK",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068985090",
+            "display_name": "Thijs R.A. Vandenbroucke",
+            "orcid": "https://orcid.org/0000-0002-8182-3708"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thijs R.A. Vandenbroucke",
+          "raw_affiliation_strings": [
+            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073822373",
+            "display_name": "Mikael Calner",
+            "orcid": "https://orcid.org/0000-0003-1096-3153"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I187531555",
+              "display_name": "Lund University",
+              "ror": "https://ror.org/012a77v79",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187531555"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mikael Calner",
+          "raw_affiliation_strings": [
+            "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I187531555"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031897318",
+            "display_name": "Oliver Lehnert",
+            "orcid": "https://orcid.org/0000-0002-4684-4108"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I187531555",
+              "display_name": "Lund University",
+              "ror": "https://ror.org/012a77v79",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187531555"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I181369854",
+              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+              "ror": "https://ror.org/00f7hpc57",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ],
+          "countries": [
+            "DE",
+            "SE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oliver Lehnert",
+          "raw_affiliation_strings": [
+            "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
+            "GeoZentrum Nordbayern, Friedrich-Alexander-Universität, Schlossgarten 5, D-91054 Erlangen, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I187531555"
+              ]
+            },
+            {
+              "raw_affiliation_string": "GeoZentrum Nordbayern, Friedrich-Alexander-Universität, Schlossgarten 5, D-91054 Erlangen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039685767",
+            "display_name": "Marco Vecoli",
+            "orcid": "https://orcid.org/0000-0001-9203-7625"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marco Vecoli",
+          "raw_affiliation_strings": [
+            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
+            "Saudi Aramco, Biostratigraphy Group, Geological Technical Services Division, EXPEC 2 Building, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, Biostratigraphy Group, Geological Technical Services Division, EXPEC 2 Building, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030180603",
+            "display_name": "Taniel Danelian",
+            "orcid": "https://orcid.org/0000-0001-9496-2363"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Taniel Danelian",
+          "raw_affiliation_strings": [
+            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5018450545"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 0.5458,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.79703173,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "198",
+        "issue": null,
+        "first_page": "134",
+        "last_page": "144"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10765",
+          "display_name": "Marine Biology and Ecology Research",
+          "score": 0.9973000288009644,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/biozone",
+          "display_name": "Biozone",
+          "score": 0.9905358552932739
+        },
+        {
+          "id": "https://openalex.org/keywords/ordovician",
+          "display_name": "Ordovician",
+          "score": 0.7170631289482117
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7103474140167236
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.612440288066864
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5588675737380981
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-carbon",
+          "display_name": "Isotopes of carbon",
+          "score": 0.5559476017951965
+        },
+        {
+          "id": "https://openalex.org/keywords/baltica",
+          "display_name": "Baltica",
+          "score": 0.43961718678474426
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "Total organic carbon",
+          "score": 0.19281306862831116
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.1668802797794342
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C164375970",
+          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
+          "display_name": "Biozone",
+          "level": 3,
+          "score": 0.9905358552932739
+        },
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.7170631289482117
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7103474140167236
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.612440288066864
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5588675737380981
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.5559476017951965
+        },
+        {
+          "id": "https://openalex.org/C2777040169",
+          "wikidata": "https://www.wikidata.org/wiki/Q805735",
+          "display_name": "Baltica",
+          "level": 3,
+          "score": 0.43961718678474426
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.19281306862831116
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.1668802797794342
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.revpalbo.2013.05.007",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S43762691",
+            "display_name": "Review of Palaeobotany and Palynology",
+            "issn_l": "0034-6667",
+            "issn": [
+              "0034-6667",
+              "1879-0615"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Review of Palaeobotany and Palynology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:archive.ugent.be:5645618",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/1854/LU-5645618",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400478",
+            "display_name": "Ghent University Academic Bibliography (Ghent University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I32597200",
+            "host_organization_name": "Ghent University",
+            "host_organization_lineage": [
+              "https://openalex.org/I32597200"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0034-6667",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:lup.lub.lu.se:3e0203e4-d27d-41de-8715-12a3b670558d",
+          "is_oa": false,
+          "landing_page_url": "https://lup.lub.lu.se/record/4157938",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400536",
+            "display_name": "Lund University Publications (Lund University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I187531555",
+            "host_organization_name": "Lund University",
+            "host_organization_lineage": [
+              "https://openalex.org/I187531555"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0034-6667",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 61,
+      "referenced_works": [
+        "https://openalex.org/W1446995999",
+        "https://openalex.org/W1740299152",
+        "https://openalex.org/W1854715208",
+        "https://openalex.org/W1867832424",
+        "https://openalex.org/W1891849076",
+        "https://openalex.org/W1964191410",
+        "https://openalex.org/W1969930381",
+        "https://openalex.org/W1971987203",
+        "https://openalex.org/W1976371459",
+        "https://openalex.org/W1982011013",
+        "https://openalex.org/W1986648489",
+        "https://openalex.org/W1993002307",
+        "https://openalex.org/W1993164662",
+        "https://openalex.org/W1998156982",
+        "https://openalex.org/W1998266710",
+        "https://openalex.org/W2003336507",
+        "https://openalex.org/W2006709416",
+        "https://openalex.org/W2008160096",
+        "https://openalex.org/W2009888428",
+        "https://openalex.org/W2024694476",
+        "https://openalex.org/W2024866792",
+        "https://openalex.org/W2028823240",
+        "https://openalex.org/W2034725312",
+        "https://openalex.org/W2047198568",
+        "https://openalex.org/W2047794692",
+        "https://openalex.org/W2053593932",
+        "https://openalex.org/W2063011872",
+        "https://openalex.org/W2070999255",
+        "https://openalex.org/W2079792015",
+        "https://openalex.org/W2080678623",
+        "https://openalex.org/W2082419916",
+        "https://openalex.org/W2083718959",
+        "https://openalex.org/W2102186595",
+        "https://openalex.org/W2105973155",
+        "https://openalex.org/W2106464844",
+        "https://openalex.org/W2113341958",
+        "https://openalex.org/W2115931436",
+        "https://openalex.org/W2116778085",
+        "https://openalex.org/W2118419715",
+        "https://openalex.org/W2121807415",
+        "https://openalex.org/W2127653301",
+        "https://openalex.org/W2146330028",
+        "https://openalex.org/W2156426644",
+        "https://openalex.org/W2163252553",
+        "https://openalex.org/W2243928923",
+        "https://openalex.org/W2279109272",
+        "https://openalex.org/W2331763853",
+        "https://openalex.org/W2333117800",
+        "https://openalex.org/W2464939118",
+        "https://openalex.org/W2739740976",
+        "https://openalex.org/W3002222432",
+        "https://openalex.org/W3154818544",
+        "https://openalex.org/W3209592575",
+        "https://openalex.org/W4245465792",
+        "https://openalex.org/W4245823893",
+        "https://openalex.org/W6628601297",
+        "https://openalex.org/W6690433207",
+        "https://openalex.org/W6719274126",
+        "https://openalex.org/W6793844627",
+        "https://openalex.org/W6931015663",
+        "https://openalex.org/W6941469787"
+      ],
+      "related_works": [
+        "https://openalex.org/W782260409",
+        "https://openalex.org/W2980852434",
+        "https://openalex.org/W2780222364",
+        "https://openalex.org/W937435502",
+        "https://openalex.org/W1964349907",
+        "https://openalex.org/W4317402492",
+        "https://openalex.org/W2013847698",
+        "https://openalex.org/W2116797101",
+        "https://openalex.org/W1998813094",
+        "https://openalex.org/W1992822928"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49423,8 +50235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 330,
@@ -50266,8 +51078,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -50899,8 +51711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -51642,8 +52454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -53293,8 +54105,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 135,
@@ -54118,8 +54930,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -54730,8 +55542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -55371,8 +56183,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -56045,8 +56857,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -56541,8 +57353,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58027,8 +58839,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -58810,8 +59622,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -59748,8 +60560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -60340,8 +61152,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61594,8 +62406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -62166,8 +62978,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63188,8 +64000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -64228,8 +65040,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65418,8 +66230,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2217563084.pdf"
@@ -65952,8 +66764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67125,8 +67937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -68349,8 +69161,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -68435,774 +69247,6 @@
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2024600003",
-      "doi": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
-      "title": "Chitinozoan biostratigraphy across the Katian (Late Ordovician) GICE event in the Borenshult-1 drillcore (Sweden)",
-      "display_name": "Chitinozoan biostratigraphy across the Katian (Late Ordovician) GICE event in the Borenshult-1 drillcore (Sweden)",
-      "publication_year": 2013,
-      "publication_date": "2013-06-21",
-      "ids": {
-        "openalex": "https://openalex.org/W2024600003",
-        "doi": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
-        "mag": "2024600003"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.revpalbo.2013.05.007",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S43762691",
-          "display_name": "Review of Palaeobotany and Palynology",
-          "issn_l": "0034-6667",
-          "issn": [
-            "0034-6667",
-            "1879-0615"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Review of Palaeobotany and Palynology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5059748866",
-            "display_name": "Lauren Pouille",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lauren Pouille",
-          "raw_affiliation_strings": [
-            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018450545",
-            "display_name": "Aurélien Delabroye",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Aurélien Delabroye",
-          "raw_affiliation_strings": [
-            "Ichron Limited, Century House, Gadbrook Business Centre, Nothwich CW97TL, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ichron Limited, Century House, Gadbrook Business Centre, Nothwich CW97TL, UK",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068985090",
-            "display_name": "Thijs R.A. Vandenbroucke",
-            "orcid": "https://orcid.org/0000-0002-8182-3708"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thijs R.A. Vandenbroucke",
-          "raw_affiliation_strings": [
-            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073822373",
-            "display_name": "Mikael Calner",
-            "orcid": "https://orcid.org/0000-0003-1096-3153"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I187531555",
-              "display_name": "Lund University",
-              "ror": "https://ror.org/012a77v79",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I187531555"
-              ]
-            }
-          ],
-          "countries": [
-            "SE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mikael Calner",
-          "raw_affiliation_strings": [
-            "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I187531555"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031897318",
-            "display_name": "Oliver Lehnert",
-            "orcid": "https://orcid.org/0000-0002-4684-4108"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I187531555",
-              "display_name": "Lund University",
-              "ror": "https://ror.org/012a77v79",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I187531555"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I181369854",
-              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-              "ror": "https://ror.org/00f7hpc57",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I181369854"
-              ]
-            }
-          ],
-          "countries": [
-            "DE",
-            "SE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Oliver Lehnert",
-          "raw_affiliation_strings": [
-            "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
-            "GeoZentrum Nordbayern, Friedrich-Alexander-Universität, Schlossgarten 5, D-91054 Erlangen, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Lund University, Sölvegatan 12, SE-223 62 Lund, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I187531555"
-              ]
-            },
-            {
-              "raw_affiliation_string": "GeoZentrum Nordbayern, Friedrich-Alexander-Universität, Schlossgarten 5, D-91054 Erlangen, Germany",
-              "institution_ids": [
-                "https://openalex.org/I181369854"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039685767",
-            "display_name": "Marco Vecoli",
-            "orcid": "https://orcid.org/0000-0001-9203-7625"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Marco Vecoli",
-          "raw_affiliation_strings": [
-            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
-            "Saudi Aramco, Biostratigraphy Group, Geological Technical Services Division, EXPEC 2 Building, Dhahran 31311, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Biostratigraphy Group, Geological Technical Services Division, EXPEC 2 Building, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030180603",
-            "display_name": "Taniel Danelian",
-            "orcid": "https://orcid.org/0000-0001-9496-2363"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Taniel Danelian",
-          "raw_affiliation_strings": [
-            "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Géosystèmes, UMR 8217 CNRS, University Lille 1, Avenue Paul Langevin, Cité Scientifique, SN5, 59655 Villeneuve d'Ascq, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5018450545"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
-      "apc_paid": null,
-      "fwci": 0.5484,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.7977896,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "198",
-        "issue": null,
-        "first_page": "134",
-        "last_page": "144"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10765",
-          "display_name": "Marine Biology and Ecology Research",
-          "score": 0.9973000288009644,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/biozone",
-          "display_name": "Biozone",
-          "score": 0.9905358552932739
-        },
-        {
-          "id": "https://openalex.org/keywords/ordovician",
-          "display_name": "Ordovician",
-          "score": 0.7170631289482117
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7103474140167236
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.612440288066864
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5588675737380981
-        },
-        {
-          "id": "https://openalex.org/keywords/isotopes-of-carbon",
-          "display_name": "Isotopes of carbon",
-          "score": 0.5559476017951965
-        },
-        {
-          "id": "https://openalex.org/keywords/baltica",
-          "display_name": "Baltica",
-          "score": 0.43961718678474426
-        },
-        {
-          "id": "https://openalex.org/keywords/total-organic-carbon",
-          "display_name": "Total organic carbon",
-          "score": 0.19281306862831116
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.1668802797794342
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C164375970",
-          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
-          "display_name": "Biozone",
-          "level": 3,
-          "score": 0.9905358552932739
-        },
-        {
-          "id": "https://openalex.org/C91442348",
-          "wikidata": "https://www.wikidata.org/wiki/Q62100",
-          "display_name": "Ordovician",
-          "level": 2,
-          "score": 0.7170631289482117
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7103474140167236
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.612440288066864
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5588675737380981
-        },
-        {
-          "id": "https://openalex.org/C185059815",
-          "wikidata": "https://www.wikidata.org/wiki/Q471790",
-          "display_name": "Isotopes of carbon",
-          "level": 3,
-          "score": 0.5559476017951965
-        },
-        {
-          "id": "https://openalex.org/C2777040169",
-          "wikidata": "https://www.wikidata.org/wiki/Q805735",
-          "display_name": "Baltica",
-          "level": 3,
-          "score": 0.43961718678474426
-        },
-        {
-          "id": "https://openalex.org/C158787203",
-          "wikidata": "https://www.wikidata.org/wiki/Q900291",
-          "display_name": "Total organic carbon",
-          "level": 2,
-          "score": 0.19281306862831116
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.1668802797794342
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.revpalbo.2013.05.007",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2013.05.007",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S43762691",
-            "display_name": "Review of Palaeobotany and Palynology",
-            "issn_l": "0034-6667",
-            "issn": [
-              "0034-6667",
-              "1879-0615"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Review of Palaeobotany and Palynology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:archive.ugent.be:5645618",
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/1854/LU-5645618",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400478",
-            "display_name": "Ghent University Academic Bibliography (Ghent University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I32597200",
-            "host_organization_name": "Ghent University",
-            "host_organization_lineage": [
-              "https://openalex.org/I32597200"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ISSN: 0034-6667",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:lup.lub.lu.se:3e0203e4-d27d-41de-8715-12a3b670558d",
-          "is_oa": false,
-          "landing_page_url": "https://lup.lub.lu.se/record/4157938",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400536",
-            "display_name": "Lund University Publications (Lund University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I187531555",
-            "host_organization_name": "Lund University",
-            "host_organization_lineage": [
-              "https://openalex.org/I187531555"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ISSN: 0034-6667",
-          "raw_type": "text"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 61,
-      "referenced_works": [
-        "https://openalex.org/W1446995999",
-        "https://openalex.org/W1740299152",
-        "https://openalex.org/W1854715208",
-        "https://openalex.org/W1867832424",
-        "https://openalex.org/W1891849076",
-        "https://openalex.org/W1964191410",
-        "https://openalex.org/W1969930381",
-        "https://openalex.org/W1971987203",
-        "https://openalex.org/W1976371459",
-        "https://openalex.org/W1982011013",
-        "https://openalex.org/W1986648489",
-        "https://openalex.org/W1993002307",
-        "https://openalex.org/W1993164662",
-        "https://openalex.org/W1998156982",
-        "https://openalex.org/W1998266710",
-        "https://openalex.org/W2003336507",
-        "https://openalex.org/W2006709416",
-        "https://openalex.org/W2008160096",
-        "https://openalex.org/W2009888428",
-        "https://openalex.org/W2024694476",
-        "https://openalex.org/W2024866792",
-        "https://openalex.org/W2028823240",
-        "https://openalex.org/W2034725312",
-        "https://openalex.org/W2047198568",
-        "https://openalex.org/W2047794692",
-        "https://openalex.org/W2053593932",
-        "https://openalex.org/W2063011872",
-        "https://openalex.org/W2070999255",
-        "https://openalex.org/W2079792015",
-        "https://openalex.org/W2080678623",
-        "https://openalex.org/W2082419916",
-        "https://openalex.org/W2083718959",
-        "https://openalex.org/W2102186595",
-        "https://openalex.org/W2105973155",
-        "https://openalex.org/W2106464844",
-        "https://openalex.org/W2113341958",
-        "https://openalex.org/W2115931436",
-        "https://openalex.org/W2116778085",
-        "https://openalex.org/W2118419715",
-        "https://openalex.org/W2121807415",
-        "https://openalex.org/W2127653301",
-        "https://openalex.org/W2146330028",
-        "https://openalex.org/W2156426644",
-        "https://openalex.org/W2163252553",
-        "https://openalex.org/W2243928923",
-        "https://openalex.org/W2279109272",
-        "https://openalex.org/W2331763853",
-        "https://openalex.org/W2333117800",
-        "https://openalex.org/W2464939118",
-        "https://openalex.org/W2739740976",
-        "https://openalex.org/W3002222432",
-        "https://openalex.org/W3154818544",
-        "https://openalex.org/W3209592575",
-        "https://openalex.org/W4245465792",
-        "https://openalex.org/W4245823893",
-        "https://openalex.org/W6628601297",
-        "https://openalex.org/W6690433207",
-        "https://openalex.org/W6719274126",
-        "https://openalex.org/W6793844627",
-        "https://openalex.org/W6931015663",
-        "https://openalex.org/W6941469787"
-      ],
-      "related_works": [
-        "https://openalex.org/W782260409",
-        "https://openalex.org/W2980852434",
-        "https://openalex.org/W2780222364",
-        "https://openalex.org/W937435502",
-        "https://openalex.org/W1964349907",
-        "https://openalex.org/W4317402492",
-        "https://openalex.org/W2013847698",
-        "https://openalex.org/W2116797101",
-        "https://openalex.org/W1998813094",
-        "https://openalex.org/W1992822928"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-04-03T22:45:19.894376",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4237949722",
@@ -69789,8 +69833,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -70295,8 +70339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -71722,8 +71766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -72537,8 +72581,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73033,8 +73077,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73578,8 +73622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999330874.pdf",
@@ -74597,8 +74641,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2117658441.pdf",
@@ -75112,8 +75156,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75752,8 +75796,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -76246,8 +76290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -77052,8 +77096,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2085575216.pdf",
@@ -77853,8 +77897,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78323,8 +78367,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79723,8 +79767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -80171,8 +80215,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81480,8 +81524,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -81804,8 +81848,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82066,8 +82110,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82562,8 +82606,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82971,8 +83015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83314,8 +83358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83667,8 +83711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84029,8 +84073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84549,8 +84593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -85542,8 +85586,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -85884,8 +85928,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -86292,8 +86336,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2237899497.pdf"
@@ -86648,8 +86692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2240897016.pdf"
@@ -87086,8 +87130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2245420052.pdf"
@@ -87489,8 +87533,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254873166.pdf"
@@ -87891,8 +87935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88375,8 +88419,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88786,8 +88830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89246,8 +89290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89660,8 +89704,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90077,8 +90121,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90486,8 +90530,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -90809,8 +90853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -91187,8 +91231,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91552,8 +91596,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91964,8 +92008,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92440,8 +92484,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92797,8 +92841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93212,8 +93256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93556,8 +93600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93990,8 +94034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94462,8 +94506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94874,8 +94918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95251,8 +95295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95641,8 +95685,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96192,8 +96236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96782,8 +96826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249337156.pdf",
@@ -97011,8 +97055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97562,8 +97606,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97986,8 +98030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98565,8 +98609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99378,8 +99422,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -99784,8 +99828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -100761,8 +100805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

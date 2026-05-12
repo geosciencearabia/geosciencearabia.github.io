@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000837,
+        "value": 0.0000836,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -256,7 +256,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000502,
+        "value": 0.0000501,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -273,7 +273,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000394,
+        "value": 0.0000393,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -290,7 +290,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000248,
+        "value": 0.0000247,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -501,7 +501,7 @@
     ],
     "block_key": "d cantrell",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
-    "updated_date": "2026-05-06T12:19:59",
+    "updated_date": "2026-05-12T12:20:58",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1604,8 +1604,8 @@
     {
       "id": "https://openalex.org/W1927598922",
       "doi": "https://doi.org/10.1306/1215875m88576",
-      "title": "Ghawar Arab-D Reservoir&lt;subtitle&gt;Widespread Porosity in Shoaling-upward Carbonate Cycles, Saudi Arabia&lt;/subtitle&gt;",
-      "display_name": "Ghawar Arab-D Reservoir&lt;subtitle&gt;Widespread Porosity in Shoaling-upward Carbonate Cycles, Saudi Arabia&lt;/subtitle&gt;",
+      "title": "Ghawar Arab-D Reservoir",
+      "display_name": "Ghawar Arab-D Reservoir",
       "publication_year": 2006,
       "publication_date": "2006-01-01",
       "ids": {
@@ -1619,30 +1619,13 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1306/1215875m88576",
         "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306462797",
-          "display_name": "American Association of Petroleum Geologists eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "ebook platform"
-        },
+        "source": null,
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Giant Hydrocarbon Reservoirs of the World&lt;subtitle&gt;From Rocks to Reservoir Characterization and Modeling&lt;/subtitle&gt;",
+        "raw_source_name": "Giant Hydrocarbon Reservoirs of the World",
         "raw_type": "book-chapter"
       },
       "type": "book-chapter",
@@ -1668,6 +1651,7 @@
           "is_corresponding": true,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -1682,6 +1666,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -1696,6 +1681,7 @@
           "is_corresponding": false,
           "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -1710,6 +1696,7 @@
           "is_corresponding": false,
           "raw_author_name": "Thomas H. Keith",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -1724,6 +1711,7 @@
           "is_corresponding": false,
           "raw_author_name": "Harry W. Mueller",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -1733,16 +1721,39 @@
             "display_name": "Suzy Russell",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "S. Duffy Russell",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5086882344"
@@ -1750,23 +1761,23 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.2037,
+      "fwci": 9.3469,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.97302738,
+        "value": 0.97346535,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 100
       },
       "biblio": {
         "volume": null,
         "issue": null,
-        "first_page": null,
-        "last_page": null
+        "first_page": "97",
+        "last_page": "138"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -1975,39 +1986,22 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1306/1215875m88576",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306462797",
-            "display_name": "American Association of Petroleum Geologists eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "ebook platform"
-          },
+          "source": null,
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Giant Hydrocarbon Reservoirs of the World&lt;subtitle&gt;From Rocks to Reservoir Characterization and Modeling&lt;/subtitle&gt;",
+          "raw_source_name": "Giant Hydrocarbon Reservoirs of the World",
           "raw_type": "book-chapter"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -2017,8 +2011,10 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
+      "referenced_works_count": 1,
+      "referenced_works": [
+        "https://openalex.org/W1032963479"
+      ],
       "related_works": [
         "https://openalex.org/W4240240487",
         "https://openalex.org/W2164027811",
@@ -2033,219 +2029,219 @@
       ],
       "abstract_inverted_index": {
         "2": [
-          168
+          167
         ],
         "3": [
-          170
-        ],
-        "5": [
-          333
+          169,
+          286
         ],
         "30": [
-          31,
-          716
+          32,
+          712
         ],
         "60": [
           97
         ],
         "250": [
-          23
+          24
         ],
         "300": [
-          40
+          41
         ],
-        "Ghawar": [
+        "Abstract": [
           0
         ],
+        "Ghawar": [
+          1
+        ],
         "field": [
-          1,
-          19
+          2,
+          20
         ],
         "is": [
-          2,
-          20,
+          3,
+          21,
           121,
-          196,
-          205,
-          263,
-          269,
+          195,
+          204,
+          262,
+          268,
           309,
           321,
           417,
           455,
           479,
-          510,
-          602,
-          621,
-          637,
-          649,
-          706,
-          713,
-          722
+          509,
+          599,
+          618,
+          633,
+          645,
+          702,
+          709,
+          718
         ],
         "the": [
-          3,
-          14,
-          57,
-          61,
-          65,
-          69,
+          4,
+          15,
+          58,
+          62,
+          66,
+          70,
           79,
           119,
           128,
           148,
           154,
-          206,
-          210,
-          214,
-          218,
-          225,
-          229,
-          244,
-          248,
-          253,
-          257,
-          280,
+          205,
+          209,
+          213,
+          217,
+          224,
+          228,
+          243,
+          247,
+          252,
+          256,
+          279,
           336,
           349,
           353,
-          549,
-          606,
-          644,
-          704,
-          707,
-          767,
-          773,
-          783
+          547,
+          603,
+          640,
+          700,
+          703,
+          763,
+          769,
+          779
         ],
         "world's": [
-          4
-        ],
-        "largest,": [
           5
         ],
-        "most": [
+        "largest,": [
           6
         ],
-        "prolific": [
+        "most": [
           7
         ],
-        "field,": [
+        "prolific": [
           8
         ],
-        "producing": [
+        "field,": [
           9
         ],
-        "30–31": [
+        "producing": [
           10
         ],
-        "API": [
+        "30-31°": [
           11
         ],
-        "oil": [
+        "API": [
           12
         ],
+        "oil": [
+          13
+        ],
         "from": [
-          13,
+          14,
           156
         ],
         "Arab-D": [
-          15,
-          48,
-          207,
-          221,
-          258,
-          675
+          16,
+          49,
+          206,
+          220,
+          257,
+          671
         ],
         "carbonate": [
-          16,
-          222,
+          17,
+          221,
           315,
           343,
-          735,
-          757,
-          775
+          731,
+          753,
+          771
         ],
         "reservoir.": [
-          17
+          18
         ],
         "The": [
-          18,
-          47,
+          19,
+          48,
           88,
           115,
-          194,
-          239,
+          193,
+          238,
           374,
           397,
           414,
           451,
           471,
-          507,
-          700,
-          744
+          506,
+          696,
+          740
         ],
         "more": [
-          21,
-          38,
-          95,
-          105,
-          187,
-          281,
-          714,
-          789
-        ],
-        "than": [
           22,
           39,
+          95,
+          105,
+          186,
+          280,
+          710,
+          785
+        ],
+        "than": [
+          23,
+          40,
           96,
           106,
-          643,
-          715
+          639,
+          711
         ],
         "km": [
-          24,
-          32
-        ],
-        "(155": [
-          25
-        ],
-        "mi)": [
-          26,
-          34
-        ],
-        "long,": [
-          27
-        ],
-        "as": [
-          28,
-          30
-        ],
-        "much": [
-          29,
-          666
-        ],
-        "(18.5": [
+          25,
           33
         ],
-        "wide,": [
+        "(155": [
+          26
+        ],
+        "mi)": [
+          27,
           35
         ],
+        "long,": [
+          28
+        ],
+        "as": [
+          29,
+          31
+        ],
+        "much": [
+          30,
+          662
+        ],
+        "(18.5": [
+          34
+        ],
+        "wide,": [
+          36
+        ],
         "and": [
-          36,
-          64,
-          75,
+          37,
+          65,
           108,
           135,
           145,
-          165,
-          169,
-          178,
-          180,
-          183,
-          223,
-          260,
-          268,
+          164,
+          168,
+          177,
+          179,
+          182,
+          222,
+          259,
+          267,
           288,
           318,
           370,
@@ -2259,59 +2255,59 @@
           449,
           459,
           463,
-          498,
-          503,
-          537,
-          541,
-          561,
-          567,
-          571,
-          576,
-          581,
-          591,
-          593,
-          617,
-          655,
-          683,
-          690,
-          721,
-          734,
-          751,
-          770,
-          787
+          497,
+          502,
+          535,
+          539,
+          559,
+          565,
+          569,
+          573,
+          578,
+          588,
+          590,
+          614,
+          651,
+          679,
+          686,
+          717,
+          730,
+          747,
+          766,
+          783
         ],
         "has": [
-          37,
+          38,
           90
         ],
         "m": [
-          41,
+          42,
           98,
-          717
+          713
         ],
         "(1000": [
-          42
+          43
         ],
         "ft)": [
-          43,
-          719
+          44,
+          715
         ],
         "of": [
-          44,
-          60,
-          68,
+          45,
+          61,
+          69,
           94,
           104,
           118,
           133,
           142,
           150,
-          198,
-          209,
-          220,
-          236,
-          247,
-          274,
+          197,
+          208,
+          219,
+          235,
+          246,
+          273,
           311,
           323,
           335,
@@ -2324,105 +2320,103 @@
           444,
           457,
           481,
-          500,
-          512,
-          516,
-          555,
-          605,
-          652,
-          688,
-          724,
-          731
+          499,
+          511,
+          515,
+          553,
+          602,
+          648,
+          684,
+          720,
+          727
         ],
         "structural": [
-          45
-        ],
-        "closure.": [
           46
         ],
+        "closure.": [
+          47
+        ],
         "reservoir,": [
-          49
+          50
         ],
         "limestone": [
-          50,
-          646
+          51,
+          642
         ],
         "with": [
-          51,
-          185,
-          213,
-          228,
+          52,
+          184,
+          212,
+          227,
           380,
-          535,
-          624,
-          627
+          533,
+          621,
+          623
         ],
         "some": [
-          52,
+          53,
           427,
-          562
+          560
         ],
         "dolostone": [
-          53
-        ],
-        "horizons,": [
           54
         ],
-        "stratigraphically": [
+        "horizons,": [
           55
         ],
-        "comprises": [
+        "stratigraphically": [
           56
         ],
-        "D": [
-          58
+        "comprises": [
+          57
         ],
-        "member": [
+        "D": [
           59
         ],
+        "member": [
+          60
+        ],
         "Arab": [
-          62,
-          211,
-          709
+          63,
+          210,
+          705
         ],
         "Formation": [
-          63,
-          262
+          64,
+          261
         ],
         "upper": [
-          66,
+          67,
           116,
-          215,
-          245,
-          285
+          214,
+          244,
+          284
         ],
         "part": [
-          67,
-          246,
+          68,
+          245,
           401
         ],
         "Jubaila": [
-          70,
-          249,
-          261
+          71,
+          248,
+          260
         ],
         "Formation.": [
-          71
-        ],
-        "Based": [
           72
         ],
+        "Based": [
+          73
+        ],
         "on": [
-          73,
+          74,
           338
         ],
         "ammonite": [
-          74
+          75
         ],
-        "benthonic": [
-          76,
-          394,
-          530
+        "andbenthonic": [
+          76
         ],
         "foraminiferal": [
           77,
@@ -2439,19 +2433,19 @@
           126,
           138,
           155,
-          192,
-          195,
-          547,
-          676,
-          705
+          191,
+          194,
+          545,
+          672,
+          701
         ],
         "formations": [
           81
         ],
         "are": [
           82,
-          493,
-          532
+          492,
+          530
         ],
         "Upper": [
           83
@@ -2464,9 +2458,9 @@
         ],
         "in": [
           86,
-          265,
-          284,
-          741
+          264,
+          283,
+          737
         ],
         "age.": [
           87
@@ -2490,24 +2484,25 @@
         ],
         "porosity": [
           103,
-          601,
-          622,
-          636,
-          667
+          598,
+          619,
+          632,
+          663
         ],
         "15%,": [
           107
         ],
         "a": [
           109,
-          186,
-          272,
+          185,
+          271,
+          287,
           339,
           378,
           390,
-          603,
-          650,
-          742
+          600,
+          646,
+          738
         ],
         "permeability": [
           110
@@ -2521,16 +2516,16 @@
           325,
           347,
           483,
-          518,
-          545,
-          585,
-          596,
-          727
+          517,
+          543,
+          582,
+          593,
+          723
         ],
         "several": [
           113,
           301,
-          679
+          675
         ],
         "darcys.": [
           114
@@ -2545,14 +2540,14 @@
         ],
         "by": [
           123,
-          234,
-          271,
+          233,
+          270,
           409,
           468,
           488,
-          495,
-          523,
-          632
+          494,
+          522,
+          628
         ],
         "exceptionally": [
           124
@@ -2604,205 +2599,201 @@
         ],
         "sequence": [
           151,
-          204,
-          230,
-          242,
-          254
+          203,
+          229,
+          241,
+          253
         ],
         "stratigraphy,": [
           152
         ],
         "subdivided": [
           153,
-          174
+          173
         ],
         "top": [
           157,
-          219
+          218
         ],
         "base": [
           159
         ],
         "into": [
           160,
-          175,
-          749
+          174,
+          745
         ],
         "zones": [
           161,
-          176,
-          181
+          175,
+          180
         ],
         "1,": [
           162
         ],
-        "2,": [
+        "2,3,": [
           163
         ],
-        "3,": [
-          164
-        ],
         "4.": [
-          166
+          165
         ],
         "Zones": [
-          167
+          166
         ],
         "have": [
-          171,
+          170,
           296
         ],
         "been": [
-          172,
+          171,
           297
         ],
         "subsequently": [
-          173
+          172
         ],
         "2a": [
-          177
+          176
         ],
         "2b": [
-          179,
-          267
+          178,
+          266
         ],
         "3a": [
-          182,
-          287
+          181
         ],
         "3b,": [
-          184
+          183
         ],
         "detailed": [
-          188
+          187
         ],
         "zonation": [
-          189
+          188
         ],
         "scheme": [
-          190
+          189
         ],
         "for": [
-          191,
-          251,
-          703
+          190,
+          250,
+          699
         ],
         "management.": [
-          193
+          192
         ],
         "composed": [
-          197,
+          196,
           310,
           322,
           384,
           418,
           456,
           480,
-          511,
-          723
+          510,
+          719
         ],
         "two": [
-          199
+          198
         ],
         "composite": [
-          200,
-          203,
-          241
+          199,
+          202,
+          240
         ],
         "sequences.": [
-          201
+          200
         ],
         "One": [
-          202
+          201
         ],
         "Member": [
-          208,
-          259
+          207,
+          258
         ],
         "Formation,": [
-          212,
-          250
+          211,
+          249
         ],
         "boundary": [
-          216,
-          231,
-          255
+          215,
+          230,
+          254
         ],
         "at": [
-          217
+          216
         ],
         "below": [
-          224,
+          223,
           476
         ],
         "C-D": [
-          226,
-          710
+          225,
+          706
         ],
         "evaporite,": [
-          227
+          226
         ],
         "locally": [
-          232,
-          582,
-          694
+          231,
+          579,
+          690
         ],
         "marked": [
-          233,
-          270
+          232,
+          269
         ],
         "pods": [
-          235
+          234
         ],
         "collapse": [
-          237
+          236
         ],
         "breccia.": [
-          238
+          237
         ],
         "second": [
-          240
+          239
         ],
         "forms": [
-          243
+          242
         ],
         "which": [
-          252
+          251
         ],
         "between": [
-          256
+          255
         ],
         "located": [
-          264
+          263
         ],
         "zone": [
-          266,
-          286,
+          265,
+          285,
           290
         ],
         "flood": [
-          273
+          272
         ],
         "slightly": [
-          275
+          274
         ],
         "deeper": [
-          276,
-          513
+          275,
+          512
         ],
         "water": [
-          277
+          276
         ],
         "cycles": [
-          278,
-          283,
+          277,
+          282,
           316
         ],
         "over": [
-          279
+          278
         ],
         "grain-dominated": [
-          282
+          281
         ],
         "2b.": [
           291
@@ -2837,7 +2828,7 @@
         "sets": [
           303
         ],
-        "(parasequence": [
+        "(parase-quence": [
           304
         ],
         "sets).": [
@@ -2873,22 +2864,25 @@
         ],
         "These": [
           328,
-          491
+          490
         ],
         "carbonates": [
           329,
-          677
+          673
         ],
         "were": [
           330,
-          696,
-          759
+          692,
+          755
         ],
         "deposited": [
           331,
           475,
-          740,
-          760
+          736,
+          756
+        ],
+        "5°": [
+          333
         ],
         "south": [
           334
@@ -2911,7 +2905,7 @@
         ],
         "From": [
           345,
-          543
+          541
         ],
         "upslope": [
           346
@@ -2923,21 +2917,21 @@
           350,
           376,
           454,
-          509
+          508
         ],
         "consisted": [
           351
         ],
         "following": [
           354,
-          607
+          604
         ],
         "subenvironments:": [
           355
         ],
         "(1)": [
           356,
-          556
+          554
         ],
         "inner": [
           357,
@@ -2950,7 +2944,7 @@
         ],
         "(2)": [
           359,
-          565
+          563
         ],
         "ramp-crest": [
           360,
@@ -2961,12 +2955,12 @@
         ],
         "(3)": [
           362,
-          573
+          571
         ],
         "proximal": [
           363,
           452,
-          504
+          503
         ],
         "middle": [
           364,
@@ -2976,7 +2970,7 @@
         ],
         "(4)": [
           366,
-          578
+          575
         ],
         "distal": [
           367,
@@ -2985,11 +2979,11 @@
         ],
         "(5)": [
           371,
-          587
+          584
         ],
         "outer": [
           372,
-          508
+          507
         ],
         "was": [
           377
@@ -3002,7 +2996,7 @@
         ],
         "intertidal": [
           382,
-          752
+          748
         ],
         "islands": [
           383
@@ -3022,22 +3016,26 @@
         ],
         "shallow-marine": [
           393,
-          514
+          513
+        ],
+        "benthonic": [
+          394,
+          528
         ],
         "microfauna.": [
           396
         ],
         "or": [
           399,
-          551,
-          736
+          549,
+          732
         ],
         "seaward": [
           400
         ],
         "this": [
           403,
-          527
+          525
         ],
         "regime": [
           404
@@ -3070,19 +3068,19 @@
         ],
         "grainstone,": [
           423,
-          558
+          556
         ],
         "mud-lean": [
           424,
-          559
+          557
         ],
         "packstone,": [
           425,
-          560
+          558
         ],
         "mud-rich": [
           428,
-          563
+          561
         ],
         "packstone.": [
           429
@@ -3110,7 +3108,7 @@
         ],
         "include": [
           441,
-          678
+          674
         ],
         "larger": [
           442
@@ -3123,7 +3121,7 @@
         ],
         "storm-derived": [
           447,
-          496
+          495
         ],
         "stromatoporoids": [
           448
@@ -3152,7 +3150,7 @@
         "branched": [
           469
         ],
-        "stromatoporoids.": [
+        "stromatopo-roids.": [
           470
         ],
         "ramp,": [
@@ -3166,488 +3164,486 @@
         ],
         "micritic": [
           482,
-          517,
-          595
+          516,
+          592
         ],
         "very": [
           484,
-          519,
-          597,
-          728
+          518,
+          594,
+          724
         ],
         "fine-grained": [
           485,
-          520,
-          598
+          519,
+          595
         ],
         "sediment": [
           486,
-          521
+          520
         ],
         "capped": [
           487,
-          522
+          521
         ],
-        "Thalassinoides": [
+        "Thalassinoidesfirmgrounds.": [
           489,
-          524,
-          625
-        ],
-        "firmgrounds.": [
-          490,
-          525
+          523
         ],
         "firmgrounds": [
-          492
+          491
         ],
         "overlain": [
-          494
+          493
         ],
         "rudstone": [
-          497,
-          570,
-          575,
-          590
+          496,
+          568,
+          587
         ],
         "floatstone": [
-          499
+          498
         ],
         "inner-ramp,": [
-          501
+          500
         ],
         "ramp-crest,": [
-          502
+          501
         ],
         "middle-ramp": [
-          505
+          504
         ],
         "bioclasts.": [
-          506
+          505
         ],
         "deposits": [
-          515
+          514
         ],
         "In": [
-          526
+          524
         ],
         "setting,": [
-          528
+          526
         ],
         "smaller,": [
+          527
+        ],
+        "forami-nifera": [
           529
         ],
-        "foraminifera": [
-          531
-        ],
         "common": [
-          533,
-          608,
-          620,
-          642,
-          673
-        ],
-        "along": [
-          534
-        ],
-        "tetraxon": [
-          536
-        ],
-        "triaxon": [
-          538
-        ],
-        "sponge": [
-          539
-        ],
-        "spicules": [
-          540
-        ],
-        "coccoliths.": [
-          542
-        ],
-        "highest": [
-          544
-        ],
-        "lowest": [
-          546
-        ],
-        "quality,": [
-          548
-        ],
-        "lithofacies": [
-          550
-        ],
-        "rock": [
-          552
-        ],
-        "types": [
-          553
-        ],
-        "consist": [
-          554
-        ],
-        "skeletal-oolitic": [
-          557
-        ],
-        "packstone;": [
-          564
-        ],
-        "stromatoporoid-red": [
-          566
-        ],
-        "green": [
-          568
-        ],
-        "algae-coral": [
-          569
-        ],
-        "floatstone;": [
-          572,
-          577,
-          592
-        ],
-        "Cladocoropsis": [
-          574
-        ],
-        "dolomite,": [
-          579
-        ],
-        "porous": [
-          580
-        ],
-        "extremely": [
-          583
-        ],
-        "permeable": [
-          584
-        ],
-        "nonporous;": [
-          586
-        ],
-        "bivalve-coated": [
-          588
-        ],
-        "grain-intraclast": [
-          589
-        ],
-        "(6)": [
-          594
-        ],
-        "deposits.": [
-          599
-        ],
-        "Limestone": [
-          600
-        ],
-        "mixture": [
-          604,
-          651
-        ],
-        "pore": [
-          609,
-          647
-        ],
-        "types:": [
-          610
-        ],
-        "interparticle": [
-          611
-        ],
-        "(dominant),": [
-          612
-        ],
-        "moldic": [
-          613
-        ],
-        "(common),": [
-          614,
-          616
-        ],
-        "intraparticle": [
-          615
-        ],
-        "microporosity.": [
-          618
-        ],
-        "Less": [
-          619
-        ],
-        "associated": [
-          623
-        ],
-        "burrows,": [
-          626
-        ],
-        "vertically": [
-          628
-        ],
-        "oriented": [
-          629
-        ],
-        "tunnels": [
-          630
-        ],
-        "filled": [
-          631
-        ],
-        "grain-rich": [
-          633
-        ],
-        "sediment.": [
-          634
-        ],
-        "Shelter": [
-          635
-        ],
-        "uncommon.": [
-          638
-        ],
-        "Dolostone": [
-          639
-        ],
-        "porosity,": [
-          640
-        ],
-        "less": [
-          641,
-          697
-        ],
-        "major": [
-          645
-        ],
-        "types,": [
-          648
-        ],
-        "moldic,": [
-          653
-        ],
-        "intercrystalline,": [
-          654
-        ],
-        "(least": [
-          656,
-          661
-        ],
-        "common)": [
-          657,
-          662
-        ],
-        "intracrystalline": [
-          658
-        ],
-        "porosity.": [
-          659
-        ],
-        "Fractures": [
-          660
-        ],
-        "do": [
-          663
-        ],
-        "not": [
-          664
-        ],
-        "contribute": [
-          665,
+          531,
+          605,
+          617,
+          638,
           669
         ],
-        "but": [
-          668
+        "along": [
+          532
         ],
-        "permeability.": [
-          670
+        "tetraxon": [
+          534
         ],
-        "Diagenetic": [
-          671
+        "triaxon": [
+          536
         ],
-        "effects": [
-          672
+        "sponge": [
+          537
         ],
-        "within": [
-          674
+        "spicules": [
+          538
         ],
-        "dissolution": [
-          680
+        "coccoliths.": [
+          540
         ],
-        "events,": [
-          681
+        "highest": [
+          542
         ],
-        "recrystallization,": [
-          682
+        "lowest": [
+          544
         ],
-        "physical": [
-          684
+        "quality,": [
+          546
         ],
-        "compaction.": [
-          685
+        "lithofacies": [
+          548
         ],
-        "Cementation,": [
-          686
+        "rock": [
+          550
         ],
-        "episodes": [
-          687
+        "types": [
+          551
         ],
-        "dolomitization,": [
-          689
+        "consist": [
+          552
         ],
-        "chemical": [
-          691
+        "skeletal-oolitic": [
+          555
         ],
-        "compaction-stylolitization,": [
-          692
+        "packstone;": [
+          562
         ],
-        "although": [
+        "stromatoporoid-red": [
+          564
+        ],
+        "green": [
+          566
+        ],
+        "algae-coral": [
+          567
+        ],
+        "float-stone;": [
+          570
+        ],
+        "Cladocoropsisrudstone": [
+          572
+        ],
+        "floatstone;": [
+          574,
+          589
+        ],
+        "dolomite,": [
+          576
+        ],
+        "porous": [
+          577
+        ],
+        "extremely": [
+          580
+        ],
+        "permeable": [
+          581
+        ],
+        "nonporous;": [
+          583
+        ],
+        "bivalve-coated": [
+          585
+        ],
+        "grain-intraclast": [
+          586
+        ],
+        "(6)": [
+          591
+        ],
+        "deposits.": [
+          596
+        ],
+        "Limestone": [
+          597
+        ],
+        "mixture": [
+          601,
+          647
+        ],
+        "pore": [
+          606,
+          643
+        ],
+        "types:": [
+          607
+        ],
+        "interpar-ticle": [
+          608
+        ],
+        "(dominant),": [
+          609
+        ],
+        "moldic": [
+          610
+        ],
+        "(common),": [
+          611,
+          613
+        ],
+        "intraparticle": [
+          612
+        ],
+        "microporosity.": [
+          615
+        ],
+        "Less": [
+          616
+        ],
+        "associated": [
+          620
+        ],
+        "Thalassinoidesburrows,": [
+          622
+        ],
+        "vertically": [
+          624
+        ],
+        "oriented": [
+          625
+        ],
+        "tunnels": [
+          626
+        ],
+        "filled": [
+          627
+        ],
+        "grain-rich": [
+          629
+        ],
+        "sediment.": [
+          630
+        ],
+        "Shelter": [
+          631
+        ],
+        "uncommon.": [
+          634
+        ],
+        "Do-lostone": [
+          635
+        ],
+        "porosity,": [
+          636
+        ],
+        "less": [
+          637,
           693
         ],
+        "major": [
+          641
+        ],
+        "types,": [
+          644
+        ],
+        "moldic,": [
+          649
+        ],
+        "intercrystalline,": [
+          650
+        ],
+        "(least": [
+          652,
+          657
+        ],
+        "common)": [
+          653,
+          658
+        ],
+        "intracrystalline": [
+          654
+        ],
+        "porosity.": [
+          655
+        ],
+        "Fractures": [
+          656
+        ],
+        "do": [
+          659
+        ],
+        "not": [
+          660
+        ],
+        "contribute": [
+          661,
+          665
+        ],
+        "but": [
+          664
+        ],
+        "permeability.": [
+          666
+        ],
+        "Diagenetic": [
+          667
+        ],
+        "effects": [
+          668
+        ],
+        "within": [
+          670
+        ],
+        "dissolution": [
+          676
+        ],
+        "events,": [
+          677
+        ],
+        "recrystallization,": [
+          678
+        ],
+        "physical": [
+          680
+        ],
+        "compaction.": [
+          681
+        ],
+        "Cementation,": [
+          682
+        ],
+        "episodes": [
+          683
+        ],
+        "dolomitization,": [
+          685
+        ],
+        "chemical": [
+          687
+        ],
+        "compaction-stylolitization,": [
+          688
+        ],
+        "although": [
+          689
+        ],
         "important,": [
-          695
+          691
         ],
         "abundant": [
-          698
+          694
         ],
         "events.": [
-          699
+          695
         ],
         "vertical": [
-          701
+          697
         ],
         "seal": [
-          702
+          698
         ],
         "overlying": [
-          708
+          704
         ],
         "anhydrite.": [
-          711
+          707
         ],
         "It": [
-          712
+          708
         ],
         "(100": [
-          718
+          714
         ],
         "thick": [
-          720
+          716
         ],
         "varvelike": [
-          725
+          721
         ],
         "laminae": [
-          726
+          722
         ],
         "thin": [
-          729
+          725
         ],
         "beds": [
-          730
+          726
         ],
         "anhydrite": [
-          732
+          728
         ],
         "(thicker)": [
-          733
+          729
         ],
         "organic": [
-          737
+          733
         ],
         "matter": [
-          738
+          734
         ],
         "(thinner)": [
-          739
+          735
         ],
         "salina.": [
-          743
+          739
         ],
         "salina": [
-          745
+          741
         ],
         "periodically": [
-          746
+          742
         ],
         "shallowed": [
-          747
+          743
         ],
         "upward": [
-          748
+          744
         ],
         "peritidal": [
-          750
+          746
         ],
         "settings.": [
-          753
+          749
         ],
         "A": [
-          754
+          750
         ],
         "few": [
-          755
+          751
         ],
         "porous-permeable": [
-          756
+          752
         ],
         "stringers": [
-          758
+          754
         ],
         "when": [
-          761
+          757
         ],
         "relative": [
-          762,
-          778
+          758,
+          774
         ],
         "sea": [
-          763,
-          779
+          759,
+          775
         ],
         "level": [
-          764,
-          780
-        ],
-        "rise": [
-          765
-        ],
-        "flooded": [
-          766
-        ],
-        "evaporitic": [
-          768
-        ],
-        "shelf": [
-          769
-        ],
-        "temporarily": [
-          771
-        ],
-        "restarted": [
-          772
-        ],
-        "subtidal": [
-          774,
-          784
-        ],
-        "factory,": [
+          760,
           776
         ],
+        "rise": [
+          761
+        ],
+        "flooded": [
+          762
+        ],
+        "evaporitic": [
+          764
+        ],
+        "shelf": [
+          765
+        ],
+        "temporarily": [
+          767
+        ],
+        "restarted": [
+          768
+        ],
+        "sub-tidal": [
+          770
+        ],
+        "factory,": [
+          772
+        ],
         "whereas": [
-          777
+          773
         ],
         "fall": [
-          781
+          777
         ],
         "reestablished": [
-          782
+          778
+        ],
+        "subtidal": [
+          780
         ],
         "brine": [
-          785
+          781
         ],
         "factory": [
-          786
+          782
         ],
         "precipitated": [
-          788
+          784
         ],
         "evaporites.": [
-          790
+          786
         ]
       },
       "counts_by_year": [
@@ -3708,7 +3704,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-12T08:28:47.272897",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4209,9 +4205,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -5277,9 +5273,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [
@@ -5873,9 +5869,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6842,9 +6838,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -11219,9 +11215,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -14267,9 +14263,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -14844,9 +14840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -16025,9 +16021,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -16735,9 +16731,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -18089,9 +18085,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -19964,9 +19960,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -22095,9 +22091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -23723,9 +23719,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -25339,9 +25335,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -27153,9 +27149,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [
@@ -29200,9 +29196,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -30304,9 +30300,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -31284,9 +31280,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -32315,9 +32311,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -33366,9 +33362,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -34268,9 +34264,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -35225,9 +35221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -35593,9 +35589,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -36190,9 +36186,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
