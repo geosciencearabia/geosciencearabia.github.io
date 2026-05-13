@@ -60691,11 +60691,11 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 2.228,
+      "fwci": 2.2281,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88512188,
+        "value": 0.88512648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61043,6 +61043,13 @@
           "funder_award_id": "41890844",
           "funder_id": "https://openalex.org/F4320322439",
           "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G1474490597",
+          "display_name": null,
+          "funder_award_id": "111 Project",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
         },
         {
           "id": "https://openalex.org/G1803178129",
@@ -61691,7 +61698,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-12T08:28:47.272897",
+      "updated_date": "2026-05-13T08:25:38.343686",
       "created_date": "2025-10-10T00:00:00"
     },
     {

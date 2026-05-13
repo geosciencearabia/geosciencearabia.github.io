@@ -25596,7 +25596,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.228,
+    "fwci": 2.2281,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -30016,7 +30016,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Quaternary Research",
     "citations": 1,
-    "fwci": 32.4498,
+    "fwci": 28.1262,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Groundwater and Isotope Geochemistry",
@@ -39728,8 +39728,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-04-29",
     "year": 2016,
     "venue": "Fuel",
-    "citations": 134,
-    "fwci": 8.1491,
+    "citations": 135,
+    "fwci": 8.1494,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -40448,7 +40448,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Energies",
     "citations": 13,
-    "fwci": 8.2511,
+    "fwci": 8.24,
     "topics": [
       "NMR spectroscopy and applications",
       "Spectroscopy and Chemometric Analyses",
@@ -55764,6 +55764,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2597110619",
+    "doi": "https://doi.org/10.2113/gsjfr.47.1.93",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5040357379",
+      "A5079813128",
+      "A5001840261",
+      "A5070748180"
+    ],
+    "firstAuthorLastName": "Martins",
+    "allAuthors": [
+      "Maria Virgínia Alves Martins",
+      "Noureddine Zaaboub",
+      "Monia El Bour",
+      "Michael A. Kaminski",
+      "Fabrizio Frontalini"
+    ],
+    "title": "<i>SPIROBOLIVINA PAPILLOSA</i>AND<i>SPIROBOLIVINA RETORTA</i>, TWO NEW FORAMINIFERAL MORPHOSPECIES FROM THE BIZERTE LAGOON (TUNISIA)",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "The Journal of Foraminiferal Research",
+    "citations": 1,
+    "fwci": 0,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Geology and Paleoclimatology Research",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "University of Aveiro",
+      "Universidade do Estado do Rio de Janeiro",
+      "Institut National des Sciences et Technologies de la Mer",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Urbino"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2023792789",
     "doi": "https://doi.org/10.1007/bf01829336",
     "program": "",
@@ -61927,45 +61966,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2597110619",
-    "doi": "https://doi.org/10.2113/gsjfr.47.1.93",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5040357379",
-      "A5079813128",
-      "A5001840261",
-      "A5070748180"
-    ],
-    "firstAuthorLastName": "Martins",
-    "allAuthors": [
-      "Maria Virgínia Alves Martins",
-      "Noureddine Zaaboub",
-      "Monia El Bour",
-      "Michael A. Kaminski",
-      "Fabrizio Frontalini"
-    ],
-    "title": "<i>SPIROBOLIVINA PAPILLOSA</i>AND<i>SPIROBOLIVINA RETORTA</i>, TWO NEW FORAMINIFERAL MORPHOSPECIES FROM THE BIZERTE LAGOON (TUNISIA)",
-    "publicationDate": "2017-01-01",
-    "year": 2017,
-    "venue": "The Journal of Foraminiferal Research",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Marine Biology and Ecology Research",
-      "Geology and Paleoclimatology Research",
-      "Marine and environmental studies"
-    ],
-    "institutions": [
-      "University of Aveiro",
-      "Universidade do Estado do Rio de Janeiro",
-      "Institut National des Sciences et Technologies de la Mer",
-      "King Fahd University of Petroleum and Minerals",
-      "University of Urbino"
-    ]
   },
   {
     "workId": "https://openalex.org/W2614092750",
@@ -75632,7 +75632,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 301,
+    "citations": 302,
     "fwci": 18.6734,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -87159,7 +87159,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4022,
+    "fwci": 135.4054,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -87243,7 +87243,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0825,
+    "fwci": 32.0821,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -90238,8 +90238,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-08-31",
     "year": 2024,
     "venue": "Geoscience Frontiers",
-    "citations": 23,
-    "fwci": 11.3759,
+    "citations": 24,
+    "fwci": 11.8451,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93080,7 +93080,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 31,
-    "fwci": 8.3604,
+    "fwci": 8.3516,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -93096,6 +93096,45 @@ export const worksTable: WorkTableRecord[] = [
       "Centre National de la Recherche Scientifique",
       "Université Côte d'Azur",
       "Géoazur"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3132191269",
+    "doi": "https://doi.org/10.1016/j.jseaes.2021.104709",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052352208",
+      "A5084273448",
+      "A5011312843",
+      "A5052648518",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Dew",
+    "allAuthors": [
+      "Romana E.C. Dew",
+      "Alan S. Collins",
+      "C.K. Morley",
+      "Rosalind King",
+      "Noreen J. Evans",
+      "Stijn Glorie"
+    ],
+    "title": "Coupled detrital zircon U–Pb and Hf analysis of the Sibumasu Terrane: From Gondwana to northwest Thailand",
+    "publicationDate": "2021-02-18",
+    "year": 2021,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 29,
+    "fwci": 4.1003,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "PTT Public Company Limited (Thailand)",
+      "Curtin University"
     ]
   },
   {
@@ -93140,45 +93179,6 @@ export const worksTable: WorkTableRecord[] = [
       "Curtin University",
       "Australian National University",
       "University of Toliara"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3132191269",
-    "doi": "https://doi.org/10.1016/j.jseaes.2021.104709",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5052352208",
-      "A5084273448",
-      "A5011312843",
-      "A5052648518",
-      "A5057911678"
-    ],
-    "firstAuthorLastName": "Dew",
-    "allAuthors": [
-      "Romana E.C. Dew",
-      "Alan S. Collins",
-      "C.K. Morley",
-      "Rosalind King",
-      "Noreen J. Evans",
-      "Stijn Glorie"
-    ],
-    "title": "Coupled detrital zircon U–Pb and Hf analysis of the Sibumasu Terrane: From Gondwana to northwest Thailand",
-    "publicationDate": "2021-02-18",
-    "year": 2021,
-    "venue": "Journal of Asian Earth Sciences",
-    "citations": 28,
-    "fwci": 4.075,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "PTT Public Company Limited (Thailand)",
-      "Curtin University"
     ]
   },
   {
@@ -117825,7 +117825,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
     "citations": 55,
-    "fwci": 1.4456,
+    "fwci": 1.4457,
     "topics": [
       "Planetary Science and Exploration",
       "Polar Research and Ecology",
@@ -119778,7 +119778,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geo-Bio Interfaces",
     "citations": 2,
-    "fwci": 4.3231,
+    "fwci": 4.0525,
     "topics": [
       "Coastal and Marine Management",
       "Coastal wetland ecosystem dynamics",
@@ -119787,6 +119787,33 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Toronto",
       "Qatar University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2057472618",
+    "doi": "https://doi.org/10.1007/bf03175239",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489"
+    ],
+    "firstAuthorLastName": "Sadooni",
+    "allAuthors": [
+      "Fadhil Sadooni"
+    ],
+    "title": "Diagenetic features of some subsurface Tertiary-Cretaceous evaporites from northern Iraq",
+    "publicationDate": "1995-03-01",
+    "year": 1995,
+    "venue": "Carbonates and Evaporites",
+    "citations": 7,
+    "fwci": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Calcium Carbonate Crystallization and Inhibition"
+    ],
+    "institutions": [
+      "Yarmouk University"
     ]
   },
   {
@@ -120125,33 +120152,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2057472618",
-    "doi": "https://doi.org/10.1007/bf03175239",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489"
-    ],
-    "firstAuthorLastName": "Sadooni",
-    "allAuthors": [
-      "Fadhil Sadooni"
-    ],
-    "title": "Diagenetic features of some subsurface Tertiary-Cretaceous evaporites from northern Iraq",
-    "publicationDate": "1995-03-01",
-    "year": 1995,
-    "venue": "Carbonates and Evaporites",
-    "citations": 6,
-    "fwci": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Calcium Carbonate Crystallization and Inhibition"
-    ],
-    "institutions": [
-      "Yarmouk University"
     ]
   },
   {
@@ -122776,6 +122776,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4388945405",
+    "doi": "https://doi.org/10.1144/sp546-2022-327",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5014859155",
+      "A5104202110",
+      "A5054072678",
+      "A5061306034"
+    ],
+    "firstAuthorLastName": "Clavijo",
+    "allAuthors": [
+      "Santiago Peña Clavijo",
+      "Anindita Dash",
+      "Guillaume Baby",
+      "Abdulkader M. Afifi",
+      "Thomas Finkbeiner"
+    ],
+    "title": "Modelling principal stress orientations in the Arabian Plate using plate velocities",
+    "publicationDate": "2023-11-23",
+    "year": 2023,
+    "venue": "Geological Society London Special Publications",
+    "citations": 6,
+    "fwci": 1.6164,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Seismic Imaging and Inversion Techniques",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Applied GeoSolutions (United States)",
+      "University of Petroleum",
+      "King Abdullah University of Science and Technology",
+      "Planetary Science Institute",
+      "Rice University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4408525344",
     "doi": "https://doi.org/10.46427/gold2024.22680",
     "program": "",
@@ -123127,45 +123166,6 @@ export const worksTable: WorkTableRecord[] = [
       "Mitchell Institute",
       "Texas A&M University",
       "King Abdullah University of Science and Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4388945405",
-    "doi": "https://doi.org/10.1144/sp546-2022-327",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5014859155",
-      "A5104202110",
-      "A5054072678",
-      "A5061306034"
-    ],
-    "firstAuthorLastName": "Clavijo",
-    "allAuthors": [
-      "Santiago Peña Clavijo",
-      "Anindita Dash",
-      "Guillaume Baby",
-      "Abdulkader M. Afifi",
-      "Thomas Finkbeiner"
-    ],
-    "title": "Modelling principal stress orientations in the Arabian Plate using plate velocities",
-    "publicationDate": "2023-11-23",
-    "year": 2023,
-    "venue": "Geological Society London Special Publications",
-    "citations": 5,
-    "fwci": 1.3702,
-    "topics": [
-      "earthquake and tectonic studies",
-      "Seismic Imaging and Inversion Techniques",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "Applied GeoSolutions (United States)",
-      "University of Petroleum",
-      "King Abdullah University of Science and Technology",
-      "Planetary Science Institute",
-      "Rice University"
     ]
   },
   {
@@ -135356,6 +135356,35 @@ export const worksTable: WorkTableRecord[] = [
       "Desert Research Institute",
       "King Fahd University of Petroleum and Minerals"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W7160955974",
+    "doi": "https://doi.org/10.1038/s41598-026-45126-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5135933626",
+      "A5135997749"
+    ],
+    "firstAuthorLastName": "Malik",
+    "allAuthors": [
+      "Muhammad Hammad Malik",
+      "Ahmed Al-Yaseri",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Understanding hydrogen reactivity with anhydrite in underground hydrogen storage",
+    "publicationDate": "2026-05-12",
+    "year": 2026,
+    "venue": "Scientific Reports",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Hydrogen Storage and Materials",
+      "Iron oxide chemistry and applications",
+      "Hydrogen embrittlement and corrosion behaviors in metals"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2056353799",
