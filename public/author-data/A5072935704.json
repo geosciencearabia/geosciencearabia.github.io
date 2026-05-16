@@ -9,10 +9,10 @@
       "Anas Muhammad Salisu"
     ],
     "full_name": "Anas Muhammad Salisu",
-    "works_count": 20,
+    "works_count": 21,
     "cited_by_count": 171,
     "summary_stats": {
-      "2yr_mean_citedness": 6.733333333333333,
+      "2yr_mean_citedness": 6.3125,
       "h_index": 9,
       "i10_index": 8
     },
@@ -159,6 +159,23 @@
         }
       },
       {
+        "id": "https://openalex.org/T12299",
+        "display_name": "Radiation Shielding Materials Analysis",
+        "value": 0.000034,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "value": 0.0000283,
@@ -199,23 +216,6 @@
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000214,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -286,8 +286,8 @@
       },
       {
         "year": 2026,
-        "works_count": 2,
-        "oa_works_count": 1,
+        "works_count": 3,
+        "oa_works_count": 2,
         "cited_by_count": 3
       }
     ],
@@ -298,7 +298,7 @@
     ],
     "block_key": "a salisu",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
-    "updated_date": "2026-05-15T12:20:29",
+    "updated_date": "2026-05-16T12:20:14",
     "created_date": "2022-01-25T00:00:00"
   },
   "works": [
@@ -1936,9 +1936,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2663,9 +2663,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4640,9 +4640,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10400,9 +10400,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11101,9 +11101,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11783,9 +11783,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15991,16 +15991,16 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 10.7906,
+      "fwci": 9.0632,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.97752011,
+        "value": 0.96919948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 98
       },
       "biblio": {
@@ -16520,315 +16520,477 @@
       "related_works": [],
       "abstract_inverted_index": {
         "200": [
-          46
-        ],
-        "250": [
-          11
-        ],
-        "336": [
-          14
-        ],
-        "solutions": [
-          0
-        ],
-        "(0.1": [
-          1
-        ],
-        "M": [
-          2
-        ],
-        "and": [
-          3,
-          10,
-          29,
-          37,
-          53,
-          60,
-          67
-        ],
-        "0.5": [
-          4
-        ],
-        "M)": [
-          5
-        ],
-        "at": [
-          6,
-          44
-        ],
-        "80,": [
-          7
-        ],
-        "150,": [
-          8
-        ],
-        "200,": [
-          9
-        ],
-        "°C": [
-          12
-        ],
-        "for": [
-          13
-        ],
-        "h.": [
-          15
-        ],
-        "The": [
-          16,
-          80
-        ],
-        "results": [
-          17
-        ],
-        "indicate": [
-          18
-        ],
-        "that": [
-          19,
-          112
-        ],
-        "analcime": [
-          20,
-          82,
-          106
-        ],
-        "crystallized": [
-          21
-        ],
-        "through": [
-          22
-        ],
-        "the": [
-          23,
-          54,
-          85,
-          89,
-          116,
-          121
-        ],
-        "dissolution": [
-          24,
-          104
-        ],
-        "of": [
-          25,
-          56,
-          88,
-          105,
-          120
-        ],
-        "feldspars,": [
-          26
-        ],
-        "kaolinite,": [
-          27
-        ],
-        "smectite,": [
-          28,
-          59
-        ],
-        "illite,": [
-          30
-        ],
-        "forming": [
-          31
-        ],
-        "cubic": [
-          32
-        ],
-        "to": [
-          33,
-          75,
-          95,
-          100
-        ],
-        "trapezohedral": [
-          34
-        ],
-        "crystals.": [
-          35
-        ],
-        "Mordenite": [
-          36
-        ],
-        "chabazite": [
-          38
-        ],
-        "formed": [
-          39
-        ],
-        "as": [
-          40,
-          64
-        ],
-        "minor": [
-          41
-        ],
-        "zeolite": [
-          42
-        ],
-        "phases": [
-          43
-        ],
-        "≥": [
-          45
-        ],
-        "°C,": [
-          47
-        ],
-        "associated": [
-          48
-        ],
-        "with": [
-          49,
-          70
-        ],
-        "higher": [
-          50
-        ],
-        "silica": [
-          51,
-          57
-        ],
-        "activity": [
-          52
-        ],
-        "breakdown": [
-          55
-        ],
-        "gel,": [
-          58
-        ],
-        "illite.": [
-          61
-        ],
-        "Analcime": [
-          62
-        ],
-        "precipitated": [
-          63
-        ],
-        "grain-coating,": [
-          65
-        ],
-        "replacive,": [
-          66
-        ],
-        "pore-filling": [
-          68
-        ],
-        "cement,": [
-          69
-        ],
-        "intercrystalline": [
-          71
-        ],
-        "pores": [
-          72
-        ],
-        "reaching": [
-          73
-        ],
-        "up": [
-          74
-        ],
-        "9.7": [
-          76
-        ],
-        "µm": [
-          77
-        ],
-        "in": [
-          78
-        ],
-        "size.": [
-          79
-        ],
-        "synthesised": [
-          81
-        ],
-        "may": [
-          83
-        ],
-        "enhance": [
-          84
-        ],
-        "mechanical": [
-          86
-        ],
-        "stability": [
-          87
-        ],
-        "sandstone": [
-          90
-        ],
-        "framework": [
-          91
-        ],
-        "by": [
-          92
-        ],
-        "reducing": [
-          93
-        ],
-        "susceptibility": [
-          94
-        ],
-        "compaction.": [
-          96
-        ],
-        "Furthermore,": [
-          97
-        ],
-        "if": [
-          98
-        ],
-        "exposed": [
-          99
-        ],
-        "acidic": [
-          101
-        ],
-        "meteoric": [
-          102
-        ],
-        "waters,": [
-          103
-        ],
-        "could": [
-          107,
-          113
-        ],
-        "generate": [
-          108
-        ],
-        "secondary": [
-          109
-        ],
-        "intracrystalline": [
-          110
-        ],
-        "porosity": [
-          111
-        ],
-        "significantly": [
           114
         ],
-        "improve": [
+        "250": [
+          79
+        ],
+        "336": [
+          82
+        ],
+        "Analcime": [
+          0,
+          130
+        ],
+        "is": [
+          1
+        ],
+        "a": [
+          2
+        ],
+        "common": [
+          3
+        ],
+        "authigenic": [
+          4
+        ],
+        "mineral": [
+          5
+        ],
+        "in": [
+          6,
+          14,
+          37,
+          146
+        ],
+        "siliciclastic": [
+          7
+        ],
+        "rocks": [
+          8
+        ],
+        "and": [
+          9,
+          16,
+          34,
+          51,
+          71,
+          78,
+          97,
+          105,
+          121,
+          128,
+          135
+        ],
+        "has": [
+          10,
+          25
+        ],
+        "widespread": [
+          11
+        ],
+        "industrial": [
+          12
+        ],
+        "applications": [
+          13
+        ],
+        "catalysis": [
+          15
+        ],
+        "ceramic": [
+          17
+        ],
+        "production.": [
+          18
+        ],
+        "Although": [
+          19
+        ],
+        "its": [
+          20,
+          38
+        ],
+        "formation": [
+          21,
+          48
+        ],
+        "from": [
+          22,
+          54
+        ],
+        "volcanic": [
+          23
+        ],
+        "glass": [
+          24
+        ],
+        "been": [
+          26
+        ],
+        "extensively": [
+          27
+        ],
+        "studied,": [
+          28
+        ],
+        "the": [
+          29,
+          46,
+          58,
+          91,
+          122,
+          153,
+          157,
+          184,
+          189
+        ],
+        "role": [
+          30
+        ],
+        "of": [
+          31,
+          49,
+          57,
+          93,
+          124,
+          156,
+          173,
+          188
+        ],
+        "clay": [
+          32
+        ],
+        "minerals": [
+          33
+        ],
+        "feldspar": [
+          35
+        ],
+        "precursors": [
+          36
+        ],
+        "genesis": [
+          39
+        ],
+        "remains": [
+          40
+        ],
+        "poorly": [
+          41
+        ],
+        "constrained.": [
+          42
+        ],
+        "This": [
+          43
+        ],
+        "study": [
+          44
+        ],
+        "investigates": [
+          45
+        ],
+        "hydrothermal": [
+          47
+        ],
+        "analcime": [
+          50,
+          88,
+          150,
+          174
+        ],
+        "associated": [
+          52,
+          116
+        ],
+        "zeolites": [
+          53
+        ],
+        "arkosic": [
+          55
+        ],
+        "sandstone": [
+          56,
+          158
+        ],
+        "Oligocene–Miocene": [
+          59
+        ],
+        "Al": [
+          60
+        ],
+        "Wajh": [
+          61
+        ],
+        "Formation,": [
+          62
+        ],
+        "northwest": [
+          63
+        ],
+        "Saudi": [
+          64
+        ],
+        "Arabia": [
+          65
+        ],
+        "using": [
+          66
+        ],
+        "Na2CO3": [
+          67
+        ],
+        "solutions": [
+          68
+        ],
+        "(0.1": [
+          69
+        ],
+        "M": [
+          70
+        ],
+        "0.5": [
+          72
+        ],
+        "M)": [
+          73
+        ],
+        "at": [
+          74,
+          112
+        ],
+        "80,": [
+          75
+        ],
+        "150,": [
+          76
+        ],
+        "200,": [
+          77
+        ],
+        "°C": [
+          80
+        ],
+        "for": [
+          81
+        ],
+        "h.": [
+          83
+        ],
+        "The": [
+          84,
+          148
+        ],
+        "results": [
+          85
+        ],
+        "indicate": [
+          86
+        ],
+        "that": [
+          87,
+          180
+        ],
+        "crystallized": [
+          89
+        ],
+        "through": [
+          90
+        ],
+        "dissolution": [
+          92,
+          172
+        ],
+        "feldspars,": [
+          94
+        ],
+        "kaolinite,": [
+          95
+        ],
+        "smectite,": [
+          96,
+          127
+        ],
+        "illite,": [
+          98
+        ],
+        "forming": [
+          99
+        ],
+        "cubic": [
+          100
+        ],
+        "to": [
+          101,
+          143,
+          163,
+          168
+        ],
+        "trapezohedral": [
+          102
+        ],
+        "crystals.": [
+          103
+        ],
+        "Mordenite": [
+          104
+        ],
+        "chabazite": [
+          106
+        ],
+        "formed": [
+          107
+        ],
+        "as": [
+          108,
+          132
+        ],
+        "minor": [
+          109
+        ],
+        "zeolite": [
+          110
+        ],
+        "phases": [
+          111
+        ],
+        "≥": [
+          113
+        ],
+        "°C,": [
           115
         ],
-        "overall": [
-          117
+        "with": [
+          117,
+          138
         ],
-        "reservoir": [
+        "higher": [
           118
         ],
+        "silica": [
+          119,
+          125
+        ],
+        "activity": [
+          120
+        ],
+        "breakdown": [
+          123
+        ],
+        "gel,": [
+          126
+        ],
+        "illite.": [
+          129
+        ],
+        "precipitated": [
+          131
+        ],
+        "grain-coating,": [
+          133
+        ],
+        "replacive,": [
+          134
+        ],
+        "pore-filling": [
+          136
+        ],
+        "cement,": [
+          137
+        ],
+        "intercrystalline": [
+          139
+        ],
+        "pores": [
+          140
+        ],
+        "reaching": [
+          141
+        ],
+        "up": [
+          142
+        ],
+        "9.7": [
+          144
+        ],
+        "µm": [
+          145
+        ],
+        "size.": [
+          147
+        ],
+        "synthesised": [
+          149
+        ],
+        "may": [
+          151
+        ],
+        "enhance": [
+          152
+        ],
+        "mechanical": [
+          154
+        ],
+        "stability": [
+          155
+        ],
+        "framework": [
+          159
+        ],
+        "by": [
+          160
+        ],
+        "reducing": [
+          161
+        ],
+        "susceptibility": [
+          162
+        ],
+        "compaction.": [
+          164
+        ],
+        "Furthermore,": [
+          165
+        ],
+        "if": [
+          166
+        ],
+        "exposed": [
+          167
+        ],
+        "acidic": [
+          169
+        ],
+        "meteoric": [
+          170
+        ],
+        "waters,": [
+          171
+        ],
+        "could": [
+          175,
+          181
+        ],
+        "generate": [
+          176
+        ],
+        "secondary": [
+          177
+        ],
+        "intracrystalline": [
+          178
+        ],
+        "porosity": [
+          179
+        ],
+        "significantly": [
+          182
+        ],
+        "improve": [
+          183
+        ],
+        "overall": [
+          185
+        ],
+        "reservoir": [
+          186
+        ],
         "quality": [
-          119
+          187
         ],
         "sandstone.": [
-          122
+          190
         ]
       },
       "counts_by_year": [
@@ -16837,7 +16999,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-16T08:24:45.110214",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -20033,9 +20195,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20502,9 +20664,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20532,6 +20694,1058 @@
       "counts_by_year": [],
       "updated_date": "2026-04-30T09:15:22.047038",
       "created_date": "2022-01-25T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7161263637",
+      "doi": "https://doi.org/10.4314/cps.v13i1.9",
+      "title": "Assessment of entrance surface dose and effective dose in Intravenous Urography (IVU) procedure in selected hospitals in Yobe State, Nigeria",
+      "display_name": "Assessment of entrance surface dose and effective dose in Intravenous Urography (IVU) procedure in selected hospitals in Yobe State, Nigeria",
+      "publication_year": 2026,
+      "publication_date": "2026-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7161263637",
+        "doi": "https://doi.org/10.4314/cps.v13i1.9"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.4314/cps.v13i1.9",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4314/cps.v13i1.9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5407016509",
+          "display_name": "Communication in Physical Sciences",
+          "issn_l": "2645-2448",
+          "issn": [
+            "2645-2448",
+            "2705-2397"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Communication in Physical Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.4314/cps.v13i1.9",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5136263111",
+            "display_name": "Joseph Istifanus Abaleni",
+            "orcid": "https://orcid.org/0009-0004-3789-4332"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Joseph Istifanus Abaleni",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0009-0004-3789-4332",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3186-4595",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026765370",
+            "display_name": "Jamilu Yusuf",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jamilu Abdullahi Yusuf",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-1904-3241",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5136271293",
+            "display_name": "Tukur Yakubu Mohammed",
+            "orcid": "https://orcid.org/0009-0004-7376-6514"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tukur Yakubu Mohammed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0009-0004-7376-6514",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5136263111"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.95469669,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "13",
+        "issue": "1",
+        "first_page": "115",
+        "last_page": "123"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10844",
+        "display_name": "Radiation Dose and Imaging",
+        "score": 0.9122999906539917,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2741",
+          "display_name": "Radiology, Nuclear Medicine and Imaging"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10844",
+          "display_name": "Radiation Dose and Imaging",
+          "score": 0.9122999906539917,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2741",
+            "display_name": "Radiology, Nuclear Medicine and Imaging"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12299",
+          "display_name": "Radiation Shielding Materials Analysis",
+          "score": 0.022600000724196434,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10946",
+          "display_name": "Radioactivity and Radon Measurements",
+          "score": 0.007499999832361937,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3614",
+            "display_name": "Radiological and Ultrasound Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/radiological-weapon",
+          "display_name": "Radiological weapon",
+          "score": 0.7638999819755554
+        },
+        {
+          "id": "https://openalex.org/keywords/dosimeter",
+          "display_name": "Dosimeter",
+          "score": 0.733299970626831
+        },
+        {
+          "id": "https://openalex.org/keywords/ionizing-radiation",
+          "display_name": "Ionizing radiation",
+          "score": 0.6111000180244446
+        },
+        {
+          "id": "https://openalex.org/keywords/effective-dose",
+          "display_name": "Effective dose (radiation)",
+          "score": 0.5504000186920166
+        },
+        {
+          "id": "https://openalex.org/keywords/dose-area-product",
+          "display_name": "Dose area product",
+          "score": 0.5404999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/radiation-dose",
+          "display_name": "Radiation dose",
+          "score": 0.4700999855995178
+        },
+        {
+          "id": "https://openalex.org/keywords/radiation-exposure",
+          "display_name": "Radiation exposure",
+          "score": 0.4226999878883362
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.8339999914169312
+        },
+        {
+          "id": "https://openalex.org/C190892606",
+          "wikidata": "https://www.wikidata.org/wiki/Q3512464",
+          "display_name": "Radiological weapon",
+          "level": 2,
+          "score": 0.7638999819755554
+        },
+        {
+          "id": "https://openalex.org/C105636585",
+          "wikidata": "https://www.wikidata.org/wiki/Q303665",
+          "display_name": "Dosimeter",
+          "level": 3,
+          "score": 0.733299970626831
+        },
+        {
+          "id": "https://openalex.org/C18231593",
+          "wikidata": "https://www.wikidata.org/wiki/Q186161",
+          "display_name": "Ionizing radiation",
+          "level": 3,
+          "score": 0.6111000180244446
+        },
+        {
+          "id": "https://openalex.org/C149857219",
+          "wikidata": "https://www.wikidata.org/wiki/Q5239054",
+          "display_name": "Effective dose (radiation)",
+          "level": 2,
+          "score": 0.5504000186920166
+        },
+        {
+          "id": "https://openalex.org/C79905245",
+          "wikidata": "https://www.wikidata.org/wiki/Q175043",
+          "display_name": "Dose area product",
+          "level": 3,
+          "score": 0.5404999852180481
+        },
+        {
+          "id": "https://openalex.org/C2989005",
+          "wikidata": "https://www.wikidata.org/wiki/Q214963",
+          "display_name": "Nuclear medicine",
+          "level": 1,
+          "score": 0.5212000012397766
+        },
+        {
+          "id": "https://openalex.org/C2987700449",
+          "wikidata": "https://www.wikidata.org/wiki/Q186161",
+          "display_name": "Radiation dose",
+          "level": 2,
+          "score": 0.4700999855995178
+        },
+        {
+          "id": "https://openalex.org/C2779925993",
+          "wikidata": "https://www.wikidata.org/wiki/Q336938",
+          "display_name": "Radiation exposure",
+          "level": 2,
+          "score": 0.4226999878883362
+        },
+        {
+          "id": "https://openalex.org/C51671895",
+          "wikidata": "https://www.wikidata.org/wiki/Q17153670",
+          "display_name": "Reference dose",
+          "level": 3,
+          "score": 0.41350001096725464
+        },
+        {
+          "id": "https://openalex.org/C126838900",
+          "wikidata": "https://www.wikidata.org/wiki/Q77604",
+          "display_name": "Radiology",
+          "level": 1,
+          "score": 0.39320001006126404
+        },
+        {
+          "id": "https://openalex.org/C2777620619",
+          "wikidata": "https://www.wikidata.org/wiki/Q1574099",
+          "display_name": "Radiation protection",
+          "level": 2,
+          "score": 0.3799000084400177
+        },
+        {
+          "id": "https://openalex.org/C151032500",
+          "wikidata": "https://www.wikidata.org/wiki/Q5194182",
+          "display_name": "Cumulative dose",
+          "level": 2,
+          "score": 0.36070001125335693
+        },
+        {
+          "id": "https://openalex.org/C3020512807",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567532",
+          "display_name": "Intravenous urography",
+          "level": 3,
+          "score": 0.3521000146865845
+        },
+        {
+          "id": "https://openalex.org/C3019644165",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing staff",
+          "level": 2,
+          "score": 0.32030001282691956
+        },
+        {
+          "id": "https://openalex.org/C12174686",
+          "wikidata": "https://www.wikidata.org/wiki/Q1058438",
+          "display_name": "Risk assessment",
+          "level": 2,
+          "score": 0.2694000005722046
+        },
+        {
+          "id": "https://openalex.org/C19527891",
+          "wikidata": "https://www.wikidata.org/wiki/Q1120908",
+          "display_name": "Medical physics",
+          "level": 1,
+          "score": 0.26809999346733093
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4314/cps.v13i1.9",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4314/cps.v13i1.9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S5407016509",
+            "display_name": "Communication in Physical Sciences",
+            "issn_l": "2645-2448",
+            "issn": [
+              "2645-2448",
+              "2705-2397"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Communication in Physical Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4314/cps.v13i1.9",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4314/cps.v13i1.9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5407016509",
+          "display_name": "Communication in Physical Sciences",
+          "issn_l": "2645-2448",
+          "issn": [
+            "2645-2448",
+            "2705-2397"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Communication in Physical Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "0": [
+          111,
+          145
+        ],
+        "1": [
+          121,
+          135
+        ],
+        "50": [
+          62
+        ],
+        "The": [
+          0,
+          92,
+          189,
+          248
+        ],
+        "study": [
+          1,
+          249
+        ],
+        "aimed": [
+          2
+        ],
+        "to": [
+          3,
+          42,
+          103,
+          169,
+          236,
+          239
+        ],
+        "assess": [
+          4
+        ],
+        "radiation": [
+          5,
+          211,
+          229
+        ],
+        "doses": [
+          6,
+          46,
+          164,
+          230
+        ],
+        "in": [
+          7,
+          16,
+          99,
+          172,
+          257
+        ],
+        "patients": [
+          8,
+          63
+        ],
+        "undergoing": [
+          9
+        ],
+        "Intravenous": [
+          10
+        ],
+        "Urography": [
+          11
+        ],
+        "(IVU)": [
+          12
+        ],
+        "at": [
+          13,
+          110,
+          120,
+          144
+        ],
+        "selected": [
+          14
+        ],
+        "hospitals": [
+          15
+        ],
+        "Yobe": [
+          17,
+          67,
+          73
+        ],
+        "State,": [
+          18
+        ],
+        "Nigeria,": [
+          19
+        ],
+        "ensuring": [
+          20
+        ],
+        "that": [
+          21,
+          193,
+          209
+        ],
+        "exposure": [
+          22,
+          80,
+          113,
+          137,
+          212
+        ],
+        "is": [
+          23,
+          213
+        ],
+        "justified": [
+          24
+        ],
+        "and": [
+          25,
+          72,
+          87,
+          97,
+          107,
+          114,
+          117,
+          131,
+          138,
+          141,
+          155,
+          160,
+          175,
+          181,
+          186,
+          234
+        ],
+        "maintained": [
+          26
+        ],
+        "as": [
+          27,
+          29,
+          83,
+          128
+        ],
+        "low": [
+          28
+        ],
+        "reasonably": [
+          30
+        ],
+        "achievable": [
+          31
+        ],
+        "(ALARA).": [
+          32
+        ],
+        "A": [
+          33,
+          59
+        ],
+        "quantitative": [
+          34
+        ],
+        "methodology": [
+          35
+        ],
+        "was": [
+          36,
+          101,
+          126
+        ],
+        "employed,": [
+          37
+        ],
+        "utilizing": [
+          38
+        ],
+        "Thermo-luminescent": [
+          39
+        ],
+        "dosimeters": [
+          40
+        ],
+        "(TLDs)": [
+          41
+        ],
+        "measure": [
+          43
+        ],
+        "entrance": [
+          44
+        ],
+        "surface": [
+          45
+        ],
+        "(ESD)": [
+          47
+        ],
+        "on": [
+          48
+        ],
+        "patients,": [
+          49
+        ],
+        "along": [
+          50
+        ],
+        "with": [
+          51,
+          79,
+          245
+        ],
+        "CALDose_X": [
+          52
+        ],
+        "5.0": [
+          53
+        ],
+        "software": [
+          54
+        ],
+        "for": [
+          55,
+          124,
+          134,
+          158,
+          179,
+          253
+        ],
+        "effective": [
+          56
+        ],
+        "dose": [
+          57
+        ],
+        "estimation.": [
+          58
+        ],
+        "total": [
+          60
+        ],
+        "of": [
+          61,
+          152,
+          227
+        ],
+        "(25": [
+          64
+        ],
+        "each": [
+          65
+        ],
+        "from": [
+          66,
+          166
+        ],
+        "State": [
+          68,
+          74
+        ],
+        "University": [
+          69
+        ],
+        "Teaching": [
+          70
+        ],
+        "Hospital": [
+          71
+        ],
+        "Specialist": [
+          75
+        ],
+        "Hospital)": [
+          76
+        ],
+        "were": [
+          77,
+          199
+        ],
+        "surveyed,": [
+          78
+        ],
+        "parameters": [
+          81
+        ],
+        "such": [
+          82
+        ],
+        "peak": [
+          84
+        ],
+        "kilovoltage": [
+          85
+        ],
+        "(kVp)": [
+          86
+        ],
+        "current-time": [
+          88
+        ],
+        "product": [
+          89
+        ],
+        "(mAs)": [
+          90
+        ],
+        "recorded.": [
+          91
+        ],
+        "results": [
+          93
+        ],
+        "indicated": [
+          94
+        ],
+        "mean": [
+          95
+        ],
+        "ESD": [
+          96,
+          150
+        ],
+        "ED": [
+          98,
+          178
+        ],
+        "YSUTH": [
+          100,
+          159,
+          180
+        ],
+        "found": [
+          102
+        ],
+        "be": [
+          104
+        ],
+        "(0.815±0.107": [
+          105
+        ],
+        "mGy": [
+          106,
+          116,
+          130,
+          140,
+          154,
+          157
+        ],
+        "0.028±0.005": [
+          108
+        ],
+        "mSv)": [
+          109,
+          119
+        ],
+        "min": [
+          112,
+          136
+        ],
+        "(0.865±0.121": [
+          115
+        ],
+        "0.032±0.006": [
+          118
+        ],
+        "minute": [
+          122,
+          146
+        ],
+        "exposure,": [
+          123
+        ],
+        "YSSHD": [
+          125,
+          182
+        ],
+        "recorded": [
+          127
+        ],
+        "0.967±0.330": [
+          129
+        ],
+        "0.038±0.007": [
+          132
+        ],
+        "mSv": [
+          133,
+          168,
+          171,
+          185
+        ],
+        "1.086±0.319": [
+          139
+        ],
+        "0.048±0.012": [
+          142
+        ],
+        "mSv;": [
+          143
+        ],
+        "exposure.": [
+          147
+        ],
+        "Mean": [
+          148
+        ],
+        "cumulative": [
+          149
+        ],
+        "values": [
+          151
+        ],
+        "4.5708±0.808": [
+          153
+        ],
+        "5.899±2.254": [
+          156
+        ],
+        "YSSHD;": [
+          161
+        ],
+        "respectively.": [
+          162
+        ],
+        "Effective": [
+          163
+        ],
+        "ranged": [
+          165
+        ],
+        "0.119": [
+          167
+        ],
+        "0.474": [
+          170
+        ],
+        "the": [
+          173,
+          176,
+          194,
+          203,
+          222,
+          225,
+          258
+        ],
+        "study,": [
+          174
+        ],
+        "m,ean": [
+          177
+        ],
+        "are": [
+          183
+        ],
+        "0.163±0.031": [
+          184
+        ],
+        "0.248±0.091": [
+          187
+        ],
+        "mSv.": [
+          188
+        ],
+        "risk": [
+          190,
+          196
+        ],
+        "assessment": [
+          191
+        ],
+        "revealed": [
+          192
+        ],
+        "cancer": [
+          195
+        ],
+        "3.663±10ˉ5": [
+          197
+        ],
+        "estimated": [
+          198
+        ],
+        "significantly": [
+          200
+        ],
+        "lower": [
+          201
+        ],
+        "than": [
+          202
+        ],
+        "established": [
+          204
+        ],
+        "international": [
+          205
+        ],
+        "reference": [
+          206
+        ],
+        "levels,": [
+          207
+        ],
+        "suggesting": [
+          208
+        ],
+        "while": [
+          210
+        ],
+        "present,": [
+          214
+        ],
+        "it": [
+          215
+        ],
+        "remains": [
+          216
+        ],
+        "within": [
+          217
+        ],
+        "acceptable": [
+          218
+        ],
+        "limits.": [
+          219
+        ],
+        "In": [
+          220
+        ],
+        "conclusion,": [
+          221
+        ],
+        "findings": [
+          223
+        ],
+        "underscore": [
+          224
+        ],
+        "importance": [
+          226
+        ],
+        "optimizing": [
+          228
+        ],
+        "during": [
+          231
+        ],
+        "IVU": [
+          232
+        ],
+        "procedures": [
+          233
+        ],
+        "adherence": [
+          235
+        ],
+        "safety": [
+          237
+        ],
+        "protocols": [
+          238
+        ],
+        "mitigate": [
+          240
+        ],
+        "potential": [
+          241
+        ],
+        "health": [
+          242
+        ],
+        "risks": [
+          243
+        ],
+        "associated": [
+          244
+        ],
+        "ionizing": [
+          246
+        ],
+        "radiation.": [
+          247
+        ],
+        "provides": [
+          250
+        ],
+        "critical": [
+          251
+        ],
+        "data": [
+          252
+        ],
+        "improving": [
+          254
+        ],
+        "radiological": [
+          255
+        ],
+        "practices": [
+          256
+        ],
+        "region.": [
+          259
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-16T08:24:45.110214",
+      "created_date": "2026-05-16T00:00:00"
     }
   ]
 }

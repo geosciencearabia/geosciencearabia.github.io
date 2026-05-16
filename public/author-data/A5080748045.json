@@ -2786,11 +2786,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.68,
+      "fwci": 6.6833,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95894252,
+        "value": 0.95898031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3514,325 +3514,644 @@
         "https://openalex.org/W2169921515"
       ],
       "abstract_inverted_index": {
-        "excursion": [
+        "13": [
+          148
+        ],
+        "Abstract": [
           0
         ],
-        "and": [
-          1,
-          22,
-          91,
-          118,
-          136
-        ],
-        "apparent": [
-          2
-        ],
-        "increase": [
-          3
-        ],
-        "in": [
-          4,
-          69,
-          101,
-          133
-        ],
-        "the": [
-          5,
-          10,
-          18,
-          26,
-          39,
-          45,
-          63,
-          70,
-          76,
-          85,
-          89,
-          93,
-          102,
-          111,
-          115,
-          131,
-          134
-        ],
-        "chemical": [
-          6
-        ],
-        "weathering": [
-          7
-        ],
-        "suggests": [
-          8
-        ],
-        "that": [
-          9
-        ],
-        "deposition": [
-          11,
-          42
-        ],
-        "of": [
-          12,
-          20,
-          31,
-          47,
-          66,
-          88,
-          95,
-          114,
-          124
-        ],
-        "Marrat": [
-          13,
-          41
-        ],
-        "red": [
-          14,
-          99
-        ],
-        "beds": [
-          15,
-          100
-        ],
-        "coincided": [
-          16
-        ],
-        "with": [
-          17,
-          130
-        ],
-        "development": [
-          19,
-          65
-        ],
-        "T-CIE": [
-          21,
-          90,
-          116
-        ],
-        "possibly": [
-          23
-        ],
-        "time-equivalent": [
-          24
-        ],
-        "to": [
-          25,
-          35,
-          44,
-          52
-        ],
-        "T-OAE": [
-          27,
-          77
-        ],
-        "globally.": [
-          28
-        ],
         "The": [
-          29,
-          58
-        ],
-        "origin": [
-          30,
-          94
-        ],
-        "reddening": [
-          32
-        ],
-        "is": [
-          33
-        ],
-        "interpreted": [
-          34
-        ],
-        "have": [
-          36,
-          107
-        ],
-        "occurred": [
-          37
-        ],
-        "during": [
-          38
-        ],
-        "middle": [
-          40
-        ],
-        "due": [
-          43
-        ],
-        "stabilization": [
-          46
-        ],
-        "unstable": [
-          48
-        ],
-        "hydrous": [
-          49
-        ],
-        "iron": [
-          50
-        ],
-        "oxides": [
-          51
-        ],
-        "hematite": [
-          53
-        ],
-        "under": [
-          54
-        ],
-        "oxic": [
-          55
-        ],
-        "marine": [
-          56,
-          97
-        ],
-        "conditions.": [
-          57
-        ],
-        "proposed": [
-          59
-        ],
-        "model": [
-          60
-        ],
-        "further": [
-          61
-        ],
-        "indicates": [
-          62
-        ],
-        "possible": [
-          64
-        ],
-        "source": [
-          67,
-          127
-        ],
-        "rocks": [
-          68,
-          128
-        ],
-        "deep,": [
-          71
-        ],
-        "anoxic": [
-          72
-        ],
-        "environment": [
-          73
-        ],
-        "counterpart": [
-          74
-        ],
-        "where": [
-          75
-        ],
-        "may": [
-          78
-        ],
-        "be": [
-          79
-        ],
-        "expressed.": [
-          80
-        ],
-        "Since": [
-          81
-        ],
-        "our": [
-          82
-        ],
-        "study": [
-          83
-        ],
-        "documents": [
-          84
-        ],
-        "first": [
-          86
-        ],
-        "record": [
-          87
-        ],
-        "discuss": [
-          92
-        ],
-        "shallow": [
-          96
-        ],
-        "siliciclastic": [
-          98
-        ],
-        "Arabian": [
-          103
-        ],
-        "Plate,": [
-          104
-        ],
-        "this": [
-          105
-        ],
-        "will": [
-          106
-        ],
-        "significant": [
-          108
-        ],
-        "implications": [
-          109
-        ],
-        "for": [
-          110,
-          119
-        ],
-        "overall": [
-          112
-        ],
-        "understanding": [
-          113
-        ],
-        "globally": [
-          117
-        ],
-        "hydrocarbon": [
-          120
-        ],
-        "exploration": [
-          121
-        ],
-        "through": [
-          122
-        ],
-        "realizations": [
-          123
-        ],
-        "potential": [
-          125
-        ],
-        "new": [
-          126
-        ],
-        "associated": [
-          129
-        ],
-        "OAEs": [
-          132
+          1,
+          180,
+          209
         ],
         "Toarcian": [
-          135
+          2,
+          107,
+          286
         ],
-        "other": [
-          137
+        "Oceanic": [
+          3
+        ],
+        "Anoxic": [
+          4
+        ],
+        "Event": [
+          5
+        ],
+        "(T-OAE)": [
+          6
+        ],
+        "and": [
+          7,
+          22,
+          26,
+          90,
+          118,
+          152,
+          173,
+          242,
+          269,
+          287
+        ],
+        "its": [
+          8
+        ],
+        "corresponding": [
+          9
+        ],
+        "Carbon": [
+          10
+        ],
+        "Isotope": [
+          11
+        ],
+        "Excursion": [
+          12
+        ],
+        "(CIE)": [
+          13
+        ],
+        "have": [
+          14,
+          75,
+          187,
+          258
+        ],
+        "been": [
+          15,
+          76
+        ],
+        "reported": [
+          16,
+          58
+        ],
+        "widely": [
+          17
+        ],
+        "across": [
+          18
+        ],
+        "the": [
+          19,
+          31,
+          35,
+          39,
+          42,
+          47,
+          54,
+          88,
+          106,
+          112,
+          115,
+          127,
+          144,
+          156,
+          161,
+          169,
+          177,
+          190,
+          196,
+          214,
+          221,
+          227,
+          236,
+          240,
+          244,
+          253,
+          262,
+          266,
+          282,
+          285
+        ],
+        "Tethyan": [
+          20
+        ],
+        "region": [
+          21
+        ],
+        "globally.": [
+          23,
+          179
+        ],
+        "In": [
+          24,
+          96
+        ],
+        "Arabia,": [
+          25
+        ],
+        "based": [
+          27
+        ],
+        "on": [
+          28,
+          105
+        ],
+        "ammonite": [
+          29
+        ],
+        "dating,": [
+          30
         ],
         "time": [
+          32,
+          289
+        ],
+        "window": [
+          33
+        ],
+        "of": [
+          34,
+          41,
+          46,
+          53,
+          92,
+          114,
+          121,
+          130,
+          163,
+          171,
+          182,
+          198,
+          217,
+          239,
+          246,
+          265,
+          275
+        ],
+        "T-OAE": [
+          36,
+          178,
+          228
+        ],
+        "coincided": [
+          37,
+          167
+        ],
+        "with": [
+          38,
+          168,
+          281
+        ],
+        "deposition": [
+          40,
+          162,
+          193
+        ],
+        "reddish": [
+          43
+        ],
+        "siliciclastic": [
+          44,
+          249
+        ],
+        "unit": [
+          45
+        ],
+        "Marrat": [
+          48,
+          108,
+          164,
+          192
+        ],
+        "Formation.": [
+          49
+        ],
+        "However,": [
+          50
+        ],
+        "no": [
+          51
+        ],
+        "evidence": [
+          52
+        ],
+        "T-OAE/CIE": [
+          55,
+          123
+        ],
+        "was": [
+          56,
+          103
+        ],
+        "ever": [
+          57
+        ],
+        "from": [
+          59
+        ],
+        "Arabia": [
+          60
+        ],
+        "because": [
+          61
+        ],
+        "these": [
+          62,
+          72
+        ],
+        "red": [
+          63,
+          73,
+          165,
+          250
+        ],
+        "beds": [
+          64,
+          74,
+          166,
+          251
+        ],
+        "were": [
+          65
+        ],
+        "previously": [
+          66
+        ],
+        "interpreted": [
+          67,
+          185
+        ],
+        "as": [
+          68,
+          78
+        ],
+        "continental": [
+          69
+        ],
+        "deposits.": [
+          70
+        ],
+        "Recently,": [
+          71
+        ],
+        "recognized": [
+          77
+        ],
+        "shallow": [
+          79,
+          140,
+          247
+        ],
+        "marine": [
+          80,
+          142,
+          207,
+          248
+        ],
+        "deposits": [
+          81
+        ],
+        "which": [
+          82
+        ],
+        "opened": [
+          83
+        ],
+        "an": [
+          84
+        ],
+        "opportunity": [
+          85
+        ],
+        "to": [
+          86,
+          110,
+          176,
+          186,
+          195,
+          203
+        ],
+        "assess": [
+          87
+        ],
+        "occurrence": [
+          89
+        ],
+        "expression": [
+          91
+        ],
+        "T-OAE–CIE": [
+          93
+        ],
+        "in": [
+          94,
+          124,
+          155,
+          220,
+          252,
+          284
+        ],
+        "Arabia.": [
+          95,
+          125
+        ],
+        "this": [
+          97,
+          256
+        ],
+        "study,": [
+          98
+        ],
+        "a": [
+          99,
+          139
+        ],
+        "multiproxy": [
+          100
+        ],
+        "geochemical": [
+          101
+        ],
+        "characterization": [
+          102
+        ],
+        "performed": [
+          104
+        ],
+        "Formation": [
+          109
+        ],
+        "infer": [
+          111
+        ],
+        "chemistry": [
+          113
+        ],
+        "paleowater": [
+          116
+        ],
+        "column": [
+          117
+        ],
+        "identify": [
+          119
+        ],
+        "intervals": [
+          120
+        ],
+        "possible": [
+          122,
+          215
+        ],
+        "While": [
+          126
+        ],
+        "low": [
+          128
+        ],
+        "concentrations": [
+          129
+        ],
+        "redox-sensitive": [
+          131
+        ],
+        "elements": [
+          132
+        ],
+        "(Mo,": [
+          133
+        ],
+        "U,": [
+          134
+        ],
+        "V,": [
+          135
+        ],
+        "Cr)": [
+          136
+        ],
+        "may": [
+          137,
+          229
+        ],
+        "indicate": [
           138
         ],
+        "oxic": [
+          141,
+          206
+        ],
+        "settings,": [
+          143
+        ],
+        "coupled": [
+          145
+        ],
+        "negative": [
+          146
+        ],
+        "δ": [
+          147
+        ],
+        "C": [
+          149
+        ],
+        "organic": [
+          150
+        ],
+        "excursion": [
+          151
+        ],
+        "apparent": [
+          153
+        ],
+        "increase": [
+          154
+        ],
+        "chemical": [
+          157
+        ],
+        "weathering": [
+          158
+        ],
+        "suggests": [
+          159
+        ],
+        "that": [
+          160
+        ],
+        "development": [
+          170,
+          216
+        ],
+        "T-CIE": [
+          172,
+          241,
+          267
+        ],
+        "possibly": [
+          174
+        ],
+        "time-equivalent": [
+          175
+        ],
+        "origin": [
+          181,
+          245
+        ],
+        "reddening": [
+          183
+        ],
+        "is": [
+          184
+        ],
+        "occurred": [
+          188
+        ],
+        "during": [
+          189
+        ],
+        "middle": [
+          191
+        ],
+        "due": [
+          194
+        ],
+        "stabilization": [
+          197
+        ],
+        "unstable": [
+          199
+        ],
+        "hydrous": [
+          200
+        ],
+        "iron": [
+          201
+        ],
+        "oxides": [
+          202
+        ],
+        "hematite": [
+          204
+        ],
+        "under": [
+          205
+        ],
+        "conditions.": [
+          208
+        ],
+        "proposed": [
+          210
+        ],
+        "model": [
+          211
+        ],
+        "further": [
+          212
+        ],
+        "indicates": [
+          213
+        ],
+        "source": [
+          218,
+          278
+        ],
+        "rocks": [
+          219,
+          279
+        ],
+        "deep,": [
+          222
+        ],
+        "anoxic": [
+          223
+        ],
+        "environment": [
+          224
+        ],
+        "counterpart": [
+          225
+        ],
+        "where": [
+          226
+        ],
+        "be": [
+          230
+        ],
+        "expressed.": [
+          231
+        ],
+        "Since": [
+          232
+        ],
+        "our": [
+          233
+        ],
+        "study": [
+          234
+        ],
+        "documents": [
+          235
+        ],
+        "first": [
+          237
+        ],
+        "record": [
+          238
+        ],
+        "discuss": [
+          243
+        ],
+        "Arabian": [
+          254
+        ],
+        "Plate,": [
+          255
+        ],
+        "will": [
+          257
+        ],
+        "significant": [
+          259
+        ],
+        "implications": [
+          260
+        ],
+        "for": [
+          261,
+          270
+        ],
+        "overall": [
+          263
+        ],
+        "understanding": [
+          264
+        ],
+        "globally": [
+          268
+        ],
+        "hydrocarbon": [
+          271
+        ],
+        "exploration": [
+          272
+        ],
+        "through": [
+          273
+        ],
+        "realizations": [
+          274
+        ],
+        "potential": [
+          276
+        ],
+        "new": [
+          277
+        ],
+        "associated": [
+          280
+        ],
+        "OAEs": [
+          283
+        ],
+        "other": [
+          288
+        ],
         "intervals.": [
-          139
+          290
         ]
       },
       "counts_by_year": [
@@ -3853,7 +4172,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-16T08:24:45.110214",
       "created_date": "2025-10-10T00:00:00"
     },
     {

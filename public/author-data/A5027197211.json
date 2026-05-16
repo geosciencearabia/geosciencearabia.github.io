@@ -41478,11 +41478,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.68,
+      "fwci": 6.6833,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95894252,
+        "value": 0.95898031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -42206,325 +42206,644 @@
         "https://openalex.org/W2169921515"
       ],
       "abstract_inverted_index": {
-        "excursion": [
+        "13": [
+          148
+        ],
+        "Abstract": [
           0
         ],
-        "and": [
-          1,
-          22,
-          91,
-          118,
-          136
-        ],
-        "apparent": [
-          2
-        ],
-        "increase": [
-          3
-        ],
-        "in": [
-          4,
-          69,
-          101,
-          133
-        ],
-        "the": [
-          5,
-          10,
-          18,
-          26,
-          39,
-          45,
-          63,
-          70,
-          76,
-          85,
-          89,
-          93,
-          102,
-          111,
-          115,
-          131,
-          134
-        ],
-        "chemical": [
-          6
-        ],
-        "weathering": [
-          7
-        ],
-        "suggests": [
-          8
-        ],
-        "that": [
-          9
-        ],
-        "deposition": [
-          11,
-          42
-        ],
-        "of": [
-          12,
-          20,
-          31,
-          47,
-          66,
-          88,
-          95,
-          114,
-          124
-        ],
-        "Marrat": [
-          13,
-          41
-        ],
-        "red": [
-          14,
-          99
-        ],
-        "beds": [
-          15,
-          100
-        ],
-        "coincided": [
-          16
-        ],
-        "with": [
-          17,
-          130
-        ],
-        "development": [
-          19,
-          65
-        ],
-        "T-CIE": [
-          21,
-          90,
-          116
-        ],
-        "possibly": [
-          23
-        ],
-        "time-equivalent": [
-          24
-        ],
-        "to": [
-          25,
-          35,
-          44,
-          52
-        ],
-        "T-OAE": [
-          27,
-          77
-        ],
-        "globally.": [
-          28
-        ],
         "The": [
-          29,
-          58
-        ],
-        "origin": [
-          30,
-          94
-        ],
-        "reddening": [
-          32
-        ],
-        "is": [
-          33
-        ],
-        "interpreted": [
-          34
-        ],
-        "have": [
-          36,
-          107
-        ],
-        "occurred": [
-          37
-        ],
-        "during": [
-          38
-        ],
-        "middle": [
-          40
-        ],
-        "due": [
-          43
-        ],
-        "stabilization": [
-          46
-        ],
-        "unstable": [
-          48
-        ],
-        "hydrous": [
-          49
-        ],
-        "iron": [
-          50
-        ],
-        "oxides": [
-          51
-        ],
-        "hematite": [
-          53
-        ],
-        "under": [
-          54
-        ],
-        "oxic": [
-          55
-        ],
-        "marine": [
-          56,
-          97
-        ],
-        "conditions.": [
-          57
-        ],
-        "proposed": [
-          59
-        ],
-        "model": [
-          60
-        ],
-        "further": [
-          61
-        ],
-        "indicates": [
-          62
-        ],
-        "possible": [
-          64
-        ],
-        "source": [
-          67,
-          127
-        ],
-        "rocks": [
-          68,
-          128
-        ],
-        "deep,": [
-          71
-        ],
-        "anoxic": [
-          72
-        ],
-        "environment": [
-          73
-        ],
-        "counterpart": [
-          74
-        ],
-        "where": [
-          75
-        ],
-        "may": [
-          78
-        ],
-        "be": [
-          79
-        ],
-        "expressed.": [
-          80
-        ],
-        "Since": [
-          81
-        ],
-        "our": [
-          82
-        ],
-        "study": [
-          83
-        ],
-        "documents": [
-          84
-        ],
-        "first": [
-          86
-        ],
-        "record": [
-          87
-        ],
-        "discuss": [
-          92
-        ],
-        "shallow": [
-          96
-        ],
-        "siliciclastic": [
-          98
-        ],
-        "Arabian": [
-          103
-        ],
-        "Plate,": [
-          104
-        ],
-        "this": [
-          105
-        ],
-        "will": [
-          106
-        ],
-        "significant": [
-          108
-        ],
-        "implications": [
-          109
-        ],
-        "for": [
-          110,
-          119
-        ],
-        "overall": [
-          112
-        ],
-        "understanding": [
-          113
-        ],
-        "globally": [
-          117
-        ],
-        "hydrocarbon": [
-          120
-        ],
-        "exploration": [
-          121
-        ],
-        "through": [
-          122
-        ],
-        "realizations": [
-          123
-        ],
-        "potential": [
-          125
-        ],
-        "new": [
-          126
-        ],
-        "associated": [
-          129
-        ],
-        "OAEs": [
-          132
+          1,
+          180,
+          209
         ],
         "Toarcian": [
-          135
+          2,
+          107,
+          286
         ],
-        "other": [
-          137
+        "Oceanic": [
+          3
+        ],
+        "Anoxic": [
+          4
+        ],
+        "Event": [
+          5
+        ],
+        "(T-OAE)": [
+          6
+        ],
+        "and": [
+          7,
+          22,
+          26,
+          90,
+          118,
+          152,
+          173,
+          242,
+          269,
+          287
+        ],
+        "its": [
+          8
+        ],
+        "corresponding": [
+          9
+        ],
+        "Carbon": [
+          10
+        ],
+        "Isotope": [
+          11
+        ],
+        "Excursion": [
+          12
+        ],
+        "(CIE)": [
+          13
+        ],
+        "have": [
+          14,
+          75,
+          187,
+          258
+        ],
+        "been": [
+          15,
+          76
+        ],
+        "reported": [
+          16,
+          58
+        ],
+        "widely": [
+          17
+        ],
+        "across": [
+          18
+        ],
+        "the": [
+          19,
+          31,
+          35,
+          39,
+          42,
+          47,
+          54,
+          88,
+          106,
+          112,
+          115,
+          127,
+          144,
+          156,
+          161,
+          169,
+          177,
+          190,
+          196,
+          214,
+          221,
+          227,
+          236,
+          240,
+          244,
+          253,
+          262,
+          266,
+          282,
+          285
+        ],
+        "Tethyan": [
+          20
+        ],
+        "region": [
+          21
+        ],
+        "globally.": [
+          23,
+          179
+        ],
+        "In": [
+          24,
+          96
+        ],
+        "Arabia,": [
+          25
+        ],
+        "based": [
+          27
+        ],
+        "on": [
+          28,
+          105
+        ],
+        "ammonite": [
+          29
+        ],
+        "dating,": [
+          30
         ],
         "time": [
+          32,
+          289
+        ],
+        "window": [
+          33
+        ],
+        "of": [
+          34,
+          41,
+          46,
+          53,
+          92,
+          114,
+          121,
+          130,
+          163,
+          171,
+          182,
+          198,
+          217,
+          239,
+          246,
+          265,
+          275
+        ],
+        "T-OAE": [
+          36,
+          178,
+          228
+        ],
+        "coincided": [
+          37,
+          167
+        ],
+        "with": [
+          38,
+          168,
+          281
+        ],
+        "deposition": [
+          40,
+          162,
+          193
+        ],
+        "reddish": [
+          43
+        ],
+        "siliciclastic": [
+          44,
+          249
+        ],
+        "unit": [
+          45
+        ],
+        "Marrat": [
+          48,
+          108,
+          164,
+          192
+        ],
+        "Formation.": [
+          49
+        ],
+        "However,": [
+          50
+        ],
+        "no": [
+          51
+        ],
+        "evidence": [
+          52
+        ],
+        "T-OAE/CIE": [
+          55,
+          123
+        ],
+        "was": [
+          56,
+          103
+        ],
+        "ever": [
+          57
+        ],
+        "from": [
+          59
+        ],
+        "Arabia": [
+          60
+        ],
+        "because": [
+          61
+        ],
+        "these": [
+          62,
+          72
+        ],
+        "red": [
+          63,
+          73,
+          165,
+          250
+        ],
+        "beds": [
+          64,
+          74,
+          166,
+          251
+        ],
+        "were": [
+          65
+        ],
+        "previously": [
+          66
+        ],
+        "interpreted": [
+          67,
+          185
+        ],
+        "as": [
+          68,
+          78
+        ],
+        "continental": [
+          69
+        ],
+        "deposits.": [
+          70
+        ],
+        "Recently,": [
+          71
+        ],
+        "recognized": [
+          77
+        ],
+        "shallow": [
+          79,
+          140,
+          247
+        ],
+        "marine": [
+          80,
+          142,
+          207,
+          248
+        ],
+        "deposits": [
+          81
+        ],
+        "which": [
+          82
+        ],
+        "opened": [
+          83
+        ],
+        "an": [
+          84
+        ],
+        "opportunity": [
+          85
+        ],
+        "to": [
+          86,
+          110,
+          176,
+          186,
+          195,
+          203
+        ],
+        "assess": [
+          87
+        ],
+        "occurrence": [
+          89
+        ],
+        "expression": [
+          91
+        ],
+        "T-OAE–CIE": [
+          93
+        ],
+        "in": [
+          94,
+          124,
+          155,
+          220,
+          252,
+          284
+        ],
+        "Arabia.": [
+          95,
+          125
+        ],
+        "this": [
+          97,
+          256
+        ],
+        "study,": [
+          98
+        ],
+        "a": [
+          99,
+          139
+        ],
+        "multiproxy": [
+          100
+        ],
+        "geochemical": [
+          101
+        ],
+        "characterization": [
+          102
+        ],
+        "performed": [
+          104
+        ],
+        "Formation": [
+          109
+        ],
+        "infer": [
+          111
+        ],
+        "chemistry": [
+          113
+        ],
+        "paleowater": [
+          116
+        ],
+        "column": [
+          117
+        ],
+        "identify": [
+          119
+        ],
+        "intervals": [
+          120
+        ],
+        "possible": [
+          122,
+          215
+        ],
+        "While": [
+          126
+        ],
+        "low": [
+          128
+        ],
+        "concentrations": [
+          129
+        ],
+        "redox-sensitive": [
+          131
+        ],
+        "elements": [
+          132
+        ],
+        "(Mo,": [
+          133
+        ],
+        "U,": [
+          134
+        ],
+        "V,": [
+          135
+        ],
+        "Cr)": [
+          136
+        ],
+        "may": [
+          137,
+          229
+        ],
+        "indicate": [
           138
         ],
+        "oxic": [
+          141,
+          206
+        ],
+        "settings,": [
+          143
+        ],
+        "coupled": [
+          145
+        ],
+        "negative": [
+          146
+        ],
+        "δ": [
+          147
+        ],
+        "C": [
+          149
+        ],
+        "organic": [
+          150
+        ],
+        "excursion": [
+          151
+        ],
+        "apparent": [
+          153
+        ],
+        "increase": [
+          154
+        ],
+        "chemical": [
+          157
+        ],
+        "weathering": [
+          158
+        ],
+        "suggests": [
+          159
+        ],
+        "that": [
+          160
+        ],
+        "development": [
+          170,
+          216
+        ],
+        "T-CIE": [
+          172,
+          241,
+          267
+        ],
+        "possibly": [
+          174
+        ],
+        "time-equivalent": [
+          175
+        ],
+        "origin": [
+          181,
+          245
+        ],
+        "reddening": [
+          183
+        ],
+        "is": [
+          184
+        ],
+        "occurred": [
+          188
+        ],
+        "during": [
+          189
+        ],
+        "middle": [
+          191
+        ],
+        "due": [
+          194
+        ],
+        "stabilization": [
+          197
+        ],
+        "unstable": [
+          199
+        ],
+        "hydrous": [
+          200
+        ],
+        "iron": [
+          201
+        ],
+        "oxides": [
+          202
+        ],
+        "hematite": [
+          204
+        ],
+        "under": [
+          205
+        ],
+        "conditions.": [
+          208
+        ],
+        "proposed": [
+          210
+        ],
+        "model": [
+          211
+        ],
+        "further": [
+          212
+        ],
+        "indicates": [
+          213
+        ],
+        "source": [
+          218,
+          278
+        ],
+        "rocks": [
+          219,
+          279
+        ],
+        "deep,": [
+          222
+        ],
+        "anoxic": [
+          223
+        ],
+        "environment": [
+          224
+        ],
+        "counterpart": [
+          225
+        ],
+        "where": [
+          226
+        ],
+        "be": [
+          230
+        ],
+        "expressed.": [
+          231
+        ],
+        "Since": [
+          232
+        ],
+        "our": [
+          233
+        ],
+        "study": [
+          234
+        ],
+        "documents": [
+          235
+        ],
+        "first": [
+          237
+        ],
+        "record": [
+          238
+        ],
+        "discuss": [
+          243
+        ],
+        "Arabian": [
+          254
+        ],
+        "Plate,": [
+          255
+        ],
+        "will": [
+          257
+        ],
+        "significant": [
+          259
+        ],
+        "implications": [
+          260
+        ],
+        "for": [
+          261,
+          270
+        ],
+        "overall": [
+          263
+        ],
+        "understanding": [
+          264
+        ],
+        "globally": [
+          268
+        ],
+        "hydrocarbon": [
+          271
+        ],
+        "exploration": [
+          272
+        ],
+        "through": [
+          273
+        ],
+        "realizations": [
+          274
+        ],
+        "potential": [
+          276
+        ],
+        "new": [
+          277
+        ],
+        "associated": [
+          280
+        ],
+        "OAEs": [
+          283
+        ],
+        "other": [
+          288
+        ],
         "intervals.": [
-          139
+          290
         ]
       },
       "counts_by_year": [
@@ -42545,7 +42864,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-16T08:24:45.110214",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54086,11 +54405,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 1.3511,
+      "fwci": 1.3244,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77912905,
+        "value": 0.77539509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54528,98 +54847,862 @@
         "https://openalex.org/W2020136392"
       ],
       "abstract_inverted_index": {
-        "-rock-brine": [
-          0
+        "6": [
+          155
         ],
-        "reactions": [
+        "30": [
+          144
+        ],
+        "60": [
+          133
+        ],
+        "75": [
+          138
+        ],
+        "700": [
+          162,
+          257
+        ],
+        "1100": [
+          164,
+          295
+        ],
+        "The": [
+          0,
+          167,
+          233,
+          358
+        ],
+        "success": [
           1
         ],
-        "involving": [
-          2
+        "of": [
+          2,
+          21,
+          67,
+          85,
+          116,
+          148,
+          200,
+          210,
+          221,
+          235,
+          312,
+          331,
+          360,
+          368,
+          396
         ],
-        "sandstones": [
-          3
+        "any": [
+          3,
+          188
         ],
-        "that": [
+        "carbon": [
           4
         ],
-        "experienced": [
+        "capture": [
           5
         ],
-        "intense": [
-          6
+        "and": [
+          6,
+          18,
+          29,
+          46,
+          57,
+          64,
+          87,
+          100,
+          140,
+          163,
+          176,
+          180,
+          193,
+          207,
+          224,
+          248,
+          254,
+          324,
+          344
         ],
-        "heat": [
-          7
+        "storage": [
+          7,
+          65,
+          342
         ],
-        "due": [
+        "method": [
           8
         ],
-        "to,": [
-          9
+        "largely": [
+          9,
+          392
         ],
-        "for": [
+        "depends": [
           10
         ],
-        "instance,": [
+        "on,": [
           11
         ],
-        "magmatic": [
-          12
-        ],
-        "activity": [
-          13
-        ],
-        "over": [
-          14
-        ],
-        "a": [
-          15
-        ],
-        "long": [
-          16
-        ],
-        "geologic": [
-          17
-        ],
-        "time": [
-          18
-        ],
-        "scale,": [
-          19
-        ],
-        "which": [
-          20
-        ],
-        "has": [
-          21
-        ],
-        "largely": [
-          22
-        ],
-        "transformed": [
-          23
-        ],
-        "the": [
+        "among": [
+          12,
           24
         ],
-        "chemistry": [
+        "other": [
+          13
+        ],
+        "factors,": [
+          14
+        ],
+        "its": [
+          15
+        ],
+        "safety,": [
+          16
+        ],
+        "reliability,": [
+          17
+        ],
+        "thorough": [
+          19
+        ],
+        "understanding": [
+          20,
+          367
+        ],
+        "the": [
+          22,
+          35,
+          42,
+          61,
+          68,
+          83,
+          114,
+          122,
+          129,
+          149,
+          182,
+          198,
+          201,
+          205,
+          211,
+          222,
+          236,
+          252,
+          261,
+          271,
+          298,
+          310,
+          361,
+          369,
+          394
+        ],
+        "interactions": [
+          23,
+          203
+        ],
+        "CO2,": [
           25
         ],
-        "of": [
+        "underground": [
           26
         ],
-        "their": [
-          27
+        "geological": [
+          27,
+          44,
+          69
         ],
-        "feldspars,": [
-          28
+        "formation,": [
+          28,
+          38,
+          70
+        ],
+        "resident": [
+          30
+        ],
+        "brine.": [
+          31
+        ],
+        "Upon": [
+          32
+        ],
+        "injection": [
+          33,
+          131
+        ],
+        "into": [
+          34,
+          290,
+          314
+        ],
+        "subsurface": [
+          36
+        ],
+        "rock": [
+          37
+        ],
+        "CO2": [
+          39,
+          130,
+          183,
+          262,
+          278,
+          305,
+          337
+        ],
+        "interacts": [
+          40
+        ],
+        "with": [
+          41,
+          230
+        ],
+        "host": [
+          43
+        ],
+        "formation": [
+          45
+        ],
+        "brine,": [
+          47
+        ],
+        "initiating": [
+          48
+        ],
+        "complex": [
+          49
+        ],
+        "geochemical": [
+          50
+        ],
+        "reactions": [
+          51,
+          120,
+          244,
+          371
+        ],
+        "that": [
+          52,
+          239,
+          309,
+          321,
+          374
+        ],
+        "are": [
+          53
+        ],
+        "often": [
+          54
+        ],
+        "poorly": [
+          55,
+          105
+        ],
+        "understood": [
+          56
+        ],
+        "could": [
+          58,
+          327
+        ],
+        "potentially": [
+          59
+        ],
+        "affect": [
+          60
+        ],
+        "overall": [
+          62,
+          345
+        ],
+        "stability": [
+          63
+        ],
+        "capacity": [
+          66
         ],
         "particularly": [
-          29
+          71,
+          399
+        ],
+        "those": [
+          72
+        ],
+        "in": [
+          73,
+          108,
+          121,
+          157,
+          190,
+          251,
+          270,
+          318
+        ],
+        "close": [
+          74
+        ],
+        "proximity": [
+          75
+        ],
+        "to": [
+          76,
+          128,
+          186,
+          287,
+          302,
+          336
+        ],
+        "an": [
+          77
+        ],
+        "intense": [
+          78,
+          86,
+          323,
+          376
+        ],
+        "heat": [
+          79,
+          89,
+          377
+        ],
+        "source.": [
+          80
+        ],
+        "For": [
+          81
+        ],
+        "instance,": [
+          82,
+          381
+        ],
+        "impact": [
+          84,
+          115,
+          199
+        ],
+        "prolonged": [
+          88,
+          325
+        ],
+        "due": [
+          90,
+          335,
+          378
+        ],
+        "to,": [
+          91,
+          379
+        ],
+        "say,": [
+          92
+        ],
+        "magmatic": [
+          93,
+          382
+        ],
+        "intrusion": [
+          94
+        ],
+        "on": [
+          95,
+          118,
+          204
+        ],
+        "sandstones’": [
+          96
+        ],
+        "framework,": [
+          97
+        ],
+        "authigenic": [
+          98,
+          206
+        ],
+        "mineralogies,": [
+          99
+        ],
+        "CO2-storage": [
+          101
+        ],
+        "potentials": [
+          102
+        ],
+        "is": [
+          103
+        ],
+        "still": [
+          104
+        ],
+        "understood.": [
+          106
+        ],
+        "Consequently,": [
+          107
+        ],
+        "this": [
+          109
+        ],
+        "study,": [
+          110
+        ],
+        "we": [
+          111
+        ],
+        "have": [
+          112
+        ],
+        "investigated": [
+          113
+        ],
+        "firing": [
+          117,
+          293
+        ],
+        "CO2–rock–brine": [
+          119,
+          202,
+          370
+        ],
+        "Bandera": [
+          123
+        ],
+        "Gray": [
+          124
+        ],
+        "(BG)": [
+          125
+        ],
+        "sandstone.": [
+          126
+        ],
+        "Prior": [
+          127
+        ],
+        "using": [
+          132,
+          353
+        ],
+        "000": [
+          134
+        ],
+        "ppm": [
+          135
+        ],
+        "brine": [
+          136
+        ],
+        "at": [
+          137,
+          161,
+          294
+        ],
+        "°C": [
+          139,
+          165
+        ],
+        "28.7": [
+          141
+        ],
+        "MPa": [
+          142
+        ],
+        "for": [
+          143,
+          154,
+          173,
+          380
+        ],
+        "days,": [
+          145
+        ],
+        "two": [
+          146
+        ],
+        "samples": [
+          147,
+          169,
+          220
+        ],
+        "BG": [
+          150,
+          168,
+          212,
+          226,
+          273
+        ],
+        "sandstone": [
+          151,
+          274
+        ],
+        "were": [
+          152,
+          170,
+          228,
+          241
+        ],
+        "fired": [
+          153,
+          255
+        ],
+        "h": [
+          156
+        ],
+        "a": [
+          158,
+          354,
+          365,
+          385
+        ],
+        "muffle": [
+          159
+        ],
+        "furnace": [
+          160
+        ],
+        "each.": [
+          166
+        ],
+        "then": [
+          171
+        ],
+        "studied": [
+          172
+        ],
+        "XRD,": [
+          174
+        ],
+        "SEM,": [
+          175
+        ],
+        "ICP-OES": [
+          177
+        ],
+        "analyses": [
+          178
+        ],
+        "before": [
+          179
+        ],
+        "after": [
+          181,
+          260,
+          277
+        ],
+        "injection,": [
+          184,
+          338
+        ],
+        "mainly": [
+          185,
+          282
+        ],
+        "investigate": [
+          187
+        ],
+        "changes": [
+          189
+        ],
+        "mineralogical": [
+          191
+        ],
+        "compositions": [
+          192
+        ],
+        "fluid": [
+          194
+        ],
+        "chemistry.": [
+          195
+        ],
+        "To": [
+          196
+        ],
+        "determine": [
+          197
+        ],
+        "framework": [
+          208
+        ],
+        "mineralogies": [
+          209
+        ],
+        "sandstones": [
+          213,
+          227,
+          259,
+          320,
+          373
+        ],
+        "under": [
+          214,
+          304
+        ],
+        "low": [
+          215
+        ],
+        "pH": [
+          216
+        ],
+        "(∼3)": [
+          217
+        ],
+        "conditions,": [
+          218
+        ],
+        "powdered": [
+          219
+        ],
+        "pre-": [
+          223
+        ],
+        "postfired": [
+          225,
+          272
+        ],
+        "treated": [
+          229
+        ],
+        "nitric": [
+          231,
+          355
+        ],
+        "acid.": [
+          232
+        ],
+        "findings": [
+          234,
+          359
+        ],
+        "study": [
+          237,
+          362
+        ],
+        "indicate": [
+          238
+        ],
+        "there": [
+          240
+        ],
+        "no": [
+          242
+        ],
+        "observable": [
+          243
+        ],
+        "involving": [
+          245,
+          372
+        ],
+        "rock-forming": [
+          246
+        ],
+        "minerals": [
+          247
+        ],
+        "carbonate": [
+          249
+        ],
+        "cement": [
+          250
+        ],
+        "unfired": [
+          253
+        ],
+        "(at": [
+          256
+        ],
+        "°C)": [
+          258,
+          276
+        ],
+        "injection.": [
+          263,
+          279
+        ],
+        "However,": [
+          264
+        ],
+        "pervasive": [
+          265
+        ],
+        "feldspar-dissolution": [
+          266
+        ],
+        "porosity": [
+          267,
+          334
+        ],
+        "was": [
+          268,
+          281,
+          285,
+          350
+        ],
+        "formed": [
+          269
+        ],
+        "(1100": [
+          275
+        ],
+        "This": [
+          280,
+          307,
+          348
+        ],
+        "because": [
+          283
+        ],
+        "albite": [
+          284,
+          313
+        ],
+        "partly": [
+          286
+        ],
+        "pervasively": [
+          288
+        ],
+        "transformed": [
+          289,
+          393
+        ],
+        "anorthite": [
+          291,
+          317
+        ],
+        "during": [
+          292
+        ],
+        "°C,": [
+          296
+        ],
+        "making": [
+          297
+        ],
+        "feldspar": [
+          299
+        ],
+        "highly": [
+          300
+        ],
+        "susceptible": [
+          301
+        ],
+        "dissolution": [
+          303,
+          333,
+          349
+        ],
+        "conditions.": [
+          306
+        ],
+        "implies": [
+          308
+        ],
+        "conversion": [
+          311
+        ],
+        "chemically": [
+          315
+        ],
+        "unstable": [
+          316
+        ],
+        "natural": [
+          319
+        ],
+        "underwent": [
+          322
+        ],
+        "heating": [
+          326
+        ],
+        "develop": [
+          328
+        ],
+        "significant": [
+          329
+        ],
+        "amounts": [
+          330
+        ],
+        "secondary": [
+          332
+        ],
+        "thereby": [
+          339
+        ],
+        "impacting": [
+          340
+        ],
+        "their": [
+          341,
+          397
+        ],
+        "capacities": [
+          343
+        ],
+        "petrophysical": [
+          346
+        ],
+        "properties.": [
+          347
+        ],
+        "separately": [
+          351
+        ],
+        "corroborated": [
+          352
+        ],
+        "acid": [
+          356
+        ],
+        "treatment.": [
+          357
+        ],
+        "will": [
+          363
+        ],
+        "provide": [
+          364
+        ],
+        "better": [
+          366
+        ],
+        "experienced": [
+          375
+        ],
+        "activity": [
+          383
+        ],
+        "over": [
+          384
+        ],
+        "long": [
+          386
+        ],
+        "geologic": [
+          387
+        ],
+        "time": [
+          388
+        ],
+        "scale,": [
+          389
+        ],
+        "which": [
+          390
+        ],
+        "has": [
+          391
+        ],
+        "chemistry": [
+          395
+        ],
+        "feldspars,": [
+          398
         ],
         "plagioclase.": [
-          30
+          400
         ]
       },
       "counts_by_year": [
@@ -54636,7 +55719,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-16T08:24:45.110214",
       "created_date": "2024-07-16T00:00:00"
     },
     {
@@ -96699,7 +97782,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60211673,
+        "value": 0.60206058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97146,483 +98229,659 @@
       ],
       "abstract_inverted_index": {
         "1": [
-          17
+          61,
+          105
         ],
-        "1991": [
-          187
-        ],
-        "hydrographical": [
-          0
-        ],
-        "parameters": [
-          1
-        ],
-        "such": [
-          2
-        ],
-        "as": [
-          3,
-          93
-        ],
-        "temperature,": [
-          4
-        ],
-        "salinity,": [
-          5
-        ],
-        "pH,": [
-          6
-        ],
-        "turbidity": [
-          7
-        ],
-        "and": [
-          8,
-          27,
-          42,
-          64,
-          73,
-          101,
-          126,
-          132,
-          163,
-          197
-        ],
-        "DO": [
-          9
-        ],
-        "were": [
-          10,
-          46
-        ],
-        "measured": [
-          11
-        ],
-        "at": [
-          12
-        ],
-        "surface": [
-          13
-        ],
-        "waters.": [
-          14
-        ],
-        "The": [
-          15,
-          48
-        ],
-        "top": [
-          16
-        ],
-        "cm": [
-          18
-        ],
-        "was": [
-          19
-        ],
-        "subsampled": [
-          20
-        ],
-        "for": [
-          21,
-          56,
-          178
-        ],
-        "foraminiferal": [
-          22,
-          62,
-          135
-        ],
-        "analyses": [
-          23
-        ],
-        "from": [
-          24,
-          113,
-          160
-        ],
-        "the": [
-          25,
-          78,
-          110,
-          121,
-          127,
-          139,
-          144,
-          151,
-          161,
-          164,
-          179,
-          186,
-          195
-        ],
-        "grab": [
-          26
-        ],
-        "preserved": [
-          28
-        ],
-        "using": [
-          29
-        ],
-        "70%": [
-          30
-        ],
-        "ethanol": [
-          31
-        ],
-        "with": [
-          32
-        ],
-        "Rose-Bengal": [
-          33
-        ],
-        "stain.": [
-          34
-        ],
-        "Potentially": [
+        "30": [
           35
         ],
-        "Toxic": [
-          36
+        "1991": [
+          275
         ],
-        "Elements": [
-          37
+        "25000": [
+          42
         ],
-        "(PTE)": [
-          38
-        ],
-        "levels": [
-          39,
-          58
-        ],
-        "in": [
-          40,
-          59,
-          90,
-          105,
-          109,
-          143
-        ],
-        "sediment": [
-          41,
-          99
-        ],
-        "grain": [
-          43
-        ],
-        "size": [
-          44
-        ],
-        "distributions": [
-          45
-        ],
-        "analysed.": [
-          47
+        "This": [
+          0
         ],
         "dataset": [
-          49,
-          149
+          1,
+          137,
+          237
         ],
-        "is": [
-          50,
-          192
+        "supports": [
+          2
         ],
-        "expected": [
-          51
+        "the": [
+          3,
+          22,
+          45,
+          59,
+          79,
+          113,
+          166,
+          198,
+          209,
+          215,
+          227,
+          232,
+          239,
+          249,
+          252,
+          267,
+          274,
+          283
         ],
-        "to": [
-          52,
-          69,
-          138,
-          170
+        "paper": [
+          4
         ],
-        "provide": [
-          53
+        "entitled": [
+          5
         ],
-        "a": [
-          54
+        "“A": [
+          6
         ],
         "baseline": [
-          55
+          7,
+          143
         ],
-        "PTE": [
-          57
-        ],
-        "sediment,": [
-          60
-        ],
-        "benthic": [
-          61,
-          102,
-          134,
-          156,
-          202
-        ],
-        "communities,": [
-          63
-        ],
-        "identify": [
-          65
-        ],
-        "endemic": [
-          66
-        ],
-        "species": [
-          67,
-          158
-        ],
-        "adapted": [
-          68,
-          137
-        ],
-        "extremes": [
-          70
+        "investigation": [
+          8
         ],
         "of": [
+          9,
+          21,
           71,
-          77,
-          123,
-          154,
-          182,
-          200
+          159,
+          165,
+          211,
+          242,
+          270,
+          288
         ],
-        "temperature": [
-          72
-        ],
-        "saline": [
-          74
-        ],
-        "conditions": [
-          75,
-          96,
-          142
-        ],
-        "typical": [
-          76
-        ],
-        "Gulf.": [
-          79,
-          145
-        ],
-        "It": [
-          80,
-          174
-        ],
-        "can": [
-          81
-        ],
-        "also": [
-          82,
-          175
-        ],
-        "be": [
-          83
-        ],
-        "used": [
-          84
-        ],
-        "by": [
-          85,
-          194
-        ],
-        "environmental": [
-          86,
-          107,
-          141
-        ],
-        "managers,": [
-          87
-        ],
-        "micropaleotologists,": [
-          88
-        ],
-        "students": [
-          89
-        ],
-        "environmental/geology/marine": [
-          91
-        ],
-        "science": [
-          92
-        ],
-        "reference": [
-          94
-        ],
-        "background": [
-          95,
-          124
-        ],
-        "based": [
-          97
-        ],
-        "on": [
-          98
-        ],
-        "toxicity": [
-          100
-        ],
-        "community": [
-          103,
-          168
-        ],
-        "information": [
-          104
-        ],
-        "revising": [
-          106
-        ],
-        "guidelines": [
-          108
-        ],
-        "region.": [
-          111
-        ],
-        "Data": [
-          112
-        ],
-        "this": [
-          114,
-          148
-        ],
-        "study": [
-          115
-        ],
-        "suggest": [
-          116
-        ],
-        "that": [
-          117
-        ],
-        "PTEs": [
-          118
-        ],
-        "are": [
-          119
-        ],
-        "within": [
-          120
-        ],
-        "range": [
-          122
-        ],
-        "values,": [
-          125
-        ],
-        "sediments": [
-          128
-        ],
-        "support": [
-          129
-        ],
-        "highly": [
-          130
-        ],
-        "diversified": [
-          131
-        ],
-        "stable": [
-          133
-        ],
-        "communities": [
-          136
-        ],
-        "unique": [
-          140
-        ],
-        "To": [
-          146
-        ],
-        "date,": [
-          147
-        ],
-        "documents": [
-          150
-        ],
-        "highest": [
-          152
-        ],
-        "number": [
-          153
-        ],
-        "living": [
-          155,
-          167,
-          201
+        "benthic": [
+          10,
+          67,
+          149,
+          190,
+          222,
+          244,
+          290
         ],
         "foraminifera": [
-          157,
-          203
+          11,
+          245,
+          291
         ],
-        "reported": [
-          159
+        "in": [
+          12,
+          18,
+          37,
+          44,
+          128,
+          147,
+          178,
+          193,
+          197,
+          231
+        ],
+        "relation": [
+          13
+        ],
+        "to": [
+          14,
+          75,
+          140,
+          157,
+          226,
+          258
+        ],
+        "marine": [
+          15
+        ],
+        "sediments": [
+          16,
+          216
+        ],
+        "parameters": [
+          17,
+          89
+        ],
+        "western": [
+          19
+        ],
+        "parts": [
+          20
+        ],
+        "Arabian": [
+          23,
+          48
+        ],
+        "Gulf”.": [
+          24
+        ],
+        "Duplicate": [
+          25
+        ],
+        "sediment": [
+          26,
+          84,
+          129,
+          187
+        ],
+        "samples": [
+          27,
+          72
+        ],
+        "(sets": [
+          28
+        ],
+        "A": [
+          29,
+          69
+        ],
+        "and": [
+          30,
+          58,
+          96,
+          115,
+          130,
+          152,
+          161,
+          189,
+          214,
+          220,
+          251,
+          285
+        ],
+        "B)": [
+          31
+        ],
+        "were": [
+          32,
+          98,
+          134
+        ],
+        "collected": [
+          33
+        ],
+        "from": [
+          34,
+          112,
+          201,
+          248
+        ],
+        "stations": [
+          36
+        ],
+        "an": [
+          38
+        ],
+        "area": [
+          39
+        ],
+        "covering": [
+          40
+        ],
+        "approximately": [
+          41
+        ],
+        "km2": [
+          43
+        ],
+        "offshore": [
+          46
+        ],
+        "northern": [
+          47
         ],
         "Gulf,": [
-          162
+          49,
+          250
         ],
-        "most": [
-          165
+        "using": [
+          50,
+          117
         ],
-        "diverse": [
-          166,
-          196
+        "a": [
+          51,
+          142
         ],
-        "compared": [
-          169
+        "van": [
+          52
         ],
-        "all": [
-          171
+        "Veen": [
+          53
         ],
-        "previous": [
-          172
+        "grab": [
+          54,
+          114
         ],
-        "studies.": [
-          173
+        "(0.1": [
+          55
         ],
-        "provides": [
-          176
+        "m2": [
+          56
         ],
-        "evidence": [
-          177
+        "area)": [
+          57
         ],
-        "full": [
-          180
+        "top": [
+          60,
+          104
         ],
-        "recovery": [
+        "cm": [
+          62,
+          106
+        ],
+        "was": [
+          63,
+          73,
+          107
+        ],
+        "analysed": [
+          64
+        ],
+        "for": [
+          65,
+          83,
+          109,
+          144,
+          266
+        ],
+        "living": [
+          66,
+          243,
+          255,
+          289
+        ],
+        "foraminifera.": [
+          68
+        ],
+        "set": [
+          70,
+          81
+        ],
+        "devoted": [
+          74
+        ],
+        "foraminiferal": [
+          76,
+          110,
+          150,
+          223
+        ],
+        "analysis": [
+          77
+        ],
+        "while": [
+          78
+        ],
+        "other,": [
+          80
+        ],
+        "B,": [
+          82
+        ],
+        "analyses.": [
+          85
+        ],
+        "In": [
+          86
+        ],
+        "situ": [
+          87
+        ],
+        "hydrographical": [
+          88
+        ],
+        "such": [
+          90
+        ],
+        "as": [
+          91,
           181
         ],
-        "areas": [
-          183
+        "temperature,": [
+          92
         ],
-        "impacted": [
-          184
+        "salinity,": [
+          93
         ],
-        "during": [
+        "pH,": [
+          94
+        ],
+        "turbidity": [
+          95
+        ],
+        "DO": [
+          97
+        ],
+        "measured": [
+          99
+        ],
+        "at": [
+          100
+        ],
+        "surface": [
+          101
+        ],
+        "waters.": [
+          102
+        ],
+        "The": [
+          103,
+          136
+        ],
+        "subsampled": [
+          108
+        ],
+        "analyses": [
+          111
+        ],
+        "preserved": [
+          116
+        ],
+        "70%": [
+          118
+        ],
+        "ethanol": [
+          119
+        ],
+        "with": [
+          120
+        ],
+        "Rose-Bengal": [
+          121
+        ],
+        "stain.": [
+          122
+        ],
+        "Potentially": [
+          123
+        ],
+        "Toxic": [
+          124
+        ],
+        "Elements": [
+          125
+        ],
+        "(PTE)": [
+          126
+        ],
+        "levels": [
+          127,
+          146
+        ],
+        "grain": [
+          131
+        ],
+        "size": [
+          132
+        ],
+        "distributions": [
+          133
+        ],
+        "analysed.": [
+          135
+        ],
+        "is": [
+          138,
+          280
+        ],
+        "expected": [
+          139
+        ],
+        "provide": [
+          141
+        ],
+        "PTE": [
+          145
+        ],
+        "sediment,": [
+          148
+        ],
+        "communities,": [
+          151
+        ],
+        "identify": [
+          153
+        ],
+        "endemic": [
+          154
+        ],
+        "species": [
+          155,
+          246
+        ],
+        "adapted": [
+          156,
+          225
+        ],
+        "extremes": [
+          158
+        ],
+        "temperature": [
+          160
+        ],
+        "saline": [
+          162
+        ],
+        "conditions": [
+          163,
+          184,
+          230
+        ],
+        "typical": [
+          164
+        ],
+        "Gulf.": [
+          167,
+          233
+        ],
+        "It": [
+          168,
+          262
+        ],
+        "can": [
+          169
+        ],
+        "also": [
+          170,
+          263
+        ],
+        "be": [
+          171
+        ],
+        "used": [
+          172
+        ],
+        "by": [
+          173,
+          282
+        ],
+        "environmental": [
+          174,
+          195,
+          229
+        ],
+        "managers,": [
+          175
+        ],
+        "micropaleotologists,": [
+          176
+        ],
+        "students": [
+          177
+        ],
+        "environmental/geology/marine": [
+          179
+        ],
+        "science": [
+          180
+        ],
+        "reference": [
+          182
+        ],
+        "background": [
+          183,
+          212
+        ],
+        "based": [
           185
         ],
-        "Gulf": [
+        "on": [
+          186
+        ],
+        "toxicity": [
           188
         ],
-        "oil": [
-          189
+        "community": [
+          191,
+          256
         ],
-        "spill": [
-          190
+        "information": [
+          192
         ],
-        "which": [
-          191
+        "revising": [
+          194
         ],
-        "evident": [
-          193
+        "guidelines": [
+          196
         ],
-        "flourishing": [
-          198
-        ],
-        "assemblages": [
+        "region.": [
           199
         ],
-        "documented.": [
+        "Data": [
+          200
+        ],
+        "this": [
+          202,
+          236
+        ],
+        "study": [
+          203
+        ],
+        "suggest": [
           204
+        ],
+        "that": [
+          205
+        ],
+        "PTEs": [
+          206
+        ],
+        "are": [
+          207
+        ],
+        "within": [
+          208
+        ],
+        "range": [
+          210
+        ],
+        "values,": [
+          213
+        ],
+        "support": [
+          217
+        ],
+        "highly": [
+          218
+        ],
+        "diversified": [
+          219
+        ],
+        "stable": [
+          221
+        ],
+        "communities": [
+          224
+        ],
+        "unique": [
+          228
+        ],
+        "To": [
+          234
+        ],
+        "date,": [
+          235
+        ],
+        "documents": [
+          238
+        ],
+        "highest": [
+          240
+        ],
+        "number": [
+          241
+        ],
+        "reported": [
+          247
+        ],
+        "most": [
+          253
+        ],
+        "diverse": [
+          254,
+          284
+        ],
+        "compared": [
+          257
+        ],
+        "all": [
+          259
+        ],
+        "previous": [
+          260
+        ],
+        "studies.": [
+          261
+        ],
+        "provides": [
+          264
+        ],
+        "evidence": [
+          265
+        ],
+        "full": [
+          268
+        ],
+        "recovery": [
+          269
+        ],
+        "areas": [
+          271
+        ],
+        "impacted": [
+          272
+        ],
+        "during": [
+          273
+        ],
+        "Gulf": [
+          276
+        ],
+        "oil": [
+          277
+        ],
+        "spill": [
+          278
+        ],
+        "which": [
+          279
+        ],
+        "evident": [
+          281
+        ],
+        "flourishing": [
+          286
+        ],
+        "assemblages": [
+          287
+        ],
+        "documented.": [
+          292
         ]
       },
       "counts_by_year": [
@@ -97647,7 +98906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-05-16T08:24:45.110214",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117361,7 +118620,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-15T08:27:34.491423",
+      "updated_date": "2026-05-15T06:05:50.897203",
       "created_date": "2025-10-10T00:00:00"
     },
     {
