@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sat, 16 May 2026 21:47:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:55:01 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Oil‐Bearing Shale Potential of Thanetian‐Ypresian Patala Formation in the Kohat Plateau (North Pakistan), Characterized by Geochemical, Mineralogical and Petrographical Dataset and 1D Basin Modelling Analysis</title>
@@ -925,6 +925,34 @@
       <description>Abstract: Geochemical data provide comprehensive insights into reservoir chemistry, commonly obtained from well logs or through the laboratory analysis of core or cuttings samples. Data may be missing from certain intervals due to mechanical failures or geological complexity. This study evaluates the efficacy of machine learning methods in predicting missing element values within the Vaca Muerta Formation (Tithonian) located in Argentina, utilising X-ray fluorescence (XRF) results from 14 wells. Two approaches were evaluated: 1) Imputation methods to complete missing elements across specific depth intervals and testing four algorithms: K-nearest neighbour (KNN), multiple imputations by chained equations (MICE), miceforest, and Multiple Imputation with Denoising Autoencoders (MIDAS); 2) Prediction methods for estimating trace elements based on major elements concentrations, using selected “training” wells and comparing four ensemble tree-based algorithms: random forest (RF), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), and Histogram-based Gradient Boosting Regression Tree (HGBT). Model validation involved statistical metrics (NRMSE and R2) and qualitative assessments, including comparisons between observed and predicted elemental values and comparison of wireline gamma-ray logs versus synthetic gamma-ray (derived from K, U, and Th). Imputation metrics indicated that KNN and miceforest outperformed alternative algorithms (NRMSE &lt;0.1), with miceforest p…&#10;Topics: Missing data, Imputation (statistics), Gradient boosting, Random forest, Boosting (machine learning)&#10;Venue: Unconventional Resources&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>OpenGeo</title>
+      <link>https://doi.org/10.5281/zenodo.17915410</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7115004822</guid>
+      <dc:creator>Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Computer science</category>
+      <category>Work (physics)</category>
+      <category>Natural (archaeology)</category>
+      <category>Engineering</category>
+      <category>Artificial intelligence</category>
+      <description>Abstract: An open catalogue of geoscience software, datasets, and learning material designed to help researchers, educators, and practitioners find modern, open-source tools.&#10;Topics: Computer science, Work (physics), Natural (archaeology), Engineering, Artificial intelligence&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>FutureGeo</title>
+      <link>https://doi.org/10.5281/zenodo.17915559</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7115017761</guid>
+      <dc:creator>Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Sustainable development</category>
+      <category>Political science</category>
+      <category>Work (physics)</category>
+      <category>Business</category>
+      <category>Engineering</category>
+      <description>Abstract: Geosciences for the Future: A website showcasing how geoscientists play a vital role in tackling society’s future challenges through the United Nations Sustainable Development Goals. Discover more: Inside the FutureGeo website&#10;Topics: Sustainable development, Political science, Work (physics), Business, Engineering&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Integrated Multi-Source Data Fusion Framework Incorporating Surface Deformation, Seismicity, and Hydrological Indicators for Geohazard Risk Mapping in Oil and Gas Fields</title>
       <link>https://doi.org/10.3390/earth6040157</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
@@ -1355,34 +1383,6 @@
       <category>Reservoir modeling</category>
       <category>Sedimentary depositional environment</category>
       <description>Abstract: Core-based data provide critical insights into subsurface reservoir characterization by offering direct observations of rock formations, including lithology, sedimentary structures, and minerals. However, core analysis is frequently compromised by missing intervals resulting from extraction damage, handling losses, and the common practice of drilling inch-size plugs for laboratory analysis. These gaps create significant interpretation challenges, particularly in heterogeneous formations where spatial continuity is essential for accurate reservoir modeling. Given the high operational costs and strategic value of core data, developing reliable methods for reconstructing missing core sections represents a crucial advancement in reservoir evaluation. This study investigates the application of Stable Diffusion Model (SDM) for core interval/plug reconstruction, building on its proven success in conditioned image inpainting tasks. Through systematic evaluation across diverse depositional environments, we demonstrate SDM&apos;s effectiveness in reconstructing homogeneous intervals and gradual facies transition zones, while testing its limitations in handling complex heterogeneous zones with abrupt facies changes. The model shows strengths in restoring sedimentary textures and bedding architectures but faces challenges in accurately predicting the locations of sharp facies boundaries. Our approach enhances the utility of incomplete core images, and the findings along with the proposed pote…&#10;Topics: Facies, Geology, Core (optical fiber), Reservoir modeling, Sedimentary depositional environment&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Geochemical Indicators of Organic Matter Combustion Governed by Pyrometamorphism in Columnar-Jointed Carbonate Source Rocks</title>
-      <link>https://doi.org/10.1021/acsomega.5c01727</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415216698</guid>
-      <dc:creator>Issa M. Makhlouf, Khalil Ibrahim, Samer Aljurf, Israa S. Abu‐Mahfouz</dc:creator>
-      <dc:publisher>ACS Omega</dc:publisher>
-      <category>Geology</category>
-      <category>Petrography</category>
-      <category>Carbonate</category>
-      <category>Marl</category>
-      <category>Bedding</category>
-      <description>Abstract: This study reports a well-developed columnar joint set in organic-rich carbonate source rocks, exhibiting distinct vertical prismatic columns with hexagonal to polygonal cross sections. These columnar joints are found within the Upper Cretaceous Muwaqqar Chalk Marl (MCM) Formation, in central Jordan. While columnar joints are commonly observed in igneous rocks, their occurrence in carbonate mudrocks is unique and has rarely been documented in stratigraphic records. This study aims to characterize the geometry and petrographic features of columnar joints observed in organic-rich carbonate source rocks and investigate the mineralogical and geochemical alterations associated with their development. Thorough petrographic and geochemical investigations were carried out to better understand the characteristics, paleoenvironmental context, and associated processes that controlled the formation of these honeycomb-shaped mudrocks. Our findings suggest that the observed columnar joints resulted from subsurface thermal alteration due to the endogenous combustion of the organic-rich carbonate source rocks. This combustion process has led to the development of joints oriented perpendicular to the bedding planes, extending throughout a 2-m-thick interval. These joints slightly taper downward while preserving their polygonal pattern, with column diameter decreasing from 3 to 1 cm. The development of columnar joints within the study interval is primarily attributed to volume contraction resu…&#10;Topics: Geology, Petrography, Carbonate, Marl, Bedding&#10;Venue: ACS Omega&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Intermittent connectivity determines the oxygenation in the Favenc and lower Wilton packages of the greater McArthur Basin, northern Australia</title>
-      <link>https://doi.org/10.1080/08120099.2025.2559364</link>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415095084</guid>
-      <dc:creator>Darwinaji Subarkah, Morgan Blades, Alan S. Collins, Juraj Farkaš, Georgina Virgo</dc:creator>
-      <dc:publisher>Australian Journal of Earth Sciences</dc:publisher>
-      <category>Geology</category>
-      <category>Oxygenation</category>
-      <category>Paleontology</category>
-      <category>Period (music)</category>
-      <category>Physical geography</category>
-      <description>Topics: Geology, Oxygenation, Paleontology, Period (music), Physical geography&#10;Venue: Australian Journal of Earth Sciences&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

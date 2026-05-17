@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1252,
-    "citations": 22325
+    "citations": 22328
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1030,
-    "citations": 29085
+    "citations": 29087
   },
   {
     "id": "https://openalex.org/T10017",
@@ -38,7 +38,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 641,
-    "citations": 18420
+    "citations": 18422
   },
   {
     "id": "https://openalex.org/T10001",
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 141,
-    "citations": 3444
+    "citations": 3445
   },
   {
     "id": "https://openalex.org/T10892",
@@ -218,7 +218,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10385",
     "name": "Plant Diversity and Evolution",
     "publications": 39,
-    "citations": 1324
+    "citations": 1325
   },
   {
     "id": "https://openalex.org/T10325",
@@ -338,7 +338,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12218",
     "name": "Coal and Its By-products",
     "publications": 18,
-    "citations": 347
+    "citations": 348
   },
   {
     "id": "https://openalex.org/T11634",
@@ -632,7 +632,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T14049",
     "name": "Plant and Fungal Species Descriptions",
     "publications": 8,
-    "citations": 275
+    "citations": 276
   },
   {
     "id": "https://openalex.org/T12012",
@@ -1529,16 +1529,16 @@ export const topicStats: TopicStats[] = [
     "citations": 11
   },
   {
-    "id": "https://openalex.org/T12424",
-    "name": "Earthquake Detection and Analysis",
+    "id": "https://openalex.org/T10825",
+    "name": "Plant Pathogens and Fungal Diseases",
     "publications": 2,
     "citations": 11
   },
   {
-    "id": "https://openalex.org/T10825",
-    "name": "Plant Pathogens and Fungal Diseases",
+    "id": "https://openalex.org/T12424",
+    "name": "Earthquake Detection and Analysis",
     "publications": 2,
-    "citations": 10
+    "citations": 11
   },
   {
     "id": "https://openalex.org/T11459",
@@ -3616,8 +3616,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 905,
-    "citations": 10273
+    "publications": 906,
+    "citations": 10274
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3635,13 +3635,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 169,
-    "citations": 4145
+    "citations": 4146
   },
   {
     "id": "https://openalex.org/I1294671590",
     "name": "Centre National de la Recherche Scientifique",
     "publications": 134,
-    "citations": 6063
+    "citations": 6064
   },
   {
     "id": "https://openalex.org/I60342839",
@@ -3743,7 +3743,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I2279609970",
     "name": "Université de Lille",
     "publications": 44,
-    "citations": 1648
+    "citations": 1649
   },
   {
     "id": "https://openalex.org/I4210158893",
@@ -3755,7 +3755,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4576418",
     "name": "University of Technology Malaysia",
     "publications": 39,
-    "citations": 245
+    "citations": 246
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -3833,7 +3833,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I123387679",
     "name": "Uppsala University",
     "publications": 24,
-    "citations": 1711
+    "citations": 1713
   },
   {
     "id": "https://openalex.org/I185163786",
@@ -4013,7 +4013,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I91136226",
     "name": "University of Sheffield",
     "publications": 17,
-    "citations": 274
+    "citations": 275
   },
   {
     "id": "https://openalex.org/I32597200",
@@ -4391,7 +4391,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1286361989",
     "name": "American Petroleum Institute",
     "publications": 10,
-    "citations": 1104
+    "citations": 1106
   },
   {
     "id": "https://openalex.org/I113428412",
@@ -4487,7 +4487,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I130309236",
     "name": "Kafrelsheikh University",
     "publications": 9,
-    "citations": 337
+    "citations": 338
   },
   {
     "id": "https://openalex.org/I129801699",
@@ -4625,7 +4625,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I23906160",
     "name": "University of Tripoli",
     "publications": 8,
-    "citations": 438
+    "citations": 439
   },
   {
     "id": "https://openalex.org/I2801711128",
@@ -4895,7 +4895,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I184942183",
     "name": "University of Oslo",
     "publications": 6,
-    "citations": 1040
+    "citations": 1041
   },
   {
     "id": "https://openalex.org/I182078086",
@@ -4967,7 +4967,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21376657",
     "name": "Tanta University",
     "publications": 6,
-    "citations": 278
+    "citations": 279
   },
   {
     "id": "https://openalex.org/I154130895",
@@ -5414,16 +5414,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 57
   },
   {
-    "id": "https://openalex.org/I114432678",
-    "name": "Tafila Technical University",
+    "id": "https://openalex.org/I1337471766",
+    "name": "Wadia Institute of Himalayan Geology",
     "publications": 5,
     "citations": 50
   },
   {
-    "id": "https://openalex.org/I1337471766",
-    "name": "Wadia Institute of Himalayan Geology",
+    "id": "https://openalex.org/I114432678",
+    "name": "Tafila Technical University",
     "publications": 5,
-    "citations": 49
+    "citations": 50
   },
   {
     "id": "https://openalex.org/I45711476",
@@ -5453,7 +5453,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I91357014",
     "name": "Banaras Hindu University",
     "publications": 5,
-    "citations": 6
+    "citations": 7
   },
   {
     "id": "https://openalex.org/I3019007082",
@@ -5801,7 +5801,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I45643870",
     "name": "Pontifícia Universidade Católica do Rio Grande do Sul",
     "publications": 3,
-    "citations": 800
+    "citations": 801
   },
   {
     "id": "https://openalex.org/I4210126299",
@@ -5813,7 +5813,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I130442723",
     "name": "Universidade Federal do Rio Grande do Sul",
     "publications": 3,
-    "citations": 796
+    "citations": 797
   },
   {
     "id": "https://openalex.org/I205349734",
@@ -6527,7 +6527,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210146975",
     "name": "Zambon (Italy)",
     "publications": 2,
-    "citations": 276
+    "citations": 277
   },
   {
     "id": "https://openalex.org/I4210129588",
@@ -6551,7 +6551,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I3019848993",
     "name": "Mines Saint-Étienne",
     "publications": 2,
-    "citations": 266
+    "citations": 267
   },
   {
     "id": "https://openalex.org/I16391192",
@@ -6587,7 +6587,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I9360294",
     "name": "University of Bologna",
     "publications": 2,
-    "citations": 219
+    "citations": 220
   },
   {
     "id": "https://openalex.org/I4210163172",

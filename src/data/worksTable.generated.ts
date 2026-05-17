@@ -25625,7 +25625,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.2278,
+    "fwci": 2.228,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -40490,7 +40490,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Energies",
     "citations": 14,
-    "fwci": 8.8629,
+    "fwci": 8.835,
     "topics": [
       "NMR spectroscopy and applications",
       "Spectroscopy and Chemometric Analyses",
@@ -43191,6 +43191,51 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4414299984",
+    "doi": "https://doi.org/10.1016/j.coal.2025.104882",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5118985572",
+      "A5084955779",
+      "A5104150380",
+      "A5032413631",
+      "A5102858778",
+      "A5087029702",
+      "A5112471864"
+    ],
+    "firstAuthorLastName": "Upadhayay",
+    "allAuthors": [
+      "Neeraj Kumar Upadhayay",
+      "A. S. Naik",
+      "Shweta Rai",
+      "Prakash K. Singh",
+      "Alok Kumar",
+      "Afikah Rahim",
+      "Mohammed Hail Hakimi",
+      "G. V. Pavan Kumar",
+      "Pramod K. Rajak"
+    ],
+    "title": "Geochemical and petrological characteristics coupled with stable isotope of the Permian Gondwana coals from Tatapani–Ramkola Coalfield, Son–Mahanadi Basin, India: Insights for paleodepositional and paleoclimate conditions",
+    "publicationDate": "2025-09-17",
+    "year": 2025,
+    "venue": "International Journal of Coal Geology",
+    "citations": 2,
+    "fwci": 2.1479,
+    "topics": [
+      "Coal and Its By-products",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Banaras Hindu University",
+      "University of Technology Malaysia",
+      "Taiz University",
+      "Wadia Institute of Himalayan Geology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4414413720",
     "doi": "https://doi.org/10.1016/j.jafrearsci.2025.105848",
     "program": "",
@@ -44615,51 +44660,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Technology Malaysia",
       "Petroleum Technology Company (Norway)",
       "University of Azad Jammu and Kashmir"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4414299984",
-    "doi": "https://doi.org/10.1016/j.coal.2025.104882",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5118985572",
-      "A5084955779",
-      "A5104150380",
-      "A5032413631",
-      "A5102858778",
-      "A5087029702",
-      "A5112471864"
-    ],
-    "firstAuthorLastName": "Upadhayay",
-    "allAuthors": [
-      "Neeraj Kumar Upadhayay",
-      "A. S. Naik",
-      "Shweta Rai",
-      "Prakash K. Singh",
-      "Alok Kumar",
-      "Afikah Rahim",
-      "Mohammed Hail Hakimi",
-      "G. V. Pavan Kumar",
-      "Pramod K. Rajak"
-    ],
-    "title": "Geochemical and petrological characteristics coupled with stable isotope of the Permian Gondwana coals from Tatapani–Ramkola Coalfield, Son–Mahanadi Basin, India: Insights for paleodepositional and paleoclimate conditions",
-    "publicationDate": "2025-09-17",
-    "year": 2025,
-    "venue": "International Journal of Coal Geology",
-    "citations": 1,
-    "fwci": 1.122,
-    "topics": [
-      "Coal and Its By-products",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "Banaras Hindu University",
-      "University of Technology Malaysia",
-      "Taiz University",
-      "Wadia Institute of Himalayan Geology"
     ]
   },
   {
@@ -50642,7 +50642,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.3007,
+    "fwci": 1.2978,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52841,6 +52841,50 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W7115004822",
+    "doi": "https://doi.org/10.5281/zenodo.17915410",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035537771",
+    "allAuthorOpenAlexIds": [
+      "A5035537771"
+    ],
+    "firstAuthorLastName": "Alqubalee",
+    "allAuthors": [
+      "Abdullah Alqubalee"
+    ],
+    "title": "OpenGeo",
+    "publicationDate": "2025-12-12",
+    "year": 2025,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7115017761",
+    "doi": "https://doi.org/10.5281/zenodo.17915559",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035537771",
+    "allAuthorOpenAlexIds": [
+      "A5035537771"
+    ],
+    "firstAuthorLastName": "Alqubalee",
+    "allAuthors": [
+      "Abdullah Alqubalee"
+    ],
+    "title": "FutureGeo",
+    "publicationDate": "2025-12-12",
+    "year": 2025,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W7116794122",
@@ -71474,6 +71518,41 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1991302068",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2008.07.008",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039685767",
+    "allAuthorOpenAlexIds": [
+      "A5039685767",
+      "A5058654714",
+      "A5043786382",
+      "A5080635299"
+    ],
+    "firstAuthorLastName": "Wellman",
+    "allAuthors": [
+      "Charles H. Wellman",
+      "Caroline Arioli",
+      "E. Spinner",
+      "Marco Vecoli"
+    ],
+    "title": "Morphology and wall ultrastructure of the megaspore Lagenicula (Triletes) mixta (Winslow 1962) comb. nov. from the Carboniferous (Early Mississippian: mid Tournaisian) of Ohio, USA",
+    "publicationDate": "2008-08-04",
+    "year": 2008,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 10,
+    "fwci": 1.3027,
+    "topics": [
+      "Plant Diversity and Evolution",
+      "Plant and Fungal Species Descriptions",
+      "Plant Pathogens and Fungal Diseases"
+    ],
+    "institutions": [
+      "University of Sheffield",
+      "Université de Lille",
+      "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3193308600",
     "doi": "https://doi.org/10.1016/j.cretres.2021.104995",
     "program": "",
@@ -71606,7 +71685,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Earth-Science Reviews",
     "citations": 6,
-    "fwci": 3.5365,
+    "fwci": 3.4768,
     "topics": [
       "Plant Diversity and Evolution",
       "Fern and Epiphyte Biology",
@@ -72306,41 +72385,6 @@ export const worksTable: WorkTableRecord[] = [
       "Martin Luther University Halle-Wittenberg",
       "Polish Academy of Sciences",
       "Instytut Nauk Geologicznych"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1991302068",
-    "doi": "https://doi.org/10.1016/j.revpalbo.2008.07.008",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039685767",
-    "allAuthorOpenAlexIds": [
-      "A5039685767",
-      "A5058654714",
-      "A5043786382",
-      "A5080635299"
-    ],
-    "firstAuthorLastName": "Wellman",
-    "allAuthors": [
-      "Charles H. Wellman",
-      "Caroline Arioli",
-      "E. Spinner",
-      "Marco Vecoli"
-    ],
-    "title": "Morphology and wall ultrastructure of the megaspore Lagenicula (Triletes) mixta (Winslow 1962) comb. nov. from the Carboniferous (Early Mississippian: mid Tournaisian) of Ohio, USA",
-    "publicationDate": "2008-08-04",
-    "year": 2008,
-    "venue": "Review of Palaeobotany and Palynology",
-    "citations": 9,
-    "fwci": 1.2843,
-    "topics": [
-      "Plant Diversity and Evolution",
-      "Plant and Fungal Species Descriptions",
-      "Plant Pathogens and Fungal Diseases"
-    ],
-    "institutions": [
-      "University of Sheffield",
-      "Université de Lille",
-      "Centre National de la Recherche Scientifique"
     ]
   },
   {
@@ -83695,8 +83739,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-09-05",
     "year": 2007,
     "venue": "Marine and Petroleum Geology",
-    "citations": 206,
-    "fwci": 5.5391,
+    "citations": 207,
+    "fwci": 5.543,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -87289,7 +87333,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.1011,
+    "fwci": 32.0776,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -92939,7 +92983,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Basin Research",
     "citations": 35,
-    "fwci": 5.2338,
+    "fwci": 5.2349,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -93166,7 +93210,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 31,
-    "fwci": 8.3327,
+    "fwci": 8.3161,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -94220,7 +94264,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Scientific Reports",
     "citations": 28,
-    "fwci": 1.9026,
+    "fwci": 1.9029,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -134144,8 +134188,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 717,
-    "fwci": 13.4979,
+    "citations": 718,
+    "fwci": 13.4971,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -134997,7 +135041,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 2.0829,
+    "fwci": 2.0807,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",

@@ -33,7 +33,7 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "abdullah.alqubalee@kfupm.edu.sa",
     "orcid": "0000-0002-0543-9026",
-    "totalPublications": 49,
+    "totalPublications": 51,
     "totalCitations": 439,
     "hIndex": 13
   },
@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 180,
-    "totalCitations": 2553,
+    "totalCitations": 2554,
     "hIndex": 25
   },
   {
@@ -108,7 +108,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 131,
-    "totalCitations": 3056,
+    "totalCitations": 3057,
     "hIndex": 34
   },
   {
@@ -126,7 +126,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 91,
-    "totalCitations": 1365,
+    "totalCitations": 1366,
     "hIndex": 21
   },
   {
@@ -378,7 +378,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 229,
-    "totalCitations": 4622,
+    "totalCitations": 4623,
     "hIndex": 41
   },
   {
