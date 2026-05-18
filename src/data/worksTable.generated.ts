@@ -9092,6 +9092,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2561813862",
+    "doi": "https://doi.org/10.1002/2016jb013486",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5043114681",
+      "A5085843802",
+      "A5059778018"
+    ],
+    "firstAuthorLastName": "Li",
+    "allAuthors": [
+      "Hongyan Li",
+      "Yi‐Gang Xu",
+      "Jeffrey G. Ryan",
+      "Scott Whattam"
+    ],
+    "title": "Evolution of the mantle beneath the eastern North China Craton during the Cenozoic: Linking geochemical and geophysical observations",
+    "publicationDate": "2016-12-30",
+    "year": 2016,
+    "venue": "Journal of Geophysical Research Solid Earth",
+    "citations": 32,
+    "fwci": 3.743,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Sciences",
+      "Guangzhou Institute of Geochemistry",
+      "University of South Florida",
+      "Korea University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2462123897",
     "doi": "https://doi.org/10.1016/j.lithos.2016.06.017",
     "program": "",
@@ -9124,42 +9160,6 @@ export const worksTable: WorkTableRecord[] = [
       "Virginia Tech",
       "Korea Basic Science Institute",
       "Universidad de Costa Rica"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2561813862",
-    "doi": "https://doi.org/10.1002/2016jb013486",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5043114681",
-      "A5085843802",
-      "A5059778018"
-    ],
-    "firstAuthorLastName": "Li",
-    "allAuthors": [
-      "Hongyan Li",
-      "Yi‐Gang Xu",
-      "Jeffrey G. Ryan",
-      "Scott Whattam"
-    ],
-    "title": "Evolution of the mantle beneath the eastern North China Craton during the Cenozoic: Linking geochemical and geophysical observations",
-    "publicationDate": "2016-12-30",
-    "year": 2016,
-    "venue": "Journal of Geophysical Research Solid Earth",
-    "citations": 31,
-    "fwci": 3.7429,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Sciences",
-      "Guangzhou Institute of Geochemistry",
-      "University of South Florida",
-      "Korea University"
     ]
   },
   {
@@ -10260,6 +10260,53 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4411087739",
+    "doi": "https://doi.org/10.1016/j.epsl.2025.119467",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5089149869",
+      "A5053428736",
+      "A5072460934",
+      "A5073443073",
+      "A5065413322",
+      "A5013582768",
+      "A5051184115"
+    ],
+    "firstAuthorLastName": "Pilia",
+    "allAuthors": [
+      "Simone Pilia",
+      "Giampiero Iaffaldano",
+      "D. Rhodri Davies",
+      "M. Ismaiel",
+      "Paolo A. Sossi",
+      "Scott Whattam",
+      "Dapeng Zhao",
+      "Hu Ha"
+    ],
+    "title": "Ghost plumes hidden beneath Earth’s continents",
+    "publicationDate": "2025-06-06",
+    "year": 2025,
+    "venue": "Earth and Planetary Science Letters",
+    "citations": 2,
+    "fwci": 3.0228,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Parma",
+      "Australian National University",
+      "Indian Institute of Science Education and Research Pune",
+      "ETH Zurich",
+      "Tohoku University",
+      "Zhejiang University of Water Resource and Electric Power"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4412890921",
     "doi": "https://doi.org/10.1515/9783111437040-019",
     "program": "",
@@ -10907,53 +10954,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "University of Cambridge",
       "Meteorological, Climatological, And Geophysical Agency"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4411087739",
-    "doi": "https://doi.org/10.1016/j.epsl.2025.119467",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5089149869",
-      "A5053428736",
-      "A5072460934",
-      "A5073443073",
-      "A5065413322",
-      "A5013582768",
-      "A5051184115"
-    ],
-    "firstAuthorLastName": "Pilia",
-    "allAuthors": [
-      "Simone Pilia",
-      "Giampiero Iaffaldano",
-      "D. Rhodri Davies",
-      "M. Ismaiel",
-      "Paolo A. Sossi",
-      "Scott Whattam",
-      "Dapeng Zhao",
-      "Hu Ha"
-    ],
-    "title": "Ghost plumes hidden beneath Earth’s continents",
-    "publicationDate": "2025-06-06",
-    "year": 2025,
-    "venue": "Earth and Planetary Science Letters",
-    "citations": 1,
-    "fwci": 1.6571,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Parma",
-      "Australian National University",
-      "Indian Institute of Science Education and Research Pune",
-      "ETH Zurich",
-      "Tohoku University",
-      "Zhejiang University of Water Resource and Electric Power"
     ]
   },
   {
@@ -26926,6 +26926,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4225129549",
+    "doi": "https://doi.org/10.3390/min12050555",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5044660229",
+      "A5024338561",
+      "A5085007251"
+    ],
+    "firstAuthorLastName": "Bello",
+    "allAuthors": [
+      "Abdulwahab Muhammad Bello",
+      "Stuart J. Jones",
+      "Jon Gluyas",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Impact of Grain-Coating Clays on Porosity Preservation in Paleocene Turbidite Channel Sandstones: Nelson Oil Field, UK Central North Sea",
+    "publicationDate": "2022-04-29",
+    "year": 2022,
+    "venue": "Minerals",
+    "citations": 31,
+    "fwci": 3.4136,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Durham University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4306251871",
     "doi": "https://doi.org/10.1016/j.apenergy.2022.120098",
     "program": "",
@@ -26958,40 +26992,6 @@ export const worksTable: WorkTableRecord[] = [
       "Birmingham City University",
       "University of Aberdeen",
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4225129549",
-    "doi": "https://doi.org/10.3390/min12050555",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5044660229",
-      "A5024338561",
-      "A5085007251"
-    ],
-    "firstAuthorLastName": "Bello",
-    "allAuthors": [
-      "Abdulwahab Muhammad Bello",
-      "Stuart J. Jones",
-      "Jon Gluyas",
-      "Khalid Al‐Ramadan"
-    ],
-    "title": "Impact of Grain-Coating Clays on Porosity Preservation in Paleocene Turbidite Channel Sandstones: Nelson Oil Field, UK Central North Sea",
-    "publicationDate": "2022-04-29",
-    "year": 2022,
-    "venue": "Minerals",
-    "citations": 30,
-    "fwci": 3.4143,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "CO2 Sequestration and Geologic Interactions"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Durham University"
     ]
   },
   {
@@ -27964,6 +27964,41 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4412746153",
+    "doi": "https://doi.org/10.1016/j.energy.2025.137837",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5074832503",
+      "A5024608621",
+      "A5049649985",
+      "A5083699619"
+    ],
+    "firstAuthorLastName": "Mohammed",
+    "allAuthors": [
+      "Isah Mohammed",
+      "Dhafer Al Shehri",
+      "Abdulwahab Muhammad Bello",
+      "Mohamed Mahmoud",
+      "Sagheer A. Onaizi"
+    ],
+    "title": "Impact of hydrogen sulfide on CO2 mineralization and carbon storage efficiency",
+    "publicationDate": "2025-07-30",
+    "year": 2025,
+    "venue": "Energy",
+    "citations": 4,
+    "fwci": 2.5873,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Methane Hydrates and Related Phenomena",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4414459744",
     "doi": "https://doi.org/10.1130/g53737.1",
     "program": "",
@@ -27991,41 +28026,6 @@ export const worksTable: WorkTableRecord[] = [
       "Clay minerals and soil interactions",
       "Soil and Unsaturated Flow",
       "Granular flow and fluidized beds"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4412746153",
-    "doi": "https://doi.org/10.1016/j.energy.2025.137837",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5074832503",
-      "A5024608621",
-      "A5049649985",
-      "A5083699619"
-    ],
-    "firstAuthorLastName": "Mohammed",
-    "allAuthors": [
-      "Isah Mohammed",
-      "Dhafer Al Shehri",
-      "Abdulwahab Muhammad Bello",
-      "Mohamed Mahmoud",
-      "Sagheer A. Onaizi"
-    ],
-    "title": "Impact of hydrogen sulfide on CO2 mineralization and carbon storage efficiency",
-    "publicationDate": "2025-07-30",
-    "year": 2025,
-    "venue": "Energy",
-    "citations": 3,
-    "fwci": 2.1337,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Methane Hydrates and Related Phenomena",
-      "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -31581,8 +31581,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-20",
     "year": 2023,
     "venue": "Fuel",
-    "citations": 80,
-    "fwci": 10.7967,
+    "citations": 81,
+    "fwci": 10.8574,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "CO2 Sequestration and Geologic Interactions",
@@ -31766,8 +31766,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-05-21",
     "year": 2024,
     "venue": "Fuel",
-    "citations": 26,
-    "fwci": 6.1998,
+    "citations": 27,
+    "fwci": 6.1583,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -40490,7 +40490,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Energies",
     "citations": 14,
-    "fwci": 8.835,
+    "fwci": 8.8341,
     "topics": [
       "NMR spectroscopy and applications",
       "Spectroscopy and Chemometric Analyses",
@@ -50035,8 +50035,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-03",
     "year": 2023,
     "venue": "Molecules",
-    "citations": 20,
-    "fwci": 4.0271,
+    "citations": 21,
+    "fwci": 4.2182,
     "topics": [
       "Groundwater and Isotope Geochemistry",
       "Groundwater flow and contamination studies",
@@ -50528,6 +50528,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4411711243",
+    "doi": "https://doi.org/10.1016/j.ceja.2025.100798",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5076251382",
+      "A5118658853",
+      "A5072286524",
+      "A5030121582",
+      "A5044973807",
+      "A5073043057",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Salhi",
+    "allAuthors": [
+      "Billel Salhi",
+      "Juliana Alabdrabalreda",
+      "Jamilu Usman",
+      "Ismail Abdulazeez",
+      "Niaz Ali Khan",
+      "Mohammed Benaafi",
+      "Nadeem Baig",
+      "Isam H. Aljundi"
+    ],
+    "title": "Enhanced electrochemical performance and boron removal capacity of Mg-Al layered double hydroxide composite for membrane-free capacitive deionization applications",
+    "publicationDate": "2025-06-27",
+    "year": 2025,
+    "venue": "Chemical Engineering Journal Advances",
+    "citations": 4,
+    "fwci": 2.1862,
+    "topics": [
+      "Membrane-based Ion Separation Techniques",
+      "Advanced battery technologies research",
+      "Advancements in Battery Materials"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4408806439",
     "doi": "https://doi.org/10.1016/j.surfin.2025.106298",
     "program": "",
@@ -50566,47 +50607,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4411711243",
-    "doi": "https://doi.org/10.1016/j.ceja.2025.100798",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5076251382",
-      "A5118658853",
-      "A5072286524",
-      "A5030121582",
-      "A5044973807",
-      "A5073043057",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Salhi",
-    "allAuthors": [
-      "Billel Salhi",
-      "Juliana Alabdrabalreda",
-      "Jamilu Usman",
-      "Ismail Abdulazeez",
-      "Niaz Ali Khan",
-      "Mohammed Benaafi",
-      "Nadeem Baig",
-      "Isam H. Aljundi"
-    ],
-    "title": "Enhanced electrochemical performance and boron removal capacity of Mg-Al layered double hydroxide composite for membrane-free capacitive deionization applications",
-    "publicationDate": "2025-06-27",
-    "year": 2025,
-    "venue": "Chemical Engineering Journal Advances",
-    "citations": 3,
-    "fwci": 1.723,
-    "topics": [
-      "Membrane-based Ion Separation Techniques",
-      "Advanced battery technologies research",
-      "Advancements in Battery Materials"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4416556497",
     "doi": "https://doi.org/10.1080/10106049.2025.2586775",
     "program": "",
@@ -50642,7 +50642,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.2978,
+    "fwci": 1.2936,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -54071,8 +54071,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-06-25",
     "year": 2019,
     "venue": "National Science Review",
-    "citations": 61,
-    "fwci": 14.3019,
+    "citations": 62,
+    "fwci": 14.3139,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological Studies and Exploration",
@@ -68508,7 +68508,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "ACS Omega",
     "citations": 24,
-    "fwci": 2.4226,
+    "fwci": 2.4246,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -69866,7 +69866,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.4989,
+    "fwci": 18.5225,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -87249,7 +87249,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4286,
+    "fwci": 135.407,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -87333,7 +87333,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0776,
+    "fwci": 32.0782,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87553,7 +87553,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.8665,
+    "fwci": 2.8685,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -89662,7 +89662,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 81,
-    "fwci": 5.6921,
+    "fwci": 5.6918,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89699,7 +89699,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 75,
-    "fwci": 5.9197,
+    "fwci": 5.9195,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -104216,6 +104216,57 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7161476549",
+    "doi": "https://doi.org/10.2118/232716-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5047482366",
+    "allAuthorOpenAlexIds": [
+      "A5047482366",
+      "A5012862594",
+      "A5114507414",
+      "A5136345079",
+      "A5114507415",
+      "A5114507416",
+      "A5136330217",
+      "A5136338427",
+      "A5017009886",
+      "A5120722315",
+      "A5026249571",
+      "A5136346165",
+      "A5136350351"
+    ],
+    "firstAuthorLastName": "Chinchayan",
+    "allAuthors": [
+      "Gustavo Chinchayan",
+      "Mohammed Al Taiwani",
+      "Bilal Shaheed",
+      "Peiman Ahmadzadeh",
+      "Khalil Al Hinai",
+      "Bader Al Bahri",
+      "Fahad Al Shamli",
+      "Mohammed Kamali",
+      "Abdullah Al Nabhani",
+      "Rahul Kulkarni",
+      "Amur Al Habsi",
+      "Ahmed Al Ajmi",
+      "Hussain Al Ajmi"
+    ],
+    "title": "Successful Re-Entry on Wells Completed With Fiber Optic With Innovative Methodology and Instrumentation",
+    "publicationDate": "2026-05-18",
+    "year": 2026,
+    "venue": "",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Oil and Gas Production Techniques",
+      "Offshore Engineering and Technologies"
+    ],
+    "institutions": [
+      "Muscat College"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W958515711",
     "doi": "",
     "program": "",
@@ -113597,8 +113648,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1997-10-01",
     "year": 1997,
     "venue": "GeoArabia",
-    "citations": 112,
-    "fwci": 3.568,
+    "citations": 113,
+    "fwci": 3.5738,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -113760,8 +113811,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-01-01",
     "year": 2004,
     "venue": "GeoArabia",
-    "citations": 88,
-    "fwci": 7.1671,
+    "citations": 89,
+    "fwci": 7.1663,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -115748,6 +115799,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4410376202",
+    "doi": "https://doi.org/10.1021/acs.energyfuels.5c00327",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5059738250",
+      "A5063589100",
+      "A5024882078",
+      "A5018001631"
+    ],
+    "firstAuthorLastName": "Al‐Yaseri",
+    "allAuthors": [
+      "Ahmed Al‐Yaseri",
+      "Shanker Krishna",
+      "Hani Al-Mukainah",
+      "Ridha Al-Abdrabalnabi",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "Role of Brine Composition in Wormhole Formation and Carbonate Reactivity: Insights into the Role of Magnesium in Accelerated Dissolution and Dolomitization Potential",
+    "publicationDate": "2025-05-14",
+    "year": 2025,
+    "venue": "Energy & Fuels",
+    "citations": 7,
+    "fwci": 4.8756,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Pandit Deendayal Energy University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4391070881",
     "doi": "https://doi.org/10.1016/j.jseaes.2024.106027",
     "program": "",
@@ -115776,42 +115863,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4410376202",
-    "doi": "https://doi.org/10.1021/acs.energyfuels.5c00327",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5059738250",
-      "A5063589100",
-      "A5024882078",
-      "A5018001631"
-    ],
-    "firstAuthorLastName": "Al‐Yaseri",
-    "allAuthors": [
-      "Ahmed Al‐Yaseri",
-      "Shanker Krishna",
-      "Hani Al-Mukainah",
-      "Ridha Al-Abdrabalnabi",
-      "Ardiansyah Koeshidayatullah"
-    ],
-    "title": "Role of Brine Composition in Wormhole Formation and Carbonate Reactivity: Insights into the Role of Magnesium in Accelerated Dissolution and Dolomitization Potential",
-    "publicationDate": "2025-05-14",
-    "year": 2025,
-    "venue": "Energy & Fuels",
-    "citations": 6,
-    "fwci": 4.5911,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "CO2 Sequestration and Geologic Interactions"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Pandit Deendayal Energy University"
     ]
   },
   {
@@ -118584,6 +118635,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4385287273",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5085989529",
+      "A5079669280",
+      "A5069824368"
+    ],
+    "firstAuthorLastName": "Disi",
+    "allAuthors": [
+      "Zulfa Ali Al Disi",
+      "Fadhil Sadooni",
+      "Hamad Al-Saad Al-Kuwari",
+      "Tomaso R. R. Bontognali"
+    ],
+    "title": "Microbially influenced formation of anhydrite at low temperature",
+    "publicationDate": "2023-07-26",
+    "year": 2023,
+    "venue": "The Science of The Total Environment",
+    "citations": 13,
+    "fwci": 1.7425,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Qatar University",
+      "University of Basel"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3089140590",
     "doi": "https://doi.org/10.30632/pjv61n5-2020a1",
     "program": "",
@@ -118615,40 +118700,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Houston",
       "Qatar University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4385287273",
-    "doi": "https://doi.org/10.1016/j.scitotenv.2023.165820",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5085989529",
-      "A5079669280",
-      "A5069824368"
-    ],
-    "firstAuthorLastName": "Disi",
-    "allAuthors": [
-      "Zulfa Ali Al Disi",
-      "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "Tomaso R. R. Bontognali"
-    ],
-    "title": "Microbially influenced formation of anhydrite at low temperature",
-    "publicationDate": "2023-07-26",
-    "year": 2023,
-    "venue": "The Science of The Total Environment",
-    "citations": 12,
-    "fwci": 1.6104,
-    "topics": [
-      "Methane Hydrates and Related Phenomena",
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "Qatar University",
-      "University of Basel"
     ]
   },
   {
@@ -122261,8 +122312,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-09-15",
     "year": 2022,
     "venue": "Energy Conversion and Management X",
-    "citations": 80,
-    "fwci": 7.6612,
+    "citations": 81,
+    "fwci": 7.6605,
     "topics": [
       "Carbon Dioxide Capture Technologies",
       "CO2 Sequestration and Geologic Interactions",
@@ -122310,8 +122361,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-10",
     "year": 2023,
     "venue": "Earth-Science Reviews",
-    "citations": 75,
-    "fwci": 8.8841,
+    "citations": 76,
+    "fwci": 8.8651,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Reservoir Engineering and Simulation Methods",
@@ -125288,8 +125339,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-03-09",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 47,
-    "fwci": 6.5467,
+    "citations": 48,
+    "fwci": 6.434,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131282,6 +131333,62 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2603528832",
+    "doi": "https://doi.org/10.2113/gssgfbull.162.1.27",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5071039263",
+      "A5003392843",
+      "A5013491048",
+      "A5114260129",
+      "A5077928962",
+      "A5044581746",
+      "A5048339986",
+      "A5029896161",
+      "A5074890603",
+      "A5101740007",
+      "A5022151281",
+      "A5109445293"
+    ],
+    "firstAuthorLastName": "Fourcade",
+    "allAuthors": [
+      "E. Fourcade",
+      "Jean Dercourt",
+      "Yahya Günay",
+      "Jacques Azéma",
+      "Hayriye Hale Kozlu",
+      "J.P. Bellier",
+      "Fabrice Cordey",
+      "Pierrick Cros",
+      "Patrick De Wever",
+      "Raymond Énay",
+      "J. Hernández",
+      "J. Lauer",
+      "Bruno Vrielynck"
+    ],
+    "title": "Stratigraphie et paleogeographie de la marge septentrionale de la plate-forme arabe au mesozoique (Turquie du sud-est)",
+    "publicationDate": "1991-01-01",
+    "year": 1991,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 47,
+    "fwci": 2.5843,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Institut des Matériaux, de Microélectronique et des Nanosciences de Provence",
+      "Centre National de la Recherche Scientifique",
+      "École Normale Supérieure de Lyon",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Jean Monnet",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2000921130",
     "doi": "https://doi.org/10.1016/j.geobios.2003.05.006",
     "program": "",
@@ -131504,7 +131611,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 14,
-    "fwci": 3.2398,
+    "fwci": 3.2415,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131613,62 +131720,6 @@ export const worksTable: WorkTableRecord[] = [
       "Marine Biology and Environmental Chemistry"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2603528832",
-    "doi": "https://doi.org/10.2113/gssgfbull.162.1.27",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5084630459",
-    "allAuthorOpenAlexIds": [
-      "A5084630459",
-      "A5071039263",
-      "A5003392843",
-      "A5013491048",
-      "A5114260129",
-      "A5077928962",
-      "A5044581746",
-      "A5048339986",
-      "A5029896161",
-      "A5074890603",
-      "A5101740007",
-      "A5022151281",
-      "A5109445293"
-    ],
-    "firstAuthorLastName": "Fourcade",
-    "allAuthors": [
-      "E. Fourcade",
-      "Jean Dercourt",
-      "Yahya Günay",
-      "Jacques Azéma",
-      "Hayriye Hale Kozlu",
-      "J.P. Bellier",
-      "Fabrice Cordey",
-      "Pierrick Cros",
-      "Patrick De Wever",
-      "Raymond Énay",
-      "J. Hernández",
-      "J. Lauer",
-      "Bruno Vrielynck"
-    ],
-    "title": "Stratigraphie et paleogeographie de la marge septentrionale de la plate-forme arabe au mesozoique (Turquie du sud-est)",
-    "publicationDate": "1991-01-01",
-    "year": 1991,
-    "venue": "Bulletin de la Société Géologique de France",
-    "citations": 46,
-    "fwci": 2.5837,
-    "topics": [
-      "Geological and Geophysical Studies Worldwide",
-      "Geological and Geochemical Analysis",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Institut des Matériaux, de Microélectronique et des Nanosciences de Provence",
-      "Centre National de la Recherche Scientifique",
-      "École Normale Supérieure de Lyon",
-      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-      "Université Jean Monnet",
-      "Université Claude Bernard Lyon 1"
-    ]
   },
   {
     "workId": "https://openalex.org/W2084700225",
@@ -134699,8 +134750,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-04-17",
     "year": 2025,
     "venue": "Energy & Fuels",
-    "citations": 2,
-    "fwci": 1.4225,
+    "citations": 3,
+    "fwci": 1.9404,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -135041,7 +135092,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 2.0807,
+    "fwci": 2.0789,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -139008,8 +139059,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-02-20",
     "year": 2010,
     "venue": "Earth-Science Reviews",
-    "citations": 691,
-    "fwci": 19.9251,
+    "citations": 692,
+    "fwci": 19.9342,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",

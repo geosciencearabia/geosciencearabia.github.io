@@ -9,7 +9,7 @@
       "Hussain Al Ajmi"
     ],
     "full_name": "Al Ajmi, Hussain",
-    "works_count": 14,
+    "works_count": 15,
     "cited_by_count": 86,
     "summary_stats": {
       "2yr_mean_citedness": 0,
@@ -21,6 +21,21 @@
       "orcid": null
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210114766",
+          "ror": "https://ror.org/01zhpv322",
+          "display_name": "Muscat College",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210114766"
+          ]
+        },
+        "years": [
+          2026
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I4210160020",
@@ -37,7 +52,18 @@
         ]
       }
     ],
-    "last_known_institutions": null,
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I4210114766",
+        "ror": "https://ror.org/01zhpv322",
+        "display_name": "Muscat College",
+        "country_code": "OM",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210114766"
+        ]
+      }
+    ],
     "topics": [
       {
         "id": "https://openalex.org/T13177",
@@ -93,7 +119,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "count": 3,
+        "count": 4,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -129,7 +155,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000254,
+        "value": 0.0000252,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -163,7 +189,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000206,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -286,6 +312,12 @@
         "works_count": 1,
         "oa_works_count": 0,
         "cited_by_count": 29
+      },
+      {
+        "year": 2026,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 0
       }
     ],
     "display_name_alternatives": [
@@ -295,7 +327,7 @@
     ],
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": null,
+    "updated_date": "2026-05-18T12:20:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -828,16 +860,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -1528,8 +1560,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -2306,8 +2338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -2875,16 +2907,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5199999809265137,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -3254,8 +3286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -3809,16 +3841,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5799999833106995,
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4751,8 +4783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -5215,8 +5247,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1747876392.pdf",
@@ -8501,16 +8533,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6299999952316284,
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8997,8 +9029,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9457,8 +9489,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10381,16 +10413,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6000000238418579,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -10740,8 +10772,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10772,6 +10804,1398 @@
       "counts_by_year": [],
       "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7161476549",
+      "doi": "https://doi.org/10.2118/232716-ms",
+      "title": "Successful Re-Entry on Wells Completed With Fiber Optic With Innovative Methodology and Instrumentation",
+      "display_name": "Successful Re-Entry on Wells Completed With Fiber Optic With Innovative Methodology and Instrumentation",
+      "publication_year": 2026,
+      "publication_date": "2026-05-18",
+      "ids": {
+        "openalex": "https://openalex.org/W7161476549",
+        "doi": "https://doi.org/10.2118/232716-ms"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.2118/232716-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2118/232716-ms",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SPE Conference at Oman Petroleum &amp; Energy Show",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5012862594",
+            "display_name": "Gustavo Chinchayan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Gustavo A. Chinchayan",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114507414",
+            "display_name": "Mohammed Al Taiwani",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al Taiwani",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5136345079",
+            "display_name": "Bilal Shaheed",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bilal Shaheed",
+          "raw_affiliation_strings": [
+            "Weatherford International, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Weatherford International, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114507415",
+            "display_name": "Peiman Ahmadzadeh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peiman Ahmadzadeh",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114507416",
+            "display_name": "Khalil Al Hinai",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalil Al Hinai",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5136330217",
+            "display_name": "Bader Al Bahri",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bader Al Bahri",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5136338427",
+            "display_name": "Fahad Al Shamli",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fahad Al Shamli",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017009886",
+            "display_name": "Mohammed Kamali",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Kamali",
+          "raw_affiliation_strings": [
+            "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5120722315",
+            "display_name": "Abdullah Al Nabhani",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah Al Nabhani",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026249571",
+            "display_name": "Rahul Kulkarni",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rahul Kulkarni",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5136346165",
+            "display_name": "Amur Al Habsi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amur Al Habsi",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5136350351",
+            "display_name": "Ahmed Al Ajmi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Al Ajmi",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5047482366",
+            "display_name": "Hussain Al Ajmi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussain Al Ajmi",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 13,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5012862594"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210114766"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.91853518,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "score": 0.41780000925064087,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.41780000925064087,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13050",
+          "display_name": "Oil and Gas Production Techniques",
+          "score": 0.15559999644756317,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13925",
+          "display_name": "Offshore Engineering and Technologies",
+          "score": 0.06830000132322311,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/perforation",
+          "display_name": "Perforation",
+          "score": 0.7095999717712402
+        },
+        {
+          "id": "https://openalex.org/keywords/instrumentation",
+          "display_name": "Instrumentation (computer programming)",
+          "score": 0.5996999740600586
+        },
+        {
+          "id": "https://openalex.org/keywords/installation",
+          "display_name": "Installation",
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/wellbore",
+          "display_name": "Wellbore",
+          "score": 0.5525000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/completion",
+          "display_name": "Completion (oil and gas wells)",
+          "score": 0.5210999846458435
+        },
+        {
+          "id": "https://openalex.org/keywords/optical-fiber",
+          "display_name": "Optical fiber",
+          "score": 0.4104999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/bundle",
+          "display_name": "Bundle",
+          "score": 0.40959998965263367
+        },
+        {
+          "id": "https://openalex.org/keywords/explosive-material",
+          "display_name": "Explosive material",
+          "score": 0.39890000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/work",
+          "display_name": "Work (physics)",
+          "score": 0.3531000018119812
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778456384",
+          "wikidata": "https://www.wikidata.org/wiki/Q1508510",
+          "display_name": "Perforation",
+          "level": 3,
+          "score": 0.7095999717712402
+        },
+        {
+          "id": "https://openalex.org/C118530786",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134732",
+          "display_name": "Instrumentation (computer programming)",
+          "level": 2,
+          "score": 0.5996999740600586
+        },
+        {
+          "id": "https://openalex.org/C146778888",
+          "wikidata": "https://www.wikidata.org/wiki/Q836862",
+          "display_name": "Installation",
+          "level": 2,
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/C9677107",
+          "wikidata": "https://www.wikidata.org/wiki/Q502102",
+          "display_name": "Wellbore",
+          "level": 2,
+          "score": 0.5525000095367432
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.5371000170707703
+        },
+        {
+          "id": "https://openalex.org/C2779538338",
+          "wikidata": "https://www.wikidata.org/wiki/Q2990590",
+          "display_name": "Completion (oil and gas wells)",
+          "level": 2,
+          "score": 0.5210999846458435
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0.47049999237060547
+        },
+        {
+          "id": "https://openalex.org/C194232370",
+          "wikidata": "https://www.wikidata.org/wiki/Q162",
+          "display_name": "Optical fiber",
+          "level": 2,
+          "score": 0.4104999899864197
+        },
+        {
+          "id": "https://openalex.org/C2778134712",
+          "wikidata": "https://www.wikidata.org/wiki/Q1047307",
+          "display_name": "Bundle",
+          "level": 2,
+          "score": 0.40959998965263367
+        },
+        {
+          "id": "https://openalex.org/C154238967",
+          "wikidata": "https://www.wikidata.org/wiki/Q12870",
+          "display_name": "Explosive material",
+          "level": 2,
+          "score": 0.39890000224113464
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.3531000018119812
+        },
+        {
+          "id": "https://openalex.org/C25197100",
+          "wikidata": "https://www.wikidata.org/wiki/Q890886",
+          "display_name": "Drilling",
+          "level": 2,
+          "score": 0.3456999957561493
+        },
+        {
+          "id": "https://openalex.org/C42222113",
+          "wikidata": "https://www.wikidata.org/wiki/Q890894",
+          "display_name": "Measurement while drilling",
+          "level": 3,
+          "score": 0.3452000021934509
+        },
+        {
+          "id": "https://openalex.org/C30905978",
+          "wikidata": "https://www.wikidata.org/wiki/Q815598",
+          "display_name": "Metering mode",
+          "level": 2,
+          "score": 0.3321000039577484
+        },
+        {
+          "id": "https://openalex.org/C2777560178",
+          "wikidata": "https://www.wikidata.org/wiki/Q587682",
+          "display_name": "Oil well",
+          "level": 2,
+          "score": 0.32089999318122864
+        },
+        {
+          "id": "https://openalex.org/C30399818",
+          "wikidata": "https://www.wikidata.org/wiki/Q5048830",
+          "display_name": "Casing",
+          "level": 2,
+          "score": 0.3125999867916107
+        },
+        {
+          "id": "https://openalex.org/C2779304628",
+          "wikidata": "https://www.wikidata.org/wiki/Q3503480",
+          "display_name": "Face (sociological concept)",
+          "level": 2,
+          "score": 0.305400013923645
+        },
+        {
+          "id": "https://openalex.org/C2780129039",
+          "wikidata": "https://www.wikidata.org/wiki/Q1931107",
+          "display_name": "Section (typography)",
+          "level": 2,
+          "score": 0.30379998683929443
+        },
+        {
+          "id": "https://openalex.org/C519885992",
+          "wikidata": "https://www.wikidata.org/wiki/Q161",
+          "display_name": "Fiber",
+          "level": 2,
+          "score": 0.2928999960422516
+        },
+        {
+          "id": "https://openalex.org/C198082294",
+          "wikidata": "https://www.wikidata.org/wiki/Q3399648",
+          "display_name": "Position (finance)",
+          "level": 2,
+          "score": 0.27720001339912415
+        },
+        {
+          "id": "https://openalex.org/C168630323",
+          "wikidata": "https://www.wikidata.org/wiki/Q1422489",
+          "display_name": "Directional drilling",
+          "level": 3,
+          "score": 0.2712000012397766
+        },
+        {
+          "id": "https://openalex.org/C44280652",
+          "wikidata": "https://www.wikidata.org/wiki/Q104837",
+          "display_name": "Phase (matter)",
+          "level": 2,
+          "score": 0.2623000144958496
+        },
+        {
+          "id": "https://openalex.org/C2780586882",
+          "wikidata": "https://www.wikidata.org/wiki/Q7520643",
+          "display_name": "Simple (philosophy)",
+          "level": 2,
+          "score": 0.2612999975681305
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.2590999901294708
+        },
+        {
+          "id": "https://openalex.org/C16389437",
+          "wikidata": "https://www.wikidata.org/wiki/Q11421",
+          "display_name": "Magnet",
+          "level": 2,
+          "score": 0.25380000472068787
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2118/232716-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2118/232716-ms",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SPE Conference at Oman Petroleum &amp; Energy Show",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.6469302177429199,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          24,
+          174
+        ],
+        "oil": [
+          2
+        ],
+        "industry": [
+          3
+        ],
+        "has": [
+          4
+        ],
+        "a": [
+          5,
+          36,
+          47,
+          77,
+          124
+        ],
+        "variety": [
+          6
+        ],
+        "of": [
+          7,
+          109,
+          119,
+          176,
+          183,
+          196,
+          206
+        ],
+        "requirements": [
+          8
+        ],
+        "for": [
+          9,
+          57,
+          159
+        ],
+        "Oriented": [
+          10
+        ],
+        "Perforation": [
+          11
+        ],
+        "however": [
+          12,
+          31
+        ],
+        "the": [
+          13,
+          51,
+          54,
+          58,
+          94,
+          107,
+          110,
+          116,
+          120,
+          130,
+          148,
+          177,
+          184,
+          194,
+          197,
+          200,
+          204,
+          207,
+          213
+        ],
+        "solutions": [
+          14
+        ],
+        "are": [
+          15,
+          123
+        ],
+        "elaborated": [
+          16
+        ],
+        "as": [
+          17
+        ],
+        "per": [
+          18
+        ],
+        "wellbore": [
+          19,
+          40,
+          52,
+          100
+        ],
+        "design": [
+          20
+        ],
+        "and": [
+          21,
+          42,
+          146,
+          180
+        ],
+        "desired": [
+          22
+        ],
+        "objectives.": [
+          23
+        ],
+        "oriented": [
+          25,
+          65,
+          135,
+          140,
+          178
+        ],
+        "perforating": [
+          26,
+          80
+        ],
+        "can": [
+          27,
+          33,
+          128
+        ],
+        "have": [
+          28,
+          189
+        ],
+        "simple": [
+          29,
+          64
+        ],
+        "methodology": [
+          30
+        ],
+        "it": [
+          32,
+          75
+        ],
+        "also": [
+          34,
+          220
+        ],
+        "demand": [
+          35
+        ],
+        "sophisticated": [
+          37
+        ],
+        "approach": [
+          38
+        ],
+        "considering": [
+          39
+        ],
+        "complexity": [
+          41
+        ],
+        "intended": [
+          43
+        ],
+        "outcome.": [
+          44
+        ],
+        "Indeed,": [
+          45
+        ],
+        "having": [
+          46
+        ],
+        "Fiber": [
+          48
+        ],
+        "Optic": [
+          49
+        ],
+        "on": [
+          50,
+          69
+        ],
+        "demands": [
+          53
+        ],
+        "best": [
+          55
+        ],
+        "attention": [
+          56
+        ],
+        "engineering": [
+          59
+        ],
+        "technical": [
+          60
+        ],
+        "solution": [
+          61
+        ],
+        "approach.": [
+          62
+        ],
+        "A": [
+          63,
+          216
+        ],
+        "perforation": [
+          66
+        ],
+        "is": [
+          67,
+          76,
+          96,
+          103,
+          113,
+          133,
+          167,
+          219
+        ],
+        "shown": [
+          68
+        ],
+        "Figure": [
+          70
+        ],
+        "1.": [
+          71
+        ],
+        "In": [
+          72,
+          91
+        ],
+        "this": [
+          73,
+          92
+        ],
+        "case": [
+          74
+        ],
+        "Thru": [
+          78
+        ],
+        "Tubing": [
+          79
+        ],
+        "with": [
+          81,
+          85,
+          193
+        ],
+        "an": [
+          82
+        ],
+        "expendable-retrievable": [
+          83
+        ],
+        "carrier": [
+          84
+        ],
+        "explosives": [
+          86
+        ],
+        "charges": [
+          87,
+          112
+        ],
+        "at": [
+          88
+        ],
+        "zero": [
+          89
+        ],
+        "phasing.": [
+          90
+        ],
+        "case,": [
+          93
+        ],
+        "objective": [
+          95
+        ],
+        "to": [
+          97,
+          115,
+          190,
+          212
+        ],
+        "get": [
+          98
+        ],
+        "maximum": [
+          99
+        ],
+        "penetration.": [
+          101
+        ],
+        "This": [
+          102,
+          150
+        ],
+        "achieved": [
+          104
+        ],
+        "only": [
+          105
+        ],
+        "when": [
+          106
+        ],
+        "face": [
+          108,
+          195,
+          205
+        ],
+        "loaded": [
+          111,
+          143
+        ],
+        "adjacent": [
+          114
+        ],
+        "internal": [
+          117
+        ],
+        "diameter": [
+          118
+        ],
+        "casing.": [
+          121
+        ],
+        "There": [
+          122
+        ],
+        "few": [
+          125
+        ],
+        "options": [
+          126
+        ],
+        "that": [
+          127
+        ],
+        "meet": [
+          129
+        ],
+        "objective.": [
+          131
+        ],
+        "One": [
+          132
+        ],
+        "installing": [
+          134
+        ],
+        "magnets": [
+          136
+        ],
+        "or": [
+          137
+        ],
+        "position": [
+          138
+        ],
+        "special": [
+          139
+        ],
+        "single": [
+          141,
+          201,
+          214
+        ],
+        "spring-": [
+          142
+        ],
+        "arm": [
+          144
+        ],
+        "above": [
+          145
+        ],
+        "below": [
+          147
+        ],
+        "carrier.": [
+          149
+        ],
+        "will": [
+          151,
+          188
+        ],
+        "work": [
+          152
+        ],
+        "quite": [
+          153
+        ],
+        "well": [
+          154
+        ],
+        "in": [
+          155
+        ],
+        "vertical": [
+          156
+        ],
+        "wells": [
+          157,
+          162
+        ],
+        "but": [
+          158
+        ],
+        "highly": [
+          160
+        ],
+        "deviated": [
+          161
+        ],
+        "another": [
+          163
+        ],
+        "more": [
+          164
+        ],
+        "confident": [
+          165
+        ],
+        "technique": [
+          166
+        ],
+        "required": [
+          168
+        ],
+        "by": [
+          169
+        ],
+        "using": [
+          170
+        ],
+        "ex-centered": [
+          171,
+          185
+        ],
+        "weight": [
+          172,
+          186
+        ],
+        "bars.": [
+          173
+        ],
+        "phase": [
+          175
+        ],
+        "magnet": [
+          179
+        ],
+        "heaviest": [
+          181
+        ],
+        "section": [
+          182
+        ],
+        "bar": [
+          187
+        ],
+        "be": [
+          191,
+          210
+        ],
+        "aligned": [
+          192
+        ],
+        "charge.": [
+          198
+        ],
+        "With": [
+          199
+        ],
+        "spring-loaded": [
+          202
+        ],
+        "arm,": [
+          203
+        ],
+        "charge": [
+          208
+        ],
+        "should": [
+          209
+        ],
+        "opposite": [
+          211
+        ],
+        "arm.": [
+          215
+        ],
+        "top": [
+          217
+        ],
+        "view": [
+          218
+        ],
+        "displayed.": [
+          221
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-18T08:16:58.900851",
+      "created_date": "2026-05-18T00:00:00"
     },
     {
       "id": "https://openalex.org/W958515711",
@@ -11183,8 +12607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
