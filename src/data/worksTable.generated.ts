@@ -4277,7 +4277,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1995-12-01",
     "year": 1995,
     "venue": "Facies",
-    "citations": 41,
+    "citations": 42,
     "fwci": 0,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -8116,7 +8116,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "International Geology Review",
     "citations": 192,
-    "fwci": 19.3501,
+    "fwci": 19.3521,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -10681,6 +10681,53 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4409563181",
+    "doi": "https://doi.org/10.1144/jgs2024-280",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5087693955",
+      "A5076536922",
+      "A5035421092",
+      "A5010910479",
+      "A5075689314",
+      "A5112600754",
+      "A5018413269"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Whattam",
+      "Hossein Azizi",
+      "Oktarian Iskandar",
+      "Mutasim Osman",
+      "Daniel E. Heaton",
+      "Fatemeh Nouri",
+      "Yanick Brice Lemdjou",
+      "Anthony Koppers"
+    ],
+    "title": "Asymmetrical magma chamber beneath the Red Sea system controlled Cenozoic alkaline magmatism on the western margin of the Arabian Shield",
+    "publicationDate": "2025-04-18",
+    "year": 2025,
+    "venue": "Journal of the Geological Society",
+    "citations": 5,
+    "fwci": 9.3557,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kurdistan",
+      "Faculty (United Kingdom)",
+      "Engineering (Italy)",
+      "Oregon State University",
+      "Central South University",
+      "Ministry of Education"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4399722089",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106938",
     "program": "",
@@ -10719,53 +10766,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "University of Kansas"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4409563181",
-    "doi": "https://doi.org/10.1144/jgs2024-280",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5087693955",
-      "A5076536922",
-      "A5035421092",
-      "A5010910479",
-      "A5075689314",
-      "A5112600754",
-      "A5018413269"
-    ],
-    "firstAuthorLastName": "Whattam",
-    "allAuthors": [
-      "Scott Whattam",
-      "Hossein Azizi",
-      "Oktarian Iskandar",
-      "Mutasim Osman",
-      "Daniel E. Heaton",
-      "Fatemeh Nouri",
-      "Yanick Brice Lemdjou",
-      "Anthony Koppers"
-    ],
-    "title": "Asymmetrical magma chamber beneath the Red Sea system controlled Cenozoic alkaline magmatism on the western margin of the Arabian Shield",
-    "publicationDate": "2025-04-18",
-    "year": 2025,
-    "venue": "Journal of the Geological Society",
-    "citations": 4,
-    "fwci": 8.3504,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Kurdistan",
-      "Faculty (United Kingdom)",
-      "Engineering (Italy)",
-      "Oregon State University",
-      "Central South University",
-      "Ministry of Education"
     ]
   },
   {
@@ -10836,6 +10836,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4392644115",
+    "doi": "https://doi.org/10.5194/egusphere-egu24-20955",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5075168324",
+      "A5000790686",
+      "A5088388992",
+      "A5084940954",
+      "A5079903196",
+      "A5022552999",
+      "A5035815399"
+    ],
+    "firstAuthorLastName": "Murtaza",
+    "allAuthors": [
+      "Mobeen Murtaza",
+      "Scott Whattam",
+      "Manzar Fawad",
+      "Nabil A. Saraih",
+      "Muhammad Shahzad Kamal",
+      "Israa S. Abu‐Mahfouz",
+      "Syed Muhammad Shakil Hussain",
+      "Michael A. Kaminski"
+    ],
+    "title": "Assessing CO2 Mineralization and Sequestration Potential in Saudi Basaltic Rocks",
+    "publicationDate": "2024-03-11",
+    "year": 2024,
+    "venue": "",
+    "citations": 2,
+    "fwci": 0.377,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4405738686",
     "doi": "https://doi.org/10.1016/j.chemer.2024.126241",
     "program": "",
@@ -10882,6 +10923,46 @@ export const worksTable: WorkTableRecord[] = [
       "Research Institute for Humanity and Nature",
       "Tokushima University",
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4407035309",
+    "doi": "https://doi.org/10.1080/00206814.2025.2456493",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5076536922",
+      "A5074634117",
+      "A5058038066",
+      "A5035421092",
+      "A5028056429"
+    ],
+    "firstAuthorLastName": "Iskandar",
+    "allAuthors": [
+      "Oktarian Iskandar",
+      "Scott Whattam",
+      "Jieun Seo",
+      "Jan C.M. De Hoog",
+      "Mutasim Osman",
+      "Svetoslav Georgiev"
+    ],
+    "title": "Peridotite xenoliths of Harrat ar-Rahah-Uwayrid alkaline basalts, NW Saudi Arabia: fragments of a multiply metasomatized Neoproterozoic mantle",
+    "publicationDate": "2025-01-31",
+    "year": 2025,
+    "venue": "International Geology Review",
+    "citations": 2,
+    "fwci": 3.0146,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Korea University",
+      "University of Edinburgh",
+      "Bulgarian Academy of Sciences"
     ]
   },
   {
@@ -11427,87 +11508,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Kurdistan",
       "Korea Basic Science Institute",
       "First Quantum Minerals (Canada)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4392644115",
-    "doi": "https://doi.org/10.5194/egusphere-egu24-20955",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5075168324",
-      "A5000790686",
-      "A5088388992",
-      "A5084940954",
-      "A5079903196",
-      "A5022552999",
-      "A5035815399"
-    ],
-    "firstAuthorLastName": "Murtaza",
-    "allAuthors": [
-      "Mobeen Murtaza",
-      "Scott Whattam",
-      "Manzar Fawad",
-      "Nabil A. Saraih",
-      "Muhammad Shahzad Kamal",
-      "Israa S. Abu‐Mahfouz",
-      "Syed Muhammad Shakil Hussain",
-      "Michael A. Kaminski"
-    ],
-    "title": "Assessing CO2 Mineralization and Sequestration Potential in Saudi Basaltic Rocks",
-    "publicationDate": "2024-03-11",
-    "year": 2024,
-    "venue": "",
-    "citations": 1,
-    "fwci": 0.1965,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4407035309",
-    "doi": "https://doi.org/10.1080/00206814.2025.2456493",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5076536922",
-      "A5074634117",
-      "A5058038066",
-      "A5035421092",
-      "A5028056429"
-    ],
-    "firstAuthorLastName": "Iskandar",
-    "allAuthors": [
-      "Oktarian Iskandar",
-      "Scott Whattam",
-      "Jieun Seo",
-      "Jan C.M. De Hoog",
-      "Mutasim Osman",
-      "Svetoslav Georgiev"
-    ],
-    "title": "Peridotite xenoliths of Harrat ar-Rahah-Uwayrid alkaline basalts, NW Saudi Arabia: fragments of a multiply metasomatized Neoproterozoic mantle",
-    "publicationDate": "2025-01-31",
-    "year": 2025,
-    "venue": "International Geology Review",
-    "citations": 1,
-    "fwci": 1.6453,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Korea University",
-      "University of Edinburgh",
-      "Bulgarian Academy of Sciences"
     ]
   },
   {
@@ -23090,8 +23090,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-01-01",
     "year": 2017,
     "venue": "",
-    "citations": 170,
-    "fwci": 13.9332,
+    "citations": 171,
+    "fwci": 13.8898,
     "topics": [
       "Geological Studies and Exploration",
       "Geological formations and processes",
@@ -23117,8 +23117,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-04-29",
     "year": 2013,
     "venue": "Earth-Science Reviews",
-    "citations": 165,
-    "fwci": 14.6087,
+    "citations": 166,
+    "fwci": 14.6155,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -24043,7 +24043,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Developments in sedimentology",
     "citations": 34,
-    "fwci": 3.6639,
+    "fwci": 3.5829,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological formations and processes",
@@ -25096,6 +25096,35 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4396849210",
+    "doi": "https://doi.org/10.1017/njg.2024.6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5037775386"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Hilmar H. Schnick"
+    ],
+    "title": "Trace fossils from the Maastrichtian chalk of the Isle of Rügen, north-east Germany",
+    "publicationDate": "2024-01-01",
+    "year": 2024,
+    "venue": "Netherlands Journal of Geosciences – Geologie en Mijnbouw",
+    "citations": 3,
+    "fwci": 4.3697,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4321503015",
     "doi": "https://doi.org/10.1016/j.pgeola.2022.11.003",
     "program": "",
@@ -25698,35 +25727,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Shell (Norway)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4396849210",
-    "doi": "https://doi.org/10.1017/njg.2024.6",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813",
-      "A5037775386"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust",
-      "Hilmar H. Schnick"
-    ],
-    "title": "Trace fossils from the Maastrichtian chalk of the Isle of Rügen, north-east Germany",
-    "publicationDate": "2024-01-01",
-    "year": 2024,
-    "venue": "Netherlands Journal of Geosciences – Geologie en Mijnbouw",
-    "citations": 2,
-    "fwci": 2.9741,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Equinor (Norway)"
     ]
   },
   {
@@ -40490,7 +40490,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Energies",
     "citations": 14,
-    "fwci": 8.8341,
+    "fwci": 8.8219,
     "topics": [
       "NMR spectroscopy and applications",
       "Spectroscopy and Chemometric Analyses",
@@ -50642,7 +50642,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.2936,
+    "fwci": 1.2891,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -70698,7 +70698,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.7541,
+    "fwci": 3.7539,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -76073,8 +76073,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-11-01",
     "year": 2023,
     "venue": "Episodes",
-    "citations": 12,
-    "fwci": 4.673,
+    "citations": 13,
+    "fwci": 4.9911,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological Studies and Exploration",
@@ -87249,7 +87249,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.407,
+    "fwci": 135.4038,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88109,8 +88109,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 778,
-    "fwci": 25.0001,
+    "citations": 779,
+    "fwci": 25.0204,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88608,8 +88608,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-05-31",
     "year": 2022,
     "venue": "Earth-Science Reviews",
-    "citations": 189,
-    "fwci": 31.388,
+    "citations": 190,
+    "fwci": 31.3874,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -93210,7 +93210,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 31,
-    "fwci": 8.3161,
+    "fwci": 8.306,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -94612,6 +94612,41 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2969777935",
+    "doi": "https://doi.org/10.1016/j.jseaes.2019.103967",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052352208",
+      "A5084273448",
+      "A5080529238"
+    ],
+    "firstAuthorLastName": "Dew",
+    "allAuthors": [
+      "Romana E.C. Dew",
+      "C.K. Morley",
+      "Tin Aung Myint",
+      "Alan S. Collins"
+    ],
+    "title": "Age and provenance of the Chaung Magyi Group, Yeywa Dome, Myanmar, based on U-Pb dating of detrital zircons",
+    "publicationDate": "2019-08-23",
+    "year": 2019,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 18,
+    "fwci": 1.7502,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Chiang Mai University",
+      "Mandalay University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2576206007",
     "doi": "https://doi.org/10.1016/j.tecto.2017.01.008",
     "program": "",
@@ -94646,41 +94681,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "UCL Australia",
       "Chiang Mai University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2969777935",
-    "doi": "https://doi.org/10.1016/j.jseaes.2019.103967",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5052352208",
-      "A5084273448",
-      "A5080529238"
-    ],
-    "firstAuthorLastName": "Dew",
-    "allAuthors": [
-      "Romana E.C. Dew",
-      "C.K. Morley",
-      "Tin Aung Myint",
-      "Alan S. Collins"
-    ],
-    "title": "Age and provenance of the Chaung Magyi Group, Yeywa Dome, Myanmar, based on U-Pb dating of detrital zircons",
-    "publicationDate": "2019-08-23",
-    "year": 2019,
-    "venue": "Journal of Asian Earth Sciences",
-    "citations": 17,
-    "fwci": 1.7497,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "The University of Adelaide",
-      "Chiang Mai University",
-      "Mandalay University"
     ]
   },
   {
@@ -115016,8 +115016,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-09-02",
     "year": 2020,
     "venue": "Marine and Petroleum Geology",
-    "citations": 84,
-    "fwci": 5.9805,
+    "citations": 85,
+    "fwci": 5.984,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Hydrocarbon exploration and reservoir analysis",
@@ -122409,8 +122409,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-01-01",
     "year": 2022,
     "venue": "International journal of greenhouse gas control",
-    "citations": 56,
-    "fwci": 4.328,
+    "citations": 57,
+    "fwci": 4.3272,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -122450,8 +122450,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-01-23",
     "year": 2023,
     "venue": "Tectonophysics",
-    "citations": 51,
-    "fwci": 13.7763,
+    "citations": 52,
+    "fwci": 13.9327,
     "topics": [
       "earthquake and tectonic studies",
       "Geology and Paleoclimatology Research",
@@ -122717,7 +122717,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-07-01",
     "year": 2014,
     "venue": "GeoArabia",
-    "citations": 59,
+    "citations": 60,
     "fwci": 7.7813,
     "topics": [
       "Geological and Geophysical Studies",
@@ -129326,8 +129326,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1997-10-01",
     "year": 1997,
     "venue": "GeoArabia",
-    "citations": 193,
-    "fwci": 2.6099,
+    "citations": 194,
+    "fwci": 2.6358,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -129449,8 +129449,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-04-01",
     "year": 2009,
     "venue": "GeoArabia",
-    "citations": 49,
-    "fwci": 0.2356,
+    "citations": 50,
+    "fwci": 0.2388,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Hydrocarbon exploration and reservoir analysis",
@@ -136045,8 +136045,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-07-10",
     "year": 2024,
     "venue": "Marine and Petroleum Geology",
-    "citations": 8,
-    "fwci": 4.0063,
+    "citations": 9,
+    "fwci": 4.4031,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Hydrocarbon exploration and reservoir analysis",
@@ -137084,6 +137084,48 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7161563540",
+    "doi": "https://doi.org/10.1016/j.jcou.2026.103452",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5088388992",
+    "allAuthorOpenAlexIds": [
+      "A5088388992",
+      "A5136387243",
+      "A5136398416",
+      "A5109628014",
+      "A5133806924",
+      "A5000790686",
+      "A5136389847",
+      "A5136437845"
+    ],
+    "firstAuthorLastName": "Campos",
+    "allAuthors": [
+      "Monica Campos",
+      "Mobeen Murtaza",
+      "Hasan J. Khan",
+      "Scott A. Whattam",
+      "Manzar Fawad",
+      "Muhammad Shahzad Kamal",
+      "Israa S. Abu-Mahfouz",
+      "Nabil A. Saraih"
+    ],
+    "title": "Long-term CO₂ mineralization and geochemical alteration in basalts from Saudi Arabia: Implications for carbon storage",
+    "publicationDate": "2026-05-18",
+    "year": 2026,
+    "venue": "Journal of CO2 Utilization",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Norwegian Geotechnical Institute"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2168040656",
     "doi": "https://doi.org/10.1016/s0037-0738(03)00070-8",
     "program": "",
@@ -137133,8 +137175,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-04-01",
     "year": 2013,
     "venue": "GeoArabia",
-    "citations": 100,
-    "fwci": 4.0794,
+    "citations": 101,
+    "fwci": 4.0824,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -139088,8 +139130,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-01-01",
     "year": 2003,
     "venue": "Geological Society London Special Publications",
-    "citations": 479,
-    "fwci": 7.2317,
+    "citations": 480,
+    "fwci": 7.2299,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -139284,8 +139326,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-02-21",
     "year": 2014,
     "venue": "The Open Geology Journal",
-    "citations": 105,
-    "fwci": 6.77,
+    "citations": 106,
+    "fwci": 6.7646,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Hydrocarbon exploration and reservoir analysis",

@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 18 May 2026 22:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:16:01 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Successful Re-Entry on Wells Completed With Fiber Optic With Innovative Methodology and Instrumentation</title>
@@ -18,6 +18,20 @@
       <category>Wellbore</category>
       <category>Engineering</category>
       <description>Abstract: Abstract The oil industry has a variety of requirements for Oriented Perforation however the solutions are elaborated as per wellbore design and desired objectives. The oriented perforating can have simple methodology however it can also demand a sophisticated approach considering wellbore complexity and intended outcome. Indeed, having a Fiber Optic on the wellbore demands the best attention for the engineering technical solution approach. A simple oriented perforation is shown on Figure 1. In this case it is a Thru Tubing perforating with an expendable-retrievable carrier with explosives charges at zero phasing. In this case, the objective is to get maximum wellbore penetration. This is achieved only when the face of the loaded charges is adjacent to the internal diameter of the casing. There are a few options that can meet the objective. One is installing oriented magnets or position special oriented single spring- loaded arm above and below the carrier. This will work quite well in vertical wells but for highly deviated wells another more confident technique is required by using ex-centered weight bars. The phase of the oriented magnet and heaviest section of the ex-centered weight bar will have to be aligned with the face of the charge. With the single spring-loaded arm, the face of the charge should be opposite to the single arm. A top view is also displayed.&#10;Topics: Perforation, Instrumentation (computer programming), Installation, Wellbore, Engineering&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Long-term CO₂ mineralization and geochemical alteration in basalts from Saudi Arabia: Implications for carbon storage</title>
+      <link>https://doi.org/10.1016/j.jcou.2026.103452</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7161563540</guid>
+      <dc:creator>Monica Campos, Mobeen Murtaza, Hasan J. Khan, Scott A. Whattam, Manzar Fawad, Muhammad Shahzad Kamal, Israa S. Abu-Mahfouz, Nabil A. Saraih</dc:creator>
+      <dc:publisher>Journal of CO2 Utilization</dc:publisher>
+      <category>Mineralization (soil science)</category>
+      <category>Geochemistry</category>
+      <category>Basalt</category>
+      <category>Geology</category>
+      <category>Carbonate</category>
+      <description>Abstract: Experimental workflow and key findings of CO₂ mineralization in Saudi Arabian basalts. Scoriaceous basalt showed greater porosity development, Ca²⁺ release, TIC accumulation, and carbonate formation than dense basalt, highlighting its higher potential for long-term CO₂ mineral storage.&#10;Topics: Mineralization (soil science), Geochemistry, Basalt, Geology, Carbonate&#10;Venue: Journal of CO2 Utilization&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Oil‐Bearing Shale Potential of Thanetian‐Ypresian Patala Formation in the Kohat Plateau (North Pakistan), Characterized by Geochemical, Mineralogical and Petrographical Dataset and 1D Basin Modelling Analysis</title>
@@ -1368,20 +1382,6 @@
       <category>Organic matter</category>
       <category>Oceanography</category>
       <description>Abstract: The uppermost 2 meters of the Maastrichtian Scaglia Rossa Fm. (Gubbio, Italy) record a notable change in the proportions of morphogroups of deep-water agglutinated foraminifera beginning about 1.4 m below the boundary, where we observe a gradual decrease in the abundance of the morphotype M4 (infauna) and a concurrent increase in the morphotype M1 (suspension feeders). This trend suggests a reduction in the flux of organic matter to the sea floor began approximately 114 k.y. before the boundary event. The abundance of M4 shows an abrupt decline from around 13% below the Cretaceous/Paleogene boundary, to a minimum of 7% in the beds directly above the boundary. This trend suggests a modest, but temporary reduction in organic matter flux to the sea floor following the Cretaceous/Paleogene boundary event, though not in the category of a “Strangelove Ocean”. Morphotype M1 shows a marked decrease across the boundary, with values decreasing from &amp;gt;70% to around 11%. The lower Paleocene displays strong fluctuations in the M4 morphogroup. In the same interval we observe a rise in Morphotype M2 (epifaunal detritivores) from values below 10% in the Maastrichtian to over 50% in the basal Paleocene, and a short-lived maximum in Morphotype M3, indicating a decline in particulate organic matter input from suspension and a concurrent increase in bacterial-derived organic matter in the early recovery phase of the Paleocene. The deep-marine ecosystem as witnessed by deep-water agglutinated f…&#10;Topics: Benthic zone, Foraminifera, Abundance (ecology), Organic matter, Oceanography&#10;Venue: Acta Palaeontologica Polonica&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Machine Learning Models for Groundwater Level Prediction and Uncertainty Analysis in Ruataniwha Basin, New Zealand</title>
-      <link>https://doi.org/10.3390/hydrology12110282</link>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415680432</guid>
-      <dc:creator>Dawit Kanito, Mohammed Benaafi, Husam Musa Baalousha</dc:creator>
-      <dc:publisher>Hydrology</dc:publisher>
-      <category>Mean squared error</category>
-      <category>Hydrogeology</category>
-      <category>Uncertainty analysis</category>
-      <category>Bayesian probability</category>
-      <category>Statistics</category>
-      <description>Abstract: Groundwater level predictive monitoring is necessary to address accelerated aquifer depletion and ensure sustainable management under increasing climatic and anthropogenic pressures. This study uses machine learning approaches to model groundwater level (GWL) dynamics in six observation wells in the Ruataniwha Basin, New Zealand. These models are enhanced with seasonal decomposition techniques. This study uses both static properties and dynamic variables to capture hydrogeological heterogeneity. Random Forest (RF) and Support Vector Machine (SVM), with seasonal decomposition preprocessing, were developed for GWL modelling. The models were trained on 80% of the dataset and tested using the remaining 20% of the data. Model accuracy was assessed using five statistical metrics: mean absolute error (MAE), root mean square error (RMSE), the coefficient of determination (R2), mean absolute percent error (MAPE), and percent bias (PBIAS). Model uncertainty was analyzed using Bayesian Model Averaging combined with the p-factor and d-factor at the 95% confidence level. The results demonstrate that both models delivered strong predictive performance across training, testing, and full period evaluations. However, the RF model demonstrated a marginally superior predictive accuracy by achieving lower errors (MAE: 0.013–0.174; RMSE: 0.04–0.283), better bias control (PBIAS ≈ 0%), and slightly tighter error bounds in most wells. Uncertainty quantification revealed that models provided a minimu…&#10;Topics: Mean squared error, Hydrogeology, Uncertainty analysis, Bayesian probability, Statistics&#10;Venue: Hydrology&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>
