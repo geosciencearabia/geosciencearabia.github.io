@@ -586,6 +586,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -622,6 +623,7 @@
           "raw_affiliation_strings": [
             "previously Exxon Production Research Company"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "previously Exxon Production Research Company",
@@ -643,11 +645,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6585,
+      "fwci": 0.658,
       "has_fulltext": false,
       "cited_by_count": 226,
       "citation_normalized_percentile": {
-        "value": 0.73647745,
+        "value": 0.73657301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1019,13 +1021,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "pdf": false,
+        "grobid_xml": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3014355492.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3014355492.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 66,
       "referenced_works": [
         "https://openalex.org/W176469377",
@@ -1598,7 +1597,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-04-10T15:06:20.359241",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7810,6 +7809,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -7846,6 +7846,7 @@
           "raw_affiliation_strings": [
             "University of Miami"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Miami",
@@ -7882,6 +7883,7 @@
           "raw_affiliation_strings": [
             "Consultant"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Consultant",
@@ -7918,6 +7920,7 @@
           "raw_affiliation_strings": [
             "University of South Carolina"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of South Carolina",
@@ -7954,6 +7957,7 @@
           "raw_affiliation_strings": [
             "University of Hannover"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Hannover",
@@ -7975,11 +7979,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8911,
+      "fwci": 2.8899,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.90538843,
+        "value": 0.90532863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8239,13 +8243,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "pdf": false,
+        "grobid_xml": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2607243671.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2607243671.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 6,
       "referenced_works": [
         "https://openalex.org/W2120278951",
@@ -9126,7 +9127,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {

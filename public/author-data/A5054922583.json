@@ -293,7 +293,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.000401,
+        "value": 0.0004009,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -344,7 +344,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001403,
+        "value": 0.0001402,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -361,7 +361,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001255,
+        "value": 0.0001254,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -555,7 +555,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-05-17T12:20:54",
+    "updated_date": "2026-05-19T12:21:07",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -644,6 +644,7 @@
           "raw_affiliation_strings": [
             "The Research Institute, Center for Petroleum and Minerals, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "The Research Institute, Center for Petroleum and Minerals, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -680,6 +681,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -716,6 +718,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -737,11 +740,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0363,
+      "fwci": 6.041,
       "has_fulltext": false,
-      "cited_by_count": 113,
+      "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.97138363,
+        "value": 0.97139058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1206,7 +1209,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -1237,7 +1240,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-15T08:11:43.952461",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5310,11 +5313,11 @@
         "value_usd": 1550
       },
       "apc_paid": null,
-      "fwci": 3.7428,
+      "fwci": 3.7427,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.92065392,
+        "value": 0.92065176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5701,13 +5704,10 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2555981623.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2555981623.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W1572929439",
@@ -6259,7 +6259,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-15T08:27:34.491423",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21891,7 +21891,7 @@
           "author": {
             "id": "https://openalex.org/A5017749705",
             "display_name": "Alexandros Stampolidis",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0605-5382"
           },
           "institutions": [
             {
@@ -22170,11 +22170,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 1.2063,
+      "fwci": 1.2062,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.76449051,
+        "value": 0.76447149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22482,13 +22482,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3128211510.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3128211510.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 44,
       "referenced_works": [
         "https://openalex.org/W602057047",
@@ -23137,7 +23134,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37244,11 +37241,11 @@
         "currency": "CHF",
         "value_usd": 2490
       },
-      "fwci": 1.633,
+      "fwci": 1.6329,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.81174818,
+        "value": 0.81173971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37615,13 +37612,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4309119542.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4309119542.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 46,
       "referenced_works": [
         "https://openalex.org/W1492298502",
@@ -38185,7 +38179,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-12T08:28:47.272897",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {

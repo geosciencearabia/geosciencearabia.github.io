@@ -14,9 +14,9 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 117,
-    "cited_by_count": 2824,
+    "cited_by_count": 2827,
     "summary_stats": {
-      "2yr_mean_citedness": 1.25,
+      "2yr_mean_citedness": 1.3333333333333333,
       "h_index": 31,
       "i10_index": 54
     },
@@ -290,7 +290,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003037,
+        "value": 0.0003036,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -307,7 +307,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002797,
+        "value": 0.0002796,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -476,7 +476,7 @@
         "year": 2013,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 209
+        "cited_by_count": 210
       },
       {
         "year": 2014,
@@ -500,7 +500,7 @@
         "year": 2017,
         "works_count": 10,
         "oa_works_count": 0,
-        "cited_by_count": 236
+        "cited_by_count": 237
       },
       {
         "year": 2018,
@@ -542,7 +542,7 @@
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 12
+        "cited_by_count": 13
       },
       {
         "year": 2025,
@@ -568,7 +568,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-05-16T12:20:14",
+    "updated_date": "2026-05-19T12:21:07",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -33944,8 +33944,8 @@
           "raw_author_name": "Guillaume Caumon",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "GeoRessources",
-            "Ecole Nationale Supérieure de Géologie"
+            "Ecole Nationale Supérieure de Géologie",
+            "GeoRessources"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-7828-4600",
           "affiliations": [
@@ -33958,14 +33958,14 @@
               ]
             },
             {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             }
           ]
         }
@@ -33987,11 +33987,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3894,
+      "fwci": 1.3893,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81938119,
+        "value": 0.8193691,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34437,7 +34437,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-19T08:33:51.333923",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78611,20 +78611,20 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -78700,20 +78700,20 @@
           "is_corresponding": false,
           "raw_author_name": "Caumon, Guillaume",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Ecole Nationale Supérieure de Géologie"
+            "Ecole Nationale Supérieure de Géologie",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             }
           ]
         }
@@ -78733,7 +78733,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13859734,
+        "value": 0.1386436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79008,7 +79008,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-18T08:16:58.900851",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
