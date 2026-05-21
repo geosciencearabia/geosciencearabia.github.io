@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 180,
-    "totalCitations": 2557,
+    "totalCitations": 2558,
     "hIndex": 25
   },
   {
@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 404,
-    "totalCitations": 19445,
+    "totalCitations": 19448,
     "hIndex": 70
   },
   {
@@ -126,7 +126,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 91,
-    "totalCitations": 1366,
+    "totalCitations": 1369,
     "hIndex": 21
   },
   {
@@ -162,7 +162,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 50,
-    "totalCitations": 996,
+    "totalCitations": 997,
     "hIndex": 14
   },
   {
@@ -216,8 +216,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 65,
-    "totalCitations": 660,
-    "hIndex": 14
+    "totalCitations": 661,
+    "hIndex": 15
   },
   {
     "authorId": "idb0011-salisu-anas",
@@ -306,7 +306,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 19,
-    "totalCitations": 199,
+    "totalCitations": 200,
     "hIndex": 7
   },
   {
@@ -324,7 +324,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 163,
-    "totalCitations": 2924,
+    "totalCitations": 2925,
     "hIndex": 31
   },
   {
@@ -342,7 +342,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 72,
-    "totalCitations": 1014,
+    "totalCitations": 1016,
     "hIndex": 21
   },
   {
@@ -378,7 +378,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 229,
-    "totalCitations": 4623,
+    "totalCitations": 4634,
     "hIndex": 41
   },
   {
@@ -432,7 +432,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 170,
-    "totalCitations": 1284,
+    "totalCitations": 1285,
     "hIndex": 21
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 249,
-    "totalCitations": 3443,
+    "totalCitations": 3445,
     "hIndex": 26
   },
   {
@@ -846,7 +846,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 62,
-    "totalCitations": 1594,
+    "totalCitations": 1595,
     "hIndex": 24
   },
   {
@@ -918,7 +918,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 93,
-    "totalCitations": 968,
+    "totalCitations": 972,
     "hIndex": 17
   },
   {
@@ -1008,7 +1008,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 87,
-    "totalCitations": 5960,
+    "totalCitations": 5967,
     "hIndex": 33
   },
   {
@@ -1026,7 +1026,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 34,
-    "totalCitations": 1122,
+    "totalCitations": 1123,
     "hIndex": 14
   },
   {
@@ -1100,5 +1100,41 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 88,
     "totalCitations": 638,
     "hIndex": 16
+  },
+  {
+    "authorId": "idb0060-beydoun-ziad",
+    "openAlexId": "A5077725431",
+    "openAlexIds": [
+      "A5077725431"
+    ],
+    "name": "Zaid Beydoun",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 49,
+    "totalCitations": 2144,
+    "hIndex": 24
+  },
+  {
+    "authorId": "idb0061-hughes-geraint",
+    "openAlexId": "A5055315910",
+    "openAlexIds": [
+      "A5055315910"
+    ],
+    "name": "Geraint Hughes",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 29,
+    "totalCitations": 562,
+    "hIndex": 12
   }
 ];

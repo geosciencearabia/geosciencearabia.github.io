@@ -842,9 +842,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -861,8 +861,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1487,16 +1487,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -1981,9 +1981,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -1995,8 +1995,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -2971,6 +2971,7 @@
           "raw_affiliation_strings": [
             "Aramco, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aramco, Dhahran, Saudi Arabia",
@@ -2994,6 +2995,7 @@
           "raw_affiliation_strings": [
             "SLB, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SLB, Dhahran, Saudi Arabia",
@@ -3028,6 +3030,7 @@
           "raw_affiliation_strings": [
             "SLB, Dhahran, Saudi Arabia / Cairo University, Cairo, Egypt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SLB, Dhahran, Saudi Arabia / Cairo University, Cairo, Egypt",
@@ -3051,6 +3054,7 @@
           "raw_affiliation_strings": [
             "SLB, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SLB, Dhahran, Saudi Arabia",
@@ -3070,11 +3074,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2381,
+      "fwci": 4.6702,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96810934,
+        "value": 0.95955056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3352,8 +3356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -4126,7 +4130,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4819,8 +4823,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -5201,16 +5205,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -5363,6 +5367,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -5384,11 +5389,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6656,
+      "fwci": 0.6705,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.5361596,
+        "value": 0.53960396,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5652,16 +5657,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -6562,7 +6567,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7186,8 +7191,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 127,
@@ -8643,8 +8648,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -9426,6 +9431,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -9437,6 +9452,7 @@
             }
           ],
           "countries": [
+            "GB",
             "SA"
           ],
           "is_corresponding": true,
@@ -9445,6 +9461,7 @@
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
             "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
@@ -9454,7 +9471,9 @@
             },
             {
               "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
             }
           ]
         },
@@ -9465,17 +9484,33 @@
             "display_name": "Nigel P. Mountney",
             "orcid": "https://orcid.org/0000-0002-8356-9889"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Nigel P. Mountney",
           "raw_affiliation_strings": [
             "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
             }
           ]
         },
@@ -9486,17 +9521,33 @@
             "display_name": "Luca Colombera",
             "orcid": "https://orcid.org/0000-0001-9116-1800"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Luca Colombera",
           "raw_affiliation_strings": [
             "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
             }
           ]
         },
@@ -9527,6 +9578,7 @@
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
@@ -9538,21 +9590,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5031073959"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I130828816",
         "https://openalex.org/I4210143841"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4037,
+      "fwci": 0.4036,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59405614,
+        "value": 0.59458865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9852,16 +9905,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -10784,7 +10837,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-04T16:13:02.066488",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11332,8 +11385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12180,8 +12233,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13259,16 +13312,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14255,8 +14308,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -15328,6 +15381,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -15365,6 +15419,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -15402,6 +15457,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco",
@@ -15427,7 +15483,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29902827,
+        "value": 0.26093074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15725,8 +15781,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -16752,7 +16808,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

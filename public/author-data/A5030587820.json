@@ -1433,6 +1433,7 @@
             "1 Saudi Aramco, Dhahran 31311, Saudi Arabia",
             "2 King Fahd University of Petroleum and Minerals, P.O. Box 1400, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 Saudi Aramco, Dhahran 31311, Saudi Arabia",
@@ -1475,6 +1476,7 @@
           "raw_affiliation_strings": [
             "3 Sedimentary Reservoirs Workgroup (SEDREGROUP), Department of Stratigraphy and Palaeontology, Facultad de Ciencias, S/N, 18003, University of Granada, Granada, Spain"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "3 Sedimentary Reservoirs Workgroup (SEDREGROUP), Department of Stratigraphy and Palaeontology, Facultad de Ciencias, S/N, 18003, University of Granada, Granada, Spain",
@@ -1511,6 +1513,7 @@
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 Saudi Aramco, Dhahran 31311, Saudi Arabia",
@@ -1547,6 +1550,7 @@
           "raw_affiliation_strings": [
             "2 King Fahd University of Petroleum and Minerals, P.O. Box 1400, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "2 King Fahd University of Petroleum and Minerals, P.O. Box 1400, Dhahran 31261, Saudi Arabia",
@@ -1569,17 +1573,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.875,
+      "fwci": 0.8743,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.70385187,
+        "value": 0.70380064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
+        "min": 90,
+        "max": 99
       },
       "biblio": {
         "volume": "92",
@@ -1861,8 +1865,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2741,7 +2745,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-04T09:10:02.777135",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3398,8 +3402,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "display_name": "Life below water",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4627,8 +4631,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5673,16 +5677,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2800952698",
               "display_name": "Saudi Aramco Medical Services Organization",
               "ror": "https://ror.org/04k820v98",
@@ -5691,6 +5685,16 @@
               "lineage": [
                 "https://openalex.org/I2799853436",
                 "https://openalex.org/I2800952698",
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
                 "https://openalex.org/I4210143841"
               ]
             }
@@ -5704,6 +5708,7 @@
             "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
             "Saudi Aramco, Exploration Organization, Northern Arabia Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
@@ -5729,16 +5734,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2800952698",
               "display_name": "Saudi Aramco Medical Services Organization",
               "ror": "https://ror.org/04k820v98",
@@ -5747,6 +5742,16 @@
               "lineage": [
                 "https://openalex.org/I2799853436",
                 "https://openalex.org/I2800952698",
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
                 "https://openalex.org/I4210143841"
               ]
             }
@@ -5760,6 +5765,7 @@
             "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
             "(Retired) Saudi Aramco, Exploration Organization, Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
@@ -5816,6 +5822,7 @@
             "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
             "Saudi Aramco, Exploration Organization, Geological Operations Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
@@ -5860,6 +5867,7 @@
             "Saudi Aramco Emerging Unconventional Assets Department Dhahran Saudi Arabia",
             "Saudi Aramco, Emerging Unconventional Assets Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco Emerging Unconventional Assets Department Dhahran Saudi Arabia",
@@ -5903,6 +5911,7 @@
             "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
             "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
@@ -5946,6 +5955,7 @@
             "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
             "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
@@ -5982,7 +5992,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.12012077,
+        "value": 0.12176464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6253,8 +6263,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7126,7 +7136,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7654,8 +7664,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9763,11 +9773,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3028,
+      "fwci": 0.3031,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.48495628,
+        "value": 0.48531838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10201,8 +10211,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Life below water",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10743,7 +10753,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11129,8 +11139,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

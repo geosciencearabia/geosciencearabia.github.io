@@ -633,11 +633,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.5401,
+      "fwci": 2.54,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.87931448,
+        "value": 0.8793517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1161,8 +1161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
@@ -1705,7 +1705,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2182,8 +2182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -3284,8 +3284,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -4062,8 +4062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -4977,16 +4977,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.47999998927116394,
-          "display_name": "Climate action"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5788,11 +5788,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6442,
+      "fwci": 1.603,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.81450722,
+        "value": 0.80990693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6087,16 +6087,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -6781,7 +6781,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-11T00:21:10.989143",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7125,16 +7125,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1792,
+      "fwci": 1.1248,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75492782,
+        "value": 0.74561491,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 98
       },
       "biblio": {
@@ -7409,16 +7409,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -8024,7 +8024,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-12-11T00:21:10.989143",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8487,8 +8487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -8933,6 +8933,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -8941,16 +8951,6 @@
               "lineage": [
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
               ]
             }
           ],
@@ -8962,6 +8962,7 @@
           "raw_affiliation_strings": [
             "University of Houston, Saudi Aramco"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Houston, Saudi Aramco",
@@ -8999,6 +9000,7 @@
           "raw_affiliation_strings": [
             "University of Houston"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Houston",
@@ -9035,6 +9037,7 @@
           "raw_affiliation_strings": [
             "University of Houston"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Houston",
@@ -9057,11 +9060,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.011,
+      "fwci": 3.0165,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.903667,
+        "value": 0.90377769,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9342,16 +9345,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -10148,7 +10151,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10644,8 +10647,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11288,8 +11291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -12022,8 +12025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -12985,16 +12988,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13910,16 +13913,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14480,8 +14483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -14874,6 +14877,1454 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2942423916",
+      "doi": "https://doi.org/10.4043/29267-ms",
+      "title": "Marine Seismic Source Characterization Using Fiber Optic Sensors",
+      "display_name": "Marine Seismic Source Characterization Using Fiber Optic Sensors",
+      "publication_year": 2019,
+      "publication_date": "2019-04-24",
+      "ids": {
+        "openalex": "https://openalex.org/W2942423916",
+        "doi": "https://doi.org/10.4043/29267-ms",
+        "mag": "2942423916"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4043/29267-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4043/29267-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306521389",
+          "display_name": "Offshore Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Offshore Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052123503",
+            "display_name": "Ezzedeen Alfataierge",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ezzedeen Alfataierge",
+          "raw_affiliation_strings": [
+            "University of Houston, Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston, Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028829062",
+            "display_name": "Nikolay Dyaur",
+            "orcid": "https://orcid.org/0000-0002-2842-9883"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nikolay Dyaur",
+          "raw_affiliation_strings": [
+            "University of Houston"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100429526",
+            "display_name": "Chang Li",
+            "orcid": "https://orcid.org/0000-0002-5384-8262"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Li Chang",
+          "raw_affiliation_strings": [
+            "University of Houston"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5020914067",
+            "display_name": "Robert R. Stewart",
+            "orcid": "https://orcid.org/0000-0003-1694-9395"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert R. Stewart",
+          "raw_affiliation_strings": [
+            "University of Houston"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I44461941",
+        "https://openalex.org/I62856769"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6033,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.53481013,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10205",
+        "display_name": "Advanced Fiber Optic Sensors",
+        "score": 0.9983999729156494,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2208",
+          "display_name": "Electrical and Electronic Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10205",
+          "display_name": "Advanced Fiber Optic Sensors",
+          "score": 0.9983999729156494,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.9904999732971191,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9329000115394592,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/casing",
+          "display_name": "Casing",
+          "score": 0.783815860748291
+        },
+        {
+          "id": "https://openalex.org/keywords/borehole",
+          "display_name": "Borehole",
+          "score": 0.6254215836524963
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrophone",
+          "display_name": "Hydrophone",
+          "score": 0.5791040658950806
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5627651214599609
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.5440409183502197
+        },
+        {
+          "id": "https://openalex.org/keywords/optical-fiber",
+          "display_name": "Optical fiber",
+          "score": 0.5380968451499939
+        },
+        {
+          "id": "https://openalex.org/keywords/transducer",
+          "display_name": "Transducer",
+          "score": 0.5345949530601501
+        },
+        {
+          "id": "https://openalex.org/keywords/fiber-bragg-grating",
+          "display_name": "Fiber Bragg grating",
+          "score": 0.49482864141464233
+        },
+        {
+          "id": "https://openalex.org/keywords/fiber-optic-sensor",
+          "display_name": "Fiber optic sensor",
+          "score": 0.4423021972179413
+        },
+        {
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "Distributed acoustic sensing",
+          "score": 0.42987436056137085
+        },
+        {
+          "id": "https://openalex.org/keywords/vertical-seismic-profile",
+          "display_name": "Vertical seismic profile",
+          "score": 0.42912375926971436
+        },
+        {
+          "id": "https://openalex.org/keywords/optical-fiber-cable",
+          "display_name": "Optical fiber cable",
+          "score": 0.4134637415409088
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.26025065779685974
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.24794387817382812
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.22124570608139038
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.1635187268257141
+        },
+        {
+          "id": "https://openalex.org/keywords/telecommunications",
+          "display_name": "Telecommunications",
+          "score": 0.09803146123886108
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C30399818",
+          "wikidata": "https://www.wikidata.org/wiki/Q5048830",
+          "display_name": "Casing",
+          "level": 2,
+          "score": 0.783815860748291
+        },
+        {
+          "id": "https://openalex.org/C150560799",
+          "wikidata": "https://www.wikidata.org/wiki/Q502102",
+          "display_name": "Borehole",
+          "level": 2,
+          "score": 0.6254215836524963
+        },
+        {
+          "id": "https://openalex.org/C2776328434",
+          "wikidata": "https://www.wikidata.org/wiki/Q798062",
+          "display_name": "Hydrophone",
+          "level": 2,
+          "score": 0.5791040658950806
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5627651214599609
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.5440409183502197
+        },
+        {
+          "id": "https://openalex.org/C194232370",
+          "wikidata": "https://www.wikidata.org/wiki/Q162",
+          "display_name": "Optical fiber",
+          "level": 2,
+          "score": 0.5380968451499939
+        },
+        {
+          "id": "https://openalex.org/C56318395",
+          "wikidata": "https://www.wikidata.org/wiki/Q215928",
+          "display_name": "Transducer",
+          "level": 2,
+          "score": 0.5345949530601501
+        },
+        {
+          "id": "https://openalex.org/C43091971",
+          "wikidata": "https://www.wikidata.org/wiki/Q1397391",
+          "display_name": "Fiber Bragg grating",
+          "level": 3,
+          "score": 0.49482864141464233
+        },
+        {
+          "id": "https://openalex.org/C21651689",
+          "wikidata": "https://www.wikidata.org/wiki/Q1397427",
+          "display_name": "Fiber optic sensor",
+          "level": 3,
+          "score": 0.4423021972179413
+        },
+        {
+          "id": "https://openalex.org/C158543913",
+          "wikidata": "https://www.wikidata.org/wiki/Q5283133",
+          "display_name": "Distributed acoustic sensing",
+          "level": 4,
+          "score": 0.42987436056137085
+        },
+        {
+          "id": "https://openalex.org/C89787772",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922855",
+          "display_name": "Vertical seismic profile",
+          "level": 2,
+          "score": 0.42912375926971436
+        },
+        {
+          "id": "https://openalex.org/C161325326",
+          "wikidata": "https://www.wikidata.org/wiki/Q197961",
+          "display_name": "Optical fiber cable",
+          "level": 3,
+          "score": 0.4134637415409088
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.26025065779685974
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.24794387817382812
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.22124570608139038
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.1635187268257141
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0.09803146123886108
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4043/29267-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4043/29267-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306521389",
+            "display_name": "Offshore Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Offshore Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W2327252383",
+        "https://openalex.org/W2327371768",
+        "https://openalex.org/W2567356819",
+        "https://openalex.org/W2590038703",
+        "https://openalex.org/W6734543452"
+      ],
+      "related_works": [
+        "https://openalex.org/W2086122870",
+        "https://openalex.org/W2056009356",
+        "https://openalex.org/W2943079831",
+        "https://openalex.org/W2789799447",
+        "https://openalex.org/W2525707666",
+        "https://openalex.org/W3190023684",
+        "https://openalex.org/W4311569849",
+        "https://openalex.org/W2586120882",
+        "https://openalex.org/W2193890225",
+        "https://openalex.org/W3182682121"
+      ],
+      "abstract_inverted_index": {
+        "25": [
+          227
+        ],
+        "500": [
+          224
+        ],
+        "Abstract": [
+          0
+        ],
+        "This": [
+          1,
+          59
+        ],
+        "laboratory": [
+          2,
+          64
+        ],
+        "study": [
+          3,
+          374
+        ],
+        "explores": [
+          4
+        ],
+        "the": [
+          5,
+          30,
+          49,
+          101,
+          107,
+          111,
+          122,
+          126,
+          152,
+          155,
+          159,
+          163,
+          173,
+          181,
+          189,
+          196,
+          248,
+          252,
+          259,
+          262,
+          267,
+          285,
+          289,
+          298,
+          318,
+          325,
+          330,
+          356,
+          359,
+          402
+        ],
+        "geophysical": [
+          6,
+          81,
+          203
+        ],
+        "imaging": [
+          7,
+          54,
+          204,
+          337,
+          363,
+          387
+        ],
+        "applications": [
+          8,
+          342,
+          423
+        ],
+        "of": [
+          9,
+          130,
+          167,
+          261,
+          288,
+          301,
+          333,
+          343,
+          358,
+          404,
+          409
+        ],
+        "a": [
+          10,
+          16,
+          56,
+          63,
+          67,
+          79,
+          92,
+          97,
+          131,
+          136,
+          145,
+          213,
+          230,
+          377,
+          411
+        ],
+        "fiber": [
+          11,
+          20,
+          27,
+          37,
+          46,
+          117,
+          347,
+          378,
+          412,
+          428
+        ],
+        "optic": [
+          12,
+          379,
+          413,
+          429
+        ],
+        "sensing": [
+          13,
+          102,
+          249,
+          268,
+          380,
+          414
+        ],
+        "system": [
+          14,
+          272,
+          305,
+          381,
+          415
+        ],
+        "in": [
+          15,
+          62,
+          180,
+          296,
+          309,
+          372,
+          388,
+          396,
+          418
+        ],
+        "marine": [
+          17,
+          98
+        ],
+        "environment,": [
+          18,
+          99
+        ],
+        "from": [
+          19,
+          151,
+          223
+        ],
+        "installed": [
+          21,
+          38
+        ],
+        "on": [
+          22,
+          29,
+          39,
+          48,
+          110,
+          121,
+          266
+        ],
+        "pipes": [
+          23,
+          90,
+          108,
+          141,
+          174
+        ],
+        "or": [
+          24
+        ],
+        "casing": [
+          25,
+          40
+        ],
+        "to": [
+          26,
+          95,
+          144,
+          148,
+          188,
+          200,
+          218,
+          226,
+          257,
+          275,
+          283,
+          400,
+          424
+        ],
+        "laying": [
+          28,
+          47
+        ],
+        "floor.": [
+          31,
+          113
+        ],
+        "The": [
+          32,
+          140,
+          242,
+          270,
+          303,
+          369,
+          407
+        ],
+        "most": [
+          33
+        ],
+        "common": [
+          34
+        ],
+        "application": [
+          35
+        ],
+        "with": [
+          36,
+          208,
+          235,
+          365
+        ],
+        "is": [
+          41,
+          55,
+          60,
+          86
+        ],
+        "borehole": [
+          42
+        ],
+        "seismic": [
+          43,
+          53,
+          290,
+          336,
+          360,
+          386
+        ],
+        "imaging.": [
+          44
+        ],
+        "With": [
+          45
+        ],
+        "ocean": [
+          50
+        ],
+        "floor,": [
+          51
+        ],
+        "surface": [
+          52
+        ],
+        "possible": [
+          57
+        ],
+        "application.": [
+          58
+        ],
+        "tested": [
+          61
+        ],
+        "setting": [
+          65
+        ],
+        "using": [
+          66,
+          88,
+          346,
+          410
+        ],
+        "Distributed": [
+          68
+        ],
+        "Acoustic": [
+          69
+        ],
+        "Sensing": [
+          70
+        ],
+        "\"DAS\"": [
+          71
+        ],
+        "system,": [
+          72,
+          77
+        ],
+        "Fiber": [
+          73
+        ],
+        "Bragg": [
+          74
+        ],
+        "Grating": [
+          75
+        ],
+        "\"FBG\"": [
+          76
+        ],
+        "and": [
+          78,
+          91,
+          100,
+          109,
+          125,
+          135,
+          175,
+          193,
+          229,
+          251,
+          348,
+          431
+        ],
+        "conventional": [
+          80,
+          202
+        ],
+        "hydrophone": [
+          82,
+          184
+        ],
+        "system.": [
+          83
+        ],
+        "A": [
+          84,
+          183
+        ],
+        "setup": [
+          85
+        ],
+        "made": [
+          87,
+          244,
+          280
+        ],
+        "PVC": [
+          89
+        ],
+        "water-filled": [
+          93
+        ],
+        "tank": [
+          94,
+          112,
+          123
+        ],
+        "simulate": [
+          96
+        ],
+        "systems": [
+          103,
+          250,
+          353
+        ],
+        "were": [
+          104,
+          170,
+          177,
+          211,
+          245
+        ],
+        "distributed": [
+          105,
+          171,
+          194
+        ],
+        "along": [
+          106,
+          172,
+          195
+        ],
+        "Single": [
+          114
+        ],
+        "mode": [
+          115
+        ],
+        "telecommunication": [
+          116
+        ],
+        "was": [
+          118,
+          186,
+          216,
+          233,
+          255,
+          273,
+          294,
+          315
+        ],
+        "laid": [
+          119
+        ],
+        "out": [
+          120
+        ],
+        "floor": [
+          124
+        ],
+        "pipes,": [
+          127
+        ],
+        "which": [
+          128,
+          279
+        ],
+        "consist": [
+          129
+        ],
+        "vertical": [
+          132,
+          156,
+          190
+        ],
+        "pipe": [
+          133,
+          138,
+          157,
+          161,
+          191,
+          198
+        ],
+        "segment": [
+          134,
+          192,
+          199
+        ],
+        "horizontal": [
+          137,
+          160,
+          197
+        ],
+        "segment.": [
+          139
+        ],
+        "are": [
+          142,
+          339,
+          394,
+          416,
+          434
+        ],
+        "connected": [
+          143
+        ],
+        "water": [
+          146
+        ],
+        "reservoir": [
+          147,
+          153
+        ],
+        "allow": [
+          149
+        ],
+        "flow": [
+          150
+        ],
+        "through": [
+          154
+        ],
+        "then": [
+          158
+        ],
+        "into": [
+          162
+        ],
+        "tank.": [
+          164
+        ],
+        "An": [
+          165
+        ],
+        "array": [
+          166,
+          185
+        ],
+        "FBG": [
+          168,
+          304
+        ],
+        "sensors": [
+          169,
+          430
+        ],
+        "some": [
+          176
+        ],
+        "left": [
+          178
+        ],
+        "floating": [
+          179
+        ],
+        "water.": [
+          182
+        ],
+        "secured": [
+          187
+        ],
+        "make": [
+          201
+        ],
+        "measurements.": [
+          205
+        ],
+        "Seismic": [
+          206
+        ],
+        "sources": [
+          207,
+          361
+        ],
+        "different": [
+          209,
+          236,
+          366
+        ],
+        "frequencies": [
+          210,
+          320,
+          328
+        ],
+        "used,": [
+          212
+        ],
+        "piezoelectric": [
+          214
+        ],
+        "transducer": [
+          215
+        ],
+        "used": [
+          217,
+          234,
+          256,
+          384
+        ],
+        "introduce": [
+          219
+        ],
+        "higher": [
+          220,
+          299
+        ],
+        "frequency": [
+          221,
+          240,
+          253,
+          264,
+          286,
+          312,
+          331
+        ],
+        "(ranging": [
+          222
+        ],
+        "Hz": [
+          225
+        ],
+        "kHz),": [
+          228
+        ],
+        "hammer": [
+          231
+        ],
+        "source": [
+          232,
+          263
+        ],
+        "material": [
+          237
+        ],
+        "as": [
+          238
+        ],
+        "broad": [
+          239
+        ],
+        "sources.": [
+          241
+        ],
+        "measurements": [
+          243
+        ],
+        "compared": [
+          246
+        ],
+        "across": [
+          247
+        ],
+        "response": [
+          254,
+          287,
+          357
+        ],
+        "evaluate": [
+          258
+        ],
+        "preservation": [
+          260
+        ],
+        "signature": [
+          265
+        ],
+        "instruments.": [
+          269
+        ],
+        "DAS": [
+          271
+        ],
+        "sensitive": [
+          274
+        ],
+        "low-frequency": [
+          276
+        ],
+        "ambient": [
+          277
+        ],
+        "noise": [
+          278,
+          367
+        ],
+        "it": [
+          281,
+          293,
+          321
+        ],
+        "difficult": [
+          282
+        ],
+        "see": [
+          284
+        ],
+        "sources,": [
+          291
+        ],
+        "however,": [
+          292
+        ],
+        "useful": [
+          295,
+          340
+        ],
+        "capturing": [
+          297,
+          310
+        ],
+        "range": [
+          300,
+          332
+        ],
+        "frequencies.": [
+          302
+        ],
+        "showed": [
+          306
+        ],
+        "better": [
+          307
+        ],
+        "results": [
+          308,
+          370
+        ],
+        "lower": [
+          311
+        ],
+        "signal": [
+          313
+        ],
+        "but": [
+          314,
+          338,
+          364
+        ],
+        "limited": [
+          316
+        ],
+        "by": [
+          317
+        ],
+        "high": [
+          319,
+          327
+        ],
+        "could": [
+          322
+        ],
+        "capture.": [
+          323
+        ],
+        "Nevertheless,": [
+          324
+        ],
+        "captured": [
+          326
+        ],
+        "exceeded": [
+          329
+        ],
+        "interest": [
+          334
+        ],
+        "for": [
+          335,
+          341,
+          362,
+          385
+        ],
+        "wireless": [
+          344,
+          425
+        ],
+        "communication": [
+          345,
+          426
+        ],
+        "PZT": [
+          349
+        ],
+        "transducers.": [
+          350
+        ],
+        "Therefore,": [
+          351
+        ],
+        "both": [
+          352
+        ],
+        "can": [
+          354,
+          382
+        ],
+        "capture": [
+          355
+        ],
+        "sensitivity.": [
+          368
+        ],
+        "presented": [
+          371
+        ],
+        "this": [
+          373,
+          405,
+          419
+        ],
+        "indicate": [
+          375
+        ],
+        "that": [
+          376
+        ],
+        "be": [
+          383
+        ],
+        "an": [
+          389
+        ],
+        "offshore": [
+          390
+        ],
+        "environment.": [
+          391
+        ],
+        "Further": [
+          392
+        ],
+        "tests": [
+          393
+        ],
+        "recommended": [
+          395
+        ],
+        "larger": [
+          397
+        ],
+        "scale": [
+          398
+        ],
+        "environments": [
+          399
+        ],
+        "confirm": [
+          401
+        ],
+        "findings": [
+          403
+        ],
+        "study.": [
+          406,
+          420
+        ],
+        "advantages": [
+          408
+        ],
+        "highlighted": [
+          417
+        ],
+        "Finally,": [
+          421
+        ],
+        "further": [
+          422
+        ],
+        "via": [
+          427
+        ],
+        "high-frequency": [
+          432
+        ],
+        "transducers": [
+          433
+        ],
+        "discussed.": [
+          435
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15357,8 +16808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16354,16 +17805,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16745,1450 +18196,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2942423916",
-      "doi": "https://doi.org/10.4043/29267-ms",
-      "title": "Marine Seismic Source Characterization Using Fiber Optic Sensors",
-      "display_name": "Marine Seismic Source Characterization Using Fiber Optic Sensors",
-      "publication_year": 2019,
-      "publication_date": "2019-04-24",
-      "ids": {
-        "openalex": "https://openalex.org/W2942423916",
-        "doi": "https://doi.org/10.4043/29267-ms",
-        "mag": "2942423916"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.4043/29267-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.4043/29267-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306521389",
-          "display_name": "Offshore Technology Conference",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Offshore Technology Conference",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "University of Houston, Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston, Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028829062",
-            "display_name": "Nikolay Dyaur",
-            "orcid": "https://orcid.org/0000-0002-2842-9883"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nikolay Dyaur",
-          "raw_affiliation_strings": [
-            "University of Houston"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100429526",
-            "display_name": "Chang Li",
-            "orcid": "https://orcid.org/0000-0002-5384-8262"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Li Chang",
-          "raw_affiliation_strings": [
-            "University of Houston"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5020914067",
-            "display_name": "Robert R. Stewart",
-            "orcid": "https://orcid.org/0000-0003-1694-9395"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert R. Stewart",
-          "raw_affiliation_strings": [
-            "University of Houston"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052123503"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I44461941",
-        "https://openalex.org/I62856769"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6022,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.53240833,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10205",
-        "display_name": "Advanced Fiber Optic Sensors",
-        "score": 0.9983999729156494,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2208",
-          "display_name": "Electrical and Electronic Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10205",
-          "display_name": "Advanced Fiber Optic Sensors",
-          "score": 0.9983999729156494,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2208",
-            "display_name": "Electrical and Electronic Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9904999732971191,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9329000115394592,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/casing",
-          "display_name": "Casing",
-          "score": 0.783815860748291
-        },
-        {
-          "id": "https://openalex.org/keywords/borehole",
-          "display_name": "Borehole",
-          "score": 0.6254215836524963
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrophone",
-          "display_name": "Hydrophone",
-          "score": 0.5791040658950806
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5627651214599609
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.5440409183502197
-        },
-        {
-          "id": "https://openalex.org/keywords/optical-fiber",
-          "display_name": "Optical fiber",
-          "score": 0.5380968451499939
-        },
-        {
-          "id": "https://openalex.org/keywords/transducer",
-          "display_name": "Transducer",
-          "score": 0.5345949530601501
-        },
-        {
-          "id": "https://openalex.org/keywords/fiber-bragg-grating",
-          "display_name": "Fiber Bragg grating",
-          "score": 0.49482864141464233
-        },
-        {
-          "id": "https://openalex.org/keywords/fiber-optic-sensor",
-          "display_name": "Fiber optic sensor",
-          "score": 0.4423021972179413
-        },
-        {
-          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "Distributed acoustic sensing",
-          "score": 0.42987436056137085
-        },
-        {
-          "id": "https://openalex.org/keywords/vertical-seismic-profile",
-          "display_name": "Vertical seismic profile",
-          "score": 0.42912375926971436
-        },
-        {
-          "id": "https://openalex.org/keywords/optical-fiber-cable",
-          "display_name": "Optical fiber cable",
-          "score": 0.4134637415409088
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.26025065779685974
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.24794387817382812
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.22124570608139038
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.1635187268257141
-        },
-        {
-          "id": "https://openalex.org/keywords/telecommunications",
-          "display_name": "Telecommunications",
-          "score": 0.09803146123886108
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C30399818",
-          "wikidata": "https://www.wikidata.org/wiki/Q5048830",
-          "display_name": "Casing",
-          "level": 2,
-          "score": 0.783815860748291
-        },
-        {
-          "id": "https://openalex.org/C150560799",
-          "wikidata": "https://www.wikidata.org/wiki/Q502102",
-          "display_name": "Borehole",
-          "level": 2,
-          "score": 0.6254215836524963
-        },
-        {
-          "id": "https://openalex.org/C2776328434",
-          "wikidata": "https://www.wikidata.org/wiki/Q798062",
-          "display_name": "Hydrophone",
-          "level": 2,
-          "score": 0.5791040658950806
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5627651214599609
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.5440409183502197
-        },
-        {
-          "id": "https://openalex.org/C194232370",
-          "wikidata": "https://www.wikidata.org/wiki/Q162",
-          "display_name": "Optical fiber",
-          "level": 2,
-          "score": 0.5380968451499939
-        },
-        {
-          "id": "https://openalex.org/C56318395",
-          "wikidata": "https://www.wikidata.org/wiki/Q215928",
-          "display_name": "Transducer",
-          "level": 2,
-          "score": 0.5345949530601501
-        },
-        {
-          "id": "https://openalex.org/C43091971",
-          "wikidata": "https://www.wikidata.org/wiki/Q1397391",
-          "display_name": "Fiber Bragg grating",
-          "level": 3,
-          "score": 0.49482864141464233
-        },
-        {
-          "id": "https://openalex.org/C21651689",
-          "wikidata": "https://www.wikidata.org/wiki/Q1397427",
-          "display_name": "Fiber optic sensor",
-          "level": 3,
-          "score": 0.4423021972179413
-        },
-        {
-          "id": "https://openalex.org/C158543913",
-          "wikidata": "https://www.wikidata.org/wiki/Q5283133",
-          "display_name": "Distributed acoustic sensing",
-          "level": 4,
-          "score": 0.42987436056137085
-        },
-        {
-          "id": "https://openalex.org/C89787772",
-          "wikidata": "https://www.wikidata.org/wiki/Q7922855",
-          "display_name": "Vertical seismic profile",
-          "level": 2,
-          "score": 0.42912375926971436
-        },
-        {
-          "id": "https://openalex.org/C161325326",
-          "wikidata": "https://www.wikidata.org/wiki/Q197961",
-          "display_name": "Optical fiber cable",
-          "level": 3,
-          "score": 0.4134637415409088
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.26025065779685974
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.24794387817382812
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.22124570608139038
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.1635187268257141
-        },
-        {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
-          "score": 0.09803146123886108
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.4043/29267-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.4043/29267-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306521389",
-            "display_name": "Offshore Technology Conference",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Offshore Technology Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 5,
-      "referenced_works": [
-        "https://openalex.org/W2327252383",
-        "https://openalex.org/W2327371768",
-        "https://openalex.org/W2567356819",
-        "https://openalex.org/W2590038703",
-        "https://openalex.org/W6734543452"
-      ],
-      "related_works": [
-        "https://openalex.org/W2086122870",
-        "https://openalex.org/W2056009356",
-        "https://openalex.org/W2943079831",
-        "https://openalex.org/W2789799447",
-        "https://openalex.org/W2525707666",
-        "https://openalex.org/W3190023684",
-        "https://openalex.org/W4311569849",
-        "https://openalex.org/W2586120882",
-        "https://openalex.org/W2193890225",
-        "https://openalex.org/W3182682121"
-      ],
-      "abstract_inverted_index": {
-        "25": [
-          227
-        ],
-        "500": [
-          224
-        ],
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1,
-          59
-        ],
-        "laboratory": [
-          2,
-          64
-        ],
-        "study": [
-          3,
-          374
-        ],
-        "explores": [
-          4
-        ],
-        "the": [
-          5,
-          30,
-          49,
-          101,
-          107,
-          111,
-          122,
-          126,
-          152,
-          155,
-          159,
-          163,
-          173,
-          181,
-          189,
-          196,
-          248,
-          252,
-          259,
-          262,
-          267,
-          285,
-          289,
-          298,
-          318,
-          325,
-          330,
-          356,
-          359,
-          402
-        ],
-        "geophysical": [
-          6,
-          81,
-          203
-        ],
-        "imaging": [
-          7,
-          54,
-          204,
-          337,
-          363,
-          387
-        ],
-        "applications": [
-          8,
-          342,
-          423
-        ],
-        "of": [
-          9,
-          130,
-          167,
-          261,
-          288,
-          301,
-          333,
-          343,
-          358,
-          404,
-          409
-        ],
-        "a": [
-          10,
-          16,
-          56,
-          63,
-          67,
-          79,
-          92,
-          97,
-          131,
-          136,
-          145,
-          213,
-          230,
-          377,
-          411
-        ],
-        "fiber": [
-          11,
-          20,
-          27,
-          37,
-          46,
-          117,
-          347,
-          378,
-          412,
-          428
-        ],
-        "optic": [
-          12,
-          379,
-          413,
-          429
-        ],
-        "sensing": [
-          13,
-          102,
-          249,
-          268,
-          380,
-          414
-        ],
-        "system": [
-          14,
-          272,
-          305,
-          381,
-          415
-        ],
-        "in": [
-          15,
-          62,
-          180,
-          296,
-          309,
-          372,
-          388,
-          396,
-          418
-        ],
-        "marine": [
-          17,
-          98
-        ],
-        "environment,": [
-          18,
-          99
-        ],
-        "from": [
-          19,
-          151,
-          223
-        ],
-        "installed": [
-          21,
-          38
-        ],
-        "on": [
-          22,
-          29,
-          39,
-          48,
-          110,
-          121,
-          266
-        ],
-        "pipes": [
-          23,
-          90,
-          108,
-          141,
-          174
-        ],
-        "or": [
-          24
-        ],
-        "casing": [
-          25,
-          40
-        ],
-        "to": [
-          26,
-          95,
-          144,
-          148,
-          188,
-          200,
-          218,
-          226,
-          257,
-          275,
-          283,
-          400,
-          424
-        ],
-        "laying": [
-          28,
-          47
-        ],
-        "floor.": [
-          31,
-          113
-        ],
-        "The": [
-          32,
-          140,
-          242,
-          270,
-          303,
-          369,
-          407
-        ],
-        "most": [
-          33
-        ],
-        "common": [
-          34
-        ],
-        "application": [
-          35
-        ],
-        "with": [
-          36,
-          208,
-          235,
-          365
-        ],
-        "is": [
-          41,
-          55,
-          60,
-          86
-        ],
-        "borehole": [
-          42
-        ],
-        "seismic": [
-          43,
-          53,
-          290,
-          336,
-          360,
-          386
-        ],
-        "imaging.": [
-          44
-        ],
-        "With": [
-          45
-        ],
-        "ocean": [
-          50
-        ],
-        "floor,": [
-          51
-        ],
-        "surface": [
-          52
-        ],
-        "possible": [
-          57
-        ],
-        "application.": [
-          58
-        ],
-        "tested": [
-          61
-        ],
-        "setting": [
-          65
-        ],
-        "using": [
-          66,
-          88,
-          346,
-          410
-        ],
-        "Distributed": [
-          68
-        ],
-        "Acoustic": [
-          69
-        ],
-        "Sensing": [
-          70
-        ],
-        "\"DAS\"": [
-          71
-        ],
-        "system,": [
-          72,
-          77
-        ],
-        "Fiber": [
-          73
-        ],
-        "Bragg": [
-          74
-        ],
-        "Grating": [
-          75
-        ],
-        "\"FBG\"": [
-          76
-        ],
-        "and": [
-          78,
-          91,
-          100,
-          109,
-          125,
-          135,
-          175,
-          193,
-          229,
-          251,
-          348,
-          431
-        ],
-        "conventional": [
-          80,
-          202
-        ],
-        "hydrophone": [
-          82,
-          184
-        ],
-        "system.": [
-          83
-        ],
-        "A": [
-          84,
-          183
-        ],
-        "setup": [
-          85
-        ],
-        "made": [
-          87,
-          244,
-          280
-        ],
-        "PVC": [
-          89
-        ],
-        "water-filled": [
-          93
-        ],
-        "tank": [
-          94,
-          112,
-          123
-        ],
-        "simulate": [
-          96
-        ],
-        "systems": [
-          103,
-          250,
-          353
-        ],
-        "were": [
-          104,
-          170,
-          177,
-          211,
-          245
-        ],
-        "distributed": [
-          105,
-          171,
-          194
-        ],
-        "along": [
-          106,
-          172,
-          195
-        ],
-        "Single": [
-          114
-        ],
-        "mode": [
-          115
-        ],
-        "telecommunication": [
-          116
-        ],
-        "was": [
-          118,
-          186,
-          216,
-          233,
-          255,
-          273,
-          294,
-          315
-        ],
-        "laid": [
-          119
-        ],
-        "out": [
-          120
-        ],
-        "floor": [
-          124
-        ],
-        "pipes,": [
-          127
-        ],
-        "which": [
-          128,
-          279
-        ],
-        "consist": [
-          129
-        ],
-        "vertical": [
-          132,
-          156,
-          190
-        ],
-        "pipe": [
-          133,
-          138,
-          157,
-          161,
-          191,
-          198
-        ],
-        "segment": [
-          134,
-          192,
-          199
-        ],
-        "horizontal": [
-          137,
-          160,
-          197
-        ],
-        "segment.": [
-          139
-        ],
-        "are": [
-          142,
-          339,
-          394,
-          416,
-          434
-        ],
-        "connected": [
-          143
-        ],
-        "water": [
-          146
-        ],
-        "reservoir": [
-          147,
-          153
-        ],
-        "allow": [
-          149
-        ],
-        "flow": [
-          150
-        ],
-        "through": [
-          154
-        ],
-        "then": [
-          158
-        ],
-        "into": [
-          162
-        ],
-        "tank.": [
-          164
-        ],
-        "An": [
-          165
-        ],
-        "array": [
-          166,
-          185
-        ],
-        "FBG": [
-          168,
-          304
-        ],
-        "sensors": [
-          169,
-          430
-        ],
-        "some": [
-          176
-        ],
-        "left": [
-          178
-        ],
-        "floating": [
-          179
-        ],
-        "water.": [
-          182
-        ],
-        "secured": [
-          187
-        ],
-        "make": [
-          201
-        ],
-        "measurements.": [
-          205
-        ],
-        "Seismic": [
-          206
-        ],
-        "sources": [
-          207,
-          361
-        ],
-        "different": [
-          209,
-          236,
-          366
-        ],
-        "frequencies": [
-          210,
-          320,
-          328
-        ],
-        "used,": [
-          212
-        ],
-        "piezoelectric": [
-          214
-        ],
-        "transducer": [
-          215
-        ],
-        "used": [
-          217,
-          234,
-          256,
-          384
-        ],
-        "introduce": [
-          219
-        ],
-        "higher": [
-          220,
-          299
-        ],
-        "frequency": [
-          221,
-          240,
-          253,
-          264,
-          286,
-          312,
-          331
-        ],
-        "(ranging": [
-          222
-        ],
-        "Hz": [
-          225
-        ],
-        "kHz),": [
-          228
-        ],
-        "hammer": [
-          231
-        ],
-        "source": [
-          232,
-          263
-        ],
-        "material": [
-          237
-        ],
-        "as": [
-          238
-        ],
-        "broad": [
-          239
-        ],
-        "sources.": [
-          241
-        ],
-        "measurements": [
-          243
-        ],
-        "compared": [
-          246
-        ],
-        "across": [
-          247
-        ],
-        "response": [
-          254,
-          287,
-          357
-        ],
-        "evaluate": [
-          258
-        ],
-        "preservation": [
-          260
-        ],
-        "signature": [
-          265
-        ],
-        "instruments.": [
-          269
-        ],
-        "DAS": [
-          271
-        ],
-        "sensitive": [
-          274
-        ],
-        "low-frequency": [
-          276
-        ],
-        "ambient": [
-          277
-        ],
-        "noise": [
-          278,
-          367
-        ],
-        "it": [
-          281,
-          293,
-          321
-        ],
-        "difficult": [
-          282
-        ],
-        "see": [
-          284
-        ],
-        "sources,": [
-          291
-        ],
-        "however,": [
-          292
-        ],
-        "useful": [
-          295,
-          340
-        ],
-        "capturing": [
-          297,
-          310
-        ],
-        "range": [
-          300,
-          332
-        ],
-        "frequencies.": [
-          302
-        ],
-        "showed": [
-          306
-        ],
-        "better": [
-          307
-        ],
-        "results": [
-          308,
-          370
-        ],
-        "lower": [
-          311
-        ],
-        "signal": [
-          313
-        ],
-        "but": [
-          314,
-          338,
-          364
-        ],
-        "limited": [
-          316
-        ],
-        "by": [
-          317
-        ],
-        "high": [
-          319,
-          327
-        ],
-        "could": [
-          322
-        ],
-        "capture.": [
-          323
-        ],
-        "Nevertheless,": [
-          324
-        ],
-        "captured": [
-          326
-        ],
-        "exceeded": [
-          329
-        ],
-        "interest": [
-          334
-        ],
-        "for": [
-          335,
-          341,
-          362,
-          385
-        ],
-        "wireless": [
-          344,
-          425
-        ],
-        "communication": [
-          345,
-          426
-        ],
-        "PZT": [
-          349
-        ],
-        "transducers.": [
-          350
-        ],
-        "Therefore,": [
-          351
-        ],
-        "both": [
-          352
-        ],
-        "can": [
-          354,
-          382
-        ],
-        "capture": [
-          355
-        ],
-        "sensitivity.": [
-          368
-        ],
-        "presented": [
-          371
-        ],
-        "this": [
-          373,
-          405,
-          419
-        ],
-        "indicate": [
-          375
-        ],
-        "that": [
-          376
-        ],
-        "be": [
-          383
-        ],
-        "an": [
-          389
-        ],
-        "offshore": [
-          390
-        ],
-        "environment.": [
-          391
-        ],
-        "Further": [
-          392
-        ],
-        "tests": [
-          393
-        ],
-        "recommended": [
-          395
-        ],
-        "larger": [
-          397
-        ],
-        "scale": [
-          398
-        ],
-        "environments": [
-          399
-        ],
-        "confirm": [
-          401
-        ],
-        "findings": [
-          403
-        ],
-        "study.": [
-          406,
-          420
-        ],
-        "advantages": [
-          408
-        ],
-        "highlighted": [
-          417
-        ],
-        "Finally,": [
-          421
-        ],
-        "further": [
-          422
-        ],
-        "via": [
-          427
-        ],
-        "high-frequency": [
-          432
-        ],
-        "transducers": [
-          433
-        ],
-        "discussed.": [
-          435
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3033999366",
       "doi": null,
       "title": "The experiment measurement of pressure in the fracture.",
@@ -18482,8 +18489,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18863,16 +18870,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19479,8 +19486,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20137,8 +20144,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20594,7 +20601,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09360117,
+        "value": 0.09052002,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20907,8 +20914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -21303,7 +21310,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21661,16 +21668,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22414,16 +22421,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6299999952316284,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23221,7 +23228,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22922404,
+        "value": 0.21885056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23395,8 +23402,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -23918,7 +23925,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-11T00:21:10.989143",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24380,8 +24387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -25368,8 +25375,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26334,8 +26341,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -26963,16 +26970,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4758980870246887,
-          "display_name": "Clean water and sanitation"
+          "score": 0.4758980870246887
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -27775,7 +27782,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.83160925,
+        "value": 0.74336859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28172,8 +28179,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -28776,7 +28783,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2026-04-15T00:00:00"
     }
   ]

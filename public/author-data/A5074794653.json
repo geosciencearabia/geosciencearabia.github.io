@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002504,
+        "value": 0.0002503,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -745,11 +745,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.9088,
+      "fwci": 6.9061,
       "has_fulltext": true,
       "cited_by_count": 530,
       "citation_normalized_percentile": {
-        "value": 0.96961941,
+        "value": 0.96961603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2050,7 +2050,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3057,6 +3057,7 @@
           "is_corresponding": true,
           "raw_author_name": "Mohammad Faqira",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3071,6 +3072,7 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Rademakers",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3085,6 +3087,7 @@
           "is_corresponding": false,
           "raw_author_name": "AbdulKader M. Afifi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -3097,16 +3100,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9636,
+      "fwci": 5.9644,
       "has_fulltext": false,
       "cited_by_count": 134,
       "citation_normalized_percentile": {
-        "value": 0.95854857,
+        "value": 0.9585729,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 100
       },
       "biblio": {
@@ -4424,7 +4427,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11115,7 +11118,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Saudi Arabia. mouadh.addassi@kaust.edu.sa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
             },
             {
               "raw_affiliation_string": "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)",
@@ -11266,6 +11271,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -11274,16 +11289,6 @@
               "lineage": [
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -11478,23 +11483,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210164289",
-              "display_name": "Géosciences Environnement Toulouse",
-              "ror": "https://ror.org/05k0qmv73",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I134560555",
-                "https://openalex.org/I2799535048",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210164289",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460029"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -11504,17 +11499,48 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I4210125535"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210125535",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I4210164289",
+              "display_name": "Géosciences Environnement Toulouse",
+              "ror": "https://ror.org/05k0qmv73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210164289",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405258862"
               ]
             }
           ],
@@ -11565,11 +11591,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 3.0292,
+      "fwci": 3.0288,
       "has_fulltext": true,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.91671569,
+        "value": 0.91668731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12776,7 +12802,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-05-16T08:24:45.110214",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12977,16 +13003,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
               "id": "https://openalex.org/I25217355",
               "display_name": "University of Pavia",
               "ror": "https://ror.org/00s6t1f81",
@@ -12994,6 +13010,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I25217355"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
               ]
             }
           ],
@@ -13006,8 +13032,8 @@
           "raw_affiliation_strings": [
             "Ali I. Al-Naimi Petroleum Engineering Reasearch center, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Dipartimento di Scienze della Terra e dell’Ambiente, Università di Pavia, Pavia, Italy",
-            "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
-            "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)"
+            "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)",
+            "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -13024,15 +13050,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
-              "institution_ids": [
-                "https://openalex.org/I25217355"
-              ]
-            },
-            {
               "raw_affiliation_string": "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)",
               "institution_ids": [
                 "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
+              "institution_ids": [
+                "https://openalex.org/I25217355"
               ]
             }
           ]
@@ -13234,13 +13260,38 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210125535",
               "display_name": "Observatoire Midi-Pyrénées",
               "ror": "https://ror.org/030syve83",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I4210125535"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210113730",
+                "https://openalex.org/I4210125535",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -13252,25 +13303,21 @@
               "lineage": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I134560555",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210164289",
                 "https://openalex.org/I4210166444",
+                "https://openalex.org/I4405257220",
                 "https://openalex.org/I4405258862"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -13354,6 +13401,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -13362,16 +13419,6 @@
               "lineage": [
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -13477,11 +13524,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 3.6583,
+      "fwci": 3.6004,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.9332291,
+        "value": 0.93175202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14681,7 +14728,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22138,6 +22185,7 @@
             "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
             "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
@@ -22180,6 +22228,7 @@
           "raw_affiliation_strings": [
             "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
@@ -22217,6 +22266,7 @@
             "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
             "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
@@ -22259,6 +22309,7 @@
           "raw_affiliation_strings": [
             "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
@@ -22295,6 +22346,7 @@
           "raw_affiliation_strings": [
             "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
@@ -22332,6 +22384,7 @@
             "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
             "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
@@ -22359,11 +22412,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5775,
+      "fwci": 4.2974,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.95075889,
+        "value": 0.9462963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23417,7 +23470,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23668,11 +23721,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 38.3321,
+      "fwci": 37.4608,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.99726105,
+        "value": 0.99702543,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -24542,7 +24595,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2024-04-13T00:00:00"
     },
     {
@@ -26100,7 +26153,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. jakub.fedorik@kaust.edu.sa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
             },
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
@@ -26208,7 +26263,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.8119623,
+        "value": 0.81195175,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27305,1358 +27360,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4392187609",
-      "doi": "https://doi.org/10.2523/iptc-24006-ms",
-      "title": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
-      "display_name": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
-      "publication_year": 2024,
-      "publication_date": "2024-02-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4392187609",
-        "doi": "https://doi.org/10.2523/iptc-24006-ms"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2523/iptc-24006-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363607700",
-          "display_name": "International Petroleum Technology Conference",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Petroleum Technology Conference",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103178727",
-            "display_name": "Amer Alanazi",
-            "orcid": "https://orcid.org/0000-0002-7508-5913"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Amer Alanazi",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100394404",
-            "display_name": "Jing Ye",
-            "orcid": "https://orcid.org/0000-0002-0785-9614"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jing Ye",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader Afifi",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067974945",
-            "display_name": "Hussein Hoteit",
-            "orcid": "https://orcid.org/0000-0002-3900-7272"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [
-            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103178727"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.3898,
-      "has_fulltext": false,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.97222222,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11007",
-        "display_name": "Hybrid Renewable Energy Systems",
-        "score": 0.9905999898910522,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2102",
-          "display_name": "Energy Engineering and Power Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11007",
-          "display_name": "Hybrid Renewable Energy Systems",
-          "score": 0.9905999898910522,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2102",
-            "display_name": "Energy Engineering and Power Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10811",
-          "display_name": "Hydrogen Storage and Materials",
-          "score": 0.9810000061988831,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9789999723434448,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/hydrogen-storage",
-          "display_name": "Hydrogen storage",
-          "score": 0.5582460761070251
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4564419388771057
-        },
-        {
-          "id": "https://openalex.org/keywords/risk-analysis",
-          "display_name": "Risk analysis (engineering)",
-          "score": 0.3498404920101166
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogen",
-          "display_name": "Hydrogen",
-          "score": 0.3305248022079468
-        },
-        {
-          "id": "https://openalex.org/keywords/business",
-          "display_name": "Business",
-          "score": 0.2507438361644745
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.1575724482536316
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C68044625",
-          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
-          "display_name": "Hydrogen storage",
-          "level": 3,
-          "score": 0.5582460761070251
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.4564419388771057
-        },
-        {
-          "id": "https://openalex.org/C112930515",
-          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
-          "display_name": "Risk analysis (engineering)",
-          "level": 1,
-          "score": 0.3498404920101166
-        },
-        {
-          "id": "https://openalex.org/C512968161",
-          "wikidata": "https://www.wikidata.org/wiki/Q556",
-          "display_name": "Hydrogen",
-          "level": 2,
-          "score": 0.3305248022079468
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.2507438361644745
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.1575724482536316
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2523/iptc-24006-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363607700",
-            "display_name": "International Petroleum Technology Conference",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Petroleum Technology Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 117,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1432124432",
-        "https://openalex.org/W1639369028",
-        "https://openalex.org/W2001464505",
-        "https://openalex.org/W2089863898",
-        "https://openalex.org/W2129409811",
-        "https://openalex.org/W2344703370",
-        "https://openalex.org/W2461419449",
-        "https://openalex.org/W2593529559",
-        "https://openalex.org/W2787269185",
-        "https://openalex.org/W2790955802",
-        "https://openalex.org/W2791045271",
-        "https://openalex.org/W2896836752",
-        "https://openalex.org/W2900479427",
-        "https://openalex.org/W2901463992",
-        "https://openalex.org/W2912263470",
-        "https://openalex.org/W2913361982",
-        "https://openalex.org/W2919147569",
-        "https://openalex.org/W2920729072",
-        "https://openalex.org/W2929651773",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2943827029",
-        "https://openalex.org/W2983025427",
-        "https://openalex.org/W2996539876",
-        "https://openalex.org/W3047056239",
-        "https://openalex.org/W3093403940",
-        "https://openalex.org/W3119950469",
-        "https://openalex.org/W3120263324",
-        "https://openalex.org/W3126002064",
-        "https://openalex.org/W3160605717",
-        "https://openalex.org/W3164382478",
-        "https://openalex.org/W3190333702",
-        "https://openalex.org/W3192962771",
-        "https://openalex.org/W3196443853",
-        "https://openalex.org/W3202007182",
-        "https://openalex.org/W3217674584",
-        "https://openalex.org/W4200042478",
-        "https://openalex.org/W4200053550",
-        "https://openalex.org/W4200344755",
-        "https://openalex.org/W4212981320",
-        "https://openalex.org/W4213297735",
-        "https://openalex.org/W4214944104",
-        "https://openalex.org/W4220875243",
-        "https://openalex.org/W4281286051",
-        "https://openalex.org/W4283260162",
-        "https://openalex.org/W4285007039",
-        "https://openalex.org/W4286298160",
-        "https://openalex.org/W4292714510",
-        "https://openalex.org/W4294612867",
-        "https://openalex.org/W4295806883",
-        "https://openalex.org/W4297677535",
-        "https://openalex.org/W4307511257",
-        "https://openalex.org/W4307514743",
-        "https://openalex.org/W4310294508",
-        "https://openalex.org/W4310810109",
-        "https://openalex.org/W4311255578",
-        "https://openalex.org/W4312884655",
-        "https://openalex.org/W4313256179",
-        "https://openalex.org/W4313368048",
-        "https://openalex.org/W4316468234",
-        "https://openalex.org/W4318818627",
-        "https://openalex.org/W4319936556",
-        "https://openalex.org/W4320719921",
-        "https://openalex.org/W4321491514",
-        "https://openalex.org/W4321767624",
-        "https://openalex.org/W4365456076",
-        "https://openalex.org/W4367550380",
-        "https://openalex.org/W4376105402",
-        "https://openalex.org/W4376630439",
-        "https://openalex.org/W4379230158",
-        "https://openalex.org/W4379377042",
-        "https://openalex.org/W4379383047",
-        "https://openalex.org/W4379469447",
-        "https://openalex.org/W4380433655",
-        "https://openalex.org/W4381893393",
-        "https://openalex.org/W4383032438",
-        "https://openalex.org/W4384636672",
-        "https://openalex.org/W4385382885",
-        "https://openalex.org/W4385432334",
-        "https://openalex.org/W4385728002",
-        "https://openalex.org/W4386570479",
-        "https://openalex.org/W4386737236",
-        "https://openalex.org/W4386918076",
-        "https://openalex.org/W4392439517",
-        "https://openalex.org/W6636976522",
-        "https://openalex.org/W6672860638",
-        "https://openalex.org/W6679333554",
-        "https://openalex.org/W6734521408",
-        "https://openalex.org/W6742691572",
-        "https://openalex.org/W6749286420",
-        "https://openalex.org/W6756559243",
-        "https://openalex.org/W6760007977",
-        "https://openalex.org/W6760548662",
-        "https://openalex.org/W6762325061",
-        "https://openalex.org/W6781661335",
-        "https://openalex.org/W6788113411",
-        "https://openalex.org/W6795183071",
-        "https://openalex.org/W6799175765",
-        "https://openalex.org/W6800570537",
-        "https://openalex.org/W6802074701",
-        "https://openalex.org/W6804245682",
-        "https://openalex.org/W6805111650",
-        "https://openalex.org/W6809910950",
-        "https://openalex.org/W6810558780",
-        "https://openalex.org/W6839566541",
-        "https://openalex.org/W6842813928",
-        "https://openalex.org/W6842871623",
-        "https://openalex.org/W6843306424",
-        "https://openalex.org/W6846486136",
-        "https://openalex.org/W6847499094",
-        "https://openalex.org/W6849735897",
-        "https://openalex.org/W6849886750",
-        "https://openalex.org/W6852160951",
-        "https://openalex.org/W6854469089",
-        "https://openalex.org/W6854949533",
-        "https://openalex.org/W6856850674",
-        "https://openalex.org/W6857051762"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2368847095",
-        "https://openalex.org/W2392416149",
-        "https://openalex.org/W4294762420",
-        "https://openalex.org/W2961715276",
-        "https://openalex.org/W2393763481",
-        "https://openalex.org/W2347242929",
-        "https://openalex.org/W2005269918",
-        "https://openalex.org/W4291033156",
-        "https://openalex.org/W3127407325"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Hydrogen": [
-          1
-        ],
-        "(H2)": [
-          2
-        ],
-        "is": [
-          3,
-          237
-        ],
-        "anticipated": [
-          4
-        ],
-        "to": [
-          5,
-          14,
-          104,
-          130,
-          155,
-          211,
-          277,
-          325
-        ],
-        "play": [
-          6
-        ],
-        "a": [
-          7,
-          15,
-          65,
-          76,
-          198,
-          223,
-          327
-        ],
-        "crucial": [
-          8
-        ],
-        "role": [
-          9
-        ],
-        "in": [
-          10,
-          42,
-          83,
-          93,
-          110,
-          136,
-          164,
-          179,
-          252,
-          289,
-          309
-        ],
-        "Saudi": [
-          11,
-          45,
-          111,
-          165,
-          310
-        ],
-        "Arabia's": [
-          12,
-          46
-        ],
-        "transition": [
-          13
-        ],
-        "low-carbon": [
-          16
-        ],
-        "economy": [
-          17,
-          63,
-          322
-        ],
-        "as": [
-          18,
-          75
-        ],
-        "an": [
-          19,
-          60
-        ],
-        "alternative": [
-          20
-        ],
-        "clean": [
-          21
-        ],
-        "fuel.": [
-          22
-        ],
-        "The": [
-          23,
-          158,
-          187,
-          217,
-          303
-        ],
-        "conversion": [
-          24
-        ],
-        "of": [
-          25,
-          108,
-          201,
-          219,
-          235,
-          245,
-          306
-        ],
-        "fossil": [
-          26
-        ],
-        "fuels": [
-          27
-        ],
-        "through": [
-          28
-        ],
-        "steam": [
-          29
-        ],
-        "methane": [
-          30
-        ],
-        "reformation": [
-          31
-        ],
-        "produces": [
-          32
-        ],
-        "blue": [
-          33
-        ],
-        "H2,": [
-          34
-        ],
-        "with": [
-          35,
-          263
-        ],
-        "captured": [
-          36
-        ],
-        "carbon": [
-          37,
-          321
-        ],
-        "dioxide": [
-          38
-        ],
-        "(CO2)": [
-          39
-        ],
-        "being": [
-          40
-        ],
-        "stored": [
-          41
-        ],
-        "geological": [
-          43,
-          116,
-          162
-        ],
-        "formations.": [
-          44
-        ],
-        "strategic": [
-          47
-        ],
-        "location": [
-          48
-        ],
-        "and": [
-          49,
-          55,
-          86,
-          95,
-          113,
-          123,
-          126,
-          149,
-          176,
-          194,
-          260,
-          280,
-          286,
-          300
-        ],
-        "recent": [
-          50
-        ],
-        "policies": [
-          51
-        ],
-        "promote": [
-          52
-        ],
-        "renewable": [
-          53
-        ],
-        "energy": [
-          54,
-          138
-        ],
-        "green": [
-          56
-        ],
-        "H2.": [
-          57
-        ],
-        "However,": [
-          58
-        ],
-        "establishing": [
-          59
-        ],
-        "industrial-scale": [
-          61
-        ],
-        "H2-based": [
-          62
-        ],
-        "necessitates": [
-          64
-        ],
-        "suitable": [
-          66,
-          170
-        ],
-        "large-scale": [
-          67
-        ],
-        "storage": [
-          68,
-          72,
-          81,
-          146
-        ],
-        "solution.": [
-          69
-        ],
-        "Underground": [
-          70
-        ],
-        "hydrogen": [
-          71
-        ],
-        "(UHS)": [
-          73
-        ],
-        "emerges": [
-          74
-        ],
-        "prominent": [
-          77
-        ],
-        "option,": [
-          78
-        ],
-        "offering": [
-          79
-        ],
-        "significant": [
-          80
-        ],
-        "capacities": [
-          82
-        ],
-        "the": [
-          84,
-          100,
-          106,
-          137,
-          161,
-          180,
-          184,
-          190,
-          214,
-          241,
-          270,
-          290,
-          294,
-          319
-        ],
-        "Giga-": [
-          85
-        ],
-        "Terra-Watt-hour": [
-          87
-        ],
-        "range,": [
-          88
-        ],
-        "effectively": [
-          89
-        ],
-        "addressing": [
-          90
-        ],
-        "seasonal": [
-          91
-        ],
-        "fluctuations": [
-          92
-        ],
-        "supply": [
-          94
-        ],
-        "demand": [
-          96
-        ],
-        "from": [
-          97
-        ],
-        "renewables.": [
-          98
-        ],
-        "Therefore,": [
-          99
-        ],
-        "present": [
-          101
-        ],
-        "work": [
-          102
-        ],
-        "aims": [
-          103
-        ],
-        "evaluate": [
-          105
-        ],
-        "opportunity": [
-          107
-        ],
-        "UHS": [
-          109,
-          134,
-          215,
-          236,
-          246,
-          275,
-          307
-        ],
-        "Arabia": [
-          112,
-          166,
-          311
-        ],
-        "assess": [
-          114
-        ],
-        "potential": [
-          115,
-          308
-        ],
-        "formations": [
-          117,
-          178
-        ],
-        "(salt": [
-          118
-        ],
-        "caverns,": [
-          119
-        ],
-        "deep": [
-          120,
-          257
-        ],
-        "saline": [
-          121,
-          261
-        ],
-        "aquifers,": [
-          122
-        ],
-        "hydrocarbon": [
-          124
-        ],
-        "reservoirs)": [
-          125
-        ],
-        "key": [
-          127
-        ],
-        "technical": [
-          128
-        ],
-        "challenges": [
-          129
-        ],
-        "be": [
-          131,
-          156
-        ],
-        "addressed": [
-          132
-        ],
-        "for": [
-          133,
-          143,
-          171,
-          197,
-          274
-        ],
-        "integration": [
-          135,
-          316
-        ],
-        "grid.": [
-          139
-        ],
-        "This": [
-          140
-        ],
-        "includes": [
-          141
-        ],
-        "criteria": [
-          142
-        ],
-        "site": [
-          144
-        ],
-        "selection,": [
-          145
-        ],
-        "capacity": [
-          147
-        ],
-        "calculations,": [
-          148
-        ],
-        "other": [
-          150
-        ],
-        "critical": [
-          151
-        ],
-        "scientific": [
-          152
-        ],
-        "research": [
-          153
-        ],
-        "areas": [
-          154
-        ],
-        "studied.": [
-          157
-        ],
-        "paper": [
-          159
-        ],
-        "reviews": [
-          160
-        ],
-        "settings": [
-          163
-        ],
-        "that": [
-          167
-        ],
-        "are": [
-          168,
-          250,
-          297
-        ],
-        "potentially": [
-          169
-        ],
-        "UHS,": [
-          172
-        ],
-        "Red": [
-          173
-        ],
-        "Sea": [
-          174
-        ],
-        "basins,": [
-          175
-        ],
-        "sedimentary": [
-          177,
-          287
-        ],
-        "eastern": [
-          181,
-          291
-        ],
-        "basins": [
-          182,
-          292
-        ],
-        "at": [
-          183,
-          293
-        ],
-        "Arabian": [
-          185,
-          295
-        ],
-        "plate.": [
-          186
-        ],
-        "results": [
-          188
-        ],
-        "highlight": [
-          189
-        ],
-        "requisite": [
-          191
-        ],
-        "fundamental": [
-          192
-        ],
-        "experimental": [
-          193
-        ],
-        "numerical": [
-          195
-        ],
-        "studies": [
-          196
-        ],
-        "complete": [
-          199
-        ],
-        "understanding": [
-          200
-        ],
-        "H2/brine": [
-          202
-        ],
-        "behavior": [
-          203
-        ],
-        "within": [
-          204
-        ],
-        "formation": [
-          205
-        ],
-        "rocks,": [
-          206
-        ],
-        "including": [
-          207
-        ],
-        "geo-bio-chemical": [
-          208
-        ],
-        "reactions": [
-          209
-        ],
-        "prone": [
-          210
-        ],
-        "occur": [
-          212
-        ],
-        "during": [
-          213
-        ],
-        "process.": [
-          216
-        ],
-        "analysis": [
-          218,
-          305
-        ],
-        "H2": [
-          220
-        ],
-        "thermo-physical": [
-          221
-        ],
-        "suggests": [
-          222
-        ],
-        "more": [
-          224,
-          298
-        ],
-        "operational": [
-          225
-        ],
-        "challenge": [
-          226
-        ],
-        "than": [
-          227
-        ],
-        "storing": [
-          228
-        ],
-        "CO2": [
-          229
-        ],
-        "or": [
-          230,
-          266
-        ],
-        "natural": [
-          231
-        ],
-        "gas.": [
-          232
-        ],
-        "Commercial": [
-          233
-        ],
-        "demonstration": [
-          234
-        ],
-        "crucial,": [
-          238
-        ],
-        "while": [
-          239
-        ],
-        "all": [
-          240
-        ],
-        "ongoing": [
-          242
-        ],
-        "field": [
-          243
-        ],
-        "tests": [
-          244
-        ],
-        "(pure": [
-          247
-        ],
-        "H2)": [
-          248
-        ],
-        "worldwide": [
-          249
-        ],
-        "still": [
-          251
-        ],
-        "their": [
-          253,
-          278
-        ],
-        "early": [
-          254
-        ],
-        "stages.": [
-          255
-        ],
-        "Regionally,": [
-          256
-        ],
-        "salt": [
-          258
-        ],
-        "caverns": [
-          259
-        ],
-        "aquifers": [
-          262,
-          285
-        ],
-        "closed": [
-          264
-        ],
-        "structures": [
-          265
-        ],
-        "regional": [
-          267
-        ],
-        "seals": [
-          268
-        ],
-        "provide": [
-          269
-        ],
-        "best": [
-          271
-        ],
-        "structural": [
-          272
-        ],
-        "traps": [
-          273
-        ],
-        "due": [
-          276
-        ],
-        "tight": [
-          279
-        ],
-        "secure": [
-          281
-        ],
-        "seal": [
-          282
-        ],
-        "system.": [
-          283
-        ],
-        "Down-dip": [
-          284
-        ],
-        "packages": [
-          288
-        ],
-        "platform": [
-          296
-        ],
-        "attractive": [
-          299
-        ],
-        "safer": [
-          301
-        ],
-        "options.": [
-          302
-        ],
-        "discussed": [
-          304
-        ],
-        "sheds": [
-          312
-        ],
-        "light": [
-          313
-        ],
-        "on": [
-          314
-        ],
-        "its": [
-          315
-        ],
-        "possibility": [
-          317
-        ],
-        "into": [
-          318
-        ],
-        "circular": [
-          320
-        ],
-        "(CCE)": [
-          323
-        ],
-        "framework": [
-          324
-        ],
-        "achieve": [
-          326
-        ],
-        "net-zero": [
-          328
-        ],
-        "emission": [
-          329
-        ],
-        "by": [
-          330
-        ],
-        "2060.": [
-          331
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29067,11 +27771,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6164,
+      "fwci": 1.603,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.81525889,
+        "value": 0.81410317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30076,7 +28780,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-13T08:25:38.343686",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33503,11 +32207,11 @@
         "currency": "GBP",
         "value_usd": 2440
       },
-      "fwci": 2.2033,
+      "fwci": 2.0791,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84690143,
+        "value": 0.83797475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34850,7 +33554,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-04-05T00:00:00"
     },
     {
@@ -37849,6 +36553,7 @@
           "is_corresponding": true,
           "raw_author_name": "Allen S. Neville",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37863,6 +36568,7 @@
           "is_corresponding": false,
           "raw_author_name": "Douglas J. Cook",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37877,6 +36583,7 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulkader M. Afifi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37891,6 +36598,7 @@
           "is_corresponding": false,
           "raw_author_name": "Simon A. Stewart",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -37903,11 +36611,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7072,
+      "fwci": 1.7077,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.83245825,
+        "value": 0.83254738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38944,7 +37652,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-07T14:57:38.498316",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39034,6 +37742,7 @@
           "raw_affiliation_strings": [
             "Texas A&M University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Texas A&M University",
@@ -39053,16 +37762,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I91045830",
-              "display_name": "Texas A&M University",
-              "ror": "https://ror.org/01f5ytq51",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91045830"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2801613365",
               "display_name": "Mitchell Institute",
               "ror": "https://ror.org/03ds72003",
@@ -39070,6 +37769,16 @@
               "type": "nonprofit",
               "lineage": [
                 "https://openalex.org/I2801613365"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
               ]
             }
           ],
@@ -39081,6 +37790,7 @@
           "raw_affiliation_strings": [
             "Texas A&M University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Texas A&M University",
@@ -39128,6 +37838,7 @@
           "raw_affiliation_strings": [
             "Texas A&M University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Texas A&M University",
@@ -39165,6 +37876,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science & Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science & Technology",
@@ -39201,6 +37913,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science & Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science & Technology",
@@ -39223,11 +37936,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4033,
+      "fwci": 3.1091,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.95173745,
+        "value": 0.94412331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40625,7 +39338,1362 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4392187609",
+      "doi": "https://doi.org/10.2523/iptc-24006-ms",
+      "title": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
+      "display_name": "Underground Hydrogen Storage in Saudi Arabia: Opportunities and Challenges",
+      "publication_year": 2024,
+      "publication_date": "2024-02-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4392187609",
+        "doi": "https://doi.org/10.2523/iptc-24006-ms"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/iptc-24006-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103178727",
+            "display_name": "Amer Alanazi",
+            "orcid": "https://orcid.org/0000-0002-7508-5913"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Amer Alanazi",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100394404",
+            "display_name": "Jing Ye",
+            "orcid": "https://orcid.org/0000-0002-0785-9614"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jing Ye",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader Afifi",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067974945",
+            "display_name": "Hussein Hoteit",
+            "orcid": "https://orcid.org/0000-0002-3900-7272"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussein Hoteit",
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103178727"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.3235,
+      "has_fulltext": false,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.97560976,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11007",
+        "display_name": "Hybrid Renewable Energy Systems",
+        "score": 0.9905999898910522,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2102",
+          "display_name": "Energy Engineering and Power Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11007",
+          "display_name": "Hybrid Renewable Energy Systems",
+          "score": 0.9905999898910522,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2102",
+            "display_name": "Energy Engineering and Power Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10811",
+          "display_name": "Hydrogen Storage and Materials",
+          "score": 0.9810000061988831,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9789999723434448,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/hydrogen-storage",
+          "display_name": "Hydrogen storage",
+          "score": 0.5582460761070251
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4564419388771057
+        },
+        {
+          "id": "https://openalex.org/keywords/risk-analysis",
+          "display_name": "Risk analysis (engineering)",
+          "score": 0.3498404920101166
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen",
+          "display_name": "Hydrogen",
+          "score": 0.3305248022079468
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.2507438361644745
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.1575724482536316
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C68044625",
+          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
+          "display_name": "Hydrogen storage",
+          "level": 3,
+          "score": 0.5582460761070251
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4564419388771057
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.3498404920101166
+        },
+        {
+          "id": "https://openalex.org/C512968161",
+          "wikidata": "https://www.wikidata.org/wiki/Q556",
+          "display_name": "Hydrogen",
+          "level": 2,
+          "score": 0.3305248022079468
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.2507438361644745
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.1575724482536316
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2523/iptc-24006-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/iptc-24006-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 117,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1432124432",
+        "https://openalex.org/W1639369028",
+        "https://openalex.org/W2001464505",
+        "https://openalex.org/W2089863898",
+        "https://openalex.org/W2129409811",
+        "https://openalex.org/W2344703370",
+        "https://openalex.org/W2461419449",
+        "https://openalex.org/W2593529559",
+        "https://openalex.org/W2787269185",
+        "https://openalex.org/W2790955802",
+        "https://openalex.org/W2791045271",
+        "https://openalex.org/W2896836752",
+        "https://openalex.org/W2900479427",
+        "https://openalex.org/W2901463992",
+        "https://openalex.org/W2912263470",
+        "https://openalex.org/W2913361982",
+        "https://openalex.org/W2919147569",
+        "https://openalex.org/W2920729072",
+        "https://openalex.org/W2929651773",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2943827029",
+        "https://openalex.org/W2983025427",
+        "https://openalex.org/W2996539876",
+        "https://openalex.org/W3047056239",
+        "https://openalex.org/W3093403940",
+        "https://openalex.org/W3119950469",
+        "https://openalex.org/W3120263324",
+        "https://openalex.org/W3126002064",
+        "https://openalex.org/W3160605717",
+        "https://openalex.org/W3164382478",
+        "https://openalex.org/W3190333702",
+        "https://openalex.org/W3192962771",
+        "https://openalex.org/W3196443853",
+        "https://openalex.org/W3202007182",
+        "https://openalex.org/W3217674584",
+        "https://openalex.org/W4200042478",
+        "https://openalex.org/W4200053550",
+        "https://openalex.org/W4200344755",
+        "https://openalex.org/W4212981320",
+        "https://openalex.org/W4213297735",
+        "https://openalex.org/W4214944104",
+        "https://openalex.org/W4220875243",
+        "https://openalex.org/W4281286051",
+        "https://openalex.org/W4283260162",
+        "https://openalex.org/W4285007039",
+        "https://openalex.org/W4286298160",
+        "https://openalex.org/W4292714510",
+        "https://openalex.org/W4294612867",
+        "https://openalex.org/W4295806883",
+        "https://openalex.org/W4297677535",
+        "https://openalex.org/W4307511257",
+        "https://openalex.org/W4307514743",
+        "https://openalex.org/W4310294508",
+        "https://openalex.org/W4310810109",
+        "https://openalex.org/W4311255578",
+        "https://openalex.org/W4312884655",
+        "https://openalex.org/W4313256179",
+        "https://openalex.org/W4313368048",
+        "https://openalex.org/W4316468234",
+        "https://openalex.org/W4318818627",
+        "https://openalex.org/W4319936556",
+        "https://openalex.org/W4320719921",
+        "https://openalex.org/W4321491514",
+        "https://openalex.org/W4321767624",
+        "https://openalex.org/W4365456076",
+        "https://openalex.org/W4367550380",
+        "https://openalex.org/W4376105402",
+        "https://openalex.org/W4376630439",
+        "https://openalex.org/W4379230158",
+        "https://openalex.org/W4379377042",
+        "https://openalex.org/W4379383047",
+        "https://openalex.org/W4379469447",
+        "https://openalex.org/W4380433655",
+        "https://openalex.org/W4381893393",
+        "https://openalex.org/W4383032438",
+        "https://openalex.org/W4384636672",
+        "https://openalex.org/W4385382885",
+        "https://openalex.org/W4385432334",
+        "https://openalex.org/W4385728002",
+        "https://openalex.org/W4386570479",
+        "https://openalex.org/W4386737236",
+        "https://openalex.org/W4386918076",
+        "https://openalex.org/W4392439517",
+        "https://openalex.org/W6636976522",
+        "https://openalex.org/W6672860638",
+        "https://openalex.org/W6679333554",
+        "https://openalex.org/W6734521408",
+        "https://openalex.org/W6742691572",
+        "https://openalex.org/W6749286420",
+        "https://openalex.org/W6756559243",
+        "https://openalex.org/W6760007977",
+        "https://openalex.org/W6760548662",
+        "https://openalex.org/W6762325061",
+        "https://openalex.org/W6781661335",
+        "https://openalex.org/W6788113411",
+        "https://openalex.org/W6795183071",
+        "https://openalex.org/W6799175765",
+        "https://openalex.org/W6800570537",
+        "https://openalex.org/W6802074701",
+        "https://openalex.org/W6804245682",
+        "https://openalex.org/W6805111650",
+        "https://openalex.org/W6809910950",
+        "https://openalex.org/W6810558780",
+        "https://openalex.org/W6839566541",
+        "https://openalex.org/W6842813928",
+        "https://openalex.org/W6842871623",
+        "https://openalex.org/W6843306424",
+        "https://openalex.org/W6846486136",
+        "https://openalex.org/W6847499094",
+        "https://openalex.org/W6849735897",
+        "https://openalex.org/W6849886750",
+        "https://openalex.org/W6852160951",
+        "https://openalex.org/W6854469089",
+        "https://openalex.org/W6854949533",
+        "https://openalex.org/W6856850674",
+        "https://openalex.org/W6857051762"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2368847095",
+        "https://openalex.org/W2392416149",
+        "https://openalex.org/W4294762420",
+        "https://openalex.org/W2961715276",
+        "https://openalex.org/W2393763481",
+        "https://openalex.org/W2347242929",
+        "https://openalex.org/W2005269918",
+        "https://openalex.org/W4291033156",
+        "https://openalex.org/W3127407325"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Hydrogen": [
+          1
+        ],
+        "(H2)": [
+          2
+        ],
+        "is": [
+          3,
+          237
+        ],
+        "anticipated": [
+          4
+        ],
+        "to": [
+          5,
+          14,
+          104,
+          130,
+          155,
+          211,
+          277,
+          325
+        ],
+        "play": [
+          6
+        ],
+        "a": [
+          7,
+          15,
+          65,
+          76,
+          198,
+          223,
+          327
+        ],
+        "crucial": [
+          8
+        ],
+        "role": [
+          9
+        ],
+        "in": [
+          10,
+          42,
+          83,
+          93,
+          110,
+          136,
+          164,
+          179,
+          252,
+          289,
+          309
+        ],
+        "Saudi": [
+          11,
+          45,
+          111,
+          165,
+          310
+        ],
+        "Arabia's": [
+          12,
+          46
+        ],
+        "transition": [
+          13
+        ],
+        "low-carbon": [
+          16
+        ],
+        "economy": [
+          17,
+          63,
+          322
+        ],
+        "as": [
+          18,
+          75
+        ],
+        "an": [
+          19,
+          60
+        ],
+        "alternative": [
+          20
+        ],
+        "clean": [
+          21
+        ],
+        "fuel.": [
+          22
+        ],
+        "The": [
+          23,
+          158,
+          187,
+          217,
+          303
+        ],
+        "conversion": [
+          24
+        ],
+        "of": [
+          25,
+          108,
+          201,
+          219,
+          235,
+          245,
+          306
+        ],
+        "fossil": [
+          26
+        ],
+        "fuels": [
+          27
+        ],
+        "through": [
+          28
+        ],
+        "steam": [
+          29
+        ],
+        "methane": [
+          30
+        ],
+        "reformation": [
+          31
+        ],
+        "produces": [
+          32
+        ],
+        "blue": [
+          33
+        ],
+        "H2,": [
+          34
+        ],
+        "with": [
+          35,
+          263
+        ],
+        "captured": [
+          36
+        ],
+        "carbon": [
+          37,
+          321
+        ],
+        "dioxide": [
+          38
+        ],
+        "(CO2)": [
+          39
+        ],
+        "being": [
+          40
+        ],
+        "stored": [
+          41
+        ],
+        "geological": [
+          43,
+          116,
+          162
+        ],
+        "formations.": [
+          44
+        ],
+        "strategic": [
+          47
+        ],
+        "location": [
+          48
+        ],
+        "and": [
+          49,
+          55,
+          86,
+          95,
+          113,
+          123,
+          126,
+          149,
+          176,
+          194,
+          260,
+          280,
+          286,
+          300
+        ],
+        "recent": [
+          50
+        ],
+        "policies": [
+          51
+        ],
+        "promote": [
+          52
+        ],
+        "renewable": [
+          53
+        ],
+        "energy": [
+          54,
+          138
+        ],
+        "green": [
+          56
+        ],
+        "H2.": [
+          57
+        ],
+        "However,": [
+          58
+        ],
+        "establishing": [
+          59
+        ],
+        "industrial-scale": [
+          61
+        ],
+        "H2-based": [
+          62
+        ],
+        "necessitates": [
+          64
+        ],
+        "suitable": [
+          66,
+          170
+        ],
+        "large-scale": [
+          67
+        ],
+        "storage": [
+          68,
+          72,
+          81,
+          146
+        ],
+        "solution.": [
+          69
+        ],
+        "Underground": [
+          70
+        ],
+        "hydrogen": [
+          71
+        ],
+        "(UHS)": [
+          73
+        ],
+        "emerges": [
+          74
+        ],
+        "prominent": [
+          77
+        ],
+        "option,": [
+          78
+        ],
+        "offering": [
+          79
+        ],
+        "significant": [
+          80
+        ],
+        "capacities": [
+          82
+        ],
+        "the": [
+          84,
+          100,
+          106,
+          137,
+          161,
+          180,
+          184,
+          190,
+          214,
+          241,
+          270,
+          290,
+          294,
+          319
+        ],
+        "Giga-": [
+          85
+        ],
+        "Terra-Watt-hour": [
+          87
+        ],
+        "range,": [
+          88
+        ],
+        "effectively": [
+          89
+        ],
+        "addressing": [
+          90
+        ],
+        "seasonal": [
+          91
+        ],
+        "fluctuations": [
+          92
+        ],
+        "supply": [
+          94
+        ],
+        "demand": [
+          96
+        ],
+        "from": [
+          97
+        ],
+        "renewables.": [
+          98
+        ],
+        "Therefore,": [
+          99
+        ],
+        "present": [
+          101
+        ],
+        "work": [
+          102
+        ],
+        "aims": [
+          103
+        ],
+        "evaluate": [
+          105
+        ],
+        "opportunity": [
+          107
+        ],
+        "UHS": [
+          109,
+          134,
+          215,
+          236,
+          246,
+          275,
+          307
+        ],
+        "Arabia": [
+          112,
+          166,
+          311
+        ],
+        "assess": [
+          114
+        ],
+        "potential": [
+          115,
+          308
+        ],
+        "formations": [
+          117,
+          178
+        ],
+        "(salt": [
+          118
+        ],
+        "caverns,": [
+          119
+        ],
+        "deep": [
+          120,
+          257
+        ],
+        "saline": [
+          121,
+          261
+        ],
+        "aquifers,": [
+          122
+        ],
+        "hydrocarbon": [
+          124
+        ],
+        "reservoirs)": [
+          125
+        ],
+        "key": [
+          127
+        ],
+        "technical": [
+          128
+        ],
+        "challenges": [
+          129
+        ],
+        "be": [
+          131,
+          156
+        ],
+        "addressed": [
+          132
+        ],
+        "for": [
+          133,
+          143,
+          171,
+          197,
+          274
+        ],
+        "integration": [
+          135,
+          316
+        ],
+        "grid.": [
+          139
+        ],
+        "This": [
+          140
+        ],
+        "includes": [
+          141
+        ],
+        "criteria": [
+          142
+        ],
+        "site": [
+          144
+        ],
+        "selection,": [
+          145
+        ],
+        "capacity": [
+          147
+        ],
+        "calculations,": [
+          148
+        ],
+        "other": [
+          150
+        ],
+        "critical": [
+          151
+        ],
+        "scientific": [
+          152
+        ],
+        "research": [
+          153
+        ],
+        "areas": [
+          154
+        ],
+        "studied.": [
+          157
+        ],
+        "paper": [
+          159
+        ],
+        "reviews": [
+          160
+        ],
+        "settings": [
+          163
+        ],
+        "that": [
+          167
+        ],
+        "are": [
+          168,
+          250,
+          297
+        ],
+        "potentially": [
+          169
+        ],
+        "UHS,": [
+          172
+        ],
+        "Red": [
+          173
+        ],
+        "Sea": [
+          174
+        ],
+        "basins,": [
+          175
+        ],
+        "sedimentary": [
+          177,
+          287
+        ],
+        "eastern": [
+          181,
+          291
+        ],
+        "basins": [
+          182,
+          292
+        ],
+        "at": [
+          183,
+          293
+        ],
+        "Arabian": [
+          185,
+          295
+        ],
+        "plate.": [
+          186
+        ],
+        "results": [
+          188
+        ],
+        "highlight": [
+          189
+        ],
+        "requisite": [
+          191
+        ],
+        "fundamental": [
+          192
+        ],
+        "experimental": [
+          193
+        ],
+        "numerical": [
+          195
+        ],
+        "studies": [
+          196
+        ],
+        "complete": [
+          199
+        ],
+        "understanding": [
+          200
+        ],
+        "H2/brine": [
+          202
+        ],
+        "behavior": [
+          203
+        ],
+        "within": [
+          204
+        ],
+        "formation": [
+          205
+        ],
+        "rocks,": [
+          206
+        ],
+        "including": [
+          207
+        ],
+        "geo-bio-chemical": [
+          208
+        ],
+        "reactions": [
+          209
+        ],
+        "prone": [
+          210
+        ],
+        "occur": [
+          212
+        ],
+        "during": [
+          213
+        ],
+        "process.": [
+          216
+        ],
+        "analysis": [
+          218,
+          305
+        ],
+        "H2": [
+          220
+        ],
+        "thermo-physical": [
+          221
+        ],
+        "suggests": [
+          222
+        ],
+        "more": [
+          224,
+          298
+        ],
+        "operational": [
+          225
+        ],
+        "challenge": [
+          226
+        ],
+        "than": [
+          227
+        ],
+        "storing": [
+          228
+        ],
+        "CO2": [
+          229
+        ],
+        "or": [
+          230,
+          266
+        ],
+        "natural": [
+          231
+        ],
+        "gas.": [
+          232
+        ],
+        "Commercial": [
+          233
+        ],
+        "demonstration": [
+          234
+        ],
+        "crucial,": [
+          238
+        ],
+        "while": [
+          239
+        ],
+        "all": [
+          240
+        ],
+        "ongoing": [
+          242
+        ],
+        "field": [
+          243
+        ],
+        "tests": [
+          244
+        ],
+        "(pure": [
+          247
+        ],
+        "H2)": [
+          248
+        ],
+        "worldwide": [
+          249
+        ],
+        "still": [
+          251
+        ],
+        "their": [
+          253,
+          278
+        ],
+        "early": [
+          254
+        ],
+        "stages.": [
+          255
+        ],
+        "Regionally,": [
+          256
+        ],
+        "salt": [
+          258
+        ],
+        "caverns": [
+          259
+        ],
+        "aquifers": [
+          262,
+          285
+        ],
+        "closed": [
+          264
+        ],
+        "structures": [
+          265
+        ],
+        "regional": [
+          267
+        ],
+        "seals": [
+          268
+        ],
+        "provide": [
+          269
+        ],
+        "best": [
+          271
+        ],
+        "structural": [
+          272
+        ],
+        "traps": [
+          273
+        ],
+        "due": [
+          276
+        ],
+        "tight": [
+          279
+        ],
+        "secure": [
+          281
+        ],
+        "seal": [
+          282
+        ],
+        "system.": [
+          283
+        ],
+        "Down-dip": [
+          284
+        ],
+        "packages": [
+          288
+        ],
+        "platform": [
+          296
+        ],
+        "attractive": [
+          299
+        ],
+        "safer": [
+          301
+        ],
+        "options.": [
+          302
+        ],
+        "discussed": [
+          304
+        ],
+        "sheds": [
+          312
+        ],
+        "light": [
+          313
+        ],
+        "on": [
+          314
+        ],
+        "its": [
+          315
+        ],
+        "possibility": [
+          317
+        ],
+        "into": [
+          318
+        ],
+        "circular": [
+          320
+        ],
+        "(CCE)": [
+          323
+        ],
+        "framework": [
+          324
+        ],
+        "achieve": [
+          326
+        ],
+        "net-zero": [
+          328
+        ],
+        "emission": [
+          329
+        ],
+        "by": [
+          330
+        ],
+        "2060.": [
+          331
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46383,11 +46451,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1959,
+      "fwci": 0.1961,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55154532,
+        "value": 0.55164835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47388,7 +47456,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47455,6 +47523,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia",
@@ -47491,6 +47560,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia",
@@ -47527,6 +47597,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia",
@@ -47563,6 +47634,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia",
@@ -47584,11 +47656,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2863,
+      "fwci": 0.2445,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.5230908,
+        "value": 0.49830233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48761,7 +48833,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51357,11 +51429,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1829,
+      "fwci": 0.183,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.46235151,
+        "value": 0.46249961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52575,7 +52647,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54224,6 +54296,1069 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3175775378",
+      "doi": "https://doi.org/10.5194/egusphere-egu2020-13345",
+      "title": "New structural model of strike-slip tectonics of the Gulf of Aqaba, southern Dead Sea Transform",
+      "display_name": "New structural model of strike-slip tectonics of the Gulf of Aqaba, southern Dead Sea Transform",
+      "publication_year": 2020,
+      "publication_date": "2020-03-10",
+      "ids": {
+        "openalex": "https://openalex.org/W3175775378",
+        "doi": "https://doi.org/10.5194/egusphere-egu2020-13345",
+        "mag": "3175775378"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5194/egusphere-egu2020-13345",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5053826418",
+            "display_name": "Jakub Fedorik",
+            "orcid": "https://orcid.org/0000-0001-6345-1552"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jakub Fedorik",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader Afifi",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5053826418"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.1515,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.46915591,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9987000226974487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9987000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9951000213623047,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/transtension",
+          "display_name": "Transtension",
+          "score": 0.8936090469360352
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7652287483215332
+        },
+        {
+          "id": "https://openalex.org/keywords/echelon-formation",
+          "display_name": "Echelon formation",
+          "score": 0.6592106223106384
+        },
+        {
+          "id": "https://openalex.org/keywords/strike-slip-tectonics",
+          "display_name": "Strike-slip tectonics",
+          "score": 0.5957107543945312
+        },
+        {
+          "id": "https://openalex.org/keywords/shear",
+          "display_name": "Shear (geology)",
+          "score": 0.5717159509658813
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.5647174715995789
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.5636523962020874
+        },
+        {
+          "id": "https://openalex.org/keywords/transpression",
+          "display_name": "Transpression",
+          "score": 0.5427584052085876
+        },
+        {
+          "id": "https://openalex.org/keywords/transform-fault",
+          "display_name": "Transform fault",
+          "score": 0.48578718304634094
+        },
+        {
+          "id": "https://openalex.org/keywords/fault",
+          "display_name": "Fault (geology)",
+          "score": 0.48163408041000366
+        },
+        {
+          "id": "https://openalex.org/keywords/slip",
+          "display_name": "Slip (aerodynamics)",
+          "score": 0.4249868392944336
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.37225356698036194
+        },
+        {
+          "id": "https://openalex.org/keywords/shear-zone",
+          "display_name": "Shear zone",
+          "score": 0.3016558885574341
+        },
+        {
+          "id": "https://openalex.org/keywords/sinistral-and-dextral",
+          "display_name": "Sinistral and dextral",
+          "score": 0.21173325181007385
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.15263786911964417
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.08349296450614929
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777234146",
+          "wikidata": "https://www.wikidata.org/wiki/Q4462148",
+          "display_name": "Transtension",
+          "level": 4,
+          "score": 0.8936090469360352
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7652287483215332
+        },
+        {
+          "id": "https://openalex.org/C52678131",
+          "wikidata": "https://www.wikidata.org/wiki/Q2448421",
+          "display_name": "Echelon formation",
+          "level": 3,
+          "score": 0.6592106223106384
+        },
+        {
+          "id": "https://openalex.org/C169162353",
+          "wikidata": "https://www.wikidata.org/wiki/Q108696248",
+          "display_name": "Strike-slip tectonics",
+          "level": 3,
+          "score": 0.5957107543945312
+        },
+        {
+          "id": "https://openalex.org/C96035792",
+          "wikidata": "https://www.wikidata.org/wiki/Q43606218",
+          "display_name": "Shear (geology)",
+          "level": 2,
+          "score": 0.5717159509658813
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.5647174715995789
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5636523962020874
+        },
+        {
+          "id": "https://openalex.org/C128074901",
+          "wikidata": "https://www.wikidata.org/wiki/Q7835340",
+          "display_name": "Transpression",
+          "level": 4,
+          "score": 0.5427584052085876
+        },
+        {
+          "id": "https://openalex.org/C106973953",
+          "wikidata": "https://www.wikidata.org/wiki/Q664573",
+          "display_name": "Transform fault",
+          "level": 3,
+          "score": 0.48578718304634094
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.48163408041000366
+        },
+        {
+          "id": "https://openalex.org/C195268267",
+          "wikidata": "https://www.wikidata.org/wiki/Q1928883",
+          "display_name": "Slip (aerodynamics)",
+          "level": 2,
+          "score": 0.4249868392944336
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.37225356698036194
+        },
+        {
+          "id": "https://openalex.org/C23295444",
+          "wikidata": "https://www.wikidata.org/wiki/Q1578160",
+          "display_name": "Shear zone",
+          "level": 3,
+          "score": 0.3016558885574341
+        },
+        {
+          "id": "https://openalex.org/C50047906",
+          "wikidata": "https://www.wikidata.org/wiki/Q2497260",
+          "display_name": "Sinistral and dextral",
+          "level": 3,
+          "score": 0.21173325181007385
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.15263786911964417
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.08349296450614929
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5194/egusphere-egu2020-13345",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "posted-content"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5194/egusphere-egu2020-13345",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2187168780",
+        "https://openalex.org/W2054840592",
+        "https://openalex.org/W4312307896",
+        "https://openalex.org/W2149221848",
+        "https://openalex.org/W2471366603",
+        "https://openalex.org/W2335955774",
+        "https://openalex.org/W90657174",
+        "https://openalex.org/W2911502030",
+        "https://openalex.org/W1606108311",
+        "https://openalex.org/W2377087973"
+      ],
+      "abstract_inverted_index": {
+        "&amp;lt;p&amp;gt;The": [
+          0
+        ],
+        "Dead": [
+          1
+        ],
+        "Sea": [
+          2
+        ],
+        "Transform": [
+          3
+        ],
+        "is": [
+          4,
+          27,
+          32,
+          67,
+          120,
+          135,
+          217,
+          234
+        ],
+        "an": [
+          5
+        ],
+        "active": [
+          6
+        ],
+        "left": [
+          7
+        ],
+        "lateral,": [
+          8
+        ],
+        "strike-slip": [
+          9,
+          62,
+          98,
+          115,
+          266
+        ],
+        "plate": [
+          10
+        ],
+        "boundary.": [
+          11
+        ],
+        "The": [
+          12,
+          29,
+          118,
+          153,
+          171
+        ],
+        "Gulf": [
+          13,
+          226,
+          257
+        ],
+        "of": [
+          14,
+          25,
+          37,
+          54,
+          109,
+          122,
+          146,
+          150,
+          159,
+          169,
+          188,
+          202,
+          227,
+          236,
+          250,
+          258
+        ],
+        "Aqaba": [
+          15
+        ],
+        "corresponds": [
+          16
+        ],
+        "to": [
+          17,
+          70,
+          89,
+          102,
+          140,
+          210,
+          220
+        ],
+        "its": [
+          18
+        ],
+        "southern": [
+          19
+        ],
+        "segment,": [
+          20
+        ],
+        "where": [
+          21,
+          229
+        ],
+        "the": [
+          22,
+          68,
+          71,
+          94,
+          107,
+          110,
+          151,
+          166,
+          205,
+          211,
+          221,
+          225,
+          230,
+          248,
+          251,
+          256
+        ],
+        "largest": [
+          23
+        ],
+        "amount": [
+          24,
+          201
+        ],
+        "opening": [
+          26
+        ],
+        "observed.": [
+          28
+        ],
+        "gulf": [
+          30
+        ],
+        "itself": [
+          31
+        ],
+        "deformed": [
+          33
+        ],
+        "by": [
+          34,
+          44,
+          241
+        ],
+        "a": [
+          35,
+          86,
+          103,
+          114,
+          138,
+          143,
+          157,
+          182,
+          186,
+          264
+        ],
+        "set": [
+          36,
+          158,
+          187
+        ],
+        "en": [
+          38,
+          48,
+          189
+        ],
+        "echelon": [
+          39,
+          49,
+          190
+        ],
+        "faults": [
+          40,
+          50,
+          180,
+          191,
+          209
+        ],
+        "which": [
+          41,
+          57,
+          92,
+          163
+        ],
+        "are": [
+          42,
+          58
+        ],
+        "bounded": [
+          43,
+          240
+        ],
+        "normal": [
+          45,
+          242
+        ],
+        "faults.": [
+          46,
+          243
+        ],
+        "These": [
+          47,
+          244
+        ],
+        "show": [
+          51
+        ],
+        "structural": [
+          52,
+          252
+        ],
+        "styles": [
+          53,
+          253
+        ],
+        "Riedel": [
+          55,
+          160,
+          194,
+          207,
+          238
+        ],
+        "shears": [
+          56,
+          195,
+          239
+        ],
+        "typically": [
+          59
+        ],
+        "observed": [
+          60,
+          73,
+          223
+        ],
+        "in": [
+          61,
+          74,
+          96,
+          113,
+          196,
+          224,
+          255
+        ],
+        "tectonics.": [
+          63
+        ],
+        "However,": [
+          64
+        ],
+        "their": [
+          65
+        ],
+        "orientation": [
+          66
+        ],
+        "opposite": [
+          69,
+          193,
+          212,
+          237
+        ],
+        "one": [
+          72,
+          128,
+          222
+        ],
+        "well": [
+          75
+        ],
+        "described": [
+          76
+        ],
+        "models": [
+          77,
+          91
+        ],
+        "or": [
+          78
+        ],
+        "natural": [
+          79
+        ],
+        "cases.": [
+          80
+        ],
+        "In": [
+          81
+        ],
+        "this": [
+          82
+        ],
+        "study,": [
+          83
+        ],
+        "we": [
+          84
+        ],
+        "compare": [
+          85
+        ],
+        "compiled": [
+          87
+        ],
+        "dataset": [
+          88
+        ],
+        "analogue": [
+          90
+        ],
+        "simulate": [
+          93
+        ],
+        "displacement": [
+          95
+        ],
+        "various": [
+          97
+        ],
+        "systems.": [
+          99
+        ],
+        "This": [
+          100,
+          214
+        ],
+        "comparison": [
+          101
+        ],
+        "sandbox": [
+          104
+        ],
+        "model": [
+          105,
+          119,
+          155
+        ],
+        "highlights": [
+          106
+        ],
+        "importance": [
+          108
+        ],
+        "tectonic": [
+          111,
+          173
+        ],
+        "load": [
+          112,
+          174
+        ],
+        "fault": [
+          116,
+          148,
+          215,
+          232,
+          267
+        ],
+        "system.": [
+          117
+        ],
+        "composed": [
+          121,
+          235
+        ],
+        "two": [
+          123,
+          176
+        ],
+        "base": [
+          124
+        ],
+        "plates": [
+          125
+        ],
+        "with": [
+          126,
+          181
+        ],
+        "only": [
+          127
+        ],
+        "straight": [
+          129
+        ],
+        "velocity": [
+          130
+        ],
+        "discontinuity.": [
+          131
+        ],
+        "X-Ray": [
+          132
+        ],
+        "Computed": [
+          133
+        ],
+        "Tomography": [
+          134
+        ],
+        "used": [
+          136
+        ],
+        "as": [
+          137
+        ],
+        "technique": [
+          139
+        ],
+        "carry": [
+          141
+        ],
+        "out": [
+          142
+        ],
+        "4D": [
+          144
+        ],
+        "analysis": [
+          145
+        ],
+        "internal": [
+          147,
+          231
+        ],
+        "structures": [
+          149
+        ],
+        "model.": [
+          152
+        ],
+        "10&amp;amp;#176;-transtensional": [
+          154
+        ],
+        "generates": [
+          156
+        ],
+        "shear": [
+          161,
+          208
+        ],
+        "faults,": [
+          162
+        ],
+        "merge": [
+          164
+        ],
+        "during": [
+          165
+        ],
+        "later": [
+          167
+        ],
+        "stages": [
+          168
+        ],
+        "deformation.": [
+          170
+        ],
+        "30&amp;amp;#176;-transtensional": [
+          172
+        ],
+        "shows": [
+          175
+        ],
+        "major": [
+          177
+        ],
+        "steep": [
+          178
+        ],
+        "bounding": [
+          179
+        ],
+        "dip-slip": [
+          183
+        ],
+        "component": [
+          184
+        ],
+        "and": [
+          185
+        ],
+        "-": [
+          192
+        ],
+        "between": [
+          197
+        ],
+        "them.": [
+          198
+        ],
+        "A": [
+          199
+        ],
+        "higher": [
+          200
+        ],
+        "transtension": [
+          203
+        ],
+        "rotates": [
+          204
+        ],
+        "classic": [
+          206
+        ],
+        "position.": [
+          213
+        ],
+        "pattern": [
+          216
+        ],
+        "very": [
+          218
+        ],
+        "similar": [
+          219
+        ],
+        "Aqaba,": [
+          228
+        ],
+        "system": [
+          233
+        ],
+        "observations": [
+          245
+        ],
+        "can": [
+          246
+        ],
+        "increase": [
+          247
+        ],
+        "understanding": [
+          249
+        ],
+        "seen": [
+          254
+        ],
+        "Aqaba.": [
+          259
+        ],
+        "Moreover,": [
+          260
+        ],
+        "our": [
+          261
+        ],
+        "study": [
+          262
+        ],
+        "describes": [
+          263
+        ],
+        "new": [
+          265
+        ],
+        "system.&amp;lt;/p&amp;gt;": [
+          268
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4221081775",
       "doi": "https://doi.org/10.5194/egusphere-egu22-4738",
       "title": "Modeling principal stress orientations in the Arabian plate using plate velocities",
@@ -54287,6 +55422,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)",
@@ -54323,6 +55459,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)",
@@ -54359,6 +55496,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Physical Science and Engineering Division, ANPERC, Thuwal, Saudi Arabia (santiago.penaclavijo@kaust.edu.sa)",
@@ -54380,11 +55518,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.17632246,
+      "fwci": 0.1466,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.41669713,
+        "value": 0.42510741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55554,7 +56692,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56239,1067 +57377,6 @@
         }
       ],
       "updated_date": "2026-01-24T23:23:39.755997",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3175775378",
-      "doi": "https://doi.org/10.5194/egusphere-egu2020-13345",
-      "title": "New structural model of strike-slip tectonics of the Gulf of Aqaba, southern Dead Sea Transform",
-      "display_name": "New structural model of strike-slip tectonics of the Gulf of Aqaba, southern Dead Sea Transform",
-      "publication_year": 2020,
-      "publication_date": "2020-03-10",
-      "ids": {
-        "openalex": "https://openalex.org/W3175775378",
-        "doi": "https://doi.org/10.5194/egusphere-egu2020-13345",
-        "mag": "3175775378"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.5194/egusphere-egu2020-13345",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
-        "pdf_url": null,
-        "source": null,
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
-        "any_repository_has_fulltext": null
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5053826418",
-            "display_name": "Jakub Fedorik",
-            "orcid": "https://orcid.org/0000-0001-6345-1552"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Jakub Fedorik",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader Afifi",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), ANPERC, Thuwal, Saudi Arabia (jakub.fedorik@kaust.edu.sa)",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5053826418"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.1497,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.4633117,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9987000226974487,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9987000226974487,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9951000213623047,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9940000176429749,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/transtension",
-          "display_name": "Transtension",
-          "score": 0.8936090469360352
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7652287483215332
-        },
-        {
-          "id": "https://openalex.org/keywords/echelon-formation",
-          "display_name": "Echelon formation",
-          "score": 0.6592106223106384
-        },
-        {
-          "id": "https://openalex.org/keywords/strike-slip-tectonics",
-          "display_name": "Strike-slip tectonics",
-          "score": 0.5957107543945312
-        },
-        {
-          "id": "https://openalex.org/keywords/shear",
-          "display_name": "Shear (geology)",
-          "score": 0.5717159509658813
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.5647174715995789
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.5636523962020874
-        },
-        {
-          "id": "https://openalex.org/keywords/transpression",
-          "display_name": "Transpression",
-          "score": 0.5427584052085876
-        },
-        {
-          "id": "https://openalex.org/keywords/transform-fault",
-          "display_name": "Transform fault",
-          "score": 0.48578718304634094
-        },
-        {
-          "id": "https://openalex.org/keywords/fault",
-          "display_name": "Fault (geology)",
-          "score": 0.48163408041000366
-        },
-        {
-          "id": "https://openalex.org/keywords/slip",
-          "display_name": "Slip (aerodynamics)",
-          "score": 0.4249868392944336
-        },
-        {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.37225356698036194
-        },
-        {
-          "id": "https://openalex.org/keywords/shear-zone",
-          "display_name": "Shear zone",
-          "score": 0.3016558885574341
-        },
-        {
-          "id": "https://openalex.org/keywords/sinistral-and-dextral",
-          "display_name": "Sinistral and dextral",
-          "score": 0.21173325181007385
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.15263786911964417
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.08349296450614929
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777234146",
-          "wikidata": "https://www.wikidata.org/wiki/Q4462148",
-          "display_name": "Transtension",
-          "level": 4,
-          "score": 0.8936090469360352
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7652287483215332
-        },
-        {
-          "id": "https://openalex.org/C52678131",
-          "wikidata": "https://www.wikidata.org/wiki/Q2448421",
-          "display_name": "Echelon formation",
-          "level": 3,
-          "score": 0.6592106223106384
-        },
-        {
-          "id": "https://openalex.org/C169162353",
-          "wikidata": "https://www.wikidata.org/wiki/Q108696248",
-          "display_name": "Strike-slip tectonics",
-          "level": 3,
-          "score": 0.5957107543945312
-        },
-        {
-          "id": "https://openalex.org/C96035792",
-          "wikidata": "https://www.wikidata.org/wiki/Q43606218",
-          "display_name": "Shear (geology)",
-          "level": 2,
-          "score": 0.5717159509658813
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.5647174715995789
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.5636523962020874
-        },
-        {
-          "id": "https://openalex.org/C128074901",
-          "wikidata": "https://www.wikidata.org/wiki/Q7835340",
-          "display_name": "Transpression",
-          "level": 4,
-          "score": 0.5427584052085876
-        },
-        {
-          "id": "https://openalex.org/C106973953",
-          "wikidata": "https://www.wikidata.org/wiki/Q664573",
-          "display_name": "Transform fault",
-          "level": 3,
-          "score": 0.48578718304634094
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.48163408041000366
-        },
-        {
-          "id": "https://openalex.org/C195268267",
-          "wikidata": "https://www.wikidata.org/wiki/Q1928883",
-          "display_name": "Slip (aerodynamics)",
-          "level": 2,
-          "score": 0.4249868392944336
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0.37225356698036194
-        },
-        {
-          "id": "https://openalex.org/C23295444",
-          "wikidata": "https://www.wikidata.org/wiki/Q1578160",
-          "display_name": "Shear zone",
-          "level": 3,
-          "score": 0.3016558885574341
-        },
-        {
-          "id": "https://openalex.org/C50047906",
-          "wikidata": "https://www.wikidata.org/wiki/Q2497260",
-          "display_name": "Sinistral and dextral",
-          "level": 3,
-          "score": 0.21173325181007385
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.15263786911964417
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.08349296450614929
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.5194/egusphere-egu2020-13345",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
-          "pdf_url": null,
-          "source": null,
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "posted-content"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.5194/egusphere-egu2020-13345",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-13345",
-        "pdf_url": null,
-        "source": null,
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2187168780",
-        "https://openalex.org/W2054840592",
-        "https://openalex.org/W4312307896",
-        "https://openalex.org/W2149221848",
-        "https://openalex.org/W2471366603",
-        "https://openalex.org/W2335955774",
-        "https://openalex.org/W90657174",
-        "https://openalex.org/W2911502030",
-        "https://openalex.org/W1606108311",
-        "https://openalex.org/W2377087973"
-      ],
-      "abstract_inverted_index": {
-        "&amp;lt;p&amp;gt;The": [
-          0
-        ],
-        "Dead": [
-          1
-        ],
-        "Sea": [
-          2
-        ],
-        "Transform": [
-          3
-        ],
-        "is": [
-          4,
-          27,
-          32,
-          67,
-          120,
-          135,
-          217,
-          234
-        ],
-        "an": [
-          5
-        ],
-        "active": [
-          6
-        ],
-        "left": [
-          7
-        ],
-        "lateral,": [
-          8
-        ],
-        "strike-slip": [
-          9,
-          62,
-          98,
-          115,
-          266
-        ],
-        "plate": [
-          10
-        ],
-        "boundary.": [
-          11
-        ],
-        "The": [
-          12,
-          29,
-          118,
-          153,
-          171
-        ],
-        "Gulf": [
-          13,
-          226,
-          257
-        ],
-        "of": [
-          14,
-          25,
-          37,
-          54,
-          109,
-          122,
-          146,
-          150,
-          159,
-          169,
-          188,
-          202,
-          227,
-          236,
-          250,
-          258
-        ],
-        "Aqaba": [
-          15
-        ],
-        "corresponds": [
-          16
-        ],
-        "to": [
-          17,
-          70,
-          89,
-          102,
-          140,
-          210,
-          220
-        ],
-        "its": [
-          18
-        ],
-        "southern": [
-          19
-        ],
-        "segment,": [
-          20
-        ],
-        "where": [
-          21,
-          229
-        ],
-        "the": [
-          22,
-          68,
-          71,
-          94,
-          107,
-          110,
-          151,
-          166,
-          205,
-          211,
-          221,
-          225,
-          230,
-          248,
-          251,
-          256
-        ],
-        "largest": [
-          23
-        ],
-        "amount": [
-          24,
-          201
-        ],
-        "opening": [
-          26
-        ],
-        "observed.": [
-          28
-        ],
-        "gulf": [
-          30
-        ],
-        "itself": [
-          31
-        ],
-        "deformed": [
-          33
-        ],
-        "by": [
-          34,
-          44,
-          241
-        ],
-        "a": [
-          35,
-          86,
-          103,
-          114,
-          138,
-          143,
-          157,
-          182,
-          186,
-          264
-        ],
-        "set": [
-          36,
-          158,
-          187
-        ],
-        "en": [
-          38,
-          48,
-          189
-        ],
-        "echelon": [
-          39,
-          49,
-          190
-        ],
-        "faults": [
-          40,
-          50,
-          180,
-          191,
-          209
-        ],
-        "which": [
-          41,
-          57,
-          92,
-          163
-        ],
-        "are": [
-          42,
-          58
-        ],
-        "bounded": [
-          43,
-          240
-        ],
-        "normal": [
-          45,
-          242
-        ],
-        "faults.": [
-          46,
-          243
-        ],
-        "These": [
-          47,
-          244
-        ],
-        "show": [
-          51
-        ],
-        "structural": [
-          52,
-          252
-        ],
-        "styles": [
-          53,
-          253
-        ],
-        "Riedel": [
-          55,
-          160,
-          194,
-          207,
-          238
-        ],
-        "shears": [
-          56,
-          195,
-          239
-        ],
-        "typically": [
-          59
-        ],
-        "observed": [
-          60,
-          73,
-          223
-        ],
-        "in": [
-          61,
-          74,
-          96,
-          113,
-          196,
-          224,
-          255
-        ],
-        "tectonics.": [
-          63
-        ],
-        "However,": [
-          64
-        ],
-        "their": [
-          65
-        ],
-        "orientation": [
-          66
-        ],
-        "opposite": [
-          69,
-          193,
-          212,
-          237
-        ],
-        "one": [
-          72,
-          128,
-          222
-        ],
-        "well": [
-          75
-        ],
-        "described": [
-          76
-        ],
-        "models": [
-          77,
-          91
-        ],
-        "or": [
-          78
-        ],
-        "natural": [
-          79
-        ],
-        "cases.": [
-          80
-        ],
-        "In": [
-          81
-        ],
-        "this": [
-          82
-        ],
-        "study,": [
-          83
-        ],
-        "we": [
-          84
-        ],
-        "compare": [
-          85
-        ],
-        "compiled": [
-          87
-        ],
-        "dataset": [
-          88
-        ],
-        "analogue": [
-          90
-        ],
-        "simulate": [
-          93
-        ],
-        "displacement": [
-          95
-        ],
-        "various": [
-          97
-        ],
-        "systems.": [
-          99
-        ],
-        "This": [
-          100,
-          214
-        ],
-        "comparison": [
-          101
-        ],
-        "sandbox": [
-          104
-        ],
-        "model": [
-          105,
-          119,
-          155
-        ],
-        "highlights": [
-          106
-        ],
-        "importance": [
-          108
-        ],
-        "tectonic": [
-          111,
-          173
-        ],
-        "load": [
-          112,
-          174
-        ],
-        "fault": [
-          116,
-          148,
-          215,
-          232,
-          267
-        ],
-        "system.": [
-          117
-        ],
-        "composed": [
-          121,
-          235
-        ],
-        "two": [
-          123,
-          176
-        ],
-        "base": [
-          124
-        ],
-        "plates": [
-          125
-        ],
-        "with": [
-          126,
-          181
-        ],
-        "only": [
-          127
-        ],
-        "straight": [
-          129
-        ],
-        "velocity": [
-          130
-        ],
-        "discontinuity.": [
-          131
-        ],
-        "X-Ray": [
-          132
-        ],
-        "Computed": [
-          133
-        ],
-        "Tomography": [
-          134
-        ],
-        "used": [
-          136
-        ],
-        "as": [
-          137
-        ],
-        "technique": [
-          139
-        ],
-        "carry": [
-          141
-        ],
-        "out": [
-          142
-        ],
-        "4D": [
-          144
-        ],
-        "analysis": [
-          145
-        ],
-        "internal": [
-          147,
-          231
-        ],
-        "structures": [
-          149
-        ],
-        "model.": [
-          152
-        ],
-        "10&amp;amp;#176;-transtensional": [
-          154
-        ],
-        "generates": [
-          156
-        ],
-        "shear": [
-          161,
-          208
-        ],
-        "faults,": [
-          162
-        ],
-        "merge": [
-          164
-        ],
-        "during": [
-          165
-        ],
-        "later": [
-          167
-        ],
-        "stages": [
-          168
-        ],
-        "deformation.": [
-          170
-        ],
-        "30&amp;amp;#176;-transtensional": [
-          172
-        ],
-        "shows": [
-          175
-        ],
-        "major": [
-          177
-        ],
-        "steep": [
-          178
-        ],
-        "bounding": [
-          179
-        ],
-        "dip-slip": [
-          183
-        ],
-        "component": [
-          184
-        ],
-        "and": [
-          185
-        ],
-        "-": [
-          192
-        ],
-        "between": [
-          197
-        ],
-        "them.": [
-          198
-        ],
-        "A": [
-          199
-        ],
-        "higher": [
-          200
-        ],
-        "transtension": [
-          203
-        ],
-        "rotates": [
-          204
-        ],
-        "classic": [
-          206
-        ],
-        "position.": [
-          213
-        ],
-        "pattern": [
-          216
-        ],
-        "very": [
-          218
-        ],
-        "similar": [
-          219
-        ],
-        "Aqaba,": [
-          228
-        ],
-        "system": [
-          233
-        ],
-        "observations": [
-          245
-        ],
-        "can": [
-          246
-        ],
-        "increase": [
-          247
-        ],
-        "understanding": [
-          249
-        ],
-        "seen": [
-          254
-        ],
-        "Aqaba.": [
-          259
-        ],
-        "Moreover,": [
-          260
-        ],
-        "our": [
-          261
-        ],
-        "study": [
-          262
-        ],
-        "describes": [
-          263
-        ],
-        "new": [
-          265
-        ],
-        "system.&amp;lt;/p&amp;gt;": [
-          268
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62894,7 +62971,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01795903,
+        "value": 0.01794784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63784,7 +63861,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63952,7 +64029,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06653154,
+        "value": 0.06647597,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64786,7 +64863,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67429,7 +67506,7 @@
           "author": {
             "id": "https://openalex.org/A5003430030",
             "display_name": "Guido Schreurs",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4544-7514"
           },
           "institutions": [
             {
@@ -67478,7 +67555,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02156991,
+        "value": 0.02151864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68354,7 +68431,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68421,6 +68498,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)",
@@ -68457,6 +68535,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)",
@@ -68493,6 +68572,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)",
@@ -68529,6 +68609,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (tihana.pensa@kaust.edu.sa)",
@@ -68554,7 +68635,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02741832,
+        "value": 0.028643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69640,7 +69721,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70404,6 +70485,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -70418,7 +70500,7 @@
           "author": {
             "id": "https://openalex.org/A5058263186",
             "display_name": "Abdirizak Omar",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-1887-4411"
           },
           "institutions": [
             {
@@ -70440,6 +70522,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -70476,6 +70559,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -70512,6 +70596,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -70548,6 +70633,7 @@
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Arabian Oil Company",
@@ -70562,7 +70648,7 @@
           "author": {
             "id": "https://openalex.org/A5024637239",
             "display_name": "Zeyad Ahmed",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-9877-4682"
           },
           "institutions": [
             {
@@ -70585,6 +70671,7 @@
             "Saudi Arabian Oil Company",
             "Serguey Arkadakskiy Saudi Arabian Oil Company"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Arabian Oil Company",
@@ -70605,7 +70692,7 @@
           "author": {
             "id": "https://openalex.org/A5013962194",
             "display_name": "Noushad Kunnummal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-5600-3356"
           },
           "institutions": [
             {
@@ -70627,6 +70714,7 @@
           "raw_affiliation_strings": [
             "Saudi Arabian Oil Company"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Arabian Oil Company",
@@ -70675,6 +70763,7 @@
             "University of Iceland",
             "Saudi Arabian Oil Company"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Iceland",
@@ -70740,7 +70829,8 @@
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210164289",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220"
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405258862"
               ]
             }
           ],
@@ -70754,6 +70844,7 @@
             "Géosciences Environnement Toulouse (GET), CNRS UMR 5563",
             "University of Iceland"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Géosciences Environnement Toulouse (GET), CNRS UMR 5563",
@@ -71914,7 +72005,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-25T13:04:00.132906",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72830,7 +72921,7 @@
           "author": {
             "id": "https://openalex.org/A5081959676",
             "display_name": "Alessandro Genovese",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-8154-3098"
           },
           "institutions": [
             {
@@ -73347,7 +73438,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-25T13:04:00.132906",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
