@@ -15,10 +15,10 @@
     ],
     "full_name": "Abdulkader M. Abed",
     "works_count": 62,
-    "cited_by_count": 1595,
+    "cited_by_count": 1596,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 24,
+      "h_index": 25,
       "i10_index": 42
     },
     "ids": {
@@ -332,7 +332,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001252,
+        "value": 0.0001251,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -626,7 +626,7 @@
         "year": 2015,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 2016,
@@ -665,7 +665,7 @@
     ],
     "block_key": "a abed",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
-    "updated_date": "2026-05-20T12:21:56",
+    "updated_date": "2026-05-21T12:23:45",
     "created_date": "2020-09-21T00:00:00"
   },
   "works": [
@@ -1236,16 +1236,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -1545,11 +1545,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0824,
+      "fwci": 4.0823,
       "has_fulltext": false,
-      "cited_by_count": 101,
+      "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.92581846,
+        "value": 0.92581612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1874,20 +1874,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W766487889.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W766487889.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W766487889.pdf"
       },
       "referenced_works_count": 98,
       "referenced_works": [
@@ -2813,7 +2812,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -2864,667 +2863,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-19T08:33:51.333923",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2055932192",
-      "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-      "title": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
-      "display_name": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
-      "publication_year": 1984,
-      "publication_date": "1984-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2055932192",
-        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-        "mag": "2055932192"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1144/gsl.sp.1984.017.01.14",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5102809672"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I114972647"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.216069,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "17",
-        "issue": "1",
-        "first_page": "213",
-        "last_page": "216"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9905999898910522,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9905999898910522,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9898999929428101,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9891999959945679,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/wadi",
-          "display_name": "Wadi",
-          "score": 0.9603402018547058
-        },
-        {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.8976242542266846
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.6490834951400757
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5109049677848816
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.31928303837776184
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.2905788719654083
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.12940916419029236
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.09011635184288025
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C200965112",
-          "wikidata": "https://www.wikidata.org/wiki/Q187971",
-          "display_name": "Wadi",
-          "level": 2,
-          "score": 0.9603402018547058
-        },
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.8976242542266846
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.6490834951400757
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5109049677848816
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.31928303837776184
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.2905788719654083
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.12940916419029236
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.09011635184288025
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1144/gsl.sp.1984.017.01.14",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S29311329",
-            "display_name": "Geological Society London Special Publications",
-            "issn_l": "0305-8719",
-            "issn": [
-              "0305-8719",
-              "2041-4927"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311650",
-            "host_organization_name": "Geological Society of London",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311650"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of London"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geological Society, London, Special Publications",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 4,
-      "referenced_works": [
-        "https://openalex.org/W61051762",
-        "https://openalex.org/W2025585437",
-        "https://openalex.org/W2050128151",
-        "https://openalex.org/W2921255593"
-      ],
-      "related_works": [
-        "https://openalex.org/W2328924756",
-        "https://openalex.org/W3137886425",
-        "https://openalex.org/W2030707901",
-        "https://openalex.org/W2913069658",
-        "https://openalex.org/W3120602938",
-        "https://openalex.org/W2045102797",
-        "https://openalex.org/W2003829586",
-        "https://openalex.org/W1991760979",
-        "https://openalex.org/W2104696163",
-        "https://openalex.org/W2807157079"
-      ],
-      "abstract_inverted_index": {
-        "Summary": [
-          0
-        ],
-        "Detailed": [
-          1
-        ],
-        "sedimentological": [
-          2
-        ],
-        "investigations": [
-          3
-        ],
-        "of": [
-          4,
-          10,
-          19,
-          95,
-          105
-        ],
-        "Wadi": [
-          5,
-          42,
-          75
-        ],
-        "Mujib": [
-          6,
-          43,
-          76
-        ],
-        "(Central": [
-          7
-        ],
-        "Jordan),": [
-          8
-        ],
-        "east": [
-          9
-        ],
-        "the": [
-          11,
-          16,
-          99,
-          106,
-          110
-        ],
-        "Dead": [
-          12,
-          107
-        ],
-        "Sea,": [
-          13
-        ],
-        "show": [
-          14
-        ],
-        "that": [
-          15
-        ],
-        "regional": [
-          17
-        ],
-        "contact": [
-          18
-        ],
-        "Lower": [
-          20,
-          85
-        ],
-        "Cretaceous": [
-          21,
-          26
-        ],
-        "fluviatile": [
-          22
-        ],
-        "deposits": [
-          23
-        ],
-        "on": [
-          24
-        ],
-        "Upper": [
-          25
-        ],
-        "carbonates": [
-          27
-        ],
-        "ushered": [
-          28
-        ],
-        "in": [
-          29,
-          41,
-          98
-        ],
-        "a": [
-          30,
-          51,
-          65
-        ],
-        "shallow": [
-          31,
-          57
-        ],
-        "marine": [
-          32,
-          58
-        ],
-        "environment": [
-          33
-        ],
-        "all": [
-          34
-        ],
-        "over": [
-          35
-        ],
-        "Jordan.": [
-          36
-        ],
-        "Later,": [
-          37
-        ],
-        "an": [
-          38,
-          82,
-          93
-        ],
-        "emergent": [
-          39
-        ],
-        "area,": [
-          40
-        ],
-        "only,": [
-          44
-        ],
-        "passes": [
-          45
-        ],
-        "upwards": [
-          46
-        ],
-        "and": [
-          47,
-          73,
-          88
-        ],
-        "laterally": [
-          48
-        ],
-        "eastwards": [
-          49
-        ],
-        "into": [
-          50
-        ],
-        "supratidal": [
-          52
-        ],
-        "environment,": [
-          53
-        ],
-        "followed": [
-          54
-        ],
-        "again": [
-          55
-        ],
-        "by": [
-          56,
-          64
-        ],
-        "conditions.": [
-          59
-        ],
-        "The": [
-          60
-        ],
-        "emergence": [
-          61
-        ],
-        "is": [
-          62,
-          77,
-          89
-        ],
-        "marked": [
-          63
-        ],
-        "major": [
-          66
-        ],
-        "eroisional": [
-          67
-        ],
-        "unconformity": [
-          68
-        ],
-        "with": [
-          69
-        ],
-        "wadi": [
-          70
-        ],
-        "deposits,": [
-          71
-        ],
-        "caliche": [
-          72
-        ],
-        "karstification.": [
-          74
-        ],
-        "believed": [
-          78
-        ],
-        "to": [
-          79,
-          91,
-          102,
-          109
-        ],
-        "have": [
-          80
-        ],
-        "been": [
-          81
-        ],
-        "island": [
-          83
-        ],
-        "during": [
-          84
-        ],
-        "Cenomanian": [
-          86
-        ],
-        "time": [
-          87
-        ],
-        "thought": [
-          90
-        ],
-        "be": [
-          92
-        ],
-        "example": [
-          94
-        ],
-        "vertical": [
-          96
-        ],
-        "tectonics": [
-          97
-        ],
-        "area": [
-          100
-        ],
-        "prior": [
-          101
-        ],
-        "Tertiary": [
-          103
-        ],
-        "rifting": [
-          104
-        ],
-        "Sea": [
-          108
-        ],
-        "west.": [
-          111
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4072,16 +3411,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -4675,9 +4014,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -4689,8 +4028,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -5541,16 +4880,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -6054,16 +5393,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -6772,20 +6111,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W1542845244.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W1542845244.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W1542845244.pdf"
       },
       "referenced_works_count": 73,
       "referenced_works": [
@@ -8531,7 +7869,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8879,16 +8217,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2974796042.pdf",
@@ -9521,9 +8859,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9100000262260437,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.9100000262260437
         }
       ],
       "awards": [],
@@ -9535,8 +8873,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -10197,9 +9535,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -10211,8 +9549,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -10391,6 +9729,7 @@
           "is_corresponding": true,
           "raw_author_name": "John H. Powell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10405,6 +9744,7 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulkader Abed",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10419,6 +9759,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ghaleb H. Jarrar",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -10431,16 +9772,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9559,
+      "fwci": 5.9485,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.95423492,
+        "value": 0.95404773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -10748,20 +10089,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2336549484.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2336549484.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2336549484.pdf"
       },
       "referenced_works_count": 67,
       "referenced_works": [
@@ -12512,7 +11852,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13036,8 +12376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -13631,9 +12971,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -13650,8 +12990,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -13867,6 +13207,7 @@
           "raw_affiliation_strings": [
             "Department of Geology and Mineralogy, University of Jordan, Amman, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman, Jordan",
@@ -13903,6 +13244,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The Islamic University of Gaza, Gaza Strip"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The Islamic University of Gaza, Gaza Strip",
@@ -13924,11 +13266,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9144,
+      "fwci": 0.9196,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.71689885,
+        "value": 0.71879138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14160,8 +13502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -14488,7 +13830,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-06T13:50:29.536080",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14992,16 +14334,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -15351,7 +14693,7 @@
       "apc_paid": null,
       "fwci": 0.6228,
       "has_fulltext": false,
-      "cited_by_count": 24,
+      "cited_by_count": 25,
       "citation_normalized_percentile": {
         "value": 0.67349626,
         "is_in_top_1_percent": false,
@@ -15935,9 +15277,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -15954,8 +15296,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -16041,7 +15383,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -16080,7 +15422,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16169,6 +15511,7 @@
             "*Dept. of Geology and Mineralogy, University of Jordan, Amman, Jordan",
             "Department of Geology and Mineralogy, University of Jordan, Amman Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "*Dept. of Geology and Mineralogy, University of Jordan, Amman, Jordan",
@@ -16211,6 +15554,7 @@
           "raw_affiliation_strings": [
             "**Faculty of Science, Bir Zeit University, The West Bank"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "**Faculty of Science, Bir Zeit University, The West Bank",
@@ -16236,11 +15580,11 @@
         "value_usd": 3240
       },
       "apc_paid": null,
-      "fwci": 1.3892,
+      "fwci": 1.4077,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.79567023,
+        "value": 0.79854157,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16542,16 +15886,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -16878,7 +16222,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17283,9 +16627,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -17297,8 +16641,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -18371,9 +17715,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -18385,8 +17729,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -18943,16 +18287,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19469,16 +18813,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -19758,11 +19102,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3018,
+      "fwci": 5.3017,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.95019165,
+        "value": 0.9501906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20133,16 +19477,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -21110,7 +20454,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21653,16 +20997,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -22250,9 +21594,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -22264,8 +21608,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -22812,16 +22156,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -23482,6 +22826,759 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1963654006",
+      "doi": "https://doi.org/10.1007/s12517-015-1919-z",
+      "title": "Hydrogeochemistry of groundwater from karstic limestone aquifer highlighting arsenic contamination: case study from Jordan",
+      "display_name": "Hydrogeochemistry of groundwater from karstic limestone aquifer highlighting arsenic contamination: case study from Jordan",
+      "publication_year": 2015,
+      "publication_date": "2015-04-27",
+      "ids": {
+        "openalex": "https://openalex.org/W1963654006",
+        "doi": "https://doi.org/10.1007/s12517-015-1919-z",
+        "mag": "1963654006"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12517-015-1919-z",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12517-015-1919-z",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087995404",
+            "display_name": "Mustafa Al Kuisi",
+            "orcid": "https://orcid.org/0000-0002-8795-7790"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mustafa Al Kuisi",
+          "raw_affiliation_strings": [
+            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+            "The University of jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "The University of jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+            "The University of jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "The University of jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040373852",
+            "display_name": "Kholoud Mashal",
+            "orcid": "https://orcid.org/0000-0001-9591-4216"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157392197",
+              "display_name": "Hashemite University",
+              "ror": "https://ror.org/04a1r5z94",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157392197"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kholoud Mashal",
+          "raw_affiliation_strings": [
+            "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
+            "the Hashemite University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I157392197"
+              ]
+            },
+            {
+              "raw_affiliation_string": "the Hashemite University",
+              "institution_ids": [
+                "https://openalex.org/I157392197"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041957437",
+            "display_name": "G. Saffarini",
+            "orcid": "https://orcid.org/0000-0001-7698-3224"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ghazi Saffarini",
+          "raw_affiliation_strings": [
+            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+            "The University of jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "The University of jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084838119",
+            "display_name": "Fathi Saqhour",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fathi Saqhour",
+          "raw_affiliation_strings": [
+            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+            "The University of jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "The University of jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5087995404"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114972647"
+      ],
+      "apc_list": {
+        "value": 2390,
+        "currency": "EUR",
+        "value_usd": 2990
+      },
+      "apc_paid": null,
+      "fwci": 0.8721,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.75864897,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "11",
+        "first_page": "9699",
+        "last_page": "9720"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10710",
+        "display_name": "Arsenic contamination and mitigation",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10710",
+          "display_name": "Arsenic contamination and mitigation",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11923",
+          "display_name": "Mine drainage and remediation techniques",
+          "score": 0.9958000183105469,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9912999868392944,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.8993759155273438
+        },
+        {
+          "id": "https://openalex.org/keywords/arsenic",
+          "display_name": "Arsenic",
+          "score": 0.8006189465522766
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.7700717449188232
+        },
+        {
+          "id": "https://openalex.org/keywords/pyrite",
+          "display_name": "Pyrite",
+          "score": 0.7026299238204956
+        },
+        {
+          "id": "https://openalex.org/keywords/arsenic-contamination-of-groundwater",
+          "display_name": "Arsenic contamination of groundwater",
+          "score": 0.6794701814651489
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6239440441131592
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.5130287408828735
+        },
+        {
+          "id": "https://openalex.org/keywords/karst",
+          "display_name": "Karst",
+          "score": 0.5071859359741211
+        },
+        {
+          "id": "https://openalex.org/keywords/dissolution",
+          "display_name": "Dissolution",
+          "score": 0.4605746269226074
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-element",
+          "display_name": "Trace element",
+          "score": 0.43627113103866577
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-chemistry",
+          "display_name": "Environmental chemistry",
+          "score": 0.4034961462020874
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.391408234834671
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.3520999550819397
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.15574702620506287
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.07036349177360535
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.8993759155273438
+        },
+        {
+          "id": "https://openalex.org/C502230775",
+          "wikidata": "https://www.wikidata.org/wiki/Q871",
+          "display_name": "Arsenic",
+          "level": 2,
+          "score": 0.8006189465522766
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.7700717449188232
+        },
+        {
+          "id": "https://openalex.org/C2776062231",
+          "wikidata": "https://www.wikidata.org/wiki/Q50769",
+          "display_name": "Pyrite",
+          "level": 2,
+          "score": 0.7026299238204956
+        },
+        {
+          "id": "https://openalex.org/C132165134",
+          "wikidata": "https://www.wikidata.org/wiki/Q4796457",
+          "display_name": "Arsenic contamination of groundwater",
+          "level": 3,
+          "score": 0.6794701814651489
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6239440441131592
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.5130287408828735
+        },
+        {
+          "id": "https://openalex.org/C182348080",
+          "wikidata": "https://www.wikidata.org/wiki/Q16817",
+          "display_name": "Karst",
+          "level": 2,
+          "score": 0.5071859359741211
+        },
+        {
+          "id": "https://openalex.org/C88380143",
+          "wikidata": "https://www.wikidata.org/wiki/Q416674",
+          "display_name": "Dissolution",
+          "level": 2,
+          "score": 0.4605746269226074
+        },
+        {
+          "id": "https://openalex.org/C34682378",
+          "wikidata": "https://www.wikidata.org/wiki/Q351792",
+          "display_name": "Trace element",
+          "level": 2,
+          "score": 0.43627113103866577
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.4034961462020874
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.391408234834671
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3520999550819397
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.15574702620506287
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.07036349177360535
+        },
+        {
+          "id": "https://openalex.org/C147789679",
+          "wikidata": "https://www.wikidata.org/wiki/Q11372",
+          "display_name": "Physical chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12517-015-1919-z",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s12517-015-1919-z",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S38407038",
+            "display_name": "Arabian Journal of Geosciences",
+            "issn_l": "1866-7511",
+            "issn": [
+              "1866-7511",
+              "1866-7538"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal of Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320331393",
+          "display_name": "Muhimbili University of Health and Allied Sciences",
+          "ror": "https://ror.org/027pr6c67"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W16286578",
+        "https://openalex.org/W79279769",
+        "https://openalex.org/W81898466",
+        "https://openalex.org/W328885748",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W1488473434",
+        "https://openalex.org/W1512606558",
+        "https://openalex.org/W1523692346",
+        "https://openalex.org/W1586092561",
+        "https://openalex.org/W1971381271",
+        "https://openalex.org/W1978895830",
+        "https://openalex.org/W1980149726",
+        "https://openalex.org/W1981362214",
+        "https://openalex.org/W1982064060",
+        "https://openalex.org/W1985879113",
+        "https://openalex.org/W1994314508",
+        "https://openalex.org/W2003221509",
+        "https://openalex.org/W2003711828",
+        "https://openalex.org/W2005151914",
+        "https://openalex.org/W2008290578",
+        "https://openalex.org/W2009771151",
+        "https://openalex.org/W2023363945",
+        "https://openalex.org/W2027530170",
+        "https://openalex.org/W2028038371",
+        "https://openalex.org/W2031776604",
+        "https://openalex.org/W2034703653",
+        "https://openalex.org/W2051253237",
+        "https://openalex.org/W2054827584",
+        "https://openalex.org/W2059981268",
+        "https://openalex.org/W2067334002",
+        "https://openalex.org/W2072826534",
+        "https://openalex.org/W2074246657",
+        "https://openalex.org/W2079657494",
+        "https://openalex.org/W2093867581",
+        "https://openalex.org/W2094123783",
+        "https://openalex.org/W2107059050",
+        "https://openalex.org/W2125322446",
+        "https://openalex.org/W2128753028",
+        "https://openalex.org/W2138438084",
+        "https://openalex.org/W2163366584",
+        "https://openalex.org/W2226533143",
+        "https://openalex.org/W2971101601",
+        "https://openalex.org/W4230547244",
+        "https://openalex.org/W4243091776",
+        "https://openalex.org/W4299825920"
+      ],
+      "related_works": [
+        "https://openalex.org/W2499541383",
+        "https://openalex.org/W2009541437",
+        "https://openalex.org/W1574085992",
+        "https://openalex.org/W2885263913",
+        "https://openalex.org/W2913278508",
+        "https://openalex.org/W4206057215",
+        "https://openalex.org/W2547690015",
+        "https://openalex.org/W4220823910",
+        "https://openalex.org/W2998869707",
+        "https://openalex.org/W4389839410"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-22T09:01:20.584952",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2040046731",
       "doi": "https://doi.org/10.1016/s1251-8050(00)00111-7",
       "title": "Un paléolac du dernier interglaciaire pléistocène dans l'Extrême-Sud hyperaride de la Jordanie",
@@ -24073,16 +24170,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -24144,750 +24241,6 @@
         {
           "year": 2012,
           "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1963654006",
-      "doi": "https://doi.org/10.1007/s12517-015-1919-z",
-      "title": "Hydrogeochemistry of groundwater from karstic limestone aquifer highlighting arsenic contamination: case study from Jordan",
-      "display_name": "Hydrogeochemistry of groundwater from karstic limestone aquifer highlighting arsenic contamination: case study from Jordan",
-      "publication_year": 2015,
-      "publication_date": "2015-04-27",
-      "ids": {
-        "openalex": "https://openalex.org/W1963654006",
-        "doi": "https://doi.org/10.1007/s12517-015-1919-z",
-        "mag": "1963654006"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12517-015-1919-z",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s12517-015-1919-z",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S38407038",
-          "display_name": "Arabian Journal of Geosciences",
-          "issn_l": "1866-7511",
-          "issn": [
-            "1866-7511",
-            "1866-7538"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5087995404",
-            "display_name": "Mustafa Al Kuisi",
-            "orcid": "https://orcid.org/0000-0002-8795-7790"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mustafa Al Kuisi",
-          "raw_affiliation_strings": [
-            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-            "The University of jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "The University of jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-            "The University of jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "The University of jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040373852",
-            "display_name": "Kholoud Mashal",
-            "orcid": "https://orcid.org/0000-0001-9591-4216"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I157392197",
-              "display_name": "Hashemite University",
-              "ror": "https://ror.org/04a1r5z94",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157392197"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kholoud Mashal",
-          "raw_affiliation_strings": [
-            "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
-            "the Hashemite University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Land Management and Environment, The Faculty of Natural Resources and Environment, The Hashemite University, P.O. Box 150459, Zarqa, 13115, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I157392197"
-              ]
-            },
-            {
-              "raw_affiliation_string": "the Hashemite University",
-              "institution_ids": [
-                "https://openalex.org/I157392197"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5041957437",
-            "display_name": "G. Saffarini",
-            "orcid": "https://orcid.org/0000-0001-7698-3224"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ghazi Saffarini",
-          "raw_affiliation_strings": [
-            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-            "The University of jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "The University of jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5084838119",
-            "display_name": "Fathi Saqhour",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fathi Saqhour",
-          "raw_affiliation_strings": [
-            "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-            "The University of jordan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geology and Environment, The University of Jordan, P.O. Box: 13437, 11942, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "The University of jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5087995404"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I114972647"
-      ],
-      "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
-        "value_usd": 2990
-      },
-      "apc_paid": null,
-      "fwci": 0.8706,
-      "has_fulltext": false,
-      "cited_by_count": 16,
-      "citation_normalized_percentile": {
-        "value": 0.75818517,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "8",
-        "issue": "11",
-        "first_page": "9699",
-        "last_page": "9720"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10710",
-        "display_name": "Arsenic contamination and mitigation",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10710",
-          "display_name": "Arsenic contamination and mitigation",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11923",
-          "display_name": "Mine drainage and remediation techniques",
-          "score": 0.9958000183105469,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9912999868392944,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.8993759155273438
-        },
-        {
-          "id": "https://openalex.org/keywords/arsenic",
-          "display_name": "Arsenic",
-          "score": 0.8006189465522766
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.7700717449188232
-        },
-        {
-          "id": "https://openalex.org/keywords/pyrite",
-          "display_name": "Pyrite",
-          "score": 0.7026299238204956
-        },
-        {
-          "id": "https://openalex.org/keywords/arsenic-contamination-of-groundwater",
-          "display_name": "Arsenic contamination of groundwater",
-          "score": 0.6794701814651489
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6239440441131592
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.5130287408828735
-        },
-        {
-          "id": "https://openalex.org/keywords/karst",
-          "display_name": "Karst",
-          "score": 0.5071859359741211
-        },
-        {
-          "id": "https://openalex.org/keywords/dissolution",
-          "display_name": "Dissolution",
-          "score": 0.4605746269226074
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-element",
-          "display_name": "Trace element",
-          "score": 0.43627113103866577
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-chemistry",
-          "display_name": "Environmental chemistry",
-          "score": 0.4034961462020874
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.391408234834671
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.3520999550819397
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.15574702620506287
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.07036349177360535
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.8993759155273438
-        },
-        {
-          "id": "https://openalex.org/C502230775",
-          "wikidata": "https://www.wikidata.org/wiki/Q871",
-          "display_name": "Arsenic",
-          "level": 2,
-          "score": 0.8006189465522766
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.7700717449188232
-        },
-        {
-          "id": "https://openalex.org/C2776062231",
-          "wikidata": "https://www.wikidata.org/wiki/Q50769",
-          "display_name": "Pyrite",
-          "level": 2,
-          "score": 0.7026299238204956
-        },
-        {
-          "id": "https://openalex.org/C132165134",
-          "wikidata": "https://www.wikidata.org/wiki/Q4796457",
-          "display_name": "Arsenic contamination of groundwater",
-          "level": 3,
-          "score": 0.6794701814651489
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6239440441131592
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.5130287408828735
-        },
-        {
-          "id": "https://openalex.org/C182348080",
-          "wikidata": "https://www.wikidata.org/wiki/Q16817",
-          "display_name": "Karst",
-          "level": 2,
-          "score": 0.5071859359741211
-        },
-        {
-          "id": "https://openalex.org/C88380143",
-          "wikidata": "https://www.wikidata.org/wiki/Q416674",
-          "display_name": "Dissolution",
-          "level": 2,
-          "score": 0.4605746269226074
-        },
-        {
-          "id": "https://openalex.org/C34682378",
-          "wikidata": "https://www.wikidata.org/wiki/Q351792",
-          "display_name": "Trace element",
-          "level": 2,
-          "score": 0.43627113103866577
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0.4034961462020874
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.391408234834671
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.3520999550819397
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.15574702620506287
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.07036349177360535
-        },
-        {
-          "id": "https://openalex.org/C147789679",
-          "wikidata": "https://www.wikidata.org/wiki/Q11372",
-          "display_name": "Physical chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12517-015-1919-z",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s12517-015-1919-z",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S38407038",
-            "display_name": "Arabian Journal of Geosciences",
-            "issn_l": "1866-7511",
-            "issn": [
-              "1866-7511",
-              "1866-7538"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal of Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320331393",
-          "display_name": "Muhimbili University of Health and Allied Sciences",
-          "ror": "https://ror.org/027pr6c67"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W16286578",
-        "https://openalex.org/W79279769",
-        "https://openalex.org/W81898466",
-        "https://openalex.org/W328885748",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W1488473434",
-        "https://openalex.org/W1512606558",
-        "https://openalex.org/W1523692346",
-        "https://openalex.org/W1586092561",
-        "https://openalex.org/W1971381271",
-        "https://openalex.org/W1978895830",
-        "https://openalex.org/W1980149726",
-        "https://openalex.org/W1981362214",
-        "https://openalex.org/W1982064060",
-        "https://openalex.org/W1985879113",
-        "https://openalex.org/W1994314508",
-        "https://openalex.org/W2003221509",
-        "https://openalex.org/W2003711828",
-        "https://openalex.org/W2005151914",
-        "https://openalex.org/W2008290578",
-        "https://openalex.org/W2009771151",
-        "https://openalex.org/W2023363945",
-        "https://openalex.org/W2027530170",
-        "https://openalex.org/W2028038371",
-        "https://openalex.org/W2031776604",
-        "https://openalex.org/W2034703653",
-        "https://openalex.org/W2051253237",
-        "https://openalex.org/W2054827584",
-        "https://openalex.org/W2059981268",
-        "https://openalex.org/W2067334002",
-        "https://openalex.org/W2072826534",
-        "https://openalex.org/W2074246657",
-        "https://openalex.org/W2079657494",
-        "https://openalex.org/W2093867581",
-        "https://openalex.org/W2094123783",
-        "https://openalex.org/W2107059050",
-        "https://openalex.org/W2125322446",
-        "https://openalex.org/W2128753028",
-        "https://openalex.org/W2138438084",
-        "https://openalex.org/W2163366584",
-        "https://openalex.org/W2226533143",
-        "https://openalex.org/W2971101601",
-        "https://openalex.org/W4230547244",
-        "https://openalex.org/W4243091776",
-        "https://openalex.org/W4299825920"
-      ],
-      "related_works": [
-        "https://openalex.org/W2499541383",
-        "https://openalex.org/W2009541437",
-        "https://openalex.org/W1574085992",
-        "https://openalex.org/W2885263913",
-        "https://openalex.org/W2913278508",
-        "https://openalex.org/W4206057215",
-        "https://openalex.org/W2547690015",
-        "https://openalex.org/W4220823910",
-        "https://openalex.org/W2998869707",
-        "https://openalex.org/W4389839410"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -25440,9 +24793,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -25459,8 +24812,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -25595,6 +24948,667 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2055932192",
+      "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+      "title": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
+      "display_name": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
+      "publication_year": 1984,
+      "publication_date": "1984-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2055932192",
+        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+        "mag": "2055932192"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1144/gsl.sp.1984.017.01.14",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102809672"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114972647"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.2153048,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "17",
+        "issue": "1",
+        "first_page": "213",
+        "last_page": "216"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9905999898910522,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9905999898910522,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9898999929428101,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9891999959945679,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/wadi",
+          "display_name": "Wadi",
+          "score": 0.9603402018547058
+        },
+        {
+          "id": "https://openalex.org/keywords/cenomanian",
+          "display_name": "Cenomanian",
+          "score": 0.8976242542266846
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.6490834951400757
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5109049677848816
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.31928303837776184
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.2905788719654083
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.12940916419029236
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.09011635184288025
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C200965112",
+          "wikidata": "https://www.wikidata.org/wiki/Q187971",
+          "display_name": "Wadi",
+          "level": 2,
+          "score": 0.9603402018547058
+        },
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.8976242542266846
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.6490834951400757
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5109049677848816
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.31928303837776184
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2905788719654083
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.12940916419029236
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.09011635184288025
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1144/gsl.sp.1984.017.01.14",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S29311329",
+            "display_name": "Geological Society London Special Publications",
+            "issn_l": "0305-8719",
+            "issn": [
+              "0305-8719",
+              "2041-4927"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311650",
+            "host_organization_name": "Geological Society of London",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311650"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of London"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geological Society, London, Special Publications",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 4,
+      "referenced_works": [
+        "https://openalex.org/W61051762",
+        "https://openalex.org/W2025585437",
+        "https://openalex.org/W2050128151",
+        "https://openalex.org/W2921255593"
+      ],
+      "related_works": [
+        "https://openalex.org/W2328924756",
+        "https://openalex.org/W3137886425",
+        "https://openalex.org/W2030707901",
+        "https://openalex.org/W2913069658",
+        "https://openalex.org/W3120602938",
+        "https://openalex.org/W2045102797",
+        "https://openalex.org/W2003829586",
+        "https://openalex.org/W1991760979",
+        "https://openalex.org/W2104696163",
+        "https://openalex.org/W2807157079"
+      ],
+      "abstract_inverted_index": {
+        "Summary": [
+          0
+        ],
+        "Detailed": [
+          1
+        ],
+        "sedimentological": [
+          2
+        ],
+        "investigations": [
+          3
+        ],
+        "of": [
+          4,
+          10,
+          19,
+          95,
+          105
+        ],
+        "Wadi": [
+          5,
+          42,
+          75
+        ],
+        "Mujib": [
+          6,
+          43,
+          76
+        ],
+        "(Central": [
+          7
+        ],
+        "Jordan),": [
+          8
+        ],
+        "east": [
+          9
+        ],
+        "the": [
+          11,
+          16,
+          99,
+          106,
+          110
+        ],
+        "Dead": [
+          12,
+          107
+        ],
+        "Sea,": [
+          13
+        ],
+        "show": [
+          14
+        ],
+        "that": [
+          15
+        ],
+        "regional": [
+          17
+        ],
+        "contact": [
+          18
+        ],
+        "Lower": [
+          20,
+          85
+        ],
+        "Cretaceous": [
+          21,
+          26
+        ],
+        "fluviatile": [
+          22
+        ],
+        "deposits": [
+          23
+        ],
+        "on": [
+          24
+        ],
+        "Upper": [
+          25
+        ],
+        "carbonates": [
+          27
+        ],
+        "ushered": [
+          28
+        ],
+        "in": [
+          29,
+          41,
+          98
+        ],
+        "a": [
+          30,
+          51,
+          65
+        ],
+        "shallow": [
+          31,
+          57
+        ],
+        "marine": [
+          32,
+          58
+        ],
+        "environment": [
+          33
+        ],
+        "all": [
+          34
+        ],
+        "over": [
+          35
+        ],
+        "Jordan.": [
+          36
+        ],
+        "Later,": [
+          37
+        ],
+        "an": [
+          38,
+          82,
+          93
+        ],
+        "emergent": [
+          39
+        ],
+        "area,": [
+          40
+        ],
+        "only,": [
+          44
+        ],
+        "passes": [
+          45
+        ],
+        "upwards": [
+          46
+        ],
+        "and": [
+          47,
+          73,
+          88
+        ],
+        "laterally": [
+          48
+        ],
+        "eastwards": [
+          49
+        ],
+        "into": [
+          50
+        ],
+        "supratidal": [
+          52
+        ],
+        "environment,": [
+          53
+        ],
+        "followed": [
+          54
+        ],
+        "again": [
+          55
+        ],
+        "by": [
+          56,
+          64
+        ],
+        "conditions.": [
+          59
+        ],
+        "The": [
+          60
+        ],
+        "emergence": [
+          61
+        ],
+        "is": [
+          62,
+          77,
+          89
+        ],
+        "marked": [
+          63
+        ],
+        "major": [
+          66
+        ],
+        "eroisional": [
+          67
+        ],
+        "unconformity": [
+          68
+        ],
+        "with": [
+          69
+        ],
+        "wadi": [
+          70
+        ],
+        "deposits,": [
+          71
+        ],
+        "caliche": [
+          72
+        ],
+        "karstification.": [
+          74
+        ],
+        "believed": [
+          78
+        ],
+        "to": [
+          79,
+          91,
+          102,
+          109
+        ],
+        "have": [
+          80
+        ],
+        "been": [
+          81
+        ],
+        "island": [
+          83
+        ],
+        "during": [
+          84
+        ],
+        "Cenomanian": [
+          86
+        ],
+        "time": [
+          87
+        ],
+        "thought": [
+          90
+        ],
+        "be": [
+          92
+        ],
+        "example": [
+          94
+        ],
+        "vertical": [
+          96
+        ],
+        "tectonics": [
+          97
+        ],
+        "area": [
+          100
+        ],
+        "prior": [
+          101
+        ],
+        "Tertiary": [
+          103
+        ],
+        "rifting": [
+          104
+        ],
+        "Sea": [
+          108
+        ],
+        "west.": [
+          111
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25987,16 +26001,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -26636,16 +26650,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -26849,6 +26863,7 @@
             "University of Jordan",
             "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan",
@@ -26891,6 +26906,7 @@
           "raw_affiliation_strings": [
             "Natural Resources Authority, P. O. Box 7, Amman, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Natural Resources Authority, P. O. Box 7, Amman, Jordan",
@@ -26928,6 +26944,7 @@
             "University of Jordan",
             "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan",
@@ -26971,6 +26988,7 @@
             "University of Jordan",
             "Department of Applied and Environmental Geology, University of Jordan, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan",
@@ -26998,11 +27016,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.90295124,
+      "fwci": 0.9648,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.75456376,
+        "value": 0.7619961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27364,9 +27382,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -27383,8 +27401,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -27828,7 +27846,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28195,16 +28213,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -28785,9 +28803,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -28799,8 +28817,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -29047,6 +29065,7 @@
           "raw_affiliation_strings": [
             "Department of Geology and Mineralogy, University of Jordan\rAmman, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan\rAmman, Jordan",
@@ -29083,6 +29102,7 @@
           "raw_affiliation_strings": [
             "Department of Geology and Mineralogy, University of Jordan\rAmman, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan\rAmman, Jordan",
@@ -29104,11 +29124,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0317,
+      "fwci": 2.0598,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.83547242,
+        "value": 0.83790691,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29345,8 +29365,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -29782,7 +29802,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30268,8 +30288,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -30837,16 +30857,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -31211,8 +31231,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31926,16 +31946,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -32441,8 +32461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -32960,16 +32980,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -33935,16 +33955,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -35167,9 +35187,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -35181,8 +35201,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -35723,8 +35743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -36333,16 +36353,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -36980,8 +37000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -37686,16 +37706,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -38577,16 +38597,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -39201,16 +39221,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -40800,8 +40820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -41538,8 +41558,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -42222,7 +42242,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-19T21:40:30.786675",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42310,6 +42330,7 @@
           "raw_affiliation_strings": [
             "Department of Geology &amp; Mineralogy, The University of Jordan, Amman, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology &amp; Mineralogy, The University of Jordan, Amman, Jordan",
@@ -42331,11 +42352,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5399,
+      "fwci": 1.5824,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.79600887,
+        "value": 0.80273855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42563,16 +42584,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -42799,7 +42820,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43074,8 +43095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43551,16 +43572,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -44572,16 +44593,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47025,8 +47046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4248851121.pdf",
@@ -47577,16 +47598,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -47999,16 +48020,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48231,8 +48252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48571,8 +48592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4244546034.pdf",
@@ -49063,8 +49084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4252726123.pdf",
@@ -49580,16 +49601,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

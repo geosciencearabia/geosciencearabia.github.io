@@ -7912,1131 +7912,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1969483030",
-      "doi": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
-      "title": "AMMONOIDS AND THE TRIASSIC/JURASSIC BOUNDARY IN THE HIMALAYAS OF SOUTHERN TIBET",
-      "display_name": "AMMONOIDS AND THE TRIASSIC/JURASSIC BOUNDARY IN THE HIMALAYAS OF SOUTHERN TIBET",
-      "publication_year": 2007,
-      "publication_date": "2007-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1969483030",
-        "doi": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
-        "mag": "1969483030"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/j.1475-4983.2007.00648.x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S205194082",
-          "display_name": "Palaeontology",
-          "issn_l": "0031-0239",
-          "issn": [
-            "0031-0239",
-            "1475-4983"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Palaeontology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5108387603",
-            "display_name": "Jiarun Yin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3125743391",
-              "display_name": "China University of Geosciences (Beijing)",
-              "ror": "https://ror.org/04q6c7p66",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "JIARUN YIN",
-          "raw_affiliation_strings": [
-            "China University of Geosciences, 29 Xueyuan Lu, Beijing 100083, China; e-mail: yjr@cugb.edu.cn"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "China University of Geosciences, 29 Xueyuan Lu, Beijing 100083, China; e-mail: yjr@cugb.edu.cn",
-              "institution_ids": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061872836",
-            "display_name": "Paul L. Smith",
-            "orcid": "https://orcid.org/0000-0001-8421-4177"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I141945490",
-              "display_name": "University of British Columbia",
-              "ror": "https://ror.org/03rmrcq20",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I141945490"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "PAUL L. SMITH",
-          "raw_affiliation_strings": [
-            "Department of Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, V6T 1Z4, Canada; e-mail: psmith@eos.ubc.ca"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, V6T 1Z4, Canada; e-mail: psmith@eos.ubc.ca",
-              "institution_ids": [
-                "https://openalex.org/I141945490"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084687478",
-            "display_name": "József Pálfy",
-            "orcid": "https://orcid.org/0000-0001-9686-1849"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7597260",
-              "display_name": "Hungarian Academy of Sciences",
-              "ror": "https://ror.org/02ks8qq67",
-              "country_code": "HU",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I7597260"
-              ]
-            }
-          ],
-          "countries": [
-            "HU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "JÓZSEF PÁLFY",
-          "raw_affiliation_strings": [
-            "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu",
-              "institution_ids": [
-                "https://openalex.org/I7597260"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "RAYMOND ENAY",
-          "raw_affiliation_strings": [
-            "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5108387603"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I3125743391"
-      ],
-      "apc_list": {
-        "value": 4530,
-        "currency": "USD",
-        "value_usd": 4530
-      },
-      "apc_paid": null,
-      "fwci": 3.3931,
-      "has_fulltext": false,
-      "cited_by_count": 28,
-      "citation_normalized_percentile": {
-        "value": 0.91287622,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "50",
-        "issue": "3",
-        "first_page": "711",
-        "last_page": "737"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.9908000230789185,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.8075768947601318
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.795784592628479
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-succession",
-          "display_name": "Ecological succession",
-          "score": 0.6797324419021606
-        },
-        {
-          "id": "https://openalex.org/keywords/calcareous",
-          "display_name": "Calcareous",
-          "score": 0.5222945213317871
-        },
-        {
-          "id": "https://openalex.org/keywords/early-triassic",
-          "display_name": "Early Triassic",
-          "score": 0.45586326718330383
-        },
-        {
-          "id": "https://openalex.org/keywords/mesozoic",
-          "display_name": "Mesozoic",
-          "score": 0.4536724090576172
-        },
-        {
-          "id": "https://openalex.org/keywords/fauna",
-          "display_name": "Fauna",
-          "score": 0.43673160672187805
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.4332268238067627
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.1999853551387787
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.18876329064369202
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.11827921867370605
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.11375805735588074
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.8075768947601318
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.795784592628479
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.6797324419021606
-        },
-        {
-          "id": "https://openalex.org/C123552892",
-          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
-          "display_name": "Calcareous",
-          "level": 2,
-          "score": 0.5222945213317871
-        },
-        {
-          "id": "https://openalex.org/C2781229967",
-          "wikidata": "https://www.wikidata.org/wiki/Q1075885",
-          "display_name": "Early Triassic",
-          "level": 4,
-          "score": 0.45586326718330383
-        },
-        {
-          "id": "https://openalex.org/C202783661",
-          "wikidata": "https://www.wikidata.org/wiki/Q83222",
-          "display_name": "Mesozoic",
-          "level": 3,
-          "score": 0.4536724090576172
-        },
-        {
-          "id": "https://openalex.org/C125471540",
-          "wikidata": "https://www.wikidata.org/wiki/Q104021",
-          "display_name": "Fauna",
-          "level": 2,
-          "score": 0.43673160672187805
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.4332268238067627
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.1999853551387787
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.18876329064369202
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.11827921867370605
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.11375805735588074
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1111/j.1475-4983.2007.00648.x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S205194082",
-            "display_name": "Palaeontology",
-            "issn_l": "0031-0239",
-            "issn": [
-              "0031-0239",
-              "1475-4983"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Palaeontology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:CiteSeerX.psu:10.1.1.521.1512",
-          "is_oa": false,
-          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.521.1512",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "http://www.mttm.hu/~palfy/Yin_etal_2007_Palaeontology.pdf",
-          "raw_type": "text"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W566313317",
-        "https://openalex.org/W607632669",
-        "https://openalex.org/W625566074",
-        "https://openalex.org/W626720441",
-        "https://openalex.org/W637808442",
-        "https://openalex.org/W1934811342",
-        "https://openalex.org/W1972631340",
-        "https://openalex.org/W2006600342",
-        "https://openalex.org/W2023010402",
-        "https://openalex.org/W2028260604",
-        "https://openalex.org/W2034463147",
-        "https://openalex.org/W2048459684",
-        "https://openalex.org/W2048669985",
-        "https://openalex.org/W2069238727",
-        "https://openalex.org/W2073861986",
-        "https://openalex.org/W2087536897",
-        "https://openalex.org/W2102121278",
-        "https://openalex.org/W2118754469",
-        "https://openalex.org/W2154783288",
-        "https://openalex.org/W2204104315",
-        "https://openalex.org/W2392568525",
-        "https://openalex.org/W2468929608",
-        "https://openalex.org/W2513185484",
-        "https://openalex.org/W2518432352",
-        "https://openalex.org/W2582174001",
-        "https://openalex.org/W2599919059",
-        "https://openalex.org/W2610807920",
-        "https://openalex.org/W2731723244",
-        "https://openalex.org/W2792168856",
-        "https://openalex.org/W2909005005",
-        "https://openalex.org/W2909160706",
-        "https://openalex.org/W2909671294",
-        "https://openalex.org/W2923194866",
-        "https://openalex.org/W3011612754",
-        "https://openalex.org/W3022324199",
-        "https://openalex.org/W4205535024",
-        "https://openalex.org/W4214938487",
-        "https://openalex.org/W4237875058",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6616000080",
-        "https://openalex.org/W6735464627",
-        "https://openalex.org/W6736965860",
-        "https://openalex.org/W6757973049",
-        "https://openalex.org/W6892243089",
-        "https://openalex.org/W6911923937",
-        "https://openalex.org/W6991328826"
-      ],
-      "related_works": [
-        "https://openalex.org/W1984974371",
-        "https://openalex.org/W2375328343",
-        "https://openalex.org/W1881439788",
-        "https://openalex.org/W3148446407",
-        "https://openalex.org/W2145338454",
-        "https://openalex.org/W4251213602",
-        "https://openalex.org/W2497788881",
-        "https://openalex.org/W2478286986",
-        "https://openalex.org/W3136154069",
-        "https://openalex.org/W3186026392"
-      ],
-      "abstract_inverted_index": {
-        "Abstract:": [
-          0
-        ],
-        "The": [
-          1,
-          94,
-          117,
-          164,
-          180
-        ],
-        "sections": [
-          2
-        ],
-        "of": [
-          3,
-          15,
-          26,
-          103,
-          212
-        ],
-        "Germig": [
-          4
-        ],
-        "in": [
-          5,
-          110,
-          156,
-          175,
-          196,
-          216
-        ],
-        "the": [
-          6,
-          104,
-          111,
-          121,
-          129,
-          132,
-          136,
-          141,
-          148,
-          153,
-          157,
-          172,
-          176,
-          190,
-          193,
-          210,
-          213,
-          217
-        ],
-        "Nyalam": [
-          7
-        ],
-        "area,": [
-          8
-        ],
-        "southern": [
-          9
-        ],
-        "Tibet,": [
-          10
-        ],
-        "provide": [
-          11
-        ],
-        "a": [
-          12,
-          98,
-          183
-        ],
-        "continuous": [
-          13
-        ],
-        "exposure": [
-          14
-        ],
-        "ammonoid‐bearing,": [
-          16
-        ],
-        "uppermost": [
-          17
-        ],
-        "Triassic": [
-          18
-        ],
-        "and": [
-          19,
-          31,
-          91,
-          140,
-          166,
-          192,
-          202
-        ],
-        "basal": [
-          20,
-          133
-        ],
-        "Jurassic": [
-          21,
-          214
-        ],
-        "strata.": [
-          22
-        ],
-        "Eighteen": [
-          23
-        ],
-        "species": [
-          24
-        ],
-        "(three": [
-          25
-        ],
-        "them": [
-          27
-        ],
-        "new)": [
-          28
-        ],
-        "are": [
-          29,
-          169
-        ],
-        "described": [
-          30
-        ],
-        "illustrated:": [
-          32
-        ],
-        "Choristoceras": [
-          33
-        ],
-        "marshi": [
-          34
-        ],
-        "Hauer": [
-          35
-        ],
-        ",": [
-          36,
-          44,
-          53,
-          58,
-          90
-        ],
-        "C.": [
-          37,
-          40,
-          45
-        ],
-        "aff.": [
-          38,
-          55
-        ],
-        "marshi,": [
-          39
-        ],
-        "cf.": [
-          41,
-          62,
-          69,
-          80
-        ],
-        "nobile": [
-          42
-        ],
-        "Mojsisovics": [
-          43
-        ],
-        "nyalamense": [
-          46
-        ],
-        "sp.": [
-          47,
-          51,
-          66,
-          74,
-          93
-        ],
-        "nov.,": [
-          48,
-          75
-        ],
-        "Eopsiloceras": [
-          49
-        ],
-        "germigense": [
-          50
-        ],
-        "nov.": [
-          52
-        ],
-        "Pleuroacanthites": [
-          54
-        ],
-        "biformis": [
-          56
-        ],
-        "(Sowerby)": [
-          57
-        ],
-        "Rhacophyllites": [
-          59
-        ],
-        "sp.,": [
-          60
-        ],
-        "Nevadaphyllites": [
-          61
-        ],
-        "psilomorphus": [
-          63
-        ],
-        "(Neumayr),": [
-          64,
-          78,
-          82
-        ],
-        "Neophyllites": [
-          65,
-          68
-        ],
-        "indet.,": [
-          67
-        ],
-        "biptychus": [
-          70
-        ],
-        "(Lange),": [
-          71
-        ],
-        "Psiloceras": [
-          72
-        ],
-        "tibeticum": [
-          73
-        ],
-        "P.": [
-          76
-        ],
-        "calliphyllum": [
-          77
-        ],
-        "Euphyllites": [
-          79
-        ],
-        "struckmanni": [
-          81
-        ],
-        "Discamphiceras": [
-          83
-        ],
-        "pleuronotum": [
-          84
-        ],
-        "(Canavari),": [
-          85
-        ],
-        "Alsatites": [
-          86
-        ],
-        "spp.,": [
-          87
-        ],
-        "Kammerkarites": [
-          88
-        ],
-        "frigga": [
-          89
-        ],
-        "K.": [
-          92
-        ],
-        "ammonoid": [
-          95,
-          118
-        ],
-        "fauna": [
-          96
-        ],
-        "shows": [
-          97
-        ],
-        "strong": [
-          99
-        ],
-        "affinity": [
-          100
-        ],
-        "to": [
-          101,
-          208
-        ],
-        "that": [
-          102,
-          160,
-          197
-        ],
-        "Northern": [
-          105,
-          177
-        ],
-        "Calcareous": [
-          106,
-          178
-        ],
-        "Alps,": [
-          107
-        ],
-        "although": [
-          108
-        ],
-        "diversity": [
-          109
-        ],
-        "Calliphyllum": [
-          112,
-          167,
-          194
-        ],
-        "Zone": [
-          113
-        ],
-        "is": [
-          114,
-          124,
-          147,
-          161,
-          187,
-          206
-        ],
-        "markedly": [
-          115
-        ],
-        "lower.": [
-          116
-        ],
-        "succession": [
-          119,
-          151
-        ],
-        "across": [
-          120,
-          152
-        ],
-        "Triassic/Jurassic": [
-          122,
-          154
-        ],
-        "boundary": [
-          123,
-          155
-        ],
-        "subdivided": [
-          125
-        ],
-        "into": [
-          126
-        ],
-        "four": [
-          127
-        ],
-        "zones:": [
-          128
-        ],
-        "Rhaetian": [
-          130
-        ],
-        "Marshi,": [
-          131
-        ],
-        "Hettangian": [
-          134,
-          138,
-          143
-        ],
-        "Tibeticum,": [
-          135
-        ],
-        "lower": [
-          137
-        ],
-        "Calliphyllum,": [
-          139
-        ],
-        "middle": [
-          142
-        ],
-        "Pleuronotum": [
-          144
-        ],
-        "zones.": [
-          145
-        ],
-        "It": [
-          146
-        ],
-        "only": [
-          149
-        ],
-        "known": [
-          150
-        ],
-        "Tethyan": [
-          158
-        ],
-        "Realm": [
-          159
-        ],
-        "not": [
-          162
-        ],
-        "condensed.": [
-          163
-        ],
-        "Marshi": [
-          165,
-          191
-        ],
-        "zones": [
-          168,
-          174,
-          195
-        ],
-        "correlated": [
-          170
-        ],
-        "with": [
-          171
-        ],
-        "same": [
-          173
-        ],
-        "Alps.": [
-          179
-        ],
-        "Tibeticum": [
-          181
-        ],
-        "Zone,": [
-          182
-        ],
-        "new": [
-          184
-        ],
-        "local": [
-          185
-        ],
-        "zone,": [
-          186
-        ],
-        "transitional": [
-          188
-        ],
-        "between": [
-          189
-        ],
-        "it": [
-          198
-        ],
-        "yields": [
-          199
-        ],
-        "both": [
-          200
-        ],
-        "choristoceratids": [
-          201
-        ],
-        "psiloceratids.": [
-          203
-        ],
-        "Its": [
-          204
-        ],
-        "base": [
-          205,
-          211
-        ],
-        "taken": [
-          207
-        ],
-        "mark": [
-          209
-        ],
-        "System": [
-          215
-        ],
-        "eastern": [
-          218
-        ],
-        "Tethys.": [
-          219
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-04-04T16:13:02.066488",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2069404292",
       "doi": "https://doi.org/10.1016/s0016-6995(94)80018-9",
       "title": "Les ammonites descalcaires lithographiques de Cerin (Ain, France): Stratigraphie et taphonomie",
@@ -10242,1213 +9117,6 @@
       ],
       "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2082045909",
-      "doi": "https://doi.org/10.2113/175.2.107",
-      "title": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
-      "display_name": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
-      "publication_year": 2004,
-      "publication_date": "2004-03-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2082045909",
-        "doi": "https://doi.org/10.2113/175.2.107",
-        "mag": "2082045909"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/175.2.107",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/175.2.107",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S12747430",
-          "display_name": "Bulletin de la Société Géologique de France",
-          "issn_l": "0037-9409",
-          "issn": [
-            "0037-9409",
-            "1777-5817"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319748",
-          "host_organization_name": "EDP Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319748"
-          ],
-          "host_organization_lineage_names": [
-            "EDP Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Bulletin de la Société Géologique de France",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5110130149",
-            "display_name": "Christian Gaillard",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Christian Gaillard",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068894767",
-            "display_name": "Laurent Emmanuel",
-            "orcid": "https://orcid.org/0000-0001-9905-3986"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Laurent Emmanuel",
-          "raw_affiliation_strings": [
-            "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5041328041",
-            "display_name": "Micheline Hanzo",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I90183372",
-              "display_name": "Université de Lorraine",
-              "ror": "https://ror.org/04vfs2w97",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Micheline Hanzo",
-          "raw_affiliation_strings": [
-            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
-              "institution_ids": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044568829",
-            "display_name": "Bernard Lathuilière",
-            "orcid": "https://orcid.org/0000-0001-5088-3057"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I90183372",
-              "display_name": "Université de Lorraine",
-              "ror": "https://ror.org/04vfs2w97",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bernard Lathuiliere",
-          "raw_affiliation_strings": [
-            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
-              "institution_ids": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039086654",
-            "display_name": "François Atrops",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "François Atrops",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036229728",
-            "display_name": "Y. Bodeur",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97188460",
-              "display_name": "Nantes Université",
-              "ror": "https://ror.org/03gnr7b55",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I97188460"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves Bodeur",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr",
-              "institution_ids": [
-                "https://openalex.org/I97188460"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061022136",
-            "display_name": "Abdelkader Bouhamdi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelkader Bouhamdi",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113783964",
-            "display_name": "Didier Marchand",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158426",
-              "display_name": "Biogéosciences",
-              "ror": "https://ror.org/04mzqjs78",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I159885104",
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210158426",
-                "https://openalex.org/I4407990431"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I177064439",
-              "display_name": "Université de Bourgogne",
-              "ror": "https://ror.org/03k1bsr36",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177064439"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Didier Marchand",
-          "raw_affiliation_strings": [
-            "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr",
-              "institution_ids": [
-                "https://openalex.org/I4210158426",
-                "https://openalex.org/I177064439"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057797380",
-            "display_name": "Christiane Ruget",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Christiane Ruget",
-          "raw_affiliation_strings": [
-            "Chipier, route de Pimotin, F 69420 Tupin et Semons, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Chipier, route de Pimotin, F 69420 Tupin et Semons, France",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5017337735",
-            "display_name": "Winfried Werner",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I150569930",
-              "display_name": "Bayer (United States)",
-              "ror": "https://ror.org/034ffbg36",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I150569930",
-                "https://openalex.org/I67348948"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Winfried Werner",
-          "raw_affiliation_strings": [
-            "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de",
-              "institution_ids": [
-                "https://openalex.org/I150569930"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5110130149"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I100532134"
-      ],
-      "apc_list": {
-        "value": 500,
-        "currency": "EUR",
-        "value_usd": 539
-      },
-      "apc_paid": null,
-      "fwci": 2.2899,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.88954313,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "175",
-        "issue": "2",
-        "first_page": "107",
-        "last_page": "119"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9990000128746033,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9959999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8943531513214111
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.650587797164917
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6043425798416138
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5789819955825806
-        },
-        {
-          "id": "https://openalex.org/keywords/period",
-          "display_name": "Period (music)",
-          "score": 0.5739591717720032
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentation",
-          "display_name": "Sedimentation",
-          "score": 0.5420225262641907
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-succession",
-          "display_name": "Ecological succession",
-          "score": 0.5358741283416748
-        },
-        {
-          "id": "https://openalex.org/keywords/subsidence",
-          "display_name": "Subsidence",
-          "score": 0.5139157772064209
-        },
-        {
-          "id": "https://openalex.org/keywords/marl",
-          "display_name": "Marl",
-          "score": 0.49789905548095703
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.44637829065322876
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.4299236536026001
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.4270809590816498
-        },
-        {
-          "id": "https://openalex.org/keywords/calcareous",
-          "display_name": "Calcareous",
-          "score": 0.4205377697944641
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.3540707230567932
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.3073178231716156
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.1339741051197052
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8943531513214111
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.650587797164917
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6043425798416138
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.5789819955825806
-        },
-        {
-          "id": "https://openalex.org/C2781291010",
-          "wikidata": "https://www.wikidata.org/wiki/Q178580",
-          "display_name": "Period (music)",
-          "level": 2,
-          "score": 0.5739591717720032
-        },
-        {
-          "id": "https://openalex.org/C29941650",
-          "wikidata": "https://www.wikidata.org/wiki/Q635485",
-          "display_name": "Sedimentation",
-          "level": 3,
-          "score": 0.5420225262641907
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.5358741283416748
-        },
-        {
-          "id": "https://openalex.org/C180851071",
-          "wikidata": "https://www.wikidata.org/wiki/Q849953",
-          "display_name": "Subsidence",
-          "level": 3,
-          "score": 0.5139157772064209
-        },
-        {
-          "id": "https://openalex.org/C92927620",
-          "wikidata": "https://www.wikidata.org/wiki/Q184053",
-          "display_name": "Marl",
-          "level": 3,
-          "score": 0.49789905548095703
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.44637829065322876
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.4299236536026001
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.4270809590816498
-        },
-        {
-          "id": "https://openalex.org/C123552892",
-          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
-          "display_name": "Calcareous",
-          "level": 2,
-          "score": 0.4205377697944641
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.3540707230567932
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.3073178231716156
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.1339741051197052
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/175.2.107",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/175.2.107",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S12747430",
-            "display_name": "Bulletin de la Société Géologique de France",
-            "issn_l": "0037-9409",
-            "issn": [
-              "0037-9409",
-              "1777-5817"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319748",
-            "host_organization_name": "EDP Sciences",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319748"
-            ],
-            "host_organization_lineage_names": [
-              "EDP Sciences"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Bulletin de la Société Géologique de France",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2126019709",
-        "https://openalex.org/W1702901972",
-        "https://openalex.org/W4249798507",
-        "https://openalex.org/W2069775250",
-        "https://openalex.org/W2093541819",
-        "https://openalex.org/W2032294417",
-        "https://openalex.org/W2152754392",
-        "https://openalex.org/W4389106489",
-        "https://openalex.org/W3216978234",
-        "https://openalex.org/W2596234422"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Middle": [
-          1
-        ],
-        "Oxfordian": [
-          2
-        ],
-        "sedimentation": [
-          3,
-          56,
-          128
-        ],
-        "is": [
-          4,
-          11
-        ],
-        "very": [
-          5
-        ],
-        "homogeneous": [
-          6
-        ],
-        "in": [
-          7,
-          37,
-          89,
-          129
-        ],
-        "southeastern": [
-          8,
-          130
-        ],
-        "France.": [
-          9
-        ],
-        "It": [
-          10
-        ],
-        "characterized": [
-          12
-        ],
-        "by": [
-          13,
-          136
-        ],
-        "a": [
-          14,
-          52,
-          58,
-          73
-        ],
-        "specific": [
-          15
-        ],
-        "alternation": [
-          16
-        ],
-        "of": [
-          17,
-          30,
-          72,
-          115,
-          118
-        ],
-        "marls": [
-          18
-        ],
-        "and": [
-          19,
-          64,
-          93,
-          101
-        ],
-        "fine-grained": [
-          20
-        ],
-        "limestones": [
-          21
-        ],
-        "(G.": [
-          22
-        ],
-        "transversarium": [
-          23
-        ],
-        "Zone).": [
-          24
-        ],
-        "This": [
-          25,
-          67,
-          124
-        ],
-        "work": [
-          26
-        ],
-        "shows": [
-          27,
-          126
-        ],
-        "that": [
-          28,
-          127
-        ],
-        "sets": [
-          29
-        ],
-        "calcareous": [
-          31
-        ],
-        "beds": [
-          32
-        ],
-        "allow": [
-          33
-        ],
-        "accurate": [
-          34
-        ],
-        "stratigraphic": [
-          35
-        ],
-        "correlations": [
-          36
-        ],
-        "various": [
-          38
-        ],
-        "paleogeographic": [
-          39
-        ],
-        "areas,": [
-          40
-        ],
-        "from": [
-          41
-        ],
-        "the": [
-          42,
-          47,
-          70,
-          90,
-          99,
-          102,
-          108,
-          116,
-          119
-        ],
-        "shallow": [
-          43
-        ],
-        "Jura": [
-          44
-        ],
-        "platform": [
-          45,
-          100
-        ],
-        "to": [
-          46,
-          69,
-          79,
-          95,
-          112
-        ],
-        "deep": [
-          48
-        ],
-        "Dauphinois": [
-          49
-        ],
-        "basin.": [
-          50,
-          103
-        ],
-        "Following": [
-          51
-        ],
-        "rifting": [
-          53
-        ],
-        "period,": [
-          54
-        ],
-        "this": [
-          55
-        ],
-        "illustrates": [
-          57
-        ],
-        "doming": [
-          59
-        ],
-        "period": [
-          60
-        ],
-        "with": [
-          61
-        ],
-        "decreasing": [
-          62
-        ],
-        "subsidence": [
-          63
-        ],
-        "water": [
-          65
-        ],
-        "depth.": [
-          66
-        ],
-        "corresponds": [
-          68
-        ],
-        "establishment": [
-          71
-        ],
-        "wide": [
-          74
-        ],
-        "marine": [
-          75
-        ],
-        "area": [
-          76
-        ],
-        "more": [
-          77
-        ],
-        "favourable": [
-          78
-        ],
-        "carbonate": [
-          80
-        ],
-        "sedimentation.": [
-          81
-        ],
-        "Considering": [
-          82
-        ],
-        "sequence": [
-          83
-        ],
-        "stratigraphy,": [
-          84
-        ],
-        "some": [
-          85
-        ],
-        "slight": [
-          86
-        ],
-        "variations": [
-          87
-        ],
-        "occur": [
-          88
-        ],
-        "sediment": [
-          91
-        ],
-        "record": [
-          92
-        ],
-        "lead": [
-          94
-        ],
-        "interesting": [
-          96
-        ],
-        "comparisons": [
-          97
-        ],
-        "between": [
-          98
-        ],
-        "The": [
-          104
-        ],
-        "geochemical": [
-          105
-        ],
-        "evolution,": [
-          106
-        ],
-        "mainly": [
-          107
-        ],
-        "manganese": [
-          109
-        ],
-        "content,": [
-          110
-        ],
-        "seems": [
-          111
-        ],
-        "be": [
-          113,
-          133
-        ],
-        "dependant": [
-          114
-        ],
-        "activity": [
-          117
-        ],
-        "Ligurian": [
-          120
-        ],
-        "Tethys": [
-          121
-        ],
-        "oceanic": [
-          122
-        ],
-        "ridge.": [
-          123
-        ],
-        "fact": [
-          125
-        ],
-        "France": [
-          131
-        ],
-        "could": [
-          132
-        ],
-        "significantly": [
-          134
-        ],
-        "controlled": [
-          135
-        ],
-        "tectono-eustasy.": [
-          137
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W2243805225",
@@ -13052,6 +10720,1135 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1969483030",
+      "doi": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
+      "title": "AMMONOIDS AND THE TRIASSIC/JURASSIC BOUNDARY IN THE HIMALAYAS OF SOUTHERN TIBET",
+      "display_name": "AMMONOIDS AND THE TRIASSIC/JURASSIC BOUNDARY IN THE HIMALAYAS OF SOUTHERN TIBET",
+      "publication_year": 2007,
+      "publication_date": "2007-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1969483030",
+        "doi": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
+        "mag": "1969483030"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/j.1475-4983.2007.00648.x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S205194082",
+          "display_name": "Palaeontology",
+          "issn_l": "0031-0239",
+          "issn": [
+            "0031-0239",
+            "1475-4983"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Palaeontology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108387603",
+            "display_name": "Jiarun Yin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3125743391",
+              "display_name": "China University of Geosciences (Beijing)",
+              "ror": "https://ror.org/04q6c7p66",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "JIARUN YIN",
+          "raw_affiliation_strings": [
+            "China University of Geosciences, 29 Xueyuan Lu, Beijing 100083, China; e-mail: yjr@cugb.edu.cn"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "China University of Geosciences, 29 Xueyuan Lu, Beijing 100083, China; e-mail: yjr@cugb.edu.cn",
+              "institution_ids": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061872836",
+            "display_name": "Paul L. Smith",
+            "orcid": "https://orcid.org/0000-0001-8421-4177"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I141945490",
+              "display_name": "University of British Columbia",
+              "ror": "https://ror.org/03rmrcq20",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I141945490"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "PAUL L. SMITH",
+          "raw_affiliation_strings": [
+            "Department of Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, V6T 1Z4, Canada; e-mail: psmith@eos.ubc.ca"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, V6T 1Z4, Canada; e-mail: psmith@eos.ubc.ca",
+              "institution_ids": [
+                "https://openalex.org/I141945490"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084687478",
+            "display_name": "József Pálfy",
+            "orcid": "https://orcid.org/0000-0001-9686-1849"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7597260",
+              "display_name": "Hungarian Academy of Sciences",
+              "ror": "https://ror.org/02ks8qq67",
+              "country_code": "HU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I7597260"
+              ]
+            }
+          ],
+          "countries": [
+            "HU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "JÓZSEF PÁLFY",
+          "raw_affiliation_strings": [
+            "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu",
+              "institution_ids": [
+                "https://openalex.org/I7597260"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "RAYMOND ENAY",
+          "raw_affiliation_strings": [
+            "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5108387603"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I3125743391"
+      ],
+      "apc_list": {
+        "value": 4530,
+        "currency": "USD",
+        "value_usd": 4530
+      },
+      "apc_paid": null,
+      "fwci": 3.3419,
+      "has_fulltext": false,
+      "cited_by_count": 28,
+      "citation_normalized_percentile": {
+        "value": 0.91220541,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "50",
+        "issue": "3",
+        "first_page": "711",
+        "last_page": "737"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.9908000230789185,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.8075768947601318
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.795784592628479
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-succession",
+          "display_name": "Ecological succession",
+          "score": 0.6797324419021606
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous",
+          "display_name": "Calcareous",
+          "score": 0.5222945213317871
+        },
+        {
+          "id": "https://openalex.org/keywords/early-triassic",
+          "display_name": "Early Triassic",
+          "score": 0.45586326718330383
+        },
+        {
+          "id": "https://openalex.org/keywords/mesozoic",
+          "display_name": "Mesozoic",
+          "score": 0.4536724090576172
+        },
+        {
+          "id": "https://openalex.org/keywords/fauna",
+          "display_name": "Fauna",
+          "score": 0.43673160672187805
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.4332268238067627
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.1999853551387787
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.18876329064369202
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.11827921867370605
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.11375805735588074
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.8075768947601318
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.795784592628479
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.6797324419021606
+        },
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.5222945213317871
+        },
+        {
+          "id": "https://openalex.org/C2781229967",
+          "wikidata": "https://www.wikidata.org/wiki/Q1075885",
+          "display_name": "Early Triassic",
+          "level": 4,
+          "score": 0.45586326718330383
+        },
+        {
+          "id": "https://openalex.org/C202783661",
+          "wikidata": "https://www.wikidata.org/wiki/Q83222",
+          "display_name": "Mesozoic",
+          "level": 3,
+          "score": 0.4536724090576172
+        },
+        {
+          "id": "https://openalex.org/C125471540",
+          "wikidata": "https://www.wikidata.org/wiki/Q104021",
+          "display_name": "Fauna",
+          "level": 2,
+          "score": 0.43673160672187805
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.4332268238067627
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.1999853551387787
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.18876329064369202
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.11827921867370605
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.11375805735588074
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1111/j.1475-4983.2007.00648.x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S205194082",
+            "display_name": "Palaeontology",
+            "issn_l": "0031-0239",
+            "issn": [
+              "0031-0239",
+              "1475-4983"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Palaeontology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.521.1512",
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.521.1512",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://www.mttm.hu/~palfy/Yin_etal_2007_Palaeontology.pdf",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W566313317",
+        "https://openalex.org/W607632669",
+        "https://openalex.org/W625566074",
+        "https://openalex.org/W626720441",
+        "https://openalex.org/W637808442",
+        "https://openalex.org/W1934811342",
+        "https://openalex.org/W1972631340",
+        "https://openalex.org/W2006600342",
+        "https://openalex.org/W2023010402",
+        "https://openalex.org/W2028260604",
+        "https://openalex.org/W2034463147",
+        "https://openalex.org/W2048459684",
+        "https://openalex.org/W2048669985",
+        "https://openalex.org/W2069238727",
+        "https://openalex.org/W2073861986",
+        "https://openalex.org/W2087536897",
+        "https://openalex.org/W2102121278",
+        "https://openalex.org/W2118754469",
+        "https://openalex.org/W2154783288",
+        "https://openalex.org/W2204104315",
+        "https://openalex.org/W2392568525",
+        "https://openalex.org/W2468929608",
+        "https://openalex.org/W2513185484",
+        "https://openalex.org/W2518432352",
+        "https://openalex.org/W2582174001",
+        "https://openalex.org/W2599919059",
+        "https://openalex.org/W2610807920",
+        "https://openalex.org/W2731723244",
+        "https://openalex.org/W2792168856",
+        "https://openalex.org/W2909005005",
+        "https://openalex.org/W2909160706",
+        "https://openalex.org/W2909671294",
+        "https://openalex.org/W2923194866",
+        "https://openalex.org/W3011612754",
+        "https://openalex.org/W3022324199",
+        "https://openalex.org/W4205535024",
+        "https://openalex.org/W4214938487",
+        "https://openalex.org/W4237875058",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6616000080",
+        "https://openalex.org/W6735464627",
+        "https://openalex.org/W6736965860",
+        "https://openalex.org/W6757973049",
+        "https://openalex.org/W6892243089",
+        "https://openalex.org/W6911923937",
+        "https://openalex.org/W6991328826"
+      ],
+      "related_works": [
+        "https://openalex.org/W1984974371",
+        "https://openalex.org/W2375328343",
+        "https://openalex.org/W1881439788",
+        "https://openalex.org/W3148446407",
+        "https://openalex.org/W2145338454",
+        "https://openalex.org/W4251213602",
+        "https://openalex.org/W2497788881",
+        "https://openalex.org/W2478286986",
+        "https://openalex.org/W3136154069",
+        "https://openalex.org/W3186026392"
+      ],
+      "abstract_inverted_index": {
+        "Abstract:": [
+          0
+        ],
+        "The": [
+          1,
+          94,
+          117,
+          164,
+          180
+        ],
+        "sections": [
+          2
+        ],
+        "of": [
+          3,
+          15,
+          26,
+          103,
+          212
+        ],
+        "Germig": [
+          4
+        ],
+        "in": [
+          5,
+          110,
+          156,
+          175,
+          196,
+          216
+        ],
+        "the": [
+          6,
+          104,
+          111,
+          121,
+          129,
+          132,
+          136,
+          141,
+          148,
+          153,
+          157,
+          172,
+          176,
+          190,
+          193,
+          210,
+          213,
+          217
+        ],
+        "Nyalam": [
+          7
+        ],
+        "area,": [
+          8
+        ],
+        "southern": [
+          9
+        ],
+        "Tibet,": [
+          10
+        ],
+        "provide": [
+          11
+        ],
+        "a": [
+          12,
+          98,
+          183
+        ],
+        "continuous": [
+          13
+        ],
+        "exposure": [
+          14
+        ],
+        "ammonoid‐bearing,": [
+          16
+        ],
+        "uppermost": [
+          17
+        ],
+        "Triassic": [
+          18
+        ],
+        "and": [
+          19,
+          31,
+          91,
+          140,
+          166,
+          192,
+          202
+        ],
+        "basal": [
+          20,
+          133
+        ],
+        "Jurassic": [
+          21,
+          214
+        ],
+        "strata.": [
+          22
+        ],
+        "Eighteen": [
+          23
+        ],
+        "species": [
+          24
+        ],
+        "(three": [
+          25
+        ],
+        "them": [
+          27
+        ],
+        "new)": [
+          28
+        ],
+        "are": [
+          29,
+          169
+        ],
+        "described": [
+          30
+        ],
+        "illustrated:": [
+          32
+        ],
+        "Choristoceras": [
+          33
+        ],
+        "marshi": [
+          34
+        ],
+        "Hauer": [
+          35
+        ],
+        ",": [
+          36,
+          44,
+          53,
+          58,
+          90
+        ],
+        "C.": [
+          37,
+          40,
+          45
+        ],
+        "aff.": [
+          38,
+          55
+        ],
+        "marshi,": [
+          39
+        ],
+        "cf.": [
+          41,
+          62,
+          69,
+          80
+        ],
+        "nobile": [
+          42
+        ],
+        "Mojsisovics": [
+          43
+        ],
+        "nyalamense": [
+          46
+        ],
+        "sp.": [
+          47,
+          51,
+          66,
+          74,
+          93
+        ],
+        "nov.,": [
+          48,
+          75
+        ],
+        "Eopsiloceras": [
+          49
+        ],
+        "germigense": [
+          50
+        ],
+        "nov.": [
+          52
+        ],
+        "Pleuroacanthites": [
+          54
+        ],
+        "biformis": [
+          56
+        ],
+        "(Sowerby)": [
+          57
+        ],
+        "Rhacophyllites": [
+          59
+        ],
+        "sp.,": [
+          60
+        ],
+        "Nevadaphyllites": [
+          61
+        ],
+        "psilomorphus": [
+          63
+        ],
+        "(Neumayr),": [
+          64,
+          78,
+          82
+        ],
+        "Neophyllites": [
+          65,
+          68
+        ],
+        "indet.,": [
+          67
+        ],
+        "biptychus": [
+          70
+        ],
+        "(Lange),": [
+          71
+        ],
+        "Psiloceras": [
+          72
+        ],
+        "tibeticum": [
+          73
+        ],
+        "P.": [
+          76
+        ],
+        "calliphyllum": [
+          77
+        ],
+        "Euphyllites": [
+          79
+        ],
+        "struckmanni": [
+          81
+        ],
+        "Discamphiceras": [
+          83
+        ],
+        "pleuronotum": [
+          84
+        ],
+        "(Canavari),": [
+          85
+        ],
+        "Alsatites": [
+          86
+        ],
+        "spp.,": [
+          87
+        ],
+        "Kammerkarites": [
+          88
+        ],
+        "frigga": [
+          89
+        ],
+        "K.": [
+          92
+        ],
+        "ammonoid": [
+          95,
+          118
+        ],
+        "fauna": [
+          96
+        ],
+        "shows": [
+          97
+        ],
+        "strong": [
+          99
+        ],
+        "affinity": [
+          100
+        ],
+        "to": [
+          101,
+          208
+        ],
+        "that": [
+          102,
+          160,
+          197
+        ],
+        "Northern": [
+          105,
+          177
+        ],
+        "Calcareous": [
+          106,
+          178
+        ],
+        "Alps,": [
+          107
+        ],
+        "although": [
+          108
+        ],
+        "diversity": [
+          109
+        ],
+        "Calliphyllum": [
+          112,
+          167,
+          194
+        ],
+        "Zone": [
+          113
+        ],
+        "is": [
+          114,
+          124,
+          147,
+          161,
+          187,
+          206
+        ],
+        "markedly": [
+          115
+        ],
+        "lower.": [
+          116
+        ],
+        "succession": [
+          119,
+          151
+        ],
+        "across": [
+          120,
+          152
+        ],
+        "Triassic/Jurassic": [
+          122,
+          154
+        ],
+        "boundary": [
+          123,
+          155
+        ],
+        "subdivided": [
+          125
+        ],
+        "into": [
+          126
+        ],
+        "four": [
+          127
+        ],
+        "zones:": [
+          128
+        ],
+        "Rhaetian": [
+          130
+        ],
+        "Marshi,": [
+          131
+        ],
+        "Hettangian": [
+          134,
+          138,
+          143
+        ],
+        "Tibeticum,": [
+          135
+        ],
+        "lower": [
+          137
+        ],
+        "Calliphyllum,": [
+          139
+        ],
+        "middle": [
+          142
+        ],
+        "Pleuronotum": [
+          144
+        ],
+        "zones.": [
+          145
+        ],
+        "It": [
+          146
+        ],
+        "only": [
+          149
+        ],
+        "known": [
+          150
+        ],
+        "Tethyan": [
+          158
+        ],
+        "Realm": [
+          159
+        ],
+        "not": [
+          162
+        ],
+        "condensed.": [
+          163
+        ],
+        "Marshi": [
+          165,
+          191
+        ],
+        "zones": [
+          168,
+          174,
+          195
+        ],
+        "correlated": [
+          170
+        ],
+        "with": [
+          171
+        ],
+        "same": [
+          173
+        ],
+        "Alps.": [
+          179
+        ],
+        "Tibeticum": [
+          181
+        ],
+        "Zone,": [
+          182
+        ],
+        "new": [
+          184
+        ],
+        "local": [
+          185
+        ],
+        "zone,": [
+          186
+        ],
+        "transitional": [
+          188
+        ],
+        "between": [
+          189
+        ],
+        "it": [
+          198
+        ],
+        "yields": [
+          199
+        ],
+        "both": [
+          200
+        ],
+        "choristoceratids": [
+          201
+        ],
+        "psiloceratids.": [
+          203
+        ],
+        "Its": [
+          204
+        ],
+        "base": [
+          205,
+          211
+        ],
+        "taken": [
+          207
+        ],
+        "mark": [
+          209
+        ],
+        "System": [
+          215
+        ],
+        "eastern": [
+          218
+        ],
+        "Tethys.": [
+          219
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2982658177",
       "doi": "https://doi.org/10.2113/geoarabia140117",
       "title": "The Wadi ad Dawasir “delta”, central Saudi Arabia: A relative sea-level fall of Early Bathonian age",
@@ -13526,11 +12323,10 @@
       "funders": [],
       "has_content": {
         "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": false
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2982658177.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2982658177.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2982658177.pdf"
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -14325,7 +13121,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17298,21 +16094,21 @@
           "is_corresponding": false,
           "raw_author_name": "Johann Schnyder",
           "raw_affiliation_strings": [
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
-              ]
-            },
-            {
               "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
               "institution_ids": [
                 "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
               ]
             }
           ]
@@ -17369,12 +16165,18 @@
           "is_corresponding": false,
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
+              ]
+            },
             {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
               "institution_ids": [
@@ -17386,12 +16188,6 @@
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -18530,7 +17326,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19256,6 +18052,1239 @@
         },
         {
           "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T09:19:25.381259",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2082045909",
+      "doi": "https://doi.org/10.2113/175.2.107",
+      "title": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
+      "display_name": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
+      "publication_year": 2004,
+      "publication_date": "2004-03-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2082045909",
+        "doi": "https://doi.org/10.2113/175.2.107",
+        "mag": "2082045909"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/175.2.107",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/175.2.107",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S12747430",
+          "display_name": "Bulletin de la Société Géologique de France",
+          "issn_l": "0037-9409",
+          "issn": [
+            "0037-9409",
+            "1777-5817"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319748",
+          "host_organization_name": "EDP Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319748"
+          ],
+          "host_organization_lineage_names": [
+            "EDP Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Bulletin de la Société Géologique de France",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110130149",
+            "display_name": "Christian Gaillard",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Christian Gaillard",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068894767",
+            "display_name": "Laurent Emmanuel",
+            "orcid": "https://orcid.org/0000-0001-9905-3986"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Laurent Emmanuel",
+          "raw_affiliation_strings": [
+            "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041328041",
+            "display_name": "Micheline Hanzo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I90183372",
+              "display_name": "Université de Lorraine",
+              "ror": "https://ror.org/04vfs2w97",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Micheline Hanzo",
+          "raw_affiliation_strings": [
+            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
+              "institution_ids": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044568829",
+            "display_name": "Bernard Lathuilière",
+            "orcid": "https://orcid.org/0000-0001-5088-3057"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I90183372",
+              "display_name": "Université de Lorraine",
+              "ror": "https://ror.org/04vfs2w97",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bernard Lathuiliere",
+          "raw_affiliation_strings": [
+            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
+              "institution_ids": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039086654",
+            "display_name": "François Atrops",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "François Atrops",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036229728",
+            "display_name": "Y. Bodeur",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97188460",
+              "display_name": "Nantes Université",
+              "ror": "https://ror.org/03gnr7b55",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97188460"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves Bodeur",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr",
+              "institution_ids": [
+                "https://openalex.org/I97188460"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061022136",
+            "display_name": "Abdelkader Bouhamdi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelkader Bouhamdi",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113783964",
+            "display_name": "Didier Marchand",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158426",
+              "display_name": "Biogéosciences",
+              "ror": "https://ror.org/04mzqjs78",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I159885104",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210158426",
+                "https://openalex.org/I4405253280"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Didier Marchand",
+          "raw_affiliation_strings": [
+            "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr",
+              "institution_ids": [
+                "https://openalex.org/I4210158426",
+                "https://openalex.org/I177064439"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057797380",
+            "display_name": "Christiane Ruget",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I123791789",
+              "display_name": "Saint-Gobain (France)",
+              "ror": "https://ror.org/02fdb8q57",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I123791789"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christiane Ruget",
+          "raw_affiliation_strings": [
+            "Chipier, route de Pimotin, F 69420 Tupin et Semons, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chipier, route de Pimotin, F 69420 Tupin et Semons, France",
+              "institution_ids": [
+                "https://openalex.org/I123791789"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5017337735",
+            "display_name": "Winfried Werner",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I150569930",
+              "display_name": "Bayer (United States)",
+              "ror": "https://ror.org/034ffbg36",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I150569930",
+                "https://openalex.org/I67348948"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Winfried Werner",
+          "raw_affiliation_strings": [
+            "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de",
+              "institution_ids": [
+                "https://openalex.org/I150569930"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 11,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5110130149"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I100532134"
+      ],
+      "apc_list": {
+        "value": 500,
+        "currency": "EUR",
+        "value_usd": 539
+      },
+      "apc_paid": null,
+      "fwci": 2.3519,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.89233519,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "175",
+        "issue": "2",
+        "first_page": "107",
+        "last_page": "119"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8943531513214111
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.650587797164917
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6043425798416138
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "Sequence stratigraphy",
+          "score": 0.5789819955825806
+        },
+        {
+          "id": "https://openalex.org/keywords/period",
+          "display_name": "Period (music)",
+          "score": 0.5739591717720032
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentation",
+          "display_name": "Sedimentation",
+          "score": 0.5420225262641907
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-succession",
+          "display_name": "Ecological succession",
+          "score": 0.5358741283416748
+        },
+        {
+          "id": "https://openalex.org/keywords/subsidence",
+          "display_name": "Subsidence",
+          "score": 0.5139157772064209
+        },
+        {
+          "id": "https://openalex.org/keywords/marl",
+          "display_name": "Marl",
+          "score": 0.49789905548095703
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence",
+          "display_name": "Sequence (biology)",
+          "score": 0.44637829065322876
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.4299236536026001
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.4270809590816498
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous",
+          "display_name": "Calcareous",
+          "score": 0.4205377697944641
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.3540707230567932
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.3073178231716156
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.1339741051197052
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8943531513214111
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.650587797164917
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6043425798416138
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.5789819955825806
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.5739591717720032
+        },
+        {
+          "id": "https://openalex.org/C29941650",
+          "wikidata": "https://www.wikidata.org/wiki/Q635485",
+          "display_name": "Sedimentation",
+          "level": 3,
+          "score": 0.5420225262641907
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.5358741283416748
+        },
+        {
+          "id": "https://openalex.org/C180851071",
+          "wikidata": "https://www.wikidata.org/wiki/Q849953",
+          "display_name": "Subsidence",
+          "level": 3,
+          "score": 0.5139157772064209
+        },
+        {
+          "id": "https://openalex.org/C92927620",
+          "wikidata": "https://www.wikidata.org/wiki/Q184053",
+          "display_name": "Marl",
+          "level": 3,
+          "score": 0.49789905548095703
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.44637829065322876
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.4299236536026001
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.4270809590816498
+        },
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.4205377697944641
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.3540707230567932
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.3073178231716156
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.1339741051197052
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/175.2.107",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/175.2.107",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S12747430",
+            "display_name": "Bulletin de la Société Géologique de France",
+            "issn_l": "0037-9409",
+            "issn": [
+              "0037-9409",
+              "1777-5817"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319748",
+            "host_organization_name": "EDP Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319748"
+            ],
+            "host_organization_lineage_names": [
+              "EDP Sciences"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Bulletin de la Société Géologique de France",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2126019709",
+        "https://openalex.org/W1702901972",
+        "https://openalex.org/W4249798507",
+        "https://openalex.org/W2069775250",
+        "https://openalex.org/W2093541819",
+        "https://openalex.org/W2032294417",
+        "https://openalex.org/W2152754392",
+        "https://openalex.org/W4389106489",
+        "https://openalex.org/W3216978234",
+        "https://openalex.org/W2596234422"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Middle": [
+          1
+        ],
+        "Oxfordian": [
+          2
+        ],
+        "sedimentation": [
+          3,
+          56,
+          128
+        ],
+        "is": [
+          4,
+          11
+        ],
+        "very": [
+          5
+        ],
+        "homogeneous": [
+          6
+        ],
+        "in": [
+          7,
+          37,
+          89,
+          129
+        ],
+        "southeastern": [
+          8,
+          130
+        ],
+        "France.": [
+          9
+        ],
+        "It": [
+          10
+        ],
+        "characterized": [
+          12
+        ],
+        "by": [
+          13,
+          136
+        ],
+        "a": [
+          14,
+          52,
+          58,
+          73
+        ],
+        "specific": [
+          15
+        ],
+        "alternation": [
+          16
+        ],
+        "of": [
+          17,
+          30,
+          72,
+          115,
+          118
+        ],
+        "marls": [
+          18
+        ],
+        "and": [
+          19,
+          64,
+          93,
+          101
+        ],
+        "fine-grained": [
+          20
+        ],
+        "limestones": [
+          21
+        ],
+        "(G.": [
+          22
+        ],
+        "transversarium": [
+          23
+        ],
+        "Zone).": [
+          24
+        ],
+        "This": [
+          25,
+          67,
+          124
+        ],
+        "work": [
+          26
+        ],
+        "shows": [
+          27,
+          126
+        ],
+        "that": [
+          28,
+          127
+        ],
+        "sets": [
+          29
+        ],
+        "calcareous": [
+          31
+        ],
+        "beds": [
+          32
+        ],
+        "allow": [
+          33
+        ],
+        "accurate": [
+          34
+        ],
+        "stratigraphic": [
+          35
+        ],
+        "correlations": [
+          36
+        ],
+        "various": [
+          38
+        ],
+        "paleogeographic": [
+          39
+        ],
+        "areas,": [
+          40
+        ],
+        "from": [
+          41
+        ],
+        "the": [
+          42,
+          47,
+          70,
+          90,
+          99,
+          102,
+          108,
+          116,
+          119
+        ],
+        "shallow": [
+          43
+        ],
+        "Jura": [
+          44
+        ],
+        "platform": [
+          45,
+          100
+        ],
+        "to": [
+          46,
+          69,
+          79,
+          95,
+          112
+        ],
+        "deep": [
+          48
+        ],
+        "Dauphinois": [
+          49
+        ],
+        "basin.": [
+          50,
+          103
+        ],
+        "Following": [
+          51
+        ],
+        "rifting": [
+          53
+        ],
+        "period,": [
+          54
+        ],
+        "this": [
+          55
+        ],
+        "illustrates": [
+          57
+        ],
+        "doming": [
+          59
+        ],
+        "period": [
+          60
+        ],
+        "with": [
+          61
+        ],
+        "decreasing": [
+          62
+        ],
+        "subsidence": [
+          63
+        ],
+        "water": [
+          65
+        ],
+        "depth.": [
+          66
+        ],
+        "corresponds": [
+          68
+        ],
+        "establishment": [
+          71
+        ],
+        "wide": [
+          74
+        ],
+        "marine": [
+          75
+        ],
+        "area": [
+          76
+        ],
+        "more": [
+          77
+        ],
+        "favourable": [
+          78
+        ],
+        "carbonate": [
+          80
+        ],
+        "sedimentation.": [
+          81
+        ],
+        "Considering": [
+          82
+        ],
+        "sequence": [
+          83
+        ],
+        "stratigraphy,": [
+          84
+        ],
+        "some": [
+          85
+        ],
+        "slight": [
+          86
+        ],
+        "variations": [
+          87
+        ],
+        "occur": [
+          88
+        ],
+        "sediment": [
+          91
+        ],
+        "record": [
+          92
+        ],
+        "lead": [
+          94
+        ],
+        "interesting": [
+          96
+        ],
+        "comparisons": [
+          97
+        ],
+        "between": [
+          98
+        ],
+        "The": [
+          104
+        ],
+        "geochemical": [
+          105
+        ],
+        "evolution,": [
+          106
+        ],
+        "mainly": [
+          107
+        ],
+        "manganese": [
+          109
+        ],
+        "content,": [
+          110
+        ],
+        "seems": [
+          111
+        ],
+        "be": [
+          113,
+          133
+        ],
+        "dependant": [
+          114
+        ],
+        "activity": [
+          117
+        ],
+        "Ligurian": [
+          120
+        ],
+        "Tethys": [
+          121
+        ],
+        "oceanic": [
+          122
+        ],
+        "ridge.": [
+          123
+        ],
+        "fact": [
+          125
+        ],
+        "France": [
+          131
+        ],
+        "could": [
+          132
+        ],
+        "significantly": [
+          134
+        ],
+        "controlled": [
+          135
+        ],
+        "tectono-eustasy.": [
+          137
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
           "cited_by_count": 1
         }
       ],
@@ -28353,6 +28382,7 @@
           "raw_affiliation_strings": [
             "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France",
@@ -28390,6 +28420,7 @@
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences, université Tunis-2, Campus universitaire, 1060 Tunis, Tunisie"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences, université Tunis-2, Campus universitaire, 1060 Tunis, Tunisie",
@@ -28426,6 +28457,7 @@
           "raw_affiliation_strings": [
             "Département de géologie, faculté des sciences, université de Sfax, route de la Soukra, 3018 Sfax, Tunisie"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences, université de Sfax, route de la Soukra, 3018 Sfax, Tunisie",
@@ -28473,6 +28505,7 @@
           "raw_affiliation_strings": [
             "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France",
@@ -28521,6 +28554,7 @@
           "raw_affiliation_strings": [
             "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université Claude-Bernard, Lyon-1, UFR des sciences de la Terre et CNRS, UMR 5125, 27–43, bd du 11-Novembre-1918, 69622 Villeurbanne cedex, France",
@@ -28544,11 +28578,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0089,
+      "fwci": 1.0186,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.80588919,
+        "value": 0.80766781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29200,7 +29234,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-10T14:07:55.174380",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30210,9 +30244,19 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I178906410",
+              "display_name": "Lyon College",
+              "ror": "https://ror.org/03c4kec23",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I178906410"
               ]
             },
             {
@@ -30227,16 +30271,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210126236"
               ]
-            },
-            {
-              "id": "https://openalex.org/I178906410",
-              "display_name": "Lyon College",
-              "ror": "https://ror.org/03c4kec23",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I178906410"
-              ]
             }
           ],
           "countries": [
@@ -30250,6 +30284,7 @@
             "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France",
             "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France; Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France; e-mails: chirat@univ-lyon1.fr; raymond.enay@univ-lyon1.fr; Pierre.Hantzpergue@univ-lyon1.fr; Charles.Mangold@univ-lyon1.fr",
@@ -30283,16 +30318,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I178906410",
-              "display_name": "Lyon College",
-              "ror": "https://ror.org/03c4kec23",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I178906410"
-              ]
-            },
-            {
               "id": "https://openalex.org/I100532134",
               "display_name": "Université Claude Bernard Lyon 1",
               "ror": "https://ror.org/029brtt94",
@@ -30301,6 +30326,26 @@
               "lineage": [
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I178906410",
+              "display_name": "Lyon College",
+              "ror": "https://ror.org/03c4kec23",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I178906410"
               ]
             },
             {
@@ -30315,16 +30360,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210126236"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -30338,6 +30373,7 @@
             "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France",
             "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France; Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France; e-mails: chirat@univ-lyon1.fr; raymond.enay@univ-lyon1.fr; Pierre.Hantzpergue@univ-lyon1.fr; Charles.Mangold@univ-lyon1.fr",
@@ -30371,16 +30407,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I100532134",
               "display_name": "Université Claude Bernard Lyon 1",
               "ror": "https://ror.org/029brtt94",
@@ -30389,6 +30415,26 @@
               "lineage": [
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I178906410",
+              "display_name": "Lyon College",
+              "ror": "https://ror.org/03c4kec23",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I178906410"
               ]
             },
             {
@@ -30403,16 +30449,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210126236"
               ]
-            },
-            {
-              "id": "https://openalex.org/I178906410",
-              "display_name": "Lyon College",
-              "ror": "https://ror.org/03c4kec23",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I178906410"
-              ]
             }
           ],
           "countries": [
@@ -30426,6 +30462,7 @@
             "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France",
             "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France; Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France; e-mails: chirat@univ-lyon1.fr; raymond.enay@univ-lyon1.fr; Pierre.Hantzpergue@univ-lyon1.fr; Charles.Mangold@univ-lyon1.fr",
@@ -30459,6 +30496,27 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I178906410",
               "display_name": "Lyon College",
               "ror": "https://ror.org/03c4kec23",
@@ -30480,27 +30538,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210126236"
               ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -30511,9 +30548,10 @@
           "raw_author_name": "CHARLES MANGOLD",
           "raw_affiliation_strings": [
             "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France; Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France; e-mails: chirat@univ-lyon1.fr; raymond.enay@univ-lyon1.fr; Pierre.Hantzpergue@univ-lyon1.fr; Charles.Mangold@univ-lyon1.fr",
-            "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France",
-            "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France"
+            "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France",
+            "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France; Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France; e-mails: chirat@univ-lyon1.fr; raymond.enay@univ-lyon1.fr; Pierre.Hantzpergue@univ-lyon1.fr; Charles.Mangold@univ-lyon1.fr",
@@ -30524,16 +30562,16 @@
               ]
             },
             {
-              "raw_affiliation_string": "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            },
-            {
               "raw_affiliation_string": "UMR 5125 ‘Paléoenvironnements et Paléobiosphère’, CNRS, France",
               "institution_ids": [
                 "https://openalex.org/I4210126236",
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Université Lyon 1, Campus de la Doua, Bât. Géode, 69622 Villeurbanne Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
               ]
             }
           ]
@@ -30560,11 +30598,11 @@
         "value_usd": 4530
       },
       "apc_paid": null,
-      "fwci": 1.2636,
+      "fwci": 1.3026,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.8444977,
+        "value": 0.84759608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31366,7 +31404,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38808,6 +38846,7 @@
           "is_corresponding": true,
           "raw_author_name": "Paul Bernier",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -38822,6 +38861,7 @@
           "is_corresponding": false,
           "raw_author_name": "Raymond Enay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -38838,11 +38878,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.8817,
+      "fwci": 0.9088,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.78673384,
+        "value": 0.7935743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39077,7 +39117,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45295,6 +45335,7 @@
           "raw_affiliation_strings": [
             "Universite Claude Bernard-Lyon, UFR des Sciences de la Terre, Villeurbanne, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universite Claude Bernard-Lyon, UFR des Sciences de la Terre, Villeurbanne, France",
@@ -45332,6 +45373,7 @@
           "raw_affiliation_strings": [
             "Universite de Franche-Comte, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universite de Franche-Comte, France",
@@ -45362,7 +45404,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09081719,
+        "value": 0.09302069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46025,7 +46067,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47166,7 +47208,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48453,6 +48495,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210147046",
               "display_name": "Laboratoire de Sciences de la Terre",
               "ror": "https://ror.org/0453rk787",
@@ -48462,17 +48515,6 @@
                 "https://openalex.org/I113428412",
                 "https://openalex.org/I203339264",
                 "https://openalex.org/I4210147046"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
               ]
             }
           ],
@@ -48485,6 +48527,7 @@
             "Universite Claude-Bernard-Lyon, UFR des Sciences de la Terre, Villeurbanne, France",
             "Universite Claude Bernard-Lyon, UFR des Sciences de la Terre, Villeurbanne, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universite Claude-Bernard-Lyon, UFR des Sciences de la Terre, Villeurbanne, France",
@@ -48522,7 +48565,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.0801338,
+        "value": 0.08271931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49086,7 +49129,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51899,6 +51942,7 @@
           "is_corresponding": true,
           "raw_author_name": "Raymond Enay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -51919,7 +51963,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.22120658,
+        "value": 0.2254134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52302,7 +52346,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54094,6 +54138,7 @@
           "is_corresponding": true,
           "raw_author_name": "Charles Mangold",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -54108,6 +54153,7 @@
           "is_corresponding": false,
           "raw_author_name": "R. Enay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -54122,6 +54168,7 @@
           "is_corresponding": false,
           "raw_author_name": "Pierre Dominjon",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -54142,7 +54189,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.26641509,
+        "value": 0.28002793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54813,7 +54860,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {

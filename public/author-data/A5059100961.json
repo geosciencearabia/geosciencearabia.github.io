@@ -11,9 +11,9 @@
     ],
     "full_name": "Ayman Fazea Al-Lehyani",
     "works_count": 8,
-    "cited_by_count": 83,
+    "cited_by_count": 84,
     "summary_stats": {
-      "2yr_mean_citedness": 0,
+      "2yr_mean_citedness": 0.5,
       "h_index": 3,
       "i10_index": 3
     },
@@ -162,7 +162,7 @@
       {
         "id": "https://openalex.org/T13885",
         "display_name": "Geophysics and Sensor Technology",
-        "value": 0.0000142,
+        "value": 0.0000141,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -179,7 +179,7 @@
       {
         "id": "https://openalex.org/T10572",
         "display_name": "Geophysical and Geoelectrical Methods",
-        "value": 0.0000118,
+        "value": 0.0000117,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -295,7 +295,7 @@
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 0
+        "cited_by_count": 1
       },
       {
         "year": 2026,
@@ -312,7 +312,7 @@
     ],
     "block_key": "a al-lehyani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
-    "updated_date": "2026-05-06T12:19:59",
+    "updated_date": "2026-05-21T12:23:45",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -403,14 +403,19 @@
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; ",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; ",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
@@ -448,10 +453,13 @@
             "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia",
@@ -490,10 +498,13 @@
             "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals 2 , Earth Sciences Department, Dhahran, . E-mail: ashuhail@kfupm.edu.sa ; allehyani@kfupm.edu.sa ",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia",
@@ -521,11 +532,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8552,
+      "fwci": 0.8791,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.78383697,
+        "value": 0.79161972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -791,9 +802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -1327,7 +1338,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-12T23:16:27.785689",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3569,9 +3580,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -4291,6 +4302,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
@@ -4327,6 +4339,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
@@ -4364,6 +4377,7 @@
           "raw_affiliation_strings": [
             "ETH Zürich"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ETH Zürich",
@@ -4401,6 +4415,7 @@
           "raw_affiliation_strings": [
             "ETH Zürich"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ETH Zürich",
@@ -4426,7 +4441,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.02605606,
+        "value": 0.02600473,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5475,7 +5490,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5733,9 +5748,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -6659,6 +6674,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -6695,6 +6711,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -6731,6 +6748,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -6767,6 +6785,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -6792,9 +6811,9 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9310183,
+        "value": 0.60527151,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
@@ -7449,7 +7468,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-02T13:53:19.096889",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

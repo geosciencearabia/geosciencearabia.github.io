@@ -647,14 +647,14 @@
       "apc_paid": null,
       "fwci": 0.658,
       "has_fulltext": false,
-      "cited_by_count": 226,
+      "cited_by_count": 227,
       "citation_normalized_percentile": {
-        "value": 0.7365856,
+        "value": 0.73659818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 98,
+        "min": 99,
         "max": 100
       },
       "biblio": {
@@ -1538,7 +1538,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -1597,7 +1597,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1998,9 +1998,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -3703,7 +3703,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-12T06:07:45.972803",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4256,9 +4256,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [
@@ -4852,9 +4852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -5824,9 +5824,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -8114,7 +8114,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8182,6 +8182,7 @@
           "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8196,6 +8197,7 @@
           "is_corresponding": false,
           "raw_author_name": "Royal M. Hagerty",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -8208,11 +8210,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8973,
+      "fwci": 1.8981,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.86111278,
+        "value": 0.86116035,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8713,12 +8715,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2944023070.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2944023070.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2944023070.pdf"
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -9811,7 +9812,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10203,9 +10204,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -11525,6 +11526,7 @@
             "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
             "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
@@ -11580,6 +11582,7 @@
             "EXPEC Advanced Research Center Saudi Aramco Dharan 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dharan 31311 Saudi Arabia",
@@ -11605,16 +11608,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I60138030",
-              "display_name": "Desert Research Institute",
-              "ror": "https://ror.org/02vg22c33",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I60138030"
-              ]
-            },
-            {
               "id": "https://openalex.org/I145608581",
               "display_name": "University of Miami",
               "ror": "https://ror.org/02dgjyy92",
@@ -11622,6 +11615,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I145608581"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60138030",
+              "display_name": "Desert Research Institute",
+              "ror": "https://ror.org/02vg22c33",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I60138030"
               ]
             }
           ],
@@ -11633,9 +11636,10 @@
           "raw_affiliation_strings": [
             "Desert Research Institute 2215 Raggio Parkway Reno NV 89512 USA",
             "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
-            "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
-            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
+            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
+            "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Desert Research Institute 2215 Raggio Parkway Reno NV 89512 USA",
@@ -11650,15 +11654,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
-              "institution_ids": [
-                "https://openalex.org/I60138030"
-              ]
-            },
-            {
               "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
               "institution_ids": [
                 "https://openalex.org/I145608581"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
+              "institution_ids": [
+                "https://openalex.org/I60138030"
               ]
             }
           ]
@@ -11691,6 +11695,7 @@
             "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
             "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
@@ -11722,11 +11727,11 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 2.327,
+      "fwci": 2.3282,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.86092182,
+        "value": 0.86101728,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12676,7 +12681,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13251,9 +13256,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -13460,6 +13465,7 @@
             "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
@@ -13503,6 +13509,7 @@
             "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
@@ -13534,16 +13541,16 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 5.7629,
+      "fwci": 6.034,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.95109997,
+        "value": 0.95367965,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -13828,9 +13835,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -14635,7 +14642,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15009,9 +15016,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -15719,9 +15726,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -17073,9 +17080,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -18948,9 +18955,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -20953,20 +20960,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2978412508.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2978412508.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2978412508.pdf"
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -21468,7 +21474,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22103,9 +22109,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -22315,17 +22321,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -22344,6 +22339,17 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
@@ -22355,8 +22361,8 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
-            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia"
+            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -22373,15 +22379,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -22399,7 +22405,7 @@
               "display_name": "Commonwealth Scientific and Industrial Research Organisation",
               "ror": "https://ror.org/03qn8fb07",
               "country_code": "AU",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1292875679",
                 "https://openalex.org/I2801453606",
@@ -22527,11 +22533,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4047,
+      "fwci": 0.4046,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.6773272,
+        "value": 0.67729007,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23304,7 +23310,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23731,9 +23737,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -25347,9 +25353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -27161,9 +27167,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [
@@ -27416,6 +27422,7 @@
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA",
@@ -27452,6 +27459,7 @@
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
@@ -27488,6 +27496,7 @@
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
@@ -27525,6 +27534,7 @@
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA",
@@ -27562,6 +27572,7 @@
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA",
@@ -27599,6 +27610,7 @@
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA",
@@ -27620,11 +27632,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6863,
+      "fwci": 0.6985,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.68874951,
+        "value": 0.69417652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28497,7 +28509,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29208,9 +29220,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -30312,9 +30324,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -31292,9 +31304,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -32323,9 +32335,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -33374,9 +33386,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -34276,9 +34288,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -35233,9 +35245,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -35601,9 +35613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -36198,9 +36210,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],

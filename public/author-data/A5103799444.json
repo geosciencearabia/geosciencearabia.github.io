@@ -10,7 +10,7 @@
     ],
     "full_name": "John Melvin (2)",
     "works_count": 36,
-    "cited_by_count": 710,
+    "cited_by_count": 712,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 13,
@@ -422,7 +422,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000048,
+        "value": 0.0000479,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -615,13 +615,13 @@
         "year": 2017,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 21
+        "cited_by_count": 22
       },
       {
         "year": 2018,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2019,
@@ -643,7 +643,7 @@
     ],
     "block_key": "j melvin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
-    "updated_date": "2026-05-14T12:20:51",
+    "updated_date": "2026-05-21T12:23:45",
     "created_date": "2021-03-29T00:00:00"
   },
   "works": [
@@ -2009,11 +2009,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.478,
+      "fwci": 16.4775,
       "has_fulltext": true,
       "cited_by_count": 270,
       "citation_normalized_percentile": {
-        "value": 0.99434681,
+        "value": 0.99434664,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3059,7 +3059,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-05-12T08:28:47.272897",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3466,12 +3466,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2955893822.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2955893822.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2955893822.pdf"
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -4308,7 +4307,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8075,7 +8074,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10640,11 +10639,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9281,
+      "fwci": 1.928,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86862293,
+        "value": 0.86861767,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10963,12 +10962,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3022763138.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3022763138.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W3022763138.pdf"
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -12135,7 +12133,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12223,6 +12221,7 @@
           "raw_affiliation_strings": [
             "Reservoir Characterization Department, Saudi Aramco Box 12646, Dhahran 31311, Saudi Arabia jxmelvin1@gmail.com"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco Box 12646, Dhahran 31311, Saudi Arabia jxmelvin1@gmail.com",
@@ -12244,11 +12243,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9723,
+      "fwci": 0.9914,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.73669983,
+        "value": 0.74198091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13403,7 +13402,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17842,6 +17841,7 @@
           "is_corresponding": true,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -17858,7 +17858,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.15963061,
+        "value": 0.15996042,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19398,7 +19398,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-11T06:13:24.991567",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19479,6 +19479,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19515,6 +19516,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19551,6 +19553,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19587,6 +19590,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19623,6 +19627,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19659,6 +19664,7 @@
           "raw_affiliation_strings": [
             "ConocoPhillips Alaska Inc"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ConocoPhillips Alaska Inc",
@@ -19680,11 +19686,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.46666664,
+      "fwci": 6.4737,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.9338843,
+        "value": 0.94262295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20430,7 +20436,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20858,6 +20864,7 @@
           "raw_affiliation_strings": [
             "Sohio Petroleum Company, 50 Fremont Street, San Francisco, California 94105"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sohio Petroleum Company, 50 Fremont Street, San Francisco, California 94105",
@@ -20883,7 +20890,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.29179601,
+        "value": 0.29225503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21686,7 +21693,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {

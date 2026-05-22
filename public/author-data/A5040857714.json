@@ -12,9 +12,9 @@
     ],
     "full_name": "HASSAN ABDALLA ELTOM",
     "works_count": 88,
-    "cited_by_count": 638,
+    "cited_by_count": 644,
     "summary_stats": {
-      "2yr_mean_citedness": 2.3214285714285716,
+      "2yr_mean_citedness": 2.392857142857143,
       "h_index": 16,
       "i10_index": 24
     },
@@ -269,7 +269,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001072,
+        "value": 0.0001071,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -286,7 +286,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000096,
+        "value": 0.0000959,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -320,7 +320,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000589,
+        "value": 0.0000588,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -420,31 +420,31 @@
         "year": 2021,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 67
+        "cited_by_count": 68
       },
       {
         "year": 2022,
         "works_count": 17,
         "oa_works_count": 7,
-        "cited_by_count": 66
+        "cited_by_count": 68
       },
       {
         "year": 2023,
         "works_count": 8,
         "oa_works_count": 2,
-        "cited_by_count": 28
+        "cited_by_count": 29
       },
       {
         "year": 2024,
         "works_count": 12,
         "oa_works_count": 3,
-        "cited_by_count": 59
+        "cited_by_count": 60
       },
       {
         "year": 2025,
         "works_count": 11,
         "oa_works_count": 3,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2026,
@@ -462,7 +462,7 @@
     ],
     "block_key": "h eltom",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040857714",
-    "updated_date": "2026-05-14T12:20:51",
+    "updated_date": "2026-05-21T12:23:45",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -1799,8 +1799,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -2395,8 +2395,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -2612,6 +2612,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia",
@@ -2648,6 +2649,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia",
@@ -2684,6 +2686,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia",
@@ -2720,6 +2723,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, PO BOX 741, Dhahran 31261, Saudi Arabia",
@@ -2745,11 +2749,11 @@
         "value_usd": 3240
       },
       "apc_paid": null,
-      "fwci": 2.7419,
+      "fwci": 2.7294,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.89300168,
+        "value": 0.89221204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3832,7 +3836,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-10T15:06:20.359241",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4345,8 +4349,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5027,8 +5031,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5839,8 +5843,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6494,13 +6498,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         },
         {
           "score": 0.49000000953674316,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -7889,8 +7893,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7200000286102295,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8025,1080 +8029,6 @@
         }
       ],
       "updated_date": "2026-05-21T09:19:25.381259",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2283305001",
-      "doi": "https://doi.org/10.2113/geoarabia190253",
-      "title": "Characterizing and modeling the Upper Jurassic Arab-D reservoir using outcrop data from Central Saudi Arabia",
-      "display_name": "Characterizing and modeling the Upper Jurassic Arab-D reservoir using outcrop data from Central Saudi Arabia",
-      "publication_year": 2014,
-      "publication_date": "2014-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2283305001",
-        "doi": "https://doi.org/10.2113/geoarabia190253",
-        "mag": "2283305001"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia190253",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040857714",
-            "display_name": "Hassan A. Eltom",
-            "orcid": "https://orcid.org/0000-0002-3515-0127"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Hassan Eltom",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028390167",
-            "display_name": "Osman Abdullatif",
-            "orcid": "https://orcid.org/0000-0001-6214-5772"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Osman Abdullatif",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082642403",
-            "display_name": "Mohammad Makkawi",
-            "orcid": "https://orcid.org/0000-0003-4649-554X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Makkawi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033236909",
-            "display_name": "Asaad Abdulraziq",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Asaad Abdulraziq",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040857714"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.3981,
-      "has_fulltext": false,
-      "cited_by_count": 17,
-      "citation_normalized_percentile": {
-        "value": 0.87991988,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "19",
-        "issue": "2",
-        "first_page": "53",
-        "last_page": "84"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9002162218093872
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.8640914559364319
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.856868326663971
-        },
-        {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.7264741063117981
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.7078300714492798
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.6775515079498291
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.6558383703231812
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5166031122207642
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-modeling",
-          "display_name": "Reservoir modeling",
-          "score": 0.4585849940776825
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.4410886764526367
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.4143829047679901
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.3739001750946045
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.32058030366897583
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9002162218093872
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.8640914559364319
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.856868326663971
-        },
-        {
-          "id": "https://openalex.org/C59235061",
-          "wikidata": "https://www.wikidata.org/wiki/Q289600",
-          "display_name": "Petrography",
-          "level": 2,
-          "score": 0.7264741063117981
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.7078300714492798
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.6775515079498291
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.6558383703231812
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5166031122207642
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.4585849940776825
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.4410886764526367
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.4143829047679901
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.3739001750946045
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.32058030366897583
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia190253",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia190253",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2283305001.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2283305001.grobid-xml"
-      },
-      "referenced_works_count": 37,
-      "referenced_works": [
-        "https://openalex.org/W1552307154",
-        "https://openalex.org/W1682777677",
-        "https://openalex.org/W1789645206",
-        "https://openalex.org/W1922922765",
-        "https://openalex.org/W1927598922",
-        "https://openalex.org/W1976420592",
-        "https://openalex.org/W1976609617",
-        "https://openalex.org/W1980881493",
-        "https://openalex.org/W2021287831",
-        "https://openalex.org/W2035962925",
-        "https://openalex.org/W2049980269",
-        "https://openalex.org/W2067688778",
-        "https://openalex.org/W2079349855",
-        "https://openalex.org/W2093791645",
-        "https://openalex.org/W2116294546",
-        "https://openalex.org/W2131123833",
-        "https://openalex.org/W2138691371",
-        "https://openalex.org/W2149852641",
-        "https://openalex.org/W2159708894",
-        "https://openalex.org/W2195678586",
-        "https://openalex.org/W2480689521",
-        "https://openalex.org/W2500144445",
-        "https://openalex.org/W2607243671",
-        "https://openalex.org/W2941825081",
-        "https://openalex.org/W2944267028",
-        "https://openalex.org/W2953570489",
-        "https://openalex.org/W2978412508",
-        "https://openalex.org/W2978857635",
-        "https://openalex.org/W2981429514",
-        "https://openalex.org/W2994434476",
-        "https://openalex.org/W3014355492",
-        "https://openalex.org/W6633067841",
-        "https://openalex.org/W6639922960",
-        "https://openalex.org/W6659309067",
-        "https://openalex.org/W6670278341",
-        "https://openalex.org/W6687464672",
-        "https://openalex.org/W6834259751"
-      ],
-      "related_works": [
-        "https://openalex.org/W2986318339",
-        "https://openalex.org/W3034640112",
-        "https://openalex.org/W1850913539",
-        "https://openalex.org/W2601506887",
-        "https://openalex.org/W2803518343",
-        "https://openalex.org/W2964318476",
-        "https://openalex.org/W3035681571",
-        "https://openalex.org/W2390417528",
-        "https://openalex.org/W2094093944",
-        "https://openalex.org/W4289755838"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Outcrop": [
-          1
-        ],
-        "analogs": [
-          2
-        ],
-        "are": [
-          3,
-          90,
-          124
-        ],
-        "used": [
-          4
-        ],
-        "to": [
-          5,
-          12,
-          20,
-          41
-        ],
-        "improve": [
-          6
-        ],
-        "the": [
-          7,
-          22,
-          42,
-          106,
-          116,
-          130,
-          133,
-          143,
-          149,
-          155,
-          166,
-          183,
-          188,
-          193,
-          196,
-          199
-        ],
-        "characterization": [
-          8
-        ],
-        "of": [
-          9,
-          62,
-          105,
-          113,
-          129,
-          132,
-          157,
-          195,
-          198
-        ],
-        "reservoir": [
-          10,
-          47,
-          150,
-          177,
-          201
-        ],
-        "stratigraphy,": [
-          11
-        ],
-        "understand": [
-          13
-        ],
-        "subsurface": [
-          14,
-          117
-        ],
-        "facies": [
-          15
-        ],
-        "architecture": [
-          16
-        ],
-        "and": [
-          17,
-          19,
-          36,
-          56,
-          59,
-          65,
-          80,
-          126,
-          145,
-          148,
-          152,
-          159,
-          202,
-          210
-        ],
-        "heterogeneity,": [
-          18
-        ],
-        "overcome": [
-          21
-        ],
-        "limitations": [
-          23
-        ],
-        "associated": [
-          24
-        ],
-        "with": [
-          25
-        ],
-        "large": [
-          26
-        ],
-        "inter-well": [
-          27
-        ],
-        "spacing": [
-          28
-        ],
-        "within": [
-          29,
-          68
-        ],
-        "individual": [
-          30
-        ],
-        "oil": [
-          31
-        ],
-        "fields.": [
-          32
-        ],
-        "This": [
-          33,
-          190
-        ],
-        "study": [
-          34,
-          53,
-          107
-        ],
-        "characterized": [
-          35
-        ],
-        "modeled": [
-          37
-        ],
-        "outcropping": [
-          38
-        ],
-        "strata": [
-          39
-        ],
-        "equivalent": [
-          40
-        ],
-        "Upper": [
-          43
-        ],
-        "Jurassic": [
-          44
-        ],
-        "Arab-D": [
-          45,
-          118,
-          200
-        ],
-        "carbonate": [
-          46
-        ],
-        "in": [
-          48,
-          182,
-          187
-        ],
-        "Central": [
-          49
-        ],
-        "Saudi": [
-          50
-        ],
-        "Arabia.": [
-          51
-        ],
-        "The": [
-          52,
-          82,
-          103,
-          135,
-          171
-        ],
-        "presents": [
-          54
-        ],
-        "qualitative": [
-          55
-        ],
-        "quantitative": [
-          57
-        ],
-        "sedimentological": [
-          58,
-          83
-        ],
-        "petrographic": [
-          60
-        ],
-        "descriptions": [
-          61
-        ],
-        "lithofacies": [
-          63,
-          87
-        ],
-        "associations": [
-          64
-        ],
-        "interprets": [
-          66
-        ],
-        "them": [
-          67
-        ],
-        "a": [
-          69,
-          93,
-          110,
-          139,
-          204
-        ],
-        "high-order": [
-          70
-        ],
-        "stratigraphic": [
-          71,
-          212
-        ],
-        "framework": [
-          72,
-          206
-        ],
-        "using": [
-          73
-        ],
-        "geostatistical": [
-          74
-        ],
-        "modeling,": [
-          75
-        ],
-        "spectral": [
-          76,
-          162
-        ],
-        "gamma-ray,": [
-          77
-        ],
-        "geochemistry,": [
-          78
-        ],
-        "petrography": [
-          79
-        ],
-        "micropaleontology.": [
-          81
-        ],
-        "studies": [
-          84
-        ],
-        "revealed": [
-          85
-        ],
-        "three": [
-          86
-        ],
-        "associations,": [
-          88
-        ],
-        "which": [
-          89,
-          179
-        ],
-        "interpreted": [
-          91
-        ],
-        "as": [
-          92
-        ],
-        "gentle": [
-          94
-        ],
-        "slope": [
-          95
-        ],
-        "platform": [
-          96
-        ],
-        "depositional": [
-          97
-        ],
-        "environment": [
-          98
-        ],
-        "comprising": [
-          99
-        ],
-        "nine": [
-          100
-        ],
-        "high-frequency": [
-          101
-        ],
-        "sequences.": [
-          102
-        ],
-        "biocomponents": [
-          104
-        ],
-        "area": [
-          108
-        ],
-        "show": [
-          109,
-          138
-        ],
-        "lower": [
-          111
-        ],
-        "degree": [
-          112
-        ],
-        "diversity": [
-          114
-        ],
-        "than": [
-          115
-        ],
-        "reservoir;": [
-          119
-        ],
-        "however,": [
-          120
-        ],
-        "some": [
-          121
-        ],
-        "key": [
-          122
-        ],
-        "biofacies": [
-          123
-        ],
-        "present": [
-          125
-        ],
-        "provide": [
-          127
-        ],
-        "indications": [
-          128
-        ],
-        "nature": [
-          131
-        ],
-        "paleoenvironments.": [
-          134
-        ],
-        "geochemical": [
-          136
-        ],
-        "results": [
-          137
-        ],
-        "strong": [
-          140
-        ],
-        "correlation": [
-          141
-        ],
-        "between": [
-          142
-        ],
-        "major": [
-          144
-        ],
-        "trace": [
-          146
-        ],
-        "elements": [
-          147,
-          158
-        ],
-        "facies,": [
-          151
-        ],
-        "suggest": [
-          153
-        ],
-        "that": [
-          154
-        ],
-        "concentrations": [
-          156
-        ],
-        "their": [
-          160
-        ],
-        "corresponding": [
-          161
-        ],
-        "gamma-ray": [
-          163
-        ],
-        "logs": [
-          164
-        ],
-        "follow": [
-          165
-        ],
-        "same": [
-          167
-        ],
-        "general": [
-          168,
-          205
-        ],
-        "upward-shoaling": [
-          169
-        ],
-        "pattern.": [
-          170
-        ],
-        "3-D": [
-          172
-        ],
-        "geocellular": [
-          173
-        ],
-        "model": [
-          174
-        ],
-        "captures": [
-          175
-        ],
-        "small-scale": [
-          176
-        ],
-        "variability,": [
-          178
-        ],
-        "is": [
-          180
-        ],
-        "reflected": [
-          181
-        ],
-        "petrophysical": [
-          184
-        ],
-        "data": [
-          185
-        ],
-        "distribution": [
-          186
-        ],
-        "model.": [
-          189
-        ],
-        "investigation": [
-          191
-        ],
-        "increases": [
-          192
-        ],
-        "understanding": [
-          194
-        ],
-        "stratigraphy": [
-          197
-        ],
-        "provides": [
-          203
-        ],
-        "for": [
-          207
-        ],
-        "zonation,": [
-          208
-        ],
-        "layering,": [
-          209
-        ],
-        "lateral": [
-          211
-        ],
-        "correlations.": [
-          213
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9897,19 +8827,18 @@
       "sustainable_development_goals": [
         {
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
         "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": false
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3171403328.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3171403328.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W3171403328.pdf"
       },
       "referenced_works_count": 79,
       "referenced_works": [
@@ -10737,7 +9666,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11557,8 +10486,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5299999713897705,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -12319,8 +11248,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -12956,8 +11885,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13569,16 +12498,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I146416000",
-              "display_name": "University of Kansas",
-              "ror": "https://ror.org/001tmjg57",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I146416000"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -13586,6 +12505,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I146416000",
+              "display_name": "University of Kansas",
+              "ror": "https://ror.org/001tmjg57",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I146416000"
               ]
             }
           ],
@@ -13599,6 +12528,7 @@
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "University of Kansas, Department of Geology, 1475 Jayhawk Boulevard, Lawrence, KS 66045, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13641,6 +12571,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13677,6 +12608,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13713,6 +12645,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13749,6 +12682,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13785,6 +12719,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13821,6 +12756,7 @@
           "raw_affiliation_strings": [
             "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -13843,11 +12779,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1996,
+      "fwci": 3.2013,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.90805365,
+        "value": 0.90811076,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14722,7 +13658,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-12T07:58:50.170612",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17083,8 +16019,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -17205,6 +16141,1083 @@
         }
       ],
       "updated_date": "2026-04-09T08:11:56.329763",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2283305001",
+      "doi": "https://doi.org/10.2113/geoarabia190253",
+      "title": "Characterizing and modeling the Upper Jurassic Arab-D reservoir using outcrop data from Central Saudi Arabia",
+      "display_name": "Characterizing and modeling the Upper Jurassic Arab-D reservoir using outcrop data from Central Saudi Arabia",
+      "publication_year": 2014,
+      "publication_date": "2014-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2283305001",
+        "doi": "https://doi.org/10.2113/geoarabia190253",
+        "mag": "2283305001"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia190253",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040857714",
+            "display_name": "Hassan A. Eltom",
+            "orcid": "https://orcid.org/0000-0002-3515-0127"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Hassan Eltom",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028390167",
+            "display_name": "Osman Abdullatif",
+            "orcid": "https://orcid.org/0000-0001-6214-5772"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Osman Abdullatif",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082642403",
+            "display_name": "Mohammad Makkawi",
+            "orcid": "https://orcid.org/0000-0003-4649-554X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Makkawi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033236909",
+            "display_name": "Asaad Abdulraziq",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Asaad Abdulraziq",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040857714"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.4278,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.88141444,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "2",
+        "first_page": "53",
+        "last_page": "84"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9002162218093872
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.8640914559364319
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.856868326663971
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.7264741063117981
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.7078300714492798
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysics",
+          "display_name": "Petrophysics",
+          "score": 0.6775515079498291
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.6558383703231812
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5166031122207642
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-modeling",
+          "display_name": "Reservoir modeling",
+          "score": 0.4585849940776825
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.4410886764526367
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.4143829047679901
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.3739001750946045
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.32058030366897583
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9002162218093872
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.8640914559364319
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.856868326663971
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.7264741063117981
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.7078300714492798
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.6775515079498291
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.6558383703231812
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5166031122207642
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.4585849940776825
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.4410886764526367
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.4143829047679901
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.3739001750946045
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.32058030366897583
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia190253",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia190253",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia190253",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/2/53/5450407/eltom.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2283305001.pdf"
+      },
+      "referenced_works_count": 37,
+      "referenced_works": [
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W1682777677",
+        "https://openalex.org/W1789645206",
+        "https://openalex.org/W1922922765",
+        "https://openalex.org/W1927598922",
+        "https://openalex.org/W1976420592",
+        "https://openalex.org/W1976609617",
+        "https://openalex.org/W1980881493",
+        "https://openalex.org/W2021287831",
+        "https://openalex.org/W2035962925",
+        "https://openalex.org/W2049980269",
+        "https://openalex.org/W2067688778",
+        "https://openalex.org/W2079349855",
+        "https://openalex.org/W2093791645",
+        "https://openalex.org/W2116294546",
+        "https://openalex.org/W2131123833",
+        "https://openalex.org/W2138691371",
+        "https://openalex.org/W2149852641",
+        "https://openalex.org/W2159708894",
+        "https://openalex.org/W2195678586",
+        "https://openalex.org/W2480689521",
+        "https://openalex.org/W2500144445",
+        "https://openalex.org/W2607243671",
+        "https://openalex.org/W2941825081",
+        "https://openalex.org/W2944267028",
+        "https://openalex.org/W2953570489",
+        "https://openalex.org/W2978412508",
+        "https://openalex.org/W2978857635",
+        "https://openalex.org/W2981429514",
+        "https://openalex.org/W2994434476",
+        "https://openalex.org/W3014355492",
+        "https://openalex.org/W6633067841",
+        "https://openalex.org/W6639922960",
+        "https://openalex.org/W6659309067",
+        "https://openalex.org/W6670278341",
+        "https://openalex.org/W6687464672",
+        "https://openalex.org/W6834259751"
+      ],
+      "related_works": [
+        "https://openalex.org/W2986318339",
+        "https://openalex.org/W3034640112",
+        "https://openalex.org/W1850913539",
+        "https://openalex.org/W2601506887",
+        "https://openalex.org/W2803518343",
+        "https://openalex.org/W2964318476",
+        "https://openalex.org/W3035681571",
+        "https://openalex.org/W2390417528",
+        "https://openalex.org/W2094093944",
+        "https://openalex.org/W4289755838"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Outcrop": [
+          1
+        ],
+        "analogs": [
+          2
+        ],
+        "are": [
+          3,
+          90,
+          124
+        ],
+        "used": [
+          4
+        ],
+        "to": [
+          5,
+          12,
+          20,
+          41
+        ],
+        "improve": [
+          6
+        ],
+        "the": [
+          7,
+          22,
+          42,
+          106,
+          116,
+          130,
+          133,
+          143,
+          149,
+          155,
+          166,
+          183,
+          188,
+          193,
+          196,
+          199
+        ],
+        "characterization": [
+          8
+        ],
+        "of": [
+          9,
+          62,
+          105,
+          113,
+          129,
+          132,
+          157,
+          195,
+          198
+        ],
+        "reservoir": [
+          10,
+          47,
+          150,
+          177,
+          201
+        ],
+        "stratigraphy,": [
+          11
+        ],
+        "understand": [
+          13
+        ],
+        "subsurface": [
+          14,
+          117
+        ],
+        "facies": [
+          15
+        ],
+        "architecture": [
+          16
+        ],
+        "and": [
+          17,
+          19,
+          36,
+          56,
+          59,
+          65,
+          80,
+          126,
+          145,
+          148,
+          152,
+          159,
+          202,
+          210
+        ],
+        "heterogeneity,": [
+          18
+        ],
+        "overcome": [
+          21
+        ],
+        "limitations": [
+          23
+        ],
+        "associated": [
+          24
+        ],
+        "with": [
+          25
+        ],
+        "large": [
+          26
+        ],
+        "inter-well": [
+          27
+        ],
+        "spacing": [
+          28
+        ],
+        "within": [
+          29,
+          68
+        ],
+        "individual": [
+          30
+        ],
+        "oil": [
+          31
+        ],
+        "fields.": [
+          32
+        ],
+        "This": [
+          33,
+          190
+        ],
+        "study": [
+          34,
+          53,
+          107
+        ],
+        "characterized": [
+          35
+        ],
+        "modeled": [
+          37
+        ],
+        "outcropping": [
+          38
+        ],
+        "strata": [
+          39
+        ],
+        "equivalent": [
+          40
+        ],
+        "Upper": [
+          43
+        ],
+        "Jurassic": [
+          44
+        ],
+        "Arab-D": [
+          45,
+          118,
+          200
+        ],
+        "carbonate": [
+          46
+        ],
+        "in": [
+          48,
+          182,
+          187
+        ],
+        "Central": [
+          49
+        ],
+        "Saudi": [
+          50
+        ],
+        "Arabia.": [
+          51
+        ],
+        "The": [
+          52,
+          82,
+          103,
+          135,
+          171
+        ],
+        "presents": [
+          54
+        ],
+        "qualitative": [
+          55
+        ],
+        "quantitative": [
+          57
+        ],
+        "sedimentological": [
+          58,
+          83
+        ],
+        "petrographic": [
+          60
+        ],
+        "descriptions": [
+          61
+        ],
+        "lithofacies": [
+          63,
+          87
+        ],
+        "associations": [
+          64
+        ],
+        "interprets": [
+          66
+        ],
+        "them": [
+          67
+        ],
+        "a": [
+          69,
+          93,
+          110,
+          139,
+          204
+        ],
+        "high-order": [
+          70
+        ],
+        "stratigraphic": [
+          71,
+          212
+        ],
+        "framework": [
+          72,
+          206
+        ],
+        "using": [
+          73
+        ],
+        "geostatistical": [
+          74
+        ],
+        "modeling,": [
+          75
+        ],
+        "spectral": [
+          76,
+          162
+        ],
+        "gamma-ray,": [
+          77
+        ],
+        "geochemistry,": [
+          78
+        ],
+        "petrography": [
+          79
+        ],
+        "micropaleontology.": [
+          81
+        ],
+        "studies": [
+          84
+        ],
+        "revealed": [
+          85
+        ],
+        "three": [
+          86
+        ],
+        "associations,": [
+          88
+        ],
+        "which": [
+          89,
+          179
+        ],
+        "interpreted": [
+          91
+        ],
+        "as": [
+          92
+        ],
+        "gentle": [
+          94
+        ],
+        "slope": [
+          95
+        ],
+        "platform": [
+          96
+        ],
+        "depositional": [
+          97
+        ],
+        "environment": [
+          98
+        ],
+        "comprising": [
+          99
+        ],
+        "nine": [
+          100
+        ],
+        "high-frequency": [
+          101
+        ],
+        "sequences.": [
+          102
+        ],
+        "biocomponents": [
+          104
+        ],
+        "area": [
+          108
+        ],
+        "show": [
+          109,
+          138
+        ],
+        "lower": [
+          111
+        ],
+        "degree": [
+          112
+        ],
+        "diversity": [
+          114
+        ],
+        "than": [
+          115
+        ],
+        "reservoir;": [
+          119
+        ],
+        "however,": [
+          120
+        ],
+        "some": [
+          121
+        ],
+        "key": [
+          122
+        ],
+        "biofacies": [
+          123
+        ],
+        "present": [
+          125
+        ],
+        "provide": [
+          127
+        ],
+        "indications": [
+          128
+        ],
+        "nature": [
+          131
+        ],
+        "paleoenvironments.": [
+          134
+        ],
+        "geochemical": [
+          136
+        ],
+        "results": [
+          137
+        ],
+        "strong": [
+          140
+        ],
+        "correlation": [
+          141
+        ],
+        "between": [
+          142
+        ],
+        "major": [
+          144
+        ],
+        "trace": [
+          146
+        ],
+        "elements": [
+          147,
+          158
+        ],
+        "facies,": [
+          151
+        ],
+        "suggest": [
+          153
+        ],
+        "that": [
+          154
+        ],
+        "concentrations": [
+          156
+        ],
+        "their": [
+          160
+        ],
+        "corresponding": [
+          161
+        ],
+        "gamma-ray": [
+          163
+        ],
+        "logs": [
+          164
+        ],
+        "follow": [
+          165
+        ],
+        "same": [
+          167
+        ],
+        "general": [
+          168,
+          205
+        ],
+        "upward-shoaling": [
+          169
+        ],
+        "pattern.": [
+          170
+        ],
+        "3-D": [
+          172
+        ],
+        "geocellular": [
+          173
+        ],
+        "model": [
+          174
+        ],
+        "captures": [
+          175
+        ],
+        "small-scale": [
+          176
+        ],
+        "variability,": [
+          178
+        ],
+        "is": [
+          180
+        ],
+        "reflected": [
+          181
+        ],
+        "petrophysical": [
+          184
+        ],
+        "data": [
+          185
+        ],
+        "distribution": [
+          186
+        ],
+        "model.": [
+          189
+        ],
+        "investigation": [
+          191
+        ],
+        "increases": [
+          192
+        ],
+        "understanding": [
+          194
+        ],
+        "stratigraphy": [
+          197
+        ],
+        "provides": [
+          203
+        ],
+        "for": [
+          207
+        ],
+        "zonation,": [
+          208
+        ],
+        "layering,": [
+          209
+        ],
+        "lateral": [
+          211
+        ],
+        "correlations.": [
+          213
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18230,8 +18243,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7099999785423279,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -19546,8 +19559,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20123,8 +20136,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -21451,8 +21464,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24218,8 +24231,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24926,8 +24939,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6399999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -26777,8 +26790,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -34533,8 +34546,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -35551,6 +35564,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35594,6 +35608,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35637,6 +35652,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35680,6 +35696,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35723,6 +35740,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35766,6 +35784,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35809,6 +35828,7 @@
             "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
             "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals Earth Sciences Department Dhahran Saudi Arabia",
@@ -35840,11 +35860,11 @@
         "value_usd": 3240
       },
       "apc_paid": null,
-      "fwci": 1.7371,
+      "fwci": 1.7615,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.8419101,
+        "value": 0.84437542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36101,8 +36121,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -36951,7 +36971,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37490,8 +37510,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -39396,8 +39416,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -40973,6 +40993,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia",
@@ -41009,6 +41030,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia",
@@ -41045,6 +41067,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia",
@@ -41081,6 +41104,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Saudi Arabia, PO Box 741, Dhahran 31261, Kingdom of Saudi Arabia",
@@ -41102,11 +41126,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3157,
+      "fwci": 2.3413,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.87663232,
+        "value": 0.87794928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41507,8 +41531,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -42284,7 +42308,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42880,8 +42904,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -43599,8 +43623,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -44182,8 +44206,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -44788,8 +44812,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -45999,8 +46023,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7799999713897705,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -46569,8 +46593,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -47825,8 +47849,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -50054,8 +50078,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -51128,8 +51152,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -52005,8 +52029,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -53220,8 +53244,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6800000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -53687,8 +53711,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6700000166893005,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -54288,13 +54312,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         },
         {
           "score": 0.4000000059604645,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -57887,8 +57911,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -61031,8 +61055,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -61937,8 +61961,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -62482,8 +62506,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -64220,8 +64244,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6800000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -64374,6 +64398,7 @@
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -64410,6 +64435,7 @@
           "raw_affiliation_strings": [
             "Centre for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia / Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia / Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -64446,6 +64472,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -64471,7 +64498,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25295556,
+        "value": 0.24344923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65174,7 +65201,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68367,7 +68394,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4873997,
+        "value": 0.39438622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69666,7 +69693,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-03T08:25:01.440150",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2026-03-14T00:00:00"
     },
     {
@@ -69733,6 +69760,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -69769,6 +69797,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -69805,6 +69834,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -69841,6 +69871,7 @@
           "raw_affiliation_strings": [
             "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "1 King Fahd University of Minerals and Petroleum, College of Petroleum Engineering and Geosciences, Dhahran, Saudi Arabia",
@@ -69866,9 +69897,9 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.9310183,
+        "value": 0.60527151,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
@@ -70523,7 +70554,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-02T13:53:19.096889",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -72230,8 +72261,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5525497198104858,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],

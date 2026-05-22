@@ -962,9 +962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -1762,9 +1762,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -2170,7 +2170,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.83675161,
+        "value": 0.83675644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2631,20 +2631,19 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2971780062.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2971780062.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W2971780062.pdf"
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -3223,7 +3222,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T09:19:25.381259",
+      "updated_date": "2026-05-22T09:01:20.584952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7537,9 +7536,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -8972,9 +8971,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10280,14 +10279,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -11490,6 +11489,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11526,6 +11526,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11562,6 +11563,7 @@
           "raw_affiliation_strings": [
             "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11598,6 +11600,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11634,6 +11637,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11670,6 +11674,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11706,6 +11711,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11742,6 +11748,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia",
@@ -11767,7 +11774,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24259736,
+        "value": 0.20525654,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12747,7 +12754,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-05-21T09:19:25.381259",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14676,9 +14683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4007032513618469
+          "score": 0.4007032513618469,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -15574,7 +15581,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91594003,
+        "value": 0.90489231,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15994,7 +16001,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-20T08:49:12.498775",
+      "updated_date": "2026-05-19T06:20:20.048804",
       "created_date": "2026-05-19T00:00:00"
     }
   ]
