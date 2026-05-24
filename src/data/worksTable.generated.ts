@@ -9921,7 +9921,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "ACS Omega",
     "citations": 10,
-    "fwci": 1.9952,
+    "fwci": 1.9937,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Geological and Geochemical Analysis",
@@ -22370,7 +22370,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "GeoArabia",
     "citations": 24,
-    "fwci": 5.7874,
+    "fwci": 5.7875,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Radioactive element chemistry and processing",
@@ -25472,7 +25472,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 7,
-    "fwci": 2.3907,
+    "fwci": 2.391,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -30217,7 +30217,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Water",
     "citations": 7,
-    "fwci": 2.8695,
+    "fwci": 2.8693,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -50681,7 +50681,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.2587,
+    "fwci": 1.2548,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52230,7 +52230,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "ACS Omega",
     "citations": 37,
-    "fwci": 8.8415,
+    "fwci": 8.8417,
     "topics": [
       "NMR spectroscopy and applications",
       "Advanced Neuroimaging Techniques and Applications",
@@ -69741,8 +69741,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-05-12",
     "year": 2008,
     "venue": "Lethaia",
-    "citations": 214,
-    "fwci": 18.1462,
+    "citations": 216,
+    "fwci": 18.1508,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -69908,7 +69908,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5266,
+    "fwci": 18.5223,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -76599,7 +76599,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Sedimentology",
     "citations": 36,
-    "fwci": 3.4779,
+    "fwci": 3.478,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -79003,7 +79003,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "GeoArabia",
     "citations": 7,
-    "fwci": 0.9567,
+    "fwci": 0.956,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -87298,7 +87298,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.3994,
+    "fwci": 135.3951,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -87382,7 +87382,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0575,
+    "fwci": 32.0445,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -87602,7 +87602,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.8695,
+    "fwci": 2.8693,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -88705,7 +88705,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Journal of Petrology",
     "citations": 185,
-    "fwci": 10.0081,
+    "fwci": 10.0079,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90336,6 +90336,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2142229802",
+    "doi": "https://doi.org/10.1144/0016-764903-080",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5048940107",
+      "A5007718824",
+      "A5112137514",
+      "A5090419918",
+      "A5113440313"
+    ],
+    "firstAuthorLastName": "Robertson",
+    "allAuthors": [
+      "Alastair H. F. Robertson",
+      "Tı̇mur Ustaömer",
+      "Elizabeth Pickett",
+      "Alan S. Collins",
+      "Theo Andrew",
+      "John E. Dixon"
+    ],
+    "title": "Testing models of Late Palaeozoic–Early Mesozoic orogeny in Western Turkey: support for an evolving open-Tethys model",
+    "publicationDate": "2004-05-01",
+    "year": 2004,
+    "venue": "Journal of the Geological Society",
+    "citations": 142,
+    "fwci": 5.6225,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Edinburgh",
+      "Istanbul University",
+      "British Geological Survey",
+      "The University of Western Australia"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2154926948",
     "doi": "https://doi.org/10.1144/0016-764902-166",
     "program": "",
@@ -90370,46 +90410,6 @@ export const worksTable: WorkTableRecord[] = [
       "Curtin University",
       "Johannes Gutenberg University Mainz",
       "Dokuz Eylül University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2142229802",
-    "doi": "https://doi.org/10.1144/0016-764903-080",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5048940107",
-      "A5007718824",
-      "A5112137514",
-      "A5090419918",
-      "A5113440313"
-    ],
-    "firstAuthorLastName": "Robertson",
-    "allAuthors": [
-      "Alastair H. F. Robertson",
-      "Tı̇mur Ustaömer",
-      "Elizabeth Pickett",
-      "Alan S. Collins",
-      "Theo Andrew",
-      "John E. Dixon"
-    ],
-    "title": "Testing models of Late Palaeozoic–Early Mesozoic orogeny in Western Turkey: support for an evolving open-Tethys model",
-    "publicationDate": "2004-05-01",
-    "year": 2004,
-    "venue": "Journal of the Geological Society",
-    "citations": 141,
-    "fwci": 5.6225,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Edinburgh",
-      "Istanbul University",
-      "British Geological Survey",
-      "The University of Western Australia"
     ]
   },
   {
@@ -93017,7 +93017,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Geology",
     "citations": 32,
-    "fwci": 10.0433,
+    "fwci": 10.0424,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -108886,7 +108886,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sustainability",
     "citations": 28,
-    "fwci": 2.9437,
+    "fwci": 2.9439,
     "topics": [
       "Flood Risk Assessment and Management",
       "Land Use and Ecosystem Services",
@@ -113560,7 +113560,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "GeoArabia",
     "citations": 129,
-    "fwci": 2.3521,
+    "fwci": 2.3519,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -113805,7 +113805,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "GeoArabia",
     "citations": 22,
-    "fwci": 1.6347,
+    "fwci": 1.6343,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -120277,6 +120277,58 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4406091883",
+    "doi": "https://doi.org/10.2112/jcr-si113-166.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5075463735",
+      "A5049926361",
+      "A5004698922",
+      "A5115780543",
+      "A5107599353",
+      "A5029467019",
+      "A5030048293",
+      "A5115780544",
+      "A5115780545",
+      "A5091159330",
+      "A5042396632",
+      "A5069459556",
+      "A5066339016"
+    ],
+    "firstAuthorLastName": "Veerasingam",
+    "allAuthors": [
+      "S. Veerasingam",
+      "M. Ranjani",
+      "Fahad Syed Asim",
+      "P.K. Hashir",
+      "J.I. Prince",
+      "Hana Ahmed",
+      "Eman Magdy",
+      "Ridhwan Athaulla",
+      "B. Abisha",
+      "Raneem Omer Mohamed",
+      "Jassim A. Al‐Khayat",
+      "Sankaran Rajendran",
+      "P. Vethamony",
+      "Fadhil Sadooni",
+      "Sаud Ghаni"
+    ],
+    "title": "Development of an Automated Coastal Biofouling Detection System using Artificial Intelligence Object Detection",
+    "publicationDate": "2024-12-20",
+    "year": 2024,
+    "venue": "Journal of Coastal Research",
+    "citations": 1,
+    "fwci": 0.3047,
+    "topics": [
+      "Maritime Navigation and Safety"
+    ],
+    "institutions": [
+      "Qatar University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2117807273",
     "doi": "https://doi.org/10.1111/j.1747-5457.1995.tb00896.x",
     "program": "",
@@ -122316,58 +122368,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4406091883",
-    "doi": "https://doi.org/10.2112/jcr-si113-166.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5075463735",
-      "A5049926361",
-      "A5004698922",
-      "A5115780543",
-      "A5107599353",
-      "A5029467019",
-      "A5030048293",
-      "A5115780544",
-      "A5115780545",
-      "A5091159330",
-      "A5042396632",
-      "A5069459556",
-      "A5066339016"
-    ],
-    "firstAuthorLastName": "Veerasingam",
-    "allAuthors": [
-      "S. Veerasingam",
-      "M. Ranjani",
-      "Fahad Syed Asim",
-      "P.K. Hashir",
-      "J.I. Prince",
-      "Hana Ahmed",
-      "Eman Magdy",
-      "Ridhwan Athaulla",
-      "B. Abisha",
-      "Raneem Omer Mohamed",
-      "Jassim A. Al‐Khayat",
-      "Sankaran Rajendran",
-      "P. Vethamony",
-      "Fadhil Sadooni",
-      "Sаud Ghаni"
-    ],
-    "title": "Development of an Automated Coastal Biofouling Detection System using Artificial Intelligence Object Detection",
-    "publicationDate": "2024-12-20",
-    "year": 2024,
-    "venue": "Journal of Coastal Research",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Maritime Navigation and Safety"
-    ],
-    "institutions": [
-      "Qatar University"
-    ]
   },
   {
     "workId": "https://openalex.org/W4406859282",
@@ -127474,8 +127474,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-02-14",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 109,
-    "fwci": 17.5267,
+    "citations": 110,
+    "fwci": 17.4151,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "CO2 Sequestration and Geologic Interactions",
@@ -127509,8 +127509,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-03-09",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 48,
-    "fwci": 6.434,
+    "citations": 49,
+    "fwci": 6.5142,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131956,7 +131956,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "GeoArabia",
     "citations": 26,
-    "fwci": 4.9803,
+    "fwci": 4.98,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131981,7 +131981,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "GeoArabia",
     "citations": 26,
-    "fwci": 3.3649,
+    "fwci": 3.363,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -132056,7 +132056,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "GeoArabia",
     "citations": 22,
-    "fwci": 2.7245,
+    "fwci": 2.7239,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -132081,7 +132081,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "GeoArabia",
     "citations": 15,
-    "fwci": 3.245,
+    "fwci": 3.244,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -132247,7 +132247,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "GeoArabia",
     "citations": 17,
-    "fwci": 3.821,
+    "fwci": 3.8194,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -136820,7 +136820,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Sedimentology",
     "citations": 10,
-    "fwci": 3.3478,
+    "fwci": 3.3475,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -139653,7 +139653,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "GeoArabia",
     "citations": 41,
-    "fwci": 5.9492,
+    "fwci": 5.9474,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
