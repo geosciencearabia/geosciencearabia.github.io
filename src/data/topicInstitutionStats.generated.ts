@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1290,
-    "citations": 23975
+    "citations": 23976
   },
   {
     "id": "https://openalex.org/T10109",
@@ -68,7 +68,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 323,
-    "citations": 5310
+    "citations": 5311
   },
   {
     "id": "https://openalex.org/T10110",
@@ -134,7 +134,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
     "publications": 115,
-    "citations": 1674
+    "citations": 1675
   },
   {
     "id": "https://openalex.org/T13205",
@@ -4517,7 +4517,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210114766",
     "name": "Muscat College",
     "publications": 10,
-    "citations": 170
+    "citations": 171
   },
   {
     "id": "https://openalex.org/I1302918504",
@@ -4655,7 +4655,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210122910",
     "name": "The Research Council",
     "publications": 9,
-    "citations": 24
+    "citations": 25
   },
   {
     "id": "https://openalex.org/I4210105851",
