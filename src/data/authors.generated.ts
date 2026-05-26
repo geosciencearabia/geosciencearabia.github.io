@@ -792,7 +792,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 12,
-    "totalCitations": 25,
+    "totalCitations": 26,
     "hIndex": 3
   },
   {

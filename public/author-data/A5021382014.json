@@ -1105,8 +1105,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -2161,8 +2161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2557,6 +2557,750 @@
         }
       ],
       "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2254901902",
+      "doi": "https://doi.org/10.7494/geotour.2014.37.3",
+      "title": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
+      "display_name": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2254901902",
+        "doi": "https://doi.org/10.7494/geotour.2014.37.3",
+        "mag": "2254901902"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.7494/geotour.2014.37.3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
+        "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
+        "source": {
+          "id": "https://openalex.org/S4210234437",
+          "display_name": "Geotourism/Geoturystyka",
+          "issn_l": "1731-0830",
+          "issn": [
+            "1731-0830",
+            "2353-3641"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310317504",
+          "host_organization_name": "AGH University of Science and Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317504"
+          ],
+          "host_organization_lineage_names": [
+            "AGH University of Science and Technology"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geotourism/Geoturystyka",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5035815399",
+            "display_name": "Michael A. Kaminski",
+            "orcid": "https://orcid.org/0000-0002-7344-5874"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael A. Kaminski",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103606618",
+            "display_name": "Abdulaziz Al Shaibani",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulaziz Al Shaibani",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021382014",
+            "display_name": "Khalid Al Ramadan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al Ramadan",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5035815399"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.10409742,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "37",
+        "issue": "2",
+        "first_page": "3",
+        "last_page": "3"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.988099992275238,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9807000160217285,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/volcano",
+          "display_name": "Volcano",
+          "score": 0.8916894197463989
+        },
+        {
+          "id": "https://openalex.org/keywords/lava",
+          "display_name": "Lava",
+          "score": 0.8867683410644531
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6218519806861877
+        },
+        {
+          "id": "https://openalex.org/keywords/felsic",
+          "display_name": "Felsic",
+          "score": 0.576288640499115
+        },
+        {
+          "id": "https://openalex.org/keywords/lava-field",
+          "display_name": "Lava field",
+          "score": 0.5522779822349548
+        },
+        {
+          "id": "https://openalex.org/keywords/basalt",
+          "display_name": "Basalt",
+          "score": 0.4462156891822815
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.4309806823730469
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3426353335380554
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C120806208",
+          "wikidata": "https://www.wikidata.org/wiki/Q8072",
+          "display_name": "Volcano",
+          "level": 2,
+          "score": 0.8916894197463989
+        },
+        {
+          "id": "https://openalex.org/C113754120",
+          "wikidata": "https://www.wikidata.org/wiki/Q40157",
+          "display_name": "Lava",
+          "level": 3,
+          "score": 0.8867683410644531
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6218519806861877
+        },
+        {
+          "id": "https://openalex.org/C193429443",
+          "wikidata": "https://www.wikidata.org/wiki/Q847257",
+          "display_name": "Felsic",
+          "level": 3,
+          "score": 0.576288640499115
+        },
+        {
+          "id": "https://openalex.org/C187779500",
+          "wikidata": "https://www.wikidata.org/wiki/Q488416",
+          "display_name": "Lava field",
+          "level": 4,
+          "score": 0.5522779822349548
+        },
+        {
+          "id": "https://openalex.org/C161509811",
+          "wikidata": "https://www.wikidata.org/wiki/Q43338",
+          "display_name": "Basalt",
+          "level": 2,
+          "score": 0.4462156891822815
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4309806823730469
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3426353335380554
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.7494/geotour.2014.37.3",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
+          "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
+          "source": {
+            "id": "https://openalex.org/S4210234437",
+            "display_name": "Geotourism/Geoturystyka",
+            "issn_l": "1731-0830",
+            "issn": [
+              "1731-0830",
+              "2353-3641"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310317504",
+            "host_organization_name": "AGH University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310317504"
+            ],
+            "host_organization_lineage_names": [
+              "AGH University of Science and Technology"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geotourism/Geoturystyka",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.7494/geotour.2014.37.3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
+        "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
+        "source": {
+          "id": "https://openalex.org/S4210234437",
+          "display_name": "Geotourism/Geoturystyka",
+          "issn_l": "1731-0830",
+          "issn": [
+            "1731-0830",
+            "2353-3641"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310317504",
+          "host_organization_name": "AGH University of Science and Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317504"
+          ],
+          "host_organization_lineage_names": [
+            "AGH University of Science and Technology"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geotourism/Geoturystyka",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2254901902.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2254901902.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4223932698",
+        "https://openalex.org/W2006660804",
+        "https://openalex.org/W3211145083",
+        "https://openalex.org/W35690215",
+        "https://openalex.org/W2014367936",
+        "https://openalex.org/W2011988295",
+        "https://openalex.org/W2032570166",
+        "https://openalex.org/W2134931224",
+        "https://openalex.org/W2885319399",
+        "https://openalex.org/W1507794547"
+      ],
+      "abstract_inverted_index": {
+        "60": [
+          75
+        ],
+        "The": [
+          0,
+          25,
+          45
+        ],
+        "volcanic": [
+          1,
+          82
+        ],
+        "fi": [
+          2,
+          56
+        ],
+        "eld": [
+          3
+        ],
+        "of": [
+          4,
+          8,
+          15,
+          20,
+          42
+        ],
+        "Harrat": [
+          5
+        ],
+        "Khaybar": [
+          6
+        ],
+        "north": [
+          7
+        ],
+        "Al-Madinah,": [
+          9
+        ],
+        "Saudi": [
+          10
+        ],
+        "Arabia": [
+          11
+        ],
+        "contains": [
+          12
+        ],
+        "rare": [
+          13
+        ],
+        "examples": [
+          14
+        ],
+        "white": [
+          16,
+          33,
+          46
+        ],
+        "volcanoes": [
+          17,
+          47
+        ],
+        "comprised": [
+          18
+        ],
+        "mainly": [
+          19
+        ],
+        "the": [
+          21,
+          32,
+          43,
+          60,
+          81,
+          98
+        ],
+        "felsic": [
+          22
+        ],
+        "rock": [
+          23
+        ],
+        "comendite.": [
+          24
+        ],
+        "obsidian": [
+          26
+        ],
+        "that": [
+          27,
+          58
+        ],
+        "occurs": [
+          28
+        ],
+        "in": [
+          29,
+          94
+        ],
+        "association": [
+          30
+        ],
+        "with": [
+          31
+        ],
+        "comendite": [
+          34
+        ],
+        "was": [
+          35
+        ],
+        "exploited": [
+          36
+        ],
+        "and": [
+          37,
+          63,
+          67,
+          86
+        ],
+        "worked": [
+          38
+        ],
+        "by": [
+          39,
+          50
+        ],
+        "Neolithic": [
+          40
+        ],
+        "inhabitants": [
+          41
+        ],
+        "area.": [
+          44
+        ],
+        "are": [
+          48
+        ],
+        "surrounded": [
+          49
+        ],
+        "more": [
+          51
+        ],
+        "recent": [
+          52
+        ],
+        "black": [
+          53
+        ],
+        "basaltic": [
+          54
+        ],
+        "lava": [
+          55
+        ],
+        "elds": [
+          57
+        ],
+        "follow": [
+          59
+        ],
+        "pre-existing": [
+          61
+        ],
+        "topography": [
+          62
+        ],
+        "display": [
+          64
+        ],
+        "both": [
+          65
+        ],
+        "aa": [
+          66
+        ],
+        "pahoehoe": [
+          68
+        ],
+        "fl": [
+          69
+        ],
+        "ow": [
+          70
+        ],
+        "structures.": [
+          71
+        ],
+        "Although": [
+          72
+        ],
+        "situated": [
+          73
+        ],
+        "only": [
+          74
+        ],
+        "km": [
+          76
+        ],
+        "from": [
+          77
+        ],
+        "a": [
+          78
+        ],
+        "busy": [
+          79
+        ],
+        "motorway,": [
+          80
+        ],
+        "area": [
+          83
+        ],
+        "is": [
+          84
+        ],
+        "remote": [
+          85
+        ],
+        "all": [
+          87
+        ],
+        "necessary": [
+          88
+        ],
+        "safety": [
+          89
+        ],
+        "precautions": [
+          90
+        ],
+        "must": [
+          91
+        ],
+        "be": [
+          92
+        ],
+        "taken": [
+          93
+        ],
+        "order": [
+          95
+        ],
+        "to": [
+          96
+        ],
+        "visit": [
+          97
+        ],
+        "volcanoes.": [
+          99
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-26T13:28:51.108037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4477,8 +5221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4251869326.pdf",
@@ -4671,743 +5415,6 @@
       ],
       "updated_date": "2026-01-09T06:25:30.743933",
       "created_date": "2022-05-12T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2254901902",
-      "doi": "https://doi.org/10.7494/geotour.2014.37.3",
-      "title": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
-      "display_name": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
-      "publication_year": 2014,
-      "publication_date": "2014-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2254901902",
-        "doi": "https://doi.org/10.7494/geotour.2014.37.3",
-        "mag": "2254901902"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.7494/geotour.2014.37.3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
-        "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
-        "source": {
-          "id": "https://openalex.org/S4210234437",
-          "display_name": "Geotourism/Geoturystyka",
-          "issn_l": "1731-0830",
-          "issn": [
-            "1731-0830",
-            "2353-3641"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310317504",
-          "host_organization_name": "AGH University of Science and Technology",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310317504"
-          ],
-          "host_organization_lineage_names": [
-            "AGH University of Science and Technology"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geotourism/Geoturystyka",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5035815399",
-            "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael A. Kaminski",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103606618",
-            "display_name": "Abdulaziz Al Shaibani",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulaziz Al Shaibani",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5021382014",
-            "display_name": "Khalid Al Ramadan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al Ramadan",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5035815399"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.10297931,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "37",
-        "issue": "2",
-        "first_page": "3",
-        "last_page": "3"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9945999979972839,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9945999979972839,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.988099992275238,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9807000160217285,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/volcano",
-          "display_name": "Volcano",
-          "score": 0.8916894197463989
-        },
-        {
-          "id": "https://openalex.org/keywords/lava",
-          "display_name": "Lava",
-          "score": 0.8867683410644531
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6218519806861877
-        },
-        {
-          "id": "https://openalex.org/keywords/felsic",
-          "display_name": "Felsic",
-          "score": 0.576288640499115
-        },
-        {
-          "id": "https://openalex.org/keywords/lava-field",
-          "display_name": "Lava field",
-          "score": 0.5522779822349548
-        },
-        {
-          "id": "https://openalex.org/keywords/basalt",
-          "display_name": "Basalt",
-          "score": 0.4462156891822815
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.4309806823730469
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3426353335380554
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C120806208",
-          "wikidata": "https://www.wikidata.org/wiki/Q8072",
-          "display_name": "Volcano",
-          "level": 2,
-          "score": 0.8916894197463989
-        },
-        {
-          "id": "https://openalex.org/C113754120",
-          "wikidata": "https://www.wikidata.org/wiki/Q40157",
-          "display_name": "Lava",
-          "level": 3,
-          "score": 0.8867683410644531
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6218519806861877
-        },
-        {
-          "id": "https://openalex.org/C193429443",
-          "wikidata": "https://www.wikidata.org/wiki/Q847257",
-          "display_name": "Felsic",
-          "level": 3,
-          "score": 0.576288640499115
-        },
-        {
-          "id": "https://openalex.org/C187779500",
-          "wikidata": "https://www.wikidata.org/wiki/Q488416",
-          "display_name": "Lava field",
-          "level": 4,
-          "score": 0.5522779822349548
-        },
-        {
-          "id": "https://openalex.org/C161509811",
-          "wikidata": "https://www.wikidata.org/wiki/Q43338",
-          "display_name": "Basalt",
-          "level": 2,
-          "score": 0.4462156891822815
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4309806823730469
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3426353335380554
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.7494/geotour.2014.37.3",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
-          "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
-          "source": {
-            "id": "https://openalex.org/S4210234437",
-            "display_name": "Geotourism/Geoturystyka",
-            "issn_l": "1731-0830",
-            "issn": [
-              "1731-0830",
-              "2353-3641"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310317504",
-            "host_organization_name": "AGH University of Science and Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310317504"
-            ],
-            "host_organization_lineage_names": [
-              "AGH University of Science and Technology"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geotourism/Geoturystyka",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.7494/geotour.2014.37.3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.7494/geotour.2014.37.3",
-        "pdf_url": "https://journals.agh.edu.pl/geotour/article/download/1802/1370",
-        "source": {
-          "id": "https://openalex.org/S4210234437",
-          "display_name": "Geotourism/Geoturystyka",
-          "issn_l": "1731-0830",
-          "issn": [
-            "1731-0830",
-            "2353-3641"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310317504",
-          "host_organization_name": "AGH University of Science and Technology",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310317504"
-          ],
-          "host_organization_lineage_names": [
-            "AGH University of Science and Technology"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geotourism/Geoturystyka",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2254901902.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2254901902.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W4223932698",
-        "https://openalex.org/W2006660804",
-        "https://openalex.org/W3211145083",
-        "https://openalex.org/W35690215",
-        "https://openalex.org/W2014367936",
-        "https://openalex.org/W2011988295",
-        "https://openalex.org/W2032570166",
-        "https://openalex.org/W2134931224",
-        "https://openalex.org/W2885319399",
-        "https://openalex.org/W1507794547"
-      ],
-      "abstract_inverted_index": {
-        "60": [
-          75
-        ],
-        "The": [
-          0,
-          25,
-          45
-        ],
-        "volcanic": [
-          1,
-          82
-        ],
-        "fi": [
-          2,
-          56
-        ],
-        "eld": [
-          3
-        ],
-        "of": [
-          4,
-          8,
-          15,
-          20,
-          42
-        ],
-        "Harrat": [
-          5
-        ],
-        "Khaybar": [
-          6
-        ],
-        "north": [
-          7
-        ],
-        "Al-Madinah,": [
-          9
-        ],
-        "Saudi": [
-          10
-        ],
-        "Arabia": [
-          11
-        ],
-        "contains": [
-          12
-        ],
-        "rare": [
-          13
-        ],
-        "examples": [
-          14
-        ],
-        "white": [
-          16,
-          33,
-          46
-        ],
-        "volcanoes": [
-          17,
-          47
-        ],
-        "comprised": [
-          18
-        ],
-        "mainly": [
-          19
-        ],
-        "the": [
-          21,
-          32,
-          43,
-          60,
-          81,
-          98
-        ],
-        "felsic": [
-          22
-        ],
-        "rock": [
-          23
-        ],
-        "comendite.": [
-          24
-        ],
-        "obsidian": [
-          26
-        ],
-        "that": [
-          27,
-          58
-        ],
-        "occurs": [
-          28
-        ],
-        "in": [
-          29,
-          94
-        ],
-        "association": [
-          30
-        ],
-        "with": [
-          31
-        ],
-        "comendite": [
-          34
-        ],
-        "was": [
-          35
-        ],
-        "exploited": [
-          36
-        ],
-        "and": [
-          37,
-          63,
-          67,
-          86
-        ],
-        "worked": [
-          38
-        ],
-        "by": [
-          39,
-          50
-        ],
-        "Neolithic": [
-          40
-        ],
-        "inhabitants": [
-          41
-        ],
-        "area.": [
-          44
-        ],
-        "are": [
-          48
-        ],
-        "surrounded": [
-          49
-        ],
-        "more": [
-          51
-        ],
-        "recent": [
-          52
-        ],
-        "black": [
-          53
-        ],
-        "basaltic": [
-          54
-        ],
-        "lava": [
-          55
-        ],
-        "elds": [
-          57
-        ],
-        "follow": [
-          59
-        ],
-        "pre-existing": [
-          61
-        ],
-        "topography": [
-          62
-        ],
-        "display": [
-          64
-        ],
-        "both": [
-          65
-        ],
-        "aa": [
-          66
-        ],
-        "pahoehoe": [
-          68
-        ],
-        "fl": [
-          69
-        ],
-        "ow": [
-          70
-        ],
-        "structures.": [
-          71
-        ],
-        "Although": [
-          72
-        ],
-        "situated": [
-          73
-        ],
-        "only": [
-          74
-        ],
-        "km": [
-          76
-        ],
-        "from": [
-          77
-        ],
-        "a": [
-          78
-        ],
-        "busy": [
-          79
-        ],
-        "motorway,": [
-          80
-        ],
-        "area": [
-          83
-        ],
-        "is": [
-          84
-        ],
-        "remote": [
-          85
-        ],
-        "all": [
-          87
-        ],
-        "necessary": [
-          88
-        ],
-        "safety": [
-          89
-        ],
-        "precautions": [
-          90
-        ],
-        "must": [
-          91
-        ],
-        "be": [
-          92
-        ],
-        "taken": [
-          93
-        ],
-        "order": [
-          95
-        ],
-        "to": [
-          96
-        ],
-        "visit": [
-          97
-        ],
-        "volcanoes.": [
-          99
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4231640444",
@@ -7217,8 +7224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231640444.pdf",
@@ -8639,8 +8646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4246434093.pdf",
@@ -9743,8 +9750,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -10565,8 +10572,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11468,8 +11475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12554,8 +12561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13089,8 +13096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
