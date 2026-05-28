@@ -1065,9 +1065,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/3"
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [
@@ -2533,9 +2533,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3288,9 +3288,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4057,9 +4057,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5607,9 +5607,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/3"
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [],
@@ -6867,9 +6867,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8561,9 +8561,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9897,9 +9897,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10665,9 +10665,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11792,9 +11792,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11908,754 +11908,6 @@
       ],
       "updated_date": "2026-04-21T08:09:41.155169",
       "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2783424239",
-      "doi": "https://doi.org/10.5194/jm-37-149-2018",
-      "title": "The occurrence of a shallow-water &amp;lt;i&amp;gt;Ammobaculoides&amp;lt;/i&amp;gt; assemblage in the Middle Jurassic (Bajocian) Dhruma Formation of Central Saudi Arabia",
-      "display_name": "The occurrence of a shallow-water &amp;lt;i&amp;gt;Ammobaculoides&amp;lt;/i&amp;gt; assemblage in the Middle Jurassic (Bajocian) Dhruma Formation of Central Saudi Arabia",
-      "publication_year": 2018,
-      "publication_date": "2018-01-11",
-      "ids": {
-        "openalex": "https://openalex.org/W2783424239",
-        "doi": "https://doi.org/10.5194/jm-37-149-2018",
-        "mag": "2783424239"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.5194/jm-37-149-2018",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
-        "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
-        "source": {
-          "id": "https://openalex.org/S90051289",
-          "display_name": "Journal of Micropalaeontology",
-          "issn_l": "0262-821X",
-          "issn": [
-            "0262-821X",
-            "2041-4978"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310313756",
-          "host_organization_name": "Copernicus Publications",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310313756"
-          ],
-          "host_organization_lineage_names": [
-            "Copernicus Publications"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Micropalaeontology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5035815399",
-            "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael A. Kaminski",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009697450",
-            "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Muhammad Hammad Malik",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5022658602",
-            "display_name": "Eiichi Setoyama",
-            "orcid": "https://orcid.org/0000-0001-9972-7055"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223532165",
-              "display_name": "University of Utah",
-              "ror": "https://ror.org/03r0ha626",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223532165"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Eiichi Setoyama",
-          "raw_affiliation_strings": [
-            "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA",
-              "institution_ids": [
-                "https://openalex.org/I223532165"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009697450",
-        "https://openalex.org/A5022658602",
-        "https://openalex.org/A5035815399"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I223532165"
-      ],
-      "apc_list": {
-        "value": 780,
-        "currency": "EUR",
-        "value_usd": 841
-      },
-      "apc_paid": {
-        "value": 780,
-        "currency": "EUR",
-        "value_usd": 841
-      },
-      "fwci": 0.865,
-      "has_fulltext": true,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.81550622,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "37",
-        "issue": "1",
-        "first_page": "149",
-        "last_page": "152"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.996399998664856,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7005389928817749
-        },
-        {
-          "id": "https://openalex.org/keywords/assemblage",
-          "display_name": "Assemblage (archaeology)",
-          "score": 0.6862287521362305
-        },
-        {
-          "id": "https://openalex.org/keywords/genus",
-          "display_name": "Genus",
-          "score": 0.6471018195152283
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5927703976631165
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.5551236271858215
-        },
-        {
-          "id": "https://openalex.org/keywords/zoology",
-          "display_name": "Zoology",
-          "score": 0.1721828579902649
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.12077504396438599
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7005389928817749
-        },
-        {
-          "id": "https://openalex.org/C2777798969",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Assemblage (archaeology)",
-          "level": 2,
-          "score": 0.6862287521362305
-        },
-        {
-          "id": "https://openalex.org/C157369684",
-          "wikidata": "https://www.wikidata.org/wiki/Q34740",
-          "display_name": "Genus",
-          "level": 2,
-          "score": 0.6471018195152283
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5927703976631165
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.5551236271858215
-        },
-        {
-          "id": "https://openalex.org/C90856448",
-          "wikidata": "https://www.wikidata.org/wiki/Q431",
-          "display_name": "Zoology",
-          "level": 1,
-          "score": 0.1721828579902649
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.12077504396438599
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.5194/jm-37-149-2018",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
-          "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
-          "source": {
-            "id": "https://openalex.org/S90051289",
-            "display_name": "Journal of Micropalaeontology",
-            "issn_l": "0262-821X",
-            "issn": [
-              "0262-821X",
-              "2041-4978"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310313756",
-            "host_organization_name": "Copernicus Publications",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310313756"
-            ],
-            "host_organization_lineage_names": [
-              "Copernicus Publications"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Micropalaeontology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:publications.copernicus.org:jm63648",
-          "is_oa": true,
-          "landing_page_url": "https://www.j-micropalaeontol.net/37/149/2018/",
-          "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/",
-          "source": {
-            "id": "https://openalex.org/S4306400433",
-            "display_name": "Biogeosciences (European Geosciences Union)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I2799957102",
-            "host_organization_name": "European Geosciences Union",
-            "host_organization_lineage": [
-              "https://openalex.org/I2799957102"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "eISSN: 2041-4978",
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.5194/jm-37-149-2018",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
-        "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
-        "source": {
-          "id": "https://openalex.org/S90051289",
-          "display_name": "Journal of Micropalaeontology",
-          "issn_l": "0262-821X",
-          "issn": [
-            "0262-821X",
-            "2041-4978"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310313756",
-          "host_organization_name": "Copernicus Publications",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310313756"
-          ],
-          "host_organization_lineage_names": [
-            "Copernicus Publications"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Micropalaeontology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2783424239.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2783424239.grobid-xml"
-      },
-      "referenced_works_count": 13,
-      "referenced_works": [
-        "https://openalex.org/W6939073",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1565182374",
-        "https://openalex.org/W1968584894",
-        "https://openalex.org/W1990465761",
-        "https://openalex.org/W2094122790",
-        "https://openalex.org/W2094937650",
-        "https://openalex.org/W2141460615",
-        "https://openalex.org/W2317675476",
-        "https://openalex.org/W2322667926",
-        "https://openalex.org/W2480689521",
-        "https://openalex.org/W2916537484",
-        "https://openalex.org/W2944267028"
-      ],
-      "related_works": [
-        "https://openalex.org/W2732934408",
-        "https://openalex.org/W4250926387",
-        "https://openalex.org/W2180769216",
-        "https://openalex.org/W2750673835",
-        "https://openalex.org/W2370283091",
-        "https://openalex.org/W4252459214",
-        "https://openalex.org/W2221145809",
-        "https://openalex.org/W2020878457",
-        "https://openalex.org/W2422869262",
-        "https://openalex.org/W2337246420"
-      ],
-      "abstract_inverted_index": {
-        "Abstract.": [
-          0
-        ],
-        "We": [
-          1
-        ],
-        "report": [
-          2
-        ],
-        "the": [
-          3,
-          10,
-          14,
-          34,
-          38,
-          44,
-          48,
-          66,
-          72
-        ],
-        "occurrence": [
-          4,
-          70
-        ],
-        "of": [
-          5,
-          13,
-          21,
-          37,
-          47,
-          71
-        ],
-        "an": [
-          6,
-          55
-        ],
-        "Ammobaculoides-dominated": [
-          7
-        ],
-        "assemblage": [
-          8
-        ],
-        "in": [
-          9
-        ],
-        "lowermost": [
-          11
-        ],
-        "member": [
-          12
-        ],
-        "Middle": [
-          15
-        ],
-        "Jurassic": [
-          16
-        ],
-        "Dhruma": [
-          17,
-          49
-        ],
-        "Formation": [
-          18
-        ],
-        "exposed": [
-          19
-        ],
-        "west": [
-          20
-        ],
-        "Riyadh,": [
-          22
-        ],
-        "Saudi": [
-          23
-        ],
-        "Arabia.": [
-          24
-        ],
-        "The": [
-          25
-        ],
-        "new": [
-          26,
-          63
-        ],
-        "species": [
-          27
-        ],
-        "Ammobaculoides": [
-          28,
-          76
-        ],
-        "dhrumaensis": [
-          29
-        ],
-        "n.sp.": [
-          30
-        ],
-        "is": [
-          31
-        ],
-        "described": [
-          32
-        ],
-        "from": [
-          33
-        ],
-        "green": [
-          35
-        ],
-        "shale": [
-          36
-        ],
-        "D1": [
-          39
-        ],
-        "unit": [
-          40
-        ],
-        "(also": [
-          41
-        ],
-        "known": [
-          42
-        ],
-        "as": [
-          43
-        ],
-        "Balum": [
-          45
-        ],
-        "Member)": [
-          46
-        ],
-        "Formation,": [
-          50
-        ],
-        "which": [
-          51
-        ],
-        "has": [
-          52
-        ],
-        "been": [
-          53
-        ],
-        "assigned": [
-          54
-        ],
-        "early": [
-          56
-        ],
-        "Bajocian": [
-          57
-        ],
-        "age": [
-          58
-        ],
-        "based": [
-          59
-        ],
-        "on": [
-          60
-        ],
-        "ammonites.": [
-          61
-        ],
-        "Our": [
-          62
-        ],
-        "finding": [
-          64
-        ],
-        "constitutes": [
-          65
-        ],
-        "oldest": [
-          67
-        ],
-        "reported": [
-          68
-        ],
-        "worldwide": [
-          69
-        ],
-        "agglutinated": [
-          73
-        ],
-        "foraminiferal": [
-          74
-        ],
-        "genus": [
-          75
-        ],
-        "Plummer,": [
-          77
-        ],
-        "1932.": [
-          78
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-05-21T06:26:12.895304",
-      "created_date": "2018-01-26T00:00:00"
     },
     {
       "id": "https://openalex.org/W4392889256",
@@ -12795,17 +12047,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3273,
+      "fwci": 5.7368,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.92412391,
+        "value": 0.94216867,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 90,
-        "max": 96
+        "max": 98
       },
       "biblio": {
         "volume": "21",
@@ -13097,9 +12349,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13619,6 +12871,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -13627,8 +12883,756 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-05-28T09:10:13.091523",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2783424239",
+      "doi": "https://doi.org/10.5194/jm-37-149-2018",
+      "title": "The occurrence of a shallow-water &amp;lt;i&amp;gt;Ammobaculoides&amp;lt;/i&amp;gt; assemblage in the Middle Jurassic (Bajocian) Dhruma Formation of Central Saudi Arabia",
+      "display_name": "The occurrence of a shallow-water &amp;lt;i&amp;gt;Ammobaculoides&amp;lt;/i&amp;gt; assemblage in the Middle Jurassic (Bajocian) Dhruma Formation of Central Saudi Arabia",
+      "publication_year": 2018,
+      "publication_date": "2018-01-11",
+      "ids": {
+        "openalex": "https://openalex.org/W2783424239",
+        "doi": "https://doi.org/10.5194/jm-37-149-2018",
+        "mag": "2783424239"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5194/jm-37-149-2018",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
+        "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
+        "source": {
+          "id": "https://openalex.org/S90051289",
+          "display_name": "Journal of Micropalaeontology",
+          "issn_l": "0262-821X",
+          "issn": [
+            "0262-821X",
+            "2041-4978"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Micropalaeontology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5035815399",
+            "display_name": "Michael A. Kaminski",
+            "orcid": "https://orcid.org/0000-0002-7344-5874"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael A. Kaminski",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009697450",
+            "display_name": "Muhammad Hammad Malik",
+            "orcid": "https://orcid.org/0000-0002-9451-0188"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Muhammad Hammad Malik",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, GeoSciences\nDepartment, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5022658602",
+            "display_name": "Eiichi Setoyama",
+            "orcid": "https://orcid.org/0000-0001-9972-7055"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223532165",
+              "display_name": "University of Utah",
+              "ror": "https://ror.org/03r0ha626",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223532165"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Eiichi Setoyama",
+          "raw_affiliation_strings": [
+            "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy & Geoscience\nInstitute, University of Utah, 423 Wakara Way, Suite 300,  Salt Lake City,\nUtah 84108, USA",
+              "institution_ids": [
+                "https://openalex.org/I223532165"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5009697450",
+        "https://openalex.org/A5022658602",
+        "https://openalex.org/A5035815399"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I223532165"
+      ],
+      "apc_list": {
+        "value": 780,
+        "currency": "EUR",
+        "value_usd": 841
+      },
+      "apc_paid": {
+        "value": 780,
+        "currency": "EUR",
+        "value_usd": 841
+      },
+      "fwci": 0.865,
+      "has_fulltext": true,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.81550622,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "37",
+        "issue": "1",
+        "first_page": "149",
+        "last_page": "152"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.996399998664856,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7005389928817749
+        },
+        {
+          "id": "https://openalex.org/keywords/assemblage",
+          "display_name": "Assemblage (archaeology)",
+          "score": 0.6862287521362305
+        },
+        {
+          "id": "https://openalex.org/keywords/genus",
+          "display_name": "Genus",
+          "score": 0.6471018195152283
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5927703976631165
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.5551236271858215
+        },
+        {
+          "id": "https://openalex.org/keywords/zoology",
+          "display_name": "Zoology",
+          "score": 0.1721828579902649
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.12077504396438599
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7005389928817749
+        },
+        {
+          "id": "https://openalex.org/C2777798969",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Assemblage (archaeology)",
+          "level": 2,
+          "score": 0.6862287521362305
+        },
+        {
+          "id": "https://openalex.org/C157369684",
+          "wikidata": "https://www.wikidata.org/wiki/Q34740",
+          "display_name": "Genus",
+          "level": 2,
+          "score": 0.6471018195152283
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5927703976631165
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.5551236271858215
+        },
+        {
+          "id": "https://openalex.org/C90856448",
+          "wikidata": "https://www.wikidata.org/wiki/Q431",
+          "display_name": "Zoology",
+          "level": 1,
+          "score": 0.1721828579902649
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.12077504396438599
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.5194/jm-37-149-2018",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
+          "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
+          "source": {
+            "id": "https://openalex.org/S90051289",
+            "display_name": "Journal of Micropalaeontology",
+            "issn_l": "0262-821X",
+            "issn": [
+              "0262-821X",
+              "2041-4978"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310313756",
+            "host_organization_name": "Copernicus Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313756"
+            ],
+            "host_organization_lineage_names": [
+              "Copernicus Publications"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Micropalaeontology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:publications.copernicus.org:jm63648",
+          "is_oa": true,
+          "landing_page_url": "https://www.j-micropalaeontol.net/37/149/2018/",
+          "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/",
+          "source": {
+            "id": "https://openalex.org/S4306400433",
+            "display_name": "Biogeosciences (European Geosciences Union)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I2799957102",
+            "host_organization_name": "European Geosciences Union",
+            "host_organization_lineage": [
+              "https://openalex.org/I2799957102"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "eISSN: 2041-4978",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5194/jm-37-149-2018",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/jm-37-149-2018",
+        "pdf_url": "https://www.j-micropalaeontol.net/37/149/2018/jm-37-149-2018.pdf",
+        "source": {
+          "id": "https://openalex.org/S90051289",
+          "display_name": "Journal of Micropalaeontology",
+          "issn_l": "0262-821X",
+          "issn": [
+            "0262-821X",
+            "2041-4978"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Micropalaeontology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2783424239.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2783424239.grobid-xml"
+      },
+      "referenced_works_count": 13,
+      "referenced_works": [
+        "https://openalex.org/W6939073",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1565182374",
+        "https://openalex.org/W1968584894",
+        "https://openalex.org/W1990465761",
+        "https://openalex.org/W2094122790",
+        "https://openalex.org/W2094937650",
+        "https://openalex.org/W2141460615",
+        "https://openalex.org/W2317675476",
+        "https://openalex.org/W2322667926",
+        "https://openalex.org/W2480689521",
+        "https://openalex.org/W2916537484",
+        "https://openalex.org/W2944267028"
+      ],
+      "related_works": [
+        "https://openalex.org/W2732934408",
+        "https://openalex.org/W4250926387",
+        "https://openalex.org/W2180769216",
+        "https://openalex.org/W2750673835",
+        "https://openalex.org/W2370283091",
+        "https://openalex.org/W4252459214",
+        "https://openalex.org/W2221145809",
+        "https://openalex.org/W2020878457",
+        "https://openalex.org/W2422869262",
+        "https://openalex.org/W2337246420"
+      ],
+      "abstract_inverted_index": {
+        "Abstract.": [
+          0
+        ],
+        "We": [
+          1
+        ],
+        "report": [
+          2
+        ],
+        "the": [
+          3,
+          10,
+          14,
+          34,
+          38,
+          44,
+          48,
+          66,
+          72
+        ],
+        "occurrence": [
+          4,
+          70
+        ],
+        "of": [
+          5,
+          13,
+          21,
+          37,
+          47,
+          71
+        ],
+        "an": [
+          6,
+          55
+        ],
+        "Ammobaculoides-dominated": [
+          7
+        ],
+        "assemblage": [
+          8
+        ],
+        "in": [
+          9
+        ],
+        "lowermost": [
+          11
+        ],
+        "member": [
+          12
+        ],
+        "Middle": [
+          15
+        ],
+        "Jurassic": [
+          16
+        ],
+        "Dhruma": [
+          17,
+          49
+        ],
+        "Formation": [
+          18
+        ],
+        "exposed": [
+          19
+        ],
+        "west": [
+          20
+        ],
+        "Riyadh,": [
+          22
+        ],
+        "Saudi": [
+          23
+        ],
+        "Arabia.": [
+          24
+        ],
+        "The": [
+          25
+        ],
+        "new": [
+          26,
+          63
+        ],
+        "species": [
+          27
+        ],
+        "Ammobaculoides": [
+          28,
+          76
+        ],
+        "dhrumaensis": [
+          29
+        ],
+        "n.sp.": [
+          30
+        ],
+        "is": [
+          31
+        ],
+        "described": [
+          32
+        ],
+        "from": [
+          33
+        ],
+        "green": [
+          35
+        ],
+        "shale": [
+          36
+        ],
+        "D1": [
+          39
+        ],
+        "unit": [
+          40
+        ],
+        "(also": [
+          41
+        ],
+        "known": [
+          42
+        ],
+        "as": [
+          43
+        ],
+        "Balum": [
+          45
+        ],
+        "Member)": [
+          46
+        ],
+        "Formation,": [
+          50
+        ],
+        "which": [
+          51
+        ],
+        "has": [
+          52
+        ],
+        "been": [
+          53
+        ],
+        "assigned": [
+          54
+        ],
+        "early": [
+          56
+        ],
+        "Bajocian": [
+          57
+        ],
+        "age": [
+          58
+        ],
+        "based": [
+          59
+        ],
+        "on": [
+          60
+        ],
+        "ammonites.": [
+          61
+        ],
+        "Our": [
+          62
+        ],
+        "finding": [
+          64
+        ],
+        "constitutes": [
+          65
+        ],
+        "oldest": [
+          67
+        ],
+        "reported": [
+          68
+        ],
+        "worldwide": [
+          69
+        ],
+        "agglutinated": [
+          73
+        ],
+        "foraminiferal": [
+          74
+        ],
+        "genus": [
+          75
+        ],
+        "Plummer,": [
+          77
+        ],
+        "1932.": [
+          78
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2018-01-26T00:00:00"
     },
     {
       "id": "https://openalex.org/W4412018459",
@@ -14244,9 +14248,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15049,9 +15053,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -16016,9 +16020,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/3"
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [],
@@ -16980,9 +16984,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17613,9 +17617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -18164,9 +18168,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19546,9 +19550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
