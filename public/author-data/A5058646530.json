@@ -1052,8 +1052,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -2720,8 +2720,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -4234,8 +4234,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4000000059604645
         }
       ],
@@ -5938,8 +5938,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],
@@ -6978,8 +6978,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -8063,11 +8063,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5736,
+      "fwci": 3.5738,
       "has_fulltext": false,
-      "cited_by_count": 113,
+      "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.92909699,
+        "value": 0.92910064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8416,8 +8416,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -8923,7 +8923,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -8982,7 +8982,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-05-29T09:21:14.243279",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9521,6 +9521,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I2540865",
+              "display_name": "Institut Français",
+              "ror": "https://ror.org/047hdnt12",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2540865"
+              ]
+            },
+            {
               "id": "https://openalex.org/I7923278",
               "display_name": "Shell (Netherlands)",
               "ror": "https://ror.org/00b5m4j81",
@@ -9532,14 +9542,23 @@
             }
           ],
           "countries": [
+            "FR",
             "NL"
           ],
           "is_corresponding": true,
-          "raw_author_name": "H. Hillgartner",
+          "raw_author_name": "Heiko Hillgärtner",
           "raw_affiliation_strings": [
+            "1Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Shell International Exploration and Production B.V., Technology Applications and Research, Volmerlaan 8, Postbus 60, 2280 AB Rijswijk, The Netherlands",
             "Shell (Netherlands), The Hague, Netherlands"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Shell International Exploration and Production B.V., Technology Applications and Research, Volmerlaan 8, Postbus 60, 2280 AB Rijswijk, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I2540865"
+              ]
+            },
             {
               "raw_affiliation_string": "Shell (Netherlands), The Hague, Netherlands",
               "institution_ids": [
@@ -9571,11 +9590,19 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "F. S.P. van Buchem",
+          "raw_author_name": "Frans S.P. van Buchem",
           "raw_affiliation_strings": [
+            "2Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
             "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2540865"
+              ]
+            },
             {
               "raw_affiliation_string": "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
@@ -9607,11 +9634,19 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "F. Gaumet",
+          "raw_author_name": "Fabrice Gaumet",
           "raw_affiliation_strings": [
+            "3Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
             "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "3Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2540865"
+              ]
+            },
             {
               "raw_affiliation_string": "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
@@ -9643,11 +9678,19 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "P. Razin",
+          "raw_author_name": "Philippe Razin",
           "raw_affiliation_strings": [
+            "4EGID-Université Bordeaux 3, F-33407 Pessac, Cedex, France",
             "EGID-Université Bordeaux 3, F-33407 Pessac, Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "4EGID-Université Bordeaux 3, F-33407 Pessac, Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
             {
               "raw_affiliation_string": "EGID-Université Bordeaux 3, F-33407 Pessac, Cedex, France",
               "institution_ids": [
@@ -9674,17 +9717,36 @@
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I203339264"
               ]
+            },
+            {
+              "id": "https://openalex.org/I2540865",
+              "display_name": "Institut Français",
+              "ror": "https://ror.org/047hdnt12",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2540865"
+              ]
             }
           ],
           "countries": [
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "B. Pittet",
+          "raw_author_name": "Bernard Pittet",
           "raw_affiliation_strings": [
+            "5Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Universite Claude-Bernard Lyon 1, Centre des Sciences de la Terre, UFR-UMR5125, 27-43 Bd du 11 Novembre, F-69622 Villeurbanne Cedex, France",
             "Université Claude Bernard Lyon 1, Villeurbanne, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "5Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Universite Claude-Bernard Lyon 1, Centre des Sciences de la Terre, UFR-UMR5125, 27-43 Bd du 11 Novembre, F-69622 Villeurbanne Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2540865",
+                "https://openalex.org/I100532134"
+              ]
+            },
             {
               "raw_affiliation_string": "Université Claude Bernard Lyon 1, Villeurbanne, France",
               "institution_ids": [
@@ -9700,17 +9762,40 @@
             "display_name": "Jürgen Grötsch",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "J. Grotsch",
+          "raw_author_name": "Jürgen Grötsch",
           "raw_affiliation_strings": [
+            "6Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E",
             "Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
+              "raw_affiliation_string": "6Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            },
+            {
               "raw_affiliation_string": "Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
             }
           ]
         },
@@ -9721,14 +9806,35 @@
             "display_name": "Henk Droste",
             "orcid": "https://orcid.org/0009-0008-1422-1783"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "H. Droste",
+          "raw_author_name": "Henk Droste",
           "raw_affiliation_strings": [
+            "7Petroleum Development Oman, Exploration Lab, P.O. Box 81, Postal Code 113, Muscat, Sultanate of Oman",
             "Petroleum Development Oman, Exploration Lab, P.O. Box 81, Postal Code 113, Muscat, Sultanate of Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "7Petroleum Development Oman, Exploration Lab, P.O. Box 81, Postal Code 113, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            },
             {
               "raw_affiliation_string": "Petroleum Development Oman, Exploration Lab, P.O. Box 81, Postal Code 113, Muscat, Sultanate of Oman",
               "institution_ids": []
@@ -9737,21 +9843,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5051979229"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I2540865",
         "https://openalex.org/I7923278"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.5871,
+      "fwci": 6.5777,
       "has_fulltext": false,
       "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.96199132,
+        "value": 0.96195876,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10060,8 +10167,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568
         }
       ],
@@ -10172,784 +10279,819 @@
         "https://openalex.org/W3045007281"
       ],
       "abstract_inverted_index": {
-        "Carbonate": [
+        "Abstract": [
           0
         ],
+        "Carbonate": [
+          1
+        ],
         "platform": [
-          1,
-          25,
-          87,
-          102,
-          149,
-          162,
-          212,
-          280,
-          337
-        ],
-        "margins": [
-          2
-        ],
-        "are": [
-          3,
-          225,
-          290
-        ],
-        "sensitive": [
-          4
-        ],
-        "recorders": [
-          5
-        ],
-        "of": [
-          6,
-          19,
-          59,
-          69,
-          85,
+          2,
+          26,
+          91,
           107,
-          181,
-          190,
-          201,
-          230,
-          240,
-          274,
-          317
-        ],
-        "changes": [
-          7,
-          44,
-          95,
-          224,
-          284
-        ],
-        "in": [
-          8,
-          52,
-          109,
-          121,
-          144,
-          173,
-          252,
-          271,
-          285,
-          295,
-          312,
-          358
-        ],
-        "sea": [
-          9
-        ],
-        "level": [
-          10
-        ],
-        "and": [
-          11,
-          13,
-          21,
-          42,
-          81,
-          93,
-          118,
-          128,
-          143,
-          159,
-          179,
-          184,
-          208,
-          237,
-          287,
-          314,
-          333
-        ],
-        "climate": [
-          12
-        ],
-        "can": [
-          14,
-          73
-        ],
-        "reveal": [
-          15
-        ],
-        "the": [
-          16,
-          30,
-          53,
-          60,
-          65,
-          70,
-          86,
-          97,
-          122,
-          132,
-          136,
-          141,
-          145,
-          182,
-          196,
-          202,
-          228,
-          241,
-          253,
-          275,
-          277,
-          281,
-          320,
-          325,
-          346
-        ],
-        "relative": [
-          17,
-          222
-        ],
-        "importance": [
-          18
-        ],
-        "global": [
-          20,
-          261,
-          283,
-          349
-        ],
-        "regional": [
-          22
-        ],
-        "controls": [
-          23
-        ],
-        "on": [
-          24,
-          29,
-          227
-        ],
-        "evolution.This": [
-          26
-        ],
-        "paper": [
-          27
-        ],
-        "focuses": [
-          28
-        ],
-        "Barremian": [
-          31,
-          214
-        ],
-        "to": [
-          32,
-          111,
-          125,
-          155,
-          177,
-          215,
-          260,
-          302,
-          324,
-          345
-        ],
-        "Aptian": [
-          33,
-          148,
-          348
-        ],
-        "interval": [
-          34
-        ],
-        "(mid": [
-          35
-        ],
-        "Cretaceous),": [
-          36
-        ],
-        "which": [
-          37
-        ],
-        "is": [
-          38
-        ],
-        "known": [
-          39
-        ],
-        "for": [
-          40
-        ],
-        "climatic": [
-          41
-        ],
-        "environmental": [
-          43,
-          92
-        ],
-        "towards": [
-          45
-        ],
-        "more": [
-          46
-        ],
-        "intensified": [
-          47
-        ],
-        "greenhouse": [
-          48
-        ],
-        "conditions.The": [
-          49
-        ],
-        "study": [
-          50
-        ],
-        "area": [
-          51
-        ],
-        "northern": [
-          54
-        ],
-        "Oman": [
-          55
-        ],
-        "mountains": [
-          56
-        ],
-        "offers": [
-          57
-        ],
-        "one": [
-          58
-        ],
-        "very": [
-          61
-        ],
-        "few": [
-          62
-        ],
-        "locations": [
-          63
-        ],
-        "where": [
-          64
-        ],
-        "Cretaceous": [
-          66,
-          101
-        ],
-        "carbonate": [
-          67,
-          211,
-          328
-        ],
-        "margin": [
-          68,
-          88,
-          103,
-          150,
-          183,
-          242,
-          338
-        ],
-        "Arabian": [
-          71,
-          203,
-          279
-        ],
-        "Plate": [
-          72
-        ],
-        "be": [
-          74
-        ],
-        "studied": [
-          75
-        ],
-        "along": [
-          76
-        ],
-        "continuous": [
-          77
-        ],
-        "outcrops.Our": [
-          78
-        ],
-        "detailed": [
-          79
-        ],
-        "sedimentological": [
-          80
-        ],
-        "sequence": [
-          82
-        ],
-        "stratigraphic": [
-          83,
-          98
-        ],
-        "model": [
-          84
-        ],
-        "demonstrates": [
-          89
-        ],
-        "how": [
-          90
-        ],
-        "major": [
-          91
-        ],
-        "ecological": [
-          94
-        ],
-        "controlled": [
-          96
-        ],
-        "architecture.The": [
-          99
-        ],
-        "Early": [
-          100,
-          147,
-          216,
-          254,
-          347
-        ],
-        "shows": [
-          104,
-          151
-        ],
-        "high": [
-          105
-        ],
-        "rates": [
-          106,
-          117
-        ],
-        "progradation": [
-          108
-        ],
-        "Berriasian": [
-          110
-        ],
-        "Hauterivian": [
-          112,
-          124
-        ],
-        "times": [
-          113
-        ],
-        "followed": [
-          114
-        ],
-        "by": [
-          115,
-          168,
-          194,
-          234,
-          267,
-          330
-        ],
-        "lower": [
-          116
-        ],
-        "some": [
-          119
-        ],
-        "aggradation": [
-          120
-        ],
-        "Late": [
-          123,
-          197
-        ],
-        "Barremian.High-energy": [
-          126
-        ],
-        "bioclastic": [
-          127
-        ],
-        "oolitic": [
-          129
-        ],
-        "sands": [
-          130
-        ],
-        "were": [
-          131,
-          138,
-          205
-        ],
-        "dominant": [
-          133
-        ],
-        "deposits": [
-          134,
-          308
-        ],
-        "at": [
-          135,
-          140
-        ],
-        "margin.Turbidites": [
-          137
-        ],
-        "deposited": [
-          139
-        ],
-        "slope": [
-          142,
-          185
-        ],
-        "basin.The": [
-          146
-        ],
-        "a": [
-          152,
-          160,
-          188,
-          209,
-          293,
-          303,
-          342
-        ],
-        "marked": [
-          153
-        ],
-        "change": [
-          154,
-          294
-        ],
-        "purely": [
-          156
-        ],
-        "aggradational": [
-          157
-        ],
-        "geometries": [
-          158,
-          243
-        ],
-        "well-developed": [
-          161
-        ],
-        "barrier": [
-          163
-        ],
-        "that": [
-          164,
-          245,
-          264
-        ],
-        "was": [
-          165,
-          256,
-          265
-        ],
-        "formed": [
-          166
-        ],
-        "mainly": [
-          167
-        ],
-        "microbial": [
-          169,
-          174,
-          304,
-          335
-        ],
-        "buildups.The": [
-          170
-        ],
-        "sudden": [
-          171
-        ],
-        "dominance": [
-          172
-        ],
-        "activity": [
-          175,
-          247,
-          270
-        ],
-        "led": [
-          176
-        ],
-        "cementation": [
-          178
-        ],
-        "stabilization": [
-          180
-        ],
-        "and,": [
-          186
-        ],
-        "therefore,": [
-          187
-        ],
-        "decrease": [
-          189
-        ],
-        "downslope": [
-          191
-        ],
-        "sediment": [
-          192
-        ],
-        "transport": [
-          193
-        ],
-        "turbidites.In": [
-          195
-        ],
-        "Aptian,": [
-          198
-        ],
-        "large": [
-          199
-        ],
-        "parts": [
-          200,
-          273
-        ],
-        "craton": [
-          204
-        ],
-        "subaerially": [
-          206
-        ],
-        "exposed": [
-          207
-        ],
-        "fringing": [
-          210
-        ],
-        "formed.Seven": [
-          213
-        ],
-        "Albian": [
-          217
-        ],
-        "large-scale": [
-          218
-        ],
-        "depositional": [
-          219
-        ],
-        "sequences": [
-          220
-        ],
-        "reflecting": [
-          221
-        ],
-        "sea-level": [
-          223
-        ],
-        "identified": [
-          226
-        ],
-        "basis": [
-          229
-        ],
-        "time": [
-          231
-        ],
-        "lines": [
-          232
-        ],
-        "constrained": [
-          233
-        ],
-        "physical": [
-          235
-        ],
-        "correlation": [
-          236
-        ],
-        "biostratigraphy.The": [
-          238
-        ],
-        "reconstruction": [
-          239
-        ],
-        "suggests": [
-          244
-        ],
-        "tectonic": [
-          246
-        ],
-        "played": [
-          248
-        ],
-        "an": [
-          249,
-          299,
-          310,
+          157,
+          170,
+          222,
+          294,
           354
         ],
-        "important": [
-          250
+        "margins": [
+          3
         ],
-        "role": [
-          251
+        "are": [
+          4,
+          236,
+          304
         ],
-        "Aptian.This": [
-          255
+        "sensitive": [
+          5
         ],
-        "most": [
-          257
+        "recorders": [
+          6
         ],
-        "likely": [
-          258
-        ],
-        "related": [
-          259
-        ],
-        "plate": [
-          262
-        ],
-        "reorganization": [
-          263
-        ],
-        "accompanied": [
-          266
-        ],
-        "increased": [
-          268
-        ],
-        "volcanic": [
-          269
-        ],
-        "many": [
-          272
-        ],
-        "world.Along": [
-          276
-        ],
-        "northeastern": [
-          278
-        ],
-        "associated": [
-          282,
-          352
-        ],
-        "atmospheric": [
-          286
-        ],
-        "oceanic": [
-          288,
-          355
-        ],
-        "circulation": [
-          289
-        ],
-        "recorded": [
-          291
-        ],
-        "with": [
-          292,
-          353
-        ],
-        "platform-margin": [
-          296
-        ],
-        "ecology": [
-          297
-        ],
-        "from": [
-          298
-        ],
-        "ooid-bioclast": [
-          300
-        ],
-        "dominated": [
-          301,
-          305
-        ],
-        "margin.Time-equivalent": [
-          306
-        ],
-        "argillaceous": [
-          307
-        ],
-        "suggest": [
-          309
-        ],
-        "increase": [
-          311
-        ],
-        "rainfall": [
-          313
-        ],
-        "elevated": [
-          315
-        ],
-        "input": [
-          316
-        ],
-        "nutrients": [
-          318
-        ],
-        "onto": [
-          319
-        ],
-        "platform.This": [
-          321
-        ],
-        "process": [
-          322
-        ],
-        "contributed": [
-          323
-        ],
-        "strongly": [
-          326
-        ],
-        "diminished": [
-          327
-        ],
-        "production": [
-          329
-        ],
-        "other": [
-          331
-        ],
-        "organisms": [
+        "of": [
+          7,
+          20,
+          62,
+          72,
+          89,
+          112,
+          190,
+          199,
+          211,
+          241,
+          252,
+          287,
           332
         ],
-        "favored": [
-          334
+        "changes": [
+          8,
+          46,
+          99,
+          235,
+          298
         ],
-        "activity.The": [
-          336
+        "in": [
+          9,
+          55,
+          114,
+          126,
+          151,
+          182,
+          264,
+          284,
+          299,
+          309,
+          327,
+          375
         ],
-        "may": [
-          339
+        "sea": [
+          10
         ],
-        "thus": [
-          340
+        "level": [
+          11
         ],
-        "represent": [
-          341
+        "and": [
+          12,
+          14,
+          22,
+          44,
+          85,
+          97,
+          123,
+          134,
+          150,
+          167,
+          188,
+          193,
+          218,
+          248,
+          301,
+          329,
+          349
         ],
-        "shallow-marine": [
-          343
+        "climate": [
+          13
         ],
-        "response": [
+        "can": [
+          15,
+          76
+        ],
+        "reveal": [
+          16
+        ],
+        "the": [
+          17,
+          32,
+          56,
+          63,
+          68,
+          73,
+          90,
+          101,
+          127,
+          138,
+          142,
+          148,
+          152,
+          191,
+          206,
+          212,
+          239,
+          253,
+          265,
+          288,
+          291,
+          295,
+          335,
+          341,
+          363
+        ],
+        "relative": [
+          18,
+          233
+        ],
+        "importance": [
+          19
+        ],
+        "global": [
+          21,
+          274,
+          297,
+          366
+        ],
+        "regional": [
+          23
+        ],
+        "controls": [
+          24
+        ],
+        "on": [
+          25,
+          31,
+          238
+        ],
+        "evolution.": [
+          27
+        ],
+        "This": [
+          28,
+          268,
+          337
+        ],
+        "paper": [
+          29
+        ],
+        "focuses": [
+          30
+        ],
+        "Barremian": [
+          33,
+          225
+        ],
+        "to": [
+          34,
+          116,
+          130,
+          163,
+          186,
+          226,
+          273,
+          316,
+          340,
+          362
+        ],
+        "Aptian": [
+          35,
+          156,
+          365
+        ],
+        "interval": [
+          36
+        ],
+        "(mid": [
+          37
+        ],
+        "Cretaceous),": [
+          38
+        ],
+        "which": [
+          39
+        ],
+        "is": [
+          40
+        ],
+        "known": [
+          41
+        ],
+        "for": [
+          42
+        ],
+        "climatic": [
+          43
+        ],
+        "environmental": [
+          45,
+          96
+        ],
+        "towards": [
+          47
+        ],
+        "more": [
+          48
+        ],
+        "intensified": [
+          49
+        ],
+        "greenhouse": [
+          50
+        ],
+        "conditions.": [
+          51
+        ],
+        "The": [
+          52,
+          104,
+          154,
+          179,
+          250,
+          353
+        ],
+        "study": [
+          53
+        ],
+        "area": [
+          54
+        ],
+        "northern": [
+          57
+        ],
+        "Oman": [
+          58
+        ],
+        "mountains": [
+          59
+        ],
+        "offers": [
+          60
+        ],
+        "one": [
+          61
+        ],
+        "very": [
+          64
+        ],
+        "few": [
+          65
+        ],
+        "locations": [
+          66
+        ],
+        "where": [
+          67
+        ],
+        "Cretaceous": [
+          69,
+          106
+        ],
+        "carbonate": [
+          70,
+          221,
           344
         ],
-        "changes,": [
-          350
+        "margin": [
+          71,
+          92,
+          108,
+          158,
+          192,
+          254,
+          355
         ],
-        "commonly": [
-          351
+        "Arabian": [
+          74,
+          213,
+          293
         ],
-        "anoxic": [
-          356
+        "Plate": [
+          75
         ],
-        "event": [
-          357
+        "be": [
+          77
         ],
-        "basinal": [
+        "studied": [
+          78
+        ],
+        "along": [
+          79
+        ],
+        "continuous": [
+          80
+        ],
+        "outcrops.": [
+          81
+        ],
+        "Our": [
+          82
+        ],
+        "detailed": [
+          83
+        ],
+        "sedimentological": [
+          84
+        ],
+        "sequence": [
+          86
+        ],
+        "stratigraphic": [
+          87,
+          102
+        ],
+        "model": [
+          88
+        ],
+        "demonstrates": [
+          93
+        ],
+        "how": [
+          94
+        ],
+        "major": [
+          95
+        ],
+        "ecological": [
+          98
+        ],
+        "controlled": [
+          100
+        ],
+        "architecture.": [
+          103
+        ],
+        "Early": [
+          105,
+          155,
+          227,
+          266,
+          364
+        ],
+        "shows": [
+          109,
+          159
+        ],
+        "high": [
+          110
+        ],
+        "rates": [
+          111,
+          122
+        ],
+        "progradation": [
+          113
+        ],
+        "Berriasian": [
+          115
+        ],
+        "Hauterivian": [
+          117,
+          129
+        ],
+        "times": [
+          118
+        ],
+        "followed": [
+          119
+        ],
+        "by": [
+          120,
+          176,
+          203,
+          245,
+          280,
+          346
+        ],
+        "lower": [
+          121
+        ],
+        "some": [
+          124
+        ],
+        "aggradation": [
+          125
+        ],
+        "Late": [
+          128,
+          207
+        ],
+        "Barremian.": [
+          131
+        ],
+        "High-energy": [
+          132
+        ],
+        "bioclastic": [
+          133
+        ],
+        "oolitic": [
+          135
+        ],
+        "sands": [
+          136
+        ],
+        "were": [
+          137,
+          145,
+          215
+        ],
+        "dominant": [
+          139
+        ],
+        "deposits": [
+          140,
+          323
+        ],
+        "at": [
+          141,
+          147
+        ],
+        "margin.": [
+          143,
+          320
+        ],
+        "Turbidites": [
+          144
+        ],
+        "deposited": [
+          146
+        ],
+        "slope": [
+          149,
+          194
+        ],
+        "basin.": [
+          153
+        ],
+        "a": [
+          160,
+          168,
+          197,
+          219,
+          307,
+          317,
           359
         ],
-        "environments.": [
+        "marked": [
+          161
+        ],
+        "change": [
+          162,
+          308
+        ],
+        "purely": [
+          164
+        ],
+        "aggradational": [
+          165
+        ],
+        "geometries": [
+          166,
+          255
+        ],
+        "welldeveloped": [
+          169
+        ],
+        "barrier": [
+          171
+        ],
+        "that": [
+          172,
+          257,
+          277
+        ],
+        "was": [
+          173,
+          269,
+          278
+        ],
+        "formed": [
+          174
+        ],
+        "mainly": [
+          175
+        ],
+        "microbial": [
+          177,
+          183,
+          318,
+          351
+        ],
+        "buildups.": [
+          178
+        ],
+        "sudden": [
+          180
+        ],
+        "dominance": [
+          181
+        ],
+        "activity": [
+          184,
+          259,
+          283
+        ],
+        "led": [
+          185
+        ],
+        "cementation": [
+          187
+        ],
+        "stabilization": [
+          189
+        ],
+        "and,": [
+          195
+        ],
+        "therefore,": [
+          196
+        ],
+        "decrease": [
+          198
+        ],
+        "downslope": [
+          200
+        ],
+        "sediment": [
+          201
+        ],
+        "transport": [
+          202
+        ],
+        "turbidites.": [
+          204
+        ],
+        "In": [
+          205
+        ],
+        "Aptian,": [
+          208
+        ],
+        "large": [
+          209
+        ],
+        "parts": [
+          210,
+          286
+        ],
+        "craton": [
+          214
+        ],
+        "subaerially": [
+          216
+        ],
+        "exposed": [
+          217
+        ],
+        "fringing": [
+          220
+        ],
+        "formed.": [
+          223
+        ],
+        "Seven": [
+          224
+        ],
+        "Albian": [
+          228
+        ],
+        "large-scale": [
+          229
+        ],
+        "depositional": [
+          230
+        ],
+        "sequences": [
+          231
+        ],
+        "reflecting": [
+          232
+        ],
+        "sea-level": [
+          234
+        ],
+        "identified": [
+          237
+        ],
+        "basis": [
+          240
+        ],
+        "time": [
+          242
+        ],
+        "lines": [
+          243
+        ],
+        "constrained": [
+          244
+        ],
+        "physical": [
+          246
+        ],
+        "correlation": [
+          247
+        ],
+        "biostratigraphy.": [
+          249
+        ],
+        "reconstruction": [
+          251
+        ],
+        "suggests": [
+          256
+        ],
+        "tectonic": [
+          258
+        ],
+        "played": [
+          260
+        ],
+        "an": [
+          261,
+          313,
+          325,
+          371
+        ],
+        "important": [
+          262
+        ],
+        "role": [
+          263
+        ],
+        "Aptian.": [
+          267
+        ],
+        "most": [
+          270
+        ],
+        "likely": [
+          271
+        ],
+        "related": [
+          272
+        ],
+        "plate": [
+          275
+        ],
+        "reorganization": [
+          276
+        ],
+        "accompanied": [
+          279
+        ],
+        "increased": [
+          281
+        ],
+        "volcanic": [
+          282
+        ],
+        "many": [
+          285
+        ],
+        "world.": [
+          289
+        ],
+        "Along": [
+          290
+        ],
+        "northeastern": [
+          292
+        ],
+        "associated": [
+          296,
+          369
+        ],
+        "atmospheric": [
+          300
+        ],
+        "oceanic": [
+          302,
+          372
+        ],
+        "circulation": [
+          303
+        ],
+        "recorded": [
+          305
+        ],
+        "with": [
+          306,
+          370
+        ],
+        "platform-margin": [
+          310
+        ],
+        "ecology": [
+          311
+        ],
+        "from": [
+          312
+        ],
+        "ooid-bioclast": [
+          314
+        ],
+        "dominated": [
+          315,
+          319
+        ],
+        "Time-equivalent": [
+          321
+        ],
+        "argillaceous": [
+          322
+        ],
+        "suggest": [
+          324
+        ],
+        "increase": [
+          326
+        ],
+        "rainfall": [
+          328
+        ],
+        "elevated": [
+          330
+        ],
+        "input": [
+          331
+        ],
+        "nutrients": [
+          333
+        ],
+        "onto": [
+          334
+        ],
+        "platform.": [
+          336
+        ],
+        "process": [
+          338
+        ],
+        "contributed": [
+          339
+        ],
+        "strongly": [
+          342
+        ],
+        "diminished": [
+          343
+        ],
+        "production": [
+          345
+        ],
+        "other": [
+          347
+        ],
+        "organisms": [
+          348
+        ],
+        "favored": [
+          350
+        ],
+        "activity.": [
+          352
+        ],
+        "may": [
+          356
+        ],
+        "thus": [
+          357
+        ],
+        "represent": [
+          358
+        ],
+        "shallow-marine": [
           360
+        ],
+        "response": [
+          361
+        ],
+        "changes,": [
+          367
+        ],
+        "commonly": [
+          368
+        ],
+        "anoxic": [
+          373
+        ],
+        "event": [
+          374
+        ],
+        "basinal": [
+          376
+        ],
+        "environments.": [
+          377
         ]
       },
       "counts_by_year": [
@@ -11014,7 +11156,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-04-05T17:49:38.594831",
+      "updated_date": "2026-05-29T09:21:14.243279",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11397,8 +11539,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -13876,8 +14018,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -15277,8 +15419,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -17339,8 +17481,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -19180,8 +19322,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -20385,8 +20527,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -22090,8 +22232,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.699999988079071
         }
       ],
@@ -23202,8 +23344,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5099999904632568
         }
       ],
@@ -23710,8 +23852,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.7400000095367432
         }
       ],
@@ -23938,7 +24080,7 @@
       "apc_paid": null,
       "fwci": 0.5963,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "citation_normalized_percentile": {
         "value": 0.791423,
         "is_in_top_1_percent": false,
@@ -25590,7 +25732,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-05-29T09:21:14.243279",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26212,8 +26354,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -26839,8 +26981,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5899999737739563
         }
       ],
@@ -27333,8 +27475,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -28080,8 +28222,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5899999737739563
         }
       ],
@@ -28620,8 +28762,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -29500,8 +29642,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6499999761581421
         }
       ],
@@ -30295,8 +30437,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "No poverty",
           "id": "https://metadata.un.org/sdg/1",
+          "display_name": "No poverty",
           "score": 0.7200000286102295
         }
       ],
@@ -31023,8 +31165,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426
         }
       ],
@@ -31461,8 +31603,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -32654,8 +32796,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -33265,8 +33407,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -34792,8 +34934,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -35331,8 +35473,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -36776,8 +36918,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426
         }
       ],
@@ -37855,8 +37997,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4000000059604645
         }
       ],
@@ -39981,8 +40123,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6499999761581421
         }
       ],
@@ -40918,8 +41060,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4300000071525574
         }
       ],
@@ -41921,8 +42063,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],

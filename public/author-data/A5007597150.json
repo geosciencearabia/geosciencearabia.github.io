@@ -3264,9 +3264,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -4135,9 +4135,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -6904,9 +6904,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -7912,9 +7912,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -8440,9 +8440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -8984,9 +8984,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -9510,9 +9510,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.45413655042648315,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.45413655042648315
         }
       ],
       "awards": [],
@@ -10353,9 +10353,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.45413655042648315,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.45413655042648315
         }
       ],
       "awards": [],
@@ -11833,6 +11833,1055 @@
       "counts_by_year": [],
       "updated_date": "2026-05-19T08:33:51.333923",
       "created_date": "2026-04-25T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7162646169",
+      "doi": "https://doi.org/10.1111/jpg.70078",
+      "title": "The Unexpected Discovery of Paleocene? Coals in Outcrops Thought to Be Cambrian, Al Huqf, Oman",
+      "display_name": "The Unexpected Discovery of Paleocene? Coals in Outcrops Thought to Be Cambrian, Al Huqf, Oman",
+      "publication_year": 2026,
+      "publication_date": "2026-05-28",
+      "ids": {
+        "openalex": "https://openalex.org/W7162646169",
+        "doi": "https://doi.org/10.1111/jpg.70078"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/jpg.70078",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/jpg.70078",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S198628674",
+          "display_name": "Journal of Petroleum Geology",
+          "issn_l": "0141-6421",
+          "issn": [
+            "0141-6421",
+            "1747-5457"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed H. Al Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre  Muscat Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5135459311",
+            "display_name": "ALAN P. HEWARD",
+            "orcid": "https://orcid.org/0000-0001-7154-3123"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alan P. Heward",
+          "raw_affiliation_strings": [
+            "Coach House, Mortimer Lodge, Hanley Swan  Worcester UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Coach House, Mortimer Lodge, Hanley Swan  Worcester UK",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5137280195",
+            "display_name": "Lorraine B. Eglinton",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I202963720",
+              "display_name": "University of St.Gallen",
+              "ror": "https://ror.org/0561a3s31",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I202963720"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lorraine B. Eglinton",
+          "raw_affiliation_strings": [
+            "Egs‐Ploration  St Gallenkappel Switzerland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Egs‐Ploration  St Gallenkappel Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I202963720"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5137303484",
+            "display_name": "Steve R. Packer",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802531901",
+              "display_name": "Millennium Science Initiative",
+              "ror": "https://ror.org/01c080z51",
+              "country_code": "CL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2802531901"
+              ]
+            }
+          ],
+          "countries": [
+            "CL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Steve R. Packer",
+          "raw_affiliation_strings": [
+            "Millennia SC Ltd  Wingrave UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Millennia SC Ltd  Wingrave UK",
+              "institution_ids": [
+                "https://openalex.org/I2802531901"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5075805678",
+            "display_name": "Darrin T. Stead",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799505622",
+              "display_name": "Wrexham Maelor Hospital",
+              "ror": "https://ror.org/039mtkw55",
+              "country_code": "GB",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1286751378",
+                "https://openalex.org/I2799505622",
+                "https://openalex.org/I4210144625"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Darrin T. Stead",
+          "raw_affiliation_strings": [
+            "Wellstrat Services Ltd  Wrexham UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wellstrat Services Ltd  Wrexham UK",
+              "institution_ids": [
+                "https://openalex.org/I2799505622"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5007597150"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210122910"
+      ],
+      "apc_list": {
+        "value": 3240,
+        "currency": "USD",
+        "value_usd": 3240
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.93534384,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12218",
+        "display_name": "Coal and Its By-products",
+        "score": 0.6643000245094299,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12218",
+          "display_name": "Coal and Its By-products",
+          "score": 0.6643000245094299,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11852",
+          "display_name": "Clay minerals and soil interactions",
+          "score": 0.17900000512599945,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2502",
+            "display_name": "Biomaterials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.05130000039935112,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.8603000044822693
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.6496000289916992
+        },
+        {
+          "id": "https://openalex.org/keywords/vitrinite",
+          "display_name": "Vitrinite",
+          "score": 0.4973999857902527
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rock",
+          "display_name": "Source rock",
+          "score": 0.4902999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "Kaolinite",
+          "score": 0.4726000130176544
+        },
+        {
+          "id": "https://openalex.org/keywords/maturity",
+          "display_name": "Maturity (psychological)",
+          "score": 0.4609000086784363
+        },
+        {
+          "id": "https://openalex.org/keywords/erosion",
+          "display_name": "Erosion",
+          "score": 0.38420000672340393
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter",
+          "display_name": "Organic matter",
+          "score": 0.33469998836517334
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.895799994468689
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.8603000044822693
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.6496000289916992
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/C2777101687",
+          "wikidata": "https://www.wikidata.org/wiki/Q3496596",
+          "display_name": "Vitrinite",
+          "level": 3,
+          "score": 0.4973999857902527
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.4902999997138977
+        },
+        {
+          "id": "https://openalex.org/C2779899878",
+          "wikidata": "https://www.wikidata.org/wiki/Q223197",
+          "display_name": "Kaolinite",
+          "level": 2,
+          "score": 0.4726000130176544
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4684000015258789
+        },
+        {
+          "id": "https://openalex.org/C101433766",
+          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
+          "display_name": "Maturity (psychological)",
+          "level": 2,
+          "score": 0.4609000086784363
+        },
+        {
+          "id": "https://openalex.org/C123157820",
+          "wikidata": "https://www.wikidata.org/wiki/Q80026",
+          "display_name": "Erosion",
+          "level": 2,
+          "score": 0.38420000672340393
+        },
+        {
+          "id": "https://openalex.org/C48743137",
+          "wikidata": "https://www.wikidata.org/wiki/Q1783121",
+          "display_name": "Organic matter",
+          "level": 2,
+          "score": 0.33469998836517334
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.33340001106262207
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.3278000056743622
+        },
+        {
+          "id": "https://openalex.org/C2993189756",
+          "wikidata": "https://www.wikidata.org/wiki/Q3496596",
+          "display_name": "Vitrinite reflectance",
+          "level": 4,
+          "score": 0.32600000500679016
+        },
+        {
+          "id": "https://openalex.org/C40724407",
+          "wikidata": "https://www.wikidata.org/wiki/Q179177",
+          "display_name": "Weathering",
+          "level": 2,
+          "score": 0.27410000562667847
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.27219998836517334
+        },
+        {
+          "id": "https://openalex.org/C94336100",
+          "wikidata": "https://www.wikidata.org/wiki/Q2274700",
+          "display_name": "Organic geochemistry",
+          "level": 4,
+          "score": 0.2711000144481659
+        },
+        {
+          "id": "https://openalex.org/C173776410",
+          "wikidata": "https://www.wikidata.org/wiki/Q103910",
+          "display_name": "Precambrian",
+          "level": 2,
+          "score": 0.26739999651908875
+        },
+        {
+          "id": "https://openalex.org/C107385308",
+          "wikidata": "https://www.wikidata.org/wiki/Q43521",
+          "display_name": "Geologic time scale",
+          "level": 3,
+          "score": 0.2669999897480011
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.2653000056743622
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.26010000705718994
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.2597000002861023
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.257099986076355
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.25529998540878296
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1111/jpg.70078",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/jpg.70078",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S198628674",
+            "display_name": "Journal of Petroleum Geology",
+            "issn_l": "0141-6421",
+            "issn": [
+              "0141-6421",
+              "1747-5457"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.5195932388305664
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W1005713786",
+        "https://openalex.org/W1963803326",
+        "https://openalex.org/W2010323934",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2093192540",
+        "https://openalex.org/W2111253151",
+        "https://openalex.org/W2173675283",
+        "https://openalex.org/W2510193846",
+        "https://openalex.org/W2771693883",
+        "https://openalex.org/W2912667456",
+        "https://openalex.org/W2938243655",
+        "https://openalex.org/W3006584192",
+        "https://openalex.org/W3091832477",
+        "https://openalex.org/W3123279587",
+        "https://openalex.org/W4308035743",
+        "https://openalex.org/W4402295569"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "1600": [
+          70
+        ],
+        "ABSTRACT": [
+          0
+        ],
+        "Two": [
+          1
+        ],
+        "brown": [
+          2
+        ],
+        "organic": [
+          3,
+          27,
+          106,
+          171
+        ],
+        "deposits": [
+          4,
+          28,
+          124,
+          154,
+          172
+        ],
+        "were": [
+          5
+        ],
+        "encountered": [
+          6
+        ],
+        "whilst": [
+          7
+        ],
+        "investigating": [
+          8
+        ],
+        "kaolinitic": [
+          9,
+          80,
+          115
+        ],
+        "claystones": [
+          10,
+          81,
+          116
+        ],
+        "thought": [
+          11
+        ],
+        "to": [
+          12,
+          68,
+          76,
+          84,
+          97,
+          122,
+          133,
+          152
+        ],
+        "occur": [
+          13,
+          126,
+          159
+        ],
+        "at": [
+          14,
+          21,
+          127
+        ],
+        "the": [
+          15,
+          61,
+          89,
+          92,
+          128,
+          131,
+          139,
+          181
+        ],
+        "base": [
+          16,
+          129
+        ],
+        "of": [
+          17,
+          25,
+          50,
+          91,
+          108,
+          130,
+          138,
+          155,
+          169
+        ],
+        "a": [
+          18,
+          55
+        ],
+        "Cambrian": [
+          19,
+          93
+        ],
+        "formation": [
+          20
+        ],
+        "outcrop.": [
+          22
+        ],
+        "The": [
+          23,
+          79
+        ],
+        "age": [
+          24,
+          157
+        ],
+        "these": [
+          26
+        ],
+        "is": [
+          29,
+          59
+        ],
+        "probably": [
+          30
+        ],
+        "Paleocene": [
+          31,
+          135,
+          156,
+          170
+        ],
+        "from": [
+          32,
+          88,
+          185
+        ],
+        "palynology.": [
+          33
+        ],
+        "Organic": [
+          34
+        ],
+        "petrography": [
+          35
+        ],
+        "shows": [
+          36
+        ],
+        "that": [
+          37,
+          58,
+          166
+        ],
+        "they": [
+          38
+        ],
+        "are": [
+          39,
+          82,
+          180
+        ],
+        "subbituminous": [
+          40
+        ],
+        "coals": [
+          41,
+          118
+        ],
+        "with": [
+          42,
+          105
+        ],
+        "some": [
+          43
+        ],
+        "oil": [
+          44,
+          63
+        ],
+        "source": [
+          45
+        ],
+        "potential.": [
+          46
+        ],
+        "Vitrinite": [
+          47
+        ],
+        "reflectance": [
+          48
+        ],
+        "measurements": [
+          49
+        ],
+        "0.53–0.56%": [
+          51
+        ],
+        "R": [
+          52
+        ],
+        "o": [
+          53
+        ],
+        "indicate": [
+          54
+        ],
+        "thermal": [
+          56
+        ],
+        "maturity": [
+          57
+        ],
+        "approaching": [
+          60
+        ],
+        "early": [
+          62,
+          132
+        ],
+        "window": [
+          64
+        ],
+        "and": [
+          65,
+          72,
+          96,
+          111,
+          117,
+          187
+        ],
+        "imply": [
+          66
+        ],
+        "burial": [
+          67
+        ],
+        "about": [
+          69
+        ],
+        "m": [
+          71
+        ],
+        "subsequent": [
+          73
+        ],
+        "uplift": [
+          74
+        ],
+        "back": [
+          75
+        ],
+        "near": [
+          77
+        ],
+        "surface.": [
+          78
+        ],
+        "interpreted": [
+          83
+        ],
+        "have": [
+          85,
+          98
+        ],
+        "been": [
+          86
+        ],
+        "weathered": [
+          87
+        ],
+        "outcrops": [
+          90
+        ],
+        "Thumaylah": [
+          94
+        ],
+        "Formation": [
+          95,
+          143
+        ],
+        "accumulated": [
+          99
+        ],
+        "in": [
+          100,
+          144,
+          176
+        ],
+        "small": [
+          101
+        ],
+        "terrestrial": [
+          102,
+          123
+        ],
+        "basins": [
+          103
+        ],
+        "along": [
+          104
+        ],
+        "matter": [
+          107
+        ],
+        "both": [
+          109
+        ],
+        "allochthonous": [
+          110
+        ],
+        "autochthonous": [
+          112
+        ],
+        "origin.": [
+          113
+        ],
+        "These": [
+          114
+        ],
+        "may": [
+          119,
+          148
+        ],
+        "be": [
+          120,
+          150,
+          174
+        ],
+        "equivalent": [
+          121,
+          151
+        ],
+        "which": [
+          125,
+          158
+        ],
+        "middle": [
+          134
+        ],
+        "Shammar": [
+          136
+        ],
+        "Member": [
+          137
+        ],
+        "Umm": [
+          140
+        ],
+        "er": [
+          141
+        ],
+        "Radhuma": [
+          142
+        ],
+        "northwest": [
+          145
+        ],
+        "Oman.": [
+          146
+        ],
+        "They": [
+          147
+        ],
+        "also": [
+          149
+        ],
+        "kaolinite": [
+          153
+        ],
+        "on": [
+          160
+        ],
+        "Masirah": [
+          161
+        ],
+        "Island.": [
+          162
+        ],
+        "It": [
+          163
+        ],
+        "seems": [
+          164
+        ],
+        "likely": [
+          165
+        ],
+        "further": [
+          167
+        ],
+        "evidence": [
+          168
+        ],
+        "will": [
+          173
+        ],
+        "discovered": [
+          175
+        ],
+        "Oman": [
+          177
+        ],
+        "where": [
+          178
+        ],
+        "there": [
+          179
+        ],
+        "conditions": [
+          182
+        ],
+        "for": [
+          183
+        ],
+        "preservation": [
+          184
+        ],
+        "erosion": [
+          186
+        ],
+        "oxidation.": [
+          188
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-29T09:21:14.243279",
+      "created_date": "2026-05-29T00:00:00"
     }
   ]
 }
