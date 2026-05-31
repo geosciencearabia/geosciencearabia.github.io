@@ -12,10 +12,10 @@
       "Mohammed H. N. Al-Kindi"
     ],
     "full_name": "Mohammed H. Al Kindi",
-    "works_count": 12,
+    "works_count": 13,
     "cited_by_count": 26,
     "summary_stats": {
-      "2yr_mean_citedness": 1.6666666666666667,
+      "2yr_mean_citedness": 1.4285714285714286,
       "h_index": 3,
       "i10_index": 0
     },
@@ -51,6 +51,7 @@
           ]
         },
         "years": [
+          2026,
           2025,
           2024,
           2023,
@@ -59,7 +60,18 @@
         ]
       }
     ],
-    "last_known_institutions": null,
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I4210122910",
+        "ror": "https://ror.org/03tcppy59",
+        "display_name": "The Research Council",
+        "country_code": "OM",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I4210122910"
+        ]
+      }
+    ],
     "topics": [
       {
         "id": "https://openalex.org/T10017",
@@ -96,6 +108,23 @@
         }
       },
       {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "count": 3,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
         "count": 2,
@@ -106,23 +135,6 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 2,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -151,7 +163,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000408,
+        "value": 0.0000407,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -168,7 +180,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000167,
+        "value": 0.0000166,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -217,20 +229,20 @@
         }
       },
       {
-        "id": "https://openalex.org/T11823",
-        "display_name": "Natural Resources and Economic Development",
-        "value": 0.0000133,
+        "id": "https://openalex.org/T12218",
+        "display_name": "Coal and Its By-products",
+        "value": 0.0000141,
         "subfield": {
-          "id": "https://openalex.org/subfields/2000",
-          "display_name": "General Economics, Econometrics and Finance"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       }
     ],
@@ -242,10 +254,10 @@
         "score": 0.9032025337219238
       },
       {
-        "id": "108497213",
-        "wikidata": "https://www.wikidata.org/wiki/Q271669",
-        "display_name": "Landform",
-        "score": 0.7233863472938538
+        "id": "6494504",
+        "wikidata": "https://www.wikidata.org/wiki/Q82480",
+        "display_name": "Sedimentary rock",
+        "score": 0.7527401447296143
       },
       {
         "id": "151730666",
@@ -299,7 +311,7 @@
       },
       {
         "year": 2026,
-        "works_count": 3,
+        "works_count": 4,
         "oa_works_count": 3,
         "cited_by_count": 0
       }
@@ -314,7 +326,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-05-25T12:27:37",
+    "updated_date": "2026-05-30T17:09:54",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -3265,8 +3277,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -4136,8 +4148,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -6905,8 +6917,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -7913,8 +7925,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -8441,8 +8453,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -8985,8 +8997,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.550000011920929,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -9511,8 +9523,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.45413655042648315
         }
       ],
       "awards": [],
@@ -10354,8 +10366,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.45413655042648315
         }
       ],
       "awards": [],
@@ -12083,7 +12095,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.92831216,
+        "value": 0.92224476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12421,8 +12433,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5195932388305664,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5195932388305664
         }
       ],
       "awards": [],

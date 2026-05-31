@@ -861,8 +861,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2479,6 +2479,7 @@
             "GIZ International Services, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
             "GIZ International Services"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "GIZ International Services, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
@@ -2518,6 +2519,7 @@
             "Universität Stuttgart, Institut für Planetologie, Herdweg 51, 70174, Stuttgart, Germany",
             "Universität Stuttgart, Institut für Planetologie"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universität Stuttgart, Institut für Planetologie, Herdweg 51, 70174, Stuttgart, Germany",
@@ -2548,6 +2550,7 @@
             "Ministry of Water and Electricity, Riyadh, Kingdom of Saudi Arabia",
             "Ministry of Water and Electricity"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Water and Electricity, Riyadh, Kingdom of Saudi Arabia",
@@ -2589,6 +2592,7 @@
             "Dornier Consulting, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
             "Dornier Consulting"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dornier Consulting, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
@@ -2618,11 +2622,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.6805,
+      "fwci": 0.6842,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.73928515,
+        "value": 0.74076013,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2908,8 +2912,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -2945,6 +2949,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 4
         },
@@ -2969,7 +2977,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-31T08:46:17.908082",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3842,8 +3850,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8538,8 +8546,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -10418,8 +10426,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11673,8 +11681,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6469302177429199
+          "score": 0.6469302177429199,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
