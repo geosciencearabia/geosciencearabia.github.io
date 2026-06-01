@@ -24523,7 +24523,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3895,
+    "fwci": 1.3896,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -32493,8 +32493,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-27",
     "year": 2022,
     "venue": "Scientific Reports",
-    "citations": 13,
-    "fwci": 6.6872,
+    "citations": 14,
+    "fwci": 6.6865,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -50370,8 +50370,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-06-12",
     "year": 2024,
     "venue": "Geomatics Natural Hazards and Risk",
-    "citations": 16,
-    "fwci": 4.2206,
+    "citations": 17,
+    "fwci": 4.3009,
     "topics": [
       "Flood Risk Assessment and Management",
       "Anomaly Detection Techniques and Applications",
@@ -50719,7 +50719,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.2241,
+    "fwci": 1.2233,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -57632,7 +57632,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 10,
-    "fwci": 0.3068,
+    "fwci": 0.3069,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Marine and environmental studies",
@@ -70779,7 +70779,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.757,
+    "fwci": 3.7569,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -87689,7 +87689,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.8691,
+    "fwci": 2.8693,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -89758,7 +89758,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 75,
-    "fwci": 5.9195,
+    "fwci": 5.9211,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -105705,8 +105705,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-01-28",
     "year": 2022,
     "venue": "Sensors",
-    "citations": 14,
-    "fwci": 2.5397,
+    "citations": 15,
+    "fwci": 2.5403,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -118817,8 +118817,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-02-15",
     "year": 2021,
     "venue": "Scientific Reports",
-    "citations": 78,
-    "fwci": 3.219,
+    "citations": 79,
+    "fwci": 3.2194,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Atmospheric and Environmental Gas Dynamics",
@@ -131597,7 +131597,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1997-10-01",
     "year": 1997,
     "venue": "GeoArabia",
-    "citations": 194,
+    "citations": 195,
     "fwci": 2.6358,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
@@ -132299,6 +132299,39 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4402899022",
+    "doi": "https://doi.org/10.1016/j.gr.2024.09.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5081811780",
+    "allAuthorOpenAlexIds": [
+      "A5081811780",
+      "A5025244768",
+      "A5050324042",
+      "A5061396515",
+      "A5110020850"
+    ],
+    "firstAuthorLastName": "Keyser",
+    "allAuthors": [
+      "Thomas De Keyser",
+      "Wolfgang Ruebsam",
+      "Moujahed Al-Husseini",
+      "Sandra Crespo de Cabrera",
+      "Ghaida Al-Sahlan"
+    ],
+    "title": "Carbon-isotope stratigraphy of the Toarcian in Kuwait",
+    "publicationDate": "2024-09-26",
+    "year": 2024,
+    "venue": "Gondwana Research",
+    "citations": 3,
+    "fwci": 4.2752,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W1988880858",
     "doi": "https://doi.org/10.1190/1.1441377",
     "program": "",
@@ -132690,39 +132723,6 @@ export const worksTable: WorkTableRecord[] = [
       "Ingenieurgesellschaft für Technische Software (Germany)",
       "Technische Universität Darmstadt"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W4402899022",
-    "doi": "https://doi.org/10.1016/j.gr.2024.09.005",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780",
-      "A5025244768",
-      "A5050324042",
-      "A5061396515",
-      "A5110020850"
-    ],
-    "firstAuthorLastName": "Keyser",
-    "allAuthors": [
-      "Thomas De Keyser",
-      "Wolfgang Ruebsam",
-      "Moujahed Al-Husseini",
-      "Sandra Crespo de Cabrera",
-      "Ghaida Al-Sahlan"
-    ],
-    "title": "Carbon-isotope stratigraphy of the Toarcian in Kuwait",
-    "publicationDate": "2024-09-26",
-    "year": 2024,
-    "venue": "Gondwana Research",
-    "citations": 2,
-    "fwci": 3.341,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2968475188",
@@ -133806,7 +133806,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 14,
-    "fwci": 3.2422,
+    "fwci": 3.2421,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -137896,8 +137896,8 @@ export const worksTable: WorkTableRecord[] = [
       "Abduljamiu O. Amao",
       "Khalid Al‐Ramadan"
     ],
-    "title": "Origin of rift-induced sediment-hosted barite mineralization in the Early Miocene Musayr formation, Midyan Basin, northwestern Saudi Arabia",
-    "publicationDate": "2026-05-01",
+    "title": "Origin of rift-induced sediment-hosted barite mineralization in the Early Miocene Musayr Formation, Midyan Basin, northwestern Saudi Arabia",
+    "publicationDate": "2026-05-30",
     "year": 2026,
     "venue": "Ore Geology Reviews",
     "citations": 0,
