@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 182,
-    "totalCitations": 2571,
+    "totalCitations": 2573,
     "hIndex": 25
   },
   {
@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 404,
-    "totalCitations": 19503,
+    "totalCitations": 19515,
     "hIndex": 70
   },
   {
@@ -378,7 +378,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 229,
-    "totalCitations": 4666,
+    "totalCitations": 4667,
     "hIndex": 41
   },
   {
@@ -414,7 +414,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 143,
-    "totalCitations": 1325,
+    "totalCitations": 1329,
     "hIndex": 21
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 249,
-    "totalCitations": 3457,
+    "totalCitations": 3458,
     "hIndex": 26
   },
   {
@@ -864,7 +864,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 36,
-    "totalCitations": 713,
+    "totalCitations": 714,
     "hIndex": 13
   },
   {
@@ -900,7 +900,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 14,
-    "totalCitations": 116,
+    "totalCitations": 117,
     "hIndex": 8
   },
   {
@@ -918,7 +918,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 93,
-    "totalCitations": 982,
+    "totalCitations": 983,
     "hIndex": 17
   },
   {
@@ -1008,7 +1008,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 87,
-    "totalCitations": 5991,
+    "totalCitations": 6001,
     "hIndex": 33
   },
   {
@@ -1098,7 +1098,7 @@ export const authors: AuthorRecord[] = [
     "email": "heltom@ku.edu",
     "orcid": "",
     "totalPublications": 88,
-    "totalCitations": 652,
+    "totalCitations": 653,
     "hIndex": 17
   },
   {

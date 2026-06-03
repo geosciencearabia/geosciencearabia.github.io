@@ -1865,9 +1865,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3402,9 +3402,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4631,9 +4631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -6263,9 +6263,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7222,9 +7222,17 @@
           "is_corresponding": true,
           "raw_author_name": "Camilo A. Polo",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
             "Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -7258,9 +7266,17 @@
           "is_corresponding": false,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
+            "2 (Retired) Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia",
             "(Retired) Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 (Retired) Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "(Retired) Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -7294,9 +7310,17 @@
           "is_corresponding": false,
           "raw_author_name": "Nigel P. Hooker",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
             "Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -7330,9 +7354,17 @@
           "is_corresponding": false,
           "raw_author_name": "Andrew J. Rees",
           "raw_affiliation_strings": [
+            "3 Saudi Aramco, Unconventional Resources Exploration & Development Department, Dhahran, Saudi Arabia",
             "Saudi Aramco, Unconventional Resources Exploration & Development Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "3 Saudi Aramco, Unconventional Resources Exploration & Development Department, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Unconventional Resources Exploration & Development Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -7366,9 +7398,17 @@
           "is_corresponding": false,
           "raw_author_name": "Murray K. Gingras",
           "raw_affiliation_strings": [
+            "4 Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
             "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "4 Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            },
             {
               "raw_affiliation_string": "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
               "institution_ids": [
@@ -7402,9 +7442,17 @@
           "is_corresponding": false,
           "raw_author_name": "S. George Pemberton",
           "raw_affiliation_strings": [
+            "4 Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
             "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "4 Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            },
             {
               "raw_affiliation_string": "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
               "institution_ids": [
@@ -7425,11 +7473,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0187,
+      "fwci": 1.0526,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.7551132,
+        "value": 0.76302414,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7664,9 +7712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7795,1808 +7843,994 @@
       ],
       "abstract_inverted_index": {
         "5": [
-          612
+          154
         ],
-        "18": [
-          304,
-          334
+        "Abstract": [
+          0
         ],
-        "88": [
-          326,
-          416
+        "Sedimentation": [
+          1,
+          279
         ],
-        "2018": [
+        "in": [
+          2,
+          26,
+          69,
+          89,
+          113,
+          130,
+          147,
+          178,
+          210,
+          270,
+          307,
+          335,
+          401,
+          412,
+          429
+        ],
+        "the": [
+          3,
+          54,
+          59,
+          70,
+          124,
+          128,
+          144,
+          180,
+          185,
+          190,
+          200,
+          211,
+          216,
+          228,
+          251,
+          265,
+          271,
+          276,
+          303,
+          316,
+          336,
+          352,
+          358,
+          371,
+          384,
+          388,
+          396,
+          402,
+          430,
+          436,
+          440,
+          459
+        ],
+        "Nuayyim": [
           4,
-          306,
-          336
+          441
         ],
-        "Research": [
-          0,
-          150,
-          182,
-          264,
-          282,
-          324,
-          414,
-          455
+        "Formation": [
+          5
         ],
-        "Article|": [
-          1
-        ],
-        "September": [
-          2
-        ],
-        "18,": [
-          3
-        ],
-        "The": [
-          5,
-          21,
-          377,
-          393,
-          564,
-          758
-        ],
-        "Ichnological": [
+        "across": [
           6,
-          378
+          189
+        ],
+        "subsurface": [
+          7
+        ],
+        "central": [
+          8
         ],
         "and": [
-          7,
-          16,
-          35,
-          155,
-          187,
-          208,
-          269,
-          287,
-          379,
-          388,
-          407,
-          468,
-          492,
-          500,
-          506,
-          524,
-          534,
-          560,
-          590,
-          616,
-          624,
-          630,
-          642,
-          657,
-          671,
-          702,
-          711,
-          725,
-          731,
-          743,
-          776,
-          789,
-          866,
-          880,
-          883
-        ],
-        "Sedimentological": [
-          8,
-          380
-        ],
-        "Signature": [
           9,
-          381
-        ],
-        "of": [
-          10,
-          24,
           33,
-          153,
-          159,
-          185,
-          191,
+          41,
+          47,
+          66,
+          76,
+          102,
+          132,
+          158,
+          166,
+          172,
+          184,
+          199,
+          213,
+          244,
+          253,
           267,
           273,
           285,
-          291,
-          322,
-          382,
-          396,
-          405,
-          412,
-          453,
-          483,
-          520,
-          542,
-          576,
-          581,
-          601,
-          640,
-          645,
-          654,
-          660,
-          673,
-          688,
-          717,
-          722,
-          733,
-          760,
-          784,
-          811,
-          892,
-          896,
-          915
-        ],
-        "a": [
-          11,
-          383,
-          481,
-          508,
-          713,
-          741,
-          766,
-          903
-        ],
-        "Late": [
-          12,
-          384,
-          816
-        ],
-        "Paleozoic,": [
-          13,
-          385
-        ],
-        "Postglacial": [
-          14,
-          386
-        ],
-        "Marginal-Marine": [
-          15,
-          387
-        ],
-        "Shallow-Marine,": [
-          17,
-          389
-        ],
-        "Tidally": [
-          18,
-          390
-        ],
-        "Influenced": [
-          19,
-          391
-        ],
-        "Setting:": [
-          20,
-          392
-        ],
-        "Wudayhi": [
-          22,
-          394,
-          514,
-          529,
-          794,
-          894
-        ],
-        "Member": [
-          23,
-          395,
-          515,
-          530,
-          795,
-          895
-        ],
-        "the": [
-          25,
-          31,
-          397,
-          403,
-          462,
-          513,
-          518,
-          528,
-          582,
-          586,
-          602,
-          638,
-          643,
-          648,
-          658,
-          669,
-          674,
-          686,
-          709,
-          723,
-          729,
-          734,
-          761,
-          774,
-          793,
-          809,
-          815,
-          828,
-          841,
-          845,
-          853,
-          859,
-          887,
-          893,
-          897,
-          916
-        ],
-        "Nuayyim": [
-          26,
-          398,
-          463,
-          898
-        ],
-        "Formation": [
-          27,
-          399,
-          464
-        ],
-        "(Unayzah": [
-          28,
-          400
-        ],
-        "Group)": [
-          29,
-          401
-        ],
-        "in": [
-          30,
-          402,
-          461,
-          485,
-          527,
-          547,
-          571,
-          588,
-          605,
-          636,
-          668,
-          728,
-          765,
-          792,
-          858,
-          869,
-          886
-        ],
-        "Subsurface": [
-          32,
-          404
-        ],
-        "Central": [
-          34,
-          406
-        ],
-        "Eastern": [
-          36,
-          408
-        ],
-        "Saudi": [
-          37,
-          52,
-          70,
-          76,
-          102,
-          130,
-          221,
-          226,
-          232,
-          244,
-          258,
-          409,
-          470
-        ],
-        "Arabia": [
-          38,
-          53,
-          77,
-          103,
-          131,
-          222,
-          233,
-          245,
-          259,
-          471
-        ],
-        "Camilo": [
-          39,
-          42,
-          211,
-          360
-        ],
-        "A.": [
-          40,
-          43,
-          212,
-          361
-        ],
-        "Polo;": [
-          41
-        ],
-        "Polo": [
-          44,
-          213
-        ],
-        "1Saudi": [
-          45,
-          95,
-          214,
-          237
-        ],
-        "Aramco,": [
-          46,
-          71,
-          96,
-          122,
-          215,
-          227,
-          238,
-          250
-        ],
-        "Exploration": [
-          47,
-          97,
-          125,
-          216,
-          239,
-          253
-        ],
-        "Technical": [
-          48,
-          98,
-          217,
-          240
-        ],
-        "Services": [
-          49,
-          99,
-          218,
-          241
-        ],
-        "Department,": [
-          50,
-          74,
-          100,
-          128,
-          219,
-          230,
-          242,
-          256
-        ],
-        "Dhahran,": [
-          51,
-          75,
-          101,
-          129,
-          220,
-          231,
-          243,
-          257
-        ],
-        "Search": [
-          54,
-          78,
-          104,
-          132,
-          164,
-          196,
-          357,
-          436,
-          443,
-          456,
-          458
-        ],
-        "for": [
-          55,
-          79,
-          105,
-          133,
-          165,
-          197,
-          299,
           318,
-          490,
-          512,
-          852,
-          878
-        ],
-        "other": [
-          56,
-          80,
-          106,
-          134,
-          166,
-          198
-        ],
-        "works": [
-          57,
-          81,
-          107,
-          135,
-          167,
-          199
-        ],
-        "by": [
-          58,
-          82,
-          108,
-          136,
-          168,
-          200,
-          750,
-          779,
-          808
-        ],
-        "this": [
-          59,
-          83,
-          109,
-          137,
-          169,
-          201,
-          486,
-          870,
-          927
-        ],
-        "author": [
-          60,
-          84,
-          110,
-          138,
-          170,
-          202
-        ],
-        "on:": [
-          61,
-          85,
-          111,
-          139,
-          171,
-          203
-        ],
-        "GSW": [
-          62,
-          86,
-          112,
-          140,
-          172,
-          204
-        ],
-        "Google": [
-          63,
-          87,
-          113,
-          141,
-          173,
-          205
-        ],
-        "Scholar": [
-          64,
-          88,
-          114,
-          142,
-          174,
-          206
-        ],
-        "John": [
-          65,
-          67,
-          223,
-          363
-        ],
-        "Melvin;": [
-          66
-        ],
-        "Melvin": [
-          68,
-          224
-        ],
-        "2(Retired)": [
-          69,
-          225
-        ],
-        "Reservoir": [
-          72,
-          228
-        ],
-        "Characterization": [
-          73,
-          229
-        ],
-        "Nigel": [
-          89,
-          92,
-          234,
-          365
-        ],
-        "P.": [
-          90,
-          93,
-          235,
-          366
-        ],
-        "Hooker;": [
-          91
-        ],
-        "Hooker": [
-          94,
-          236
-        ],
-        "Andrew": [
-          115,
-          118,
-          246,
-          368
-        ],
-        "J.": [
-          116,
-          119,
-          247,
-          369
-        ],
-        "Rees;": [
-          117
-        ],
-        "Rees": [
-          120,
-          248
-        ],
-        "3Saudi": [
-          121,
-          249
-        ],
-        "Unconventional": [
-          123,
-          251
-        ],
-        "Resources": [
-          124,
-          252
-        ],
-        "&": [
-          126,
-          254
-        ],
-        "Development": [
-          127,
-          255
-        ],
-        "Murray": [
-          143,
-          146,
-          260,
-          371
-        ],
-        "K.": [
-          144,
-          147,
-          261,
-          372
-        ],
-        "Gingras;": [
-          145
-        ],
-        "Gingras": [
-          148,
-          262
-        ],
-        "4Ichnology": [
-          149,
-          181,
-          263,
-          281
-        ],
-        "Group,": [
-          151,
-          183,
-          265,
-          283
-        ],
-        "Department": [
-          152,
-          184,
-          266,
-          284
-        ],
-        "Earth": [
-          154,
-          186,
-          268,
-          286
-        ],
-        "Atmospheric": [
-          156,
-          188,
-          270,
-          288
-        ],
-        "Sciences,": [
-          157,
-          189,
-          271,
-          289
-        ],
-        "University": [
-          158,
-          190,
-          272,
-          290
-        ],
-        "Alberta,": [
-          160,
-          162,
-          192,
-          194,
-          274,
-          276,
-          292,
-          294
-        ],
-        "Edmonton,": [
-          161,
-          193,
-          275,
-          293
-        ],
-        "Canada": [
-          163,
-          195,
-          277,
-          295
-        ],
-        "S.": [
-          175,
-          178,
-          278,
-          374
-        ],
-        "George": [
-          176,
-          179,
-          279,
-          375
-        ],
-        "Pemberton": [
-          177,
-          180,
-          280
-        ],
-        "Author": [
-          207
-        ],
-        "Article": [
-          209,
-          330
-        ],
-        "Information": [
-          210
-        ],
-        "Publisher:": [
-          296
-        ],
-        "SEPM": [
-          297,
-          316
-        ],
-        "Society": [
-          298
-        ],
-        "Sedimentary": [
-          300,
-          319,
-          323,
-          413,
-          454
-        ],
-        "Geology": [
-          301
-        ],
-        "First": [
-          302,
-          332
-        ],
-        "Online:": [
-          303,
-          333
-        ],
-        "Sep": [
-          305,
-          335
-        ],
-        "Online": [
-          307
-        ],
-        "Issn:": [
-          308,
-          311
-        ],
-        "1938-3681": [
-          309
-        ],
-        "Print": [
-          310
-        ],
-        "1527-1404": [
-          312
-        ],
-        "Copyright": [
-          313
-        ],
-        "©": [
-          314
-        ],
-        "2018,": [
-          315
-        ],
-        "(Society": [
-          317
-        ],
-        "Geology)": [
-          320
-        ],
-        "Journal": [
-          321,
-          411
-        ],
-        "(2018)": [
-          325
-        ],
-        "(9):": [
-          327,
-          417
-        ],
-        "991–1025.": [
-          328,
-          418
-        ],
-        "https://doi.org/10.2110/jsr.2018.43": [
-          329,
-          420
-        ],
-        "history": [
-          331
-        ],
-        "Cite": [
-          337
-        ],
-        "View": [
-          338
-        ],
-        "This": [
-          339,
-          495
-        ],
-        "Citation": [
-          340,
-          343,
-          359
-        ],
-        "Add": [
-          341
-        ],
-        "to": [
-          342,
-          476,
-          798,
-          801,
-          818,
-          861,
-          909,
-          926,
-          931
-        ],
-        "Manager": [
-          344
-        ],
-        "Share": [
-          345,
-          347
-        ],
-        "Icon": [
-          346,
-          353
-        ],
-        "Facebook": [
-          348
-        ],
-        "Twitter": [
-          349
-        ],
-        "LinkedIn": [
-          350
-        ],
-        "MailTo": [
-          351
-        ],
-        "Tools": [
-          352,
-          354
-        ],
-        "Get": [
-          355
-        ],
-        "Permissions": [
-          356
-        ],
-        "Site": [
-          358
-        ],
-        "Polo,": [
-          362
-        ],
-        "Melvin,": [
-          364
-        ],
-        "Hooker,": [
-          367
-        ],
-        "Rees,": [
-          370
-        ],
-        "Gingras,": [
-          373
-        ],
-        "Pemberton;": [
-          376
-        ],
-        "Arabia.": [
-          410
-        ],
-        "2018;;": [
-          415
-        ],
-        "doi:": [
-          419
-        ],
-        "Download": [
-          421
-        ],
-        "citation": [
-          422
-        ],
-        "file:": [
-          423
-        ],
-        "Ris": [
-          424
-        ],
-        "(Zotero)": [
-          425
-        ],
-        "Refmanager": [
+          332,
+          409,
+          423,
           426
         ],
-        "EasyBib": [
-          427
-        ],
-        "Bookends": [
-          428
-        ],
-        "Mendeley": [
-          429
-        ],
-        "Papers": [
-          430
-        ],
-        "EndNote": [
-          431
-        ],
-        "RefWorks": [
-          432
-        ],
-        "BibTex": [
-          433
-        ],
-        "toolbar": [
-          434,
-          439
-        ],
-        "search": [
-          435,
-          440,
-          441,
-          449
-        ],
-        "Dropdown": [
-          437
-        ],
-        "Menu": [
-          438
-        ],
-        "input": [
-          442,
-          444
-        ],
-        "auto": [
-          445
-        ],
-        "suggest": [
-          446
-        ],
-        "filter": [
-          447
-        ],
-        "your": [
-          448,
-          932
-        ],
-        "All": [
-          450
-        ],
-        "ContentBy": [
-          451
-        ],
-        "SocietyJournal": [
-          452
-        ],
-        "Advanced": [
-          457
-        ],
-        "Abstract": [
-          459
-        ],
-        "Sedimentation": [
-          460,
-          737
-        ],
-        "across": [
-          465,
-          647
-        ],
-        "subsurface": [
-          466
-        ],
-        "central": [
-          467
-        ],
         "eastern": [
-          469
+          10
+        ],
+        "Saudi": [
+          11
+        ],
+        "Arabia": [
+          12
         ],
         "has": [
-          472
+          13
         ],
         "been": [
-          473
+          14
         ],
         "chiefly": [
-          474,
-          748
+          15,
+          290
         ],
         "ascribed": [
-          475
+          16
+        ],
+        "to": [
+          17,
+          341,
+          344,
+          361,
+          404,
+          452
         ],
         "continental": [
-          477
+          18
         ],
         "sedimentary": [
-          478,
-          522
+          19,
+          63
         ],
         "environments.": [
-          479,
-          563
+          20,
+          64,
+          105
         ],
         "However,": [
-          480
+          21
+        ],
+        "a": [
+          22,
+          49,
+          255,
+          283,
+          308,
+          446
         ],
         "number": [
-          482
+          23
+        ],
+        "of": [
+          24,
+          61,
+          84,
+          118,
+          123,
+          143,
+          182,
+          187,
+          196,
+          202,
+          215,
+          230,
+          259,
+          264,
+          275,
+          302,
+          327,
+          354,
+          435,
+          439,
+          458
         ],
         "levels": [
-          484
+          25
+        ],
+        "this": [
+          27,
+          413
         ],
         "formation": [
-          487
+          28
         ],
         "show": [
-          488
+          29
         ],
         "evidence": [
-          489,
-          877
+          30,
+          420
+        ],
+        "for": [
+          31,
+          53,
+          395,
+          421
         ],
         "marginal-marine": [
-          491,
-          879
+          32,
+          422
         ],
         "shallow-marine": [
-          493,
-          521,
-          525,
-          881
+          34,
+          62,
+          67,
+          424
         ],
         "sedimentation.": [
-          494
+          35
+        ],
+        "This": [
+          36
         ],
         "paper": [
-          496,
-          871
+          37,
+          414
         ],
         "documents": [
-          497
+          38
         ],
         "trace-fossil": [
-          498
+          39
         ],
         "faunas": [
-          499
+          40
         ],
         "sedimentological": [
-          501,
-          775
+          42,
+          317
         ],
         "characteristics": [
-          502
+          43
         ],
         "from": [
-          503
+          44
         ],
         "these": [
-          504
+          45
         ],
         "facies": [
-          505
+          46
         ],
         "presents": [
-          507
+          48
         ],
         "regional": [
-          509,
-          805,
-          849
+          50,
+          348,
+          392
         ],
         "depositional": [
-          510,
-          562
+          51,
+          104
         ],
         "model": [
-          511
+          52
+        ],
+        "Wudayhi": [
+          55,
+          71,
+          337,
+          437
+        ],
+        "Member": [
+          56,
+          72,
+          338,
+          438
         ],
         "that": [
-          516,
-          555,
-          626,
-          707,
-          753,
-          769,
-          822
+          57,
+          97,
+          168,
+          249,
+          295,
+          311,
+          365
         ],
         "confirms": [
-          517
+          58
         ],
         "presence": [
-          519
+          60
         ],
-        "environments.Marginal-marine": [
-          523
+        "Marginal-marine": [
+          65
         ],
         "sedimentation": [
-          526,
-          615,
-          692
+          68,
+          157,
+          234
         ],
         "includes": [
-          531,
-          617,
-          693
+          73,
+          159,
+          235
         ],
         "estuarine": [
-          532
+          74
         ],
         "deposits": [
-          533,
-          593,
-          607,
-          695,
-          704,
-          913
+          75,
+          135,
+          149,
+          237,
+          246,
+          456
         ],
         "upper-shoreface": [
-          535,
-          606
+          77,
+          148
         ],
         "through": [
-          536
+          78
         ],
         "lower-shoreface": [
-          537,
-          592
+          79,
+          134
         ],
         "deposits.": [
-          538
+          80
         ],
         "They": [
-          539
+          81
         ],
         "are": [
-          540,
-          677,
-          872
+          82,
+          219,
+          415
         ],
         "reflective": [
-          541
+          83
         ],
         "several": [
-          543
+          85
         ],
         "transgressive–regressive": [
-          544
+          86
         ],
         "(T-R)": [
-          545
+          87
         ],
         "cycles": [
-          546
+          88
         ],
         "an": [
-          548,
-          567,
-          577,
-          598,
-          651,
-          785
+          90,
+          109,
+          119,
+          140,
+          193,
+          328
         ],
         "overall": [
-          549,
-          568,
-          634,
-          786
+          91,
+          110,
+          176,
+          329
         ],
         "shoaling-upwards,": [
-          550
+          92
         ],
         "tidally": [
-          551,
-          665
+          93,
+          207
         ],
         "influenced": [
-          552,
-          749
+          94,
+          291
         ],
         "progradational": [
-          553,
-          854
+          95,
+          397
         ],
         "succession": [
-          554,
-          565
+          96,
+          107
         ],
         "exhibit": [
-          556
+          98
         ],
         "mixed-process": [
-          557
+          99
         ],
         "(wave-,": [
-          558
+          100
         ],
         "tide-,": [
-          559
+          101
         ],
         "fluvially-influenced)": [
-          561
+          103
+        ],
+        "The": [
+          106,
+          300
         ],
         "displays": [
-          566
+          108
         ],
         "upward": [
-          569
+          111
         ],
         "decrease": [
-          570
+          112
         ],
         "bioturbation": [
-          572
+          114
         ],
         "intensity": [
-          573,
-          644
+          115,
+          186
         ],
         "with": [
-          574,
-          664,
-          719,
-          804,
-          836,
-          840
+          116,
+          206,
+          261,
+          347,
+          379,
+          383
         ],
         "elements": [
-          575,
-          721,
-          783
+          117,
+          263,
+          326
         ],
         "impoverished": [
-          578,
-          599,
-          715,
-          787
+          120,
+          141,
+          257,
+          330
         ],
         "proximal": [
-          579
+          121
         ],
         "expression": [
-          580,
-          600
+          122,
+          142
         ],
         "Cruziana": [
-          583,
-          726,
-          790
+          125,
+          268,
+          333
         ],
         "Ichnofacies": [
-          584,
-          604,
-          727,
-          791
+          126,
+          146,
+          269,
+          334
         ],
         "at": [
-          585,
-          685
+          127,
+          227
         ],
         "base": [
-          587
+          129
         ],
         "proximal-": [
-          589
+          131
         ],
         "distal-": [
-          591
+          133
         ],
         "(Facies": [
-          594,
-          608,
-          696,
-          700,
-          705
+          136,
+          150,
+          238,
+          242,
+          247
         ],
         "5–6),": [
-          595
+          137
         ],
         "passing": [
-          596
+          138
         ],
         "into": [
-          597,
-          844,
-          919
+          139,
+          387,
+          462
         ],
         "Skolithos": [
-          603,
-          724,
-          788
+          145,
+          266,
+          331
         ],
         "4).": [
-          609
+          151
         ],
         "Therein,": [
-          610
+          152
         ],
         "Facies": [
-          611
+          153
         ],
         "records": [
-          613
+          155
         ],
         "storm-influenced": [
-          614,
-          884
+          156,
+          427
         ],
         "hummocky": [
-          618
+          160
         ],
         "cross-stratification": [
-          619
+          161
         ],
         "(HCS),": [
-          620
+          162
         ],
         "combined-flow": [
-          621
+          163
         ],
         "ripples,": [
-          622
+          164
         ],
         "cross-lamination,": [
-          623
+          165
         ],
         "ichnofossils": [
-          625
+          167
         ],
         "alternate": [
-          627
+          169
         ],
         "between": [
-          628
+          170
         ],
         "storm-related": [
-          629
+          171
         ],
         "fair-weather": [
-          631
+          173
         ],
         "assemblages.": [
-          632
+          174
         ],
         "An": [
-          633
+          175
         ],
         "reduction": [
-          635
+          177
         ],
         "both": [
-          637
+          179
         ],
         "diversity": [
-          639
+          181
         ],
         "ichnogenera": [
-          641
+          183
         ],
         "burrowing": [
-          646
+          188
         ],
         "shoreface": [
-          649
+          191
         ],
         "profile,": [
-          650
+          192
         ],
         "apparent": [
-          652
+          194
         ],
         "lack": [
-          653
+          195
         ],
         "middle-shoreface": [
-          655
+          197
         ],
         "deposits,": [
-          656
+          198
         ],
         "occurrence": [
-          659
+          201
         ],
         "storm-wave-generated": [
-          661
+          203
         ],
         "structures": [
-          662,
-          667
+          204,
+          209
         ],
         "interspersed": [
-          663
+          205
         ],
         "generated": [
-          666
+          208
         ],
         "center": [
-          670
+          212
         ],
         "southeast": [
-          672
+          214
         ],
         "study": [
-          675,
-          735
+          217,
+          277
         ],
         "area": [
-          676
+          218
         ],
         "interpreted": [
-          678,
-          797
+          220,
+          340
         ],
         "as": [
-          679,
-          827
+          221,
+          370
         ],
         "tidal": [
-          680,
-          698,
-          751
+          222,
+          240,
+          293
         ],
         "modulation,": [
-          681
+          223
         ],
         "suggesting": [
-          682
+          224
         ],
         "macrotidal": [
-          683
+          225
         ],
         "conditions": [
-          684
+          226
         ],
         "time": [
-          687
+          229
         ],
         "sediment": [
-          689
+          231
         ],
         "deposition.": [
-          690
+          232
         ],
         "Estuarine": [
-          691
+          233
         ],
         "coal": [
-          694
+          236
         ],
         "1),": [
-          697
+          239
         ],
         "flats": [
-          699
+          241
         ],
         "2),": [
-          701
+          243
         ],
         "fluvio-tidal": [
-          703
+          245
         ],
         "3)": [
-          706
+          248
         ],
         "overlie": [
-          708
+          250
         ],
         "succession,": [
-          710
+          252
         ],
         "display": [
-          712
+          254
         ],
         "stressed,": [
-          714
+          256
         ],
         "mixture": [
-          716
+          258
         ],
         "traces": [
-          718
+          260
         ],
         "facies-crossing": [
-          720
+          262
         ],
         "north": [
-          730
+          272
         ],
         "northwest": [
-          732
+          274
         ],
         "area.": [
-          736
+          278
         ],
         "took": [
-          738
+          280
         ],
         "place": [
-          739
+          281
         ],
         "on": [
-          740,
-          773
+          282,
+          315
         ],
         "broad": [
-          742
+          284
         ],
         "sandy,": [
-          744
+          286
         ],
         "partially": [
-          745
+          287
         ],
         "restricted": [
-          746
+          288
         ],
         "shelf,": [
-          747
+          289
+        ],
+        "by": [
+          292,
+          322,
+          351
         ],
         "currents": [
-          752
+          294
         ],
         "was": [
-          754
+          296
         ],
         "variably": [
-          755
+          297
         ],
         "fluvially": [
-          756
+          298
         ],
         "influenced.": [
-          757
+          299
         ],
         "interplay": [
-          759
+          301
         ],
         "aforementioned": [
-          762
+          304
         ],
         "processes": [
-          763,
-          885
+          305,
+          428
         ],
         "results": [
-          764
+          306
         ],
         "complex": [
-          767
+          309
         ],
         "architecture": [
-          768
+          310
         ],
         "is": [
-          770,
-          796
+          312,
+          339
         ],
         "traceable,": [
-          771
+          313
         ],
         "based": [
-          772
+          314
         ],
         "ichnological": [
-          777
+          319
         ],
-        "content.Colonization": [
-          778
+        "content.": [
+          320
+        ],
+        "Colonization": [
+          321
         ],
         "bioturbating": [
-          780
+          323
         ],
         "infauna": [
-          781
+          324
         ],
         "exhibiting": [
-          782
+          325
         ],
         "be": [
-          799,
-          907
+          342,
+          450
         ],
         "related": [
-          800
+          343
         ],
         "sea-level": [
-          802
+          345
         ],
         "rise,": [
-          803
+          346
         ],
         "transgression": [
-          806
+          349
         ],
         "induced": [
-          807
+          350
         ],
         "melting": [
-          810
+          353
         ],
         "glacier": [
-          812
+          355
         ],
         "ice": [
-          813
+          356
         ],
         "following": [
-          814
+          357
+        ],
+        "Late": [
+          359
         ],
         "Carboniferous": [
-          817
+          360
         ],
         "Early": [
-          819,
-          860
+          362,
+          403
         ],
         "Permian": [
-          820
+          363
         ],
         "glaciation": [
-          821
+          364
         ],
         "affected": [
-          823
+          366
         ],
         "southern": [
-          824
+          367
         ],
         "Gondwana.": [
-          825
+          368
         ],
         "Subsequently,": [
-          826
+          369
         ],
         "Arabian": [
-          829,
-          846,
-          917
+          372,
+          389,
+          460
         ],
         "Plate": [
-          830
+          373
         ],
         "migrated": [
-          831
+          374
         ],
         "northwards,": [
-          832
+          375
         ],
         "isostatic": [
-          833
+          376
         ],
         "rebound": [
-          834
+          377
         ],
         "concomitant": [
-          835
+          378
         ],
         "increased": [
-          837
+          380
         ],
         "tectonism": [
-          838
+          381
         ],
         "associated": [
-          839
+          382
         ],
         "Neotethys": [
-          842
+          385
         ],
         "propagating": [
-          843
+          386
         ],
         "Peninsula": [
-          847,
-          918
+          390,
+          461
         ],
         "caused": [
-          848
+          391
         ],
         "regression": [
-          850
+          393
         ],
         "responsible": [
-          851
+          394
         ],
         "sequence": [
-          855
+          398
         ],
         "presented": [
-          856,
-          868
+          399,
+          411
         ],
         "herein": [
-          857
+          400
         ],
         "Middle": [
-          862
+          405
         ],
         "Permian.": [
-          863
+          406
         ],
         "Trace-fossil": [
-          864
+          407
         ],
         "associations": [
-          865
+          408
         ],
         "ichnofacies": [
-          867
+          410
         ],
         "significant,": [
-          873
+          416
         ],
         "because": [
-          874
+          417
         ],
         "they": [
-          875
+          418
         ],
         "provide": [
-          876
+          419
         ],
         "tide-": [
-          882
+          425
         ],
         "Unayzah": [
-          888
+          431
         ],
         "Group": [
-          889
+          432
         ],
         "during": [
-          890
+          433
         ],
         "deposition": [
-          891
+          434
         ],
         "Formation.": [
-          899
+          442
         ],
         "Furthermore,": [
-          900
+          443
         ],
         "it": [
-          901
+          444
         ],
         "establishes": [
-          902
+          445
         ],
         "framework": [
-          904
+          447
         ],
         "than": [
-          905
+          448
         ],
         "can": [
-          906
+          449
         ],
         "linked": [
-          908
+          451
         ],
         "fully": [
-          910
+          453
         ],
         "marine": [
-          911
+          454
         ],
         "coeval": [
-          912
+          455
         ],
         "southeastern": [
-          914
+          457
         ],
         "Oman.": [
-          920
-        ],
-        "You": [
-          921
-        ],
-        "do": [
-          922
-        ],
-        "not": [
-          923
-        ],
-        "have": [
-          924,
-          940
-        ],
-        "access": [
-          925
-        ],
-        "content,": [
-          928
-        ],
-        "please": [
-          929
-        ],
-        "speak": [
-          930
-        ],
-        "institutional": [
-          933
-        ],
-        "administrator": [
-          934
-        ],
-        "if": [
-          935
-        ],
-        "you": [
-          936,
-          938
-        ],
-        "feel": [
-          937
-        ],
-        "should": [
-          939
-        ],
-        "access.": [
-          941
+          463
         ]
       },
       "counts_by_year": [
@@ -9625,7 +8859,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-03T09:05:47.796612",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10211,9 +9445,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4099999964237213,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11139,9 +10373,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
