@@ -16,7 +16,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 43,
-    "cited_by_count": 485,
+    "cited_by_count": 486,
     "summary_stats": {
       "2yr_mean_citedness": 0.8235294117647058,
       "h_index": 11,
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000282,
+        "value": 0.0000281,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -295,7 +295,7 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 66
+        "cited_by_count": 67
       },
       {
         "year": 2020,
@@ -347,7 +347,7 @@
     ],
     "block_key": "h al-kuwari",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
-    "updated_date": "2026-06-01T12:24:26",
+    "updated_date": "2026-06-03T12:22:50",
     "created_date": "2020-10-01T00:00:00"
   },
   "works": [
@@ -1163,9 +1163,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -4201,9 +4201,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5634,9 +5634,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -6531,6 +6531,7 @@
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
@@ -6573,6 +6574,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
@@ -6609,6 +6611,7 @@
           "raw_affiliation_strings": [
             "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius",
@@ -6645,6 +6648,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
@@ -6681,6 +6685,7 @@
           "raw_affiliation_strings": [
             "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia",
@@ -6717,6 +6722,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
@@ -6753,6 +6759,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
@@ -6789,6 +6796,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
@@ -6814,16 +6822,16 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 1.9503,
+      "fwci": 1.9488,
       "has_fulltext": false,
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.85201437,
+        "value": 0.85201655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -7270,9 +7278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -7424,7 +7432,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -7443,7 +7451,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-17T18:11:37.981687",
+      "updated_date": "2026-06-04T09:04:59.091469",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11710,9 +11718,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -13490,9 +13498,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -14146,9 +14154,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -16749,9 +16757,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -18301,9 +18309,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18916,9 +18924,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -22899,9 +22907,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24145,9 +24153,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -25620,9 +25628,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -26832,9 +26840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -28989,9 +28997,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31584,9 +31592,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -32737,9 +32745,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33773,9 +33781,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -34321,9 +34329,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/2"
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
