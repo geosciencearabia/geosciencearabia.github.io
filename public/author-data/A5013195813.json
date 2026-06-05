@@ -307,7 +307,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002783,
+        "value": 0.0002782,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -324,7 +324,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000178,
+        "value": 0.0001779,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -1126,11 +1126,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 14.6155,
+      "fwci": 14.5944,
       "has_fulltext": false,
-      "cited_by_count": 166,
+      "cited_by_count": 167,
       "citation_normalized_percentile": {
-        "value": 0.99505057,
+        "value": 0.99505376,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1743,7 +1743,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -1798,7 +1798,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-19T08:33:51.333923",
+      "updated_date": "2026-06-05T09:01:59.212387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33567,8 +33567,8 @@
           "raw_author_name": "Paul Baville",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5686-5554",
           "affiliations": [
@@ -33581,14 +33581,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -33811,8 +33811,8 @@
           "raw_author_name": "Christophe Antoine",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -33825,14 +33825,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -34001,11 +34001,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3895,
+      "fwci": 1.3896,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81940538,
+        "value": 0.81941748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34451,7 +34451,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-04T09:04:59.091469",
+      "updated_date": "2026-06-05T09:01:59.212387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62246,11 +62246,11 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 2.2287,
+      "fwci": 2.2298,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88517052,
+        "value": 0.88523477,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62598,13 +62598,6 @@
           "funder_award_id": "41890844",
           "funder_id": "https://openalex.org/F4320322439",
           "funder_display_name": "Northwest University"
-        },
-        {
-          "id": "https://openalex.org/G1474490597",
-          "display_name": null,
-          "funder_award_id": "111 Project",
-          "funder_id": "https://openalex.org/F4320321001",
-          "funder_display_name": "National Natural Science Foundation of China"
         },
         {
           "id": "https://openalex.org/G1803178129",
@@ -63253,7 +63246,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-02T09:04:35.204637",
+      "updated_date": "2026-06-05T09:01:59.212387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78511,20 +78504,20 @@
           "is_corresponding": true,
           "raw_author_name": "Baville, Paul",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -78672,20 +78665,20 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -78794,7 +78787,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13860575,
+        "value": 0.1386394,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79069,7 +79062,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-04T09:04:59.091469",
+      "updated_date": "2026-06-05T09:01:59.212387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
