@@ -799,8 +799,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-03-02",
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
-    "citations": 17,
-    "fwci": 2.1005,
+    "citations": 18,
+    "fwci": 2.1012,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -23303,8 +23303,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-20",
     "year": 2022,
     "venue": "Lethaia",
-    "citations": 94,
-    "fwci": 105.6984,
+    "citations": 95,
+    "fwci": 105.7178,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -24563,6 +24563,56 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2556378784",
+    "doi": "https://doi.org/10.1080/10420940.2016.1244054",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5076374858",
+      "A5090834341",
+      "A5063816185",
+      "A5101520487",
+      "A5051414149",
+      "A5100390077",
+      "A5044504676",
+      "A5069271704"
+    ],
+    "firstAuthorLastName": "Xing",
+    "allAuthors": [
+      "Lida Xing",
+      "Daniel Marty",
+      "Hai‐Lu You",
+      "Daqing Li",
+      "Hendrik Klein",
+      "Dirk Knaust",
+      "Jianping Zhang",
+      "Richard T. McCrea",
+      "W. Scott Persons"
+    ],
+    "title": "Complex In-Substrate Dinosaur (Sauropoda, Ornithopoda) Foot Pathways Revealed by Deep Natural Track Casts from the Lower Cretaceous Xiagou and Zhonggou Formations, Gansu Province, China",
+    "publicationDate": "2016-11-10",
+    "year": 2016,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 10,
+    "fwci": 1.3363,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Ichthyology and Marine Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "Natural History Museum of Basel",
+      "Institute of Vertebrate Paleontology and Paleoanthropology",
+      "Chinese Academy of Sciences",
+      "Gansu Agricultural University",
+      "Equinor (Norway)",
+      "Peace Arch Hospital",
+      "University of Alberta"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4375845990",
     "doi": "https://doi.org/10.1002/spp2.1491",
     "program": "",
@@ -24595,56 +24645,6 @@ export const worksTable: WorkTableRecord[] = [
       "Institute of the Earth’s Crust",
       "Institute of Geology, Komi Science Centre",
       "Tallinn University of Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2556378784",
-    "doi": "https://doi.org/10.1080/10420940.2016.1244054",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813",
-      "A5076374858",
-      "A5090834341",
-      "A5063816185",
-      "A5101520487",
-      "A5051414149",
-      "A5100390077",
-      "A5044504676",
-      "A5069271704"
-    ],
-    "firstAuthorLastName": "Xing",
-    "allAuthors": [
-      "Lida Xing",
-      "Daniel Marty",
-      "Hai‐Lu You",
-      "Daqing Li",
-      "Hendrik Klein",
-      "Dirk Knaust",
-      "Jianping Zhang",
-      "Richard T. McCrea",
-      "W. Scott Persons"
-    ],
-    "title": "Complex In-Substrate Dinosaur (Sauropoda, Ornithopoda) Foot Pathways Revealed by Deep Natural Track Casts from the Lower Cretaceous Xiagou and Zhonggou Formations, Gansu Province, China",
-    "publicationDate": "2016-11-10",
-    "year": 2016,
-    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
-    "citations": 9,
-    "fwci": 1.324,
-    "topics": [
-      "Paleontology and Evolutionary Biology",
-      "Ichthyology and Marine Biology",
-      "Evolution and Paleontology Studies"
-    ],
-    "institutions": [
-      "China University of Geosciences (Beijing)",
-      "Natural History Museum of Basel",
-      "Institute of Vertebrate Paleontology and Paleoanthropology",
-      "Chinese Academy of Sciences",
-      "Gansu Agricultural University",
-      "Equinor (Norway)",
-      "Peace Arch Hospital",
-      "University of Alberta"
     ]
   },
   {
@@ -32865,6 +32865,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4400900439",
+    "doi": "https://doi.org/10.1016/j.ijhydene.2024.07.272",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5008302543",
+      "A5063894925",
+      "A5024608621"
+    ],
+    "firstAuthorLastName": "Muhammed",
+    "allAuthors": [
+      "Nasiru Salahu Muhammed",
+      "Bashirul Haq",
+      "Dhafer Al Shehri",
+      "Abduljamiu O. Amao"
+    ],
+    "title": "Comparative study on hydrogen losses via microbial byproduct in the presence of methane and nitrogen cushion gas",
+    "publicationDate": "2024-07-23",
+    "year": 2024,
+    "venue": "International Journal of Hydrogen Energy",
+    "citations": 7,
+    "fwci": 1.5351,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Anaerobic Digestion and Biogas Production",
+      "Hybrid Renewable Energy Systems"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4412386547",
     "doi": "https://doi.org/10.1039/d5ta02765a",
     "program": "",
@@ -33051,6 +33084,39 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4410079140",
+    "doi": "https://doi.org/10.1016/j.est.2025.116805",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5008302543",
+      "A5063894925",
+      "A5024608621"
+    ],
+    "firstAuthorLastName": "Muhammed",
+    "allAuthors": [
+      "Nasiru Salahu Muhammed",
+      "Bashirul Haq",
+      "Dhafer Al Shehri",
+      "Abduljamiu O. Amao"
+    ],
+    "title": "Hydrogen losses in gas reservoir in the presence of CH4 cushion gas: Insight into geochemical, petrophysical and geomechanical analysis",
+    "publicationDate": "2025-05-05",
+    "year": 2025,
+    "venue": "Journal of Energy Storage",
+    "citations": 3,
+    "fwci": 1.9168,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W3184337242",
@@ -33360,39 +33426,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4400900439",
-    "doi": "https://doi.org/10.1016/j.ijhydene.2024.07.272",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5008302543",
-      "A5063894925",
-      "A5024608621"
-    ],
-    "firstAuthorLastName": "Muhammed",
-    "allAuthors": [
-      "Nasiru Salahu Muhammed",
-      "Bashirul Haq",
-      "Dhafer Al Shehri",
-      "Abduljamiu O. Amao"
-    ],
-    "title": "Comparative study on hydrogen losses via microbial byproduct in the presence of methane and nitrogen cushion gas",
-    "publicationDate": "2024-07-23",
-    "year": 2024,
-    "venue": "International Journal of Hydrogen Energy",
-    "citations": 6,
-    "fwci": 1.4307,
-    "topics": [
-      "Methane Hydrates and Related Phenomena",
-      "Anaerobic Digestion and Biogas Production",
-      "Hybrid Renewable Energy Systems"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4387470844",
     "doi": "https://doi.org/10.2118/214856-ms",
     "program": "",
@@ -33542,39 +33575,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Tectonic Studies in Latin America"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4410079140",
-    "doi": "https://doi.org/10.1016/j.est.2025.116805",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5008302543",
-      "A5063894925",
-      "A5024608621"
-    ],
-    "firstAuthorLastName": "Muhammed",
-    "allAuthors": [
-      "Nasiru Salahu Muhammed",
-      "Bashirul Haq",
-      "Dhafer Al Shehri",
-      "Abduljamiu O. Amao"
-    ],
-    "title": "Hydrogen losses in gas reservoir in the presence of CH4 cushion gas: Insight into geochemical, petrophysical and geomechanical analysis",
-    "publicationDate": "2025-05-05",
-    "year": 2025,
-    "venue": "Journal of Energy Storage",
-    "citations": 2,
-    "fwci": 1.639,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
   },
   {
     "workId": "https://openalex.org/W4281623104",
@@ -35865,8 +35865,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-04-16",
     "year": 2021,
     "venue": "Journal of Sedimentary Environments",
-    "citations": 18,
-    "fwci": 5.734,
+    "citations": 19,
+    "fwci": 5.7401,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -48650,6 +48650,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2010582339",
+    "doi": "https://doi.org/10.1080/10420940.2014.958224",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5030587820",
+    "allAuthorOpenAlexIds": [
+      "A5030587820",
+      "A5068368545",
+      "A5046641260",
+      "A5001576969",
+      "A5111738454",
+      "A5071875690"
+    ],
+    "firstAuthorLastName": "Baniak",
+    "allAuthors": [
+      "Greg M. Baniak",
+      "Andrew D. La Croix",
+      "Camilo A. Polo",
+      "Tiffany Playter",
+      "S. George Pemberton",
+      "Murray K. Gingras"
+    ],
+    "title": "Associating X-Ray Microtomography with Permeability Contrasts in Bioturbated Media",
+    "publicationDate": "2014-10-02",
+    "year": 2014,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 27,
+    "fwci": 2.0242,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "University of Alberta",
+      "Simon Fraser University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4307637027",
     "doi": "https://doi.org/10.2110/jsr.2021.112",
     "program": "",
@@ -48682,44 +48720,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (Saudi Arabia)",
       "Universidad de Granada"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2010582339",
-    "doi": "https://doi.org/10.1080/10420940.2014.958224",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5030587820",
-    "allAuthorOpenAlexIds": [
-      "A5030587820",
-      "A5068368545",
-      "A5046641260",
-      "A5001576969",
-      "A5111738454",
-      "A5071875690"
-    ],
-    "firstAuthorLastName": "Baniak",
-    "allAuthors": [
-      "Greg M. Baniak",
-      "Andrew D. La Croix",
-      "Camilo A. Polo",
-      "Tiffany Playter",
-      "S. George Pemberton",
-      "Murray K. Gingras"
-    ],
-    "title": "Associating X-Ray Microtomography with Permeability Contrasts in Bioturbated Media",
-    "publicationDate": "2014-10-02",
-    "year": 2014,
-    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
-    "citations": 26,
-    "fwci": 2.0237,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Seismic Imaging and Inversion Techniques"
-    ],
-    "institutions": [
-      "University of Alberta",
-      "Simon Fraser University"
     ]
   },
   {
@@ -50758,7 +50758,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.1895,
+    "fwci": 1.1859,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -57633,7 +57633,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 10,
-    "fwci": 0.3069,
+    "fwci": 0.3068,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Marine and environmental studies",
@@ -81717,6 +81717,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4410159041",
+    "doi": "https://doi.org/10.1038/s41598-025-00697-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5059100961",
+      "A5054922583",
+      "A5016178719"
+    ],
+    "firstAuthorLastName": "Al-Lehyani",
+    "allAuthors": [
+      "Ayman Al-Lehyani",
+      "Hassan A. Eltom",
+      "Abdullatif Al‐Shuhail",
+      "Eassa Abdullah",
+      "Ammar El-Husseiny"
+    ],
+    "title": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
+    "publicationDate": "2025-05-07",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 2,
+    "fwci": 1.2779,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Groundwater flow and contamination studies",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2775124168",
     "doi": "https://doi.org/10.2110/jsr.2017.71",
     "program": "",
@@ -81988,40 +82022,6 @@ export const worksTable: WorkTableRecord[] = [
     "topics": [
       "Enhanced Oil Recovery Techniques",
       "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4410159041",
-    "doi": "https://doi.org/10.1038/s41598-025-00697-w",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040857714",
-    "allAuthorOpenAlexIds": [
-      "A5040857714",
-      "A5059100961",
-      "A5054922583",
-      "A5016178719"
-    ],
-    "firstAuthorLastName": "Al-Lehyani",
-    "allAuthors": [
-      "Ayman Al-Lehyani",
-      "Hassan A. Eltom",
-      "Abdullatif Al‐Shuhail",
-      "Eassa Abdullah",
-      "Ammar El-Husseiny"
-    ],
-    "title": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
-    "publicationDate": "2025-05-07",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 1,
-    "fwci": 0.6787,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Groundwater flow and contamination studies",
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": [
@@ -85647,6 +85647,36 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4387235239",
+    "doi": "https://doi.org/10.2118/215995-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5044806143",
+    "allAuthorOpenAlexIds": [
+      "A5044806143",
+      "A5092980512"
+    ],
+    "firstAuthorLastName": "Belushi",
+    "allAuthors": [
+      "Maram Al Belushi",
+      "Mohamed A. K. El‐Ghali"
+    ],
+    "title": "Unlocking the Nahr Umr Play Potential in North Oman from Regional Evaluation of the Limestone Marker Unit",
+    "publicationDate": "2023-10-02",
+    "year": 2023,
+    "venue": "",
+    "citations": 2,
+    "fwci": 0.3121,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Ministry of Agriculture and Fisheries",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2076048146",
     "doi": "https://doi.org/10.1016/j.gexplo.2005.11.030",
     "program": "",
@@ -85985,36 +86015,6 @@ export const worksTable: WorkTableRecord[] = [
       "Istanbul Technical University",
       "University of Regina",
       "The Research Council"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4387235239",
-    "doi": "https://doi.org/10.2118/215995-ms",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044806143",
-    "allAuthorOpenAlexIds": [
-      "A5044806143",
-      "A5092980512"
-    ],
-    "firstAuthorLastName": "Belushi",
-    "allAuthors": [
-      "Maram Al Belushi",
-      "Mohamed A. K. El‐Ghali"
-    ],
-    "title": "Unlocking the Nahr Umr Play Potential in North Oman from Regional Evaluation of the Limestone Marker Unit",
-    "publicationDate": "2023-10-02",
-    "year": 2023,
-    "venue": "",
-    "citations": 1,
-    "fwci": 0.1584,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Ministry of Agriculture and Fisheries",
-      "Sultan Qaboos University"
     ]
   },
   {
@@ -87436,7 +87436,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0431,
+    "fwci": 32.0425,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -88125,8 +88125,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3390,
-    "fwci": 71.964,
+    "citations": 3392,
+    "fwci": 71.962,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88457,7 +88457,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2002-05-01",
     "year": 2002,
     "venue": "The Journal of Geology",
-    "citations": 286,
+    "citations": 287,
     "fwci": 13.9036,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -91665,6 +91665,52 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2990866968",
+    "doi": "https://doi.org/10.1016/j.gr.2019.12.006",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5004188350",
+      "A5076630029",
+      "A5090734880",
+      "A5002671147",
+      "A5024022389",
+      "A5067737483",
+      "A5016377125",
+      "A5058911532"
+    ],
+    "firstAuthorLastName": "Foden",
+    "allAuthors": [
+      "John Foden",
+      "Marlina Elburg",
+      "Simon Turner",
+      "Chris Clark",
+      "Morgan Blades",
+      "Grant M. Cox",
+      "Alan S. Collins",
+      "Keryn Wolff",
+      "Christian O. George"
+    ],
+    "title": "Cambro-Ordovician magmatism in the Delamerian orogeny: Implications for tectonic development of the southern Gondwanan margin",
+    "publicationDate": "2020-01-16",
+    "year": 2020,
+    "venue": "Gondwana Research",
+    "citations": 56,
+    "fwci": 6.5455,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "University of Johannesburg",
+      "Macquarie University",
+      "Curtin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2204495290",
     "doi": "https://doi.org/10.1016/j.precamres.2015.09.018",
     "program": "",
@@ -91707,52 +91753,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "University of South Australia",
       "Government of Ethiopia",
-      "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2990866968",
-    "doi": "https://doi.org/10.1016/j.gr.2019.12.006",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5004188350",
-      "A5076630029",
-      "A5090734880",
-      "A5002671147",
-      "A5024022389",
-      "A5067737483",
-      "A5016377125",
-      "A5058911532"
-    ],
-    "firstAuthorLastName": "Foden",
-    "allAuthors": [
-      "John Foden",
-      "Marlina Elburg",
-      "Simon Turner",
-      "Chris Clark",
-      "Morgan Blades",
-      "Grant M. Cox",
-      "Alan S. Collins",
-      "Keryn Wolff",
-      "Christian O. George"
-    ],
-    "title": "Cambro-Ordovician magmatism in the Delamerian orogeny: Implications for tectonic development of the southern Gondwanan margin",
-    "publicationDate": "2020-01-16",
-    "year": 2020,
-    "venue": "Gondwana Research",
-    "citations": 55,
-    "fwci": 6.5418,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "University of Johannesburg",
-      "Macquarie University",
       "Curtin University"
     ]
   },
@@ -128391,6 +128391,33 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4414027663",
+    "doi": "https://doi.org/10.3389/feart.2025.1674784",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196"
+    ],
+    "firstAuthorLastName": "Abu‐Mahfouz",
+    "allAuthors": [
+      "Israa S. Abu‐Mahfouz"
+    ],
+    "title": "The impact of silica diagenesis on organic-rich carbonate source rocks: a review",
+    "publicationDate": "2025-09-05",
+    "year": 2025,
+    "venue": "Frontiers in Earth Science",
+    "citations": 5,
+    "fwci": 3.1947,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4392185288",
     "doi": "https://doi.org/10.2523/iptc-23880-ms",
     "program": "",
@@ -128422,33 +128449,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
       "Petroleum Processing and Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4414027663",
-    "doi": "https://doi.org/10.3389/feart.2025.1674784",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196"
-    ],
-    "firstAuthorLastName": "Abu‐Mahfouz",
-    "allAuthors": [
-      "Israa S. Abu‐Mahfouz"
-    ],
-    "title": "The impact of silica diagenesis on organic-rich carbonate source rocks: a review",
-    "publicationDate": "2025-09-05",
-    "year": 2025,
-    "venue": "Frontiers in Earth Science",
-    "citations": 4,
-    "fwci": 2.715,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -131944,8 +131944,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1981-02-01",
     "year": 1981,
     "venue": "Geophysics",
-    "citations": 54,
-    "fwci": 0.6393,
+    "citations": 55,
+    "fwci": 0.6395,
     "topics": [
       "Seismic Waves and Analysis",
       "Seismic Imaging and Inversion Techniques",
@@ -133808,7 +133808,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 14,
-    "fwci": 3.2435,
+    "fwci": 3.2434,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -144312,7 +144312,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Science",
     "citations": 270,
-    "fwci": 16.4798,
+    "fwci": 16.4799,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Plant Diversity and Evolution",
