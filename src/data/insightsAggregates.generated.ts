@@ -2937,7 +2937,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2011,
     "pubs": 9,
-    "cites": 898
+    "cites": 899
   },
   {
     "topic": "earthquake and tectonic studies",
@@ -2961,7 +2961,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 17,
-    "cites": 1120
+    "cites": 1121
   },
   {
     "topic": "earthquake and tectonic studies",
@@ -4347,7 +4347,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 23,
-    "cites": 1040
+    "cites": 1041
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4383,13 +4383,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 47,
-    "cites": 475
+    "cites": 476
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 35,
-    "cites": 409
+    "cites": 410
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4407,7 +4407,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 44,
-    "cites": 197
+    "cites": 198
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4617,7 +4617,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 17,
-    "cites": 2284
+    "cites": 2285
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4635,13 +4635,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 29,
-    "cites": 1461
+    "cites": 1462
   },
   {
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 27,
-    "cites": 1508
+    "cites": 1509
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4881,7 +4881,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 16,
-    "cites": 327
+    "cites": 328
   },
   {
     "topic": "Geological and Geophysical Studies",
@@ -5487,7 +5487,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 23,
-    "cites": 967
+    "cites": 968
   },
   {
     "topic": "Geological formations and processes",
@@ -6111,7 +6111,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 13,
-    "cites": 80
+    "cites": 81
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -6123,7 +6123,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 16,
-    "cites": 106
+    "cites": 107
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -6135,7 +6135,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 7,
-    "cites": 22
+    "cites": 23
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -6369,7 +6369,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 20,
-    "cites": 815
+    "cites": 816
   },
   {
     "topic": "Geology and Paleoclimatology Research",
@@ -7803,7 +7803,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2011,
     "pubs": 6,
-    "cites": 990
+    "cites": 991
   },
   {
     "topic": "High-pressure geophysics and materials",
@@ -7827,7 +7827,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 8,
-    "cites": 915
+    "cites": 916
   },
   {
     "topic": "High-pressure geophysics and materials",
@@ -8463,7 +8463,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 47,
-    "cites": 1172
+    "cites": 1173
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -8499,19 +8499,19 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 56,
-    "cites": 737
+    "cites": 738
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 66,
-    "cites": 713
+    "cites": 714
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 96,
-    "cites": 1048
+    "cites": 1049
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -8523,7 +8523,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 135,
-    "cites": 641
+    "cites": 642
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -12123,13 +12123,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 13,
-    "cites": 120
+    "cites": 121
   },
   {
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 16,
-    "cites": 243
+    "cites": 244
   },
   {
     "topic": "Petroleum Processing and Analysis",
@@ -23660,21 +23660,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5004345355",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5004345355",
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5004366843",
@@ -26054,7 +26054,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5005574367",
@@ -26068,7 +26068,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5005574367",
@@ -26082,7 +26082,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5005574367",
@@ -34867,7 +34867,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5009594846",
@@ -34902,7 +34902,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5009594846",
@@ -34916,7 +34916,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 9,
-    "cites": 30
+    "cites": 31
   },
   {
     "authorOpenAlexId": "A5009594846",
@@ -42679,7 +42679,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2011,
     "pubs": 2,
-    "cites": 475
+    "cites": 476
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -42700,7 +42700,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 3,
-    "cites": 534
+    "cites": 535
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -43015,7 +43015,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 2,
-    "cites": 475
+    "cites": 476
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -43036,7 +43036,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 7,
-    "cites": 579
+    "cites": 580
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -43491,7 +43491,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2011,
     "pubs": 2,
-    "cites": 475
+    "cites": 476
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -43505,7 +43505,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 2,
-    "cites": 509
+    "cites": 510
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -47404,7 +47404,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 2,
-    "cites": 102
+    "cites": 103
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -47530,7 +47530,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 7,
-    "cites": 512
+    "cites": 513
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -47733,7 +47733,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 5,
-    "cites": 292
+    "cites": 293
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -69776,14 +69776,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 2,
-    "cites": 67
+    "cites": 68
   },
   {
     "authorOpenAlexId": "A5023467994",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 6,
-    "cites": 48
+    "cites": 49
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -69804,7 +69804,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -69853,7 +69853,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 5,
-    "cites": 62
+    "cites": 63
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -69881,7 +69881,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -69937,14 +69937,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 9,
-    "cites": 121
+    "cites": 122
   },
   {
     "authorOpenAlexId": "A5023467994",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 10,
-    "cites": 105
+    "cites": 106
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -69965,7 +69965,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 8,
-    "cites": 24
+    "cites": 25
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -70056,7 +70056,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 7,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5023467994",
@@ -84203,7 +84203,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5029417559",
@@ -84217,7 +84217,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 2,
-    "cites": 482
+    "cites": 483
   },
   {
     "authorOpenAlexId": "A5029417559",
@@ -84238,7 +84238,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5029417559",
@@ -85001,7 +85001,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 4,
-    "cites": 323
+    "cites": 324
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85043,14 +85043,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 3,
-    "cites": 71
+    "cites": 72
   },
   {
     "authorOpenAlexId": "A5029716563",
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 9,
-    "cites": 62
+    "cites": 63
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85071,7 +85071,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 4,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85085,7 +85085,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85288,7 +85288,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 5,
-    "cites": 62
+    "cites": 63
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85316,7 +85316,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 2,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85491,7 +85491,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 12,
-    "cites": 590
+    "cites": 591
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85533,14 +85533,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 13,
-    "cites": 167
+    "cites": 168
   },
   {
     "authorOpenAlexId": "A5029716563",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 16,
-    "cites": 132
+    "cites": 133
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85561,7 +85561,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 20,
-    "cites": 94
+    "cites": 95
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -85834,7 +85834,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 10,
-    "cites": 102
+    "cites": 103
   },
   {
     "authorOpenAlexId": "A5029716563",
@@ -89180,7 +89180,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 3,
-    "cites": 323
+    "cites": 324
   },
   {
     "authorOpenAlexId": "A5030719684",
@@ -89194,7 +89194,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5030719684",
@@ -89222,7 +89222,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 5,
-    "cites": 393
+    "cites": 394
   },
   {
     "authorOpenAlexId": "A5030719684",
@@ -90846,21 +90846,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5031786161",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5031786161",
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5031795745",
@@ -100527,7 +100527,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2011,
     "pubs": 1,
-    "cites": 423
+    "cites": 424
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -100555,7 +100555,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 2,
-    "cites": 509
+    "cites": 510
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -100674,7 +100674,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 3,
-    "cites": 1224
+    "cites": 1225
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -100702,7 +100702,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 2,
-    "cites": 509
+    "cites": 510
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -100835,7 +100835,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2011,
     "pubs": 1,
-    "cites": 423
+    "cites": 424
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -100856,7 +100856,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 2,
-    "cites": 509
+    "cites": 510
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -106477,21 +106477,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035885293",
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035885293",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035885381",
@@ -106729,7 +106729,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035933914",
@@ -106764,14 +106764,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035933914",
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5035933914",
@@ -106799,7 +106799,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5035933914",
@@ -106813,7 +106813,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5035933914",
@@ -106841,7 +106841,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5035952466",
@@ -109529,7 +109529,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 4,
-    "cites": 43
+    "cites": 44
   },
   {
     "authorOpenAlexId": "A5037030769",
@@ -109592,7 +109592,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 6,
-    "cites": 45
+    "cites": 46
   },
   {
     "authorOpenAlexId": "A5037030769",
@@ -109613,7 +109613,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 4,
-    "cites": 43
+    "cites": 44
   },
   {
     "authorOpenAlexId": "A5037030769",
@@ -124880,21 +124880,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5041392217",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5041392217",
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5041413559",
@@ -125783,21 +125783,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5041726275",
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5041726275",
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5041781736",
@@ -137375,7 +137375,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5045824304",
@@ -137410,7 +137410,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5045824304",
@@ -137459,7 +137459,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5045824304",
@@ -144851,7 +144851,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5048171863",
@@ -144865,7 +144865,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5048171863",
@@ -144886,7 +144886,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5048171863",
@@ -145418,7 +145418,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 4,
-    "cites": 323
+    "cites": 324
   },
   {
     "authorOpenAlexId": "A5048429617",
@@ -145481,7 +145481,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5048429617",
@@ -145740,7 +145740,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 11,
-    "cites": 578
+    "cites": 579
   },
   {
     "authorOpenAlexId": "A5048429617",
@@ -148708,7 +148708,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5049736310",
@@ -148722,7 +148722,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 2,
-    "cites": 482
+    "cites": 483
   },
   {
     "authorOpenAlexId": "A5049736310",
@@ -148750,7 +148750,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5049736310",
@@ -156450,21 +156450,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5052933344",
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5052933344",
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5052933344",
@@ -161385,7 +161385,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "earthquake and tectonic studies",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5054436395",
@@ -161399,7 +161399,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2015,
     "pubs": 2,
-    "cites": 482
+    "cites": 483
   },
   {
     "authorOpenAlexId": "A5054436395",
@@ -161420,7 +161420,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "High-pressure geophysics and materials",
     "year": 2015,
     "pubs": 1,
-    "cites": 480
+    "cites": 481
   },
   {
     "authorOpenAlexId": "A5054436395",
@@ -175273,7 +175273,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 3,
-    "cites": 41
+    "cites": 42
   },
   {
     "authorOpenAlexId": "A5059202675",
@@ -175301,7 +175301,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 4,
-    "cites": 60
+    "cites": 61
   },
   {
     "authorOpenAlexId": "A5059202675",
@@ -175329,7 +175329,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 4,
-    "cites": 60
+    "cites": 61
   },
   {
     "authorOpenAlexId": "A5059235394",
@@ -176897,14 +176897,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5059605398",
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5059605398",
@@ -176918,7 +176918,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5059605398",
@@ -183729,7 +183729,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5061703841",
@@ -183792,7 +183792,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5061703841",
@@ -183946,7 +183946,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 4,
-    "cites": 192
+    "cites": 193
   },
   {
     "authorOpenAlexId": "A5061703841",
@@ -202524,7 +202524,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 2,
-    "cites": 15
+    "cites": 16
   },
   {
     "authorOpenAlexId": "A5070411489",
@@ -202853,7 +202853,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 5,
-    "cites": 38
+    "cites": 39
   },
   {
     "authorOpenAlexId": "A5070411489",
@@ -203259,7 +203259,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5070411489",
@@ -207697,21 +207697,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2021,
     "pubs": 1,
-    "cites": 28
+    "cites": 29
   },
   {
     "authorOpenAlexId": "A5072475576",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2021,
     "pubs": 1,
-    "cites": 28
+    "cites": 29
   },
   {
     "authorOpenAlexId": "A5072475576",
     "topic": "Petroleum Processing and Analysis",
     "year": 2021,
     "pubs": 1,
-    "cites": 28
+    "cites": 29
   },
   {
     "authorOpenAlexId": "A5072483532",
@@ -221935,21 +221935,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5078185170",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5078185170",
     "topic": "Petroleum Processing and Analysis",
     "year": 2022,
     "pubs": 1,
-    "cites": 14
+    "cites": 15
   },
   {
     "authorOpenAlexId": "A5078231161",
@@ -229187,7 +229187,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2014,
     "pubs": 3,
-    "cites": 323
+    "cites": 324
   },
   {
     "authorOpenAlexId": "A5081191342",
@@ -229201,7 +229201,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2014,
     "pubs": 1,
-    "cites": 54
+    "cites": 55
   },
   {
     "authorOpenAlexId": "A5081191342",
@@ -229257,7 +229257,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2014,
     "pubs": 4,
-    "cites": 360
+    "cites": 361
   },
   {
     "authorOpenAlexId": "A5081191342",
@@ -235319,7 +235319,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2020,
     "pubs": 2,
-    "cites": 41
+    "cites": 42
   },
   {
     "authorOpenAlexId": "A5083028288",
@@ -235375,7 +235375,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2020,
     "pubs": 1,
-    "cites": 37
+    "cites": 38
   },
   {
     "authorOpenAlexId": "A5083028288",
@@ -235438,7 +235438,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2020,
     "pubs": 2,
-    "cites": 41
+    "cites": 42
   },
   {
     "authorOpenAlexId": "A5083028288",
@@ -236068,21 +236068,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5083600826",
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5083600826",
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5083600826",
@@ -243453,7 +243453,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5085811814",
@@ -243495,7 +243495,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5085811814",
@@ -243523,7 +243523,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 6,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5085811814",
@@ -258678,7 +258678,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 2,
-    "cites": 10
+    "cites": 11
   },
   {
     "authorOpenAlexId": "A5093832213",
@@ -258692,14 +258692,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 2,
-    "cites": 11
+    "cites": 12
   },
   {
     "authorOpenAlexId": "A5093832213",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 8,
-    "cites": 26
+    "cites": 27
   },
   {
     "authorOpenAlexId": "A5093832213",
@@ -277305,7 +277305,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2024,
     "pubs": 2,
-    "cites": 10
+    "cites": 11
   },
   {
     "authorOpenAlexId": "A5108751417",
@@ -277326,7 +277326,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2024,
     "pubs": 1,
-    "cites": 3
+    "cites": 4
   },
   {
     "authorOpenAlexId": "A5108751417",
@@ -277340,7 +277340,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 4,
-    "cites": 27
+    "cites": 28
   },
   {
     "authorOpenAlexId": "A5108751417",
@@ -285271,14 +285271,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2012,
     "pubs": 1,
-    "cites": 32
+    "cites": 33
   },
   {
     "authorOpenAlexId": "A5111738454",
     "topic": "Geological formations and processes",
     "year": 2012,
     "pubs": 3,
-    "cites": 185
+    "cites": 186
   },
   {
     "authorOpenAlexId": "A5111738454",
@@ -285299,7 +285299,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2012,
     "pubs": 3,
-    "cites": 185
+    "cites": 186
   },
   {
     "authorOpenAlexId": "A5111738454",

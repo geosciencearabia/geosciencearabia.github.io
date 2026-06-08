@@ -7947,8 +7947,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-11-01",
     "year": 2015,
     "venue": "Nature",
-    "citations": 480,
-    "fwci": 24.6905,
+    "citations": 481,
+    "fwci": 24.6912,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -8018,8 +8018,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-04-26",
     "year": 2011,
     "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 423,
-    "fwci": 12.1149,
+    "citations": 424,
+    "fwci": 12.1158,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -24155,33 +24155,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3192036954",
-    "doi": "https://doi.org/10.1016/j.earscirev.2021.103747",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "Balanoglossites-burrowed firmgrounds – The most common ichnofabric on earth?",
-    "publicationDate": "2021-07-30",
-    "year": 2021,
-    "venue": "Earth-Science Reviews",
-    "citations": 33,
-    "fwci": 4.64,
-    "topics": [
-      "Geological formations and processes",
-      "Paleontology and Evolutionary Biology",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Equinor (Norway)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2745434027",
     "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00006-x",
     "program": "",
@@ -24207,8 +24180,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2012-01-01",
     "year": 2012,
     "venue": "Developments in sedimentology",
-    "citations": 32,
-    "fwci": 0.8507,
+    "citations": 33,
+    "fwci": 0.894,
     "topics": [
       "Geological formations and processes",
       "Geology and Paleoclimatology Research",
@@ -24218,6 +24191,33 @@ export const worksTable: WorkTableRecord[] = [
       "Simon Fraser University",
       "Equinor (Norway)",
       "University of Alberta"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3192036954",
+    "doi": "https://doi.org/10.1016/j.earscirev.2021.103747",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Balanoglossites-burrowed firmgrounds – The most common ichnofabric on earth?",
+    "publicationDate": "2021-07-30",
+    "year": 2021,
+    "venue": "Earth-Science Reviews",
+    "citations": 33,
+    "fwci": 4.64,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
     ]
   },
   {
@@ -40565,49 +40565,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4403118199",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107146",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5093832213",
-      "A5009594846",
-      "A5023467994",
-      "A5045824304",
-      "A5085811814",
-      "A5108751417"
-    ],
-    "firstAuthorLastName": "Lathbl",
-    "allAuthors": [
-      "Mahdi Ali Lathbl",
-      "Mohammed Hail Hakimi",
-      "AKM Eahsanul Haque",
-      "Aref Lashin",
-      "Madyan M.A. Yahya",
-      "S. M. Talha Qadri",
-      "Danis K. Nurgaliev"
-    ],
-    "title": "Organic geochemistry and 1D-basin modeling in the Taranaki Basin, New Zealand: Implications for deltaic-source rocks of the cenozoic oil and condensate reservoirs",
-    "publicationDate": "2024-10-05",
-    "year": 2024,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 3,
-    "fwci": 0.7909,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological Studies and Exploration",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Universiti Teknologi Petronas",
-      "Kazan Federal University",
-      "King Saud University",
-      "King Abdulaziz University",
-      "Government of Northwest Territories"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2130733762",
     "doi": "https://doi.org/10.1016/j.orggeochem.2012.10.003",
     "program": "",
@@ -41121,8 +41078,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-09-05",
     "year": 2014,
     "venue": "Journal of African Earth Sciences",
-    "citations": 54,
-    "fwci": 4.0472,
+    "citations": 55,
+    "fwci": 4.0486,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -41498,6 +41455,48 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3042668222",
+    "doi": "https://doi.org/10.1016/j.petrol.2020.107641",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5035933914",
+      "A5083028288",
+      "A5035885293",
+      "A5048171863",
+      "A5023467994"
+    ],
+    "firstAuthorLastName": "Al-Khafaji",
+    "allAuthors": [
+      "Amer Jassim Al-Khafaji",
+      "Mohammed Hail Hakimi",
+      "Ibrahim M. J. Mohialdeen",
+      "Rami M. Idan",
+      "Wafaa E. Afify",
+      "Aref Lashin"
+    ],
+    "title": "Geochemical characteristics of crude oils and basin modelling of the probable source rocks in the Southern Mesopotamian Basin, South Iraq",
+    "publicationDate": "2020-07-19",
+    "year": 2020,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 38,
+    "fwci": 3.7902,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University of Babylon",
+      "Taiz University",
+      "University of Sulaimani",
+      "Ministry of Higher Education and Scientific Research",
+      "Benha University",
+      "King Saud University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2013907988",
     "doi": "https://doi.org/10.1007/s12517-014-1713-3",
     "program": "",
@@ -41571,48 +41570,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Malaya",
       "Taiz University",
       "Ekiti State University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3042668222",
-    "doi": "https://doi.org/10.1016/j.petrol.2020.107641",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5035933914",
-      "A5083028288",
-      "A5035885293",
-      "A5048171863",
-      "A5023467994"
-    ],
-    "firstAuthorLastName": "Al-Khafaji",
-    "allAuthors": [
-      "Amer Jassim Al-Khafaji",
-      "Mohammed Hail Hakimi",
-      "Ibrahim M. J. Mohialdeen",
-      "Rami M. Idan",
-      "Wafaa E. Afify",
-      "Aref Lashin"
-    ],
-    "title": "Geochemical characteristics of crude oils and basin modelling of the probable source rocks in the Southern Mesopotamian Basin, South Iraq",
-    "publicationDate": "2020-07-19",
-    "year": 2020,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 37,
-    "fwci": 3.7726,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "University of Babylon",
-      "Taiz University",
-      "University of Sulaimani",
-      "Ministry of Higher Education and Scientific Research",
-      "Benha University",
-      "King Saud University"
     ]
   },
   {
@@ -42034,8 +41991,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-01-23",
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
-    "citations": 28,
-    "fwci": 3.116,
+    "citations": 29,
+    "fwci": 3.1181,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -43247,6 +43204,49 @@ export const worksTable: WorkTableRecord[] = [
       "King Saud University",
       "Patna University",
       "Rosneft (Russia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4403118199",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107146",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5093832213",
+      "A5009594846",
+      "A5023467994",
+      "A5045824304",
+      "A5085811814",
+      "A5108751417"
+    ],
+    "firstAuthorLastName": "Lathbl",
+    "allAuthors": [
+      "Mahdi Ali Lathbl",
+      "Mohammed Hail Hakimi",
+      "AKM Eahsanul Haque",
+      "Aref Lashin",
+      "Madyan M.A. Yahya",
+      "S. M. Talha Qadri",
+      "Danis K. Nurgaliev"
+    ],
+    "title": "Organic geochemistry and 1D-basin modeling in the Taranaki Basin, New Zealand: Implications for deltaic-source rocks of the cenozoic oil and condensate reservoirs",
+    "publicationDate": "2024-10-05",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 4,
+    "fwci": 0.9469,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Kazan Federal University",
+      "King Saud University",
+      "King Abdulaziz University",
+      "Government of Northwest Territories"
     ]
   },
   {
@@ -50758,7 +50758,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.1859,
+    "fwci": 1.1841,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -55725,7 +55725,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Journal of African Earth Sciences",
     "citations": 6,
-    "fwci": 1.6171,
+    "fwci": 1.6217,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -69947,7 +69947,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5531,
+    "fwci": 18.5539,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -78561,7 +78561,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "NERC Open Research Archive (Natural Environment Research Council)",
     "citations": 9,
-    "fwci": 1.2909,
+    "fwci": 1.2912,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -87352,7 +87352,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4109,
+    "fwci": 135.4205,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -115968,7 +115968,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Sedimentology",
     "citations": 87,
-    "fwci": 20.6686,
+    "fwci": 20.6768,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -119439,6 +119439,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4292689594",
+    "doi": "https://doi.org/10.1016/j.petrol.2022.110919",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5035933914",
+      "A5004345355",
+      "A5031786161",
+      "A5078185170",
+      "A5041392217"
+    ],
+    "firstAuthorLastName": "Al-Khafaji",
+    "allAuthors": [
+      "Amer Jassim Al-Khafaji",
+      "Fahad M. Al-Najm",
+      "Rana A.K. Al-Refaia",
+      "Fadhil Sadooni",
+      "Mohanad R. A. Al-Owaidi",
+      "Hamid Alsultan"
+    ],
+    "title": "Source rock evaluation and petroleum generation of the Lower Cretaceous Yamama Formation: Its ability to contribute to generating and expelling petroleum to cretaceous reservoirs of the Mesopotamian Basin, Iraq",
+    "publicationDate": "2022-08-10",
+    "year": 2022,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 15,
+    "fwci": 1.7072,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Petroleum Processing and Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University of Babylon",
+      "University of Basrah",
+      "Qatar University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4385602287",
     "doi": "https://doi.org/10.1038/s41598-023-39762-7",
     "program": "",
@@ -119480,45 +119519,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Qatar University",
       "University of Toronto"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4292689594",
-    "doi": "https://doi.org/10.1016/j.petrol.2022.110919",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5035933914",
-      "A5004345355",
-      "A5031786161",
-      "A5078185170",
-      "A5041392217"
-    ],
-    "firstAuthorLastName": "Al-Khafaji",
-    "allAuthors": [
-      "Amer Jassim Al-Khafaji",
-      "Fahad M. Al-Najm",
-      "Rana A.K. Al-Refaia",
-      "Fadhil Sadooni",
-      "Mohanad R. A. Al-Owaidi",
-      "Hamid Alsultan"
-    ],
-    "title": "Source rock evaluation and petroleum generation of the Lower Cretaceous Yamama Formation: Its ability to contribute to generating and expelling petroleum to cretaceous reservoirs of the Mesopotamian Basin, Iraq",
-    "publicationDate": "2022-08-10",
-    "year": 2022,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 14,
-    "fwci": 1.7066,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Petroleum Processing and Analysis",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "University of Babylon",
-      "University of Basrah",
-      "Qatar University"
     ]
   },
   {
