@@ -18,7 +18,7 @@
     ],
     "full_name": "Scott Andrew Whattam",
     "works_count": 249,
-    "cited_by_count": 3466,
+    "cited_by_count": 3468,
     "summary_stats": {
       "2yr_mean_citedness": 2.880952380952381,
       "h_index": 27,
@@ -439,7 +439,7 @@
       {
         "id": "https://openalex.org/T10413",
         "display_name": "High-pressure geophysics and materials",
-        "value": 0.0001171,
+        "value": 0.000117,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -539,7 +539,7 @@
         "year": 2011,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 475
+        "cited_by_count": 476
       },
       {
         "year": 2012,
@@ -563,7 +563,7 @@
         "year": 2015,
         "works_count": 110,
         "oa_works_count": 105,
-        "cited_by_count": 615
+        "cited_by_count": 616
       },
       {
         "year": 2016,
@@ -647,7 +647,7 @@
     ],
     "block_key": "s whattam",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5011750653",
-    "updated_date": "2026-06-05T12:25:12",
+    "updated_date": "2026-06-08T12:24:26",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -221594,8 +221594,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
