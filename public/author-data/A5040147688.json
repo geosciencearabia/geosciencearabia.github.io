@@ -2491,11 +2491,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1197,
+      "fwci": 5.1185,
       "has_fulltext": false,
-      "cited_by_count": 122,
+      "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.95271612,
+        "value": 0.95270459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3164,7 +3164,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -3223,7 +3223,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-05-27T09:02:27.158192",
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30079,11 +30079,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2402,
+      "fwci": 6.2365,
       "has_fulltext": false,
-      "cited_by_count": 34,
+      "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.95753465,
+        "value": 0.95750959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30847,7 +30847,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -30894,7 +30894,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -47387,6 +47387,662 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4414244365",
+      "doi": "https://doi.org/10.1016/j.revpalbo.2025.105448",
+      "title": "Effect of steep climate gradient on palynological assemblages on the Arabian part of the Tethys shore in two Carboniferous-Permian ice age time slices",
+      "display_name": "Effect of steep climate gradient on palynological assemblages on the Arabian part of the Tethys shore in two Carboniferous-Permian ice age time slices",
+      "publication_year": 2025,
+      "publication_date": "2025-09-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4414244365",
+        "doi": "https://doi.org/10.1016/j.revpalbo.2025.105448"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.revpalbo.2025.105448",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2025.105448",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S43762691",
+          "display_name": "Review of Palaeobotany and Palynology",
+          "issn_l": "0034-6667",
+          "issn": [
+            "0034-6667",
+            "1879-0615"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Review of Palaeobotany and Palynology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "Geoscience Consulting Ltd, Keyworth, Nottingham NG12 5HU, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geoscience Consulting Ltd, Keyworth, Nottingham NG12 5HU, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075284964",
+            "display_name": "Shu‐zhong Shen",
+            "orcid": "https://orcid.org/0000-0001-8380-0692"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I881766915",
+              "display_name": "Nanjing University",
+              "ror": "https://ror.org/01rxvg760",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shuzhong Shen",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
+              "institution_ids": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016367316",
+            "display_name": "Junxuan Fan",
+            "orcid": "https://orcid.org/0000-0001-9913-0865"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I881766915",
+              "display_name": "Nanjing University",
+              "ror": "https://ror.org/01rxvg760",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Junxuan Fan",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
+              "institution_ids": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038218327",
+            "display_name": "Linshu Hu",
+            "orcid": "https://orcid.org/0000-0003-0015-0570"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I76130692",
+              "display_name": "Zhejiang University",
+              "ror": "https://ror.org/00a2xv884",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Linshu Hu",
+          "raw_affiliation_strings": [
+            "Earth Sciences, Zhejiang University, Hangzhou 310058, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences, Zhejiang University, Hangzhou 310058, China",
+              "institution_ids": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5109297840",
+            "display_name": "Qi Jin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I76130692",
+              "display_name": "Zhejiang University",
+              "ror": "https://ror.org/00a2xv884",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jin Qi",
+          "raw_affiliation_strings": [
+            "Earth Sciences, Zhejiang University, Hangzhou 310058, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences, Zhejiang University, Hangzhou 310058, China",
+              "institution_ids": [
+                "https://openalex.org/I76130692"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333"
+      ],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 9.4999,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.97422744,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "344",
+        "issue": null,
+        "first_page": "105448",
+        "last_page": "105448"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9987000226974487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9987000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9973000288009644,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "Palynology",
+          "score": 0.8812999725341797
+        },
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.7961999773979187
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoclimatology",
+          "display_name": "Paleoclimatology",
+          "score": 0.7299000024795532
+        },
+        {
+          "id": "https://openalex.org/keywords/carboniferous",
+          "display_name": "Carboniferous",
+          "score": 0.6812999844551086
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.5468999743461609
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.511900007724762
+        },
+        {
+          "id": "https://openalex.org/keywords/period",
+          "display_name": "Period (music)",
+          "score": 0.42260000109672546
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-transgression",
+          "display_name": "Marine transgression",
+          "score": 0.4027999937534332
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.8812999725341797
+        },
+        {
+          "id": "https://openalex.org/C2781148125",
+          "wikidata": "https://www.wikidata.org/wiki/Q80583",
+          "display_name": "Gondwana",
+          "level": 3,
+          "score": 0.7961999773979187
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7419999837875366
+        },
+        {
+          "id": "https://openalex.org/C33683781",
+          "wikidata": "https://www.wikidata.org/wiki/Q191069",
+          "display_name": "Paleoclimatology",
+          "level": 3,
+          "score": 0.7299000024795532
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.6812999844551086
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6452000141143799
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.5468999743461609
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.511900007724762
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.42260000109672546
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.4027999937534332
+        },
+        {
+          "id": "https://openalex.org/C117935615",
+          "wikidata": "https://www.wikidata.org/wiki/Q2511922",
+          "display_name": "Holocene climatic optimum",
+          "level": 3,
+          "score": 0.3788999915122986
+        },
+        {
+          "id": "https://openalex.org/C2777598122",
+          "wikidata": "https://www.wikidata.org/wiki/Q208136",
+          "display_name": "Tethys Ocean",
+          "level": 4,
+          "score": 0.3603000044822693
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.3598000109195709
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.3521000146865845
+        },
+        {
+          "id": "https://openalex.org/C152382732",
+          "wikidata": "https://www.wikidata.org/wiki/Q468756",
+          "display_name": "Shore",
+          "level": 2,
+          "score": 0.350600004196167
+        },
+        {
+          "id": "https://openalex.org/C174618031",
+          "wikidata": "https://www.wikidata.org/wiki/Q177332",
+          "display_name": "Spore",
+          "level": 2,
+          "score": 0.3476000130176544
+        },
+        {
+          "id": "https://openalex.org/C2777798969",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Assemblage (archaeology)",
+          "level": 2,
+          "score": 0.3255000114440918
+        },
+        {
+          "id": "https://openalex.org/C179158327",
+          "wikidata": "https://www.wikidata.org/wiki/Q52151",
+          "display_name": "Palaeogeography",
+          "level": 4,
+          "score": 0.3124000132083893
+        },
+        {
+          "id": "https://openalex.org/C2776133958",
+          "wikidata": "https://www.wikidata.org/wiki/Q7918366",
+          "display_name": "Vegetation (pathology)",
+          "level": 2,
+          "score": 0.30660000443458557
+        },
+        {
+          "id": "https://openalex.org/C177882397",
+          "wikidata": "https://www.wikidata.org/wiki/Q1337995",
+          "display_name": "Paleoecology",
+          "level": 2,
+          "score": 0.290800005197525
+        },
+        {
+          "id": "https://openalex.org/C2779614968",
+          "wikidata": "https://www.wikidata.org/wiki/Q4398",
+          "display_name": "Pangaea",
+          "level": 4,
+          "score": 0.28610000014305115
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.2623000144958496
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.25589999556541443
+        },
+        {
+          "id": "https://openalex.org/C53657456",
+          "wikidata": "https://www.wikidata.org/wiki/Q184624",
+          "display_name": "Peat",
+          "level": 2,
+          "score": 0.2531999945640564
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.revpalbo.2025.105448",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2025.105448",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S43762691",
+            "display_name": "Review of Palaeobotany and Palynology",
+            "issn_l": "0034-6667",
+            "issn": [
+              "0034-6667",
+              "1879-0615"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "public-domain",
+          "license_id": "https://openalex.org/licenses/public-domain",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Review of Palaeobotany and Palynology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W41254938",
+        "https://openalex.org/W1267454124",
+        "https://openalex.org/W1485158149",
+        "https://openalex.org/W1624541747",
+        "https://openalex.org/W1635748889",
+        "https://openalex.org/W1885921202",
+        "https://openalex.org/W1966527093",
+        "https://openalex.org/W1966832981",
+        "https://openalex.org/W2003181165",
+        "https://openalex.org/W2012626709",
+        "https://openalex.org/W2018598691",
+        "https://openalex.org/W2050580822",
+        "https://openalex.org/W2081705827",
+        "https://openalex.org/W2090016958",
+        "https://openalex.org/W2134748672",
+        "https://openalex.org/W2134774247",
+        "https://openalex.org/W2138317704",
+        "https://openalex.org/W2139807061",
+        "https://openalex.org/W2240875318",
+        "https://openalex.org/W2263450568",
+        "https://openalex.org/W2498109641",
+        "https://openalex.org/W2910454880",
+        "https://openalex.org/W2955893822",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W3106505032",
+        "https://openalex.org/W4242461057",
+        "https://openalex.org/W4283654650",
+        "https://openalex.org/W4396578038"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-10T14:10:52.464848",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4388701331",
       "doi": "https://doi.org/10.1134/s0869593823060047",
       "title": "Time Constrains and the Tectono-Sedimentary Setting of the Permian Sequence in Israel: Insights from Pleshet-1 and David-1 Boreholes, Western Israel",
@@ -50359,11 +51015,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.5637,
+      "fwci": 6.5621,
       "has_fulltext": true,
-      "cited_by_count": 45,
+      "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.96190875,
+        "value": 0.96189918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51481,6 +52137,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 4
         },
@@ -51529,7 +52189,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71368,6 +72028,424 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1969316000",
+      "doi": "https://doi.org/10.1016/s0899-5362(98)00030-x",
+      "title": "Preliminary correlation of palynological assemblages from Oman with the Granulatisporites confluens Oppel Zone of the grant formation (lower Permian), Canning Basin, Western Australia",
+      "display_name": "Preliminary correlation of palynological assemblages from Oman with the Granulatisporites confluens Oppel Zone of the grant formation (lower Permian), Canning Basin, Western Australia",
+      "publication_year": 1998,
+      "publication_date": "1998-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1969316000",
+        "doi": "https://doi.org/10.1016/s0899-5362(98)00030-x",
+        "mag": "1969316000"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s0899-5362(98)00030-x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0899-5362(98)00030-x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125636905",
+          "display_name": "Journal of African Earth Sciences",
+          "issn_l": "1464-343X",
+          "issn": [
+            "1464-343X",
+            "1879-1956"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of African Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91136226",
+              "display_name": "University of Sheffield",
+              "ror": "https://ror.org/05krs5044",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "Centre for Palynology, Department of Earth Sciences, University of Sheffield, Brook Hill, Sheffield, S3 7HF, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Palynology, Department of Earth Sciences, University of Sheffield, Brook Hill, Sheffield, S3 7HF, UK",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I91136226"
+      ],
+      "apc_list": {
+        "value": 2650,
+        "currency": "USD",
+        "value_usd": 2650
+      },
+      "apc_paid": null,
+      "fwci": 1.123,
+      "has_fulltext": false,
+      "cited_by_count": 16,
+      "citation_normalized_percentile": {
+        "value": 0.80063291,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": "4",
+        "first_page": "521",
+        "last_page": "526"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "Palynology",
+          "score": 0.9028511047363281
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8392901420593262
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.7666529417037964
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6270700693130493
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.6116230487823486
+        },
+        {
+          "id": "https://openalex.org/keywords/pollen",
+          "display_name": "Pollen",
+          "score": 0.19451209902763367
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.08359509706497192
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.9028511047363281
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8392901420593262
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.7666529417037964
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6270700693130493
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.6116230487823486
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.19451209902763367
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.08359509706497192
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0899-5362(98)00030-x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0899-5362(98)00030-x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S125636905",
+            "display_name": "Journal of African Earth Sciences",
+            "issn_l": "1464-343X",
+            "issn": [
+              "1464-343X",
+              "1879-1956"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of African Earth Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 19,
+      "referenced_works": [
+        "https://openalex.org/W41502212",
+        "https://openalex.org/W182120159",
+        "https://openalex.org/W607349779",
+        "https://openalex.org/W650689462",
+        "https://openalex.org/W1977368632",
+        "https://openalex.org/W1985842290",
+        "https://openalex.org/W1994436705",
+        "https://openalex.org/W2018598691",
+        "https://openalex.org/W2024662740",
+        "https://openalex.org/W2053154125",
+        "https://openalex.org/W2090016958",
+        "https://openalex.org/W2140551189",
+        "https://openalex.org/W2168817819",
+        "https://openalex.org/W2467840726",
+        "https://openalex.org/W2972436452",
+        "https://openalex.org/W4256526570",
+        "https://openalex.org/W4295746687",
+        "https://openalex.org/W6842185802",
+        "https://openalex.org/W7064776472"
+      ],
+      "related_works": [
+        "https://openalex.org/W2374843461",
+        "https://openalex.org/W2736251669",
+        "https://openalex.org/W129624991",
+        "https://openalex.org/W2157017705",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W2391384364",
+        "https://openalex.org/W2020737423",
+        "https://openalex.org/W1976379090",
+        "https://openalex.org/W2378992098",
+        "https://openalex.org/W2010280787"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-10T14:10:52.464848",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2923770826",
       "doi": "https://doi.org/10.13130/2039-4942/11270",
       "title": "LOWER TRIASSIC (INDUAN TO OLENEKIAN) CONODONTS, FORAMINIFERA AND BIVALVES FROM THE AL MAMALIH AREA, DEAD SEA, JORDAN: CONSTRAINTS ON THE P-T BOUNDARY",
@@ -76623,6 +77701,544 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2072257562",
+      "doi": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
+      "title": "Bisaccate pollen from the Early Permian OSPZ3a Sub-Biozone of the Lower Gharif Member, Oman",
+      "display_name": "Bisaccate pollen from the Early Permian OSPZ3a Sub-Biozone of the Lower Gharif Member, Oman",
+      "publication_year": 2014,
+      "publication_date": "2014-10-05",
+      "ids": {
+        "openalex": "https://openalex.org/W2072257562",
+        "doi": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
+        "mag": "2072257562"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.revpalbo.2014.09.004",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S43762691",
+          "display_name": "Review of Palaeobotany and Palynology",
+          "issn_l": "0034-6667",
+          "issn": [
+            "0034-6667",
+            "1879-0615"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Review of Palaeobotany and Palynology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333"
+      ],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 1.0915,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.84397314,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "212",
+        "issue": null,
+        "first_page": "214",
+        "last_page": "225"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10385",
+          "display_name": "Plant Diversity and Evolution",
+          "score": 0.9965000152587891,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1105",
+            "display_name": "Ecology, Evolution, Behavior and Systematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9955000281333923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/biozone",
+          "display_name": "Biozone",
+          "score": 0.966863751411438
+        },
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "Palynology",
+          "score": 0.8040900230407715
+        },
+        {
+          "id": "https://openalex.org/keywords/taxon",
+          "display_name": "Taxon",
+          "score": 0.7406553030014038
+        },
+        {
+          "id": "https://openalex.org/keywords/pollen",
+          "display_name": "Pollen",
+          "score": 0.7267076969146729
+        },
+        {
+          "id": "https://openalex.org/keywords/genus",
+          "display_name": "Genus",
+          "score": 0.6912156939506531
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6492409706115723
+        },
+        {
+          "id": "https://openalex.org/keywords/synonym",
+          "display_name": "Synonym (taxonomy)",
+          "score": 0.6119007468223572
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.5882112979888916
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5410965085029602
+        },
+        {
+          "id": "https://openalex.org/keywords/type",
+          "display_name": "Type (biology)",
+          "score": 0.46505317091941833
+        },
+        {
+          "id": "https://openalex.org/keywords/botany",
+          "display_name": "Botany",
+          "score": 0.2684659957885742
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.2507094144821167
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.18088576197624207
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C164375970",
+          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
+          "display_name": "Biozone",
+          "level": 3,
+          "score": 0.966863751411438
+        },
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.8040900230407715
+        },
+        {
+          "id": "https://openalex.org/C71640776",
+          "wikidata": "https://www.wikidata.org/wiki/Q16521",
+          "display_name": "Taxon",
+          "level": 2,
+          "score": 0.7406553030014038
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.7267076969146729
+        },
+        {
+          "id": "https://openalex.org/C157369684",
+          "wikidata": "https://www.wikidata.org/wiki/Q34740",
+          "display_name": "Genus",
+          "level": 2,
+          "score": 0.6912156939506531
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6492409706115723
+        },
+        {
+          "id": "https://openalex.org/C173483453",
+          "wikidata": "https://www.wikidata.org/wiki/Q1040689",
+          "display_name": "Synonym (taxonomy)",
+          "level": 3,
+          "score": 0.6119007468223572
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.5882112979888916
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5410965085029602
+        },
+        {
+          "id": "https://openalex.org/C2777299769",
+          "wikidata": "https://www.wikidata.org/wiki/Q3707858",
+          "display_name": "Type (biology)",
+          "level": 2,
+          "score": 0.46505317091941833
+        },
+        {
+          "id": "https://openalex.org/C59822182",
+          "wikidata": "https://www.wikidata.org/wiki/Q441",
+          "display_name": "Botany",
+          "level": 1,
+          "score": 0.2684659957885742
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.2507094144821167
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.18088576197624207
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.revpalbo.2014.09.004",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S43762691",
+            "display_name": "Review of Palaeobotany and Palynology",
+            "issn_l": "0034-6667",
+            "issn": [
+              "0034-6667",
+              "1879-0615"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Review of Palaeobotany and Palynology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:510967",
+          "is_oa": false,
+          "landing_page_url": null,
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W47486112",
+        "https://openalex.org/W421667689",
+        "https://openalex.org/W563420437",
+        "https://openalex.org/W607349779",
+        "https://openalex.org/W620298034",
+        "https://openalex.org/W650689462",
+        "https://openalex.org/W1517347070",
+        "https://openalex.org/W1571958385",
+        "https://openalex.org/W1597901632",
+        "https://openalex.org/W2043549357",
+        "https://openalex.org/W2051611285",
+        "https://openalex.org/W2053154125",
+        "https://openalex.org/W2059692475",
+        "https://openalex.org/W2068998358",
+        "https://openalex.org/W2084137546",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2085611409",
+        "https://openalex.org/W2090016958",
+        "https://openalex.org/W2134774247",
+        "https://openalex.org/W2153771490",
+        "https://openalex.org/W2604744725",
+        "https://openalex.org/W2606848124",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W3136111501",
+        "https://openalex.org/W3200669176",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4296113613",
+        "https://openalex.org/W4296115006",
+        "https://openalex.org/W6614599547",
+        "https://openalex.org/W6619517216",
+        "https://openalex.org/W6635511303",
+        "https://openalex.org/W6665443497",
+        "https://openalex.org/W6735985960",
+        "https://openalex.org/W6801613346",
+        "https://openalex.org/W6842977838",
+        "https://openalex.org/W6843196763"
+      ],
+      "related_works": [
+        "https://openalex.org/W2374843461",
+        "https://openalex.org/W1576557173",
+        "https://openalex.org/W2736251669",
+        "https://openalex.org/W2590547327",
+        "https://openalex.org/W2811252347",
+        "https://openalex.org/W2152747995",
+        "https://openalex.org/W2157017705",
+        "https://openalex.org/W129624991",
+        "https://openalex.org/W1485158149",
+        "https://openalex.org/W2986225371"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-10T14:10:52.464848",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2009374421",
       "doi": "https://doi.org/10.1016/j.revpalbo.2005.07.013",
       "title": "The exine ultrastructure of Plicatipollenites Lele 1964",
@@ -80715,40 +82331,40 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4414244365",
-      "doi": "https://doi.org/10.1016/j.revpalbo.2025.105448",
-      "title": "Effect of steep climate gradient on palynological assemblages on the Arabian part of the Tethys shore in two Carboniferous-Permian ice age time slices",
-      "display_name": "Effect of steep climate gradient on palynological assemblages on the Arabian part of the Tethys shore in two Carboniferous-Permian ice age time slices",
+      "id": "https://openalex.org/W4410205451",
+      "doi": "https://doi.org/10.1144/petgeo2025-011",
+      "title": "A tentative upper Guadalupian–Lopingian (Middle–Upper Permian) palynozonation for the Arabian Peninsula and Levant",
+      "display_name": "A tentative upper Guadalupian–Lopingian (Middle–Upper Permian) palynozonation for the Arabian Peninsula and Levant",
       "publication_year": 2025,
-      "publication_date": "2025-09-16",
+      "publication_date": "2025-05-08",
       "ids": {
-        "openalex": "https://openalex.org/W4414244365",
-        "doi": "https://doi.org/10.1016/j.revpalbo.2025.105448"
+        "openalex": "https://openalex.org/W4410205451",
+        "doi": "https://doi.org/10.1144/petgeo2025-011"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.1016/j.revpalbo.2025.105448",
+        "id": "doi:10.1144/petgeo2025-011",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2025.105448",
+        "landing_page_url": "https://doi.org/10.1144/petgeo2025-011",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S43762691",
-          "display_name": "Review of Palaeobotany and Palynology",
-          "issn_l": "0034-6667",
+          "id": "https://openalex.org/S139447867",
+          "display_name": "Petroleum Geoscience",
+          "issn_l": "1354-0793",
           "issn": [
-            "0034-6667",
-            "1879-0615"
+            "1354-0793",
+            "2041-496X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "host_organization": "https://openalex.org/P4310311785",
+          "host_organization_name": "Zoological Society of London",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4310311785"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Zoological Society of London"
           ],
           "type": "journal"
         },
@@ -80757,7 +82373,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Review of Palaeobotany and Palynology",
+        "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
       "type": "article",
@@ -80778,207 +82394,41 @@
             "display_name": "Michael H. Stephenson",
             "orcid": "https://orcid.org/0000-0002-9881-1578"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Michael H. Stephenson",
+          "raw_author_name": "M. H. Stephenson",
           "raw_affiliation_strings": [
-            "Geoscience Consulting Ltd, Keyworth, Nottingham NG12 5HU, UK"
+            "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
+            "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK"
           ],
-          "raw_orcid": null,
+          "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
           "affiliations": [
             {
-              "raw_affiliation_string": "Geoscience Consulting Ltd, Keyworth, Nottingham NG12 5HU, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5075284964",
-            "display_name": "Shu‐zhong Shen",
-            "orcid": "https://orcid.org/0000-0001-8380-0692"
-          },
-          "institutions": [
+              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
+              "institution_ids": []
+            },
             {
-              "id": "https://openalex.org/I881766915",
-              "display_name": "Nanjing University",
-              "ror": "https://ror.org/01rxvg760",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shuzhong Shen",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5016367316",
-            "display_name": "Junxuan Fan",
-            "orcid": "https://orcid.org/0000-0001-9913-0865"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I881766915",
-              "display_name": "Nanjing University",
-              "ror": "https://ror.org/01rxvg760",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Junxuan Fan",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Critical Earth Material Recycling and Mineral Deposits, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038218327",
-            "display_name": "Linshu Hu",
-            "orcid": "https://orcid.org/0000-0003-0015-0570"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I76130692",
-              "display_name": "Zhejiang University",
-              "ror": "https://ror.org/00a2xv884",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I76130692"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Linshu Hu",
-          "raw_affiliation_strings": [
-            "Earth Sciences, Zhejiang University, Hangzhou 310058, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences, Zhejiang University, Hangzhou 310058, China",
-              "institution_ids": [
-                "https://openalex.org/I76130692"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5109297840",
-            "display_name": "Qi Jin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I76130692",
-              "display_name": "Zhejiang University",
-              "ror": "https://ror.org/00a2xv884",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I76130692"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jin Qi",
-          "raw_affiliation_strings": [
-            "Earth Sciences, Zhejiang University, Hangzhou 310058, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences, Zhejiang University, Hangzhou 310058, China",
-              "institution_ids": [
-                "https://openalex.org/I76130692"
-              ]
+              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK",
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333"
-      ],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
+      "corresponding_institution_ids": [],
+      "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7005,
+      "fwci": 3.5367,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95844806,
+        "value": 0.92423615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -80987,25 +82437,25 @@
         "max": 98
       },
       "biblio": {
-        "volume": "344",
-        "issue": null,
-        "first_page": "105448",
-        "last_page": "105448"
+        "volume": "31",
+        "issue": "3",
+        "first_page": null,
+        "last_page": null
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9987000226974487,
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9962000250816345,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -81014,9 +82464,26 @@
       },
       "topics": [
         {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9962000250816345,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9987000226974487,
+          "score": 0.9943000078201294,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -81031,29 +82498,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9973000288009644,
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9843999743461609,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -81067,242 +82517,190 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "Palynology",
-          "score": 0.8812999725341797
-        },
-        {
-          "id": "https://openalex.org/keywords/gondwana",
-          "display_name": "Gondwana",
-          "score": 0.7961999773979187
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoclimatology",
-          "display_name": "Paleoclimatology",
-          "score": 0.7299000024795532
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous",
-          "display_name": "Carboniferous",
-          "score": 0.6812999844551086
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.5468999743461609
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8738458156585693
         },
         {
           "id": "https://openalex.org/keywords/permian",
           "display_name": "Permian",
-          "score": 0.511900007724762
+          "score": 0.827218770980835
         },
         {
-          "id": "https://openalex.org/keywords/period",
-          "display_name": "Period (music)",
-          "score": 0.42260000109672546
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.8253353834152222
         },
         {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "Marine transgression",
-          "score": 0.4027999937534332
+          "id": "https://openalex.org/keywords/palaeogeography",
+          "display_name": "Palaeogeography",
+          "score": 0.7497480511665344
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6869841814041138
+        },
+        {
+          "id": "https://openalex.org/keywords/telmatology",
+          "display_name": "Telmatology",
+          "score": 0.6342964768409729
+        },
+        {
+          "id": "https://openalex.org/keywords/metamorphic-petrology",
+          "display_name": "Metamorphic petrology",
+          "score": 0.5782272219657898
+        },
+        {
+          "id": "https://openalex.org/keywords/middle-east",
+          "display_name": "Middle East",
+          "score": 0.4886665642261505
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.2139277160167694
+        },
+        {
+          "id": "https://openalex.org/keywords/volcanism",
+          "display_name": "Volcanism",
+          "score": 0.1761987805366516
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.16868063807487488
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.15649133920669556
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.12163969874382019
         }
       ],
       "concepts": [
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.8812999725341797
-        },
-        {
-          "id": "https://openalex.org/C2781148125",
-          "wikidata": "https://www.wikidata.org/wiki/Q80583",
-          "display_name": "Gondwana",
-          "level": 3,
-          "score": 0.7961999773979187
-        },
         {
           "id": "https://openalex.org/C127313418",
           "wikidata": "https://www.wikidata.org/wiki/Q1069",
           "display_name": "Geology",
           "level": 0,
-          "score": 0.7419999837875366
-        },
-        {
-          "id": "https://openalex.org/C33683781",
-          "wikidata": "https://www.wikidata.org/wiki/Q191069",
-          "display_name": "Paleoclimatology",
-          "level": 3,
-          "score": 0.7299000024795532
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.6812999844551086
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6452000141143799
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.5468999743461609
+          "score": 0.8738458156585693
         },
         {
           "id": "https://openalex.org/C83365034",
           "wikidata": "https://www.wikidata.org/wiki/Q76402",
           "display_name": "Permian",
           "level": 3,
-          "score": 0.511900007724762
+          "score": 0.827218770980835
         },
         {
-          "id": "https://openalex.org/C2781291010",
-          "wikidata": "https://www.wikidata.org/wiki/Q178580",
-          "display_name": "Period (music)",
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
           "level": 2,
-          "score": 0.42260000109672546
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.4027999937534332
-        },
-        {
-          "id": "https://openalex.org/C117935615",
-          "wikidata": "https://www.wikidata.org/wiki/Q2511922",
-          "display_name": "Holocene climatic optimum",
-          "level": 3,
-          "score": 0.3788999915122986
-        },
-        {
-          "id": "https://openalex.org/C2777598122",
-          "wikidata": "https://www.wikidata.org/wiki/Q208136",
-          "display_name": "Tethys Ocean",
-          "level": 4,
-          "score": 0.3603000044822693
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.3598000109195709
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.3521000146865845
-        },
-        {
-          "id": "https://openalex.org/C152382732",
-          "wikidata": "https://www.wikidata.org/wiki/Q468756",
-          "display_name": "Shore",
-          "level": 2,
-          "score": 0.350600004196167
-        },
-        {
-          "id": "https://openalex.org/C174618031",
-          "wikidata": "https://www.wikidata.org/wiki/Q177332",
-          "display_name": "Spore",
-          "level": 2,
-          "score": 0.3476000130176544
-        },
-        {
-          "id": "https://openalex.org/C2777798969",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Assemblage (archaeology)",
-          "level": 2,
-          "score": 0.3255000114440918
+          "score": 0.8253353834152222
         },
         {
           "id": "https://openalex.org/C179158327",
           "wikidata": "https://www.wikidata.org/wiki/Q52151",
           "display_name": "Palaeogeography",
           "level": 4,
-          "score": 0.3124000132083893
+          "score": 0.7497480511665344
         },
         {
-          "id": "https://openalex.org/C2776133958",
-          "wikidata": "https://www.wikidata.org/wiki/Q7918366",
-          "display_name": "Vegetation (pathology)",
-          "level": 2,
-          "score": 0.30660000443458557
-        },
-        {
-          "id": "https://openalex.org/C177882397",
-          "wikidata": "https://www.wikidata.org/wiki/Q1337995",
-          "display_name": "Paleoecology",
-          "level": 2,
-          "score": 0.290800005197525
-        },
-        {
-          "id": "https://openalex.org/C2779614968",
-          "wikidata": "https://www.wikidata.org/wiki/Q4398",
-          "display_name": "Pangaea",
-          "level": 4,
-          "score": 0.28610000014305115
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.2623000144958496
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
           "level": 1,
-          "score": 0.25589999556541443
+          "score": 0.6869841814041138
         },
         {
-          "id": "https://openalex.org/C53657456",
-          "wikidata": "https://www.wikidata.org/wiki/Q184624",
-          "display_name": "Peat",
+          "id": "https://openalex.org/C2776867696",
+          "wikidata": "https://www.wikidata.org/wiki/Q3743777",
+          "display_name": "Telmatology",
+          "level": 3,
+          "score": 0.6342964768409729
+        },
+        {
+          "id": "https://openalex.org/C2993313656",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Metamorphic petrology",
+          "level": 3,
+          "score": 0.5782272219657898
+        },
+        {
+          "id": "https://openalex.org/C3651065",
+          "wikidata": "https://www.wikidata.org/wiki/Q7204",
+          "display_name": "Middle East",
           "level": 2,
-          "score": 0.2531999945640564
+          "score": 0.4886665642261505
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.2139277160167694
+        },
+        {
+          "id": "https://openalex.org/C6363049",
+          "wikidata": "https://www.wikidata.org/wiki/Q505748",
+          "display_name": "Volcanism",
+          "level": 3,
+          "score": 0.1761987805366516
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.16868063807487488
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.15649133920669556
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.12163969874382019
         }
       ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
         {
-          "id": "doi:10.1016/j.revpalbo.2025.105448",
+          "id": "doi:10.1144/petgeo2025-011",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2025.105448",
+          "landing_page_url": "https://doi.org/10.1144/petgeo2025-011",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S43762691",
-            "display_name": "Review of Palaeobotany and Palynology",
-            "issn_l": "0034-6667",
+            "id": "https://openalex.org/S139447867",
+            "display_name": "Petroleum Geoscience",
+            "issn_l": "1354-0793",
             "issn": [
-              "0034-6667",
-              "1879-0615"
+              "1354-0793",
+              "2041-496X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
+            "host_organization": "https://openalex.org/P4310311785",
+            "host_organization_name": "Zoological Society of London",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
+              "https://openalex.org/P4310311785"
             ],
             "host_organization_lineage_names": [
-              "Elsevier BV"
+              "Zoological Society of London"
             ],
             "type": "journal"
           },
@@ -81311,7 +82709,7 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Review of Palaeobotany and Palynology",
+          "raw_source_name": "Petroleum Geoscience",
           "raw_type": "journal-article"
         }
       ],
@@ -81324,39 +82722,555 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 28,
+      "referenced_works_count": 44,
       "referenced_works": [
-        "https://openalex.org/W41254938",
-        "https://openalex.org/W1267454124",
-        "https://openalex.org/W1485158149",
-        "https://openalex.org/W1624541747",
-        "https://openalex.org/W1635748889",
-        "https://openalex.org/W1885921202",
-        "https://openalex.org/W1966527093",
-        "https://openalex.org/W1966832981",
-        "https://openalex.org/W2003181165",
-        "https://openalex.org/W2012626709",
-        "https://openalex.org/W2018598691",
-        "https://openalex.org/W2050580822",
+        "https://openalex.org/W294109815",
+        "https://openalex.org/W1571958385",
+        "https://openalex.org/W1903847998",
+        "https://openalex.org/W1970189954",
+        "https://openalex.org/W1977519822",
+        "https://openalex.org/W2009001521",
+        "https://openalex.org/W2012077142",
+        "https://openalex.org/W2035904748",
+        "https://openalex.org/W2038886011",
+        "https://openalex.org/W2048312108",
+        "https://openalex.org/W2081290253",
         "https://openalex.org/W2081705827",
-        "https://openalex.org/W2090016958",
-        "https://openalex.org/W2134748672",
-        "https://openalex.org/W2134774247",
+        "https://openalex.org/W2085611409",
+        "https://openalex.org/W2086944192",
+        "https://openalex.org/W2089977350",
+        "https://openalex.org/W2093823344",
+        "https://openalex.org/W2097185532",
+        "https://openalex.org/W2109413880",
         "https://openalex.org/W2138317704",
-        "https://openalex.org/W2139807061",
-        "https://openalex.org/W2240875318",
-        "https://openalex.org/W2263450568",
-        "https://openalex.org/W2498109641",
-        "https://openalex.org/W2910454880",
-        "https://openalex.org/W2955893822",
+        "https://openalex.org/W2162445023",
+        "https://openalex.org/W2169713986",
+        "https://openalex.org/W2196620403",
+        "https://openalex.org/W2287111010",
+        "https://openalex.org/W2325575317",
+        "https://openalex.org/W2482692071",
+        "https://openalex.org/W2560194642",
+        "https://openalex.org/W2560462446",
+        "https://openalex.org/W2564457604",
+        "https://openalex.org/W2890302888",
+        "https://openalex.org/W2928103387",
+        "https://openalex.org/W2939888277",
         "https://openalex.org/W2986225371",
-        "https://openalex.org/W3106505032",
-        "https://openalex.org/W4242461057",
-        "https://openalex.org/W4283654650",
-        "https://openalex.org/W4396578038"
+        "https://openalex.org/W2988416618",
+        "https://openalex.org/W2994275914",
+        "https://openalex.org/W2998351833",
+        "https://openalex.org/W3154314550",
+        "https://openalex.org/W3199859285",
+        "https://openalex.org/W3200669176",
+        "https://openalex.org/W3213322169",
+        "https://openalex.org/W4242782100",
+        "https://openalex.org/W4385728002",
+        "https://openalex.org/W4388701331",
+        "https://openalex.org/W4396578038",
+        "https://openalex.org/W4401362486"
       ],
-      "related_works": [],
-      "abstract_inverted_index": null,
+      "related_works": [
+        "https://openalex.org/W3126135047",
+        "https://openalex.org/W2198112858",
+        "https://openalex.org/W2003532457",
+        "https://openalex.org/W2205564488",
+        "https://openalex.org/W2736562424",
+        "https://openalex.org/W2221287579",
+        "https://openalex.org/W2210389703",
+        "https://openalex.org/W1988281480",
+        "https://openalex.org/W2992045932",
+        "https://openalex.org/W2131171998"
+      ],
+      "abstract_inverted_index": {
+        "2003": [
+          61
+        ],
+        "The": [
+          0,
+          44,
+          85
+        ],
+        "Middle": [
+          1
+        ],
+        "and": [
+          2,
+          27,
+          46,
+          56,
+          73,
+          135,
+          154,
+          169,
+          178,
+          191
+        ],
+        "Upper": [
+          3
+        ],
+        "Permian": [
+          4
+        ],
+        "is": [
+          5,
+          79,
+          112
+        ],
+        "an": [
+          6,
+          195
+        ],
+        "important": [
+          7
+        ],
+        "succession": [
+          8,
+          36,
+          77,
+          88
+        ],
+        "in": [
+          9,
+          60,
+          71,
+          157,
+          159,
+          187
+        ],
+        "the": [
+          10,
+          22,
+          54,
+          68,
+          76,
+          90,
+          104,
+          107,
+          115,
+          124,
+          129,
+          138,
+          147,
+          151
+        ],
+        "Arabian": [
+          11
+        ],
+        "Peninsula": [
+          12
+        ],
+        "due": [
+          13
+        ],
+        "to": [
+          14,
+          97,
+          164
+        ],
+        "its": [
+          15,
+          63
+        ],
+        "economic": [
+          16
+        ],
+        "value,": [
+          17
+        ],
+        "with": [
+          18,
+          81,
+          174
+        ],
+        "it": [
+          19
+        ],
+        "containing": [
+          20
+        ],
+        "oilfields,": [
+          21
+        ],
+        "supergiant": [
+          23
+        ],
+        "Khuff": [
+          24
+        ],
+        "gas": [
+          25
+        ],
+        "reservoir": [
+          26
+        ],
+        "new": [
+          28,
+          108
+        ],
+        "carbon": [
+          29
+        ],
+        "dioxide": [
+          30
+        ],
+        "storage": [
+          31
+        ],
+        "opportunities.": [
+          32
+        ],
+        "Until": [
+          33
+        ],
+        "now": [
+          34,
+          92
+        ],
+        "this": [
+          35
+        ],
+        "has": [
+          37
+        ],
+        "had": [
+          38
+        ],
+        "no": [
+          39
+        ],
+        "public": [
+          40
+        ],
+        "domain": [
+          41
+        ],
+        "palynostratigraphic": [
+          42,
+          95
+        ],
+        "scheme.": [
+          43
+        ],
+        "Oman": [
+          45
+        ],
+        "Saudi": [
+          47
+        ],
+        "Arabia": [
+          48,
+          75
+        ],
+        "Palynological": [
+          49
+        ],
+        "Zonation": [
+          50
+        ],
+        "(OSPZ)": [
+          51
+        ],
+        "scheme": [
+          52
+        ],
+        "for": [
+          53,
+          202
+        ],
+        "Cisuralian": [
+          55
+        ],
+        "Guadalupian": [
+          57,
+          69
+        ],
+        "was": [
+          58
+        ],
+        "established": [
+          59
+        ],
+        "but": [
+          62
+        ],
+        "six": [
+          64
+        ],
+        "zones": [
+          65
+        ],
+        "terminated": [
+          66
+        ],
+        "within": [
+          67
+        ],
+        "because": [
+          70
+        ],
+        "central": [
+          72
+        ],
+        "southern": [
+          74
+        ],
+        "above": [
+          78
+        ],
+        "carbonate-dominated": [
+          80
+        ],
+        "poor": [
+          82
+        ],
+        "palynomorph": [
+          83
+        ],
+        "preservation.": [
+          84
+        ],
+        "Lopingian": [
+          86
+        ],
+        "clastic-dominated": [
+          87
+        ],
+        "of": [
+          89,
+          106,
+          120,
+          126,
+          131,
+          140,
+          150,
+          199
+        ],
+        "Levant": [
+          91
+        ],
+        "provides": [
+          93
+        ],
+        "further": [
+          94
+        ],
+        "information": [
+          96
+        ],
+        "allow": [
+          98,
+          161
+        ],
+        "a": [
+          99
+        ],
+        "tentative": [
+          100,
+          162
+        ],
+        "interval": [
+          101,
+          110
+        ],
+        "palynozonation.": [
+          102
+        ],
+        "Thus,": [
+          103
+        ],
+        "base": [
+          105,
+          125
+        ],
+        "OSPZ7": [
+          109
+        ],
+        "biozone": [
+          111
+        ],
+        "defined": [
+          113
+        ],
+        "at": [
+          114
+        ],
+        "first": [
+          116
+        ],
+        "appearance": [
+          117
+        ],
+        "datum": [
+          118
+        ],
+        "(FAD)": [
+          119
+        ],
+        "Protohaploxypinus": [
+          121
+        ],
+        "uttingii": [
+          122
+        ],
+        ";": [
+          123,
+          134
+        ],
+        "OSPZ8": [
+          127,
+          167
+        ],
+        "by": [
+          128,
+          137
+        ],
+        "FAD": [
+          130,
+          139
+        ],
+        "Falcisporites": [
+          132
+        ],
+        "stabilis": [
+          133
+        ],
+        "OSPZ9": [
+          136,
+          170
+        ],
+        "Pretricolpipollenites": [
+          141
+        ],
+        "bharadwajii": [
+          142
+        ],
+        ".": [
+          143
+        ],
+        "Foraminiferal": [
+          144
+        ],
+        "dates": [
+          145
+        ],
+        "from": [
+          146
+        ],
+        "marine": [
+          148
+        ],
+        "parts": [
+          149
+        ],
+        "Saad,": [
+          152
+        ],
+        "Arqov": [
+          153
+        ],
+        "Sheizaf": [
+          155
+        ],
+        "formations": [
+          156
+        ],
+        "boreholes": [
+          158
+        ],
+        "Israel": [
+          160
+        ],
+        "ages": [
+          163
+        ],
+        "be": [
+          165
+        ],
+        "suggested:": [
+          166
+        ],
+        "mid-Wuchiapingian": [
+          168
+        ],
+        "late": [
+          171
+        ],
+        "Wuchiapingian–Changhsingian.": [
+          172
+        ],
+        "Correlation": [
+          173
+        ],
+        "Australian,": [
+          175
+        ],
+        "South": [
+          176
+        ],
+        "American": [
+          177
+        ],
+        "Chinese": [
+          179
+        ],
+        "successions": [
+          180
+        ],
+        "broadly": [
+          181
+        ],
+        "supports": [
+          182
+        ],
+        "these": [
+          183
+        ],
+        "ages.": [
+          184
+        ],
+        "Marine": [
+          185
+        ],
+        "units": [
+          186
+        ],
+        "Jordan": [
+          188
+        ],
+        "contain": [
+          189
+        ],
+        "foraminifera": [
+          190
+        ],
+        "conodonts": [
+          192
+        ],
+        "that": [
+          193
+        ],
+        "give": [
+          194
+        ],
+        "upper": [
+          196
+        ],
+        "age": [
+          197
+        ],
+        "limit": [
+          198
+        ],
+        "early": [
+          200
+        ],
+        "Induan": [
+          201
+        ],
+        "OSPZ9.": [
+          203
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -81367,7 +83281,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-27T09:02:27.158192",
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84787,7 +86701,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-09T15:46:55.921056",
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -89025,419 +90939,6 @@
         }
       ],
       "updated_date": "2026-03-20T23:20:44.827607",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1969316000",
-      "doi": "https://doi.org/10.1016/s0899-5362(98)00030-x",
-      "title": "Preliminary correlation of palynological assemblages from Oman with the Granulatisporites confluens Oppel Zone of the grant formation (lower Permian), Canning Basin, Western Australia",
-      "display_name": "Preliminary correlation of palynological assemblages from Oman with the Granulatisporites confluens Oppel Zone of the grant formation (lower Permian), Canning Basin, Western Australia",
-      "publication_year": 1998,
-      "publication_date": "1998-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1969316000",
-        "doi": "https://doi.org/10.1016/s0899-5362(98)00030-x",
-        "mag": "1969316000"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s0899-5362(98)00030-x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0899-5362(98)00030-x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S125636905",
-          "display_name": "Journal of African Earth Sciences",
-          "issn_l": "1464-343X",
-          "issn": [
-            "1464-343X",
-            "1879-1956"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of African Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91136226",
-              "display_name": "University of Sheffield",
-              "ror": "https://ror.org/05krs5044",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "Centre for Palynology, Department of Earth Sciences, University of Sheffield, Brook Hill, Sheffield, S3 7HF, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre for Palynology, Department of Earth Sciences, University of Sheffield, Brook Hill, Sheffield, S3 7HF, UK",
-              "institution_ids": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I91136226"
-      ],
-      "apc_list": {
-        "value": 2650,
-        "currency": "USD",
-        "value_usd": 2650
-      },
-      "apc_paid": null,
-      "fwci": 1.1152,
-      "has_fulltext": false,
-      "cited_by_count": 15,
-      "citation_normalized_percentile": {
-        "value": 0.79886485,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "26",
-        "issue": "4",
-        "first_page": "521",
-        "last_page": "526"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9987999796867371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "Palynology",
-          "score": 0.9028511047363281
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8392901420593262
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.7666529417037964
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6270700693130493
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.6116230487823486
-        },
-        {
-          "id": "https://openalex.org/keywords/pollen",
-          "display_name": "Pollen",
-          "score": 0.19451209902763367
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.08359509706497192
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.9028511047363281
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8392901420593262
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.7666529417037964
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6270700693130493
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.6116230487823486
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.19451209902763367
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.08359509706497192
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0899-5362(98)00030-x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0899-5362(98)00030-x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S125636905",
-            "display_name": "Journal of African Earth Sciences",
-            "issn_l": "1464-343X",
-            "issn": [
-              "1464-343X",
-              "1879-1956"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of African Earth Sciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 19,
-      "referenced_works": [
-        "https://openalex.org/W41502212",
-        "https://openalex.org/W182120159",
-        "https://openalex.org/W607349779",
-        "https://openalex.org/W650689462",
-        "https://openalex.org/W1977368632",
-        "https://openalex.org/W1985842290",
-        "https://openalex.org/W1994436705",
-        "https://openalex.org/W2018598691",
-        "https://openalex.org/W2024662740",
-        "https://openalex.org/W2053154125",
-        "https://openalex.org/W2090016958",
-        "https://openalex.org/W2140551189",
-        "https://openalex.org/W2168817819",
-        "https://openalex.org/W2467840726",
-        "https://openalex.org/W2972436452",
-        "https://openalex.org/W4256526570",
-        "https://openalex.org/W4295746687",
-        "https://openalex.org/W6842185802",
-        "https://openalex.org/W7064776472"
-      ],
-      "related_works": [
-        "https://openalex.org/W2374843461",
-        "https://openalex.org/W2736251669",
-        "https://openalex.org/W129624991",
-        "https://openalex.org/W2157017705",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W2391384364",
-        "https://openalex.org/W2020737423",
-        "https://openalex.org/W1976379090",
-        "https://openalex.org/W2378992098",
-        "https://openalex.org/W2010280787"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97800,539 +99301,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2072257562",
-      "doi": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
-      "title": "Bisaccate pollen from the Early Permian OSPZ3a Sub-Biozone of the Lower Gharif Member, Oman",
-      "display_name": "Bisaccate pollen from the Early Permian OSPZ3a Sub-Biozone of the Lower Gharif Member, Oman",
-      "publication_year": 2014,
-      "publication_date": "2014-10-05",
-      "ids": {
-        "openalex": "https://openalex.org/W2072257562",
-        "doi": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
-        "mag": "2072257562"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.revpalbo.2014.09.004",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S43762691",
-          "display_name": "Review of Palaeobotany and Palynology",
-          "issn_l": "0034-6667",
-          "issn": [
-            "0034-6667",
-            "1879-0615"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Review of Palaeobotany and Palynology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333"
-      ],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
-      "apc_paid": null,
-      "fwci": 1.0894,
-      "has_fulltext": false,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.84319691,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "212",
-        "issue": null,
-        "first_page": "214",
-        "last_page": "225"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9995999932289124,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10385",
-          "display_name": "Plant Diversity and Evolution",
-          "score": 0.9965000152587891,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9955000281333923,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/biozone",
-          "display_name": "Biozone",
-          "score": 0.966863751411438
-        },
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "Palynology",
-          "score": 0.8040900230407715
-        },
-        {
-          "id": "https://openalex.org/keywords/taxon",
-          "display_name": "Taxon",
-          "score": 0.7406553030014038
-        },
-        {
-          "id": "https://openalex.org/keywords/pollen",
-          "display_name": "Pollen",
-          "score": 0.7267076969146729
-        },
-        {
-          "id": "https://openalex.org/keywords/genus",
-          "display_name": "Genus",
-          "score": 0.6912156939506531
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6492409706115723
-        },
-        {
-          "id": "https://openalex.org/keywords/synonym",
-          "display_name": "Synonym (taxonomy)",
-          "score": 0.6119007468223572
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.5882112979888916
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5410965085029602
-        },
-        {
-          "id": "https://openalex.org/keywords/type",
-          "display_name": "Type (biology)",
-          "score": 0.46505317091941833
-        },
-        {
-          "id": "https://openalex.org/keywords/botany",
-          "display_name": "Botany",
-          "score": 0.2684659957885742
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.2507094144821167
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.18088576197624207
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C164375970",
-          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
-          "display_name": "Biozone",
-          "level": 3,
-          "score": 0.966863751411438
-        },
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.8040900230407715
-        },
-        {
-          "id": "https://openalex.org/C71640776",
-          "wikidata": "https://www.wikidata.org/wiki/Q16521",
-          "display_name": "Taxon",
-          "level": 2,
-          "score": 0.7406553030014038
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.7267076969146729
-        },
-        {
-          "id": "https://openalex.org/C157369684",
-          "wikidata": "https://www.wikidata.org/wiki/Q34740",
-          "display_name": "Genus",
-          "level": 2,
-          "score": 0.6912156939506531
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6492409706115723
-        },
-        {
-          "id": "https://openalex.org/C173483453",
-          "wikidata": "https://www.wikidata.org/wiki/Q1040689",
-          "display_name": "Synonym (taxonomy)",
-          "level": 3,
-          "score": 0.6119007468223572
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.5882112979888916
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5410965085029602
-        },
-        {
-          "id": "https://openalex.org/C2777299769",
-          "wikidata": "https://www.wikidata.org/wiki/Q3707858",
-          "display_name": "Type (biology)",
-          "level": 2,
-          "score": 0.46505317091941833
-        },
-        {
-          "id": "https://openalex.org/C59822182",
-          "wikidata": "https://www.wikidata.org/wiki/Q441",
-          "display_name": "Botany",
-          "level": 1,
-          "score": 0.2684659957885742
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.2507094144821167
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.18088576197624207
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.revpalbo.2014.09.004",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2014.09.004",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S43762691",
-            "display_name": "Review of Palaeobotany and Palynology",
-            "issn_l": "0034-6667",
-            "issn": [
-              "0034-6667",
-              "1879-0615"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Review of Palaeobotany and Palynology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:nora.nerc.ac.uk:510967",
-          "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400758",
-            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I141816643",
-            "host_organization_name": "Natural Environment Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/I141816643"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Publication - Article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 36,
-      "referenced_works": [
-        "https://openalex.org/W47486112",
-        "https://openalex.org/W421667689",
-        "https://openalex.org/W563420437",
-        "https://openalex.org/W607349779",
-        "https://openalex.org/W620298034",
-        "https://openalex.org/W650689462",
-        "https://openalex.org/W1517347070",
-        "https://openalex.org/W1571958385",
-        "https://openalex.org/W1597901632",
-        "https://openalex.org/W2043549357",
-        "https://openalex.org/W2051611285",
-        "https://openalex.org/W2053154125",
-        "https://openalex.org/W2059692475",
-        "https://openalex.org/W2068998358",
-        "https://openalex.org/W2084137546",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2085611409",
-        "https://openalex.org/W2090016958",
-        "https://openalex.org/W2134774247",
-        "https://openalex.org/W2153771490",
-        "https://openalex.org/W2604744725",
-        "https://openalex.org/W2606848124",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W3136111501",
-        "https://openalex.org/W3200669176",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W4296113613",
-        "https://openalex.org/W4296115006",
-        "https://openalex.org/W6614599547",
-        "https://openalex.org/W6619517216",
-        "https://openalex.org/W6635511303",
-        "https://openalex.org/W6665443497",
-        "https://openalex.org/W6735985960",
-        "https://openalex.org/W6801613346",
-        "https://openalex.org/W6842977838",
-        "https://openalex.org/W6843196763"
-      ],
-      "related_works": [
-        "https://openalex.org/W2374843461",
-        "https://openalex.org/W1576557173",
-        "https://openalex.org/W2736251669",
-        "https://openalex.org/W2590547327",
-        "https://openalex.org/W2811252347",
-        "https://openalex.org/W2152747995",
-        "https://openalex.org/W2157017705",
-        "https://openalex.org/W129624991",
-        "https://openalex.org/W1485158149",
-        "https://openalex.org/W2986225371"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2946128494",
       "doi": "https://doi.org/10.1016/j.revpalbo.2019.05.003",
       "title": "The exine ultrastructure of Pretricolpipollenites bharadwajii from the Permian of Jordan",
@@ -100868,956 +101836,6 @@
         }
       ],
       "updated_date": "2026-04-09T08:11:56.329763",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4410205451",
-      "doi": "https://doi.org/10.1144/petgeo2025-011",
-      "title": "A tentative upper Guadalupian–Lopingian (Middle–Upper Permian) palynozonation for the Arabian Peninsula and Levant",
-      "display_name": "A tentative upper Guadalupian–Lopingian (Middle–Upper Permian) palynozonation for the Arabian Peninsula and Levant",
-      "publication_year": 2025,
-      "publication_date": "2025-05-08",
-      "ids": {
-        "openalex": "https://openalex.org/W4410205451",
-        "doi": "https://doi.org/10.1144/petgeo2025-011"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1144/petgeo2025-011",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1144/petgeo2025-011",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S139447867",
-          "display_name": "Petroleum Geoscience",
-          "issn_l": "1354-0793",
-          "issn": [
-            "1354-0793",
-            "2041-496X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311785",
-          "host_organization_name": "Zoological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311785"
-          ],
-          "host_organization_lineage_names": [
-            "Zoological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Petroleum Geoscience",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "M. H. Stephenson",
-          "raw_affiliation_strings": [
-            "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
-            "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.9057,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.871093,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "31",
-        "issue": "3",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9962000250816345,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9962000250816345,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9943000078201294,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9843999743461609,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8738458156585693
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.827218770980835
-        },
-        {
-          "id": "https://openalex.org/keywords/peninsula",
-          "display_name": "Peninsula",
-          "score": 0.8253353834152222
-        },
-        {
-          "id": "https://openalex.org/keywords/palaeogeography",
-          "display_name": "Palaeogeography",
-          "score": 0.7497480511665344
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6869841814041138
-        },
-        {
-          "id": "https://openalex.org/keywords/telmatology",
-          "display_name": "Telmatology",
-          "score": 0.6342964768409729
-        },
-        {
-          "id": "https://openalex.org/keywords/metamorphic-petrology",
-          "display_name": "Metamorphic petrology",
-          "score": 0.5782272219657898
-        },
-        {
-          "id": "https://openalex.org/keywords/middle-east",
-          "display_name": "Middle East",
-          "score": 0.4886665642261505
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.2139277160167694
-        },
-        {
-          "id": "https://openalex.org/keywords/volcanism",
-          "display_name": "Volcanism",
-          "score": 0.1761987805366516
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.16868063807487488
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.15649133920669556
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.12163969874382019
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8738458156585693
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.827218770980835
-        },
-        {
-          "id": "https://openalex.org/C123588078",
-          "wikidata": "https://www.wikidata.org/wiki/Q34763",
-          "display_name": "Peninsula",
-          "level": 2,
-          "score": 0.8253353834152222
-        },
-        {
-          "id": "https://openalex.org/C179158327",
-          "wikidata": "https://www.wikidata.org/wiki/Q52151",
-          "display_name": "Palaeogeography",
-          "level": 4,
-          "score": 0.7497480511665344
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6869841814041138
-        },
-        {
-          "id": "https://openalex.org/C2776867696",
-          "wikidata": "https://www.wikidata.org/wiki/Q3743777",
-          "display_name": "Telmatology",
-          "level": 3,
-          "score": 0.6342964768409729
-        },
-        {
-          "id": "https://openalex.org/C2993313656",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Metamorphic petrology",
-          "level": 3,
-          "score": 0.5782272219657898
-        },
-        {
-          "id": "https://openalex.org/C3651065",
-          "wikidata": "https://www.wikidata.org/wiki/Q7204",
-          "display_name": "Middle East",
-          "level": 2,
-          "score": 0.4886665642261505
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.2139277160167694
-        },
-        {
-          "id": "https://openalex.org/C6363049",
-          "wikidata": "https://www.wikidata.org/wiki/Q505748",
-          "display_name": "Volcanism",
-          "level": 3,
-          "score": 0.1761987805366516
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.16868063807487488
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.15649133920669556
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.12163969874382019
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1144/petgeo2025-011",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1144/petgeo2025-011",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S139447867",
-            "display_name": "Petroleum Geoscience",
-            "issn_l": "1354-0793",
-            "issn": [
-              "1354-0793",
-              "2041-496X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311785",
-            "host_organization_name": "Zoological Society of London",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311785"
-            ],
-            "host_organization_lineage_names": [
-              "Zoological Society of London"
-            ],
-            "type": "journal"
-          },
-          "license": "public-domain",
-          "license_id": "https://openalex.org/licenses/public-domain",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Petroleum Geoscience",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 44,
-      "referenced_works": [
-        "https://openalex.org/W294109815",
-        "https://openalex.org/W1571958385",
-        "https://openalex.org/W1903847998",
-        "https://openalex.org/W1970189954",
-        "https://openalex.org/W1977519822",
-        "https://openalex.org/W2009001521",
-        "https://openalex.org/W2012077142",
-        "https://openalex.org/W2035904748",
-        "https://openalex.org/W2038886011",
-        "https://openalex.org/W2048312108",
-        "https://openalex.org/W2081290253",
-        "https://openalex.org/W2081705827",
-        "https://openalex.org/W2085611409",
-        "https://openalex.org/W2086944192",
-        "https://openalex.org/W2089977350",
-        "https://openalex.org/W2093823344",
-        "https://openalex.org/W2097185532",
-        "https://openalex.org/W2109413880",
-        "https://openalex.org/W2138317704",
-        "https://openalex.org/W2162445023",
-        "https://openalex.org/W2169713986",
-        "https://openalex.org/W2196620403",
-        "https://openalex.org/W2287111010",
-        "https://openalex.org/W2325575317",
-        "https://openalex.org/W2482692071",
-        "https://openalex.org/W2560194642",
-        "https://openalex.org/W2560462446",
-        "https://openalex.org/W2564457604",
-        "https://openalex.org/W2890302888",
-        "https://openalex.org/W2928103387",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W2988416618",
-        "https://openalex.org/W2994275914",
-        "https://openalex.org/W2998351833",
-        "https://openalex.org/W3154314550",
-        "https://openalex.org/W3199859285",
-        "https://openalex.org/W3200669176",
-        "https://openalex.org/W3213322169",
-        "https://openalex.org/W4242782100",
-        "https://openalex.org/W4385728002",
-        "https://openalex.org/W4388701331",
-        "https://openalex.org/W4396578038",
-        "https://openalex.org/W4401362486"
-      ],
-      "related_works": [
-        "https://openalex.org/W3126135047",
-        "https://openalex.org/W2198112858",
-        "https://openalex.org/W2003532457",
-        "https://openalex.org/W2205564488",
-        "https://openalex.org/W2736562424",
-        "https://openalex.org/W2221287579",
-        "https://openalex.org/W2210389703",
-        "https://openalex.org/W1988281480",
-        "https://openalex.org/W2992045932",
-        "https://openalex.org/W2131171998"
-      ],
-      "abstract_inverted_index": {
-        "2003": [
-          61
-        ],
-        "The": [
-          0,
-          44,
-          85
-        ],
-        "Middle": [
-          1
-        ],
-        "and": [
-          2,
-          27,
-          46,
-          56,
-          73,
-          135,
-          154,
-          169,
-          178,
-          191
-        ],
-        "Upper": [
-          3
-        ],
-        "Permian": [
-          4
-        ],
-        "is": [
-          5,
-          79,
-          112
-        ],
-        "an": [
-          6,
-          195
-        ],
-        "important": [
-          7
-        ],
-        "succession": [
-          8,
-          36,
-          77,
-          88
-        ],
-        "in": [
-          9,
-          60,
-          71,
-          157,
-          159,
-          187
-        ],
-        "the": [
-          10,
-          22,
-          54,
-          68,
-          76,
-          90,
-          104,
-          107,
-          115,
-          124,
-          129,
-          138,
-          147,
-          151
-        ],
-        "Arabian": [
-          11
-        ],
-        "Peninsula": [
-          12
-        ],
-        "due": [
-          13
-        ],
-        "to": [
-          14,
-          97,
-          164
-        ],
-        "its": [
-          15,
-          63
-        ],
-        "economic": [
-          16
-        ],
-        "value,": [
-          17
-        ],
-        "with": [
-          18,
-          81,
-          174
-        ],
-        "it": [
-          19
-        ],
-        "containing": [
-          20
-        ],
-        "oilfields,": [
-          21
-        ],
-        "supergiant": [
-          23
-        ],
-        "Khuff": [
-          24
-        ],
-        "gas": [
-          25
-        ],
-        "reservoir": [
-          26
-        ],
-        "new": [
-          28,
-          108
-        ],
-        "carbon": [
-          29
-        ],
-        "dioxide": [
-          30
-        ],
-        "storage": [
-          31
-        ],
-        "opportunities.": [
-          32
-        ],
-        "Until": [
-          33
-        ],
-        "now": [
-          34,
-          92
-        ],
-        "this": [
-          35
-        ],
-        "has": [
-          37
-        ],
-        "had": [
-          38
-        ],
-        "no": [
-          39
-        ],
-        "public": [
-          40
-        ],
-        "domain": [
-          41
-        ],
-        "palynostratigraphic": [
-          42,
-          95
-        ],
-        "scheme.": [
-          43
-        ],
-        "Oman": [
-          45
-        ],
-        "Saudi": [
-          47
-        ],
-        "Arabia": [
-          48,
-          75
-        ],
-        "Palynological": [
-          49
-        ],
-        "Zonation": [
-          50
-        ],
-        "(OSPZ)": [
-          51
-        ],
-        "scheme": [
-          52
-        ],
-        "for": [
-          53,
-          202
-        ],
-        "Cisuralian": [
-          55
-        ],
-        "Guadalupian": [
-          57,
-          69
-        ],
-        "was": [
-          58
-        ],
-        "established": [
-          59
-        ],
-        "but": [
-          62
-        ],
-        "six": [
-          64
-        ],
-        "zones": [
-          65
-        ],
-        "terminated": [
-          66
-        ],
-        "within": [
-          67
-        ],
-        "because": [
-          70
-        ],
-        "central": [
-          72
-        ],
-        "southern": [
-          74
-        ],
-        "above": [
-          78
-        ],
-        "carbonate-dominated": [
-          80
-        ],
-        "poor": [
-          82
-        ],
-        "palynomorph": [
-          83
-        ],
-        "preservation.": [
-          84
-        ],
-        "Lopingian": [
-          86
-        ],
-        "clastic-dominated": [
-          87
-        ],
-        "of": [
-          89,
-          106,
-          120,
-          126,
-          131,
-          140,
-          150,
-          199
-        ],
-        "Levant": [
-          91
-        ],
-        "provides": [
-          93
-        ],
-        "further": [
-          94
-        ],
-        "information": [
-          96
-        ],
-        "allow": [
-          98,
-          161
-        ],
-        "a": [
-          99
-        ],
-        "tentative": [
-          100,
-          162
-        ],
-        "interval": [
-          101,
-          110
-        ],
-        "palynozonation.": [
-          102
-        ],
-        "Thus,": [
-          103
-        ],
-        "base": [
-          105,
-          125
-        ],
-        "OSPZ7": [
-          109
-        ],
-        "biozone": [
-          111
-        ],
-        "defined": [
-          113
-        ],
-        "at": [
-          114
-        ],
-        "first": [
-          116
-        ],
-        "appearance": [
-          117
-        ],
-        "datum": [
-          118
-        ],
-        "(FAD)": [
-          119
-        ],
-        "Protohaploxypinus": [
-          121
-        ],
-        "uttingii": [
-          122
-        ],
-        ";": [
-          123,
-          134
-        ],
-        "OSPZ8": [
-          127,
-          167
-        ],
-        "by": [
-          128,
-          137
-        ],
-        "FAD": [
-          130,
-          139
-        ],
-        "Falcisporites": [
-          132
-        ],
-        "stabilis": [
-          133
-        ],
-        "OSPZ9": [
-          136,
-          170
-        ],
-        "Pretricolpipollenites": [
-          141
-        ],
-        "bharadwajii": [
-          142
-        ],
-        ".": [
-          143
-        ],
-        "Foraminiferal": [
-          144
-        ],
-        "dates": [
-          145
-        ],
-        "from": [
-          146
-        ],
-        "marine": [
-          148
-        ],
-        "parts": [
-          149
-        ],
-        "Saad,": [
-          152
-        ],
-        "Arqov": [
-          153
-        ],
-        "Sheizaf": [
-          155
-        ],
-        "formations": [
-          156
-        ],
-        "boreholes": [
-          158
-        ],
-        "Israel": [
-          160
-        ],
-        "ages": [
-          163
-        ],
-        "be": [
-          165
-        ],
-        "suggested:": [
-          166
-        ],
-        "mid-Wuchiapingian": [
-          168
-        ],
-        "late": [
-          171
-        ],
-        "Wuchiapingian–Changhsingian.": [
-          172
-        ],
-        "Correlation": [
-          173
-        ],
-        "Australian,": [
-          175
-        ],
-        "South": [
-          176
-        ],
-        "American": [
-          177
-        ],
-        "Chinese": [
-          179
-        ],
-        "successions": [
-          180
-        ],
-        "broadly": [
-          181
-        ],
-        "supports": [
-          182
-        ],
-        "these": [
-          183
-        ],
-        "ages.": [
-          184
-        ],
-        "Marine": [
-          185
-        ],
-        "units": [
-          186
-        ],
-        "Jordan": [
-          188
-        ],
-        "contain": [
-          189
-        ],
-        "foraminifera": [
-          190
-        ],
-        "conodonts": [
-          192
-        ],
-        "that": [
-          193
-        ],
-        "give": [
-          194
-        ],
-        "upper": [
-          196
-        ],
-        "age": [
-          197
-        ],
-        "limit": [
-          198
-        ],
-        "early": [
-          200
-        ],
-        "Induan": [
-          201
-        ],
-        "OSPZ9.": [
-          203
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {

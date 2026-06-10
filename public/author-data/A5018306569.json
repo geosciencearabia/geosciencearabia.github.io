@@ -1209,9 +1209,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -1698,6 +1698,641 @@
         }
       ],
       "updated_date": "2026-06-05T09:01:59.212387",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3133829624",
+      "doi": "https://doi.org/10.1016/j.matpr.2020.12.531",
+      "title": "Green synthesized gold nanoparticles with enhanced photocatalytic activity",
+      "display_name": "Green synthesized gold nanoparticles with enhanced photocatalytic activity",
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3133829624",
+        "doi": "https://doi.org/10.1016/j.matpr.2020.12.531",
+        "mag": "3133829624"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.matpr.2020.12.531",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.matpr.2020.12.531",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2898407351",
+          "display_name": "Materials Today Proceedings",
+          "issn_l": "2214-7853",
+          "issn": [
+            "2214-7853"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Materials Today: Proceedings",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101830172",
+            "display_name": "Tejasvi Singh",
+            "orcid": "https://orcid.org/0009-0004-1025-137X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tejasvi Singh",
+          "raw_affiliation_strings": [
+            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016450194",
+            "display_name": "Athira Jayaprakash",
+            "orcid": "https://orcid.org/0000-0003-1341-7545"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Athira Jayaprakash",
+          "raw_affiliation_strings": [
+            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018306569",
+            "display_name": "Mohammad Alsuwaidi",
+            "orcid": "https://orcid.org/0000-0002-2477-0654"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Alsuwaidi",
+          "raw_affiliation_strings": [
+            "Fingerprint Department, Dubai Police, Dubai, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Fingerprint Department, Dubai Police, Dubai, United Arab Emirates",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5088436123",
+            "display_name": "Asha Anish Madhavan",
+            "orcid": "https://orcid.org/0000-0002-8073-9299"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Asha Anish Madhavan",
+          "raw_affiliation_strings": [
+            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5088436123"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210126505"
+      ],
+      "apc_list": {
+        "value": 200,
+        "currency": "USD",
+        "value_usd": 200
+      },
+      "apc_paid": null,
+      "fwci": 1.5226,
+      "has_fulltext": false,
+      "cited_by_count": 25,
+      "citation_normalized_percentile": {
+        "value": 0.81210383,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "42",
+        "issue": null,
+        "first_page": "1166",
+        "last_page": "1169"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10079",
+        "display_name": "Nanoparticles: synthesis and applications",
+        "score": 0.9986000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10079",
+          "display_name": "Nanoparticles: synthesis and applications",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12302",
+          "display_name": "Advanced Nanomaterials in Catalysis",
+          "score": 0.9740999937057495,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12240",
+          "display_name": "Nanomaterials for catalytic reactions",
+          "score": 0.9330000281333923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1605",
+            "display_name": "Organic Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/photocatalysis",
+          "display_name": "Photocatalysis",
+          "score": 0.8007540702819824
+        },
+        {
+          "id": "https://openalex.org/keywords/nanoparticle",
+          "display_name": "Nanoparticle",
+          "score": 0.7429522275924683
+        },
+        {
+          "id": "https://openalex.org/keywords/dynamic-light-scattering",
+          "display_name": "Dynamic light scattering",
+          "score": 0.7157888412475586
+        },
+        {
+          "id": "https://openalex.org/keywords/methylene-blue",
+          "display_name": "Methylene blue",
+          "score": 0.7146430015563965
+        },
+        {
+          "id": "https://openalex.org/keywords/colloidal-gold",
+          "display_name": "Colloidal gold",
+          "score": 0.7064732909202576
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.5772615075111389
+        },
+        {
+          "id": "https://openalex.org/keywords/spectroscopy",
+          "display_name": "Spectroscopy",
+          "score": 0.5637917518615723
+        },
+        {
+          "id": "https://openalex.org/keywords/catalysis",
+          "display_name": "Catalysis",
+          "score": 0.5459585785865784
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.4722541868686676
+        },
+        {
+          "id": "https://openalex.org/keywords/nanotechnology",
+          "display_name": "Nanotechnology",
+          "score": 0.4549316167831421
+        },
+        {
+          "id": "https://openalex.org/keywords/photochemistry",
+          "display_name": "Photochemistry",
+          "score": 0.4295971393585205
+        },
+        {
+          "id": "https://openalex.org/keywords/reducing-agent",
+          "display_name": "Reducing agent",
+          "score": 0.4261331558227539
+        },
+        {
+          "id": "https://openalex.org/keywords/ultraviolet-visible-spectroscopy",
+          "display_name": "Ultraviolet visible spectroscopy",
+          "score": 0.41201648116111755
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-chemistry",
+          "display_name": "Nuclear chemistry",
+          "score": 0.3678218722343445
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.32427385449409485
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.2169102132320404
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C65165184",
+          "wikidata": "https://www.wikidata.org/wiki/Q218831",
+          "display_name": "Photocatalysis",
+          "level": 3,
+          "score": 0.8007540702819824
+        },
+        {
+          "id": "https://openalex.org/C155672457",
+          "wikidata": "https://www.wikidata.org/wiki/Q61231",
+          "display_name": "Nanoparticle",
+          "level": 2,
+          "score": 0.7429522275924683
+        },
+        {
+          "id": "https://openalex.org/C14631669",
+          "wikidata": "https://www.wikidata.org/wiki/Q896108",
+          "display_name": "Dynamic light scattering",
+          "level": 3,
+          "score": 0.7157888412475586
+        },
+        {
+          "id": "https://openalex.org/C2779191827",
+          "wikidata": "https://www.wikidata.org/wiki/Q422134",
+          "display_name": "Methylene blue",
+          "level": 4,
+          "score": 0.7146430015563965
+        },
+        {
+          "id": "https://openalex.org/C104819515",
+          "wikidata": "https://www.wikidata.org/wiki/Q900961",
+          "display_name": "Colloidal gold",
+          "level": 3,
+          "score": 0.7064732909202576
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5772615075111389
+        },
+        {
+          "id": "https://openalex.org/C32891209",
+          "wikidata": "https://www.wikidata.org/wiki/Q483666",
+          "display_name": "Spectroscopy",
+          "level": 2,
+          "score": 0.5637917518615723
+        },
+        {
+          "id": "https://openalex.org/C161790260",
+          "wikidata": "https://www.wikidata.org/wiki/Q82264",
+          "display_name": "Catalysis",
+          "level": 2,
+          "score": 0.5459585785865784
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.4722541868686676
+        },
+        {
+          "id": "https://openalex.org/C171250308",
+          "wikidata": "https://www.wikidata.org/wiki/Q11468",
+          "display_name": "Nanotechnology",
+          "level": 1,
+          "score": 0.4549316167831421
+        },
+        {
+          "id": "https://openalex.org/C75473681",
+          "wikidata": "https://www.wikidata.org/wiki/Q188651",
+          "display_name": "Photochemistry",
+          "level": 1,
+          "score": 0.4295971393585205
+        },
+        {
+          "id": "https://openalex.org/C186423591",
+          "wikidata": "https://www.wikidata.org/wiki/Q216830",
+          "display_name": "Reducing agent",
+          "level": 2,
+          "score": 0.4261331558227539
+        },
+        {
+          "id": "https://openalex.org/C66075629",
+          "wikidata": "https://www.wikidata.org/wiki/Q898426",
+          "display_name": "Ultraviolet visible spectroscopy",
+          "level": 2,
+          "score": 0.41201648116111755
+        },
+        {
+          "id": "https://openalex.org/C13965031",
+          "wikidata": "https://www.wikidata.org/wiki/Q243545",
+          "display_name": "Nuclear chemistry",
+          "level": 1,
+          "score": 0.3678218722343445
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.32427385449409485
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.2169102132320404
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.matpr.2020.12.531",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.matpr.2020.12.531",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2898407351",
+            "display_name": "Materials Today Proceedings",
+            "issn_l": "2214-7853",
+            "issn": [
+              "2214-7853"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Materials Today: Proceedings",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.46000000834465027,
+          "display_name": "Responsible consumption and production"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 21,
+      "referenced_works": [
+        "https://openalex.org/W1023812494",
+        "https://openalex.org/W1196117330",
+        "https://openalex.org/W1965290300",
+        "https://openalex.org/W1972423727",
+        "https://openalex.org/W1979922907",
+        "https://openalex.org/W1986309772",
+        "https://openalex.org/W2007609627",
+        "https://openalex.org/W2022666140",
+        "https://openalex.org/W2024242353",
+        "https://openalex.org/W2048616513",
+        "https://openalex.org/W2088484337",
+        "https://openalex.org/W2091476096",
+        "https://openalex.org/W2331420150",
+        "https://openalex.org/W2338255824",
+        "https://openalex.org/W2522218512",
+        "https://openalex.org/W2804479426",
+        "https://openalex.org/W2888584422",
+        "https://openalex.org/W2893467603",
+        "https://openalex.org/W2940331831",
+        "https://openalex.org/W2947269251",
+        "https://openalex.org/W2998679384"
+      ],
+      "related_works": [
+        "https://openalex.org/W2064016680",
+        "https://openalex.org/W3017489757",
+        "https://openalex.org/W4230923271",
+        "https://openalex.org/W1580371737",
+        "https://openalex.org/W2009562525",
+        "https://openalex.org/W2004335251",
+        "https://openalex.org/W2893278932",
+        "https://openalex.org/W3048196395",
+        "https://openalex.org/W2726042184",
+        "https://openalex.org/W1751550190"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-06-10T14:10:52.464848",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2330,9 +2965,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3325,9 +3960,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4055,9 +4690,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5066,9 +5701,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5905,9 +6540,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -6534,641 +7169,6 @@
         }
       ],
       "updated_date": "2026-05-21T06:26:12.895304",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3133829624",
-      "doi": "https://doi.org/10.1016/j.matpr.2020.12.531",
-      "title": "Green synthesized gold nanoparticles with enhanced photocatalytic activity",
-      "display_name": "Green synthesized gold nanoparticles with enhanced photocatalytic activity",
-      "publication_year": 2021,
-      "publication_date": "2021-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3133829624",
-        "doi": "https://doi.org/10.1016/j.matpr.2020.12.531",
-        "mag": "3133829624"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.matpr.2020.12.531",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.matpr.2020.12.531",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2898407351",
-          "display_name": "Materials Today Proceedings",
-          "issn_l": "2214-7853",
-          "issn": [
-            "2214-7853"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Materials Today: Proceedings",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5101830172",
-            "display_name": "Tejasvi Singh",
-            "orcid": "https://orcid.org/0009-0004-1025-137X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tejasvi Singh",
-          "raw_affiliation_strings": [
-            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5016450194",
-            "display_name": "Athira Jayaprakash",
-            "orcid": "https://orcid.org/0000-0003-1341-7545"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Athira Jayaprakash",
-          "raw_affiliation_strings": [
-            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018306569",
-            "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [
-            "Fingerprint Department, Dubai Police, Dubai, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Fingerprint Department, Dubai Police, Dubai, United Arab Emirates",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5088436123",
-            "display_name": "Asha Anish Madhavan",
-            "orcid": "https://orcid.org/0000-0002-8073-9299"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Asha Anish Madhavan",
-          "raw_affiliation_strings": [
-            "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Engineering, Amity University Dubai, Dubai, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5088436123"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210126505"
-      ],
-      "apc_list": {
-        "value": 200,
-        "currency": "USD",
-        "value_usd": 200
-      },
-      "apc_paid": null,
-      "fwci": 1.5215,
-      "has_fulltext": false,
-      "cited_by_count": 24,
-      "citation_normalized_percentile": {
-        "value": 0.81195829,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "42",
-        "issue": null,
-        "first_page": "1166",
-        "last_page": "1169"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10079",
-        "display_name": "Nanoparticles: synthesis and applications",
-        "score": 0.9986000061035156,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2505",
-          "display_name": "Materials Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10079",
-          "display_name": "Nanoparticles: synthesis and applications",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12302",
-          "display_name": "Advanced Nanomaterials in Catalysis",
-          "score": 0.9740999937057495,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12240",
-          "display_name": "Nanomaterials for catalytic reactions",
-          "score": 0.9330000281333923,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1605",
-            "display_name": "Organic Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/photocatalysis",
-          "display_name": "Photocatalysis",
-          "score": 0.8007540702819824
-        },
-        {
-          "id": "https://openalex.org/keywords/nanoparticle",
-          "display_name": "Nanoparticle",
-          "score": 0.7429522275924683
-        },
-        {
-          "id": "https://openalex.org/keywords/dynamic-light-scattering",
-          "display_name": "Dynamic light scattering",
-          "score": 0.7157888412475586
-        },
-        {
-          "id": "https://openalex.org/keywords/methylene-blue",
-          "display_name": "Methylene blue",
-          "score": 0.7146430015563965
-        },
-        {
-          "id": "https://openalex.org/keywords/colloidal-gold",
-          "display_name": "Colloidal gold",
-          "score": 0.7064732909202576
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.5772615075111389
-        },
-        {
-          "id": "https://openalex.org/keywords/spectroscopy",
-          "display_name": "Spectroscopy",
-          "score": 0.5637917518615723
-        },
-        {
-          "id": "https://openalex.org/keywords/catalysis",
-          "display_name": "Catalysis",
-          "score": 0.5459585785865784
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.4722541868686676
-        },
-        {
-          "id": "https://openalex.org/keywords/nanotechnology",
-          "display_name": "Nanotechnology",
-          "score": 0.4549316167831421
-        },
-        {
-          "id": "https://openalex.org/keywords/photochemistry",
-          "display_name": "Photochemistry",
-          "score": 0.4295971393585205
-        },
-        {
-          "id": "https://openalex.org/keywords/reducing-agent",
-          "display_name": "Reducing agent",
-          "score": 0.4261331558227539
-        },
-        {
-          "id": "https://openalex.org/keywords/ultraviolet-visible-spectroscopy",
-          "display_name": "Ultraviolet visible spectroscopy",
-          "score": 0.41201648116111755
-        },
-        {
-          "id": "https://openalex.org/keywords/nuclear-chemistry",
-          "display_name": "Nuclear chemistry",
-          "score": 0.3678218722343445
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.32427385449409485
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.2169102132320404
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C65165184",
-          "wikidata": "https://www.wikidata.org/wiki/Q218831",
-          "display_name": "Photocatalysis",
-          "level": 3,
-          "score": 0.8007540702819824
-        },
-        {
-          "id": "https://openalex.org/C155672457",
-          "wikidata": "https://www.wikidata.org/wiki/Q61231",
-          "display_name": "Nanoparticle",
-          "level": 2,
-          "score": 0.7429522275924683
-        },
-        {
-          "id": "https://openalex.org/C14631669",
-          "wikidata": "https://www.wikidata.org/wiki/Q896108",
-          "display_name": "Dynamic light scattering",
-          "level": 3,
-          "score": 0.7157888412475586
-        },
-        {
-          "id": "https://openalex.org/C2779191827",
-          "wikidata": "https://www.wikidata.org/wiki/Q422134",
-          "display_name": "Methylene blue",
-          "level": 4,
-          "score": 0.7146430015563965
-        },
-        {
-          "id": "https://openalex.org/C104819515",
-          "wikidata": "https://www.wikidata.org/wiki/Q900961",
-          "display_name": "Colloidal gold",
-          "level": 3,
-          "score": 0.7064732909202576
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.5772615075111389
-        },
-        {
-          "id": "https://openalex.org/C32891209",
-          "wikidata": "https://www.wikidata.org/wiki/Q483666",
-          "display_name": "Spectroscopy",
-          "level": 2,
-          "score": 0.5637917518615723
-        },
-        {
-          "id": "https://openalex.org/C161790260",
-          "wikidata": "https://www.wikidata.org/wiki/Q82264",
-          "display_name": "Catalysis",
-          "level": 2,
-          "score": 0.5459585785865784
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.4722541868686676
-        },
-        {
-          "id": "https://openalex.org/C171250308",
-          "wikidata": "https://www.wikidata.org/wiki/Q11468",
-          "display_name": "Nanotechnology",
-          "level": 1,
-          "score": 0.4549316167831421
-        },
-        {
-          "id": "https://openalex.org/C75473681",
-          "wikidata": "https://www.wikidata.org/wiki/Q188651",
-          "display_name": "Photochemistry",
-          "level": 1,
-          "score": 0.4295971393585205
-        },
-        {
-          "id": "https://openalex.org/C186423591",
-          "wikidata": "https://www.wikidata.org/wiki/Q216830",
-          "display_name": "Reducing agent",
-          "level": 2,
-          "score": 0.4261331558227539
-        },
-        {
-          "id": "https://openalex.org/C66075629",
-          "wikidata": "https://www.wikidata.org/wiki/Q898426",
-          "display_name": "Ultraviolet visible spectroscopy",
-          "level": 2,
-          "score": 0.41201648116111755
-        },
-        {
-          "id": "https://openalex.org/C13965031",
-          "wikidata": "https://www.wikidata.org/wiki/Q243545",
-          "display_name": "Nuclear chemistry",
-          "level": 1,
-          "score": 0.3678218722343445
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.32427385449409485
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.2169102132320404
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.matpr.2020.12.531",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.matpr.2020.12.531",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2898407351",
-            "display_name": "Materials Today Proceedings",
-            "issn_l": "2214-7853",
-            "issn": [
-              "2214-7853"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Materials Today: Proceedings",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Responsible consumption and production",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/12"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 21,
-      "referenced_works": [
-        "https://openalex.org/W1023812494",
-        "https://openalex.org/W1196117330",
-        "https://openalex.org/W1965290300",
-        "https://openalex.org/W1972423727",
-        "https://openalex.org/W1979922907",
-        "https://openalex.org/W1986309772",
-        "https://openalex.org/W2007609627",
-        "https://openalex.org/W2022666140",
-        "https://openalex.org/W2024242353",
-        "https://openalex.org/W2048616513",
-        "https://openalex.org/W2088484337",
-        "https://openalex.org/W2091476096",
-        "https://openalex.org/W2331420150",
-        "https://openalex.org/W2338255824",
-        "https://openalex.org/W2522218512",
-        "https://openalex.org/W2804479426",
-        "https://openalex.org/W2888584422",
-        "https://openalex.org/W2893467603",
-        "https://openalex.org/W2940331831",
-        "https://openalex.org/W2947269251",
-        "https://openalex.org/W2998679384"
-      ],
-      "related_works": [
-        "https://openalex.org/W2064016680",
-        "https://openalex.org/W3017489757",
-        "https://openalex.org/W4230923271",
-        "https://openalex.org/W1580371737",
-        "https://openalex.org/W2009562525",
-        "https://openalex.org/W2004335251",
-        "https://openalex.org/W2893278932",
-        "https://openalex.org/W3048196395",
-        "https://openalex.org/W2726042184",
-        "https://openalex.org/W1751550190"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-05-26T13:28:51.108037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7891,9 +7891,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -9091,9 +9091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -11488,9 +11488,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13163,9 +13163,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14359,9 +14359,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16555,9 +16555,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -17805,9 +17805,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -19346,9 +19346,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -21187,9 +21187,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -21926,9 +21926,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23164,9 +23164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24016,9 +24016,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -24900,9 +24900,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -25596,9 +25596,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -28389,9 +28389,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4302540421485901,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29864,9 +29864,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -31116,9 +31116,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32163,9 +32163,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -35070,9 +35070,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36326,9 +36326,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -37483,9 +37483,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -38431,9 +38431,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -38982,9 +38982,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -39847,9 +39847,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40609,9 +40609,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -41602,9 +41602,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -42949,9 +42949,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -47380,9 +47380,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4364251494407654,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -48991,9 +48991,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8764263391494751,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -50358,9 +50358,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8797712922096252,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
