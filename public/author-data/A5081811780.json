@@ -951,16 +951,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1760,19 +1760,27 @@
           "countries": [
             "SD"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dmitry A. Ruban",
           "raw_affiliation_strings": [
+            "000 Km N SUDAN",
             "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
-            "Sea Lake Victoria Arabian Gulf Red Sea",
             "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-            "JORDAN LEBANON",
-            "000 Km N SUDAN"
+            "Sea Lake Victoria Arabian Gulf Red Sea",
+            "JORDAN LEBANON"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
+              "raw_affiliation_string": "000 Km N SUDAN",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
               "institution_ids": []
             },
             {
@@ -1782,15 +1790,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "JORDAN LEBANON",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "000 Km N SUDAN",
               "institution_ids": []
             }
           ]
@@ -1820,16 +1820,20 @@
           "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [
-            "000 Km N SUDAN",
-            "Sea Lake Victoria Arabian Gulf Red Sea",
-            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
             "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
+            "Sea Lake Victoria Arabian Gulf Red Sea",
+            "000 Km N SUDAN",
             "JORDAN LEBANON"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "000 Km N SUDAN",
+              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
               "institution_ids": []
             },
             {
@@ -1839,11 +1843,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "raw_affiliation_string": "000 Km N SUDAN",
               "institution_ids": []
             },
             {
@@ -1877,14 +1877,22 @@
           "is_corresponding": false,
           "raw_author_name": "Yumiko Iwasaki",
           "raw_affiliation_strings": [
-            "Sea Lake Victoria Arabian Gulf Red Sea",
+            "000 Km N SUDAN",
             "JORDAN LEBANON",
-            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+            "Sea Lake Victoria Arabian Gulf Red Sea",
             "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-            "000 Km N SUDAN"
+            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "000 Km N SUDAN",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "JORDAN LEBANON",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Sea Lake Victoria Arabian Gulf Red Sea",
               "institution_ids": [
@@ -1892,19 +1900,11 @@
               ]
             },
             {
-              "raw_affiliation_string": "JORDAN LEBANON",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "000 Km N SUDAN",
+              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
               "institution_ids": []
             }
           ]
@@ -1913,12 +1913,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5085604445"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I90097577"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 8.88,
@@ -2236,16 +2232,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948813096.pdf",
@@ -3165,7 +3161,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-10T14:10:52.464848",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3589,16 +3585,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4379,7 +4375,7 @@
           "countries": [
             "QA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Florian Maurer",
           "raw_affiliation_strings": [
             "Maersk Oil Qatar, PO Box 22050, Doha, State of Qatar"
@@ -4634,23 +4630,19 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5110956932"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210120771"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3760,
         "currency": "USD",
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 35.3104,
+      "fwci": 35.303,
       "has_fulltext": false,
       "cited_by_count": 126,
       "citation_normalized_percentile": {
-        "value": 0.99667325,
+        "value": 0.99667256,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4883,8 +4875,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -4902,8 +4894,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -5349,7 +5341,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5947,16 +5939,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -6825,7 +6817,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Frans S.P. van Buchem",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -6895,17 +6887,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5108291309"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 21.8576,
+      "fwci": 21.8627,
       "has_fulltext": false,
       "cited_by_count": 141,
       "citation_normalized_percentile": {
-        "value": 0.99773629,
+        "value": 0.99773783,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7147,8 +7137,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7234,7 +7224,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7303,7 +7293,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -7312,7 +7302,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
@@ -7340,7 +7330,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -7575,12 +7565,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5038965329"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 15.6465,
@@ -7867,16 +7853,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -9102,7 +9088,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9576,8 +9562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -11250,8 +11236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3093533935.pdf"
@@ -12097,7 +12083,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -12106,7 +12092,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
@@ -12134,7 +12120,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -12238,15 +12224,11 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9176,
+      "fwci": 1.917,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
@@ -12635,16 +12617,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -13806,7 +13788,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13871,7 +13853,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -13911,13 +13893,11 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3437,
+      "fwci": 2.3436,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
@@ -14155,16 +14135,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946023000.pdf"
@@ -14234,7 +14214,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-03T09:05:47.796612",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14699,16 +14679,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -15332,16 +15312,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6100000143051147,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 141,
@@ -16525,16 +16505,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -17117,16 +17097,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -17390,16 +17370,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71052956",
-              "display_name": "University of Reading",
-              "ror": "https://ror.org/05v62cm79",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71052956"
-              ]
-            },
-            {
               "id": "https://openalex.org/I147554453",
               "display_name": "University of Bedfordshire",
               "ror": "https://ror.org/0400avk24",
@@ -17408,17 +17378,28 @@
               "lineage": [
                 "https://openalex.org/I147554453"
               ]
+            },
+            {
+              "id": "https://openalex.org/I71052956",
+              "display_name": "University of Reading",
+              "ror": "https://ror.org/05v62cm79",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71052956"
+              ]
             }
           ],
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Roger W. Bentley",
           "raw_affiliation_strings": [
             "Former, Department of Cybernetics, University of Reading, Reading, UK",
             "Luton, Bedfordshire, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Former, Department of Cybernetics, University of Reading, Reading, UK",
@@ -17461,6 +17442,7 @@
           "raw_affiliation_strings": [
             "Former Total, Paris, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Former Total, Paris, France",
@@ -17479,16 +17461,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I157349981",
-              "display_name": "SUNY College of Environmental Science and Forestry",
-              "ror": "https://ror.org/00qv0tw17",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157349981"
-              ]
-            },
-            {
               "id": "https://openalex.org/I103497121",
               "display_name": "Purchase College",
               "ror": "https://ror.org/057trrr89",
@@ -17496,6 +17468,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I103497121"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I157349981",
+              "display_name": "SUNY College of Environmental Science and Forestry",
+              "ror": "https://ror.org/00qv0tw17",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157349981"
               ]
             }
           ],
@@ -17507,6 +17489,7 @@
           "raw_affiliation_strings": [
             "Department of Environmental Science, SUNY College of Environmental Science and Forestry, Syracuse, NY, 13210, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Environmental Science, SUNY College of Environmental Science and Forestry, Syracuse, NY, 13210, USA",
@@ -17547,6 +17530,7 @@
           "raw_affiliation_strings": [
             "Albany, NY, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Albany, NY, USA",
@@ -17565,16 +17549,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134662",
               "display_name": "Bahrain Center for Strategic International and Energy Studies",
               "ror": "https://ror.org/03ht6cj06",
@@ -17582,6 +17556,16 @@
               "type": "other",
               "lineage": [
                 "https://openalex.org/I4210134662"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17595,6 +17579,7 @@
             "Former Aramco, Dhahran, Saudi Arabia",
             "Former GeoArabia, Manama, Bahrain"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Former Aramco, Dhahran, Saudi Arabia",
@@ -17614,24 +17599,19 @@
       "institutions": [],
       "countries_distinct_count": 5,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5113921671"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I147554453",
-        "https://openalex.org/I71052956"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2690,
         "currency": "EUR",
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.7832,
+      "fwci": 0.5239,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.72030925,
+        "value": 0.62062428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17839,8 +17819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -17884,7 +17864,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17968,7 +17948,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [
             "Aramco Overs. Co., Hague, Netherlands",
@@ -18066,12 +18046,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.6395,
@@ -18394,8 +18370,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -19099,7 +19075,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-06-07T08:38:57.713557",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19164,7 +19140,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19189,17 +19165,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.491,
+      "fwci": 2.4914,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.88817286,
+        "value": 0.8881917,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19555,16 +19529,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782942463.pdf"
@@ -20346,7 +20320,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20411,7 +20385,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Robley K. Matthews",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -20436,17 +20410,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5003614553"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9087,
+      "fwci": 2.9095,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.9011356,
+        "value": 0.90114389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20766,16 +20738,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2922003475.pdf"
@@ -21149,7 +21121,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-27T09:02:27.158192",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21196,9 +21168,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -21213,23 +21186,22 @@
           "is_corresponding": false,
           "raw_author_name": "R. K. Matthews",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.933,
+      "fwci": 2.985,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.90756962,
+        "value": 0.90898988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21389,16 +21361,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -21517,7 +21489,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21582,7 +21554,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -21607,13 +21579,11 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.98,
+      "fwci": 4.975,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
@@ -21961,16 +21931,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972289394.pdf"
@@ -23044,7 +23014,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23490,16 +23460,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2998820729.pdf"
@@ -24822,16 +24792,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967258048.pdf",
@@ -26187,16 +26157,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2202216454.pdf"
@@ -27511,16 +27481,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3004523161.pdf"
@@ -28595,7 +28565,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-0778-5771",
@@ -28695,22 +28665,20 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5020524306"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9137,
+      "fwci": 3.9098,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.92989079,
+        "value": 0.92987058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -28829,16 +28797,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -28922,7 +28890,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29330,16 +29298,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2951871263.pdf"
@@ -30260,7 +30228,7 @@
           "countries": [
             "AU"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "D.A. Ruban",
           "raw_affiliation_strings": [
             "GeoArabia"
@@ -30353,19 +30321,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5085604445"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I2781680685"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.34785717,
+        "value": 0.34801644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30616,16 +30580,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -30680,7 +30644,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-19T21:40:30.786675",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30745,18 +30709,18 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [
-            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-            "EGYPT CYPRUS",
             "SAUDI ARABIA YEMEN OMAN UAE",
-            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT"
+            "EGYPT CYPRUS",
+            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
+            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
+              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
               "institution_ids": []
             },
             {
@@ -30764,11 +30728,11 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
+              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
             }
           ]
@@ -30785,19 +30749,19 @@
           "is_corresponding": false,
           "raw_author_name": "M. Dia Mahmoud",
           "raw_affiliation_strings": [
+            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
             "SAUDI ARABIA YEMEN OMAN UAE",
-            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
             "EGYPT CYPRUS",
-            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT"
+            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
+              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
               "institution_ids": []
             },
             {
@@ -30805,7 +30769,7 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
+              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
             }
           ]
@@ -30822,17 +30786,13 @@
           "is_corresponding": false,
           "raw_author_name": "Robley K. Matthews",
           "raw_affiliation_strings": [
-            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
             "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
             "EGYPT CYPRUS",
-            "SAUDI ARABIA YEMEN OMAN UAE"
+            "SAUDI ARABIA YEMEN OMAN UAE",
+            "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
@@ -30844,6 +30804,10 @@
             {
               "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
+              "institution_ids": []
             }
           ]
         }
@@ -30851,17 +30815,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2854,
+      "fwci": 1.286,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.83534643,
+        "value": 0.83544202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31174,8 +31136,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -31188,8 +31150,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955710534.pdf",
@@ -32649,7 +32611,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-27T09:02:27.158192",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32714,7 +32676,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -32739,17 +32701,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6514,
+      "fwci": 0.6517,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.77332478,
+        "value": 0.77340071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33069,16 +33029,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2964097576.pdf"
@@ -33696,7 +33656,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34180,16 +34140,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3083121467.pdf"
@@ -35258,7 +35218,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Thomas De Keyser",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -35328,9 +35288,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5025244768"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3700,
@@ -35342,11 +35300,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 4.2752,
+      "fwci": 4.1969,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.93339758,
+        "value": 0.93180646,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35644,8 +35602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -36437,7 +36395,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-01T08:46:32.239190",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36521,7 +36479,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Don K. Robinson",
           "raw_affiliation_strings": [
             "Aramco Overs. Co., The Hague, Netherlands",
@@ -36567,12 +36525,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5073108574"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -36981,8 +36935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -37570,7 +37524,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37635,9 +37589,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37652,28 +37607,27 @@
           "is_corresponding": false,
           "raw_author_name": "Robley K. Matthews",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1364,
+      "fwci": 2.1702,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.86785903,
+        "value": 0.86980555,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -37919,16 +37873,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2990369555.pdf",
@@ -38175,7 +38129,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38222,7 +38176,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Peter Osterloff",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-4111-5336",
@@ -38382,17 +38336,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050066018"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6091,
+      "fwci": 2.6065,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.89199781,
+        "value": 0.89208198,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38552,16 +38504,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38627,7 +38579,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38692,7 +38644,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -38717,17 +38669,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8194,
+      "fwci": 3.8199,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.92738495,
+        "value": 0.92745338,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -39040,16 +38990,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2574973601.pdf"
@@ -40345,7 +40295,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40423,7 +40373,7 @@
           "countries": [
             "AU"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Joerg Mattner",
           "raw_affiliation_strings": [
             "GeoArabia"
@@ -40479,19 +40429,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039636725"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I2781680685"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9376,
+      "fwci": 1.9378,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.86428296,
+        "value": 0.86429606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40847,16 +40793,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -41171,7 +41117,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41629,8 +41575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150065718.pdf"
@@ -42597,16 +42543,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -43161,16 +43107,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -43907,7 +43853,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Peter Osterloff",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-4111-5336",
@@ -43977,17 +43923,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050066018"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6523,
+      "fwci": 0.6516,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.77091318,
+        "value": 0.77107774,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44149,8 +44093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44216,7 +44160,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44281,7 +44225,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -44306,17 +44250,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4065,
+      "fwci": 1.4062,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85826706,
+        "value": 0.85823145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44622,16 +44564,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3094434653.pdf"
@@ -44701,7 +44643,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45085,16 +45027,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3011458131.pdf"
@@ -46412,8 +46354,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2970361768.pdf"
@@ -46939,8 +46881,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -48454,16 +48396,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123020830.pdf"
@@ -50064,8 +50006,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -50088,8 +50030,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393192528.pdf"
@@ -50657,7 +50599,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -50682,17 +50624,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7473,
+      "fwci": 0.7474,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.75254823,
+        "value": 0.75258991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51074,16 +51014,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968475188.pdf"
@@ -51601,7 +51541,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51684,7 +51624,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [
             "Independent Researcher 1 ,"
@@ -51740,12 +51680,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210164339"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2100,
         "currency": "USD",
@@ -51756,11 +51692,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 3.3902,
+      "fwci": 3.1524,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92955211,
+        "value": 0.92376422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -52129,8 +52065,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -52706,7 +52642,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-12-08T00:00:00"
     },
     {
@@ -53020,8 +52956,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53382,16 +53318,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128531337.pdf"
@@ -53493,7 +53429,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Joerg Mattner",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -53518,9 +53454,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039636725"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -53528,7 +53462,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.61071834,
+        "value": 0.61045041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53822,16 +53756,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3012103603.pdf"
@@ -53861,7 +53795,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53908,7 +53842,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Frans S.P. van Buchem",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -53963,9 +53897,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5108291309"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -53973,7 +53905,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.42005943,
+        "value": 0.42006458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54171,16 +54103,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54214,7 +54146,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54279,7 +54211,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -54334,17 +54266,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1926,
+      "fwci": 2.1917,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.89123711,
+        "value": 0.89119224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54613,16 +54543,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952036994.pdf"
@@ -54643,7 +54573,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54708,7 +54638,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -54733,17 +54663,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4982,
+      "fwci": 0.4983,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.71750484,
+        "value": 0.71755243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54974,16 +54902,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967961194.pdf"
@@ -55011,7 +54939,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55079,9 +55007,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -55096,15 +55025,14 @@
           "is_corresponding": false,
           "raw_author_name": "R. D. Chimblo",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -55112,7 +55040,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.13330072,
+        "value": 0.13283957,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55450,16 +55378,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56005,7 +55933,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56080,7 +56008,7 @@
           "countries": [
             "BE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège - ULiege > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -56144,12 +56072,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5044489988"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I157674565"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -56270,16 +56194,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56308,7 +56232,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-06T06:31:04.898241",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56370,7 +56294,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7511-0464",
@@ -56447,9 +56371,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5058654714"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -56662,8 +56584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56692,7 +56614,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-06T06:31:04.898241",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56739,7 +56661,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Florian Maurer",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -56839,9 +56761,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5110956932"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -56849,7 +56769,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41347754,
+        "value": 0.41364251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57030,16 +56950,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -57408,7 +57328,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57477,9 +57397,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Moujahed Al-Husseini",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -57494,15 +57415,14 @@
           "is_corresponding": false,
           "raw_author_name": "Ian C.F. Stewart",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3700,
@@ -57518,7 +57438,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44147992,
+        "value": 0.36481992,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57772,8 +57692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -58260,7 +58180,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-12-13T00:00:00"
     }
   ]

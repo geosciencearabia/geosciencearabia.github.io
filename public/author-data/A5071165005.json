@@ -852,9 +852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -1023,7 +1023,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -1153,12 +1153,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071165005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 19.1297,
@@ -1560,9 +1556,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2193,7 +2189,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2277,7 +2273,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
@@ -2333,19 +2329,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071165005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6504,
+      "fwci": 1.5778,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.81142791,
+        "value": 0.80340002,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2692,9 +2684,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -2776,7 +2768,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2870,7 +2862,7 @@
             "SA",
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com",
@@ -3108,20 +3100,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071165005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841",
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8239,
+      "fwci": 1.6884,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.81672842,
+        "value": 0.80369462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3838,7 +3825,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3903,9 +3890,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ju, Xin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3920,6 +3908,7 @@
           "is_corresponding": false,
           "raw_author_name": "Hamon, François P.",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3934,6 +3923,7 @@
           "is_corresponding": false,
           "raw_author_name": "Wen, Gege",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3948,6 +3938,7 @@
           "is_corresponding": false,
           "raw_author_name": "Kanfar, Rayan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3962,6 +3953,7 @@
           "is_corresponding": false,
           "raw_author_name": "Araya-Polo, Mauricio",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -3976,15 +3968,14 @@
           "is_corresponding": false,
           "raw_author_name": "Tchelepi, Hamdi A.",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5101867027"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -4320,9 +4311,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -4787,7 +4778,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-03-11T14:59:36.786465",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4849,11 +4840,12 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Stanford University;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University;",
@@ -4891,6 +4883,7 @@
           "raw_affiliation_strings": [
             "ExxonMobil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "ExxonMobil",
@@ -4927,6 +4920,7 @@
           "raw_affiliation_strings": [
             "Stanford University;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University;",
@@ -4940,19 +4934,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071165005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3006798,
+        "value": 0.28682304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5475,7 +5465,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-25T23:11:45.687758",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5550,7 +5540,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
@@ -5702,19 +5692,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071165005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06793893,
+        "value": 0.06712433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6386,7 +6372,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {

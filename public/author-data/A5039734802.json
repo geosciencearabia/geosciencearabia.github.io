@@ -579,7 +579,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -635,19 +635,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6581,
+      "fwci": 0.6583,
       "has_fulltext": false,
       "cited_by_count": 227,
       "citation_normalized_percentile": {
-        "value": 0.73661077,
+        "value": 0.73665107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1595,7 +1591,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1645,7 +1641,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -1752,17 +1748,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086882344"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.3469,
+      "fwci": 9.3494,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.97346535,
+        "value": 0.97349684,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1996,9 +1990,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3701,7 +3695,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4254,9 +4248,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4471,7 +4465,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Peter K. Swart",
           "raw_affiliation_strings": [
             "1MGG/RSMAS, 4600 Rickenbacker Causeway, University of Miami, Miami, Florida 33149, U.S.A.; pswart@rsmas.miami.edu",
@@ -4683,19 +4677,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050486511"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I145608581"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.1129,
+      "fwci": 8.1075,
       "has_fulltext": false,
       "cited_by_count": 125,
       "citation_normalized_percentile": {
-        "value": 0.97021747,
+        "value": 0.9701977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4915,9 +4905,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5765,7 +5755,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-28T06:12:49.907903",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5843,7 +5833,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "David Cantrell",
           "raw_affiliation_strings": [
             "SAUDI ARABIA Riyadh QATAR BAHRAIN IRAN North"
@@ -5936,19 +5926,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210103399"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1094,
+      "fwci": 3.109,
       "has_fulltext": true,
       "cited_by_count": 112,
       "citation_normalized_percentile": {
-        "value": 0.91236495,
+        "value": 0.91235685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6223,9 +6209,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -7111,7 +7097,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7190,7 +7176,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "David L. Cantrell",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -7357,19 +7343,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8899,
+      "fwci": 2.8897,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.90532863,
+        "value": 0.90532297,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8513,7 +8495,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8578,7 +8560,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8603,17 +8585,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8982,
+      "fwci": 1.8985,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.86116869,
+        "value": 0.86119372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10211,7 +10191,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-03T09:05:47.796612",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10274,9 +10254,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "J. C. MITCHELL",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10291,6 +10272,7 @@
           "is_corresponding": false,
           "raw_author_name": "P. J. LEHMANN",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10305,6 +10287,7 @@
           "is_corresponding": false,
           "raw_author_name": "D. L. CANTRELL",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10319,6 +10302,7 @@
           "is_corresponding": false,
           "raw_author_name": "I. A. AL-JALLAL",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -10333,15 +10317,14 @@
           "is_corresponding": false,
           "raw_author_name": "M. A. R. AL-THAGAFY",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5000172249"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10603,9 +10586,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11449,7 +11432,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-11T08:14:18.477133",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11497,7 +11480,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-3118-9769",
@@ -11597,22 +11580,20 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.2849,
+      "fwci": 7.2885,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.97415198,
+        "value": 0.97414916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -11836,7 +11817,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-28T14:05:53.105641",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13655,9 +13636,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14234,9 +14215,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15104,9 +15085,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "C. Robertson Handford",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15121,6 +15103,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15135,23 +15118,22 @@
           "is_corresponding": false,
           "raw_author_name": "Thomas H. Keith",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013547666"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3159,
+      "fwci": 3.3215,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.94177215,
+        "value": 0.94187026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15415,9 +15397,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15508,7 +15490,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-11T08:14:18.477133",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15591,7 +15573,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -15739,19 +15721,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5085007251"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2876,
+      "fwci": 8.2897,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.97088139,
+        "value": 0.970889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16125,9 +16103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -17055,7 +17033,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-06-06T09:05:17.133730",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17479,9 +17457,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5099999904632568
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17673,9 +17651,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17690,6 +17669,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17704,6 +17684,7 @@
           "is_corresponding": false,
           "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17718,6 +17699,7 @@
           "is_corresponding": false,
           "raw_author_name": "Thomas H. Keith  Harry W. Mueller",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17732,23 +17714,22 @@
           "is_corresponding": false,
           "raw_author_name": "and S. Duffy Russell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086882344"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3161,
+      "fwci": 1.3308,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.83699469,
+        "value": 0.83898512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18714,7 +18695,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18802,6 +18783,7 @@
           "raw_affiliation_strings": [
             "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA",
@@ -18850,6 +18832,7 @@
             "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA",
             "King Fahd University of Petroleum and Minerals, Department of Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA",
@@ -18892,6 +18875,7 @@
           "raw_affiliation_strings": [
             "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA",
@@ -18928,6 +18912,7 @@
           "raw_affiliation_strings": [
             "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, KS, USA",
@@ -18964,6 +18949,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals, Department of Geosciences, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Department of Geosciences, Dhahran, Saudi Arabia",
@@ -18989,16 +18975,16 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 5.9032,
+      "fwci": 5.9067,
       "has_fulltext": false,
-      "cited_by_count": 29,
+      "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.95901046,
+        "value": 0.95891612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -19354,9 +19340,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19448,6 +19434,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -19480,7 +19470,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19545,7 +19535,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -19585,17 +19575,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4775,
+      "fwci": 0.4776,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.78884372,
+        "value": 0.78887551,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19984,9 +19972,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20498,7 +20486,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-03T09:05:47.796612",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20594,7 +20582,7 @@
             "SA",
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mustafa A. Al Ibrahim",
           "raw_affiliation_strings": [
             "Saudi Aramco 1 Geology Technology Team, EXPEC Advanced Research Center, , Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: Stanford University, Green Earth Science Building, Room 50, 365 Panama Street, Stanford, California 94305; Mustafa.Geoscientist@outlook.com",
@@ -20811,20 +20799,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009963240"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841",
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0267,
+      "fwci": 3.0299,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89899055,
+        "value": 0.89909629,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21873,7 +21856,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22508,9 +22491,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -22755,13 +22738,13 @@
             "SA",
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "D. L. Cantrell",
           "raw_affiliation_strings": [
             "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
-            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
-            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -22778,15 +22761,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
               "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -22922,21 +22905,15 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210143841",
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4046,
+      "fwci": 0.4049,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.67728388,
+        "value": 0.67748735,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23709,7 +23686,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23792,7 +23769,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
             "Exxon Prod. Res., Houston, TX, United States"
@@ -23833,15 +23810,11 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I923382979"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8462,
+      "fwci": 1.8457,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
@@ -24159,9 +24132,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24989,7 +24962,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-28T06:12:49.907903",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -25775,9 +25748,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26718,7 +26691,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [
             "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA. Electronic address: pulkitsingh97@gmail.com"
@@ -26861,7 +26834,7 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -27041,24 +27014,19 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001052278"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1302918504",
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 6830,
         "currency": "USD",
         "value_usd": 6830
       },
       "apc_paid": null,
-      "fwci": 7.5633,
+      "fwci": 6.3049,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.9585048,
+        "value": 0.94895553,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27589,9 +27557,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -27755,7 +27723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27839,7 +27807,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Shuo Zhang",
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
@@ -28046,19 +28014,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5100450362"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6985,
+      "fwci": 0.6992,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69416998,
+        "value": 0.69449014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28931,7 +28895,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29642,9 +29606,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29833,11 +29797,12 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Maaruf Hussain",
           "raw_affiliation_strings": [
             "Baker Hughes Research Center, Dhahran Global Technology Center, King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Baker Hughes Research Center, Dhahran Global Technology Center, King Fahd University of Petroleum and Minerals",
@@ -29874,6 +29839,7 @@
           "raw_affiliation_strings": [
             "Baker Hughes Research Center, Dhahran Global Technology Center"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Baker Hughes Research Center, Dhahran Global Technology Center",
@@ -29910,6 +29876,7 @@
           "raw_affiliation_strings": [
             "Baker Hughes Research Center, Dhahran Global Technology Center"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Baker Hughes Research Center, Dhahran Global Technology Center",
@@ -29946,6 +29913,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals,"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals,",
@@ -29959,19 +29927,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5102780937"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5795,
+      "fwci": 0.5825,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.70078692,
+        "value": 0.70685899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30221,7 +30185,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30268,7 +30232,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-3118-9769",
@@ -30368,17 +30332,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4047,
+      "fwci": 0.4049,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68570716,
+        "value": 0.68580408,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30746,9 +30708,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31362,7 +31324,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31425,9 +31387,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -31442,6 +31405,7 @@
           "is_corresponding": false,
           "raw_author_name": "Cedric M. Griffiths",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -31456,6 +31420,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stephen G. Franks",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -31470,15 +31435,14 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammad R. Al-Khadhrawi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -31486,12 +31450,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66246507,
+        "value": 0.66110602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -31726,9 +31690,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -32381,7 +32345,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32428,7 +32392,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-7558-8783",
@@ -32439,7 +32403,7 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
           "countries": [],
@@ -32468,9 +32432,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5059881838"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -32478,7 +32440,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20881092,
+        "value": 0.20862378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32757,9 +32719,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33376,7 +33338,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33445,9 +33407,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33462,6 +33425,7 @@
           "is_corresponding": false,
           "raw_author_name": "Luis A. Gonzalez",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33476,6 +33440,7 @@
           "is_corresponding": false,
           "raw_author_name": "Eugene C. Rankey",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33490,6 +33455,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stephen T. Hasiotis",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33504,15 +33470,14 @@
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040857714"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -33520,7 +33485,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03524847,
+        "value": 0.03656608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33808,9 +33773,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33836,7 +33801,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -33905,9 +33870,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33922,6 +33888,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stephen T. Hasiotis",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33936,6 +33903,7 @@
           "is_corresponding": false,
           "raw_author_name": "Eugene C. Rankey",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33950,6 +33918,7 @@
           "is_corresponding": false,
           "raw_author_name": "Luis A. Gonzalez",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -33964,15 +33933,14 @@
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040857714"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -33980,7 +33948,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12013032,
+        "value": 0.12218624,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34264,7 +34232,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-10-28T00:00:00"
     },
     {
@@ -34327,9 +34295,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34344,6 +34313,7 @@
           "is_corresponding": false,
           "raw_author_name": "Holger Cremer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34358,6 +34328,7 @@
           "is_corresponding": false,
           "raw_author_name": "Oscar A. Abbink",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34372,6 +34343,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stephen G. Franks",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34386,6 +34358,7 @@
           "is_corresponding": false,
           "raw_author_name": "Nigel Hooker",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34400,6 +34373,7 @@
           "is_corresponding": false,
           "raw_author_name": "Linda Garming",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34414,15 +34388,14 @@
           "is_corresponding": false,
           "raw_author_name": "Roel Verreussel",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -34430,7 +34403,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10825832,
+        "value": 0.1134702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34710,9 +34683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4399999976158142
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -35408,7 +35381,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35455,7 +35428,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Carl Jacquemyn",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-8627-7144",
@@ -35570,9 +35543,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5005324517"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -35580,7 +35551,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33521296,
+        "value": 0.336049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35667,9 +35638,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.47999998927116394
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -35684,7 +35655,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35752,9 +35723,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35769,6 +35741,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35783,6 +35756,7 @@
           "is_corresponding": false,
           "raw_author_name": "Gabriella Del Viscio",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35797,6 +35771,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35811,6 +35786,7 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35825,6 +35801,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michele Morsilli",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35839,6 +35816,7 @@
           "is_corresponding": false,
           "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -35853,15 +35831,14 @@
           "is_corresponding": false,
           "raw_author_name": "Jonathan Payne",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5101987329"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -35869,7 +35846,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13106823,
+        "value": 0.13397806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36035,9 +36012,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36063,7 +36040,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -36144,11 +36121,12 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36170,6 +36148,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -36199,6 +36178,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36212,7 +36192,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
+            "display_name": "Khalid Al‐Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -36235,6 +36215,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -36256,6 +36237,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -36286,6 +36268,7 @@
             "One Trinity Place San Antonio, TX",
             "Trinity University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "One Trinity Place San Antonio, TX",
@@ -36328,6 +36311,7 @@
           "raw_affiliation_strings": [
             "University of Ferrara"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Ferrara",
@@ -36364,6 +36348,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36377,19 +36362,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001052278"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23508187,
+        "value": 0.22205361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36632,9 +36613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36660,7 +36641,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-03T08:47:05.690250",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -36741,11 +36722,12 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36782,6 +36764,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36818,6 +36801,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36854,6 +36838,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36875,6 +36860,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -36904,6 +36890,7 @@
           "raw_affiliation_strings": [
             "University of Ferrara"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Ferrara",
@@ -36940,6 +36927,7 @@
           "raw_affiliation_strings": [
             "Trinity University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Trinity University",
@@ -36976,6 +36964,7 @@
           "raw_affiliation_strings": [
             "Stanford University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stanford University",
@@ -36989,19 +36978,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001052278"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I97018004"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20090128,
+        "value": 0.19319782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37289,7 +37274,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2024-10-30T00:00:00"
     },
     {
@@ -37338,9 +37323,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37355,6 +37341,7 @@
           "is_corresponding": false,
           "raw_author_name": "Katie Dunn",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37369,6 +37356,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37383,6 +37371,7 @@
           "is_corresponding": false,
           "raw_author_name": "Karrie Weaver",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37397,6 +37386,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dale Burns",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37411,6 +37401,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jonathan Payne",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37425,6 +37416,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michele Morsilli",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37439,15 +37431,14 @@
           "is_corresponding": false,
           "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001052278"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -37455,7 +37446,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29928732,
+        "value": 0.28743679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37798,7 +37789,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37866,9 +37857,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37883,6 +37875,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37897,6 +37890,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bridget Thrasher",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37911,13 +37905,14 @@
           "is_corresponding": false,
           "raw_author_name": "Pedro Monarrez",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
+            "display_name": "Khalid Al‐Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
@@ -37925,6 +37920,7 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37939,6 +37935,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37953,6 +37950,7 @@
           "is_corresponding": false,
           "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -37967,15 +37965,14 @@
           "is_corresponding": false,
           "raw_author_name": "Jonathan Payne",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001052278"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -37983,7 +37980,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18988431,
+        "value": 0.15329886,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38238,7 +38235,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

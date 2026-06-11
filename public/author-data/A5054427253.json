@@ -155,7 +155,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001038,
+        "value": 0.0001037,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -172,7 +172,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000891,
+        "value": 0.000089,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -396,7 +396,7 @@
     ],
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-06-09T12:27:22",
+    "updated_date": "2026-06-10T12:23:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1420,8 +1420,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/17",
           "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17",
           "score": 0.4300000071525574
         }
       ],
@@ -1790,7 +1790,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -1799,7 +1799,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
@@ -1827,7 +1827,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -2062,12 +2062,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5038965329"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 15.6465,
@@ -2354,8 +2350,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394
         }
       ],
@@ -3589,7 +3585,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4123,8 +4119,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -4627,7 +4623,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Jean-Claude Fischer",
           "raw_affiliation_strings": [
             "Laboratoire de Paléontologie du Muséum national d’Histoire naturelle, Paris, France"
@@ -4655,7 +4651,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -4692,7 +4688,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -4729,7 +4725,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -4757,19 +4753,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078456413"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210123595"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4839,
+      "fwci": 0.4838,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.75553403,
+        "value": 0.75536184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5082,8 +5074,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863
         }
       ],
@@ -5725,7 +5717,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6284,8 +6276,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426
         }
       ],
@@ -6486,7 +6478,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "John H. Powell",
           "raw_affiliation_strings": [
             "The Geological Society (London - United Kingdom)"
@@ -6551,7 +6543,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -6579,19 +6571,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5019170902"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I2799387524"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3734,
+      "fwci": 4.3844,
       "has_fulltext": true,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.92467397,
+        "value": 0.92491396,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6991,8 +6979,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -8749,7 +8737,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8814,7 +8802,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Daniel Vachard",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8869,17 +8857,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022478113"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2402,
+      "fwci": 6.2365,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.96063108,
+        "value": 0.96060785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9166,8 +9152,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137
         }
       ],
@@ -9661,7 +9647,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10244,8 +10230,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995
         }
       ],
@@ -11264,7 +11250,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -11273,7 +11259,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
@@ -11301,7 +11287,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -11405,15 +11391,11 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9176,
+      "fwci": 1.917,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
@@ -11802,8 +11784,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815
         }
       ],
@@ -12973,7 +12955,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13050,7 +13032,7 @@
           "countries": [
             "NL"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Philipp Wolpert",
           "raw_affiliation_strings": [
             "Shell (Netherlands) (Netherlands)"
@@ -13211,7 +13193,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -13239,19 +13221,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042048546"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I7923278"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1631,
+      "fwci": 2.1633,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.89366601,
+        "value": 0.89367404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14429,7 +14407,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-06T09:05:17.133730",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14498,7 +14476,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -14507,7 +14485,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Benoît Issautier",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
@@ -14535,7 +14513,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -14644,19 +14622,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2808,
+      "fwci": 3.2846,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.8922968,
+        "value": 0.89242371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15010,8 +14984,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -15720,7 +15694,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-31T08:46:17.908082",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16380,8 +16354,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563
         }
       ],
@@ -18234,7 +18208,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -18334,17 +18308,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2325,
+      "fwci": 5.1797,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.94153226,
+        "value": 0.94077898,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19678,7 +19650,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-31T08:46:17.908082",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20872,7 +20844,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -20882,7 +20854,7 @@
             "DE",
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Benoît Issautier",
           "raw_affiliation_strings": [
             "Bureau de recherches geologiques et minie`res (BRGM), 45000 Orleans, France",
@@ -21019,7 +20991,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -21063,7 +21035,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -21107,7 +21079,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -21135,21 +21107,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210104942",
-        "https://openalex.org/I4210109690",
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4667,
+      "fwci": 0.4669,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.67225637,
+        "value": 0.6724193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21528,8 +21494,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421
         }
       ],
@@ -22047,7 +22013,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22097,7 +22063,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Benoit Issautier",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -22182,9 +22148,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -22436,8 +22400,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -23021,7 +22985,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-31T08:46:17.908082",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -23095,7 +23059,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -23104,7 +23068,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
             "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orléans, France"
@@ -23154,7 +23118,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -23246,7 +23210,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -23337,19 +23301,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2425,
+      "fwci": 2.2199,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.88177115,
+        "value": 0.88106446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24495,7 +24455,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-31T08:46:17.908082",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24560,7 +24520,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Sylvie Crasquin-Soleau",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -24600,17 +24560,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5066243148"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0027,
+      "fwci": 1.0028,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.78465006,
+        "value": 0.78468004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24904,8 +24862,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -25385,7 +25343,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25450,7 +25408,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Martine Berthelin",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -25520,17 +25478,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5109129765"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8754,
+      "fwci": 1.8749,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.87978234,
+        "value": 0.87975214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26343,7 +26299,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26412,7 +26368,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -26421,7 +26377,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Benoît Issautier",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
@@ -26449,7 +26405,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -26575,19 +26531,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0599,
+      "fwci": 2.0609,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.84676139,
+        "value": 0.84683755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26951,8 +26903,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579
         }
       ],
@@ -28018,7 +27970,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28083,7 +28035,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -28138,17 +28090,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5020524306"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4688,
+      "fwci": 0.4687,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.78677271,
+        "value": 0.78671914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28487,8 +28437,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -28883,7 +28833,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28948,7 +28898,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Alda Nicora",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -28988,17 +28938,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5110727110"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4688,
+      "fwci": 0.4687,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.78702386,
+        "value": 0.78697036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29263,8 +29211,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -29786,7 +29734,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29851,7 +29799,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Régis Chirat",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -29891,17 +29839,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5107540602"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5844,
+      "fwci": 1.5841,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.87348354,
+        "value": 0.87345574,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30164,8 +30110,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -30665,7 +30611,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30741,7 +30687,7 @@
           "countries": [
             "NL"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Wolpert, Philipp",
           "raw_affiliation_strings": [
             "Shell (Netherlands)"
@@ -30902,7 +30848,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -30945,19 +30891,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042048546"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I7923278"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2645,
+      "fwci": 3.2669,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93180883,
+        "value": 0.93184808,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31235,8 +31177,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027
         }
       ],
@@ -31318,7 +31260,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-07T06:04:25.777469",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31384,7 +31326,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -31393,7 +31335,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Le Nindre, Yves-Michel",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
@@ -31421,7 +31363,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -31464,15 +31406,11 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.996,
+      "fwci": 0.995,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
@@ -31735,8 +31673,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -31787,7 +31725,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-07T06:12:12.454206",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31858,7 +31796,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -31867,11 +31805,12 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Y NINDRE",
           "raw_affiliation_strings": [
             "BRGM, BP6009, 45060 Orléans Cedex 2 France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
@@ -31894,7 +31833,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -31908,6 +31847,7 @@
           "raw_affiliation_strings": [
             "BRGM, BP6009, 45060 Orléans Cedex 2 France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BRGM, BP6009, 45060 Orléans Cedex 2 France",
@@ -31921,19 +31861,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3834,
+      "fwci": 0.3836,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.64169788,
+        "value": 0.64134496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32225,8 +32161,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027
         }
       ],
@@ -32266,7 +32202,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32583,8 +32519,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -32894,7 +32830,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -32903,7 +32839,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Benoît H. Issautier",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM); Géologie des systémes et des réservoirs carbonatés - EA4234"
@@ -32931,7 +32867,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -32968,7 +32904,7 @@
               "display_name": "United States Geological Survey",
               "ror": "https://ror.org/035a68863",
               "country_code": "US",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1286329397",
                 "https://openalex.org/I1335927249"
@@ -33006,7 +32942,7 @@
               "display_name": "United States Geological Survey",
               "ror": "https://ror.org/035a68863",
               "country_code": "US",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1286329397",
                 "https://openalex.org/I1335927249"
@@ -33035,19 +32971,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4782,
+      "fwci": 0.4781,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.73903884,
+        "value": 0.73907895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33735,7 +33667,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33821,12 +33753,13 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Roger B. Davies",
           "raw_affiliation_strings": [
             "Davies Geoconsulting Ltd, Wintergreen House, Queen’s Road, Harrogate, UK",
             "Davies Geoconsulting Ltd, Wintergreen House, Queen's Road, Harrogate, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Davies Geoconsulting Ltd, Wintergreen House, Queen’s Road, Harrogate, UK",
@@ -33854,6 +33787,7 @@
           "raw_affiliation_strings": [
             "Orleans, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Orleans, France",
@@ -33888,6 +33822,7 @@
           "raw_affiliation_strings": [
             "Biostratigraphic Associates (UK) Ltd, 17 Woodland Avenue, Norton Green, Stoke-on-Trent, Staffordshire, ST6 8NE, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Biostratigraphic Associates (UK) Ltd, 17 Woodland Avenue, Norton Green, Stoke-on-Trent, Staffordshire, ST6 8NE, UK",
@@ -33901,23 +33836,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042844492"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210093967"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2390,
         "currency": "EUR",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.1589,
+      "fwci": 0.16,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.54332326,
+        "value": 0.54584734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34268,7 +34199,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34315,9 +34246,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34332,6 +34264,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jacques Manivit",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -34346,15 +34279,14 @@
           "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5038965329"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -34933,7 +34865,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36867,8 +36799,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -37218,7 +37150,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Alain Izart",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -37288,9 +37220,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052512742"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -37298,7 +37228,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18783974,
+        "value": 0.18795326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37536,8 +37466,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071
         }
       ],
@@ -39126,7 +39056,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39192,7 +39122,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -39201,7 +39131,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Issautier, Benoît",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
@@ -39229,7 +39159,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -39367,19 +39297,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49806141,
+        "value": 0.49763138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40524,7 +40450,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-07T06:12:12.454206",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40590,7 +40516,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -40599,7 +40525,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Issautier, Benoit",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)"
@@ -40627,7 +40553,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -40692,19 +40618,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51445051,
+        "value": 0.51408668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40852,8 +40774,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437
         }
       ],
@@ -41777,7 +41699,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-07T06:12:12.454206",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41824,7 +41746,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mike Stephenson",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -41969,9 +41891,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 10,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5058526940"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -41979,7 +41899,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15323128,
+        "value": 0.15294295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42230,7 +42150,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42277,7 +42197,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Christophe Kervévan",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-6703-7102",
@@ -42452,9 +42372,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 12,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040518700"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -42462,7 +42380,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47272727,
+        "value": 0.472953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42696,7 +42614,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42761,7 +42679,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -42770,7 +42688,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Issautier, Benoit",
           "raw_affiliation_strings": [
             "Bureau de Recherches Géologiques et Minières (BRGM)",
@@ -42803,7 +42721,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -42912,19 +42830,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5071541848"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60288015,
+        "value": 0.60250014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43273,7 +43187,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-07T06:12:12.454206",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43351,7 +43265,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Vachard, Daniel",
           "raw_affiliation_strings": [
             "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque"
@@ -43420,7 +43334,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -43457,7 +43371,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -43485,19 +43399,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022478113"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210148734"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16745318,
+        "value": 0.16752729,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43712,8 +43622,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568
         }
       ],
@@ -44033,7 +43943,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-07T06:12:12.454206",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

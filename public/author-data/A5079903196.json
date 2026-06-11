@@ -1219,8 +1219,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -2803,8 +2803,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -2987,7 +2987,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Amer Alanazi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3102,9 +3102,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103178727"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 4080,
@@ -3116,11 +3114,11 @@
         "currency": "USD",
         "value_usd": 4080
       },
-      "fwci": 11.1954,
+      "fwci": 10.5794,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.99517426,
+        "value": 0.99432821,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4283,7 +4281,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-12T08:28:47.272897",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4366,7 +4364,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
@@ -4570,19 +4568,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I40120149"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6474,
+      "fwci": 1.6482,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.81030001,
+        "value": 0.81035524,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5561,7 +5555,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6442,8 +6436,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8601,8 +8595,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9996,8 +9990,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12462,7 +12456,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Daffa Arrofi",
           "raw_affiliation_strings": [
             "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
@@ -12509,7 +12503,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia. israa.abumahfouz@kfupm.edu.sa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
@@ -12560,12 +12556,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5004745453"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1890,
         "currency": "EUR",
@@ -12576,11 +12568,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 3.5021,
+      "fwci": 3.3346,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.92598776,
+        "value": 0.91996892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13020,8 +13012,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -13591,7 +13583,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-05-16T08:24:45.110214",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14343,7 +14335,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
@@ -14510,19 +14502,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I40120149"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8792,
+      "fwci": 2.881,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.90097523,
+        "value": 0.90101689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14825,8 +14813,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15393,7 +15381,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16066,8 +16054,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -18720,8 +18708,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19478,7 +19466,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Daffa Arrofi",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -19571,12 +19559,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5004745453"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1190,
         "currency": "GBP",
@@ -19587,11 +19571,11 @@
         "currency": "GBP",
         "value_usd": 1459
       },
-      "fwci": 4.2316,
+      "fwci": 4.2354,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.94330374,
+        "value": 0.94336659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20645,7 +20629,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22506,7 +22490,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
@@ -22599,12 +22583,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 8.3051,
@@ -23034,8 +23014,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -23951,7 +23931,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24578,8 +24558,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -24783,9 +24763,22 @@
             "display_name": "Muhammad Usman",
             "orcid": "https://orcid.org/0000-0002-0477-9854"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
             "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia. muhammad.usman.1@kaust.edu.sa"
@@ -24794,7 +24787,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia. muhammad.usman.1@kaust.edu.sa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
             }
           ]
         },
@@ -24987,9 +24982,7 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5030870212"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1890,
@@ -25001,11 +24994,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 5.8494,
+      "fwci": 5.0275,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96638655,
+        "value": 0.95763107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25337,8 +25330,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26163,7 +26156,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27550,8 +27543,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -27723,7 +27716,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "J. Klaver",
           "raw_affiliation_strings": [
             "Institute for Structural Geology, Tectonics and Geomechanics, Energy and Mineral Resources (EMR), RWTH Aachen University, Lochnerstraße 4-20, 52064, Aachen, Germany"
@@ -27964,19 +27957,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5104938097"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I887968799"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2167,
+      "fwci": 1.1755,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.7452051,
+        "value": 0.73818542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28340,8 +28329,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29262,7 +29251,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30405,7 +30394,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "S. S. Aljurf",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, KFUPM, Dhahran, Saudi Arabia"
@@ -30609,19 +30598,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5094009312"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6338,
+      "fwci": 4.551,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.94831461,
+        "value": 0.94157303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30984,8 +30969,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -31886,7 +31871,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34187,8 +34172,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -35527,8 +35512,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -36181,7 +36166,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "King Abdullah University of Science & Technology, KSA"
@@ -36533,12 +36518,8 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 10,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 6.4596,
@@ -36949,8 +36930,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37929,7 +37910,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40731,7 +40712,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Jawad Rafiq",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -40801,9 +40782,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5093217596"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2600,
@@ -40815,16 +40794,16 @@
         "currency": "USD",
         "value_usd": 2600
       },
-      "fwci": 8.3104,
+      "fwci": 7.0351,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96875156,
+        "value": 0.96233988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 98
       },
       "biblio": {
@@ -41156,8 +41135,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -41896,7 +41875,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41958,7 +41937,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "A. M. Hassan",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Saudi Arabia, Saudi Arabia"
@@ -42162,19 +42141,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5075429508"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3168,
+      "fwci": 0.3107,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.5062621,
+        "value": 0.5034508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43141,7 +43116,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43216,7 +43191,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "A. E. Moh-Ali",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -43383,19 +43358,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5092980839"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3169,
+      "fwci": 2.2755,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.80898876,
+        "value": 0.80224719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43741,8 +43712,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -44283,7 +44254,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47659,8 +47630,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -47793,11 +47764,12 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "R. Iakusheva",
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology",
@@ -47834,6 +47806,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -47870,6 +47843,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology",
@@ -47906,6 +47880,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology",
@@ -47942,6 +47917,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology",
@@ -47955,19 +47931,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5060752983"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4495,
+      "fwci": 1.1755,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77510123,
+        "value": 0.73257313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48486,7 +48458,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49086,8 +49058,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -49711,7 +49683,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Amjed M. Hassan",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
@@ -50026,19 +49998,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5075429508"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6564,
+      "fwci": 0.6565,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.61581169,
+        "value": 0.61601101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51000,7 +50968,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51076,12 +51044,13 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "S. Grohmann",
           "raw_affiliation_strings": [
             "Rwth Aachen University",
             "RWTH Aachen University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Rwth Aachen University",
@@ -51125,6 +51094,7 @@
             "Rwth Aachen University",
             "RWTH Aachen University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Rwth Aachen University",
@@ -51149,16 +51119,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I887968799",
-              "display_name": "RWTH Aachen University",
-              "ror": "https://ror.org/04xfq0f34",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I887968799"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210155802",
               "display_name": "Microstructure and Pores",
               "ror": "https://ror.org/05gcs8229",
@@ -51166,6 +51126,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210155802"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I887968799",
+              "display_name": "RWTH Aachen University",
+              "ror": "https://ror.org/04xfq0f34",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I887968799"
               ]
             }
           ],
@@ -51178,6 +51148,7 @@
             "MaP – Microstructure and Pores GmbH",
             "Rwth Aachen University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "MaP – Microstructure and Pores GmbH",
@@ -51220,6 +51191,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -51256,6 +51228,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -51292,6 +51265,7 @@
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology (KAUST)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST)",
@@ -51329,6 +51303,7 @@
             "GeoStructures Consultancy for Structural Geology and Geomechanics",
             "Rwth Aachen University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "GeoStructures Consultancy for Structural Geology and Geomechanics",
@@ -51370,6 +51345,7 @@
             "Rwth Aachen University",
             "RWTH Aachen University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Rwth Aachen University",
@@ -51389,24 +51365,20 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081528176"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I887968799"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2932,
+      "fwci": 0.297,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.49183077,
+        "value": 0.49815428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -51709,8 +51681,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -52051,7 +52023,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52113,11 +52085,12 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "I.S. Abu-Mahfouz",
           "raw_affiliation_strings": [
             "King Fahd University Of Petroleum And Minerals (KFUPM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University Of Petroleum And Minerals (KFUPM)",
@@ -52154,6 +52127,7 @@
           "raw_affiliation_strings": [
             "King Fahd University Of Petroleum And Minerals (KFUPM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University Of Petroleum And Minerals (KFUPM)",
@@ -52190,6 +52164,7 @@
           "raw_affiliation_strings": [
             "King Fahd University Of Petroleum And Minerals (KFUPM)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University Of Petroleum And Minerals (KFUPM)",
@@ -52203,19 +52178,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5237,
+      "fwci": 0.4895,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.72229861,
+        "value": 0.7177323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52893,7 +52864,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53599,8 +53570,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -56239,7 +56210,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Daffa Arrofi",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
@@ -56443,19 +56414,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5004745453"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5878,
+      "fwci": 1.5586,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78351374,
+        "value": 0.78054863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57589,7 +57556,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58883,8 +58850,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -60780,11 +60747,12 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "D. Arrofi",
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
@@ -60821,6 +60789,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
@@ -60857,6 +60826,7 @@
           "raw_affiliation_strings": [
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
@@ -60870,19 +60840,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5004745453"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.173,
+      "fwci": 0.1553,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.42956965,
+        "value": 0.42155619,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61578,7 +61544,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-25T23:11:45.687758",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62048,8 +62014,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -63953,7 +63919,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdulaziz Alghamdi",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, now with Saudi Aramco, Dhahran, Eastern State, Saudi Arabia"
@@ -64121,13 +64087,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5101736915"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210143841"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -64386,8 +64347,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -64999,7 +64960,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65309,8 +65270,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -65962,8 +65923,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -66518,7 +66479,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Daffa Arrofi",
           "raw_affiliation_strings": [
             "Geoscience Department, College of Petroleum and Geosciences, King Fahd University of Petroleum; and Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
@@ -66611,12 +66572,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5004745453"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -67487,7 +67444,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67562,7 +67519,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
             "King Abdullah University of Science and Technology"
@@ -67766,12 +67723,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5030870212"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -68169,7 +68122,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68724,9 +68677,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hasan J Khan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -68741,6 +68695,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mobeen Murtaza",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -68755,6 +68710,7 @@
           "is_corresponding": false,
           "raw_author_name": "Israa Abu-Mahfouz",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -68769,15 +68725,14 @@
           "is_corresponding": false,
           "raw_author_name": "Muhammad Shahzad Kamal",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5046264836"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -68785,7 +68740,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3071789,
+        "value": 0.21724272,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69038,7 +68993,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69111,7 +69066,7 @@
             "ID",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ahmed Alshaibani",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia"
@@ -69229,20 +69184,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5020095913"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2303564,
+        "value": 0.2209446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70237,7 +70187,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70299,7 +70249,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
             "Physical Science and Engineering, King Abdullah University of Science and Technology, Thuwal, Makkah, Saudi Arabia"
@@ -70503,19 +70453,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5030870212"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25075988,
+        "value": 0.2416699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71891,7 +71837,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73284,7 +73230,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mobeen Murtaza",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Saudi Arabia"
@@ -73562,19 +73508,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5075168324"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20421546,
+        "value": 0.1963207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74554,7 +74496,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {

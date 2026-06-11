@@ -861,8 +861,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1021,7 +1021,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Conny Zeeb",
           "raw_affiliation_strings": [
             "Institute for Geoscience (IfG), University of Tübingen, Sigwartstraße 10, 72076, Tübingen, Germany"
@@ -1120,7 +1120,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I4210160020",
-              "display_name": "Ministry of Environment",
+              "display_name": "Ministry of Environment and Climate Change",
               "ror": "https://ror.org/04ck23c90",
               "country_code": "QA",
               "type": "government",
@@ -1215,23 +1215,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5020195655"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I8087733"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2690,
         "currency": "EUR",
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.5049,
+      "fwci": 1.5055,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.82573392,
+        "value": 0.82581551,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1690,7 +1686,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-03T09:05:47.796612",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1762,12 +1758,13 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
             "Ministry of Water & Electricity, Riyadh, Saudi Arabia",
             "Ministry of Water & Electricity"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Water & Electricity, Riyadh, Saudi Arabia",
@@ -1789,7 +1786,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -1807,6 +1804,7 @@
             "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
@@ -1851,6 +1849,7 @@
             "Gesellschaft für Internationale Zusammenarbeit (GIZ), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
             "Gesellschaft für Internationale Zusammenarbeit (GIZ)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Gesellschaft für Internationale Zusammenarbeit (GIZ), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
@@ -1874,7 +1873,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -1892,6 +1891,7 @@
             "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
@@ -1917,7 +1917,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -1935,6 +1935,7 @@
             "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
@@ -1978,6 +1979,7 @@
             "Abteilung Krustendynamik, Geozentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
             "Universität Erlangen"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Abteilung Krustendynamik, Geozentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
@@ -2001,7 +2003,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -2019,6 +2021,7 @@
             "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
@@ -2038,9 +2041,7 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047482366"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2490,
@@ -2048,11 +2049,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.4218,
+      "fwci": 2.4295,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86474936,
+        "value": 0.86522689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2411,7 +2412,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2483,7 +2484,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
             "GIZ International Services, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
@@ -2622,9 +2623,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5070429780"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2390,
@@ -2632,11 +2631,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.6842,
+      "fwci": 0.6845,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.74076013,
+        "value": 0.74086283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2922,8 +2921,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -2987,7 +2986,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-31T08:46:17.908082",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3034,7 +3033,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -3089,22 +3088,20 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047482366"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9969,
+      "fwci": 1.9962,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84171864,
+        "value": 0.84182395,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -3349,7 +3346,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3411,7 +3408,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0003-2053-3157",
@@ -3526,9 +3523,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5006410698"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -3536,7 +3531,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.05719942,
+        "value": 0.05712502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3860,8 +3855,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4334,7 +4329,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4384,12 +4379,13 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "H. Al Ajmi",
           "raw_affiliation_strings": [
             "Water Resources Development Department, Ministry of Water and Electricity, Riyadh, Saudi Arabia",
             "Ministry of Water and Electricity"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Water Resources Development Department, Ministry of Water and Electricity, Riyadh, Saudi Arabia",
@@ -4417,6 +4413,7 @@
             "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
             "Geozentrum Nordbayern"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Abteilung Krustendynamik, Geozentrum Nordbayern, Schlossgarten 5, 91054, Erlangen, Germany",
@@ -4442,7 +4439,7 @@
           "institutions": [
             {
               "id": "https://openalex.org/I31512782",
-              "display_name": "Technical University of Darmstadt",
+              "display_name": "Technische Universität Darmstadt",
               "ror": "https://ror.org/05n911h24",
               "country_code": "DE",
               "type": "education",
@@ -4460,6 +4457,7 @@
             "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstrasse 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstrasse 9, 64287, Darmstadt, Germany",
@@ -4504,6 +4502,7 @@
             "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
             "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
@@ -4521,22 +4520,20 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047482366"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3373,
+      "fwci": 1.3352,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.7782115,
+        "value": 0.77860432,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -4831,7 +4828,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8176,7 +8173,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [
             "University of Erlangen-Nuremberg"
@@ -8240,19 +8237,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078290557"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I181369854"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03431585,
+        "value": 0.03434594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8556,8 +8549,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8716,7 +8709,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8763,7 +8756,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -8818,9 +8811,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047482366"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -8828,7 +8819,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03450202,
+        "value": 0.03453193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9081,7 +9072,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9143,7 +9134,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
@@ -9198,9 +9189,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078290557"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -9208,7 +9197,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10337047,
+        "value": 0.10325398,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10096,7 +10085,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10158,7 +10147,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-5994-7547",
@@ -10213,9 +10202,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5078290557"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10223,7 +10210,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08050919,
+        "value": 0.08031824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10436,8 +10423,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10478,7 +10465,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10525,7 +10512,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10580,9 +10567,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047482366"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10590,7 +10575,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0367264,
+        "value": 0.03667863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10824,7 +10809,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10886,7 +10871,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Gustavo A. Chinchayan",
           "raw_affiliation_strings": [
             "Ray Oil & Gas INC, Muscat, Sultanate of Oman"
@@ -11349,19 +11334,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 13,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5012862594"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210114766"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86098983,
+        "value": 0.72098162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11691,8 +11672,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6469302177429199
+          "score": 0.6469302177429199,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -12216,7 +12197,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2026-05-18T00:00:00"
     },
     {
@@ -12278,7 +12259,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-5528-3728",
@@ -12393,9 +12374,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5074383190"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -12403,7 +12382,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07623713,
+        "value": 0.07618928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12659,7 +12638,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

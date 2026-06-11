@@ -4320,7 +4320,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Austin B. Bigley",
           "raw_affiliation_strings": [
             "Indapta Therapeutics, Houston, TX;"
@@ -4873,9 +4873,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 16,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5076161328"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3000,
@@ -4887,11 +4885,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 2.1273,
+      "fwci": 2.1276,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.87880891,
+        "value": 0.87882342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6261,7 +6259,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9555,7 +9553,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -9670,17 +9668,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5035815399"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8867,
+      "fwci": 2.8874,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.91489715,
+        "value": 0.91491832,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10231,7 +10227,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-26T13:28:51.108037",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10300,7 +10296,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Hammad Malik",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10355,17 +10351,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009697450"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6473,
+      "fwci": 3.6497,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.92011187,
+        "value": 0.92016688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11135,7 +11129,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11978,7 +11972,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Hammad Malik",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -12048,17 +12042,15 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009697450"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.7368,
+      "fwci": 5.5958,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.94216867,
+        "value": 0.94036934,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12890,7 +12882,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-28T09:10:13.091523",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15732,9 +15724,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad H. Malik",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15749,6 +15742,7 @@
           "is_corresponding": false,
           "raw_author_name": "Amer S. Alali",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15763,6 +15757,7 @@
           "is_corresponding": false,
           "raw_author_name": "Shalaleh Masoumi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15777,6 +15772,7 @@
           "is_corresponding": false,
           "raw_author_name": "Xue Zhou",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -15791,28 +15787,27 @@
           "is_corresponding": false,
           "raw_author_name": "Xinli Liu",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009697450"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6681,
+      "fwci": 0.6468,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.69538047,
+        "value": 0.69168565,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -16598,7 +16593,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17100,11 +17095,12 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abduljamiu Amao",
           "raw_affiliation_strings": [
             "king Fahd University of Petroleum and Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "king Fahd University of Petroleum and Minerals",
@@ -17141,6 +17137,7 @@
           "raw_affiliation_strings": [
             "Univ of King Fahd -Petrol & Mineral Lib, Dean of Library Affairs"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Univ of King Fahd -Petrol & Mineral Lib, Dean of Library Affairs",
@@ -17162,6 +17159,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -17191,6 +17189,7 @@
           "raw_affiliation_strings": [
             "Dartmouth College Department of Earth Sciences"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dartmouth College Department of Earth Sciences",
@@ -17227,6 +17226,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -17263,6 +17263,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -17276,7 +17277,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
+            "display_name": "Khalid Al‐Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -17299,6 +17300,7 @@
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum & Minerals"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -17312,19 +17314,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5027197211"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11071876,
+        "value": 0.10634418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17652,7 +17650,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -19077,7 +19075,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Muhammad Hammad Malik",
           "raw_affiliation_strings": [
             "Department of Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
@@ -19281,19 +19279,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009697450"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05764791,
+        "value": 0.05687954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20347,7 +20341,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20429,7 +20423,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Fatima Dagher",
           "raw_affiliation_strings": [
             "1University of Houston, Houston, TX,"
@@ -20677,19 +20671,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5064019199"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I44461941"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14554542,
+        "value": 0.13814807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22082,7 +22072,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {

@@ -14,9 +14,9 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 117,
-    "cited_by_count": 2844,
+    "cited_by_count": 2847,
     "summary_stats": {
-      "2yr_mean_citedness": 1.3333333333333333,
+      "2yr_mean_citedness": 1.4166666666666667,
       "h_index": 31,
       "i10_index": 55
     },
@@ -290,7 +290,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003024,
+        "value": 0.0003023,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -307,7 +307,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002781,
+        "value": 0.000278,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -324,7 +324,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001777,
+        "value": 0.0001776,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -506,7 +506,7 @@
         "year": 2018,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 144
+        "cited_by_count": 145
       },
       {
         "year": 2019,
@@ -530,7 +530,7 @@
         "year": 2022,
         "works_count": 10,
         "oa_works_count": 6,
-        "cited_by_count": 115
+        "cited_by_count": 116
       },
       {
         "year": 2023,
@@ -542,7 +542,7 @@
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 13
+        "cited_by_count": 14
       },
       {
         "year": 2025,
@@ -568,7 +568,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-06-09T12:27:22",
+    "updated_date": "2026-06-10T12:23:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -925,9 +925,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5299999713897705,
-          "display_name": "Climate action"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -1126,11 +1126,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 14.5944,
+      "fwci": 14.5991,
       "has_fulltext": false,
-      "cited_by_count": 167,
+      "cited_by_count": 168,
       "citation_normalized_percentile": {
-        "value": 0.99505376,
+        "value": 0.99505536,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1415,9 +1415,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -1743,7 +1743,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -1798,7 +1798,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-05T09:01:59.212387",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1845,7 +1845,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
@@ -1870,9 +1870,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -2152,9 +2150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -2247,7 +2245,7 @@
           "cited_by_count": 17
         }
       ],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3501,11 +3499,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 105.7157,
+      "fwci": 105.7238,
       "has_fulltext": false,
-      "cited_by_count": 96,
+      "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.99945253,
+        "value": 0.99945262,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3991,7 +3989,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2025,
@@ -4010,7 +4008,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-09T15:46:55.921056",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4124,11 +4122,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 13.4632,
+      "fwci": 13.4702,
       "has_fulltext": false,
-      "cited_by_count": 93,
+      "cited_by_count": 94,
       "citation_normalized_percentile": {
-        "value": 0.99293215,
+        "value": 0.99293643,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4495,7 +4493,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -4542,7 +4540,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-29T09:21:14.243279",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4630,6 +4628,7 @@
           "raw_affiliation_strings": [
             "Statoil ASA, 4035 Stavanger, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Norway",
@@ -4666,6 +4665,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Environment, Franklin & Marshall College, Lancaster, PA 17604-3003, USA",
@@ -4702,6 +4702,7 @@
           "raw_affiliation_strings": [
             "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geosciences, Clark Science Center, Smith College, 44 College Lane, Northampton, MA 01063, USA",
@@ -4727,11 +4728,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 4.972,
+      "fwci": 5.0071,
       "has_fulltext": false,
-      "cited_by_count": 68,
+      "cited_by_count": 70,
       "citation_normalized_percentile": {
-        "value": 0.94914353,
+        "value": 0.94957184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4947,9 +4948,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -5051,11 +5052,11 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2024,
@@ -5086,7 +5087,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5420,9 +5421,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -6504,9 +6505,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -7011,9 +7012,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -8059,9 +8060,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -9163,9 +9164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -9841,9 +9842,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -11459,9 +11460,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -12209,9 +12210,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -12489,11 +12490,12 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Max Wisshak",
           "raw_affiliation_strings": [
             "Ma rine Re search De part ment, Senckenberg am Meer, 26446 Wilhelmshaven, Ger many;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ma rine Re search De part ment, Senckenberg am Meer, 26446 Wilhelmshaven, Ger many;",
@@ -12517,6 +12519,7 @@
           "raw_affiliation_strings": [
             "Nat u ral His tory Mu seum Vi enna, 1010 Vi enna, Aus tria;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Nat u ral His tory Mu seum Vi enna, 1010 Vi enna, Aus tria;",
@@ -12563,6 +12566,7 @@
             "Geomuseum of the Uni ver sity of Mnster, 48149 Mnster, Ger many;",
             "Geomuseum of the Uni ver sity of Münster, 48149 Münster, Ger many;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geomuseum of the Uni ver sity of Mnster, 48149 Mnster, Ger many;",
@@ -12605,6 +12609,7 @@
           "raw_affiliation_strings": [
             "Statoil ASA, 4035 Stavanger, Nor way;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Nor way;",
@@ -12641,6 +12646,7 @@
           "raw_affiliation_strings": [
             "VNG Norge, 0252 Oslo, Nor way;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "VNG Norge, 0252 Oslo, Nor way;",
@@ -12659,16 +12665,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4387155664",
-              "display_name": "Natural History Museum Maastricht",
-              "ror": "https://ror.org/0488nj033",
-              "country_code": null,
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I4387155664"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2800363616",
               "display_name": "Staatliches Naturhistorisches Museum",
               "ror": "https://ror.org/03ae9x524",
@@ -12676,6 +12672,16 @@
               "type": "archive",
               "lineage": [
                 "https://openalex.org/I2800363616"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387155664",
+              "display_name": "Natural History Museum Maastricht",
+              "ror": "https://ror.org/0488nj033",
+              "country_code": null,
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I4387155664"
               ]
             }
           ],
@@ -12687,6 +12693,7 @@
           "raw_affiliation_strings": [
             "Natuurhistorisch Mu seum Maastricht, 6211 KJ Maastricht, the Neth er lands;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Natuurhistorisch Mu seum Maastricht, 6211 KJ Maastricht, the Neth er lands;",
@@ -12726,6 +12733,7 @@
             "Mu seum fr Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;",
             "Mu seum für Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Mu seum fr Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;",
@@ -12755,6 +12763,7 @@
           "raw_affiliation_strings": [
             "8 Frederikssund Gym na sium, 3600 Frederikssund, Den mark;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "8 Frederikssund Gym na sium, 3600 Frederikssund, Den mark;",
@@ -12766,19 +12775,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013751176"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210141534"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.9403,
+      "fwci": 13.551,
       "has_fulltext": true,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.9905365,
+        "value": 0.99103064,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -13077,9 +13082,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -13641,7 +13646,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13999,9 +14004,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -15021,9 +15026,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -15763,7 +15768,7 @@
           "countries": [
             "NO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
             "Statoil ASA Exploration Research Siliciclastic Plays and Reservoirs Reservoir Prediction 5020 Bergen Norway"
@@ -15856,23 +15861,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 4050,
         "currency": "USD",
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 6.5601,
+      "fwci": 6.5766,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.96473657,
+        "value": 0.96485556,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16208,9 +16209,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -16949,7 +16950,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17295,9 +17296,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -17946,9 +17947,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75,
-          "display_name": "Life below water"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -19001,9 +19002,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -19478,9 +19479,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -20528,9 +20529,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -21340,12 +21341,13 @@
           "countries": [
             "NO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "D. Knaust",
           "raw_affiliation_strings": [
             "Statoil ASA, N-4035, Stavanger, Norway",
             "(Statoil ASA)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Statoil ASA, N-4035, Stavanger, Norway",
@@ -21391,6 +21393,7 @@
             "Geological Institute of Russian Academy of Sciences, Pyzhevsky per. 7, Moscow, 119017, Russia",
             "Geological Institute of Russian Academy of Sciences"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Institute of Russian Academy of Sciences, Pyzhevsky per. 7, Moscow, 119017, Russia",
@@ -21410,19 +21413,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8265,
+      "fwci": 2.9198,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.87890625,
+        "value": 0.88304848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21652,9 +21651,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.41999998688697815,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -22511,7 +22510,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22949,9 +22948,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -23589,9 +23588,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -23789,7 +23788,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Andrea Baucon",
           "raw_affiliation_strings": [
             "Università degli Studi di Milano, Dipartimento di Scienze della Terra, Via Mangiagalli, Milano, Italy"
@@ -24258,16 +24257,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I921990950",
-              "display_name": "University of Colorado Denver",
-              "ror": "https://ror.org/02hh7en24",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I921990950"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2801665231",
               "display_name": "Denver Museum of Nature and Science",
               "ror": "https://ror.org/003zqrx63",
@@ -24275,6 +24264,16 @@
               "type": "archive",
               "lineage": [
                 "https://openalex.org/I2801665231"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I921990950",
+              "display_name": "University of Colorado Denver",
+              "ror": "https://ror.org/02hh7en24",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I921990950"
               ]
             }
           ],
@@ -24417,6 +24416,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I202391551",
+              "display_name": "Czech Academy of Sciences",
+              "ror": "https://ror.org/053avzc18",
+              "country_code": "CZ",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I202391551"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210141937",
               "display_name": "Czech Academy of Sciences, Institute of Geology",
               "ror": "https://ror.org/04wh80b80",
@@ -24425,16 +24434,6 @@
               "lineage": [
                 "https://openalex.org/I202391551",
                 "https://openalex.org/I4210141937"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I202391551",
-              "display_name": "Czech Academy of Sciences",
-              "ror": "https://ror.org/053avzc18",
-              "country_code": "CZ",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I202391551"
               ]
             }
           ],
@@ -24784,6 +24783,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I126596746",
+              "display_name": "Jagiellonian University",
+              "ror": "https://ror.org/03bqmcz70",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126596746"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210128123",
               "display_name": "Instytut Nauk Geologicznych",
               "ror": "https://ror.org/02yxxe041",
@@ -24792,16 +24801,6 @@
               "lineage": [
                 "https://openalex.org/I4210128123",
                 "https://openalex.org/I99542240"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I126596746",
-              "display_name": "Jagiellonian University",
-              "ror": "https://ror.org/03bqmcz70",
-              "country_code": "PL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126596746"
               ]
             }
           ],
@@ -24866,7 +24865,7 @@
           "author": {
             "id": "https://openalex.org/A5067703574",
             "display_name": "Yiming Gong",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-2659-4244"
           },
           "institutions": [
             {
@@ -24976,19 +24975,15 @@
       "institutions": [],
       "countries_distinct_count": 15,
       "institutions_distinct_count": 32,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5045926683"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I189158943"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5876,
+      "fwci": 3.6043,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.92435302,
+        "value": 0.92470277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25435,7 +25430,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-29T09:21:14.243279",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26069,9 +26064,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -26641,9 +26636,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -27211,9 +27206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -27698,14 +27693,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.47999998927116394,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.47999998927116394
         },
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104,
-          "display_name": "Climate action"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -27877,9 +27872,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Colin C. Turner",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27894,6 +27890,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bryan T. Cronin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27908,6 +27905,7 @@
           "is_corresponding": false,
           "raw_author_name": "Leslie A. Riley",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27922,6 +27920,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stefano Patruno",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27936,6 +27935,7 @@
           "is_corresponding": false,
           "raw_author_name": "William T. L. R. Reid",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27950,6 +27950,7 @@
           "is_corresponding": false,
           "raw_author_name": "Silvan Hoth",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27964,6 +27965,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27978,6 +27980,7 @@
           "is_corresponding": false,
           "raw_author_name": "Simon Allerton",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -27992,6 +27995,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mark A. Jones",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -28006,23 +28010,22 @@
           "is_corresponding": false,
           "raw_author_name": "Christopher A.-L. Jackson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 10,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5109994763"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 18.42,
+      "fwci": 18.8722,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.99651203,
+        "value": 0.99660326,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -28314,9 +28317,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -29312,7 +29315,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -29618,9 +29621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -29830,16 +29833,16 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 3.8344,
+      "fwci": 3.8358,
       "has_fulltext": false,
-      "cited_by_count": 26,
+      "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.9375275,
+        "value": 0.93755497,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -30057,9 +30060,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -30748,7 +30751,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -30767,7 +30770,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31224,9 +31227,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -31697,9 +31700,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -32328,9 +32331,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -32952,9 +32955,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -33861,9 +33864,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -34119,8 +34122,8 @@
           "raw_author_name": "Paul Baville",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5686-5554",
           "affiliations": [
@@ -34133,14 +34136,14 @@
               ]
             },
             {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -34363,8 +34366,8 @@
           "raw_author_name": "Christophe Antoine",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -34377,14 +34380,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -34510,8 +34513,8 @@
           "raw_author_name": "Guillaume Caumon",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "GeoRessources",
-            "Ecole Nationale Supérieure de Géologie"
+            "Ecole Nationale Supérieure de Géologie",
+            "GeoRessources"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-7828-4600",
           "affiliations": [
@@ -34524,14 +34527,14 @@
               ]
             },
             {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             }
           ]
         }
@@ -34553,11 +34556,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3896,
+      "fwci": 1.3898,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81941748,
+        "value": 0.81944165,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34878,9 +34881,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -35003,7 +35006,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-10T14:10:52.464848",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35319,9 +35322,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -35993,9 +35996,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -37161,9 +37164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -38270,9 +38273,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -39055,9 +39058,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -39453,9 +39456,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -39975,9 +39978,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.46000000834465027,
-          "display_name": "Life in Land"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -40456,6 +40459,671 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4404386899",
+      "doi": "https://doi.org/10.1016/j.palaeo.2024.112604",
+      "title": "Skolithos piperock from the Lower Devonian storm beds",
+      "display_name": "Skolithos piperock from the Lower Devonian storm beds",
+      "publication_year": 2024,
+      "publication_date": "2024-11-14",
+      "ids": {
+        "openalex": "https://openalex.org/W4404386899",
+        "doi": "https://doi.org/10.1016/j.palaeo.2024.112604"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.palaeo.2024.112604",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.palaeo.2024.112604",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S159210951",
+          "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
+          "issn_l": "0031-0182",
+          "issn": [
+            "0031-0182",
+            "1872-616X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032297330",
+            "display_name": "Daniel Sedorko",
+            "orcid": "https://orcid.org/0000-0002-9324-3460"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122140584",
+              "display_name": "Universidade Federal do Rio de Janeiro",
+              "ror": "https://ror.org/03490as77",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Daniel Sedorko",
+          "raw_affiliation_strings": [
+            "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Equinor ASA, 4035 Stavanger, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Equinor ASA, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114652490",
+            "display_name": "Marcelo Nery",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122140584",
+              "display_name": "Universidade Federal do Rio de Janeiro",
+              "ror": "https://ror.org/03490as77",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marcelo Nery Junior",
+          "raw_affiliation_strings": [
+            "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021355737",
+            "display_name": "Gabriel E. B. de Barros",
+            "orcid": "https://orcid.org/0000-0002-6917-3538"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I177909021",
+              "display_name": "Universidade Federal de São Carlos",
+              "ror": "https://ror.org/00qdc6m37",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177909021"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gabriel Eduardo Barea de Barros",
+          "raw_affiliation_strings": [
+            "Programa de Pós-Graduação em Ecologia e Recursos Naturais (PPGERN), Universidade Federal de São Carlos (UFSCar—São Carlos Campus), São Carlos, SP, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Programa de Pós-Graduação em Ecologia e Recursos Naturais (PPGERN), Universidade Federal de São Carlos (UFSCar—São Carlos Campus), São Carlos, SP, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I177909021"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064726696",
+            "display_name": "Victor Rodrigues Ribeiro",
+            "orcid": "https://orcid.org/0000-0002-6290-5599"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I879563668",
+              "display_name": "Universidade Estadual Paulista (Unesp)",
+              "ror": "https://ror.org/00987cb86",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Victor Ribeiro",
+          "raw_affiliation_strings": [
+            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Felipe Nascimento Sousa",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I879563668",
+              "display_name": "Universidade Estadual Paulista (Unesp)",
+              "ror": "https://ror.org/00987cb86",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Felipe Nascimento Sousa",
+          "raw_affiliation_strings": [
+            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023140085",
+            "display_name": "Renato Pirani Ghilardi",
+            "orcid": "https://orcid.org/0000-0003-0410-8011"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I879563668",
+              "display_name": "Universidade Estadual Paulista (Unesp)",
+              "ror": "https://ror.org/00987cb86",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Renato Pirani Ghilardi",
+          "raw_affiliation_strings": [
+            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I879563668"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033809288",
+            "display_name": "Leonardo Borghi",
+            "orcid": "https://orcid.org/0000-0002-3296-2840"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122140584",
+              "display_name": "Universidade Federal do Rio de Janeiro",
+              "ror": "https://ror.org/03490as77",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Leonardo Borghi",
+          "raw_affiliation_strings": [
+            "Departamento de Geologia, Universidade Federal do Rio de Janeiro (UFRJ), Cidade Universitária, Rio de Janeiro, RJ, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departamento de Geologia, Universidade Federal do Rio de Janeiro (UFRJ), Cidade Universitária, Rio de Janeiro, RJ, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I122140584"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5032297330"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I122140584"
+      ],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 2.2489,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.86648412,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "656",
+        "issue": null,
+        "first_page": "112604",
+        "last_page": "112604"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8861141800880432
+        },
+        {
+          "id": "https://openalex.org/keywords/devonian",
+          "display_name": "Devonian",
+          "score": 0.7980880737304688
+        },
+        {
+          "id": "https://openalex.org/keywords/storm",
+          "display_name": "Storm",
+          "score": 0.6168102622032166
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5330501794815063
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.29338037967681885
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8861141800880432
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.7980880737304688
+        },
+        {
+          "id": "https://openalex.org/C105306849",
+          "wikidata": "https://www.wikidata.org/wiki/Q81054",
+          "display_name": "Storm",
+          "level": 2,
+          "score": 0.6168102622032166
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5330501794815063
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.29338037967681885
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.palaeo.2024.112604",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.palaeo.2024.112604",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S159210951",
+            "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
+            "issn_l": "0031-0182",
+            "issn": [
+              "0031-0182",
+              "1872-616X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 55,
+      "referenced_works": [
+        "https://openalex.org/W1526445175",
+        "https://openalex.org/W1529976899",
+        "https://openalex.org/W1668826316",
+        "https://openalex.org/W1970644949",
+        "https://openalex.org/W1972804735",
+        "https://openalex.org/W1981546302",
+        "https://openalex.org/W1993827688",
+        "https://openalex.org/W1994549531",
+        "https://openalex.org/W2012826231",
+        "https://openalex.org/W2014321288",
+        "https://openalex.org/W2021627647",
+        "https://openalex.org/W2025796636",
+        "https://openalex.org/W2035986698",
+        "https://openalex.org/W2040093790",
+        "https://openalex.org/W2044778400",
+        "https://openalex.org/W2046121361",
+        "https://openalex.org/W2050952291",
+        "https://openalex.org/W2058912970",
+        "https://openalex.org/W2082318604",
+        "https://openalex.org/W2095323803",
+        "https://openalex.org/W2095650151",
+        "https://openalex.org/W2096745822",
+        "https://openalex.org/W2165117122",
+        "https://openalex.org/W2168622763",
+        "https://openalex.org/W2171038320",
+        "https://openalex.org/W2171429034",
+        "https://openalex.org/W2173216887",
+        "https://openalex.org/W2179475207",
+        "https://openalex.org/W2211941913",
+        "https://openalex.org/W2293719281",
+        "https://openalex.org/W2755122184",
+        "https://openalex.org/W2770099309",
+        "https://openalex.org/W2792654660",
+        "https://openalex.org/W2884225811",
+        "https://openalex.org/W2903843848",
+        "https://openalex.org/W2910671810",
+        "https://openalex.org/W2945784220",
+        "https://openalex.org/W2994587640",
+        "https://openalex.org/W3007266482",
+        "https://openalex.org/W3015418421",
+        "https://openalex.org/W3084108977",
+        "https://openalex.org/W3134522709",
+        "https://openalex.org/W3142346081",
+        "https://openalex.org/W3163911262",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W4212951877",
+        "https://openalex.org/W4235785478",
+        "https://openalex.org/W4311774093",
+        "https://openalex.org/W4380988685",
+        "https://openalex.org/W4397031633",
+        "https://openalex.org/W4399273594",
+        "https://openalex.org/W6601969992",
+        "https://openalex.org/W6604989246",
+        "https://openalex.org/W6646595914",
+        "https://openalex.org/W6866482012"
+      ],
+      "related_works": [
+        "https://openalex.org/W2068230831",
+        "https://openalex.org/W2905921901",
+        "https://openalex.org/W2355854193",
+        "https://openalex.org/W2188111331",
+        "https://openalex.org/W2348770016",
+        "https://openalex.org/W2588374251",
+        "https://openalex.org/W2525052636",
+        "https://openalex.org/W1535683959",
+        "https://openalex.org/W2745984289",
+        "https://openalex.org/W2739966413"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-11T09:08:48.828518",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4412879343",
       "doi": "https://doi.org/10.1016/j.palaeo.2025.113151",
       "title": "Skolithos linearis from the early Palaeozoic: The burrow of a priapulid?",
@@ -40539,6 +41207,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA, 4035 Stavanger, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA, 4035 Stavanger, Norway",
@@ -40564,11 +41233,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 11.7588,
+      "fwci": 12.6097,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.9800472,
+        "value": 0.98312306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40863,10 +41532,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-17T18:11:37.981687",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41355,9 +42024,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -41931,9 +42600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -42733,9 +43402,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -43250,9 +43919,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -44377,9 +45046,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.44999998807907104,
-          "display_name": "Life in Land"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [
@@ -45560,9 +46229,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -46924,9 +47593,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -47503,9 +48172,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [
@@ -47988,7 +48657,7 @@
           "countries": [
             "DZ"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdelkrim Nemra",
           "raw_affiliation_strings": [
             "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria"
@@ -48244,23 +48913,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103165750"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I157169809"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2290,
         "currency": "EUR",
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 1.0961,
+      "fwci": 1.0477,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.75258155,
+        "value": 0.74430851,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48608,664 +49273,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-19T19:40:27.379048",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4404386899",
-      "doi": "https://doi.org/10.1016/j.palaeo.2024.112604",
-      "title": "Skolithos piperock from the Lower Devonian storm beds",
-      "display_name": "Skolithos piperock from the Lower Devonian storm beds",
-      "publication_year": 2024,
-      "publication_date": "2024-11-14",
-      "ids": {
-        "openalex": "https://openalex.org/W4404386899",
-        "doi": "https://doi.org/10.1016/j.palaeo.2024.112604"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.palaeo.2024.112604",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.palaeo.2024.112604",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S159210951",
-          "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
-          "issn_l": "0031-0182",
-          "issn": [
-            "0031-0182",
-            "1872-616X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5032297330",
-            "display_name": "Daniel Sedorko",
-            "orcid": "https://orcid.org/0000-0002-9324-3460"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I122140584",
-              "display_name": "Universidade Federal do Rio de Janeiro",
-              "ror": "https://ror.org/03490as77",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Daniel Sedorko",
-          "raw_affiliation_strings": [
-            "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Equinor ASA, 4035 Stavanger, Norway"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Equinor ASA, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114652490",
-            "display_name": "Marcelo Nery",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I122140584",
-              "display_name": "Universidade Federal do Rio de Janeiro",
-              "ror": "https://ror.org/03490as77",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Marcelo Nery Junior",
-          "raw_affiliation_strings": [
-            "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Museu Nacional, Universidade Federal do Rio de Janeiro (UFRJ), Quinta da Boa Vista - São Cristóvão, Rio de Janeiro, RJ, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021355737",
-            "display_name": "Gabriel E. B. de Barros",
-            "orcid": "https://orcid.org/0000-0002-6917-3538"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I177909021",
-              "display_name": "Universidade Federal de São Carlos",
-              "ror": "https://ror.org/00qdc6m37",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177909021"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Gabriel Eduardo Barea de Barros",
-          "raw_affiliation_strings": [
-            "Programa de Pós-Graduação em Ecologia e Recursos Naturais (PPGERN), Universidade Federal de São Carlos (UFSCar—São Carlos Campus), São Carlos, SP, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Programa de Pós-Graduação em Ecologia e Recursos Naturais (PPGERN), Universidade Federal de São Carlos (UFSCar—São Carlos Campus), São Carlos, SP, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I177909021"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064726696",
-            "display_name": "Victor Rodrigues Ribeiro",
-            "orcid": "https://orcid.org/0000-0002-6290-5599"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I879563668",
-              "display_name": "Universidade Estadual Paulista (Unesp)",
-              "ror": "https://ror.org/00987cb86",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Victor Ribeiro",
-          "raw_affiliation_strings": [
-            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Felipe Nascimento Sousa",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I879563668",
-              "display_name": "Universidade Estadual Paulista (Unesp)",
-              "ror": "https://ror.org/00987cb86",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Felipe Nascimento Sousa",
-          "raw_affiliation_strings": [
-            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023140085",
-            "display_name": "Renato Pirani Ghilardi",
-            "orcid": "https://orcid.org/0000-0003-0410-8011"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I879563668",
-              "display_name": "Universidade Estadual Paulista (Unesp)",
-              "ror": "https://ror.org/00987cb86",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Renato Pirani Ghilardi",
-          "raw_affiliation_strings": [
-            "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculdade de Ciências de Bauru, Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, SP, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I879563668"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033809288",
-            "display_name": "Leonardo Borghi",
-            "orcid": "https://orcid.org/0000-0002-3296-2840"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I122140584",
-              "display_name": "Universidade Federal do Rio de Janeiro",
-              "ror": "https://ror.org/03490as77",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Leonardo Borghi",
-          "raw_affiliation_strings": [
-            "Departamento de Geologia, Universidade Federal do Rio de Janeiro (UFRJ), Cidade Universitária, Rio de Janeiro, RJ, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Departamento de Geologia, Universidade Federal do Rio de Janeiro (UFRJ), Cidade Universitária, Rio de Janeiro, RJ, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I122140584"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5032297330"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I122140584"
-      ],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
-      "apc_paid": null,
-      "fwci": 1.9761,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.84977505,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "656",
-        "issue": null,
-        "first_page": "112604",
-        "last_page": "112604"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9991999864578247,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9979000091552734,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8861141800880432
-        },
-        {
-          "id": "https://openalex.org/keywords/devonian",
-          "display_name": "Devonian",
-          "score": 0.7980880737304688
-        },
-        {
-          "id": "https://openalex.org/keywords/storm",
-          "display_name": "Storm",
-          "score": 0.6168102622032166
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5330501794815063
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.29338037967681885
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8861141800880432
-        },
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.7980880737304688
-        },
-        {
-          "id": "https://openalex.org/C105306849",
-          "wikidata": "https://www.wikidata.org/wiki/Q81054",
-          "display_name": "Storm",
-          "level": 2,
-          "score": 0.6168102622032166
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5330501794815063
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.29338037967681885
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.palaeo.2024.112604",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.palaeo.2024.112604",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S159210951",
-            "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
-            "issn_l": "0031-0182",
-            "issn": [
-              "0031-0182",
-              "1872-616X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 55,
-      "referenced_works": [
-        "https://openalex.org/W1526445175",
-        "https://openalex.org/W1529976899",
-        "https://openalex.org/W1668826316",
-        "https://openalex.org/W1970644949",
-        "https://openalex.org/W1972804735",
-        "https://openalex.org/W1981546302",
-        "https://openalex.org/W1993827688",
-        "https://openalex.org/W1994549531",
-        "https://openalex.org/W2012826231",
-        "https://openalex.org/W2014321288",
-        "https://openalex.org/W2021627647",
-        "https://openalex.org/W2025796636",
-        "https://openalex.org/W2035986698",
-        "https://openalex.org/W2040093790",
-        "https://openalex.org/W2044778400",
-        "https://openalex.org/W2046121361",
-        "https://openalex.org/W2050952291",
-        "https://openalex.org/W2058912970",
-        "https://openalex.org/W2082318604",
-        "https://openalex.org/W2095323803",
-        "https://openalex.org/W2095650151",
-        "https://openalex.org/W2096745822",
-        "https://openalex.org/W2165117122",
-        "https://openalex.org/W2168622763",
-        "https://openalex.org/W2171038320",
-        "https://openalex.org/W2171429034",
-        "https://openalex.org/W2173216887",
-        "https://openalex.org/W2179475207",
-        "https://openalex.org/W2211941913",
-        "https://openalex.org/W2293719281",
-        "https://openalex.org/W2755122184",
-        "https://openalex.org/W2770099309",
-        "https://openalex.org/W2792654660",
-        "https://openalex.org/W2884225811",
-        "https://openalex.org/W2903843848",
-        "https://openalex.org/W2910671810",
-        "https://openalex.org/W2945784220",
-        "https://openalex.org/W2994587640",
-        "https://openalex.org/W3007266482",
-        "https://openalex.org/W3015418421",
-        "https://openalex.org/W3084108977",
-        "https://openalex.org/W3134522709",
-        "https://openalex.org/W3142346081",
-        "https://openalex.org/W3163911262",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W4212951877",
-        "https://openalex.org/W4235785478",
-        "https://openalex.org/W4311774093",
-        "https://openalex.org/W4380988685",
-        "https://openalex.org/W4397031633",
-        "https://openalex.org/W4399273594",
-        "https://openalex.org/W6601969992",
-        "https://openalex.org/W6604989246",
-        "https://openalex.org/W6646595914",
-        "https://openalex.org/W6866482012"
-      ],
-      "related_works": [
-        "https://openalex.org/W2068230831",
-        "https://openalex.org/W2905921901",
-        "https://openalex.org/W2355854193",
-        "https://openalex.org/W2188111331",
-        "https://openalex.org/W2348770016",
-        "https://openalex.org/W2588374251",
-        "https://openalex.org/W2525052636",
-        "https://openalex.org/W1535683959",
-        "https://openalex.org/W2745984289",
-        "https://openalex.org/W2739966413"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49667,9 +49675,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -50516,9 +50524,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -51014,9 +51022,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.5699999928474426,
-          "display_name": "Zero hunger"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -52039,9 +52047,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6399999856948853,
-          "display_name": "Life in Land"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -52462,9 +52470,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -52673,7 +52681,7 @@
           "countries": [
             "PL"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Michał Stachacz",
           "raw_affiliation_strings": [
             "Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland"
@@ -52784,20 +52792,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5041231572"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I126596746",
-        "https://openalex.org/I4210128123"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8163,
+      "fwci": 1.8169,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83062033,
+        "value": 0.83069481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53087,9 +53090,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [
@@ -53689,7 +53692,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54145,9 +54148,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -54980,9 +54983,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -55610,9 +55613,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -55643,6 +55647,7 @@
             "Mineralogisches Institut, Ernst-Moritz-Arndt-Universität Greifswald, F.-L.-Jahn-Str. 17 a, D-17489, Greifswald",
             "Mineralogisches Institut, Ernst-Moritz-Arndt-Universität Greifswald, Greifswald,"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Mineralogisches Institut, Ernst-Moritz-Arndt-Universität Greifswald, F.-L.-Jahn-Str. 17 a, D-17489, Greifswald",
@@ -55662,9 +55667,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2790,
@@ -55672,11 +55675,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 0.708,
+      "fwci": 0.7095,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.64017186,
+        "value": 0.64148219,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56064,7 +56067,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56134,11 +56137,12 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "D KNAUST",
           "raw_affiliation_strings": [
             "Geomodeling AS, Prof. Olav Hanssensvei 7A, Postboks 8034, N-4068 Stavanger, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geomodeling AS, Prof. Olav Hanssensvei 7A, Postboks 8034, N-4068 Stavanger, Norway",
@@ -56173,6 +56177,7 @@
           "raw_affiliation_strings": [
             "Martin-Luther-Universität Halle-Wittenberg, Fachbereich Geowissenschaften, Institut für Geologische Wissenschaften und Geiseltalmuseum, von-Seckendorff-Platz 3, D-01620 Halle (Saale), Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Martin-Luther-Universität Halle-Wittenberg, Fachbereich Geowissenschaften, Institut für Geologische Wissenschaften und Geiseltalmuseum, von-Seckendorff-Platz 3, D-01620 Halle (Saale), Germany",
@@ -56186,9 +56191,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3080,
@@ -56196,16 +56199,16 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.6445,
+      "fwci": 1.653,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81669794,
+        "value": 0.81799591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -56399,9 +56402,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -56478,7 +56481,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56874,9 +56877,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -57522,9 +57525,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -57755,9 +57758,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Liya Zhang",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -57772,6 +57776,7 @@
           "is_corresponding": false,
           "raw_author_name": "Luis A. Buatois",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -57786,6 +57791,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
@@ -57796,11 +57802,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7206,
+      "fwci": 1.7216,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.84550941,
+        "value": 0.84559287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58085,9 +58091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -58843,7 +58849,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59168,9 +59174,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -59698,9 +59704,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -60715,9 +60721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -61557,9 +61563,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -62611,9 +62617,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -63375,7 +63381,7 @@
           "countries": [
             "DK"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Kasper H. Blinkenberg",
           "raw_affiliation_strings": [
             "1 Department of Geosciences and Natural Resource Management, University of Copenhagen, Øster Voldgade 10, 1350 Copenhagen, Denmark",
@@ -63535,13 +63541,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5016316987"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I124055696",
-        "https://openalex.org/I4210151315"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.4202,
@@ -63834,9 +63835,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -64541,7 +64542,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-03T06:16:58.514037",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64894,9 +64895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -66259,9 +66260,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -66720,9 +66721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -67270,9 +67271,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Luca G. Costamagna",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -67287,23 +67289,22 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5041413559"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2151,
+      "fwci": 0.2186,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.49976717,
+        "value": 0.508303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67538,9 +67539,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -68217,7 +68218,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68591,9 +68592,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -69674,9 +69675,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137,
-          "display_name": "Life in Land"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -70377,9 +70378,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -71324,7 +71325,7 @@
             "CN",
             "NO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Yazhou Hu",
           "raw_affiliation_strings": [
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
@@ -71394,22 +71395,22 @@
           "is_corresponding": false,
           "raw_author_name": "Luke C. Strotz",
           "raw_affiliation_strings": [
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8818-1832",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -71461,22 +71462,22 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -71595,22 +71596,22 @@
           "is_corresponding": false,
           "raw_author_name": "Yue Liang",
           "raw_affiliation_strings": [
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -71686,14 +71687,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5101668666"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I37802460",
-        "https://openalex.org/I4391767698",
-        "https://openalex.org/I49324905"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 500,
         "currency": "EUR",
@@ -71704,11 +71699,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 0.7616,
+      "fwci": 0.74,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81412402,
+        "value": 0.81151773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72773,7 +72768,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72855,11 +72850,12 @@
           "countries": [
             "NO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
             "Stavanger"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Stavanger",
@@ -72883,6 +72879,7 @@
           "raw_affiliation_strings": [
             "Copenhagen"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Copenhagen",
@@ -72894,12 +72891,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I92008406"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -73034,7 +73027,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -73491,9 +73484,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -75272,9 +75265,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -76227,9 +76220,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Kerrie L. Bann",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76244,6 +76238,7 @@
           "is_corresponding": false,
           "raw_author_name": "Markus Bertling",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76258,6 +76253,7 @@
           "is_corresponding": false,
           "raw_author_name": "Arnaud Botquelen",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76272,6 +76268,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bernard P. Boudreau",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76286,6 +76283,7 @@
           "is_corresponding": false,
           "raw_author_name": "Richard G. Bromley",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76300,6 +76298,7 @@
           "is_corresponding": false,
           "raw_author_name": "Luis Alberto Buatois",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76314,6 +76313,7 @@
           "is_corresponding": false,
           "raw_author_name": "Gerhard C. Cadée",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76328,6 +76328,7 @@
           "is_corresponding": false,
           "raw_author_name": "H. Allen Curran",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76342,6 +76343,7 @@
           "is_corresponding": false,
           "raw_author_name": "Lynn T. Dafoe",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76356,6 +76358,7 @@
           "is_corresponding": false,
           "raw_author_name": "Timothy M. Demko",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76370,6 +76373,7 @@
           "is_corresponding": false,
           "raw_author_name": "Kelly M. Dorgan",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76384,6 +76388,7 @@
           "is_corresponding": false,
           "raw_author_name": "A.A. Ekdale",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76398,6 +76403,7 @@
           "is_corresponding": false,
           "raw_author_name": "Michael J. Everhart",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76412,6 +76418,7 @@
           "is_corresponding": false,
           "raw_author_name": "Christian Gaillard",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76426,6 +76433,7 @@
           "is_corresponding": false,
           "raw_author_name": "Marcos Gektidis",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76440,6 +76448,7 @@
           "is_corresponding": false,
           "raw_author_name": "Murray K. Gingras",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76454,6 +76463,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ingrid Glaub",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76468,6 +76478,7 @@
           "is_corresponding": false,
           "raw_author_name": "Roland Goldring",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76482,6 +76493,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stjepko Golubic",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76496,6 +76508,7 @@
           "is_corresponding": false,
           "raw_author_name": "Stephen T. Hasiotis",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76510,6 +76523,7 @@
           "is_corresponding": false,
           "raw_author_name": "Daniel I. Hembree",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76524,6 +76538,7 @@
           "is_corresponding": false,
           "raw_author_name": "Bruce D. Johnson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76538,6 +76553,7 @@
           "is_corresponding": false,
           "raw_author_name": "Peter A. Jumars",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76552,6 +76568,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76566,6 +76583,7 @@
           "is_corresponding": false,
           "raw_author_name": "Nobuhiro Kotake",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76580,6 +76598,7 @@
           "is_corresponding": false,
           "raw_author_name": "Karen A. Koy",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76594,6 +76613,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mary J. Kraus",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76608,6 +76628,7 @@
           "is_corresponding": false,
           "raw_author_name": "David B. Loope",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76622,6 +76643,7 @@
           "is_corresponding": false,
           "raw_author_name": "Ludvig Löwemark",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76636,6 +76658,7 @@
           "is_corresponding": false,
           "raw_author_name": "James A. MacEachern",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76650,6 +76673,7 @@
           "is_corresponding": false,
           "raw_author_name": "Robert B. MacNaughton",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76664,6 +76688,7 @@
           "is_corresponding": false,
           "raw_author_name": "María Gabriela Mángano",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76678,6 +76703,7 @@
           "is_corresponding": false,
           "raw_author_name": "Anthony J. Martin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76692,6 +76718,7 @@
           "is_corresponding": false,
           "raw_author_name": "Lawrence M. Mayer",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76706,6 +76733,7 @@
           "is_corresponding": false,
           "raw_author_name": "Molly F. Miller",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76720,6 +76748,7 @@
           "is_corresponding": false,
           "raw_author_name": "William Miller",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76734,6 +76763,7 @@
           "is_corresponding": false,
           "raw_author_name": "Jared R. Morrow",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76748,6 +76778,7 @@
           "is_corresponding": false,
           "raw_author_name": "Davide Olivero",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76762,6 +76793,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. George Pemberton",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76776,6 +76808,7 @@
           "is_corresponding": false,
           "raw_author_name": "Brian F. Platt",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76790,6 +76823,7 @@
           "is_corresponding": false,
           "raw_author_name": "Roy E. Plotnick",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76804,6 +76838,7 @@
           "is_corresponding": false,
           "raw_author_name": "John E. Pollard",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76818,6 +76853,7 @@
           "is_corresponding": false,
           "raw_author_name": "Gudrun Radtke",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76832,6 +76868,7 @@
           "is_corresponding": false,
           "raw_author_name": "Andrew K. Rindsberg",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76846,6 +76883,7 @@
           "is_corresponding": false,
           "raw_author_name": "Charles E. Savrda",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76860,6 +76898,7 @@
           "is_corresponding": false,
           "raw_author_name": "Russell S. Shapiro",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76874,6 +76913,7 @@
           "is_corresponding": false,
           "raw_author_name": "Leif Tapanila",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76888,6 +76928,7 @@
           "is_corresponding": false,
           "raw_author_name": "Alfred Uchman",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76902,6 +76943,7 @@
           "is_corresponding": false,
           "raw_author_name": "Klaus Vogel",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76916,6 +76958,7 @@
           "is_corresponding": false,
           "raw_author_name": "Sally E. Walker",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76930,6 +76973,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dixie L. West",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76944,6 +76988,7 @@
           "is_corresponding": false,
           "raw_author_name": "David S. White",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76958,6 +77003,7 @@
           "is_corresponding": false,
           "raw_author_name": "Mark A. Wilson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -76972,15 +77018,14 @@
           "is_corresponding": false,
           "raw_author_name": "Max Wisshak",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 54,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5041726275"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -77076,7 +77121,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -77145,9 +77190,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -77162,15 +77208,14 @@
           "is_corresponding": false,
           "raw_author_name": "Richard G. Bromley",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -77269,7 +77314,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -77742,9 +77787,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.6600000262260437,
-          "display_name": "Reduced inequalities"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -77885,7 +77930,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Baville, Paul",
           "raw_affiliation_strings": [
             "ASGA - Association Scientifique pour la Géologie et ses Applications (2 rue du doyen Roubault, TSA 70605, F 54518 Vandoeuvre-lès-Nancy - France)",
@@ -78203,20 +78248,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040437846"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4387155970",
-        "https://openalex.org/I90183372"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25726602,
+        "value": 0.25697887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78419,9 +78459,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104,
-          "display_name": "Climate action"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -78454,7 +78494,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-05T08:41:31.759640",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78533,23 +78573,23 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Baville, Paul",
           "raw_affiliation_strings": [
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -78697,20 +78737,20 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -78807,19 +78847,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040437846"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4387155970"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13856372,
+        "value": 0.13852591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79094,7 +79130,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-10T14:10:52.464848",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79158,11 +79194,12 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hu, Yazhou",
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79184,6 +79221,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79205,6 +79243,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79240,6 +79279,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA",
@@ -79263,6 +79303,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79284,6 +79325,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79305,6 +79347,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79316,9 +79359,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5008950107"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -79816,7 +79857,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79880,11 +79921,12 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hu, Yazhou",
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79906,6 +79948,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79927,6 +79970,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -79962,6 +80006,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA",
@@ -79985,6 +80030,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80006,6 +80052,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80027,6 +80074,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80038,9 +80086,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5008950107"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -80487,7 +80533,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80551,11 +80597,12 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Hu, Yazhou",
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80577,6 +80624,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80598,6 +80646,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80633,6 +80682,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA",
@@ -80656,6 +80706,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80677,6 +80728,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80698,6 +80750,7 @@
           "raw_affiliation_strings": [
             "Northwest University"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Northwest University",
@@ -80709,9 +80762,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5008950107"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -81192,7 +81243,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -81781,9 +81832,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Chenglin Liu",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81798,6 +81850,7 @@
           "is_corresponding": false,
           "raw_author_name": "Shuting Shi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81812,6 +81865,7 @@
           "is_corresponding": false,
           "raw_author_name": "Xiangli Shi",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81826,6 +81880,7 @@
           "is_corresponding": false,
           "raw_author_name": "Zhenkui Jin",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81840,6 +81895,7 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81854,6 +81910,7 @@
           "is_corresponding": false,
           "raw_author_name": "Junlin Chen",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -81868,15 +81925,14 @@
           "is_corresponding": false,
           "raw_author_name": "Qiheng Guo",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5019543080"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -81884,7 +81940,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11886271,
+        "value": 0.08749732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82109,9 +82165,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -82255,7 +82311,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82659,6 +82715,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I204553293",
+              "display_name": "China University of Petroleum, Beijing",
+              "ror": "https://ror.org/041qf4r12",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204553293"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210112595",
               "display_name": "Research Institute of Petroleum Exploration and Development",
               "ror": "https://ror.org/02awe6g05",
@@ -82668,26 +82734,17 @@
                 "https://openalex.org/I4210112595",
                 "https://openalex.org/I98227222"
               ]
-            },
-            {
-              "id": "https://openalex.org/I204553293",
-              "display_name": "China University of Petroleum, Beijing",
-              "ror": "https://ror.org/041qf4r12",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204553293"
-              ]
             }
           ],
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Qiheng Guo",
           "raw_affiliation_strings": [
             "College of Geosciences, China University of Petroleum, Beijing, 102249, China; Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Geosciences, China University of Petroleum, Beijing, 102249, China; Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China",
@@ -82726,6 +82783,7 @@
           "raw_affiliation_strings": [
             "Key Laboratory of Petroleum Resources, Gansu Province, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, Gansu, China; University of Chinese Academy of Sciences, Beijing 100049, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Key Laboratory of Petroleum Resources, Gansu Province, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou 730000, Gansu, China; University of Chinese Academy of Sciences, Beijing 100049, China",
@@ -82762,6 +82820,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA, 4035, Stavanger, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA, 4035, Stavanger, Norway",
@@ -82799,6 +82858,7 @@
           "raw_affiliation_strings": [
             "Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China",
@@ -82836,6 +82896,7 @@
           "raw_affiliation_strings": [
             "Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China",
@@ -82872,6 +82933,7 @@
           "raw_affiliation_strings": [
             "College of Geosciences, China University of Petroleum, Beijing, 102249, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Geosciences, China University of Petroleum, Beijing, 102249, China",
@@ -82908,6 +82970,7 @@
           "raw_affiliation_strings": [
             "College of Geosciences, China University of Petroleum, Beijing, 102249, China"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "College of Geosciences, China University of Petroleum, Beijing, 102249, China",
@@ -82921,20 +82984,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5025813810"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I204553293",
-        "https://openalex.org/I4210112595"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1774789,
+        "value": 0.13006648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83183,9 +83241,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -83570,7 +83628,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -83654,7 +83712,7 @@
           "countries": [
             "NO"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
             "Equinor ASA, N-4035, Stavanger, Norway"
@@ -83712,12 +83770,8 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2790,
         "currency": "EUR",
@@ -83728,7 +83782,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11701152,
+        "value": 0.10830471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84010,9 +84064,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.41999998688697815,
-          "display_name": "Life in Land"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -84067,7 +84121,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85498,9 +85552,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8813670873641968,
-          "display_name": "Life below water"
+          "score": 0.8813670873641968
         }
       ],
       "awards": [],

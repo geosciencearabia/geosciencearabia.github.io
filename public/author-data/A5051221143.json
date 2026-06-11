@@ -2077,8 +2077,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2814,8 +2814,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3336,8 +3336,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4293,863 +4293,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3131337938",
-      "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
-      "title": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
-      "display_name": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
-      "publication_year": 2021,
-      "publication_date": "2021-02-18",
-      "ids": {
-        "openalex": "https://openalex.org/W3131337938",
-        "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
-        "mag": "3131337938"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.5252/geodiversitas2021v43a4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.5252/geodiversitas2021v43a4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S60344327",
-          "display_name": "Geodiversitas",
-          "issn_l": "1280-9659",
-          "issn": [
-            "1280-9659",
-            "1638-9395"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311095",
-          "host_organization_name": "Muséum national d'histoire naturelle",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311095"
-          ],
-          "host_organization_lineage_names": [
-            "Muséum national d'histoire naturelle"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geodiversitas",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://www.checklistbank.org/dataset/8084",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103919369",
-            "display_name": "Philippe Fauré",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Philippe Fauré",
-          "raw_affiliation_strings": [
-            "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5026740867",
-            "display_name": "Nejla Sekatni",
-            "orcid": "https://orcid.org/0009-0000-0657-8864"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I8636806",
-              "display_name": "University of Sousse",
-              "ror": "https://ror.org/00dmpgj58",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I8636806"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nejla Sekatni",
-          "raw_affiliation_strings": [
-            "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie) sgatninejla@yahoo.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie) sgatninejla@yahoo.fr",
-              "institution_ids": [
-                "https://openalex.org/I8636806"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5049706062",
-            "display_name": "Mohamed Sabri Arfaoui",
-            "orcid": "https://orcid.org/0000-0002-4068-1037"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Sabri Arfaoui",
-          "raw_affiliation_strings": [
-            "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rabah Alouani",
-          "raw_affiliation_strings": [
-            "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie) rabeh_alouani@yahoo.fr"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie) rabeh_alouani@yahoo.fr",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103919369"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.7947,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.70996979,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "43",
-        "issue": "4",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.9987999796867371,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.9987999796867371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.996999979019165,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9896000027656555,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.7866154909133911
-        },
-        {
-          "id": "https://openalex.org/keywords/art",
-          "display_name": "Art",
-          "score": 0.2593446969985962
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.7866154909133911
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0.2593446969985962
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.5252/geodiversitas2021v43a4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.5252/geodiversitas2021v43a4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S60344327",
-            "display_name": "Geodiversitas",
-            "issn_l": "1280-9659",
-            "issn": [
-              "1280-9659",
-              "1638-9395"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311095",
-            "host_organization_name": "Muséum national d'histoire naturelle",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311095"
-            ],
-            "host_organization_lineage_names": [
-              "Muséum national d'histoire naturelle"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geodiversitas",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:zenodo.org:4555560",
-          "is_oa": true,
-          "landing_page_url": "https://www.checklistbank.org/dataset/8084",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400562",
-            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I67311998",
-            "host_organization_name": "European Organization for Nuclear Research",
-            "host_organization_lineage": [
-              "https://openalex.org/I67311998"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "public-domain",
-          "license_id": "https://openalex.org/licenses/public-domain",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geodiversitas, 43(4), 95-119, (2021-02-18)",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:zenodo.org:4555560",
-        "is_oa": true,
-        "landing_page_url": "https://www.checklistbank.org/dataset/8084",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306400562",
-          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I67311998",
-          "host_organization_name": "European Organization for Nuclear Research",
-          "host_organization_lineage": [
-            "https://openalex.org/I67311998"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "public-domain",
-        "license_id": "https://openalex.org/licenses/public-domain",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Geodiversitas, 43(4), 95-119, (2021-02-18)",
-        "raw_type": "info:eu-repo/semantics/article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5799999833106995
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 27,
-      "referenced_works": [
-        "https://openalex.org/W564470252",
-        "https://openalex.org/W569655702",
-        "https://openalex.org/W640946371",
-        "https://openalex.org/W1967609541",
-        "https://openalex.org/W1992009631",
-        "https://openalex.org/W1996071764",
-        "https://openalex.org/W2024508305",
-        "https://openalex.org/W2032094616",
-        "https://openalex.org/W2042912073",
-        "https://openalex.org/W2083052389",
-        "https://openalex.org/W2123256305",
-        "https://openalex.org/W2162577960",
-        "https://openalex.org/W2174189874",
-        "https://openalex.org/W2174841619",
-        "https://openalex.org/W2183045682",
-        "https://openalex.org/W2278077721",
-        "https://openalex.org/W2293157988",
-        "https://openalex.org/W2313784836",
-        "https://openalex.org/W2320211977",
-        "https://openalex.org/W2485466022",
-        "https://openalex.org/W2530852275",
-        "https://openalex.org/W2751535284",
-        "https://openalex.org/W2894525608",
-        "https://openalex.org/W2910865386",
-        "https://openalex.org/W3173011640",
-        "https://openalex.org/W4237153456",
-        "https://openalex.org/W7025099376"
-      ],
-      "related_works": [
-        "https://openalex.org/W93312527",
-        "https://openalex.org/W2603296253",
-        "https://openalex.org/W1589203209",
-        "https://openalex.org/W2557454913",
-        "https://openalex.org/W828925460",
-        "https://openalex.org/W11365241",
-        "https://openalex.org/W1013667899",
-        "https://openalex.org/W2559405764",
-        "https://openalex.org/W157591366",
-        "https://openalex.org/W2732870254"
-      ],
-      "abstract_inverted_index": {
-        "La": [
-          0,
-          27
-        ],
-        "révision": [
-          1
-        ],
-        "de": [
-          2,
-          106,
-          120,
-          147
-        ],
-        "la": [
-          3,
-          24,
-          108,
-          121
-        ],
-        "succession": [
-          4
-        ],
-        "lithostratigraphique": [
-          5
-        ],
-        "du": [
-          6,
-          8,
-          34,
-          118,
-          145
-        ],
-        "Jurassique": [
-          7
-        ],
-        "Jebel": [
-          9
-        ],
-        "Ressas": [
-          10
-        ],
-        "(Dorsale": [
-          11
-        ],
-        "tunisienne,": [
-          12
-        ],
-        "Tunisie)": [
-          13
-        ],
-        "permet": [
-          14
-        ],
-        "d'identifier": [
-          15
-        ],
-        "toutes": [
-          16
-        ],
-        "les": [
-          17,
-          114,
-          135
-        ],
-        "formations": [
-          18
-        ],
-        "déjà": [
-          19,
-          125
-        ],
-        "définies": [
-          20
-        ],
-        "par": [
-          21,
-          37
-        ],
-        "ailleurs": [
-          22
-        ],
-        "dans": [
-          23
-        ],
-        "Dorsale": [
-          25
-        ],
-        "tunisienne.": [
-          26
-        ],
-        "Formation": [
-          28,
-          110,
-          122
-        ],
-        "Zaghouan": [
-          29,
-          111
-        ],
-        "y": [
-          30
-        ],
-        "est": [
-          31
-        ],
-        "nouvellement": [
-          32
-        ],
-        "datée": [
-          33
-        ],
-        "Sinémurien": [
-          35,
-          146
-        ],
-        "supérieur": [
-          36
-        ],
-        "des": [
-          38,
-          143
-        ],
-        "ammonites": [
-          39,
-          104,
-          144
-        ],
-        "appartenant": [
-          40,
-          57
-        ],
-        "aux": [
-          41,
-          58
-        ],
-        "chronozones": [
-          42
-        ],
-        "à": [
-          43,
-          46,
-          49,
-          52
-        ],
-        "Obtusum": [
-          44
-        ],
-        "(sous-chronozone": [
-          45,
-          51
-        ],
-        "Stellare)": [
-          47
-        ],
-        "et": [
-          48,
-          88,
-          101,
-          133
-        ],
-        "Raricostatum": [
-          50
-        ],
-        "Raricostatum).": [
-          53
-        ],
-        "Six": [
-          54
-        ],
-        "taxons": [
-          55
-        ],
-        "d'Ammonitina": [
-          56
-        ],
-        "genres": [
-          59
-        ],
-        "Asteroceras": [
-          60
-        ],
-        "(A.": [
-          61,
-          74
-        ],
-        "gr.": [
-          62,
-          75
-        ],
-        "saltriense": [
-          63
-        ],
-        "(Parona,": [
-          64
-        ],
-        "1896),": [
-          65
-        ],
-        "A.": [
-          66
-        ],
-        "cf.": [
-          67,
-          84,
-          95
-        ],
-        "meridionalisDommergues,": [
-          68
-        ],
-        "Meister": [
-          69
-        ],
-        "&": [
-          70
-        ],
-        "Mettraux,": [
-          71
-        ],
-        "1990),": [
-          72
-        ],
-        "Arnioceras": [
-          73
-        ],
-        "ceratitoides": [
-          76
-        ],
-        "(Quenstedt,": [
-          77
-        ],
-        "1849)": [
-          78
-        ],
-        "–": [
-          79
-        ],
-        "rejectumFucini,": [
-          80
-        ],
-        "1902),": [
-          81
-        ],
-        "Epophioceras": [
-          82
-        ],
-        "(E.": [
-          83
-        ],
-        "landrioti": [
-          85
-        ],
-        "(d'Orbigny,": [
-          86
-        ],
-        "1850))": [
-          87
-        ],
-        "Paltechioceras": [
-          89
-        ],
-        "(P.": [
-          90
-        ],
-        "bavaricum": [
-          91
-        ],
-        "(Böse,": [
-          92
-        ],
-        "1894),": [
-          93
-        ],
-        "P.": [
-          94
-        ],
-        "charpentieri": [
-          96
-        ],
-        "(Schafhäult,": [
-          97
-        ],
-        "1847))": [
-          98
-        ],
-        "sont": [
-          99,
-          137,
-          149
-        ],
-        "décrits": [
-          100
-        ],
-        "figurés.": [
-          102
-        ],
-        "Ces": [
-          103
-        ],
-        "permettent": [
-          105
-        ],
-        "corréler": [
-          107
-        ],
-        "«": [
-          109,
-          115
-        ],
-        "»": [
-          112
-        ],
-        "avec": [
-          113
-        ],
-        "Niveaux": [
-          116
-        ],
-        "condensés": [
-          117
-        ],
-        "sommet": [
-          119
-        ],
-        "Oust": [
-          123
-        ],
-        "»,": [
-          124
-        ],
-        "bien": [
-          126
-        ],
-        "connus": [
-          127
-        ],
-        "pour": [
-          128
-        ],
-        "leur": [
-          129
-        ],
-        "riche": [
-          130
-        ],
-        "ammonitofaune": [
-          131
-        ],
-        "sinémurienne": [
-          132
-        ],
-        "dont": [
-          134
-        ],
-        "âges": [
-          136
-        ],
-        "ici": [
-          138
-        ],
-        "réévalués.": [
-          139
-        ],
-        "Les": [
-          140
-        ],
-        "affinités": [
-          141
-        ],
-        "paléobiogéographiques": [
-          142
-        ],
-        "Tunisie": [
-          148
-        ],
-        "discutées.": [
-          150
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-03-10T16:38:18.471706",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W176213037",
       "doi": "https://doi.org/10.3989/egeol.08641429",
       "title": "Le Numidien de la Tunisie septentrionale: données stratigraphiques et interprétation géodynamique",
@@ -5243,7 +4386,7 @@
             "FR",
             "MA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "F. Talbi",
           "raw_affiliation_strings": [
             "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
@@ -5437,20 +4580,15 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5052653437"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I3019441195",
-        "https://openalex.org/I4210141296"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8029,
+      "fwci": 1.8036,
       "has_fulltext": true,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.81949082,
+        "value": 0.81957365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5749,8 +4887,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6218,8 +5356,867 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3131337938",
+      "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
+      "title": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
+      "display_name": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
+      "publication_year": 2021,
+      "publication_date": "2021-02-18",
+      "ids": {
+        "openalex": "https://openalex.org/W3131337938",
+        "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
+        "mag": "3131337938"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.5252/geodiversitas2021v43a4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5252/geodiversitas2021v43a4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S60344327",
+          "display_name": "Geodiversitas",
+          "issn_l": "1280-9659",
+          "issn": [
+            "1280-9659",
+            "1638-9395"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311095",
+          "host_organization_name": "Muséum national d'histoire naturelle",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311095"
+          ],
+          "host_organization_lineage_names": [
+            "Muséum national d'histoire naturelle"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geodiversitas",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.checklistbank.org/dataset/8084",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103919369",
+            "display_name": "Philippe Fauré",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Philippe Fauré",
+          "raw_affiliation_strings": [
+            "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026740867",
+            "display_name": "Nejla Sekatni",
+            "orcid": "https://orcid.org/0009-0000-0657-8864"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I8636806",
+              "display_name": "University of Sousse",
+              "ror": "https://ror.org/00dmpgj58",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8636806"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nejla Sekatni",
+          "raw_affiliation_strings": [
+            "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie) sgatninejla@yahoo.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Université de Sousse, faculté des Lettres et des Sciences Humaines de Sousse, Département de géographie Cité Erriadh, 4029 Sousse Ryadh, Sousse (Tunisie) sgatninejla@yahoo.fr",
+              "institution_ids": [
+                "https://openalex.org/I8636806"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049706062",
+            "display_name": "Mohamed Sabri Arfaoui",
+            "orcid": "https://orcid.org/0000-0002-4068-1037"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Sabri Arfaoui",
+          "raw_affiliation_strings": [
+            "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rabah Alouani",
+          "raw_affiliation_strings": [
+            "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie) rabeh_alouani@yahoo.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Département de géologie, faculté des sciences de Bizerte, Université de Carthage 7021 Zerzouna Bizerte (Tunisie) rabeh_alouani@yahoo.fr",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.7998,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.7112338,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "43",
+        "issue": "4",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11740",
+        "display_name": "Geochemistry and Elemental Analysis",
+        "score": 0.9987999796867371,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.996999979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9896000027656555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.7866154909133911
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.2593446969985962
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.7866154909133911
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.2593446969985962
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.5252/geodiversitas2021v43a4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5252/geodiversitas2021v43a4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S60344327",
+            "display_name": "Geodiversitas",
+            "issn_l": "1280-9659",
+            "issn": [
+              "1280-9659",
+              "1638-9395"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311095",
+            "host_organization_name": "Muséum national d'histoire naturelle",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311095"
+            ],
+            "host_organization_lineage_names": [
+              "Muséum national d'histoire naturelle"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geodiversitas",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:zenodo.org:4555560",
+          "is_oa": true,
+          "landing_page_url": "https://www.checklistbank.org/dataset/8084",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "public-domain",
+          "license_id": "https://openalex.org/licenses/public-domain",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geodiversitas, 43(4), 95-119, (2021-02-18)",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:zenodo.org:4555560",
+        "is_oa": true,
+        "landing_page_url": "https://www.checklistbank.org/dataset/8084",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Geodiversitas, 43(4), 95-119, (2021-02-18)",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 27,
+      "referenced_works": [
+        "https://openalex.org/W564470252",
+        "https://openalex.org/W569655702",
+        "https://openalex.org/W640946371",
+        "https://openalex.org/W1967609541",
+        "https://openalex.org/W1992009631",
+        "https://openalex.org/W1996071764",
+        "https://openalex.org/W2024508305",
+        "https://openalex.org/W2032094616",
+        "https://openalex.org/W2042912073",
+        "https://openalex.org/W2083052389",
+        "https://openalex.org/W2123256305",
+        "https://openalex.org/W2162577960",
+        "https://openalex.org/W2174189874",
+        "https://openalex.org/W2174841619",
+        "https://openalex.org/W2183045682",
+        "https://openalex.org/W2278077721",
+        "https://openalex.org/W2293157988",
+        "https://openalex.org/W2313784836",
+        "https://openalex.org/W2320211977",
+        "https://openalex.org/W2485466022",
+        "https://openalex.org/W2530852275",
+        "https://openalex.org/W2751535284",
+        "https://openalex.org/W2894525608",
+        "https://openalex.org/W2910865386",
+        "https://openalex.org/W3173011640",
+        "https://openalex.org/W4237153456",
+        "https://openalex.org/W7025099376"
+      ],
+      "related_works": [
+        "https://openalex.org/W93312527",
+        "https://openalex.org/W2603296253",
+        "https://openalex.org/W1589203209",
+        "https://openalex.org/W2557454913",
+        "https://openalex.org/W828925460",
+        "https://openalex.org/W11365241",
+        "https://openalex.org/W1013667899",
+        "https://openalex.org/W2559405764",
+        "https://openalex.org/W157591366",
+        "https://openalex.org/W2732870254"
+      ],
+      "abstract_inverted_index": {
+        "La": [
+          0,
+          27
+        ],
+        "révision": [
+          1
+        ],
+        "de": [
+          2,
+          106,
+          120,
+          147
+        ],
+        "la": [
+          3,
+          24,
+          108,
+          121
+        ],
+        "succession": [
+          4
+        ],
+        "lithostratigraphique": [
+          5
+        ],
+        "du": [
+          6,
+          8,
+          34,
+          118,
+          145
+        ],
+        "Jurassique": [
+          7
+        ],
+        "Jebel": [
+          9
+        ],
+        "Ressas": [
+          10
+        ],
+        "(Dorsale": [
+          11
+        ],
+        "tunisienne,": [
+          12
+        ],
+        "Tunisie)": [
+          13
+        ],
+        "permet": [
+          14
+        ],
+        "d'identifier": [
+          15
+        ],
+        "toutes": [
+          16
+        ],
+        "les": [
+          17,
+          114,
+          135
+        ],
+        "formations": [
+          18
+        ],
+        "déjà": [
+          19,
+          125
+        ],
+        "définies": [
+          20
+        ],
+        "par": [
+          21,
+          37
+        ],
+        "ailleurs": [
+          22
+        ],
+        "dans": [
+          23
+        ],
+        "Dorsale": [
+          25
+        ],
+        "tunisienne.": [
+          26
+        ],
+        "Formation": [
+          28,
+          110,
+          122
+        ],
+        "Zaghouan": [
+          29,
+          111
+        ],
+        "y": [
+          30
+        ],
+        "est": [
+          31
+        ],
+        "nouvellement": [
+          32
+        ],
+        "datée": [
+          33
+        ],
+        "Sinémurien": [
+          35,
+          146
+        ],
+        "supérieur": [
+          36
+        ],
+        "des": [
+          38,
+          143
+        ],
+        "ammonites": [
+          39,
+          104,
+          144
+        ],
+        "appartenant": [
+          40,
+          57
+        ],
+        "aux": [
+          41,
+          58
+        ],
+        "chronozones": [
+          42
+        ],
+        "à": [
+          43,
+          46,
+          49,
+          52
+        ],
+        "Obtusum": [
+          44
+        ],
+        "(sous-chronozone": [
+          45,
+          51
+        ],
+        "Stellare)": [
+          47
+        ],
+        "et": [
+          48,
+          88,
+          101,
+          133
+        ],
+        "Raricostatum": [
+          50
+        ],
+        "Raricostatum).": [
+          53
+        ],
+        "Six": [
+          54
+        ],
+        "taxons": [
+          55
+        ],
+        "d'Ammonitina": [
+          56
+        ],
+        "genres": [
+          59
+        ],
+        "Asteroceras": [
+          60
+        ],
+        "(A.": [
+          61,
+          74
+        ],
+        "gr.": [
+          62,
+          75
+        ],
+        "saltriense": [
+          63
+        ],
+        "(Parona,": [
+          64
+        ],
+        "1896),": [
+          65
+        ],
+        "A.": [
+          66
+        ],
+        "cf.": [
+          67,
+          84,
+          95
+        ],
+        "meridionalisDommergues,": [
+          68
+        ],
+        "Meister": [
+          69
+        ],
+        "&": [
+          70
+        ],
+        "Mettraux,": [
+          71
+        ],
+        "1990),": [
+          72
+        ],
+        "Arnioceras": [
+          73
+        ],
+        "ceratitoides": [
+          76
+        ],
+        "(Quenstedt,": [
+          77
+        ],
+        "1849)": [
+          78
+        ],
+        "–": [
+          79
+        ],
+        "rejectumFucini,": [
+          80
+        ],
+        "1902),": [
+          81
+        ],
+        "Epophioceras": [
+          82
+        ],
+        "(E.": [
+          83
+        ],
+        "landrioti": [
+          85
+        ],
+        "(d'Orbigny,": [
+          86
+        ],
+        "1850))": [
+          87
+        ],
+        "Paltechioceras": [
+          89
+        ],
+        "(P.": [
+          90
+        ],
+        "bavaricum": [
+          91
+        ],
+        "(Böse,": [
+          92
+        ],
+        "1894),": [
+          93
+        ],
+        "P.": [
+          94
+        ],
+        "charpentieri": [
+          96
+        ],
+        "(Schafhäult,": [
+          97
+        ],
+        "1847))": [
+          98
+        ],
+        "sont": [
+          99,
+          137,
+          149
+        ],
+        "décrits": [
+          100
+        ],
+        "figurés.": [
+          102
+        ],
+        "Ces": [
+          103
+        ],
+        "permettent": [
+          105
+        ],
+        "corréler": [
+          107
+        ],
+        "«": [
+          109,
+          115
+        ],
+        "»": [
+          112
+        ],
+        "avec": [
+          113
+        ],
+        "Niveaux": [
+          116
+        ],
+        "condensés": [
+          117
+        ],
+        "sommet": [
+          119
+        ],
+        "Oust": [
+          123
+        ],
+        "»,": [
+          124
+        ],
+        "bien": [
+          126
+        ],
+        "connus": [
+          127
+        ],
+        "pour": [
+          128
+        ],
+        "leur": [
+          129
+        ],
+        "riche": [
+          130
+        ],
+        "ammonitofaune": [
+          131
+        ],
+        "sinémurienne": [
+          132
+        ],
+        "dont": [
+          134
+        ],
+        "âges": [
+          136
+        ],
+        "ici": [
+          138
+        ],
+        "réévalués.": [
+          139
+        ],
+        "Les": [
+          140
+        ],
+        "affinités": [
+          141
+        ],
+        "paléobiogéographiques": [
+          142
+        ],
+        "Tunisie": [
+          148
+        ],
+        "discutées.": [
+          150
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-11T09:08:48.828518",
+      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4385952766",
@@ -6888,8 +6885,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7073,12 +7070,13 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Imen Hamdi Nasr",
           "raw_affiliation_strings": [
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7105,6 +7103,7 @@
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7131,6 +7130,7 @@
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7157,6 +7157,7 @@
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7183,6 +7184,7 @@
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7209,6 +7211,7 @@
             "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
             "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
@@ -7229,6 +7232,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I12449238",
+              "display_name": "Université d'Orléans",
+              "ror": "https://ror.org/014zrew76",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12449238"
+              ]
+            },
+            {
               "id": "https://openalex.org/I142476485",
               "display_name": "École Polytechnique",
               "ror": "https://ror.org/05hy3tk52",
@@ -7237,16 +7250,6 @@
               "lineage": [
                 "https://openalex.org/I142476485",
                 "https://openalex.org/I4210145102"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I12449238",
-              "display_name": "Université d'Orléans",
-              "ror": "https://ror.org/014zrew76",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12449238"
               ]
             }
           ],
@@ -7259,6 +7262,7 @@
             "Ecole Polytechnique d’Orléans, Orléans, France",
             "Ecole Polytechnique d’Orléans"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ecole Polytechnique d’Orléans, Orléans, France",
@@ -7278,9 +7282,7 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5003096085"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1250,
@@ -7288,16 +7290,16 @@
         "value_usd": 1348
       },
       "apc_paid": null,
-      "fwci": 0.877,
+      "fwci": 0.9018,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.72152008,
+        "value": 0.72933962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -8179,7 +8181,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-25T23:04:38.658462",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8264,7 +8266,7 @@
           "countries": [
             "TN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Wiem Ben Aissa",
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Science de Bizerte, Université de Carthage, 7021, Zarzouna, Bizerte, Tunisia",
@@ -8369,16 +8371,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I108714496",
               "display_name": "Tunis University",
               "ror": "https://ror.org/02q1spa57",
@@ -8386,6 +8378,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -8449,19 +8451,15 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5028508336"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I179097149"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4553,
+      "fwci": 0.4555,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.63155027,
+        "value": 0.63173979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8883,7 +8881,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8933,9 +8931,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "H. Boussiga",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8950,6 +8949,7 @@
           "is_corresponding": false,
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8964,6 +8964,7 @@
           "is_corresponding": false,
           "raw_author_name": "S. Tlig",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -8978,23 +8979,22 @@
           "is_corresponding": false,
           "raw_author_name": "M.H. Inoubli",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022714102"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3209,
+      "fwci": 0.3287,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.63954314,
+        "value": 0.64822703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9155,8 +9155,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9476,7 +9476,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9526,9 +9526,10 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "H. Boussiga",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -9543,6 +9544,7 @@
           "is_corresponding": false,
           "raw_author_name": "M.H. Inoubli",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -9557,6 +9559,7 @@
           "is_corresponding": false,
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -9571,6 +9574,7 @@
           "is_corresponding": false,
           "raw_author_name": "K. Sebei",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         },
         {
@@ -9585,23 +9589,22 @@
           "is_corresponding": false,
           "raw_author_name": "M.G. Ben Jemia",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022714102"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2991,
+      "fwci": 0.3069,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.64653548,
+        "value": 0.65587189,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10059,7 +10062,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10799,7 +10802,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Islem Chaari",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
@@ -10899,9 +10902,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5002652428"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10909,7 +10910,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.1307266,
+        "value": 0.13070666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11212,8 +11213,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -11464,7 +11465,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11534,16 +11535,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I108714496",
               "display_name": "Tunis University",
               "ror": "https://ror.org/02q1spa57",
@@ -11552,16 +11543,27 @@
               "lineage": [
                 "https://openalex.org/I108714496"
               ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
             }
           ],
           "countries": [
             "TN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Haïfa Boussiga",
           "raw_affiliation_strings": [
             "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
@@ -11581,16 +11583,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I108714496",
               "display_name": "Tunis University",
               "ror": "https://ror.org/02q1spa57",
@@ -11598,6 +11590,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -11609,6 +11611,7 @@
           "raw_affiliation_strings": [
             "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
@@ -11646,6 +11649,7 @@
           "raw_affiliation_strings": [
             "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna 7021, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna 7021, Tunisia",
@@ -11664,16 +11668,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I108714496",
               "display_name": "Tunis University",
               "ror": "https://ror.org/02q1spa57",
@@ -11681,6 +11675,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -11692,6 +11696,7 @@
           "raw_affiliation_strings": [
             "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
@@ -11711,16 +11716,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I108714496",
               "display_name": "Tunis University",
               "ror": "https://ror.org/02q1spa57",
@@ -11728,6 +11723,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -11739,6 +11744,7 @@
           "raw_affiliation_strings": [
             "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Université El Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
@@ -11753,13 +11759,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022714102"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I108714496",
-        "https://openalex.org/I63596082"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2650,
         "currency": "USD",
@@ -11770,7 +11771,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17791612,
+        "value": 0.17738251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11950,8 +11951,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11977,7 +11978,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12041,7 +12042,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Fakher Jamoussi",
           "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0002-2796-7583",
@@ -12156,9 +12157,7 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086342279"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -12166,7 +12165,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01693303,
+        "value": 0.01693947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12365,8 +12364,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12669,7 +12668,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-05T08:41:31.759640",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14176,11 +14175,12 @@
           "countries": [
             "TN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Sirine Chouat",
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -14217,6 +14217,7 @@
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -14235,16 +14236,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63596082",
-              "display_name": "Tunis El Manar University",
-              "ror": "https://ror.org/029cgt552",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63596082"
-              ]
-            },
-            {
               "id": "https://openalex.org/I179097149",
               "display_name": "University of Carthage",
               "ror": "https://ror.org/057x6za15",
@@ -14252,6 +14243,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I179097149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -14264,6 +14265,7 @@
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
             "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -14306,6 +14308,7 @@
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -14342,6 +14345,7 @@
           "raw_affiliation_strings": [
             "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
@@ -14378,6 +14382,7 @@
           "raw_affiliation_strings": [
             "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Sciences of Bizerte, University of Carthage, 7021, Zarzouna, Tunisia",
@@ -14391,12 +14396,8 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042601635"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I179097149"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2290,
         "currency": "EUR",
@@ -14407,7 +14408,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14699933,
+        "value": 0.14286098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14677,8 +14678,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14706,7 +14707,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14812,7 +14813,7 @@
             "FR",
             "TN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Rania Ben Aissa",
           "raw_affiliation_strings": [
             "Laboratoire de Recherche Ressources, Matériaux Et Ecosystèmes, University of Carthage, Zarzouna, Bizerte, Tunisia",
@@ -14820,6 +14821,7 @@
             "University of Carthage, Faculty of Siences of Bizerte, Bizerte, Tunisia",
             "University of Tunis-El Manar, Faculty of Siences of Tunis, Rommana, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Recherche Ressources, Matériaux Et Ecosystèmes, University of Carthage, Zarzouna, Bizerte, Tunisia",
@@ -14875,6 +14877,7 @@
           "raw_affiliation_strings": [
             "University Claude Bernard Lyon 1, Department of Geology, Villeurbanne, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University Claude Bernard Lyon 1, Department of Geology, Villeurbanne, France",
@@ -14911,6 +14914,7 @@
           "raw_affiliation_strings": [
             "University of Tunis-El Manar, Faculty of Siences of Tunis, Rommana, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Tunis-El Manar, Faculty of Siences of Tunis, Rommana, Tunisia",
@@ -14947,6 +14951,7 @@
           "raw_affiliation_strings": [
             "University of Carthage, Faculty of Siences of Bizerte, Bizerte, Tunisia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Carthage, Faculty of Siences of Bizerte, Bizerte, Tunisia",
@@ -14960,21 +14965,15 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086676053"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I100532134",
-        "https://openalex.org/I179097149",
-        "https://openalex.org/I63596082"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4900722,
+        "value": 0.45908699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15410,7 +15409,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-30T00:00:00"
     }
   ]
