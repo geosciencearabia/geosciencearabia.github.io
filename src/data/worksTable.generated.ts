@@ -23360,8 +23360,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-20",
     "year": 2022,
     "venue": "Lethaia",
-    "citations": 97,
-    "fwci": 105.7238,
+    "citations": 98,
+    "fwci": 105.694,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -25788,7 +25788,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.2302,
+    "fwci": 2.2309,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -32682,6 +32682,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4392170622",
+    "doi": "https://doi.org/10.2118/219476-pa",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5017097772",
+      "A5094005517",
+      "A5002974432",
+      "A5067074454",
+      "A5024843025"
+    ],
+    "firstAuthorLastName": "Desouky",
+    "allAuthors": [
+      "Mahmoud Desouky",
+      "Yevgeniy Samarkin",
+      "Murtada Saleh Aljawad",
+      "Abduljamiu O. Amao",
+      "Murtadha J. AlTammar",
+      "Khalid M. Alruwaili"
+    ],
+    "title": "Diammonium Phosphate Treatment for Sustained Hydraulic/Acid Fracture Conductivity in Chalk and Limestone Formations",
+    "publicationDate": "2024-02-26",
+    "year": 2024,
+    "venue": "SPE Journal",
+    "citations": 10,
+    "fwci": 1.8604,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Drilling and Well Engineering",
+      "Groundwater flow and contamination studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4200054012",
     "doi": "https://doi.org/10.2118/208118-ms",
     "program": "",
@@ -32759,44 +32797,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis",
       "Drilling and Well Engineering",
       "Rock Mechanics and Modeling"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Aramco (United States)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4392170622",
-    "doi": "https://doi.org/10.2118/219476-pa",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5017097772",
-      "A5094005517",
-      "A5002974432",
-      "A5067074454",
-      "A5024843025"
-    ],
-    "firstAuthorLastName": "Desouky",
-    "allAuthors": [
-      "Mahmoud Desouky",
-      "Yevgeniy Samarkin",
-      "Murtada Saleh Aljawad",
-      "Abduljamiu O. Amao",
-      "Murtadha J. AlTammar",
-      "Khalid M. Alruwaili"
-    ],
-    "title": "Diammonium Phosphate Treatment for Sustained Hydraulic/Acid Fracture Conductivity in Chalk and Limestone Formations",
-    "publicationDate": "2024-02-26",
-    "year": 2024,
-    "venue": "SPE Journal",
-    "citations": 9,
-    "fwci": 1.678,
-    "topics": [
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Drilling and Well Engineering",
-      "Groundwater flow and contamination studies"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
@@ -40120,8 +40120,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-08-19",
     "year": 2015,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 52,
-    "fwci": 2.1149,
+    "citations": 53,
+    "fwci": 2.1153,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -40210,41 +40210,6 @@ export const worksTable: WorkTableRecord[] = [
       "Universiti Brunei Darussalam",
       "Taiz University",
       "University of Malaya"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2767265916",
-    "doi": "https://doi.org/10.1016/j.petrol.2017.11.013",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5015626170",
-      "A5085085086",
-      "A5083028288"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Ahmed A. Najaf",
-      "Rzger A. Abdula",
-      "Ibrahim M. J. Mohialdeen"
-    ],
-    "title": "Generation and expulsion history of oil-source rock (Middle Jurassic Sargelu Formation) in the Kurdistan of north Iraq, Zagros folded belt: Implications from 1D basin modeling study",
-    "publicationDate": "2017-11-12",
-    "year": 2017,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 49,
-    "fwci": 2.7779,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological Studies and Exploration",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Taiz University",
-      "Soran University",
-      "University of Sulaimani"
     ]
   },
   {
@@ -41147,6 +41112,41 @@ export const worksTable: WorkTableRecord[] = [
       "University of Malaya",
       "Taiz University",
       "University of Leicester"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2767265916",
+    "doi": "https://doi.org/10.1016/j.petrol.2017.11.013",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5015626170",
+      "A5085085086",
+      "A5083028288"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Ahmed A. Najaf",
+      "Rzger A. Abdula",
+      "Ibrahim M. J. Mohialdeen"
+    ],
+    "title": "Generation and expulsion history of oil-source rock (Middle Jurassic Sargelu Formation) in the Kurdistan of north Iraq, Zagros folded belt: Implications from 1D basin modeling study",
+    "publicationDate": "2017-11-12",
+    "year": 2017,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 50,
+    "fwci": 2.7968,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Taiz University",
+      "Soran University",
+      "University of Sulaimani"
     ]
   },
   {
@@ -42392,6 +42392,52 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4200616099",
+    "doi": "https://doi.org/10.1111/jpg.12806",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5083028288",
+      "A5030143362",
+      "A5085085086",
+      "A5048429617",
+      "A5008931551",
+      "A5074617753"
+    ],
+    "firstAuthorLastName": "Mohialdeen",
+    "allAuthors": [
+      "Ibrahim M. J. Mohialdeen",
+      "Sardar S. Fatah",
+      "Rzger A. Abdula",
+      "Mohammed Hail Hakimi",
+      "Wan Hasiah Abdullah",
+      "Polla Khanaqa",
+      "Grenville A. Lunn"
+    ],
+    "title": "STRATIGRAPHIC CORRELATION AND SOURCE ROCK CHARACTERISTICS OF THE BALUTI FORMATION FROM SELECTED WELLS IN THE ZAGROS FOLD BELT, KURDISTAN REGION, NORTHERN IRAQ",
+    "publicationDate": "2021-12-21",
+    "year": 2021,
+    "venue": "Journal of Petroleum Geology",
+    "citations": 15,
+    "fwci": 1.1879,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "University of Sulaimani",
+      "Soran University",
+      "Tishk International University",
+      "Taiz University",
+      "University of Malaya",
+      "Kurdistan Regional Government",
+      "Kurdistan Institute for Strategic Studies and Scientific Research",
+      "Clifton Hospital"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4388399354",
     "doi": "https://doi.org/10.1002/gj.4898",
     "program": "",
@@ -42824,6 +42870,42 @@ export const worksTable: WorkTableRecord[] = [
       "Jagiellonian University",
       "Instytut Nauk Geologicznych",
       "Usmanu Danfodiyo University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4399334691",
+    "doi": "https://doi.org/10.1007/s40789-024-00690-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5036709564",
+      "A5061703841",
+      "A5048429617",
+      "A5078426374"
+    ],
+    "firstAuthorLastName": "Asiwaju",
+    "allAuthors": [
+      "Lanre Asiwaju",
+      "Khairul Azlan Mustapha",
+      "Wan Hasiah Abdullah",
+      "Say Gee Sia",
+      "Mohammed Hail Hakimi"
+    ],
+    "title": "Geochemistry of Cenozoic coals from Sarawak Basin, Malaysia: implications for paleoclimate, depositional conditions, and controls on petroleum potential",
+    "publicationDate": "2024-06-04",
+    "year": 2024,
+    "venue": "International Journal of Coal Science & Technology",
+    "citations": 9,
+    "fwci": 2.1113,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Coal and Its By-products"
+    ],
+    "institutions": [
+      "University of Malaya",
+      "Taiz University"
     ]
   },
   {
@@ -44132,6 +44214,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1979393215",
+    "doi": "https://doi.org/10.1016/j.fuel.2013.11.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5048429617",
+      "A5058473670"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Wan Hasiah Abdullah",
+      "Nabil M. Al‐Areeq"
+    ],
+    "title": "Organic geochemical characteristics and depositional environments of the Upper Cretaceous coals in the Jiza-Qamar Basin of eastern Yemen",
+    "publicationDate": "2013-11-16",
+    "year": 2013,
+    "venue": "Fuel",
+    "citations": 16,
+    "fwci": 0.9372,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Coal and Its By-products",
+      "Coal Properties and Utilization"
+    ],
+    "institutions": [
+      "Taiz University",
+      "University of Malaya",
+      "Thamar University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2810428037",
     "doi": "https://doi.org/10.1016/j.petrol.2018.06.076",
     "program": "",
@@ -44198,52 +44313,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Egyptian Petroleum Research Institute",
       "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4200616099",
-    "doi": "https://doi.org/10.1111/jpg.12806",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5083028288",
-      "A5030143362",
-      "A5085085086",
-      "A5048429617",
-      "A5008931551",
-      "A5074617753"
-    ],
-    "firstAuthorLastName": "Mohialdeen",
-    "allAuthors": [
-      "Ibrahim M. J. Mohialdeen",
-      "Sardar S. Fatah",
-      "Rzger A. Abdula",
-      "Mohammed Hail Hakimi",
-      "Wan Hasiah Abdullah",
-      "Polla Khanaqa",
-      "Grenville A. Lunn"
-    ],
-    "title": "STRATIGRAPHIC CORRELATION AND SOURCE ROCK CHARACTERISTICS OF THE BALUTI FORMATION FROM SELECTED WELLS IN THE ZAGROS FOLD BELT, KURDISTAN REGION, NORTHERN IRAQ",
-    "publicationDate": "2021-12-21",
-    "year": 2021,
-    "venue": "Journal of Petroleum Geology",
-    "citations": 14,
-    "fwci": 1.1879,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "University of Sulaimani",
-      "Soran University",
-      "Tishk International University",
-      "Taiz University",
-      "University of Malaya",
-      "Kurdistan Regional Government",
-      "Kurdistan Institute for Strategic Studies and Scientific Research",
-      "Clifton Hospital"
     ]
   },
   {
@@ -44587,42 +44656,6 @@ export const worksTable: WorkTableRecord[] = [
       "Taiz University",
       "King Saud University",
       "Jilin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4399334691",
-    "doi": "https://doi.org/10.1007/s40789-024-00690-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5036709564",
-      "A5061703841",
-      "A5048429617",
-      "A5078426374"
-    ],
-    "firstAuthorLastName": "Asiwaju",
-    "allAuthors": [
-      "Lanre Asiwaju",
-      "Khairul Azlan Mustapha",
-      "Wan Hasiah Abdullah",
-      "Say Gee Sia",
-      "Mohammed Hail Hakimi"
-    ],
-    "title": "Geochemistry of Cenozoic coals from Sarawak Basin, Malaysia: implications for paleoclimate, depositional conditions, and controls on petroleum potential",
-    "publicationDate": "2024-06-04",
-    "year": 2024,
-    "venue": "International Journal of Coal Science & Technology",
-    "citations": 8,
-    "fwci": 1.8808,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Coal and Its By-products"
-    ],
-    "institutions": [
-      "University of Malaya",
-      "Taiz University"
     ]
   },
   {
@@ -45317,39 +45350,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Taiz University",
       "University of Malaya"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1979393215",
-    "doi": "https://doi.org/10.1016/j.fuel.2013.11.007",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5048429617",
-      "A5058473670"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Wan Hasiah Abdullah",
-      "Nabil M. Al‐Areeq"
-    ],
-    "title": "Organic geochemical characteristics and depositional environments of the Upper Cretaceous coals in the Jiza-Qamar Basin of eastern Yemen",
-    "publicationDate": "2013-11-16",
-    "year": 2013,
-    "venue": "Fuel",
-    "citations": 15,
-    "fwci": 0.9364,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Coal and Its By-products",
-      "Coal Properties and Utilization"
-    ],
-    "institutions": [
-      "Taiz University",
-      "University of Malaya",
-      "Thamar University"
     ]
   },
   {
@@ -50816,7 +50816,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.1663,
+    "fwci": 1.1616,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -68294,8 +68294,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-05-23",
     "year": 2017,
     "venue": "International Journal of Coal Geology",
-    "citations": 183,
-    "fwci": 13.0381,
+    "citations": 184,
+    "fwci": 13.0517,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -70042,7 +70042,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5555,
+    "fwci": 18.5558,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -70875,7 +70875,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 39,
-    "fwci": 3.7568,
+    "fwci": 3.7574,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -74512,7 +74512,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1999-04-01",
     "year": 1999,
     "venue": "GeoArabia",
-    "citations": 227,
+    "citations": 228,
     "fwci": 0.6583,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -75903,8 +75903,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 306,
-    "fwci": 18.6714,
+    "citations": 307,
+    "fwci": 18.68,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -87449,7 +87449,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4405,
+    "fwci": 135.4016,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88222,8 +88222,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3393,
-    "fwci": 71.9588,
+    "citations": 3395,
+    "fwci": 71.962,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -89820,7 +89820,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 81,
-    "fwci": 5.694,
+    "fwci": 5.6939,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89857,7 +89857,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 75,
-    "fwci": 5.9211,
+    "fwci": 5.9217,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -91492,8 +91492,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-10-31",
     "year": 2017,
     "venue": "Precambrian Research",
-    "citations": 64,
-    "fwci": 5.2357,
+    "citations": 65,
+    "fwci": 5.2384,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -93408,7 +93408,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 31,
-    "fwci": 8.1535,
+    "fwci": 8.1107,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -116176,8 +116176,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-01-01",
     "year": 2023,
     "venue": "IEEE Access",
-    "citations": 24,
-    "fwci": 4.4179,
+    "citations": 25,
+    "fwci": 4.595,
     "topics": [
       "Reservoir Engineering and Simulation Methods",
       "Hydrocarbon exploration and reservoir analysis",
@@ -126445,8 +126445,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1993-07-01",
     "year": 1993,
     "venue": "Revue de l Institut Français du Pétrole",
-    "citations": 74,
-    "fwci": 3.4602,
+    "citations": 75,
+    "fwci": 3.46,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies",
@@ -127936,8 +127936,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-01-31",
     "year": 2023,
     "venue": "Sedimentology",
-    "citations": 17,
-    "fwci": 2.6931,
+    "citations": 18,
+    "fwci": 2.793,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -133587,7 +133587,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 15,
-    "fwci": 3.2442,
+    "fwci": 3.245,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
