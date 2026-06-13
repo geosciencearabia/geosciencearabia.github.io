@@ -4827,8 +4827,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5745,8 +5745,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6930,8 +6930,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8252,8 +8252,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9448,8 +9448,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10202,8 +10202,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10440,7 +10440,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -10595,7 +10595,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -10639,7 +10639,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -10659,7 +10659,10 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 8,
       "corresponding_author_ids": [
-        "https://openalex.org/A5014657720"
+        "https://openalex.org/A5014657720",
+        "https://openalex.org/A5035537771",
+        "https://openalex.org/A5044235421",
+        "https://openalex.org/A5104094821"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -10670,11 +10673,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.6457,
+      "fwci": 1.6388,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.79038176,
+        "value": 0.78951021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11071,7 +11074,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14584,7 +14587,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
@@ -14610,8 +14613,12 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103082989"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 1570,
         "currency": "EUR",
@@ -14622,11 +14629,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 1.2569,
+      "fwci": 1.2455,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.73786408,
+        "value": 0.73581829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15031,41 +15038,41 @@
       ],
       "abstract_inverted_index": {
         "45": [
-          199
+          201
         ],
         "The": [
           0,
-          135,
-          207
+          137,
+          209
         ],
         "interplay": [
           1
         ],
         "between": [
           2,
-          213
+          215
         ],
         "depositional": [
           3,
-          214
+          216
         ],
         "and": [
           4,
           68,
           70,
           76,
-          95,
-          99,
-          119,
-          132,
-          145,
-          166,
-          188,
-          193,
-          205,
-          218,
-          222,
-          237
+          97,
+          101,
+          121,
+          134,
+          147,
+          168,
+          190,
+          195,
+          207,
+          220,
+          224,
+          239
         ],
         "diagenetic": [
           5
@@ -15075,23 +15082,23 @@
         ],
         "controls": [
           7,
-          89
+          91
         ],
         "the": [
           8,
           17,
           28,
           40,
-          90,
-          108,
-          139,
-          153,
-          157,
-          174,
-          177,
-          181,
-          219,
-          239
+          92,
+          110,
+          141,
+          155,
+          159,
+          176,
+          179,
+          183,
+          221,
+          241
         ],
         "distribution": [
           9,
@@ -15102,42 +15109,42 @@
           19,
           30,
           53,
-          92,
-          143,
-          150,
-          161,
-          171,
-          225,
-          241
+          94,
+          145,
+          152,
+          163,
+          173,
+          227,
+          243
         ],
         "geomechanical": [
           11,
           20,
           71,
-          93,
-          133,
-          223
+          95,
+          135,
+          225
         ],
         "properties": [
           12,
           21,
-          94,
-          224
+          96,
+          226
         ],
         "in": [
           13,
           22,
-          101,
-          233,
-          238,
-          247
+          103,
+          235,
+          240,
+          249
         ],
         "carbonate": [
           14,
           32,
-          102,
-          227,
-          249
+          104,
+          229,
+          251
         ],
         "rocks.": [
           15
@@ -15156,7 +15163,7 @@
         ],
         "for": [
           26,
-          244
+          246
         ],
         "analyzing": [
           27
@@ -15167,7 +15174,7 @@
         "unconventional": [
           31,
           56,
-          226
+          228
         ],
         "reservoirs": [
           33
@@ -15177,7 +15184,7 @@
         ],
         "hydraulic": [
           35,
-          245
+          247
         ],
         "fracturing.": [
           36
@@ -15248,11 +15255,11 @@
         ],
         "rock": [
           62,
-          220
+          222
         ],
         "physical": [
           63,
-          221
+          223
         ],
         "(Vp,": [
           64
@@ -15289,299 +15296,305 @@
         ],
         "Modulus": [
           79,
-          195
-        ],
-        "(Ed))": [
-          80
-        ],
-        "analyses": [
-          81
-        ],
-        "were": [
-          82
-        ],
-        "integrated": [
-          83,
-          123
-        ],
-        "to": [
-          84,
-          198
-        ],
-        "examine": [
-          85
-        ],
-        "how": [
-          86
-        ],
-        "sedimentary": [
-          87,
-          112,
-          216
-        ],
-        "microfacies": [
-          88,
-          113,
-          128
-        ],
-        "variation": [
-          91
-        ],
-        "thus,": [
-          96
-        ],
-        "reservoir": [
-          97,
-          234
-        ],
-        "quality": [
-          98,
-          235
-        ],
-        "heterogeneity": [
-          100
-        ],
-        "successions.": [
-          103
-        ],
-        "Petrographic": [
-          104
-        ],
-        "observations": [
-          105
-        ],
-        "reveal": [
-          106,
-          209
-        ],
-        "that": [
-          107,
-          126
-        ],
-        "TMF": [
-          109
-        ],
-        "comprises": [
-          110
-        ],
-        "three": [
-          111,
-          175
-        ],
-        "including": [
-          114
-        ],
-        "peloidal": [
-          115,
-          136
-        ],
-        "grainstone,": [
-          116
-        ],
-        "bioclastic-peloidal": [
-          117
-        ],
-        "packstone,": [
-          118
-        ],
-        "bioclastic": [
-          120,
-          154,
-          178
-        ],
-        "wackestone.": [
-          121
-        ],
-        "An": [
-          122
-        ],
-        "analysis": [
-          124
-        ],
-        "indicates": [
-          125
-        ],
-        "these": [
-          127
-        ],
-        "shows": [
-          129,
-          138,
-          180
-        ],
-        "distinct": [
-          130
-        ],
-        "petrophysical": [
-          131
-        ],
-        "properties.": [
-          134
-        ],
-        "grainstone": [
-          137
-        ],
-        "highest": [
-          140,
-          167,
-          182
-        ],
-        "average": [
-          141,
-          147,
-          159,
-          168,
-          183
-        ],
-        "porosity": [
-          142,
-          160
-        ],
-        "15.4%": [
-          144
-        ],
-        "lowest": [
-          146,
-          158
-        ],
-        "UCS": [
-          148,
-          169
-        ],
-        "value": [
-          149,
-          170,
-          185,
-          190
-        ],
-        "34Mpa,": [
-          151
-        ],
-        "while": [
-          152
-        ],
-        "wackestone": [
-          155,
-          179
-        ],
-        "exhibit": [
-          156
-        ],
-        "2.8%,": [
-          162
-        ],
-        "Poisson": [
-          163
-        ],
-        "Ratio": [
-          164
-        ],
-        "(0.26)": [
-          165
-        ],
-        "148Mpa.": [
-          172
-        ],
-        "Among": [
-          173
-        ],
-        "microfacies,": [
-          176,
-          217
-        ],
-        "Vp": [
-          184
-        ],
-        "(5635.5": [
-          186
-        ],
-        "m/s)": [
-          187
-        ],
-        "Vs": [
-          189
-        ],
-        "(2935.25": [
-          191
-        ],
-        "m/s),": [
-          192
-        ],
-        "Young": [
-          194
-        ],
-        "(Ed;": [
-          196
-        ],
-        "up": [
           197
         ],
-        "Gpa),": [
+        "(E": [
+          80
+        ],
+        "d": [
+          81
+        ],
+        "))": [
+          82
+        ],
+        "analyses": [
+          83
+        ],
+        "were": [
+          84
+        ],
+        "integrated": [
+          85,
+          125
+        ],
+        "to": [
+          86,
           200
         ],
-        "suggesting": [
-          201
+        "examine": [
+          87
         ],
-        "a": [
-          202,
-          210
+        "how": [
+          88
         ],
-        "high": [
-          203
+        "sedimentary": [
+          89,
+          114,
+          218
         ],
-        "brittleness": [
-          204
+        "microfacies": [
+          90,
+          115,
+          130
         ],
-        "fracability.": [
-          206
+        "variation": [
+          93
         ],
-        "findings": [
-          208
+        "thus,": [
+          98
         ],
-        "strong": [
-          211
-        ],
-        "correlation": [
-          212
-        ],
-        "texture,": [
-          215
-        ],
-        "reservoirs.": [
-          228
-        ],
-        "These": [
-          229
-        ],
-        "insights": [
-          230
-        ],
-        "can": [
-          231
-        ],
-        "help": [
-          232
-        ],
-        "predictions": [
+        "reservoir": [
+          99,
           236
         ],
-        "selection": [
-          240
+        "quality": [
+          100,
+          237
         ],
-        "sweet": [
+        "heterogeneity": [
+          102
+        ],
+        "successions.": [
+          105
+        ],
+        "Petrographic": [
+          106
+        ],
+        "observations": [
+          107
+        ],
+        "reveal": [
+          108,
+          211
+        ],
+        "that": [
+          109,
+          128
+        ],
+        "TMF": [
+          111
+        ],
+        "comprises": [
+          112
+        ],
+        "three": [
+          113,
+          177
+        ],
+        "including": [
+          116
+        ],
+        "peloidal": [
+          117,
+          138
+        ],
+        "grainstone,": [
+          118
+        ],
+        "bioclastic-peloidal": [
+          119
+        ],
+        "packstone,": [
+          120
+        ],
+        "bioclastic": [
+          122,
+          156,
+          180
+        ],
+        "wackestone.": [
+          123
+        ],
+        "An": [
+          124
+        ],
+        "analysis": [
+          126
+        ],
+        "indicates": [
+          127
+        ],
+        "these": [
+          129
+        ],
+        "shows": [
+          131,
+          140,
+          182
+        ],
+        "distinct": [
+          132
+        ],
+        "petrophysical": [
+          133
+        ],
+        "properties.": [
+          136
+        ],
+        "grainstone": [
+          139
+        ],
+        "highest": [
+          142,
+          169,
+          184
+        ],
+        "average": [
+          143,
+          149,
+          161,
+          170,
+          185
+        ],
+        "porosity": [
+          144,
+          162
+        ],
+        "15.4%": [
+          146
+        ],
+        "lowest": [
+          148,
+          160
+        ],
+        "UCS": [
+          150,
+          171
+        ],
+        "value": [
+          151,
+          172,
+          187,
+          192
+        ],
+        "34Mpa,": [
+          153
+        ],
+        "while": [
+          154
+        ],
+        "wackestone": [
+          157,
+          181
+        ],
+        "exhibit": [
+          158
+        ],
+        "2.8%,": [
+          164
+        ],
+        "Poisson": [
+          165
+        ],
+        "Ratio": [
+          166
+        ],
+        "(0.26)": [
+          167
+        ],
+        "148Mpa.": [
+          174
+        ],
+        "Among": [
+          175
+        ],
+        "microfacies,": [
+          178,
+          219
+        ],
+        "Vp": [
+          186
+        ],
+        "(5635.5": [
+          188
+        ],
+        "m/s)": [
+          189
+        ],
+        "Vs": [
+          191
+        ],
+        "(2935.25": [
+          193
+        ],
+        "m/s),": [
+          194
+        ],
+        "Young": [
+          196
+        ],
+        "(Ed;": [
+          198
+        ],
+        "up": [
+          199
+        ],
+        "Gpa),": [
+          202
+        ],
+        "suggesting": [
+          203
+        ],
+        "a": [
+          204,
+          212
+        ],
+        "high": [
+          205
+        ],
+        "brittleness": [
+          206
+        ],
+        "fracability.": [
+          208
+        ],
+        "findings": [
+          210
+        ],
+        "strong": [
+          213
+        ],
+        "correlation": [
+          214
+        ],
+        "texture,": [
+          217
+        ],
+        "reservoirs.": [
+          230
+        ],
+        "These": [
+          231
+        ],
+        "insights": [
+          232
+        ],
+        "can": [
+          233
+        ],
+        "help": [
+          234
+        ],
+        "predictions": [
+          238
+        ],
+        "selection": [
           242
         ],
+        "sweet": [
+          244
+        ],
         "spots": [
-          243
+          245
         ],
         "fracturing": [
-          246
-        ],
-        "complex": [
           248
         ],
-        "sequences.": [
+        "complex": [
           250
+        ],
+        "sequences.": [
+          252
         ]
       },
       "counts_by_year": [
@@ -15590,7 +15603,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16082,8 +16095,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16947,8 +16960,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

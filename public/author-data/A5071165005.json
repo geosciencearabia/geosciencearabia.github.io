@@ -852,8 +852,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
@@ -1556,8 +1556,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -2273,7 +2273,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
@@ -2310,7 +2310,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
@@ -2329,15 +2329,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013088513",
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5778,
+      "fwci": 1.5746,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.80340002,
+        "value": 0.80305308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2684,8 +2689,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -2768,7 +2773,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4311,8 +4316,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],

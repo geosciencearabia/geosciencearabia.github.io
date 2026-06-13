@@ -15,13 +15,13 @@
       "Abduljamiu Olalekan Amao",
       "Amao Abduljamiu"
     ],
-    "full_name": "Abduljamiu O. Amao",
+    "full_name": "Abduljamiu Olalekan Amao",
     "works_count": 143,
-    "cited_by_count": 1365,
+    "cited_by_count": 1366,
     "summary_stats": {
-      "2yr_mean_citedness": 7.142857142857143,
+      "2yr_mean_citedness": 7.166666666666667,
       "h_index": 22,
-      "i10_index": 49
+      "i10_index": 50
     },
     "ids": {
       "openalex": "https://openalex.org/A5027197211",
@@ -375,7 +375,7 @@
         "year": 2024,
         "works_count": 25,
         "oa_works_count": 9,
-        "cited_by_count": 240
+        "cited_by_count": 241
       },
       {
         "year": 2025,
@@ -398,7 +398,7 @@
     ],
     "block_key": "a amao",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5027197211",
-    "updated_date": "2026-06-11T12:23:26",
+    "updated_date": "2026-06-12T12:25:28",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -54801,7 +54801,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abduljamiu Olalekan Amao",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. amao@kfupm.edu.sa",
@@ -54845,7 +54845,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Murtada Saleh Aljawad",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. mjawad@kfupm.edu.sa",
@@ -55026,8 +55026,13 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002974432",
+        "https://openalex.org/A5027197211"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 1890,
         "currency": "EUR",
@@ -55038,11 +55043,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.4726,
+      "fwci": 1.469,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.80803187,
+        "value": 0.80771517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56053,7 +56058,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -75239,7 +75244,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -75394,7 +75399,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
@@ -75438,7 +75443,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Lamidi Babalola",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
@@ -75458,7 +75463,10 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 8,
       "corresponding_author_ids": [
-        "https://openalex.org/A5014657720"
+        "https://openalex.org/A5014657720",
+        "https://openalex.org/A5035537771",
+        "https://openalex.org/A5044235421",
+        "https://openalex.org/A5104094821"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -75469,11 +75477,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.6457,
+      "fwci": 1.6388,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.79038176,
+        "value": 0.78951021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75870,7 +75878,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96394,6 +96402,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96430,6 +96439,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96467,6 +96477,7 @@
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
             "Materials Science and Engineering Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96509,6 +96520,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96545,6 +96557,7 @@
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96581,6 +96594,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Refining and Advanced Chemicals (IRC-RAC), King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Refining and Advanced Chemicals (IRC-RAC), King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
@@ -96606,11 +96620,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.5382,
+      "fwci": 1.0265,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78094093,
+        "value": 0.70302416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97015,7 +97029,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97136,7 +97150,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Saad Alafnan",
           "raw_affiliation_strings": [
             "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum & Minerals, KFUPM, 31261, Dhahran, Saudi Arabia",
@@ -97243,19 +97257,23 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5080526944"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 2490,
         "currency": "EUR",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.0363,
+      "fwci": 1.0265,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.72830689,
+        "value": 0.72635744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97539,7 +97557,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-13T07:54:00.901334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
