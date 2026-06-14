@@ -699,11 +699,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 4.1851,
+      "fwci": 4.1834,
       "has_fulltext": true,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.95274439,
+        "value": 0.95268193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1262,8 +1262,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388818709.pdf"
@@ -1697,7 +1697,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-06-13T07:54:00.901334",
+      "updated_date": "2026-06-13T06:13:01.061226",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2265,8 +2265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -2987,8 +2987,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 166,
@@ -3979,8 +3979,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -4704,8 +4704,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -5709,8 +5709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -6542,8 +6542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -7921,8 +7921,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -9099,8 +9099,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -10074,8 +10074,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391640940.pdf",
@@ -10780,7 +10780,8 @@
           "is_corresponding": false,
           "raw_author_name": "S. Morad",
           "raw_affiliation_strings": [
-            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates"
+            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates",
+            "Petrographica, Vikvägen 82, 75655, Uppsala, Sweden"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -10789,6 +10790,10 @@
               "institution_ids": [
                 "https://openalex.org/I176601375"
               ]
+            },
+            {
+              "raw_affiliation_string": "Petrographica, Vikvägen 82, 75655, Uppsala, Sweden",
+              "institution_ids": []
             }
           ]
         },
@@ -11092,11 +11097,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 12.6682,
+      "fwci": 12.5545,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.9843928,
+        "value": 0.98413722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11496,8 +11501,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 124,
@@ -11654,7 +11659,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-06-04T09:04:59.091469",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12362,8 +12367,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -13165,8 +13170,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -14356,8 +14361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393031684.pdf"
@@ -14881,7 +14886,7 @@
           "author": {
             "id": "https://openalex.org/A5081766026",
             "display_name": "Abdulquadri O. Alabere",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1015-1094"
           },
           "institutions": [
             {
@@ -15242,16 +15247,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.0048,
+      "fwci": 1.8718,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85481917,
+        "value": 0.8418861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -15767,8 +15772,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -15892,7 +15897,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-05-07T13:39:58.223016",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16573,8 +16578,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -17798,8 +17803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -19345,8 +19350,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -20189,8 +20194,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -20328,7 +20333,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.geoen.2026.214397",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.geoen.2026.214397",
         "pdf_url": null,
         "source": {
@@ -20351,8 +20356,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -20364,9 +20369,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.geoen.2026.214397",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -20377,13 +20382,35 @@
             "display_name": "Ahmed Eleslambouly",
             "orcid": "https://orcid.org/0009-0005-9029-0666"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Ahmed K. Eleslambouly",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)"
+          ],
           "raw_orcid": "https://orcid.org/0009-0005-9029-0666",
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -20392,13 +20419,35 @@
             "display_name": "Mursal Zeynalli",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mursal Zeynalli",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Chemical and Petroleum Engineering Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chemical and Petroleum Engineering Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -20422,27 +20471,53 @@
             "display_name": "Mohammad Alsuwaidi",
             "orcid": "https://orcid.org/0000-0002-2477-0654"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, Khalifa University of Science and Technology, Abu Dhabi, 127788, United Arab Emirates (UAE)",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094215875"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.4585,
+      "fwci": 14.061,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.98602338,
+        "value": 0.9852851,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20628,7 +20703,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.geoen.2026.214397",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.geoen.2026.214397",
           "pdf_url": null,
           "source": {
@@ -20651,8 +20726,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -20660,7 +20735,39 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1016/j.geoen.2026.214397",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.geoen.2026.214397",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4387285440",
+          "display_name": "Geoenergy Science and Engineering",
+          "issn_l": "2949-8910",
+          "issn": [
+            "2949-8910"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoenergy Science and Engineering",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "awards": [
         {
@@ -20679,8 +20786,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -20745,14 +20852,653 @@
         "https://openalex.org/W4414130258"
       ],
       "related_works": [],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          33,
+          115,
+          212,
+          235,
+          265
+        ],
+        "Depleted": [
+          0
+        ],
+        "hydrocarbon": [
+          1
+        ],
+        "reservoirs": [
+          2
+        ],
+        "offer": [
+          3
+        ],
+        "a": [
+          4,
+          40,
+          54,
+          98,
+          106,
+          112,
+          130,
+          185,
+          224
+        ],
+        "technically": [
+          5
+        ],
+        "viable": [
+          6
+        ],
+        "and": [
+          7,
+          22,
+          88,
+          138,
+          158,
+          171,
+          209,
+          226,
+          258
+        ],
+        "cost-effective": [
+          8
+        ],
+        "solution": [
+          9
+        ],
+        "for": [
+          10,
+          142,
+          207,
+          229,
+          262
+        ],
+        "long-term": [
+          11
+        ],
+        "geological": [
+          12
+        ],
+        "carbon": [
+          13
+        ],
+        "storage": [
+          14,
+          34,
+          95,
+          116,
+          236,
+          266
+        ],
+        "(GCS),": [
+          15
+        ],
+        "particularly": [
+          16
+        ],
+        "in": [
+          17,
+          47,
+          220,
+          238
+        ],
+        "offshore": [
+          18,
+          45,
+          263
+        ],
+        "settings": [
+          19
+        ],
+        "where": [
+          20
+        ],
+        "infrastructure": [
+          21
+        ],
+        "subsurface": [
+          23
+        ],
+        "data": [
+          24
+        ],
+        "are": [
+          25
+        ],
+        "well": [
+          26
+        ],
+        "established.": [
+          27
+        ],
+        "This": [
+          28
+        ],
+        "study": [
+          29,
+          222
+        ],
+        "assesses": [
+          30
+        ],
+        "the": [
+          31,
+          37,
+          48,
+          59,
+          143,
+          230,
+          244,
+          251
+        ],
+        "CO": [
+          32,
+          114,
+          211,
+          234,
+          264
+        ],
+        "potential": [
+          35,
+          237
+        ],
+        "of": [
+          36,
+          50,
+          79,
+          133,
+          146,
+          233,
+          246,
+          253
+        ],
+        "VR014": [
+          38,
+          201
+        ],
+        "Field,": [
+          39
+        ],
+        "depleted": [
+          41,
+          61,
+          89,
+          159,
+          240
+        ],
+        "gas": [
+          42,
+          241
+        ],
+        "reservoir": [
+          43,
+          86,
+          153
+        ],
+        "located": [
+          44
+        ],
+        "Louisiana": [
+          46
+        ],
+        "Gulf": [
+          49,
+          245
+        ],
+        "Mexico,": [
+          51,
+          247
+        ],
+        "by": [
+          52,
+          105,
+          150,
+          165
+        ],
+        "developing": [
+          53
+        ],
+        "static": [
+          55,
+          90,
+          216
+        ],
+        "petrophysical": [
+          56,
+          80
+        ],
+        "model": [
+          57
+        ],
+        "reflecting": [
+          58
+        ],
+        "field’s": [
+          60
+        ],
+        "conditions.": [
+          62
+        ],
+        "The": [
+          63,
+          136,
+          180,
+          214
+        ],
+        "workflow": [
+          64
+        ],
+        "integrates": [
+          65
+        ],
+        "3D": [
+          66
+        ],
+        "geostatistical": [
+          67
+        ],
+        "modeling": [
+          68,
+          217
+        ],
+        "techniques": [
+          69
+        ],
+        "to": [
+          70,
+          84,
+          92,
+          125,
+          250
+        ],
+        "characterize": [
+          71
+        ],
+        "five": [
+          72
+        ],
+        "gas-bearing": [
+          73
+        ],
+        "sandstone": [
+          74
+        ],
+        "intervals.": [
+          75
+        ],
+        "Three-dimensional": [
+          76
+        ],
+        "spatial": [
+          77
+        ],
+        "variations": [
+          78
+        ],
+        "parameters": [
+          81
+        ],
+        "were": [
+          82
+        ],
+        "analyzed": [
+          83
+        ],
+        "assess": [
+          85
+        ],
+        "heterogeneity": [
+          87
+        ],
+        "conditions,": [
+          91
+        ],
+        "inform": [
+          93
+        ],
+        "volumetric": [
+          94
+        ],
+        "estimation": [
+          96
+        ],
+        "using": [
+          97
+        ],
+        "probabilistic": [
+          99,
+          107
+        ],
+        "approach.": [
+          100
+        ],
+        "Storage": [
+          101
+        ],
+        "capacity,": [
+          102,
+          148
+        ],
+        "as": [
+          103
+        ],
+        "determined": [
+          104
+        ],
+        "Monte": [
+          108
+        ],
+        "Carlo": [
+          109
+        ],
+        "analysis,": [
+          110,
+          174
+        ],
+        "yields": [
+          111
+        ],
+        "total": [
+          113
+        ],
+        "capacity": [
+          117
+        ],
+        "ranging": [
+          118
+        ],
+        "from": [
+          119
+        ],
+        "56.1": [
+          120
+        ],
+        "million": [
+          121
+        ],
+        "tonnes": [
+          122
+        ],
+        "(Mt;": [
+          123
+        ],
+        "P90)": [
+          124
+        ],
+        "221.6": [
+          126
+        ],
+        "Mt": [
+          127
+        ],
+        "(P10),": [
+          128
+        ],
+        "with": [
+          129
+        ],
+        "P50": [
+          131
+        ],
+        "estimate": [
+          132
+        ],
+        "115.4": [
+          134
+        ],
+        "Mt.": [
+          135
+        ],
+        "CRISI2": [
+          137
+        ],
+        "BIG2_1C": [
+          139
+        ],
+        "intervals": [
+          140
+        ],
+        "account": [
+          141
+        ],
+        "largest": [
+          144
+        ],
+        "share": [
+          145
+        ],
+        "this": [
+          147,
+          221
+        ],
+        "driven": [
+          149
+        ],
+        "their": [
+          151
+        ],
+        "superior": [
+          152
+        ],
+        "quality,": [
+          154
+        ],
+        "favorable": [
+          155,
+          204
+        ],
+        "structural": [
+          156
+        ],
+        "positioning,": [
+          157
+        ],
+        "volumes.": [
+          160
+        ],
+        "Sealing": [
+          161
+        ],
+        "integrity": [
+          162
+        ],
+        "is": [
+          163
+        ],
+        "supported": [
+          164
+        ],
+        "regionally": [
+          166
+        ],
+        "continuous": [
+          167
+        ],
+        "low-permeability": [
+          168
+        ],
+        "shale": [
+          169
+        ],
+        "units": [
+          170
+        ],
+        "fault": [
+          172
+        ],
+        "transmissibility": [
+          173
+        ],
+        "which": [
+          175
+        ],
+        "confirms": [
+          176
+        ],
+        "predominantly": [
+          177
+        ],
+        "sealing": [
+          178
+        ],
+        "behavior.": [
+          179
+        ],
+        "existing": [
+          181
+        ],
+        "pressure": [
+          182
+        ],
+        "depletion": [
+          183
+        ],
+        "allows": [
+          184
+        ],
+        "wide": [
+          186
+        ],
+        "operational": [
+          187
+        ],
+        "injection": [
+          188
+        ],
+        "window": [
+          189
+        ],
+        "while": [
+          190
+        ],
+        "maintaining": [
+          191
+        ],
+        "safety": [
+          192
+        ],
+        "margins": [
+          193
+        ],
+        "below": [
+          194
+        ],
+        "fracture": [
+          195
+        ],
+        "thresholds.": [
+          196
+        ],
+        "These": [
+          197
+        ],
+        "findings": [
+          198
+        ],
+        "demonstrate": [
+          199
+        ],
+        "that": [
+          200
+        ],
+        "Field": [
+          202
+        ],
+        "offers": [
+          203
+        ],
+        "low-risk": [
+          205
+        ],
+        "conditions": [
+          206
+        ],
+        "secure": [
+          208
+        ],
+        "efficient": [
+          210
+        ],
+        "sequestration.": [
+          213
+        ],
+        "integrated": [
+          215
+        ],
+        "framework": [
+          218
+        ],
+        "developed": [
+          219
+        ],
+        "provides": [
+          223
+        ],
+        "scalable": [
+          225
+        ],
+        "transferable": [
+          227
+        ],
+        "methodology": [
+          228
+        ],
+        "accelerated": [
+          231
+        ],
+        "evaluation": [
+          232
+        ],
+        "other": [
+          239
+        ],
+        "fields": [
+          242
+        ],
+        "across": [
+          243
+        ],
+        "thereby": [
+          248
+        ],
+        "contributing": [
+          249
+        ],
+        "advancement": [
+          252
+        ],
+        "basin-wide": [
+          254
+        ],
+        "screening,": [
+          255
+        ],
+        "site": [
+          256
+        ],
+        "selection,": [
+          257
+        ],
+        "pre-injection": [
+          259
+        ],
+        "certification": [
+          260
+        ],
+        "strategies": [
+          261
+        ],
+        "deployment.": [
+          267
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -21192,8 +21938,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -21917,8 +22663,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -22605,8 +23351,8 @@
           "raw_author_name": "Nouf Alteneiji",
           "raw_affiliation_strings": [
             "Khalifa University of Science and Technology, Department of Earth Sciences, PO Box 127788, Abu Dhabi, United Arab Emirates",
-            "current address: University of Sharjah, College of Sciences, PO Box 27272, Sharjah, UAE",
-            "Khalifa University of Science and Technology, Department of Earth Sciences, PO Box 127788, Abu Dhabi, UAE"
+            "Khalifa University of Science and Technology, Department of Earth Sciences, PO Box 127788, Abu Dhabi, UAE",
+            "current address: University of Sharjah, College of Sciences, PO Box 27272, Sharjah, UAE"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -22617,15 +23363,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "current address: University of Sharjah, College of Sciences, PO Box 27272, Sharjah, UAE",
-              "institution_ids": [
-                "https://openalex.org/I29891158"
-              ]
-            },
-            {
               "raw_affiliation_string": "Khalifa University of Science and Technology, Department of Earth Sciences, PO Box 127788, Abu Dhabi, UAE",
               "institution_ids": [
                 "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "raw_affiliation_string": "current address: University of Sharjah, College of Sciences, PO Box 27272, Sharjah, UAE",
+              "institution_ids": [
+                "https://openalex.org/I29891158"
               ]
             }
           ]
@@ -22867,11 +23613,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 12.1472,
+      "fwci": 11.1679,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.9803332,
+        "value": 0.97682165,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23169,8 +23915,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -23291,7 +24037,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23356,7 +24102,7 @@
           "author": {
             "id": "https://openalex.org/A5081766026",
             "display_name": "Abdulquadri O. Alabere",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1015-1094"
           },
           "institutions": [
             {
@@ -23629,11 +24375,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.9742,
+      "fwci": 0.9297,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.68294258,
+        "value": 0.67326669,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24047,8 +24793,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324044724.pdf"
@@ -24207,7 +24953,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-30T09:15:22.047038",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24577,11 +25323,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 7.2229,
+      "fwci": 6.9799,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.96225309,
+        "value": 0.96040794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24924,8 +25670,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -25047,7 +25793,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T09:01:20.584952",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25341,11 +26087,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 6.3049,
+      "fwci": 6.2624,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94494312,
+        "value": 0.94458678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25589,8 +26335,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -25749,7 +26495,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25847,8 +26593,8 @@
           "raw_affiliation_strings": [
             "Geology Department Missan Oil Company  Misan Iraq",
             "Institute of Exploration Geosciences University of Miskolc  Miskolc Hungary",
-            "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary",
-            "Geology Department, Missan Oil Company, Misan, Iraq"
+            "Geology Department, Missan Oil Company, Misan, Iraq",
+            "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -25865,15 +26611,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary",
-              "institution_ids": [
-                "https://openalex.org/I20230540"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geology Department, Missan Oil Company, Misan, Iraq",
               "institution_ids": [
                 "https://openalex.org/I35906937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Exploration Geosciences, University of Miskolc, Miskolc, Hungary",
+              "institution_ids": [
+                "https://openalex.org/I20230540"
               ]
             }
           ]
@@ -26291,11 +27037,11 @@
         "currency": "USD",
         "value_usd": 3240
       },
-      "fwci": 3.3902,
+      "fwci": 3.1312,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92549184,
+        "value": 0.91909091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26703,8 +27449,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -27666,7 +28412,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-14T07:44:22.658603",
       "created_date": "2025-11-19T00:00:00"
     },
     {
@@ -28376,8 +29122,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -29870,8 +30616,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4377293771.pdf"
@@ -31103,8 +31849,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3182053178.pdf"
@@ -32146,8 +32892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -33027,8 +33773,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -34333,8 +35079,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35052,8 +35798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2890054025.pdf",
@@ -36309,8 +37055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37466,8 +38212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38417,8 +39163,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38971,8 +39717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39832,8 +40578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -40635,8 +41381,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386256654.pdf"
@@ -41579,8 +42325,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42922,8 +43668,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44151,8 +44897,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -45874,8 +46620,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -46312,8 +47058,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46729,8 +47475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47366,8 +48112,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -48971,8 +49717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50344,8 +51090,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

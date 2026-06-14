@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1293,
-    "citations": 24143
+    "citations": 24144
   },
   {
     "id": "https://openalex.org/T10109",
@@ -56,7 +56,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 574,
-    "citations": 12372
+    "citations": 12373
   },
   {
     "id": "https://openalex.org/T10635",
@@ -152,7 +152,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 100,
-    "citations": 2217
+    "citations": 2218
   },
   {
     "id": "https://openalex.org/T12073",
@@ -722,7 +722,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10075",
     "name": "Atmospheric chemistry and aerosols",
     "publications": 6,
-    "citations": 100
+    "citations": 101
   },
   {
     "id": "https://openalex.org/T10190",
@@ -1424,7 +1424,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11869",
     "name": "Per- and polyfluoroalkyl substances research",
     "publications": 2,
-    "citations": 26
+    "citations": 27
   },
   {
     "id": "https://openalex.org/T11077",
@@ -2102,7 +2102,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10122",
     "name": "Toxic Organic Pollutants Impact",
     "publications": 1,
-    "citations": 26
+    "citations": 27
   },
   {
     "id": "https://openalex.org/T10079",
@@ -3676,13 +3676,13 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 914,
-    "citations": 10471
+    "publications": 915,
+    "citations": 10474
   },
   {
     "id": "https://openalex.org/I5681781",
     "name": "University of Adelaide",
-    "publications": 260,
+    "publications": 261,
     "citations": 16347
   },
   {
@@ -3695,7 +3695,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 169,
-    "citations": 4201
+    "citations": 4202
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3731,7 +3731,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 95,
-    "citations": 979
+    "citations": 980
   },
   {
     "id": "https://openalex.org/I139290333",
@@ -3760,7 +3760,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I71920554",
     "name": "King Abdullah University of Science and Technology",
-    "publications": 80,
+    "publications": 81,
     "citations": 1016
   },
   {
@@ -3782,22 +3782,22 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 405
   },
   {
+    "id": "https://openalex.org/I176601375",
+    "name": "Khalifa University of Science and Technology",
+    "publications": 50,
+    "citations": 394
+  },
+  {
     "id": "https://openalex.org/I114972647",
     "name": "University of Jordan",
     "publications": 49,
     "citations": 1363
   },
   {
-    "id": "https://openalex.org/I176601375",
-    "name": "Khalifa University of Science and Technology",
-    "publications": 49,
-    "citations": 392
-  },
-  {
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 47,
-    "citations": 723
+    "citations": 724
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -5150,6 +5150,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 136
   },
   {
+    "id": "https://openalex.org/I100930933",
+    "name": "University College Dublin",
+    "publications": 6,
+    "citations": 123
+  },
+  {
     "id": "https://openalex.org/I1313606977",
     "name": "Museum für Naturkunde",
     "publications": 6,
@@ -5220,12 +5226,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation",
     "publications": 6,
     "citations": 27
-  },
-  {
-    "id": "https://openalex.org/I4210152837",
-    "name": "Dhahran Health Center",
-    "publications": 6,
-    "citations": 21
   },
   {
     "id": "https://openalex.org/I181631907",
@@ -5426,12 +5426,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 136
   },
   {
-    "id": "https://openalex.org/I100930933",
-    "name": "University College Dublin",
-    "publications": 5,
-    "citations": 123
-  },
-  {
     "id": "https://openalex.org/I160968435",
     "name": "University of Sargodha",
     "publications": 5,
@@ -5538,6 +5532,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Delft University of Technology",
     "publications": 5,
     "citations": 29
+  },
+  {
+    "id": "https://openalex.org/I4210152837",
+    "name": "Dhahran Health Center",
+    "publications": 5,
+    "citations": 20
   },
   {
     "id": "https://openalex.org/I2800952698",
@@ -7682,6 +7682,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 12
   },
   {
+    "id": "https://openalex.org/I4210095435",
+    "name": "King Abdullah Petroleum Studies and Research Center",
+    "publications": 2,
+    "citations": 12
+  },
+  {
     "id": "https://openalex.org/I74788687",
     "name": "Comenius University Bratislava",
     "publications": 2,
@@ -7820,6 +7826,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 4
   },
   {
+    "id": "https://openalex.org/I4210112034",
+    "name": "King Fahd Military Medical Complex",
+    "publications": 2,
+    "citations": 4
+  },
+  {
     "id": "https://openalex.org/I1329765538",
     "name": "Universities Space Research Association",
     "publications": 2,
@@ -7845,7 +7857,7 @@ export const institutionStats: InstitutionStats[] = [
   },
   {
     "id": "https://openalex.org/I65285256",
-    "name": "Pontifical Catholic University of Peru",
+    "name": "Pontificia Universidad Católica del Perú",
     "publications": 2,
     "citations": 2
   },
@@ -9194,6 +9206,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 31
   },
   {
+    "id": "https://openalex.org/I4210117254",
+    "name": "Konya Technical University",
+    "publications": 1,
+    "citations": 30
+  },
+  {
     "id": "https://openalex.org/I166401450",
     "name": "Universidad Nacional de Córdoba",
     "publications": 1,
@@ -9214,12 +9232,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I72903472",
     "name": "Occidental College",
-    "publications": 1,
-    "citations": 29
-  },
-  {
-    "id": "https://openalex.org/I4210117254",
-    "name": "Konya Technical University",
     "publications": 1,
     "citations": 29
   },
@@ -9964,12 +9976,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210125626",
     "name": "St. John’s Health Sciences Centre",
-    "publications": 1,
-    "citations": 12
-  },
-  {
-    "id": "https://openalex.org/I4210095435",
-    "name": "King Abdullah Petroleum Studies and Research Center",
     "publications": 1,
     "citations": 12
   },
@@ -10868,12 +10874,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 2
   },
   {
-    "id": "https://openalex.org/I4210112034",
-    "name": "King Fahd Military Medical Complex",
-    "publications": 1,
-    "citations": 2
-  },
-  {
     "id": "https://openalex.org/I4210136595",
     "name": "Hamburg Institut (Germany)",
     "publications": 1,
@@ -11740,6 +11740,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210090915",
     "name": "Montfort Social Institute",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I4210133614",
+    "name": "Systems, Applications & Products in Data Processing (United Kingdom)",
     "publications": 1,
     "citations": 0
   },
