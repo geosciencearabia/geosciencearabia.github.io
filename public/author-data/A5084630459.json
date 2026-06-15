@@ -87,7 +87,7 @@
           "ror": "https://ror.org/02feahw73",
           "display_name": "Centre National de la Recherche Scientifique",
           "country_code": "FR",
-          "type": "government",
+          "type": "funder",
           "lineage": [
             "https://openalex.org/I1294671590"
           ]
@@ -434,7 +434,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000835,
+        "value": 0.0000834,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -781,7 +781,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-06-11T12:23:26",
+    "updated_date": "2026-06-14T12:17:41",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [

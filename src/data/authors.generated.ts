@@ -342,7 +342,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 72,
-    "totalCitations": 1033,
+    "totalCitations": 1034,
     "hIndex": 21
   },
   {
@@ -378,7 +378,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 230,
-    "totalCitations": 4686,
+    "totalCitations": 4687,
     "hIndex": 41
   },
   {
