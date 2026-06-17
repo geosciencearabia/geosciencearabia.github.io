@@ -10,10 +10,10 @@
       "Mohammed Benaafi"
     ],
     "full_name": "Benaafi, Mohammed",
-    "works_count": 72,
+    "works_count": 74,
     "cited_by_count": 1036,
     "summary_stats": {
-      "2yr_mean_citedness": 5.592592592592593,
+      "2yr_mean_citedness": 5.206896551724138,
       "h_index": 21,
       "i10_index": 32
     },
@@ -49,18 +49,7 @@
         ]
       }
     ],
-    "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I134085113",
-        "ror": "https://ror.org/03yez3163",
-        "display_name": "King Fahd University of Petroleum and Minerals",
-        "country_code": "SA",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I134085113"
-        ]
-      }
-    ],
+    "last_known_institutions": null,
     "topics": [
       {
         "id": "https://openalex.org/T10398",
@@ -203,7 +192,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000549,
+        "value": 0.0000548,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -339,6 +328,12 @@
         "works_count": 12,
         "oa_works_count": 5,
         "cited_by_count": 22
+      },
+      {
+        "year": 2026,
+        "works_count": 2,
+        "oa_works_count": 2,
+        "cited_by_count": 0
       }
     ],
     "display_name_alternatives": [
@@ -349,7 +344,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-06-15T12:17:36",
+    "updated_date": "2026-06-16T12:20:30",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -685,11 +680,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 7.8878,
+      "fwci": 7.88,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.984164,
+        "value": 0.98414105,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2230,9 +2225,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -3640,9 +3635,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4000000059604645
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4214,11 +4209,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 4.9032,
+      "fwci": 4.8984,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.95944213,
+        "value": 0.95941975,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4587,9 +4582,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.8700000047683716
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4962,11 +4957,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 4.9032,
+      "fwci": 4.8984,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.95988525,
+        "value": 0.95986287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6875,6 +6870,1833 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4304806286",
+      "doi": "https://doi.org/10.3390/molecules27206841",
+      "title": "Integrated Hydrogeological, Hydrochemical, and Isotopic Assessment of Seawater Intrusion into Coastal Aquifers in Al-Qatif Area, Eastern Saudi Arabia",
+      "display_name": "Integrated Hydrogeological, Hydrochemical, and Isotopic Assessment of Seawater Intrusion into Coastal Aquifers in Al-Qatif Area, Eastern Saudi Arabia",
+      "publication_year": 2022,
+      "publication_date": "2022-10-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4304806286",
+        "doi": "https://doi.org/10.3390/molecules27206841",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/36296433"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/molecules27206841",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/molecules27206841",
+        "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
+        "source": {
+          "id": "https://openalex.org/S108911230",
+          "display_name": "Molecules",
+          "issn_l": "1420-3049",
+          "issn": [
+            "1420-3049",
+            "1433-1373"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Molecules",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
+            "orcid": "https://orcid.org/0000-0002-0096-2723"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bassam Tawabini",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062007467",
+            "display_name": "Sani I. Abba",
+            "orcid": "https://orcid.org/0000-0001-9356-2798"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "S. I. Abba",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9356-2798",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082826691",
+            "display_name": "John Humphrey",
+            "orcid": "https://orcid.org/0000-0002-8927-2322"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John D. Humphrey",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034672880",
+            "display_name": "Ahmed M. Al‐Areeq",
+            "orcid": "https://orcid.org/0000-0003-0618-8190"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed M. AL-Areeq",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0618-8190",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072390082",
+            "display_name": "Saad A. Alhulaibi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Saad A. Alhulaibi",
+          "raw_affiliation_strings": [
+            "Saudi Irrigation Organization, Al-Qatif 31982, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Irrigation Organization, Al-Qatif 31982, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037540489",
+            "display_name": "A. G. Usman",
+            "orcid": "https://orcid.org/0000-0001-5660-4581"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I69050122",
+              "display_name": "Near East University",
+              "ror": "https://ror.org/02x8svs93",
+              "country_code": "CY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I69050122"
+              ]
+            }
+          ],
+          "countries": [
+            "CY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. G. Usman",
+          "raw_affiliation_strings": [
+            "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
+            "Operational Research Centre in Healthcare, Near East University, Nicosia 99138, Turkey"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5660-4581",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I69050122"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Operational Research Centre in Healthcare, Near East University, Nicosia 99138, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I69050122"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030371811",
+            "display_name": "Isam H. Aljundi",
+            "orcid": "https://orcid.org/0000-0002-0714-8580"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam H. Aljundi",
+          "raw_affiliation_strings": [
+            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0714-8580",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034568196",
+        "https://openalex.org/A5062007467"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2300,
+        "currency": "CHF",
+        "value_usd": 2490
+      },
+      "apc_paid": {
+        "value": 2300,
+        "currency": "CHF",
+        "value_usd": 2490
+      },
+      "fwci": 5.3029,
+      "has_fulltext": false,
+      "cited_by_count": 41,
+      "citation_normalized_percentile": {
+        "value": 0.96046423,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "27",
+        "issue": "20",
+        "first_page": "6841",
+        "last_page": "6841"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10398",
+        "display_name": "Groundwater and Isotope Geochemistry",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.9763000011444092,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9731000065803528,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/brackish-water",
+          "display_name": "Brackish water",
+          "score": 0.6672044396400452
+        },
+        {
+          "id": "https://openalex.org/keywords/seawater",
+          "display_name": "Seawater",
+          "score": 0.606487512588501
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogeology",
+          "display_name": "Hydrogeology",
+          "score": 0.6048877239227295
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5892568826675415
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.5728317499160767
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.5579648017883301
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5064100027084351
+        },
+        {
+          "id": "https://openalex.org/keywords/soil-salinity",
+          "display_name": "Soil salinity",
+          "score": 0.4590316116809845
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.45411112904548645
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.42515650391578674
+        },
+        {
+          "id": "https://openalex.org/keywords/saline-water",
+          "display_name": "Saline water",
+          "score": 0.4228549003601074
+        },
+        {
+          "id": "https://openalex.org/keywords/seawater-intrusion",
+          "display_name": "Seawater intrusion",
+          "score": 0.4197552800178528
+        },
+        {
+          "id": "https://openalex.org/keywords/salinity",
+          "display_name": "Salinity",
+          "score": 0.41373690962791443
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.32704442739486694
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.25750988721847534
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.22512534260749817
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.17595916986465454
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C118178180",
+          "wikidata": "https://www.wikidata.org/wiki/Q105533",
+          "display_name": "Brackish water",
+          "level": 3,
+          "score": 0.6672044396400452
+        },
+        {
+          "id": "https://openalex.org/C197248824",
+          "wikidata": "https://www.wikidata.org/wiki/Q184395",
+          "display_name": "Seawater",
+          "level": 2,
+          "score": 0.606487512588501
+        },
+        {
+          "id": "https://openalex.org/C33556824",
+          "wikidata": "https://www.wikidata.org/wiki/Q179509",
+          "display_name": "Hydrogeology",
+          "level": 2,
+          "score": 0.6048877239227295
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5892568826675415
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.5728317499160767
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.5579648017883301
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5064100027084351
+        },
+        {
+          "id": "https://openalex.org/C141650431",
+          "wikidata": "https://www.wikidata.org/wiki/Q754836",
+          "display_name": "Soil salinity",
+          "level": 3,
+          "score": 0.4590316116809845
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.45411112904548645
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.42515650391578674
+        },
+        {
+          "id": "https://openalex.org/C16704694",
+          "wikidata": "https://www.wikidata.org/wiki/Q496805",
+          "display_name": "Saline water",
+          "level": 3,
+          "score": 0.4228549003601074
+        },
+        {
+          "id": "https://openalex.org/C2991897412",
+          "wikidata": "https://www.wikidata.org/wiki/Q2002254",
+          "display_name": "Seawater intrusion",
+          "level": 4,
+          "score": 0.4197552800178528
+        },
+        {
+          "id": "https://openalex.org/C129513315",
+          "wikidata": "https://www.wikidata.org/wiki/Q179615",
+          "display_name": "Salinity",
+          "level": 2,
+          "score": 0.41373690962791443
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.32704442739486694
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.25750988721847534
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.22512534260749817
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.17595916986465454
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D004784",
+          "descriptor_name": "Environmental Monitoring",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D004784",
+          "descriptor_name": "Environmental Monitoring",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D004784",
+          "descriptor_name": "Environmental Monitoring",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007554",
+          "descriptor_name": "Isotopes",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007554",
+          "descriptor_name": "Isotopes",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007554",
+          "descriptor_name": "Isotopes",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012623",
+          "descriptor_name": "Seawater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012623",
+          "descriptor_name": "Seawater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012623",
+          "descriptor_name": "Seawater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014867",
+          "descriptor_name": "Water",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014867",
+          "descriptor_name": "Water",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014867",
+          "descriptor_name": "Water",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014874",
+          "descriptor_name": "Water Pollutants, Chemical",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D014874",
+          "descriptor_name": "Water Pollutants, Chemical",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D014874",
+          "descriptor_name": "Water Pollutants, Chemical",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D019066",
+          "descriptor_name": "Facies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019066",
+          "descriptor_name": "Facies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019066",
+          "descriptor_name": "Facies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D054712",
+          "descriptor_name": "Salinity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D054712",
+          "descriptor_name": "Salinity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D054712",
+          "descriptor_name": "Salinity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D060587",
+          "descriptor_name": "Groundwater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D060587",
+          "descriptor_name": "Groundwater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D060587",
+          "descriptor_name": "Groundwater",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
+          "is_major_topic": true
+        }
+      ],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.3390/molecules27206841",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/molecules27206841",
+          "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
+          "source": {
+            "id": "https://openalex.org/S108911230",
+            "display_name": "Molecules",
+            "issn_l": "1420-3049",
+            "issn": [
+              "1420-3049",
+              "1433-1373"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Molecules",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:36296433",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36296433",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Molecules (Basel, Switzerland)",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:054c16c4d7a74dcf9a04469f01f37ed1",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/054c16c4d7a74dcf9a04469f01f37ed1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Molecules, Vol 27, Iss 20, p 6841 (2022)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:mdpi.com:/1420-3049/27/20/6841/",
+          "is_oa": true,
+          "landing_page_url": "https://dx.doi.org/10.3390/molecules27206841",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400947",
+            "display_name": "MDPI (MDPI AG)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210097602",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210097602"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Molecules; Volume 27; Issue 20; Pages: 6841",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:9609279",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9609279",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Molecules",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/molecules27206841",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/molecules27206841",
+        "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
+        "source": {
+          "id": "https://openalex.org/S108911230",
+          "display_name": "Molecules",
+          "issn_l": "1420-3049",
+          "issn": [
+            "1420-3049",
+            "1433-1373"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Molecules",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4304806286.pdf"
+      },
+      "referenced_works_count": 68,
+      "referenced_works": [
+        "https://openalex.org/W82223115",
+        "https://openalex.org/W83246507",
+        "https://openalex.org/W116953507",
+        "https://openalex.org/W1490987323",
+        "https://openalex.org/W1580409454",
+        "https://openalex.org/W1835654170",
+        "https://openalex.org/W1963920789",
+        "https://openalex.org/W1971381271",
+        "https://openalex.org/W1975810657",
+        "https://openalex.org/W1982546148",
+        "https://openalex.org/W1992288491",
+        "https://openalex.org/W2007007599",
+        "https://openalex.org/W2011296118",
+        "https://openalex.org/W2011598090",
+        "https://openalex.org/W2017086444",
+        "https://openalex.org/W2031540093",
+        "https://openalex.org/W2047828631",
+        "https://openalex.org/W2051678693",
+        "https://openalex.org/W2057269184",
+        "https://openalex.org/W2069843249",
+        "https://openalex.org/W2073619829",
+        "https://openalex.org/W2077795175",
+        "https://openalex.org/W2081609660",
+        "https://openalex.org/W2083622187",
+        "https://openalex.org/W2087900827",
+        "https://openalex.org/W2093470115",
+        "https://openalex.org/W2111581225",
+        "https://openalex.org/W2138731640",
+        "https://openalex.org/W2145193168",
+        "https://openalex.org/W2226303350",
+        "https://openalex.org/W2276998810",
+        "https://openalex.org/W2280289841",
+        "https://openalex.org/W2286205753",
+        "https://openalex.org/W2319564997",
+        "https://openalex.org/W2481655557",
+        "https://openalex.org/W2589226544",
+        "https://openalex.org/W2607051438",
+        "https://openalex.org/W2765664484",
+        "https://openalex.org/W2786204358",
+        "https://openalex.org/W2890903666",
+        "https://openalex.org/W2895400717",
+        "https://openalex.org/W2908309330",
+        "https://openalex.org/W2909116647",
+        "https://openalex.org/W2922233477",
+        "https://openalex.org/W2944711102",
+        "https://openalex.org/W2948350161",
+        "https://openalex.org/W2953046211",
+        "https://openalex.org/W2989415696",
+        "https://openalex.org/W2990108932",
+        "https://openalex.org/W3006301212",
+        "https://openalex.org/W3086641090",
+        "https://openalex.org/W3120558324",
+        "https://openalex.org/W3132269838",
+        "https://openalex.org/W3154515276",
+        "https://openalex.org/W3163607130",
+        "https://openalex.org/W3179531231",
+        "https://openalex.org/W3193436972",
+        "https://openalex.org/W3210000639",
+        "https://openalex.org/W3215123661",
+        "https://openalex.org/W4200293938",
+        "https://openalex.org/W4200482046",
+        "https://openalex.org/W4205187533",
+        "https://openalex.org/W4212839989",
+        "https://openalex.org/W4224280242",
+        "https://openalex.org/W4280559331",
+        "https://openalex.org/W4281639585",
+        "https://openalex.org/W6680846039",
+        "https://openalex.org/W6838509692"
+      ],
+      "related_works": [
+        "https://openalex.org/W2138190088",
+        "https://openalex.org/W2156869743",
+        "https://openalex.org/W2729577167",
+        "https://openalex.org/W2347573019",
+        "https://openalex.org/W3166489347",
+        "https://openalex.org/W2149449387",
+        "https://openalex.org/W4200287935",
+        "https://openalex.org/W2405903773",
+        "https://openalex.org/W2351946452",
+        "https://openalex.org/W2341726547"
+      ],
+      "abstract_inverted_index": {
+        "Seawater": [
+          0
+        ],
+        "intrusion": [
+          1,
+          42
+        ],
+        "(SWI)": [
+          2,
+          43
+        ],
+        "is": [
+          3,
+          137,
+          195,
+          248,
+          266
+        ],
+        "the": [
+          4,
+          48,
+          55,
+          59,
+          114,
+          134,
+          167,
+          170,
+          192,
+          204,
+          215,
+          221,
+          225,
+          229,
+          239,
+          256,
+          277
+        ],
+        "main": [
+          5
+        ],
+        "threat": [
+          6
+        ],
+        "to": [
+          7,
+          31,
+          112,
+          166,
+          237,
+          250,
+          268,
+          274
+        ],
+        "fresh": [
+          8
+        ],
+        "groundwater": [
+          9
+        ],
+        "(GW)": [
+          10
+        ],
+        "resources": [
+          11,
+          34
+        ],
+        "in": [
+          12,
+          54,
+          58,
+          82,
+          197,
+          217,
+          220,
+          255
+        ],
+        "coastal": [
+          13,
+          36,
+          52,
+          280
+        ],
+        "regions": [
+          14
+        ],
+        "worldwide.": [
+          15
+        ],
+        "Early": [
+          16
+        ],
+        "identification": [
+          17
+        ],
+        "and": [
+          18,
+          44,
+          50,
+          67,
+          74,
+          78,
+          92,
+          99,
+          106,
+          140,
+          149,
+          177,
+          181,
+          199,
+          244
+        ],
+        "delineation": [
+          19
+        ],
+        "of": [
+          20,
+          47,
+          62,
+          96,
+          117,
+          138,
+          158,
+          186,
+          224,
+          263,
+          279
+        ],
+        "such": [
+          21,
+          252
+        ],
+        "threats": [
+          22
+        ],
+        "can": [
+          23
+        ],
+        "help": [
+          24
+        ],
+        "decision-makers": [
+          25,
+          270
+        ],
+        "plan": [
+          26,
+          275
+        ],
+        "for": [
+          27,
+          35,
+          125,
+          276
+        ],
+        "suitable": [
+          28
+        ],
+        "management": [
+          29,
+          253
+        ],
+        "measures": [
+          30
+        ],
+        "protect": [
+          32,
+          238
+        ],
+        "water": [
+          33
+        ],
+        "communities.": [
+          37
+        ],
+        "This": [
+          38
+        ],
+        "study": [
+          39,
+          226
+        ],
+        "assesses": [
+          40
+        ],
+        "seawater": [
+          41,
+          107
+        ],
+        "GW": [
+          45,
+          97,
+          126,
+          136,
+          162,
+          173,
+          189,
+          194,
+          218,
+          231,
+          241,
+          265
+        ],
+        "salinization": [
+          46,
+          127
+        ],
+        "shallow": [
+          49,
+          135,
+          161,
+          193
+        ],
+        "deep": [
+          51,
+          172,
+          205,
+          240,
+          264
+        ],
+        "aquifers": [
+          53
+        ],
+        "Al-Qatif": [
+          56
+        ],
+        "area,": [
+          57
+        ],
+        "eastern": [
+          60
+        ],
+        "region": [
+          61
+        ],
+        "Saudi": [
+          63
+        ],
+        "Arabia.": [
+          64
+        ],
+        "Field": [
+          65
+        ],
+        "hydrogeological": [
+          66
+        ],
+        "hydrochemical": [
+          68,
+          73
+        ],
+        "investigations": [
+          69
+        ],
+        "coupled": [
+          70
+        ],
+        "with": [
+          71,
+          143,
+          203,
+          210,
+          271
+        ],
+        "laboratory-based": [
+          72
+        ],
+        "isotopic": [
+          75
+        ],
+        "analyses": [
+          76
+        ],
+        "(18O": [
+          77
+        ],
+        "2H)": [
+          79
+        ],
+        "were": [
+          80,
+          110,
+          122
+        ],
+        "used": [
+          81,
+          124
+        ],
+        "this": [
+          83
+        ],
+        "integrated": [
+          84
+        ],
+        "study.": [
+          85
+        ],
+        "Hydrochemical": [
+          86,
+          119
+        ],
+        "facies": [
+          87,
+          120
+        ],
+        "diagrams,": [
+          88,
+          91
+        ],
+        "ionic": [
+          89
+        ],
+        "ratio": [
+          90
+        ],
+        "spatial": [
+          93
+        ],
+        "distribution": [
+          94
+        ],
+        "maps": [
+          95
+        ],
+        "physical": [
+          98
+        ],
+        "chemical": [
+          100
+        ],
+        "parameters": [
+          101
+        ],
+        "(EC,": [
+          102
+        ],
+        "TDS,": [
+          103,
+          145,
+          179
+        ],
+        "Cl−,": [
+          104,
+          146,
+          180
+        ],
+        "Br−),": [
+          105
+        ],
+        "fraction": [
+          108
+        ],
+        "(fsw)": [
+          109
+        ],
+        "generated": [
+          111
+        ],
+        "depict": [
+          113
+        ],
+        "lateral": [
+          115
+        ],
+        "extent": [
+          116
+        ],
+        "SWI.": [
+          118
+        ],
+        "diagrams": [
+          121
+        ],
+        "mainly": [
+          123
+        ],
+        "source": [
+          128
+        ],
+        "identification.": [
+          129
+        ],
+        "The": [
+          130
+        ],
+        "results": [
+          131
+        ],
+        "show": [
+          132
+        ],
+        "that": [
+          133
+        ],
+        "brackish": [
+          139
+        ],
+        "saline": [
+          141
+        ],
+        "types": [
+          142
+        ],
+        "EC,": [
+          144,
+          178
+        ],
+        "Br−": [
+          147
+        ],
+        "concentration,": [
+          148
+        ],
+        "an": [
+          150
+        ],
+        "increasing": [
+          151
+        ],
+        "fsw": [
+          152,
+          176
+        ],
+        "trend": [
+          153
+        ],
+        "seaward,": [
+          154
+        ],
+        "indicating": [
+          155,
+          183
+        ],
+        "more": [
+          156
+        ],
+        "influence": [
+          157,
+          185
+        ],
+        "SWI": [
+          159,
+          187,
+          243
+        ],
+        "on": [
+          160,
+          188
+        ],
+        "wells": [
+          163
+        ],
+        "located": [
+          164
+        ],
+        "close": [
+          165
+        ],
+        "shoreline.": [
+          168
+        ],
+        "On": [
+          169
+        ],
+        "contrary,": [
+          171
+        ],
+        "shows": [
+          174
+        ],
+        "low": [
+          175
+        ],
+        "Br−,": [
+          182
+        ],
+        "less": [
+          184
+        ],
+        "chemistry.": [
+          190
+        ],
+        "Moreover,": [
+          191
+        ],
+        "enriched": [
+          196
+        ],
+        "18O": [
+          198
+        ],
+        "2H": [
+          200
+        ],
+        "isotopes": [
+          201
+        ],
+        "compared": [
+          202
+        ],
+        "GW,": [
+          206
+        ],
+        "which": [
+          207
+        ],
+        "reveals": [
+          208
+        ],
+        "mixing": [
+          209
+        ],
+        "recent": [
+          211
+        ],
+        "water.": [
+          212
+        ],
+        "In": [
+          213,
+          259
+        ],
+        "conclusion,": [
+          214
+        ],
+        "reduction": [
+          216
+        ],
+        "abstraction": [
+          219
+        ],
+        "central": [
+          222
+        ],
+        "part": [
+          223
+        ],
+        "area": [
+          227
+        ],
+        "raised": [
+          228
+        ],
+        "average": [
+          230
+        ],
+        "level": [
+          232
+        ],
+        "by": [
+          233
+        ],
+        "three": [
+          234
+        ],
+        "meters.": [
+          235
+        ],
+        "Therefore,": [
+          236
+        ],
+        "from": [
+          242
+        ],
+        "salinity": [
+          245
+        ],
+        "pollution,": [
+          246
+        ],
+        "it": [
+          247
+        ],
+        "recommended": [
+          249,
+          267
+        ],
+        "implement": [
+          251
+        ],
+        "practices": [
+          254
+        ],
+        "entire": [
+          257
+        ],
+        "region.": [
+          258
+        ],
+        "addition,": [
+          260
+        ],
+        "continuous": [
+          261
+        ],
+        "monitoring": [
+          262
+        ],
+        "provide": [
+          269
+        ],
+        "sufficient": [
+          272
+        ],
+        "data": [
+          273
+        ],
+        "protection": [
+          278
+        ],
+        "freshwater": [
+          281
+        ],
+        "resources.": [
+          282
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-06-17T08:01:34.144755",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4308152638",
       "doi": "https://doi.org/10.1016/j.scitotenv.2022.159697",
       "title": "Mapping of groundwater salinization and modelling using meta-heuristic algorithms for the coastal aquifer of eastern Saudi Arabia",
@@ -7773,1833 +9595,6 @@
         }
       ],
       "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4304806286",
-      "doi": "https://doi.org/10.3390/molecules27206841",
-      "title": "Integrated Hydrogeological, Hydrochemical, and Isotopic Assessment of Seawater Intrusion into Coastal Aquifers in Al-Qatif Area, Eastern Saudi Arabia",
-      "display_name": "Integrated Hydrogeological, Hydrochemical, and Isotopic Assessment of Seawater Intrusion into Coastal Aquifers in Al-Qatif Area, Eastern Saudi Arabia",
-      "publication_year": 2022,
-      "publication_date": "2022-10-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4304806286",
-        "doi": "https://doi.org/10.3390/molecules27206841",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/36296433"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3390/molecules27206841",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/molecules27206841",
-        "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
-        "source": {
-          "id": "https://openalex.org/S108911230",
-          "display_name": "Molecules",
-          "issn_l": "1420-3049",
-          "issn": [
-            "1420-3049",
-            "1433-1373"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Molecules",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074883327",
-            "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bassam Tawabini",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-0096-2723",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5062007467",
-            "display_name": "Sani I. Abba",
-            "orcid": "https://orcid.org/0000-0001-9356-2798"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "S. I. Abba",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-9356-2798",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082826691",
-            "display_name": "John Humphrey",
-            "orcid": "https://orcid.org/0000-0002-8927-2322"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John D. Humphrey",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034672880",
-            "display_name": "Ahmed M. Al‐Areeq",
-            "orcid": "https://orcid.org/0000-0003-0618-8190"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed M. AL-Areeq",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-0618-8190",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072390082",
-            "display_name": "Saad A. Alhulaibi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Saad A. Alhulaibi",
-          "raw_affiliation_strings": [
-            "Saudi Irrigation Organization, Al-Qatif 31982, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Irrigation Organization, Al-Qatif 31982, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037540489",
-            "display_name": "A. G. Usman",
-            "orcid": "https://orcid.org/0000-0001-5660-4581"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I69050122",
-              "display_name": "Near East University",
-              "ror": "https://ror.org/02x8svs93",
-              "country_code": "CY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I69050122"
-              ]
-            }
-          ],
-          "countries": [
-            "CY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. G. Usman",
-          "raw_affiliation_strings": [
-            "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
-            "Operational Research Centre in Healthcare, Near East University, Nicosia 99138, Turkey"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-5660-4581",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
-              "institution_ids": [
-                "https://openalex.org/I69050122"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Operational Research Centre in Healthcare, Near East University, Nicosia 99138, Turkey",
-              "institution_ids": [
-                "https://openalex.org/I69050122"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam H. Aljundi",
-          "raw_affiliation_strings": [
-            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-0714-8580",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5034568196",
-        "https://openalex.org/A5062007467"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2300,
-        "currency": "CHF",
-        "value_usd": 2490
-      },
-      "apc_paid": {
-        "value": 2300,
-        "currency": "CHF",
-        "value_usd": 2490
-      },
-      "fwci": 5.2903,
-      "has_fulltext": false,
-      "cited_by_count": 40,
-      "citation_normalized_percentile": {
-        "value": 0.96035806,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "27",
-        "issue": "20",
-        "first_page": "6841",
-        "last_page": "6841"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10398",
-        "display_name": "Groundwater and Isotope Geochemistry",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.9763000011444092,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9731000065803528,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/brackish-water",
-          "display_name": "Brackish water",
-          "score": 0.6672044396400452
-        },
-        {
-          "id": "https://openalex.org/keywords/seawater",
-          "display_name": "Seawater",
-          "score": 0.606487512588501
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.6048877239227295
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5892568826675415
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.5728317499160767
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.5579648017883301
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5064100027084351
-        },
-        {
-          "id": "https://openalex.org/keywords/soil-salinity",
-          "display_name": "Soil salinity",
-          "score": 0.4590316116809845
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.45411112904548645
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.42515650391578674
-        },
-        {
-          "id": "https://openalex.org/keywords/saline-water",
-          "display_name": "Saline water",
-          "score": 0.4228549003601074
-        },
-        {
-          "id": "https://openalex.org/keywords/seawater-intrusion",
-          "display_name": "Seawater intrusion",
-          "score": 0.4197552800178528
-        },
-        {
-          "id": "https://openalex.org/keywords/salinity",
-          "display_name": "Salinity",
-          "score": 0.41373690962791443
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.32704442739486694
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.25750988721847534
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.22512534260749817
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.17595916986465454
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C118178180",
-          "wikidata": "https://www.wikidata.org/wiki/Q105533",
-          "display_name": "Brackish water",
-          "level": 3,
-          "score": 0.6672044396400452
-        },
-        {
-          "id": "https://openalex.org/C197248824",
-          "wikidata": "https://www.wikidata.org/wiki/Q184395",
-          "display_name": "Seawater",
-          "level": 2,
-          "score": 0.606487512588501
-        },
-        {
-          "id": "https://openalex.org/C33556824",
-          "wikidata": "https://www.wikidata.org/wiki/Q179509",
-          "display_name": "Hydrogeology",
-          "level": 2,
-          "score": 0.6048877239227295
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5892568826675415
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.5728317499160767
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.5579648017883301
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5064100027084351
-        },
-        {
-          "id": "https://openalex.org/C141650431",
-          "wikidata": "https://www.wikidata.org/wiki/Q754836",
-          "display_name": "Soil salinity",
-          "level": 3,
-          "score": 0.4590316116809845
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.45411112904548645
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.42515650391578674
-        },
-        {
-          "id": "https://openalex.org/C16704694",
-          "wikidata": "https://www.wikidata.org/wiki/Q496805",
-          "display_name": "Saline water",
-          "level": 3,
-          "score": 0.4228549003601074
-        },
-        {
-          "id": "https://openalex.org/C2991897412",
-          "wikidata": "https://www.wikidata.org/wiki/Q2002254",
-          "display_name": "Seawater intrusion",
-          "level": 4,
-          "score": 0.4197552800178528
-        },
-        {
-          "id": "https://openalex.org/C129513315",
-          "wikidata": "https://www.wikidata.org/wiki/Q179615",
-          "display_name": "Salinity",
-          "level": 2,
-          "score": 0.41373690962791443
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.32704442739486694
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.25750988721847534
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.22512534260749817
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.17595916986465454
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D007554",
-          "descriptor_name": "Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D007554",
-          "descriptor_name": "Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D007554",
-          "descriptor_name": "Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019066",
-          "descriptor_name": "Facies",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019066",
-          "descriptor_name": "Facies",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019066",
-          "descriptor_name": "Facies",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054712",
-          "descriptor_name": "Salinity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054712",
-          "descriptor_name": "Salinity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054712",
-          "descriptor_name": "Salinity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        }
-      ],
-      "locations_count": 5,
-      "locations": [
-        {
-          "id": "doi:10.3390/molecules27206841",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3390/molecules27206841",
-          "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
-          "source": {
-            "id": "https://openalex.org/S108911230",
-            "display_name": "Molecules",
-            "issn_l": "1420-3049",
-            "issn": [
-              "1420-3049",
-              "1433-1373"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310310987",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310310987"
-            ],
-            "host_organization_lineage_names": [
-              "Multidisciplinary Digital Publishing Institute"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Molecules",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:36296433",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36296433",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Molecules (Basel, Switzerland)",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:054c16c4d7a74dcf9a04469f01f37ed1",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/054c16c4d7a74dcf9a04469f01f37ed1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Molecules, Vol 27, Iss 20, p 6841 (2022)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:mdpi.com:/1420-3049/27/20/6841/",
-          "is_oa": true,
-          "landing_page_url": "https://dx.doi.org/10.3390/molecules27206841",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400947",
-            "display_name": "MDPI (MDPI AG)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4210097602",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210097602"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Molecules; Volume 27; Issue 20; Pages: 6841",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:9609279",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9609279",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Molecules",
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3390/molecules27206841",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/molecules27206841",
-        "pdf_url": "https://www.mdpi.com/1420-3049/27/20/6841/pdf?version=1666680503",
-        "source": {
-          "id": "https://openalex.org/S108911230",
-          "display_name": "Molecules",
-          "issn_l": "1420-3049",
-          "issn": [
-            "1420-3049",
-            "1433-1373"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Molecules",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": false
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4304806286.pdf"
-      },
-      "referenced_works_count": 68,
-      "referenced_works": [
-        "https://openalex.org/W82223115",
-        "https://openalex.org/W83246507",
-        "https://openalex.org/W116953507",
-        "https://openalex.org/W1490987323",
-        "https://openalex.org/W1580409454",
-        "https://openalex.org/W1835654170",
-        "https://openalex.org/W1963920789",
-        "https://openalex.org/W1971381271",
-        "https://openalex.org/W1975810657",
-        "https://openalex.org/W1982546148",
-        "https://openalex.org/W1992288491",
-        "https://openalex.org/W2007007599",
-        "https://openalex.org/W2011296118",
-        "https://openalex.org/W2011598090",
-        "https://openalex.org/W2017086444",
-        "https://openalex.org/W2031540093",
-        "https://openalex.org/W2047828631",
-        "https://openalex.org/W2051678693",
-        "https://openalex.org/W2057269184",
-        "https://openalex.org/W2069843249",
-        "https://openalex.org/W2073619829",
-        "https://openalex.org/W2077795175",
-        "https://openalex.org/W2081609660",
-        "https://openalex.org/W2083622187",
-        "https://openalex.org/W2087900827",
-        "https://openalex.org/W2093470115",
-        "https://openalex.org/W2111581225",
-        "https://openalex.org/W2138731640",
-        "https://openalex.org/W2145193168",
-        "https://openalex.org/W2226303350",
-        "https://openalex.org/W2276998810",
-        "https://openalex.org/W2280289841",
-        "https://openalex.org/W2286205753",
-        "https://openalex.org/W2319564997",
-        "https://openalex.org/W2481655557",
-        "https://openalex.org/W2589226544",
-        "https://openalex.org/W2607051438",
-        "https://openalex.org/W2765664484",
-        "https://openalex.org/W2786204358",
-        "https://openalex.org/W2890903666",
-        "https://openalex.org/W2895400717",
-        "https://openalex.org/W2908309330",
-        "https://openalex.org/W2909116647",
-        "https://openalex.org/W2922233477",
-        "https://openalex.org/W2944711102",
-        "https://openalex.org/W2948350161",
-        "https://openalex.org/W2953046211",
-        "https://openalex.org/W2989415696",
-        "https://openalex.org/W2990108932",
-        "https://openalex.org/W3006301212",
-        "https://openalex.org/W3086641090",
-        "https://openalex.org/W3120558324",
-        "https://openalex.org/W3132269838",
-        "https://openalex.org/W3154515276",
-        "https://openalex.org/W3163607130",
-        "https://openalex.org/W3179531231",
-        "https://openalex.org/W3193436972",
-        "https://openalex.org/W3210000639",
-        "https://openalex.org/W3215123661",
-        "https://openalex.org/W4200293938",
-        "https://openalex.org/W4200482046",
-        "https://openalex.org/W4205187533",
-        "https://openalex.org/W4212839989",
-        "https://openalex.org/W4224280242",
-        "https://openalex.org/W4280559331",
-        "https://openalex.org/W4281639585",
-        "https://openalex.org/W6680846039",
-        "https://openalex.org/W6838509692"
-      ],
-      "related_works": [
-        "https://openalex.org/W2138190088",
-        "https://openalex.org/W2156869743",
-        "https://openalex.org/W2729577167",
-        "https://openalex.org/W2347573019",
-        "https://openalex.org/W3166489347",
-        "https://openalex.org/W2149449387",
-        "https://openalex.org/W4200287935",
-        "https://openalex.org/W2405903773",
-        "https://openalex.org/W2351946452",
-        "https://openalex.org/W2341726547"
-      ],
-      "abstract_inverted_index": {
-        "Seawater": [
-          0
-        ],
-        "intrusion": [
-          1,
-          42
-        ],
-        "(SWI)": [
-          2,
-          43
-        ],
-        "is": [
-          3,
-          137,
-          195,
-          248,
-          266
-        ],
-        "the": [
-          4,
-          48,
-          55,
-          59,
-          114,
-          134,
-          167,
-          170,
-          192,
-          204,
-          215,
-          221,
-          225,
-          229,
-          239,
-          256,
-          277
-        ],
-        "main": [
-          5
-        ],
-        "threat": [
-          6
-        ],
-        "to": [
-          7,
-          31,
-          112,
-          166,
-          237,
-          250,
-          268,
-          274
-        ],
-        "fresh": [
-          8
-        ],
-        "groundwater": [
-          9
-        ],
-        "(GW)": [
-          10
-        ],
-        "resources": [
-          11,
-          34
-        ],
-        "in": [
-          12,
-          54,
-          58,
-          82,
-          197,
-          217,
-          220,
-          255
-        ],
-        "coastal": [
-          13,
-          36,
-          52,
-          280
-        ],
-        "regions": [
-          14
-        ],
-        "worldwide.": [
-          15
-        ],
-        "Early": [
-          16
-        ],
-        "identification": [
-          17
-        ],
-        "and": [
-          18,
-          44,
-          50,
-          67,
-          74,
-          78,
-          92,
-          99,
-          106,
-          140,
-          149,
-          177,
-          181,
-          199,
-          244
-        ],
-        "delineation": [
-          19
-        ],
-        "of": [
-          20,
-          47,
-          62,
-          96,
-          117,
-          138,
-          158,
-          186,
-          224,
-          263,
-          279
-        ],
-        "such": [
-          21,
-          252
-        ],
-        "threats": [
-          22
-        ],
-        "can": [
-          23
-        ],
-        "help": [
-          24
-        ],
-        "decision-makers": [
-          25,
-          270
-        ],
-        "plan": [
-          26,
-          275
-        ],
-        "for": [
-          27,
-          35,
-          125,
-          276
-        ],
-        "suitable": [
-          28
-        ],
-        "management": [
-          29,
-          253
-        ],
-        "measures": [
-          30
-        ],
-        "protect": [
-          32,
-          238
-        ],
-        "water": [
-          33
-        ],
-        "communities.": [
-          37
-        ],
-        "This": [
-          38
-        ],
-        "study": [
-          39,
-          226
-        ],
-        "assesses": [
-          40
-        ],
-        "seawater": [
-          41,
-          107
-        ],
-        "GW": [
-          45,
-          97,
-          126,
-          136,
-          162,
-          173,
-          189,
-          194,
-          218,
-          231,
-          241,
-          265
-        ],
-        "salinization": [
-          46,
-          127
-        ],
-        "shallow": [
-          49,
-          135,
-          161,
-          193
-        ],
-        "deep": [
-          51,
-          172,
-          205,
-          240,
-          264
-        ],
-        "aquifers": [
-          53
-        ],
-        "Al-Qatif": [
-          56
-        ],
-        "area,": [
-          57
-        ],
-        "eastern": [
-          60
-        ],
-        "region": [
-          61
-        ],
-        "Saudi": [
-          63
-        ],
-        "Arabia.": [
-          64
-        ],
-        "Field": [
-          65
-        ],
-        "hydrogeological": [
-          66
-        ],
-        "hydrochemical": [
-          68,
-          73
-        ],
-        "investigations": [
-          69
-        ],
-        "coupled": [
-          70
-        ],
-        "with": [
-          71,
-          143,
-          203,
-          210,
-          271
-        ],
-        "laboratory-based": [
-          72
-        ],
-        "isotopic": [
-          75
-        ],
-        "analyses": [
-          76
-        ],
-        "(18O": [
-          77
-        ],
-        "2H)": [
-          79
-        ],
-        "were": [
-          80,
-          110,
-          122
-        ],
-        "used": [
-          81,
-          124
-        ],
-        "this": [
-          83
-        ],
-        "integrated": [
-          84
-        ],
-        "study.": [
-          85
-        ],
-        "Hydrochemical": [
-          86,
-          119
-        ],
-        "facies": [
-          87,
-          120
-        ],
-        "diagrams,": [
-          88,
-          91
-        ],
-        "ionic": [
-          89
-        ],
-        "ratio": [
-          90
-        ],
-        "spatial": [
-          93
-        ],
-        "distribution": [
-          94
-        ],
-        "maps": [
-          95
-        ],
-        "physical": [
-          98
-        ],
-        "chemical": [
-          100
-        ],
-        "parameters": [
-          101
-        ],
-        "(EC,": [
-          102
-        ],
-        "TDS,": [
-          103,
-          145,
-          179
-        ],
-        "Cl−,": [
-          104,
-          146,
-          180
-        ],
-        "Br−),": [
-          105
-        ],
-        "fraction": [
-          108
-        ],
-        "(fsw)": [
-          109
-        ],
-        "generated": [
-          111
-        ],
-        "depict": [
-          113
-        ],
-        "lateral": [
-          115
-        ],
-        "extent": [
-          116
-        ],
-        "SWI.": [
-          118
-        ],
-        "diagrams": [
-          121
-        ],
-        "mainly": [
-          123
-        ],
-        "source": [
-          128
-        ],
-        "identification.": [
-          129
-        ],
-        "The": [
-          130
-        ],
-        "results": [
-          131
-        ],
-        "show": [
-          132
-        ],
-        "that": [
-          133
-        ],
-        "brackish": [
-          139
-        ],
-        "saline": [
-          141
-        ],
-        "types": [
-          142
-        ],
-        "EC,": [
-          144,
-          178
-        ],
-        "Br−": [
-          147
-        ],
-        "concentration,": [
-          148
-        ],
-        "an": [
-          150
-        ],
-        "increasing": [
-          151
-        ],
-        "fsw": [
-          152,
-          176
-        ],
-        "trend": [
-          153
-        ],
-        "seaward,": [
-          154
-        ],
-        "indicating": [
-          155,
-          183
-        ],
-        "more": [
-          156
-        ],
-        "influence": [
-          157,
-          185
-        ],
-        "SWI": [
-          159,
-          187,
-          243
-        ],
-        "on": [
-          160,
-          188
-        ],
-        "wells": [
-          163
-        ],
-        "located": [
-          164
-        ],
-        "close": [
-          165
-        ],
-        "shoreline.": [
-          168
-        ],
-        "On": [
-          169
-        ],
-        "contrary,": [
-          171
-        ],
-        "shows": [
-          174
-        ],
-        "low": [
-          175
-        ],
-        "Br−,": [
-          182
-        ],
-        "less": [
-          184
-        ],
-        "chemistry.": [
-          190
-        ],
-        "Moreover,": [
-          191
-        ],
-        "enriched": [
-          196
-        ],
-        "18O": [
-          198
-        ],
-        "2H": [
-          200
-        ],
-        "isotopes": [
-          201
-        ],
-        "compared": [
-          202
-        ],
-        "GW,": [
-          206
-        ],
-        "which": [
-          207
-        ],
-        "reveals": [
-          208
-        ],
-        "mixing": [
-          209
-        ],
-        "recent": [
-          211
-        ],
-        "water.": [
-          212
-        ],
-        "In": [
-          213,
-          259
-        ],
-        "conclusion,": [
-          214
-        ],
-        "reduction": [
-          216
-        ],
-        "abstraction": [
-          219
-        ],
-        "central": [
-          222
-        ],
-        "part": [
-          223
-        ],
-        "area": [
-          227
-        ],
-        "raised": [
-          228
-        ],
-        "average": [
-          230
-        ],
-        "level": [
-          232
-        ],
-        "by": [
-          233
-        ],
-        "three": [
-          234
-        ],
-        "meters.": [
-          235
-        ],
-        "Therefore,": [
-          236
-        ],
-        "from": [
-          242
-        ],
-        "salinity": [
-          245
-        ],
-        "pollution,": [
-          246
-        ],
-        "it": [
-          247
-        ],
-        "recommended": [
-          249,
-          267
-        ],
-        "implement": [
-          251
-        ],
-        "practices": [
-          254
-        ],
-        "entire": [
-          257
-        ],
-        "region.": [
-          258
-        ],
-        "addition,": [
-          260
-        ],
-        "continuous": [
-          261
-        ],
-        "monitoring": [
-          262
-        ],
-        "provide": [
-          269
-        ],
-        "sufficient": [
-          272
-        ],
-        "data": [
-          273
-        ],
-        "protection": [
-          278
-        ],
-        "freshwater": [
-          281
-        ],
-        "resources.": [
-          282
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 16
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-05-22T06:13:13.366637",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11631,9 +11626,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.41999998688697815
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -12840,9 +12835,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13757,9 +13752,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5899999737739563
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -18086,9 +18081,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.550000011920929
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -18919,9 +18914,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -19801,11 +19796,11 @@
         "value_usd": 2190
       },
       "apc_paid": null,
-      "fwci": 2.8613,
+      "fwci": 2.8561,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.90707767,
+        "value": 0.90698078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20116,9 +20111,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22072,9 +22067,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22962,9 +22957,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.6200000047683716
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -24170,9 +24165,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -27183,9 +27178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -28090,9 +28085,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8600000143051147
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -29312,9 +29307,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -30730,9 +30725,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -32116,9 +32111,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6200000047683716
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -33411,9 +33406,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8100000023841858
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -34199,9 +34194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -35592,11 +35587,11 @@
         "currency": "USD",
         "value_usd": 1400
       },
-      "fwci": 1.9263,
+      "fwci": 1.9175,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.85512753,
+        "value": 0.85443369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36911,11 +36906,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.7719,
+      "fwci": 0.7678,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.6730666,
+        "value": 0.67188269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37194,9 +37189,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.4699999988079071
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -38842,11 +38837,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.1437,
+      "fwci": 1.1388,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79641388,
+        "value": 0.79557964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39800,7 +39795,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-16T09:24:06.705377",
+      "updated_date": "2026-06-16T07:32:37.131356",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -40343,9 +40338,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -41495,9 +41490,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -42748,9 +42743,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -43561,9 +43556,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -45254,11 +45249,11 @@
         "value_usd": 3880
       },
       "apc_paid": null,
-      "fwci": 2.3052,
+      "fwci": 2.2939,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.86253813,
+        "value": 0.86190133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45605,9 +45600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.4300000071525574
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -46524,11 +46519,11 @@
         "currency": "CHF",
         "value_usd": 1732
       },
-      "fwci": 0.5719,
+      "fwci": 0.5694,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.70155047,
+        "value": 0.7006137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49209,9 +49204,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -49925,9 +49920,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -50691,9 +50686,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -51390,9 +51385,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -52636,9 +52631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -53116,9 +53111,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.4699999988079071
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [
@@ -54305,9 +54300,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5899999737739563
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -56218,9 +56213,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.41999998688697815
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -57361,9 +57356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6499999761581421
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -58445,9 +58440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59321,9 +59316,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -60602,9 +60597,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5099999904632568
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -61938,9 +61933,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -66497,9 +66492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6700000166893005
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -67056,9 +67051,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.7400000095367432
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -68092,9 +68087,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -68536,9 +68531,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -69658,9 +69653,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -72062,9 +72057,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -74964,7 +74959,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-16T09:24:06.705377",
+      "updated_date": "2026-06-16T07:37:23.134862",
       "created_date": "2026-06-16T00:00:00"
     },
     {
@@ -75446,7 +75441,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-16T09:24:06.705377",
+      "updated_date": "2026-06-16T07:37:23.134862",
       "created_date": "2026-06-16T00:00:00"
     }
   ]
