@@ -8,7 +8,6 @@
       "F. Sadooni",
       "F.N Sadooni",
       "F.N. Sadooni",
-      "FADHIL N. SADOONI",
       "Fadhil N Sadooni",
       "Fadhil N. Sadooni",
       "Fadhil Nomas Sadooni",
@@ -16,9 +15,9 @@
     ],
     "full_name": "Fadhil Nomas Sadooni",
     "works_count": 121,
-    "cited_by_count": 1599,
+    "cited_by_count": 1601,
     "summary_stats": {
-      "2yr_mean_citedness": 1.5517241379310345,
+      "2yr_mean_citedness": 1.5862068965517242,
       "h_index": 23,
       "i10_index": 42
     },
@@ -27,6 +26,21 @@
       "orcid": "https://orcid.org/0000-0001-5027-0648"
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I121196025",
+          "ror": "https://ror.org/02g4n1614",
+          "display_name": "Qatar Petroleum (Qatar)",
+          "country_code": "QA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I121196025"
+          ]
+        },
+        "years": [
+          2000
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I1282502352",
@@ -291,7 +305,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000116,
+        "value": 0.0001159,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -308,7 +322,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001131,
+        "value": 0.000113,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -342,7 +356,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000735,
+        "value": 0.0000734,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -359,7 +373,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000532,
+        "value": 0.0000531,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -429,7 +443,7 @@
         "year": 1996,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 27
+        "cited_by_count": 28
       },
       {
         "year": 1997,
@@ -585,7 +599,7 @@
         "year": 2025,
         "works_count": 16,
         "oa_works_count": 7,
-        "cited_by_count": 26
+        "cited_by_count": 27
       },
       {
         "year": 2026,
@@ -599,7 +613,6 @@
       "F. Sadooni",
       "F.N Sadooni",
       "F.N. Sadooni",
-      "FADHIL N. SADOONI",
       "Fadhil N Sadooni",
       "Fadhil N. Sadooni",
       "Fadhil Nomas Sadooni",
@@ -607,7 +620,7 @@
     ],
     "block_key": "f sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-06-11T12:23:26",
+    "updated_date": "2026-06-17T12:17:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1882,7 +1895,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-06-17T08:01:34.144755",
+      "updated_date": "2026-06-17T06:14:20.161405",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4915,11 +4928,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 9.9477,
+      "fwci": 9.949,
       "has_fulltext": false,
-      "cited_by_count": 60,
+      "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.97741613,
+        "value": 0.97741907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5765,7 +5778,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -5796,7 +5809,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-18T10:00:31.954636",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11238,11 +11251,11 @@
         "currency": "EUR",
         "value_usd": 3690
       },
-      "fwci": 5.3185,
+      "fwci": 5.6467,
       "has_fulltext": true,
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.9667497,
+        "value": 0.97078573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12570,14 +12583,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-17T08:01:34.144755",
+      "updated_date": "2026-06-18T10:00:31.954636",
       "created_date": "2025-10-10T00:00:00"
     },
     {

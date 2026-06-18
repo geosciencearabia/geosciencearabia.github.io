@@ -3271,8 +3271,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4142,8 +4142,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6911,8 +6911,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7919,8 +7919,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -8447,8 +8447,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8991,8 +8991,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -9515,8 +9515,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -10356,8 +10356,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -11853,7 +11853,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1111/jpg.70078",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/jpg.70078",
         "pdf_url": null,
         "source": {
@@ -11877,8 +11877,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -11890,9 +11890,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1111/jpg.70078",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -11942,7 +11942,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Alan P. Heward",
           "raw_affiliation_strings": [
             "Coach House, Mortimer Lodge, Hanley Swan  Worcester UK"
@@ -12072,19 +12072,25 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5135459311"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3240,
         "currency": "USD",
         "value_usd": 3240
       },
-      "apc_paid": null,
+      "apc_paid": {
+        "value": 3240,
+        "currency": "USD",
+        "value_usd": 3240
+      },
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.84547922,
+        "value": 0.80368221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12385,7 +12391,7 @@
       "locations": [
         {
           "id": "doi:10.1111/jpg.70078",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1111/jpg.70078",
           "pdf_url": null,
           "source": {
@@ -12409,8 +12415,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -12418,12 +12424,45 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1111/jpg.70078",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/jpg.70078",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S198628674",
+          "display_name": "Journal of Petroleum Geology",
+          "issn_l": "0141-6421",
+          "issn": [
+            "0141-6421",
+            "1747-5457"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Geology",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5195932388305664
+          "score": 0.5195932388305664,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12881,7 +12920,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-18T10:00:31.954636",
       "created_date": "2026-05-29T00:00:00"
     }
   ]

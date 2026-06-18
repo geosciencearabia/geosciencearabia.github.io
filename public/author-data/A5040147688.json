@@ -369,7 +369,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002982,
+        "value": 0.0002981,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -697,7 +697,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-06-16T12:20:30",
+    "updated_date": "2026-06-17T12:17:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3223,6 +3223,1647 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3132519602",
+      "doi": "https://doi.org/10.1093/nsr/nwab027",
+      "title": "The Deep-Time Digital Earth program: data-driven discovery in geosciences",
+      "display_name": "The Deep-Time Digital Earth program: data-driven discovery in geosciences",
+      "publication_year": 2021,
+      "publication_date": "2021-02-09",
+      "ids": {
+        "openalex": "https://openalex.org/W3132519602",
+        "doi": "https://doi.org/10.1093/nsr/nwab027",
+        "mag": "3132519602",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/34691735"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1093/nsr/nwab027",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
+        "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
+        "source": {
+          "id": "https://openalex.org/S2734413303",
+          "display_name": "National Science Review",
+          "issn_l": "2053-714X",
+          "issn": [
+            "2053-714X",
+            "2095-5138"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "National Science Review",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5001810569",
+            "display_name": "Chengshan Wang",
+            "orcid": "https://orcid.org/0000-0002-7403-0582"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3125743391",
+              "display_name": "China University of Geosciences (Beijing)",
+              "ror": "https://ror.org/04q6c7p66",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Chengshan Wang",
+          "raw_affiliation_strings": [
+            "School of the Earth Science and Resources, China University of Geosciences, Beijing 100083, China",
+            "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Beijing 100083, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of the Earth Science and Resources, China University of Geosciences, Beijing 100083, China",
+              "institution_ids": [
+                "https://openalex.org/I3125743391"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Beijing 100083, China",
+              "institution_ids": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088357781",
+            "display_name": "Robert M. Hazen",
+            "orcid": "https://orcid.org/0000-0003-4163-8644"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196817621",
+              "display_name": "Carnegie Institution for Science",
+              "ror": "https://ror.org/04jr01610",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I196817621"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert M Hazen",
+          "raw_affiliation_strings": [
+            "Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC 20015, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC 20015, USA",
+              "institution_ids": [
+                "https://openalex.org/I196817621"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100630777",
+            "display_name": "Qiuming Cheng",
+            "orcid": "https://orcid.org/0000-0003-3122-5942"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3125743391",
+              "display_name": "China University of Geosciences (Beijing)",
+              "ror": "https://ror.org/04q6c7p66",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Qiuming Cheng",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing 100083, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing 100083, China",
+              "institution_ids": [
+                "https://openalex.org/I3125743391"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023919188",
+            "display_name": "Chenghu Zhou",
+            "orcid": "https://orcid.org/0000-0003-3331-2302"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210160793",
+              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
+              "ror": "https://ror.org/04t1cdb72",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210160793"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chenghu Zhou",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
+              "institution_ids": [
+                "https://openalex.org/I4210160793",
+                "https://openalex.org/I19820366"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024379437",
+            "display_name": "Peter Fox",
+            "orcid": "https://orcid.org/0000-0002-1009-7163"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165799507",
+              "display_name": "Rensselaer Polytechnic Institute",
+              "ror": "https://ror.org/01rtyzb94",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165799507"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Fox",
+          "raw_affiliation_strings": [
+            "Tetherless World Constellation, Rensselaer Polytechnic Institute, Troy, NY 12180, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Tetherless World Constellation, Rensselaer Polytechnic Institute, Troy, NY 12180, USA",
+              "institution_ids": [
+                "https://openalex.org/I165799507"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075284964",
+            "display_name": "Shu‐zhong Shen",
+            "orcid": "https://orcid.org/0000-0001-8380-0692"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I881766915",
+              "display_name": "Nanjing University",
+              "ror": "https://ror.org/01rxvg760",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shu-zhong Shen",
+          "raw_affiliation_strings": [
+            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
+              "institution_ids": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060414536",
+            "display_name": "Roland Oberhänsli",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176453806",
+              "display_name": "University of Potsdam",
+              "ror": "https://ror.org/03bnmw459",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176453806"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roland Oberhänsli",
+          "raw_affiliation_strings": [
+            "Institute of Earth and Environmental Sciences, University of Potsdam, Potsdam 14476, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Earth and Environmental Sciences, University of Potsdam, Potsdam 14476, Germany",
+              "institution_ids": [
+                "https://openalex.org/I176453806"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112722669",
+            "display_name": "Zengqian Hou",
+            "orcid": "https://orcid.org/0009-0004-9574-0235"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802497816",
+              "display_name": "Chinese Academy of Geological Sciences",
+              "ror": "https://ror.org/02gp4e279",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2802497816"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zengqian Hou",
+          "raw_affiliation_strings": [
+            "Institute of Geology, Chinese Academy of Geological Sciences, Beijing 100037, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology, Chinese Academy of Geological Sciences, Beijing 100037, China",
+              "institution_ids": [
+                "https://openalex.org/I2802497816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071393418",
+            "display_name": "Xiaogang Ma",
+            "orcid": "https://orcid.org/0000-0002-9110-7369"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I155093810",
+              "display_name": "University of Idaho",
+              "ror": "https://ror.org/03hbp5t65",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I155093810"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xiaogang Ma",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9110-7369",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA",
+              "institution_ids": [
+                "https://openalex.org/I155093810"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100768674",
+            "display_name": "Zhiqiang Feng",
+            "orcid": "https://orcid.org/0009-0007-8908-5635"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106994412",
+              "display_name": "Sinopec (China)",
+              "ror": "https://ror.org/0161q6d74",
+              "country_code": "CN",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I106994412"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zhiqiang Feng",
+          "raw_affiliation_strings": [
+            "Petroleum Exploration and Production Research Institute, SINOPEC, Beijing 100083, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Exploration and Production Research Institute, SINOPEC, Beijing 100083, China",
+              "institution_ids": [
+                "https://openalex.org/I106994412"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016367316",
+            "display_name": "Junxuan Fan",
+            "orcid": "https://orcid.org/0000-0001-9913-0865"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I881766915",
+              "display_name": "Nanjing University",
+              "ror": "https://ror.org/01rxvg760",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Junxuan Fan",
+          "raw_affiliation_strings": [
+            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
+              "institution_ids": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083798119",
+            "display_name": "Chao Ma",
+            "orcid": "https://orcid.org/0000-0002-0122-5696"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I155093810",
+              "display_name": "University of Idaho",
+              "ror": "https://ror.org/03hbp5t65",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I155093810"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chao Ma",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA",
+              "institution_ids": [
+                "https://openalex.org/I155093810"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038111698",
+            "display_name": "Xiumian Hu",
+            "orcid": "https://orcid.org/0000-0002-5401-8682"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I881766915",
+              "display_name": "Nanjing University",
+              "ror": "https://ror.org/01rxvg760",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xiumian Hu",
+          "raw_affiliation_strings": [
+            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
+              "institution_ids": [
+                "https://openalex.org/I881766915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045938707",
+            "display_name": "Bin Luo",
+            "orcid": "https://orcid.org/0000-0001-9324-8942"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210160793",
+              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
+              "ror": "https://ror.org/04t1cdb72",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210160793"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bin Luo",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
+              "institution_ids": [
+                "https://openalex.org/I4210160793",
+                "https://openalex.org/I19820366"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037249071",
+            "display_name": "Juanle Wang",
+            "orcid": "https://orcid.org/0000-0002-5641-0813"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210160793",
+              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
+              "ror": "https://ror.org/04t1cdb72",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210160793"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Juanle Wang",
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
+              "institution_ids": [
+                "https://openalex.org/I4210160793",
+                "https://openalex.org/I19820366"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5027275817",
+            "display_name": "Craig M. Schiffries",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Craig M Schiffries",
+          "raw_affiliation_strings": [
+            "DDE Center of Excellence (Suzhou), Kunshan 215300, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DDE Center of Excellence (Suzhou), Kunshan 215300, China",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 17,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001810569"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I3125743391"
+      ],
+      "apc_list": {
+        "value": 1904,
+        "currency": "USD",
+        "value_usd": 1904
+      },
+      "apc_paid": {
+        "value": 1904,
+        "currency": "USD",
+        "value_usd": 1904
+      },
+      "fwci": 43.4973,
+      "has_fulltext": false,
+      "cited_by_count": 122,
+      "citation_normalized_percentile": {
+        "value": 0.99684033,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "9",
+        "first_page": "nwab027",
+        "last_page": "nwab027"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11986",
+        "display_name": "Scientific Computing and Data Management",
+        "score": 0.9930999875068665,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1802",
+          "display_name": "Information Systems and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11986",
+          "display_name": "Scientific Computing and Data Management",
+          "score": 0.9930999875068665,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9901000261306763,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.9801999926567078,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/interoperability",
+          "display_name": "Interoperability",
+          "score": 0.8427505493164062
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.6267313957214355
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5688114166259766
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.5272271633148193
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-earth",
+          "display_name": "Digital Earth",
+          "score": 0.513859748840332
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-time",
+          "display_name": "Deep time",
+          "score": 0.42585238814353943
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-extraction",
+          "display_name": "Knowledge extraction",
+          "score": 0.4127839505672455
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.31529563665390015
+        },
+        {
+          "id": "https://openalex.org/keywords/data-mining",
+          "display_name": "Data mining",
+          "score": 0.25419318675994873
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.18492960929870605
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.1589186191558838
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C20136886",
+          "wikidata": "https://www.wikidata.org/wiki/Q749647",
+          "display_name": "Interoperability",
+          "level": 2,
+          "score": 0.8427505493164062
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.6267313957214355
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5688114166259766
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.5272271633148193
+        },
+        {
+          "id": "https://openalex.org/C120938966",
+          "wikidata": "https://www.wikidata.org/wiki/Q5275845",
+          "display_name": "Digital Earth",
+          "level": 2,
+          "score": 0.513859748840332
+        },
+        {
+          "id": "https://openalex.org/C131419983",
+          "wikidata": "https://www.wikidata.org/wiki/Q1909845",
+          "display_name": "Deep time",
+          "level": 2,
+          "score": 0.42585238814353943
+        },
+        {
+          "id": "https://openalex.org/C120567893",
+          "wikidata": "https://www.wikidata.org/wiki/Q1582085",
+          "display_name": "Knowledge extraction",
+          "level": 2,
+          "score": 0.4127839505672455
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.31529563665390015
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.25419318675994873
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.18492960929870605
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.1589186191558838
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1093/nsr/nwab027",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
+          "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
+          "source": {
+            "id": "https://openalex.org/S2734413303",
+            "display_name": "National Science Review",
+            "issn_l": "2053-714X",
+            "issn": [
+              "2053-714X",
+              "2095-5138"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "National Science Review",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:34691735",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34691735",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "National science review",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:kobv.de-opus4-uni-potsdam:68261",
+          "is_oa": true,
+          "landing_page_url": "https://publishup.uni-potsdam.de/frontdoor/index/index/docId/68261",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196346",
+            "display_name": "publish.UP (University of Potsdam)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I176453806",
+            "host_organization_name": "University of Potsdam",
+            "host_organization_lineage": [
+              "https://openalex.org/I176453806"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "doc-type:article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:8433093",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8433093",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Natl Sci Rev",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1093/nsr/nwab027",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
+        "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
+        "source": {
+          "id": "https://openalex.org/S2734413303",
+          "display_name": "National Science Review",
+          "issn_l": "2053-714X",
+          "issn": [
+            "2053-714X",
+            "2095-5138"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "National Science Review",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.4300000071525574,
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4035651271",
+          "display_name": null,
+          "funder_award_id": "2018YFE0204204",
+          "funder_id": "https://openalex.org/F4320335777",
+          "funder_display_name": "National Key Research and Development Program of China"
+        },
+        {
+          "id": "https://openalex.org/G6671057237",
+          "display_name": null,
+          "funder_award_id": "41888101",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321001",
+          "display_name": "National Natural Science Foundation of China",
+          "ror": "https://ror.org/01h0zpd94"
+        },
+        {
+          "id": "https://openalex.org/F4320335777",
+          "display_name": "National Key Research and Development Program of China",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 53,
+      "referenced_works": [
+        "https://openalex.org/W1509701100",
+        "https://openalex.org/W1608018262",
+        "https://openalex.org/W1965913526",
+        "https://openalex.org/W1967304706",
+        "https://openalex.org/W1980397870",
+        "https://openalex.org/W2005947801",
+        "https://openalex.org/W2016188962",
+        "https://openalex.org/W2019736558",
+        "https://openalex.org/W2035185474",
+        "https://openalex.org/W2051661671",
+        "https://openalex.org/W2052569640",
+        "https://openalex.org/W2054229986",
+        "https://openalex.org/W2157435392",
+        "https://openalex.org/W2165394332",
+        "https://openalex.org/W2169362575",
+        "https://openalex.org/W2302501749",
+        "https://openalex.org/W2406068333",
+        "https://openalex.org/W2438061131",
+        "https://openalex.org/W2494566811",
+        "https://openalex.org/W2585442725",
+        "https://openalex.org/W2599868015",
+        "https://openalex.org/W2600811820",
+        "https://openalex.org/W2759388052",
+        "https://openalex.org/W2770069102",
+        "https://openalex.org/W2770905548",
+        "https://openalex.org/W2773787581",
+        "https://openalex.org/W2779097157",
+        "https://openalex.org/W2783122987",
+        "https://openalex.org/W2789120081",
+        "https://openalex.org/W2790981989",
+        "https://openalex.org/W2802929155",
+        "https://openalex.org/W2808782078",
+        "https://openalex.org/W2809026107",
+        "https://openalex.org/W2884742644",
+        "https://openalex.org/W2887285250",
+        "https://openalex.org/W2906035385",
+        "https://openalex.org/W2913323966",
+        "https://openalex.org/W2915415430",
+        "https://openalex.org/W2917380209",
+        "https://openalex.org/W2923222994",
+        "https://openalex.org/W2943412363",
+        "https://openalex.org/W2948757146",
+        "https://openalex.org/W2949033096",
+        "https://openalex.org/W2971985577",
+        "https://openalex.org/W2999219571",
+        "https://openalex.org/W3024722698",
+        "https://openalex.org/W3029128352",
+        "https://openalex.org/W3171007400",
+        "https://openalex.org/W3214948090",
+        "https://openalex.org/W6723290644",
+        "https://openalex.org/W6744782999",
+        "https://openalex.org/W6777908033",
+        "https://openalex.org/W6796576832"
+      ],
+      "related_works": [
+        "https://openalex.org/W3183948672",
+        "https://openalex.org/W3173606202",
+        "https://openalex.org/W3110381201",
+        "https://openalex.org/W2948807893",
+        "https://openalex.org/W2778153218",
+        "https://openalex.org/W2758277628",
+        "https://openalex.org/W1531601525",
+        "https://openalex.org/W3113357452",
+        "https://openalex.org/W4387746293",
+        "https://openalex.org/W3184013206"
+      ],
+      "abstract_inverted_index": {
+        "Current": [
+          0
+        ],
+        "barriers": [
+          1
+        ],
+        "hindering": [
+          2
+        ],
+        "data-driven": [
+          3,
+          145
+        ],
+        "discoveries": [
+          4
+        ],
+        "in": [
+          5,
+          54,
+          80,
+          147
+        ],
+        "deep-time": [
+          6
+        ],
+        "Earth": [
+          7,
+          67
+        ],
+        "(DE)": [
+          8
+        ],
+        "include:": [
+          9
+        ],
+        "substantial": [
+          10
+        ],
+        "volumes": [
+          11
+        ],
+        "of": [
+          12,
+          49,
+          75,
+          150
+        ],
+        "DE": [
+          13,
+          19,
+          41,
+          50,
+          107,
+          127,
+          137
+        ],
+        "data": [
+          14,
+          51,
+          112,
+          121
+        ],
+        "are": [
+          15,
+          43,
+          59,
+          130
+        ],
+        "not": [
+          16,
+          22,
+          53
+        ],
+        "digitized;": [
+          17
+        ],
+        "many": [
+          18
+        ],
+        "databases": [
+          20,
+          42,
+          117
+        ],
+        "do": [
+          21
+        ],
+        "adhere": [
+          23
+        ],
+        "to": [
+          24,
+          98,
+          103,
+          135
+        ],
+        "FAIR": [
+          25,
+          111
+        ],
+        "(findable,": [
+          26
+        ],
+        "accessible,": [
+          27
+        ],
+        "interoperable": [
+          28
+        ],
+        "and": [
+          29,
+          78,
+          90,
+          118,
+          123,
+          143
+        ],
+        "reusable)": [
+          30
+        ],
+        "principles;": [
+          31
+        ],
+        "we": [
+          32
+        ],
+        "lack": [
+          33
+        ],
+        "a": [
+          34,
+          46,
+          105,
+          110
+        ],
+        "systematic": [
+          35,
+          106
+        ],
+        "knowledge": [
+          36,
+          108,
+          142
+        ],
+        "graph": [
+          37
+        ],
+        "for": [
+          38,
+          126
+        ],
+        "DE;": [
+          39
+        ],
+        "existing": [
+          40,
+          116
+        ],
+        "geographically": [
+          44
+        ],
+        "heterogeneous;": [
+          45
+        ],
+        "significant": [
+          47
+        ],
+        "fraction": [
+          48
+        ],
+        "is": [
+          52,
+          97
+        ],
+        "open-access": [
+          55
+        ],
+        "formats;": [
+          56
+        ],
+        "tailored": [
+          57,
+          124
+        ],
+        "tools": [
+          58,
+          125
+        ],
+        "needed.": [
+          60
+        ],
+        "These": [
+          61
+        ],
+        "challenges": [
+          62
+        ],
+        "motivate": [
+          63
+        ],
+        "the": [
+          64,
+          72,
+          93,
+          148
+        ],
+        "Deep-Time": [
+          65
+        ],
+        "Digital": [
+          66
+        ],
+        "(DDE)": [
+          68
+        ],
+        "program": [
+          69
+        ],
+        "initiated": [
+          70
+        ],
+        "by": [
+          71
+        ],
+        "International": [
+          73
+        ],
+        "Union": [
+          74
+        ],
+        "Geological": [
+          76
+        ],
+        "Sciences": [
+          77
+        ],
+        "developed": [
+          79
+        ],
+        "cooperation": [
+          81
+        ],
+        "with": [
+          82
+        ],
+        "national": [
+          83
+        ],
+        "geological": [
+          84
+        ],
+        "surveys,": [
+          85
+        ],
+        "professional": [
+          86
+        ],
+        "associations,": [
+          87
+        ],
+        "academic": [
+          88
+        ],
+        "institutions": [
+          89
+        ],
+        "scientists": [
+          91
+        ],
+        "around": [
+          92
+        ],
+        "world.": [
+          94
+        ],
+        "DDE's": [
+          95
+        ],
+        "mission": [
+          96
+        ],
+        "build": [
+          99
+        ],
+        "on": [
+          100
+        ],
+        "previous": [
+          101
+        ],
+        "research": [
+          102
+        ],
+        "develop": [
+          104
+        ],
+        "graph,": [
+          109
+        ],
+        "infrastructure": [
+          113
+        ],
+        "that": [
+          114
+        ],
+        "links": [
+          115
+        ],
+        "makes": [
+          119
+        ],
+        "dark": [
+          120
+        ],
+        "visible,": [
+          122
+        ],
+        "data,": [
+          128,
+          138
+        ],
+        "which": [
+          129
+        ],
+        "universally": [
+          131
+        ],
+        "accessible.": [
+          132
+        ],
+        "DDE": [
+          133
+        ],
+        "aims": [
+          134
+        ],
+        "harmonize": [
+          136
+        ],
+        "share": [
+          139
+        ],
+        "global": [
+          140
+        ],
+        "geoscience": [
+          141
+        ],
+        "facilitate": [
+          144
+        ],
+        "discovery": [
+          146
+        ],
+        "understanding": [
+          149
+        ],
+        "Earth's": [
+          151
+        ],
+        "evolution.": [
+          152
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 23
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 32
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 22
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-06-18T10:00:31.954636",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2793424403",
       "doi": "https://doi.org/10.1016/j.coal.2018.03.005",
       "title": "Assessing low-maturity organic matter in shales using Raman spectroscopy: Effects of sample preparation and operating procedure",
@@ -4622,1647 +6263,6 @@
         }
       ],
       "updated_date": "2026-04-26T08:31:28.666265",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3132519602",
-      "doi": "https://doi.org/10.1093/nsr/nwab027",
-      "title": "The Deep-Time Digital Earth program: data-driven discovery in geosciences",
-      "display_name": "The Deep-Time Digital Earth program: data-driven discovery in geosciences",
-      "publication_year": 2021,
-      "publication_date": "2021-02-09",
-      "ids": {
-        "openalex": "https://openalex.org/W3132519602",
-        "doi": "https://doi.org/10.1093/nsr/nwab027",
-        "mag": "3132519602",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/34691735"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1093/nsr/nwab027",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
-        "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
-        "source": {
-          "id": "https://openalex.org/S2734413303",
-          "display_name": "National Science Review",
-          "issn_l": "2053-714X",
-          "issn": [
-            "2053-714X",
-            "2095-5138"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311648",
-          "host_organization_name": "Oxford University Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311648",
-            "https://openalex.org/P4310311647"
-          ],
-          "host_organization_lineage_names": [
-            "Oxford University Press",
-            "University of Oxford"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "National Science Review",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5001810569",
-            "display_name": "Chengshan Wang",
-            "orcid": "https://orcid.org/0000-0002-7403-0582"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3125743391",
-              "display_name": "China University of Geosciences (Beijing)",
-              "ror": "https://ror.org/04q6c7p66",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Chengshan Wang",
-          "raw_affiliation_strings": [
-            "School of the Earth Science and Resources, China University of Geosciences, Beijing 100083, China",
-            "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Beijing 100083, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of the Earth Science and Resources, China University of Geosciences, Beijing 100083, China",
-              "institution_ids": [
-                "https://openalex.org/I3125743391"
-              ]
-            },
-            {
-              "raw_affiliation_string": "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Beijing 100083, China",
-              "institution_ids": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088357781",
-            "display_name": "Robert M. Hazen",
-            "orcid": "https://orcid.org/0000-0003-4163-8644"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I196817621",
-              "display_name": "Carnegie Institution for Science",
-              "ror": "https://ror.org/04jr01610",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I196817621"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert M Hazen",
-          "raw_affiliation_strings": [
-            "Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC 20015, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC 20015, USA",
-              "institution_ids": [
-                "https://openalex.org/I196817621"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100630777",
-            "display_name": "Qiuming Cheng",
-            "orcid": "https://orcid.org/0000-0003-3122-5942"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3125743391",
-              "display_name": "China University of Geosciences (Beijing)",
-              "ror": "https://ror.org/04q6c7p66",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Qiuming Cheng",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing 100083, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing 100083, China",
-              "institution_ids": [
-                "https://openalex.org/I3125743391"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael H Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey, Nottingham, NG12 5GG, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023919188",
-            "display_name": "Chenghu Zhou",
-            "orcid": "https://orcid.org/0000-0003-3331-2302"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210160793",
-              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
-              "ror": "https://ror.org/04t1cdb72",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210160793"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chenghu Zhou",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
-              "institution_ids": [
-                "https://openalex.org/I4210160793",
-                "https://openalex.org/I19820366"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024379437",
-            "display_name": "Peter Fox",
-            "orcid": "https://orcid.org/0000-0002-1009-7163"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165799507",
-              "display_name": "Rensselaer Polytechnic Institute",
-              "ror": "https://ror.org/01rtyzb94",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165799507"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Peter Fox",
-          "raw_affiliation_strings": [
-            "Tetherless World Constellation, Rensselaer Polytechnic Institute, Troy, NY 12180, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Tetherless World Constellation, Rensselaer Polytechnic Institute, Troy, NY 12180, USA",
-              "institution_ids": [
-                "https://openalex.org/I165799507"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5075284964",
-            "display_name": "Shu‐zhong Shen",
-            "orcid": "https://orcid.org/0000-0001-8380-0692"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I881766915",
-              "display_name": "Nanjing University",
-              "ror": "https://ror.org/01rxvg760",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shu-zhong Shen",
-          "raw_affiliation_strings": [
-            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060414536",
-            "display_name": "Roland Oberhänsli",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176453806",
-              "display_name": "University of Potsdam",
-              "ror": "https://ror.org/03bnmw459",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176453806"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Roland Oberhänsli",
-          "raw_affiliation_strings": [
-            "Institute of Earth and Environmental Sciences, University of Potsdam, Potsdam 14476, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Earth and Environmental Sciences, University of Potsdam, Potsdam 14476, Germany",
-              "institution_ids": [
-                "https://openalex.org/I176453806"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112722669",
-            "display_name": "Zengqian Hou",
-            "orcid": "https://orcid.org/0009-0004-9574-0235"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2802497816",
-              "display_name": "Chinese Academy of Geological Sciences",
-              "ror": "https://ror.org/02gp4e279",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2802497816"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zengqian Hou",
-          "raw_affiliation_strings": [
-            "Institute of Geology, Chinese Academy of Geological Sciences, Beijing 100037, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geology, Chinese Academy of Geological Sciences, Beijing 100037, China",
-              "institution_ids": [
-                "https://openalex.org/I2802497816"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5071393418",
-            "display_name": "Xiaogang Ma",
-            "orcid": "https://orcid.org/0000-0002-9110-7369"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I155093810",
-              "display_name": "University of Idaho",
-              "ror": "https://ror.org/03hbp5t65",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I155093810"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Xiaogang Ma",
-          "raw_affiliation_strings": [
-            "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-9110-7369",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA",
-              "institution_ids": [
-                "https://openalex.org/I155093810"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100768674",
-            "display_name": "Zhiqiang Feng",
-            "orcid": "https://orcid.org/0009-0007-8908-5635"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I106994412",
-              "display_name": "Sinopec (China)",
-              "ror": "https://ror.org/0161q6d74",
-              "country_code": "CN",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I106994412"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zhiqiang Feng",
-          "raw_affiliation_strings": [
-            "Petroleum Exploration and Production Research Institute, SINOPEC, Beijing 100083, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petroleum Exploration and Production Research Institute, SINOPEC, Beijing 100083, China",
-              "institution_ids": [
-                "https://openalex.org/I106994412"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5016367316",
-            "display_name": "Junxuan Fan",
-            "orcid": "https://orcid.org/0000-0001-9913-0865"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I881766915",
-              "display_name": "Nanjing University",
-              "ror": "https://ror.org/01rxvg760",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Junxuan Fan",
-          "raw_affiliation_strings": [
-            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083798119",
-            "display_name": "Chao Ma",
-            "orcid": "https://orcid.org/0000-0002-0122-5696"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I155093810",
-              "display_name": "University of Idaho",
-              "ror": "https://ror.org/03hbp5t65",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I155093810"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chao Ma",
-          "raw_affiliation_strings": [
-            "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science, University of Idaho, Moscow, ID 83844, USA",
-              "institution_ids": [
-                "https://openalex.org/I155093810"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038111698",
-            "display_name": "Xiumian Hu",
-            "orcid": "https://orcid.org/0000-0002-5401-8682"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I881766915",
-              "display_name": "Nanjing University",
-              "ror": "https://ror.org/01rxvg760",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Xiumian Hu",
-          "raw_affiliation_strings": [
-            "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045938707",
-            "display_name": "Bin Luo",
-            "orcid": "https://orcid.org/0000-0001-9324-8942"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210160793",
-              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
-              "ror": "https://ror.org/04t1cdb72",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210160793"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bin Luo",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
-              "institution_ids": [
-                "https://openalex.org/I4210160793",
-                "https://openalex.org/I19820366"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037249071",
-            "display_name": "Juanle Wang",
-            "orcid": "https://orcid.org/0000-0002-5641-0813"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210160793",
-              "display_name": "Institute of Geographic Sciences and Natural Resources Research",
-              "ror": "https://ror.org/04t1cdb72",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210160793"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Juanle Wang",
-          "raw_affiliation_strings": [
-            "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Laboratory of Resources and Environment Information System, Institute of Geographical Science and Natural Resources, Chinese Academy of Sciences, Beijing 100101, China",
-              "institution_ids": [
-                "https://openalex.org/I4210160793",
-                "https://openalex.org/I19820366"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5027275817",
-            "display_name": "Craig M. Schiffries",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Craig M Schiffries",
-          "raw_affiliation_strings": [
-            "DDE Center of Excellence (Suzhou), Kunshan 215300, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "DDE Center of Excellence (Suzhou), Kunshan 215300, China",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 17,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5001810569"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I3125743391"
-      ],
-      "apc_list": {
-        "value": 1904,
-        "currency": "USD",
-        "value_usd": 1904
-      },
-      "apc_paid": {
-        "value": 1904,
-        "currency": "USD",
-        "value_usd": 1904
-      },
-      "fwci": 43.4968,
-      "has_fulltext": false,
-      "cited_by_count": 121,
-      "citation_normalized_percentile": {
-        "value": 0.99684033,
-        "is_in_top_1_percent": true,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "8",
-        "issue": "9",
-        "first_page": "nwab027",
-        "last_page": "nwab027"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11986",
-        "display_name": "Scientific Computing and Data Management",
-        "score": 0.9930999875068665,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1802",
-          "display_name": "Information Systems and Management"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/18",
-          "display_name": "Decision Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11986",
-          "display_name": "Scientific Computing and Data Management",
-          "score": 0.9930999875068665,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1802",
-            "display_name": "Information Systems and Management"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/18",
-            "display_name": "Decision Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9901000261306763,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.9801999926567078,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/interoperability",
-          "display_name": "Interoperability",
-          "score": 0.8427505493164062
-        },
-        {
-          "id": "https://openalex.org/keywords/data-science",
-          "display_name": "Data science",
-          "score": 0.6267313957214355
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5688114166259766
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.5272271633148193
-        },
-        {
-          "id": "https://openalex.org/keywords/digital-earth",
-          "display_name": "Digital Earth",
-          "score": 0.513859748840332
-        },
-        {
-          "id": "https://openalex.org/keywords/deep-time",
-          "display_name": "Deep time",
-          "score": 0.42585238814353943
-        },
-        {
-          "id": "https://openalex.org/keywords/knowledge-extraction",
-          "display_name": "Knowledge extraction",
-          "score": 0.4127839505672455
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.31529563665390015
-        },
-        {
-          "id": "https://openalex.org/keywords/data-mining",
-          "display_name": "Data mining",
-          "score": 0.25419318675994873
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.18492960929870605
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.1589186191558838
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C20136886",
-          "wikidata": "https://www.wikidata.org/wiki/Q749647",
-          "display_name": "Interoperability",
-          "level": 2,
-          "score": 0.8427505493164062
-        },
-        {
-          "id": "https://openalex.org/C2522767166",
-          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
-          "display_name": "Data science",
-          "level": 1,
-          "score": 0.6267313957214355
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.5688114166259766
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.5272271633148193
-        },
-        {
-          "id": "https://openalex.org/C120938966",
-          "wikidata": "https://www.wikidata.org/wiki/Q5275845",
-          "display_name": "Digital Earth",
-          "level": 2,
-          "score": 0.513859748840332
-        },
-        {
-          "id": "https://openalex.org/C131419983",
-          "wikidata": "https://www.wikidata.org/wiki/Q1909845",
-          "display_name": "Deep time",
-          "level": 2,
-          "score": 0.42585238814353943
-        },
-        {
-          "id": "https://openalex.org/C120567893",
-          "wikidata": "https://www.wikidata.org/wiki/Q1582085",
-          "display_name": "Knowledge extraction",
-          "level": 2,
-          "score": 0.4127839505672455
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.31529563665390015
-        },
-        {
-          "id": "https://openalex.org/C124101348",
-          "wikidata": "https://www.wikidata.org/wiki/Q172491",
-          "display_name": "Data mining",
-          "level": 1,
-          "score": 0.25419318675994873
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.18492960929870605
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.1589186191558838
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1093/nsr/nwab027",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
-          "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
-          "source": {
-            "id": "https://openalex.org/S2734413303",
-            "display_name": "National Science Review",
-            "issn_l": "2053-714X",
-            "issn": [
-              "2053-714X",
-              "2095-5138"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311648",
-            "host_organization_name": "Oxford University Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311648",
-              "https://openalex.org/P4310311647"
-            ],
-            "host_organization_lineage_names": [
-              "Oxford University Press",
-              "University of Oxford"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "National Science Review",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:34691735",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34691735",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "National science review",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:kobv.de-opus4-uni-potsdam:68261",
-          "is_oa": true,
-          "landing_page_url": "https://publishup.uni-potsdam.de/frontdoor/index/index/docId/68261",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196346",
-            "display_name": "publish.UP (University of Potsdam)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I176453806",
-            "host_organization_name": "University of Potsdam",
-            "host_organization_lineage": [
-              "https://openalex.org/I176453806"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "doc-type:article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:8433093",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8433093",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Natl Sci Rev",
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1093/nsr/nwab027",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1093/nsr/nwab027",
-        "pdf_url": "https://academic.oup.com/nsr/article-pdf/8/9/nwab027/40346461/nwab027.pdf",
-        "source": {
-          "id": "https://openalex.org/S2734413303",
-          "display_name": "National Science Review",
-          "issn_l": "2053-714X",
-          "issn": [
-            "2053-714X",
-            "2095-5138"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311648",
-          "host_organization_name": "Oxford University Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311648",
-            "https://openalex.org/P4310311647"
-          ],
-          "host_organization_lineage_names": [
-            "Oxford University Press",
-            "University of Oxford"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "National Science Review",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G4035651271",
-          "display_name": null,
-          "funder_award_id": "2018YFE0204204",
-          "funder_id": "https://openalex.org/F4320335777",
-          "funder_display_name": "National Key Research and Development Program of China"
-        },
-        {
-          "id": "https://openalex.org/G6671057237",
-          "display_name": null,
-          "funder_award_id": "41888101",
-          "funder_id": "https://openalex.org/F4320321001",
-          "funder_display_name": "National Natural Science Foundation of China"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321001",
-          "display_name": "National Natural Science Foundation of China",
-          "ror": "https://ror.org/01h0zpd94"
-        },
-        {
-          "id": "https://openalex.org/F4320335777",
-          "display_name": "National Key Research and Development Program of China",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 53,
-      "referenced_works": [
-        "https://openalex.org/W1509701100",
-        "https://openalex.org/W1608018262",
-        "https://openalex.org/W1965913526",
-        "https://openalex.org/W1967304706",
-        "https://openalex.org/W1980397870",
-        "https://openalex.org/W2005947801",
-        "https://openalex.org/W2016188962",
-        "https://openalex.org/W2019736558",
-        "https://openalex.org/W2035185474",
-        "https://openalex.org/W2051661671",
-        "https://openalex.org/W2052569640",
-        "https://openalex.org/W2054229986",
-        "https://openalex.org/W2157435392",
-        "https://openalex.org/W2165394332",
-        "https://openalex.org/W2169362575",
-        "https://openalex.org/W2302501749",
-        "https://openalex.org/W2406068333",
-        "https://openalex.org/W2438061131",
-        "https://openalex.org/W2494566811",
-        "https://openalex.org/W2585442725",
-        "https://openalex.org/W2599868015",
-        "https://openalex.org/W2600811820",
-        "https://openalex.org/W2759388052",
-        "https://openalex.org/W2770069102",
-        "https://openalex.org/W2770905548",
-        "https://openalex.org/W2773787581",
-        "https://openalex.org/W2779097157",
-        "https://openalex.org/W2783122987",
-        "https://openalex.org/W2789120081",
-        "https://openalex.org/W2790981989",
-        "https://openalex.org/W2802929155",
-        "https://openalex.org/W2808782078",
-        "https://openalex.org/W2809026107",
-        "https://openalex.org/W2884742644",
-        "https://openalex.org/W2887285250",
-        "https://openalex.org/W2906035385",
-        "https://openalex.org/W2913323966",
-        "https://openalex.org/W2915415430",
-        "https://openalex.org/W2917380209",
-        "https://openalex.org/W2923222994",
-        "https://openalex.org/W2943412363",
-        "https://openalex.org/W2948757146",
-        "https://openalex.org/W2949033096",
-        "https://openalex.org/W2971985577",
-        "https://openalex.org/W2999219571",
-        "https://openalex.org/W3024722698",
-        "https://openalex.org/W3029128352",
-        "https://openalex.org/W3171007400",
-        "https://openalex.org/W3214948090",
-        "https://openalex.org/W6723290644",
-        "https://openalex.org/W6744782999",
-        "https://openalex.org/W6777908033",
-        "https://openalex.org/W6796576832"
-      ],
-      "related_works": [
-        "https://openalex.org/W3183948672",
-        "https://openalex.org/W3173606202",
-        "https://openalex.org/W3110381201",
-        "https://openalex.org/W2948807893",
-        "https://openalex.org/W2778153218",
-        "https://openalex.org/W2758277628",
-        "https://openalex.org/W1531601525",
-        "https://openalex.org/W3113357452",
-        "https://openalex.org/W4387746293",
-        "https://openalex.org/W3184013206"
-      ],
-      "abstract_inverted_index": {
-        "Current": [
-          0
-        ],
-        "barriers": [
-          1
-        ],
-        "hindering": [
-          2
-        ],
-        "data-driven": [
-          3,
-          145
-        ],
-        "discoveries": [
-          4
-        ],
-        "in": [
-          5,
-          54,
-          80,
-          147
-        ],
-        "deep-time": [
-          6
-        ],
-        "Earth": [
-          7,
-          67
-        ],
-        "(DE)": [
-          8
-        ],
-        "include:": [
-          9
-        ],
-        "substantial": [
-          10
-        ],
-        "volumes": [
-          11
-        ],
-        "of": [
-          12,
-          49,
-          75,
-          150
-        ],
-        "DE": [
-          13,
-          19,
-          41,
-          50,
-          107,
-          127,
-          137
-        ],
-        "data": [
-          14,
-          51,
-          112,
-          121
-        ],
-        "are": [
-          15,
-          43,
-          59,
-          130
-        ],
-        "not": [
-          16,
-          22,
-          53
-        ],
-        "digitized;": [
-          17
-        ],
-        "many": [
-          18
-        ],
-        "databases": [
-          20,
-          42,
-          117
-        ],
-        "do": [
-          21
-        ],
-        "adhere": [
-          23
-        ],
-        "to": [
-          24,
-          98,
-          103,
-          135
-        ],
-        "FAIR": [
-          25,
-          111
-        ],
-        "(findable,": [
-          26
-        ],
-        "accessible,": [
-          27
-        ],
-        "interoperable": [
-          28
-        ],
-        "and": [
-          29,
-          78,
-          90,
-          118,
-          123,
-          143
-        ],
-        "reusable)": [
-          30
-        ],
-        "principles;": [
-          31
-        ],
-        "we": [
-          32
-        ],
-        "lack": [
-          33
-        ],
-        "a": [
-          34,
-          46,
-          105,
-          110
-        ],
-        "systematic": [
-          35,
-          106
-        ],
-        "knowledge": [
-          36,
-          108,
-          142
-        ],
-        "graph": [
-          37
-        ],
-        "for": [
-          38,
-          126
-        ],
-        "DE;": [
-          39
-        ],
-        "existing": [
-          40,
-          116
-        ],
-        "geographically": [
-          44
-        ],
-        "heterogeneous;": [
-          45
-        ],
-        "significant": [
-          47
-        ],
-        "fraction": [
-          48
-        ],
-        "is": [
-          52,
-          97
-        ],
-        "open-access": [
-          55
-        ],
-        "formats;": [
-          56
-        ],
-        "tailored": [
-          57,
-          124
-        ],
-        "tools": [
-          58,
-          125
-        ],
-        "needed.": [
-          60
-        ],
-        "These": [
-          61
-        ],
-        "challenges": [
-          62
-        ],
-        "motivate": [
-          63
-        ],
-        "the": [
-          64,
-          72,
-          93,
-          148
-        ],
-        "Deep-Time": [
-          65
-        ],
-        "Digital": [
-          66
-        ],
-        "(DDE)": [
-          68
-        ],
-        "program": [
-          69
-        ],
-        "initiated": [
-          70
-        ],
-        "by": [
-          71
-        ],
-        "International": [
-          73
-        ],
-        "Union": [
-          74
-        ],
-        "Geological": [
-          76
-        ],
-        "Sciences": [
-          77
-        ],
-        "developed": [
-          79
-        ],
-        "cooperation": [
-          81
-        ],
-        "with": [
-          82
-        ],
-        "national": [
-          83
-        ],
-        "geological": [
-          84
-        ],
-        "surveys,": [
-          85
-        ],
-        "professional": [
-          86
-        ],
-        "associations,": [
-          87
-        ],
-        "academic": [
-          88
-        ],
-        "institutions": [
-          89
-        ],
-        "scientists": [
-          91
-        ],
-        "around": [
-          92
-        ],
-        "world.": [
-          94
-        ],
-        "DDE's": [
-          95
-        ],
-        "mission": [
-          96
-        ],
-        "build": [
-          99
-        ],
-        "on": [
-          100
-        ],
-        "previous": [
-          101
-        ],
-        "research": [
-          102
-        ],
-        "develop": [
-          104
-        ],
-        "graph,": [
-          109
-        ],
-        "infrastructure": [
-          113
-        ],
-        "that": [
-          114
-        ],
-        "links": [
-          115
-        ],
-        "makes": [
-          119
-        ],
-        "dark": [
-          120
-        ],
-        "visible,": [
-          122
-        ],
-        "data,": [
-          128,
-          138
-        ],
-        "which": [
-          129
-        ],
-        "universally": [
-          131
-        ],
-        "accessible.": [
-          132
-        ],
-        "DDE": [
-          133
-        ],
-        "aims": [
-          134
-        ],
-        "harmonize": [
-          136
-        ],
-        "share": [
-          139
-        ],
-        "global": [
-          140
-        ],
-        "geoscience": [
-          141
-        ],
-        "facilitate": [
-          144
-        ],
-        "discovery": [
-          146
-        ],
-        "understanding": [
-          149
-        ],
-        "Earth's": [
-          151
-        ],
-        "evolution.": [
-          152
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 23
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 28
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 32
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 22
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-06-17T08:01:34.144755",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18442,7 +18442,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-17T08:01:34.144755",
+      "updated_date": "2026-06-17T06:14:20.161405",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -102954,7 +102954,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80318394,
+        "value": 0.80318492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103235,7 +103235,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
+          "raw_source_name": null,
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
@@ -103310,7 +103310,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-12T08:23:45.883708",
+      "updated_date": "2026-06-18T10:00:31.954636",
       "created_date": "2025-10-10T00:00:00"
     },
     {

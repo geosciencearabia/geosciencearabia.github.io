@@ -20,7 +20,7 @@
     ],
     "full_name": "Khalid A. Al-Ramadan",
     "works_count": 155,
-    "cited_by_count": 2420,
+    "cited_by_count": 2423,
     "summary_stats": {
       "2yr_mean_citedness": 3.6744186046511627,
       "h_index": 26,
@@ -230,7 +230,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002195,
+        "value": 0.0002194,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.00009,
+        "value": 0.0000899,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -368,13 +368,13 @@
         "year": 2009,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 83
+        "cited_by_count": 84
       },
       {
         "year": 2010,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 726
+        "cited_by_count": 727
       },
       {
         "year": 2011,
@@ -446,7 +446,7 @@
         "year": 2022,
         "works_count": 26,
         "oa_works_count": 14,
-        "cited_by_count": 312
+        "cited_by_count": 313
       },
       {
         "year": 2023,
@@ -490,7 +490,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5085007251",
-    "updated_date": "2026-06-16T12:20:30",
+    "updated_date": "2026-06-17T12:17:59",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -47094,7 +47094,7 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.6933,
+      "fwci": 6.6931,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
@@ -88301,6 +88301,1159 @@
         }
       ],
       "updated_date": "2026-06-13T06:13:01.061226",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4408483615",
+      "doi": "https://doi.org/10.5194/egusphere-egu25-20615",
+      "title": "Modeling Benthic Foraminiferal Diversity in the Arabian Gulf: Species Distribution and Environmental Controls in a Basin-Wide Assessment",
+      "display_name": "Modeling Benthic Foraminiferal Diversity in the Arabian Gulf: Species Distribution and Environmental Controls in a Basin-Wide Assessment",
+      "publication_year": 2025,
+      "publication_date": "2025-03-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4408483615",
+        "doi": "https://doi.org/10.5194/egusphere-egu25-20615"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5194/egusphere-egu25-20615",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "type": "preprint",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.5194/egusphere-egu25-20615",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu O. Amao",
+            "orcid": "https://orcid.org/0000-0001-8203-851X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abduljamiu Amao",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Center for Integrative Petroleum Research, Dhahran, Saudi Arabia (amao@kfupm.edu.sa)"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8203-851X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Center for Integrative Petroleum Research, Dhahran, Saudi Arabia (amao@kfupm.edu.sa)",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035815399",
+            "display_name": "Michael A. Kaminski",
+            "orcid": "https://orcid.org/0000-0002-7344-5874"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Kaminski",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5070748180",
+            "display_name": "Fabrizio Frontalini",
+            "orcid": "https://orcid.org/0000-0002-0425-9306"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I190397597",
+              "display_name": "University of Urbino",
+              "ror": "https://ror.org/04q4kt073",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I190397597"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fabrizio Frontalini",
+          "raw_affiliation_strings": [
+            "Department of Pure and Applied Sciences, Urbino University, Urbino 61029, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Pure and Applied Sciences, Urbino University, Urbino 61029, Italy",
+              "institution_ids": [
+                "https://openalex.org/I190397597"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5027197211",
+        "https://openalex.org/A5035815399"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9254,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.68936769,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9550999999046326,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9550999999046326,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11588",
+          "display_name": "Atmospheric and Environmental Gas Dynamics",
+          "score": 0.9203000068664551,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10765",
+          "display_name": "Marine Biology and Ecology Research",
+          "score": 0.9063000082969666,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/benthic-zone",
+          "display_name": "Benthic zone",
+          "score": 0.8505735397338867
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.7698724269866943
+        },
+        {
+          "id": "https://openalex.org/keywords/diversity",
+          "display_name": "Diversity (politics)",
+          "score": 0.6032269597053528
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.5827621221542358
+        },
+        {
+          "id": "https://openalex.org/keywords/distribution",
+          "display_name": "Distribution (mathematics)",
+          "score": 0.5166283249855042
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5034734606742859
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.4580165445804596
+        },
+        {
+          "id": "https://openalex.org/keywords/fishery",
+          "display_name": "Fishery",
+          "score": 0.40219834446907043
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.3839004635810852
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.30093154311180115
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.18475815653800964
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.09914171695709229
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.08311176300048828
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.8505735397338867
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.7698724269866943
+        },
+        {
+          "id": "https://openalex.org/C2781316041",
+          "wikidata": "https://www.wikidata.org/wiki/Q1230584",
+          "display_name": "Diversity (politics)",
+          "level": 2,
+          "score": 0.6032269597053528
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5827621221542358
+        },
+        {
+          "id": "https://openalex.org/C110121322",
+          "wikidata": "https://www.wikidata.org/wiki/Q865811",
+          "display_name": "Distribution (mathematics)",
+          "level": 2,
+          "score": 0.5166283249855042
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5034734606742859
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.4580165445804596
+        },
+        {
+          "id": "https://openalex.org/C505870484",
+          "wikidata": "https://www.wikidata.org/wiki/Q180538",
+          "display_name": "Fishery",
+          "level": 1,
+          "score": 0.40219834446907043
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.3839004635810852
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.30093154311180115
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.18475815653800964
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.09914171695709229
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.08311176300048828
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5194/egusphere-egu25-20615",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "posted-content"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5194/egusphere-egu25-20615",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3150697957",
+        "https://openalex.org/W1879292667",
+        "https://openalex.org/W4232417921",
+        "https://openalex.org/W2528749524",
+        "https://openalex.org/W4254407731",
+        "https://openalex.org/W3145102588",
+        "https://openalex.org/W2121763053",
+        "https://openalex.org/W4389938666",
+        "https://openalex.org/W2150776934",
+        "https://openalex.org/W2052935211"
+      ],
+      "abstract_inverted_index": {
+        "492": [
+          73
+        ],
+        "Using": [
+          0,
+          78
+        ],
+        "extensive": [
+          1
+        ],
+        "datasets": [
+          2,
+          111
+        ],
+        "of": [
+          3,
+          11,
+          35,
+          60,
+          81,
+          90,
+          117,
+          156,
+          173,
+          190,
+          205,
+          217,
+          245
+        ],
+        "benthic": [
+          4,
+          61,
+          218
+        ],
+        "foraminiferal": [
+          5,
+          42,
+          62,
+          99,
+          144,
+          174,
+          219
+        ],
+        "occurrences,": [
+          6
+        ],
+        "we": [
+          7,
+          85
+        ],
+        "investigate": [
+          8
+        ],
+        "spatial": [
+          9,
+          88,
+          227
+        ],
+        "patterns": [
+          10,
+          44,
+          89,
+          228
+        ],
+        "species": [
+          12,
+          27,
+          37,
+          74,
+          82,
+          92,
+          100,
+          122,
+          145,
+          246
+        ],
+        "diversity": [
+          13,
+          43,
+          48,
+          149,
+          163,
+          195,
+          220
+        ],
+        "across": [
+          14,
+          50,
+          102
+        ],
+        "the": [
+          15,
+          33,
+          51,
+          87,
+          103,
+          114,
+          153,
+          157,
+          191,
+          198,
+          203,
+          206,
+          213,
+          222
+        ],
+        "Arabian": [
+          16,
+          52,
+          223
+        ],
+        "Gulf": [
+          17,
+          53,
+          192
+        ],
+        "and": [
+          18,
+          45,
+          67,
+          93,
+          112,
+          166,
+          177,
+          185,
+          229,
+          239,
+          261,
+          269
+        ],
+        "assess": [
+          19
+        ],
+        "how": [
+          20
+        ],
+        "environmental": [
+          21,
+          118,
+          230,
+          240
+        ],
+        "gradients": [
+          22,
+          241
+        ],
+        "influence": [
+          23,
+          204
+        ],
+        "these": [
+          24,
+          95
+        ],
+        "distributions": [
+          25,
+          175
+        ],
+        "through": [
+          26
+        ],
+        "distribution": [
+          28,
+          38,
+          83,
+          123
+        ],
+        "modeling": [
+          29
+        ],
+        "approaches.": [
+          30
+        ],
+        "We": [
+          31,
+          55,
+          105
+        ],
+        "evaluate": [
+          32
+        ],
+        "effectiveness": [
+          34
+        ],
+        "stacked": [
+          36,
+          121
+        ],
+        "models": [
+          39,
+          124
+        ],
+        "in": [
+          40,
+          143,
+          152,
+          221,
+          273
+        ],
+        "predicting": [
+          41
+        ],
+        "identifying": [
+          46
+        ],
+        "potential": [
+          47
+        ],
+        "hotspots": [
+          49
+        ],
+        "basin.": [
+          54,
+          104
+        ],
+        "compiled": [
+          56
+        ],
+        "a": [
+          57,
+          139,
+          254
+        ],
+        "comprehensive": [
+          58
+        ],
+        "dataset": [
+          59
+        ],
+        "occurrences": [
+          63
+        ],
+        "from": [
+          64,
+          75
+        ],
+        "published": [
+          65
+        ],
+        "literature": [
+          66
+        ],
+        "public": [
+          68
+        ],
+        "databases,": [
+          69
+        ],
+        "encompassing": [
+          70
+        ],
+        "more": [
+          71
+        ],
+        "than": [
+          72
+        ],
+        "nine": [
+          76
+        ],
+        "orders.": [
+          77
+        ],
+        "an": [
+          79
+        ],
+        "ensemble": [
+          80
+        ],
+        "models,": [
+          84
+        ],
+        "predict": [
+          86
+        ],
+        "individual": [
+          91
+        ],
+        "stack": [
+          94
+        ],
+        "predictions": [
+          96,
+          108
+        ],
+        "to": [
+          97,
+          197,
+          235,
+          248
+        ],
+        "estimate": [
+          98
+        ],
+        "richness": [
+          101
+        ],
+        "validated": [
+          106
+        ],
+        "model": [
+          107
+        ],
+        "using": [
+          109
+        ],
+        "independent": [
+          110
+        ],
+        "assessed": [
+          113
+        ],
+        "relative": [
+          115
+        ],
+        "importance": [
+          116
+        ],
+        "variables.": [
+          119
+        ],
+        "Our": [
+          120,
+          210
+        ],
+        "showed": [
+          125
+        ],
+        "high": [
+          126
+        ],
+        "performance": [
+          127
+        ],
+        "(mean": [
+          128
+        ],
+        "AUC": [
+          129
+        ],
+        "&gt;": [
+          130,
+          133,
+          136
+        ],
+        "0.94,": [
+          131
+        ],
+        "TSS": [
+          132
+        ],
+        "0.8,": [
+          134
+        ],
+        "Kappa": [
+          135
+        ],
+        "0.82),": [
+          137
+        ],
+        "revealing": [
+          138,
+          225
+        ],
+        "clear": [
+          140
+        ],
+        "north-south": [
+          141
+        ],
+        "gradient": [
+          142
+        ],
+        "richness.": [
+          146
+        ],
+        "The": [
+          147,
+          187,
+          232
+        ],
+        "highest": [
+          148
+        ],
+        "was": [
+          150
+        ],
+        "observed": [
+          151
+        ],
+        "northern": [
+          154
+        ],
+        "part": [
+          155,
+          189
+        ],
+        "Gulf,": [
+          158,
+          224
+        ],
+        "contrasting": [
+          159
+        ],
+        "with": [
+          160
+        ],
+        "typical": [
+          161
+        ],
+        "latitudinal": [
+          162
+        ],
+        "gradients.": [
+          164
+        ],
+        "Bathymetry": [
+          165
+        ],
+        "dissolved": [
+          167
+        ],
+        "oxygen": [
+          168
+        ],
+        "emerged": [
+          169
+        ],
+        "as": [
+          170
+        ],
+        "primary": [
+          171
+        ],
+        "drivers": [
+          172
+        ],
+        "(10.50%": [
+          176
+        ],
+        "8.55%": [
+          178
+        ],
+        "contribution": [
+          179
+        ],
+        "respectively),": [
+          180
+        ],
+        "followed": [
+          181
+        ],
+        "by": [
+          182
+        ],
+        "iron": [
+          183
+        ],
+        "concentration": [
+          184
+        ],
+        "salinity.": [
+          186
+        ],
+        "eastern": [
+          188
+        ],
+        "displayed": [
+          193
+        ],
+        "higher": [
+          194
+        ],
+        "compared": [
+          196
+        ],
+        "western": [
+          199
+        ],
+        "regions,": [
+          200
+        ],
+        "likely": [
+          201
+        ],
+        "reflecting": [
+          202
+        ],
+        "counterclockwise": [
+          207
+        ],
+        "circulation": [
+          208
+        ],
+        "pattern.": [
+          209
+        ],
+        "study": [
+          211
+        ],
+        "provides": [
+          212
+        ],
+        "first": [
+          214
+        ],
+        "basin-wide": [
+          215
+        ],
+        "assessment": [
+          216
+        ],
+        "complex": [
+          226
+        ],
+        "relationships.": [
+          231
+        ],
+        "models'": [
+          233
+        ],
+        "ability": [
+          234
+        ],
+        "delineate": [
+          236
+        ],
+        "species-specific": [
+          237
+        ],
+        "niches": [
+          238
+        ],
+        "enables": [
+          242
+        ],
+        "efficient": [
+          243
+        ],
+        "prediction": [
+          244
+        ],
+        "responses": [
+          247
+        ],
+        "climate-driven": [
+          249
+        ],
+        "changes.": [
+          250
+        ],
+        "This": [
+          251
+        ],
+        "approach": [
+          252
+        ],
+        "establishes": [
+          253
+        ],
+        "robust": [
+          255
+        ],
+        "baseline": [
+          256
+        ],
+        "for": [
+          257,
+          265
+        ],
+        "monitoring": [
+          258
+        ],
+        "ecosystem": [
+          259
+        ],
+        "shifts": [
+          260
+        ],
+        "offers": [
+          262
+        ],
+        "valuable": [
+          263
+        ],
+        "insights": [
+          264
+        ],
+        "both": [
+          266
+        ],
+        "paleoenvironmental": [
+          267
+        ],
+        "reconstructions": [
+          268
+        ],
+        "future": [
+          270
+        ],
+        "targeted": [
+          271
+        ],
+        "studies": [
+          272
+        ],
+        "this": [
+          274
+        ],
+        "extreme": [
+          275
+        ],
+        "marine": [
+          276
+        ],
+        "environment.": [
+          277
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-18T10:00:31.954636",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -142841,1151 +143994,6 @@
         ],
         "Spectrofacies.": [
           300
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4408483615",
-      "doi": "https://doi.org/10.5194/egusphere-egu25-20615",
-      "title": "Modeling Benthic Foraminiferal Diversity in the Arabian Gulf: Species Distribution and Environmental Controls in a Basin-Wide Assessment",
-      "display_name": "Modeling Benthic Foraminiferal Diversity in the Arabian Gulf: Species Distribution and Environmental Controls in a Basin-Wide Assessment",
-      "publication_year": 2025,
-      "publication_date": "2025-03-15",
-      "ids": {
-        "openalex": "https://openalex.org/W4408483615",
-        "doi": "https://doi.org/10.5194/egusphere-egu25-20615"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.5194/egusphere-egu25-20615",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
-        "pdf_url": null,
-        "source": null,
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "type": "preprint",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.5194/egusphere-egu25-20615",
-        "any_repository_has_fulltext": null
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abduljamiu Amao",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Center for Integrative Petroleum Research, Dhahran, Saudi Arabia (amao@kfupm.edu.sa)"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-8203-851X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, College of Petroleum Engineering and Geosciences, Center for Integrative Petroleum Research, Dhahran, Saudi Arabia (amao@kfupm.edu.sa)",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035815399",
-            "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Kaminski",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7344-5874",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5070748180",
-            "display_name": "Fabrizio Frontalini",
-            "orcid": "https://orcid.org/0000-0002-0425-9306"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I190397597",
-              "display_name": "University of Urbino",
-              "ror": "https://ror.org/04q4kt073",
-              "country_code": "IT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I190397597"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fabrizio Frontalini",
-          "raw_affiliation_strings": [
-            "Department of Pure and Applied Sciences, Urbino University, Urbino 61029, Italy"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Pure and Applied Sciences, Urbino University, Urbino 61029, Italy",
-              "institution_ids": [
-                "https://openalex.org/I190397597"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5027197211",
-        "https://openalex.org/A5035815399"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.08714279,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9550999999046326,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9550999999046326,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.9203000068664551,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10765",
-          "display_name": "Marine Biology and Ecology Research",
-          "score": 0.9063000082969666,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/benthic-zone",
-          "display_name": "Benthic zone",
-          "score": 0.8505735397338867
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.7698724269866943
-        },
-        {
-          "id": "https://openalex.org/keywords/diversity",
-          "display_name": "Diversity (politics)",
-          "score": 0.6032269597053528
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5827621221542358
-        },
-        {
-          "id": "https://openalex.org/keywords/distribution",
-          "display_name": "Distribution (mathematics)",
-          "score": 0.5166283249855042
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5034734606742859
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.4580165445804596
-        },
-        {
-          "id": "https://openalex.org/keywords/fishery",
-          "display_name": "Fishery",
-          "score": 0.40219834446907043
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.3839004635810852
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.30093154311180115
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.18475815653800964
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.09914171695709229
-        },
-        {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.08311176300048828
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C83042747",
-          "wikidata": "https://www.wikidata.org/wiki/Q686881",
-          "display_name": "Benthic zone",
-          "level": 2,
-          "score": 0.8505735397338867
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.7698724269866943
-        },
-        {
-          "id": "https://openalex.org/C2781316041",
-          "wikidata": "https://www.wikidata.org/wiki/Q1230584",
-          "display_name": "Diversity (politics)",
-          "level": 2,
-          "score": 0.6032269597053528
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.5827621221542358
-        },
-        {
-          "id": "https://openalex.org/C110121322",
-          "wikidata": "https://www.wikidata.org/wiki/Q865811",
-          "display_name": "Distribution (mathematics)",
-          "level": 2,
-          "score": 0.5166283249855042
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5034734606742859
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.4580165445804596
-        },
-        {
-          "id": "https://openalex.org/C505870484",
-          "wikidata": "https://www.wikidata.org/wiki/Q180538",
-          "display_name": "Fishery",
-          "level": 1,
-          "score": 0.40219834446907043
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.3839004635810852
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.30093154311180115
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.18475815653800964
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.09914171695709229
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.08311176300048828
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.5194/egusphere-egu25-20615",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
-          "pdf_url": null,
-          "source": null,
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "posted-content"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.5194/egusphere-egu25-20615",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-20615",
-        "pdf_url": null,
-        "source": null,
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3150697957",
-        "https://openalex.org/W1879292667",
-        "https://openalex.org/W4232417921",
-        "https://openalex.org/W2528749524",
-        "https://openalex.org/W4254407731",
-        "https://openalex.org/W3145102588",
-        "https://openalex.org/W2121763053",
-        "https://openalex.org/W4389938666",
-        "https://openalex.org/W2150776934",
-        "https://openalex.org/W2052935211"
-      ],
-      "abstract_inverted_index": {
-        "492": [
-          73
-        ],
-        "Using": [
-          0,
-          78
-        ],
-        "extensive": [
-          1
-        ],
-        "datasets": [
-          2,
-          111
-        ],
-        "of": [
-          3,
-          11,
-          35,
-          60,
-          81,
-          90,
-          117,
-          156,
-          173,
-          190,
-          205,
-          217,
-          245
-        ],
-        "benthic": [
-          4,
-          61,
-          218
-        ],
-        "foraminiferal": [
-          5,
-          42,
-          62,
-          99,
-          144,
-          174,
-          219
-        ],
-        "occurrences,": [
-          6
-        ],
-        "we": [
-          7,
-          85
-        ],
-        "investigate": [
-          8
-        ],
-        "spatial": [
-          9,
-          88,
-          227
-        ],
-        "patterns": [
-          10,
-          44,
-          89,
-          228
-        ],
-        "species": [
-          12,
-          27,
-          37,
-          74,
-          82,
-          92,
-          100,
-          122,
-          145,
-          246
-        ],
-        "diversity": [
-          13,
-          43,
-          48,
-          149,
-          163,
-          195,
-          220
-        ],
-        "across": [
-          14,
-          50,
-          102
-        ],
-        "the": [
-          15,
-          33,
-          51,
-          87,
-          103,
-          114,
-          153,
-          157,
-          191,
-          198,
-          203,
-          206,
-          213,
-          222
-        ],
-        "Arabian": [
-          16,
-          52,
-          223
-        ],
-        "Gulf": [
-          17,
-          53,
-          192
-        ],
-        "and": [
-          18,
-          45,
-          67,
-          93,
-          112,
-          166,
-          177,
-          185,
-          229,
-          239,
-          261,
-          269
-        ],
-        "assess": [
-          19
-        ],
-        "how": [
-          20
-        ],
-        "environmental": [
-          21,
-          118,
-          230,
-          240
-        ],
-        "gradients": [
-          22,
-          241
-        ],
-        "influence": [
-          23,
-          204
-        ],
-        "these": [
-          24,
-          95
-        ],
-        "distributions": [
-          25,
-          175
-        ],
-        "through": [
-          26
-        ],
-        "distribution": [
-          28,
-          38,
-          83,
-          123
-        ],
-        "modeling": [
-          29
-        ],
-        "approaches.": [
-          30
-        ],
-        "We": [
-          31,
-          55,
-          105
-        ],
-        "evaluate": [
-          32
-        ],
-        "effectiveness": [
-          34
-        ],
-        "stacked": [
-          36,
-          121
-        ],
-        "models": [
-          39,
-          124
-        ],
-        "in": [
-          40,
-          143,
-          152,
-          221,
-          273
-        ],
-        "predicting": [
-          41
-        ],
-        "identifying": [
-          46
-        ],
-        "potential": [
-          47
-        ],
-        "hotspots": [
-          49
-        ],
-        "basin.": [
-          54,
-          104
-        ],
-        "compiled": [
-          56
-        ],
-        "a": [
-          57,
-          139,
-          254
-        ],
-        "comprehensive": [
-          58
-        ],
-        "dataset": [
-          59
-        ],
-        "occurrences": [
-          63
-        ],
-        "from": [
-          64,
-          75
-        ],
-        "published": [
-          65
-        ],
-        "literature": [
-          66
-        ],
-        "public": [
-          68
-        ],
-        "databases,": [
-          69
-        ],
-        "encompassing": [
-          70
-        ],
-        "more": [
-          71
-        ],
-        "than": [
-          72
-        ],
-        "nine": [
-          76
-        ],
-        "orders.": [
-          77
-        ],
-        "an": [
-          79
-        ],
-        "ensemble": [
-          80
-        ],
-        "models,": [
-          84
-        ],
-        "predict": [
-          86
-        ],
-        "individual": [
-          91
-        ],
-        "stack": [
-          94
-        ],
-        "predictions": [
-          96,
-          108
-        ],
-        "to": [
-          97,
-          197,
-          235,
-          248
-        ],
-        "estimate": [
-          98
-        ],
-        "richness": [
-          101
-        ],
-        "validated": [
-          106
-        ],
-        "model": [
-          107
-        ],
-        "using": [
-          109
-        ],
-        "independent": [
-          110
-        ],
-        "assessed": [
-          113
-        ],
-        "relative": [
-          115
-        ],
-        "importance": [
-          116
-        ],
-        "variables.": [
-          119
-        ],
-        "Our": [
-          120,
-          210
-        ],
-        "showed": [
-          125
-        ],
-        "high": [
-          126
-        ],
-        "performance": [
-          127
-        ],
-        "(mean": [
-          128
-        ],
-        "AUC": [
-          129
-        ],
-        "&gt;": [
-          130,
-          133,
-          136
-        ],
-        "0.94,": [
-          131
-        ],
-        "TSS": [
-          132
-        ],
-        "0.8,": [
-          134
-        ],
-        "Kappa": [
-          135
-        ],
-        "0.82),": [
-          137
-        ],
-        "revealing": [
-          138,
-          225
-        ],
-        "clear": [
-          140
-        ],
-        "north-south": [
-          141
-        ],
-        "gradient": [
-          142
-        ],
-        "richness.": [
-          146
-        ],
-        "The": [
-          147,
-          187,
-          232
-        ],
-        "highest": [
-          148
-        ],
-        "was": [
-          150
-        ],
-        "observed": [
-          151
-        ],
-        "northern": [
-          154
-        ],
-        "part": [
-          155,
-          189
-        ],
-        "Gulf,": [
-          158,
-          224
-        ],
-        "contrasting": [
-          159
-        ],
-        "with": [
-          160
-        ],
-        "typical": [
-          161
-        ],
-        "latitudinal": [
-          162
-        ],
-        "gradients.": [
-          164
-        ],
-        "Bathymetry": [
-          165
-        ],
-        "dissolved": [
-          167
-        ],
-        "oxygen": [
-          168
-        ],
-        "emerged": [
-          169
-        ],
-        "as": [
-          170
-        ],
-        "primary": [
-          171
-        ],
-        "drivers": [
-          172
-        ],
-        "(10.50%": [
-          176
-        ],
-        "8.55%": [
-          178
-        ],
-        "contribution": [
-          179
-        ],
-        "respectively),": [
-          180
-        ],
-        "followed": [
-          181
-        ],
-        "by": [
-          182
-        ],
-        "iron": [
-          183
-        ],
-        "concentration": [
-          184
-        ],
-        "salinity.": [
-          186
-        ],
-        "eastern": [
-          188
-        ],
-        "displayed": [
-          193
-        ],
-        "higher": [
-          194
-        ],
-        "compared": [
-          196
-        ],
-        "western": [
-          199
-        ],
-        "regions,": [
-          200
-        ],
-        "likely": [
-          201
-        ],
-        "reflecting": [
-          202
-        ],
-        "counterclockwise": [
-          207
-        ],
-        "circulation": [
-          208
-        ],
-        "pattern.": [
-          209
-        ],
-        "study": [
-          211
-        ],
-        "provides": [
-          212
-        ],
-        "first": [
-          214
-        ],
-        "basin-wide": [
-          215
-        ],
-        "assessment": [
-          216
-        ],
-        "complex": [
-          226
-        ],
-        "relationships.": [
-          231
-        ],
-        "models'": [
-          233
-        ],
-        "ability": [
-          234
-        ],
-        "delineate": [
-          236
-        ],
-        "species-specific": [
-          237
-        ],
-        "niches": [
-          238
-        ],
-        "enables": [
-          242
-        ],
-        "efficient": [
-          243
-        ],
-        "prediction": [
-          244
-        ],
-        "responses": [
-          247
-        ],
-        "climate-driven": [
-          249
-        ],
-        "changes.": [
-          250
-        ],
-        "This": [
-          251
-        ],
-        "approach": [
-          252
-        ],
-        "establishes": [
-          253
-        ],
-        "robust": [
-          255
-        ],
-        "baseline": [
-          256
-        ],
-        "for": [
-          257,
-          265
-        ],
-        "monitoring": [
-          258
-        ],
-        "ecosystem": [
-          259
-        ],
-        "shifts": [
-          260
-        ],
-        "offers": [
-          262
-        ],
-        "valuable": [
-          263
-        ],
-        "insights": [
-          264
-        ],
-        "both": [
-          266
-        ],
-        "paleoenvironmental": [
-          267
-        ],
-        "reconstructions": [
-          268
-        ],
-        "future": [
-          270
-        ],
-        "targeted": [
-          271
-        ],
-        "studies": [
-          272
-        ],
-        "this": [
-          274
-        ],
-        "extreme": [
-          275
-        ],
-        "marine": [
-          276
-        ],
-        "environment.": [
-          277
         ]
       },
       "counts_by_year": [],
