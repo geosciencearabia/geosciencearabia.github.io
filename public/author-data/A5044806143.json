@@ -33746,7 +33746,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohamed A.K. El-Ghali",
           "raw_affiliation_strings": [
             "Department of Earth Sciences, College of Science, Sultan Qaboos University, P.O. Box 34, Postal Code 123, Al-Khoudh, Muscat, Sultanate of Oman",
@@ -34001,19 +34001,23 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044806143"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I47818738"
+      ],
       "apc_list": {
         "value": 2390,
         "currency": "EUR",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.4226,
+      "fwci": 2.4232,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.86829376,
+        "value": 0.86833718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34474,7 +34478,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-10-10T00:00:00"
     },
     {

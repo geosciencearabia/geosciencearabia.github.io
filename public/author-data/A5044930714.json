@@ -1883,11 +1883,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.424,
+      "fwci": 135.4176,
       "has_fulltext": true,
       "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99962308,
+        "value": 0.99962306,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2766,9 +2766,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -2972,7 +2972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-17T08:01:34.144755",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3782,11 +3782,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 32.0403,
+      "fwci": 32.048,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.993719,
+        "value": 0.99371987,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4346,9 +4346,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -4575,7 +4575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-14T07:44:22.658603",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4860,11 +4860,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5275,
+      "fwci": 1.5265,
       "has_fulltext": false,
-      "cited_by_count": 29,
+      "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.86291247,
+        "value": 0.86289501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5244,9 +5244,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -5737,7 +5737,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -5772,7 +5772,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6349,9 +6349,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10450,9 +10450,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [
@@ -11649,9 +11649,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -12805,22 +12805,22 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah O. Bamousa",
           "raw_affiliation_strings": [
-            "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia",
-            "Taibah University, Madinah, Saudi Arabia"
+            "Taibah University, Madinah, Saudi Arabia",
+            "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia",
+              "raw_affiliation_string": "Taibah University, Madinah, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I23075662"
               ]
             },
             {
-              "raw_affiliation_string": "Taibah University, Madinah, Saudi Arabia",
+              "raw_affiliation_string": "Taibah University, P.O. Box 30002, Madinah, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I23075662"
               ]
@@ -12839,17 +12839,17 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
-            "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia"
+            "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
+            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
               "institution_ids": []
             }
           ]
@@ -12866,17 +12866,17 @@
           "is_corresponding": false,
           "raw_author_name": "Saleh M. Dini",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
-            "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia"
+            "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
+            "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Saudi Geological Survey (SGS), Jeddah, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey (SGS), P.O. Box 54141, Jeddah, 21514, Saudi Arabia",
               "institution_ids": []
             }
           ]
@@ -12885,19 +12885,23 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5049961167"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I23075662"
+      ],
       "apc_list": {
         "value": 2290,
         "currency": "EUR",
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5833,
+      "fwci": 0.5832,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.68760247,
+        "value": 0.68760049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13254,7 +13258,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13641,9 +13645,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -14346,7 +14350,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -14394,7 +14398,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -14603,7 +14607,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -14651,7 +14655,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -14880,11 +14884,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8741,
+      "fwci": 2.8785,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.89082017,
+        "value": 0.89099241,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15265,9 +15269,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -15853,7 +15857,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-18T10:00:31.954636",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16568,9 +16572,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -21324,9 +21328,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -21964,9 +21968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -24184,9 +24188,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -28159,7 +28163,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37081091,
+        "value": 0.36399694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28650,7 +28654,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 7,
+      "locations_count": 8,
       "locations": [
         {
           "id": "doi:10.1371/journal.pone.0337005",
@@ -28713,6 +28717,35 @@
           "is_published": true,
           "raw_source_name": "PloS one",
           "raw_type": null
+        },
+        {
+          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/2883b4fa-18db-4217-b080-ef757198045f",
+          "is_oa": true,
+          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/2883b4fa-18db-4217-b080-ef757198045f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I183935753"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Groucutt, H S, Stewart, M, Al-Jibreen, F, Al-Qahtani, M, Al-Shanti, M, Andrieux, E, Blinkhorn, J, Boivin, N, Breeze, P S, Drake, N, Memesh, A, Mufarreh, Y, Price, G, Scerri, E M L, Vanwezer, N, Vonhof, H, Zalmout, I, Alsharekh, A M & Petraglia, M D 2025, 'Novel archaeological and palaeontological findings in cave and palaeoriver landscapes of inland northeast Arabia', PLoS ONE, vol. 20, no. 11, e0337005. https://doi.org/10.1371/journal.pone.0337005",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
         {
           "id": "pmh:oai:www.um.edu.mt:123456789/143728",
@@ -29387,7 +29420,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-06-19T17:40:00.097472",
       "created_date": "2025-11-20T00:00:00"
     },
     {
