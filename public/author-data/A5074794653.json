@@ -17,8 +17,8 @@
       "Alafifi, Abdulkader"
     ],
     "full_name": "Abdulkader M. Alafifi",
-    "works_count": 78,
-    "cited_by_count": 1821,
+    "works_count": 79,
+    "cited_by_count": 1823,
     "summary_stats": {
       "2yr_mean_citedness": 3.6923076923076925,
       "h_index": 16,
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 23,
+        "count": 24,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -226,7 +226,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "count": 17,
+        "count": 18,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002461,
+        "value": 0.0002458,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0001215,
+        "value": 0.0001213,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -296,7 +296,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000669,
+        "value": 0.0000708,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -313,7 +313,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.00005,
+        "value": 0.0000522,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -412,11 +412,11 @@
         "year": 2001,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 532
+        "cited_by_count": 533
       },
       {
         "year": 2004,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 0,
         "cited_by_count": 1
       },
@@ -484,7 +484,7 @@
         "year": 2022,
         "works_count": 12,
         "oa_works_count": 10,
-        "cited_by_count": 200
+        "cited_by_count": 201
       },
       {
         "year": 2023,
@@ -526,8 +526,8 @@
     ],
     "block_key": "a alafifi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
-    "updated_date": "2026-06-18T12:17:54",
-    "created_date": "2020-05-13T00:00:00"
+    "updated_date": "2026-06-20T12:17:27",
+    "created_date": "2016-06-24T00:00:00"
   },
   "works": [
     {
@@ -7183,11 +7183,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 8.843,
+      "fwci": 8.8912,
       "has_fulltext": true,
-      "cited_by_count": 78,
+      "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.98839838,
+        "value": 0.98840151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8513,7 +8513,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -8524,7 +8524,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2026-06-13T07:54:00.901334",
+      "updated_date": "2026-06-20T22:02:38.213706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22284,6 +22284,1379 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4317600200",
+      "doi": "https://doi.org/10.1130/g50546.1",
+      "title": "Fragmentation, rafting, and drowning of a carbonate platform margin in a rift-basin setting",
+      "display_name": "Fragmentation, rafting, and drowning of a carbonate platform margin in a rift-basin setting",
+      "publication_year": 2023,
+      "publication_date": "2023-01-20",
+      "ids": {
+        "openalex": "https://openalex.org/W4317600200",
+        "doi": "https://doi.org/10.1130/g50546.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1130/g50546.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/g50546.1",
+        "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
+        "source": {
+          "id": "https://openalex.org/S56162041",
+          "display_name": "Geology",
+          "issn_l": "0091-7613",
+          "issn": [
+            "0091-7613",
+            "1943-2682"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078667376",
+            "display_name": "Alexander Petrovic",
+            "orcid": "https://orcid.org/0000-0003-0804-3665"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Petrovic",
+          "raw_affiliation_strings": [
+            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045536244",
+            "display_name": "Thomas Lüdmann",
+            "orcid": "https://orcid.org/0000-0001-6847-5502"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Lüdmann",
+          "raw_affiliation_strings": [
+            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader M. Afifi",
+          "raw_affiliation_strings": [
+            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032690440",
+            "display_name": "Yannick Saitz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yannick Saitz",
+          "raw_affiliation_strings": [
+            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030083359",
+            "display_name": "Christian Betzler",
+            "orcid": "https://orcid.org/0000-0002-5757-4553"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Betzler",
+          "raw_affiliation_strings": [
+            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5058223208",
+            "display_name": "Volker Vahrenkamp",
+            "orcid": "https://orcid.org/0000-0002-2182-7993"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Volker Vahrenkamp",
+          "raw_affiliation_strings": [
+            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.4296,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.94912118,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "51",
+        "issue": "3",
+        "first_page": "242",
+        "last_page": "246"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/diapir",
+          "display_name": "Diapir",
+          "score": 0.9318420886993408
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.928775429725647
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.6887651681900024
+        },
+        {
+          "id": "https://openalex.org/keywords/salt-tectonics",
+          "display_name": "Salt tectonics",
+          "score": 0.6543155908584595
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.6509997844696045
+        },
+        {
+          "id": "https://openalex.org/keywords/seafloor-spreading",
+          "display_name": "Seafloor spreading",
+          "score": 0.6219074130058289
+        },
+        {
+          "id": "https://openalex.org/keywords/rift",
+          "display_name": "Rift",
+          "score": 0.5712387561798096
+        },
+        {
+          "id": "https://openalex.org/keywords/mass-wasting",
+          "display_name": "Mass wasting",
+          "score": 0.5096633434295654
+        },
+        {
+          "id": "https://openalex.org/keywords/passive-margin",
+          "display_name": "Passive margin",
+          "score": 0.5030829310417175
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.4926467537879944
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.4596827030181885
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.43357178568840027
+        },
+        {
+          "id": "https://openalex.org/keywords/slumping",
+          "display_name": "Slumping",
+          "score": 0.41697120666503906
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.4042421579360962
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.37023985385894775
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.35252147912979126
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.2617543935775757
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.15296441316604614
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C199007388",
+          "wikidata": "https://www.wikidata.org/wiki/Q943898",
+          "display_name": "Diapir",
+          "level": 3,
+          "score": 0.9318420886993408
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.928775429725647
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.6887651681900024
+        },
+        {
+          "id": "https://openalex.org/C113007552",
+          "wikidata": "https://www.wikidata.org/wiki/Q631298",
+          "display_name": "Salt tectonics",
+          "level": 4,
+          "score": 0.6543155908584595
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6509997844696045
+        },
+        {
+          "id": "https://openalex.org/C117485682",
+          "wikidata": "https://www.wikidata.org/wiki/Q215920",
+          "display_name": "Seafloor spreading",
+          "level": 2,
+          "score": 0.6219074130058289
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.5712387561798096
+        },
+        {
+          "id": "https://openalex.org/C38458734",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567542",
+          "display_name": "Mass wasting",
+          "level": 3,
+          "score": 0.5096633434295654
+        },
+        {
+          "id": "https://openalex.org/C201633675",
+          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
+          "display_name": "Passive margin",
+          "level": 4,
+          "score": 0.5030829310417175
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.4926467537879944
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4596827030181885
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.43357178568840027
+        },
+        {
+          "id": "https://openalex.org/C50050167",
+          "wikidata": "https://www.wikidata.org/wiki/Q4300498",
+          "display_name": "Slumping",
+          "level": 2,
+          "score": 0.41697120666503906
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.4042421579360962
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.37023985385894775
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.35252147912979126
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.2617543935775757
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.15296441316604614
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1130/g50546.1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1130/g50546.1",
+          "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
+          "source": {
+            "id": "https://openalex.org/S56162041",
+            "display_name": "Geology",
+            "issn_l": "0091-7613",
+            "issn": [
+              "0091-7613",
+              "1943-2682"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319845",
+            "host_organization_name": "Geological Society of America",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319845"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of America"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:repository.kaust.edu.sa:10754/687231",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10754/687231",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401596",
+            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I71920554",
+            "host_organization_name": "King Abdullah University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I71920554"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1130/g50546.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/g50546.1",
+        "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
+        "source": {
+          "id": "https://openalex.org/S56162041",
+          "display_name": "Geology",
+          "issn_l": "0091-7613",
+          "issn": [
+            "0091-7613",
+            "1943-2682"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4317600200.pdf"
+      },
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W145895407",
+        "https://openalex.org/W1578163662",
+        "https://openalex.org/W1941720726",
+        "https://openalex.org/W1970765137",
+        "https://openalex.org/W2005878247",
+        "https://openalex.org/W2032123209",
+        "https://openalex.org/W2053518653",
+        "https://openalex.org/W2059131953",
+        "https://openalex.org/W2097971927",
+        "https://openalex.org/W2103111091",
+        "https://openalex.org/W2107376091",
+        "https://openalex.org/W2120732237",
+        "https://openalex.org/W2123026455",
+        "https://openalex.org/W2129936754",
+        "https://openalex.org/W2146075665",
+        "https://openalex.org/W2148982479",
+        "https://openalex.org/W2163388900",
+        "https://openalex.org/W2167480264",
+        "https://openalex.org/W2217301490",
+        "https://openalex.org/W2223885932",
+        "https://openalex.org/W2922344528",
+        "https://openalex.org/W2922661896",
+        "https://openalex.org/W2932696668",
+        "https://openalex.org/W2996725289",
+        "https://openalex.org/W3004674535",
+        "https://openalex.org/W3047625509",
+        "https://openalex.org/W3095402549",
+        "https://openalex.org/W3213567884",
+        "https://openalex.org/W3217338408",
+        "https://openalex.org/W4284990887",
+        "https://openalex.org/W6634626505",
+        "https://openalex.org/W6675563001",
+        "https://openalex.org/W6772942698",
+        "https://openalex.org/W7055279259",
+        "https://openalex.org/W7075285496"
+      ],
+      "related_works": [
+        "https://openalex.org/W4313225307",
+        "https://openalex.org/W1981721885",
+        "https://openalex.org/W2122683637",
+        "https://openalex.org/W2319910846",
+        "https://openalex.org/W3129056341",
+        "https://openalex.org/W4251261888",
+        "https://openalex.org/W2098766905",
+        "https://openalex.org/W2085856080",
+        "https://openalex.org/W3148506367",
+        "https://openalex.org/W1867084573"
+      ],
+      "abstract_inverted_index": {
+        "650": [
+          120
+        ],
+        "Abstract": [
+          0
+        ],
+        "High-resolution": [
+          1
+        ],
+        "bathymetric": [
+          2
+        ],
+        "and": [
+          3,
+          61,
+          64,
+          70,
+          131,
+          178,
+          208,
+          221,
+          235
+        ],
+        "shallow": [
+          4
+        ],
+        "seismic": [
+          5
+        ],
+        "data": [
+          6
+        ],
+        "along": [
+          7
+        ],
+        "the": [
+          8,
+          28,
+          33,
+          44,
+          48,
+          76,
+          89,
+          92,
+          99,
+          105,
+          115,
+          128,
+          142,
+          147,
+          179,
+          191,
+          216,
+          231
+        ],
+        "northeast": [
+          9
+        ],
+        "Red": [
+          10
+        ],
+        "Sea": [
+          11
+        ],
+        "margin": [
+          12,
+          102
+        ],
+        "reveal": [
+          13
+        ],
+        "a": [
+          14,
+          23,
+          40
+        ],
+        "previously": [
+          15,
+          240
+        ],
+        "disregarded": [
+          16
+        ],
+        "mechanism": [
+          17
+        ],
+        "for": [
+          18
+        ],
+        "carbonate": [
+          19,
+          51,
+          86,
+          161
+        ],
+        "platform": [
+          20,
+          52,
+          73,
+          94,
+          101,
+          150,
+          174,
+          196,
+          222
+        ],
+        "drowning": [
+          21,
+          209
+        ],
+        "at": [
+          22
+        ],
+        "steep-flanked": [
+          24
+        ],
+        "rift": [
+          25
+        ],
+        "basin.": [
+          26
+        ],
+        "At": [
+          27
+        ],
+        "seafloor,": [
+          29
+        ],
+        "salt": [
+          30,
+          37,
+          41,
+          156,
+          166,
+          219
+        ],
+        "extrusions": [
+          31
+        ],
+        "highlight": [
+          32
+        ],
+        "influence": [
+          34
+        ],
+        "of": [
+          35,
+          47,
+          72,
+          80,
+          91,
+          107,
+          117,
+          137,
+          146,
+          165,
+          181,
+          185,
+          194,
+          233
+        ],
+        "extensional": [
+          36
+        ],
+        "tectonics,": [
+          38
+        ],
+        "with": [
+          39,
+          198
+        ],
+        "flow": [
+          42
+        ],
+        "from": [
+          43,
+          56
+        ],
+        "southern": [
+          45,
+          143
+        ],
+        "flank": [
+          46
+        ],
+        "Al": [
+          49,
+          148
+        ],
+        "Wajh": [
+          50,
+          149
+        ],
+        "that": [
+          53,
+          141,
+          160
+        ],
+        "likely": [
+          54
+        ],
+        "originates": [
+          55
+        ],
+        "below.": [
+          57
+        ],
+        "Salt-flow": [
+          58
+        ],
+        "direction,": [
+          59
+        ],
+        "morphology,": [
+          60
+        ],
+        "kilometer-sized": [
+          62
+        ],
+        "slumps": [
+          63
+        ],
+        "rotated": [
+          65
+        ],
+        "blocks": [
+          66,
+          74
+        ],
+        "indicate": [
+          67
+        ],
+        "platform-margin": [
+          68
+        ],
+        "disintegration": [
+          69
+        ],
+        "rafting": [
+          71
+        ],
+        "toward": [
+          75
+        ],
+        "southwest.": [
+          77
+        ],
+        "The": [
+          78
+        ],
+        "outlines": [
+          79
+        ],
+        "several": [
+          81
+        ],
+        "smaller": [
+          82,
+          183
+        ],
+        "detached": [
+          83
+        ],
+        "or": [
+          84,
+          124
+        ],
+        "semi-detached": [
+          85
+        ],
+        "platforms": [
+          87,
+          162,
+          228
+        ],
+        "to": [
+          88,
+          98,
+          119,
+          133,
+          155,
+          173,
+          205,
+          227
+        ],
+        "south": [
+          90
+        ],
+        "main": [
+          93
+        ],
+        "can": [
+          95
+        ],
+        "be": [
+          96,
+          134
+        ],
+        "refitted": [
+          97
+        ],
+        "larger": [
+          100
+        ],
+        "by": [
+          103
+        ],
+        "counter-moving": [
+          104
+        ],
+        "direction": [
+          106
+        ],
+        "mass": [
+          108
+        ],
+        "wasting.": [
+          109
+        ],
+        "Several": [
+          110
+        ],
+        "platforms,": [
+          111
+        ],
+        "reaching": [
+          112
+        ],
+        "heights": [
+          113
+        ],
+        "above": [
+          114
+        ],
+        "seafloor": [
+          116
+        ],
+        "up": [
+          118
+        ],
+        "m,": [
+          121
+        ],
+        "are": [
+          122
+        ],
+        "partially": [
+          123
+        ],
+        "fully": [
+          125
+        ],
+        "submerged": [
+          126
+        ],
+        "in": [
+          127,
+          135,
+          211
+        ],
+        "mesophotic": [
+          129
+        ],
+        "zone": [
+          130
+        ],
+        "appear": [
+          132
+        ],
+        "danger": [
+          136
+        ],
+        "drowning.": [
+          138
+        ],
+        "We": [
+          139
+        ],
+        "conclude": [
+          140
+        ],
+        "outer": [
+          144
+        ],
+        "rim": [
+          145
+        ],
+        "is": [
+          151,
+          224,
+          236
+        ],
+        "breaking": [
+          152
+        ],
+        "apart": [
+          153
+        ],
+        "owing": [
+          154
+        ],
+        "withdrawal,": [
+          157
+        ],
+        "which": [
+          158
+        ],
+        "indicates": [
+          159
+        ],
+        "on": [
+          163,
+          169,
+          230
+        ],
+        "top": [
+          164
+        ],
+        "sequences": [
+          167
+        ],
+        "grow": [
+          168
+        ],
+        "mobile": [
+          170
+        ],
+        "ground,": [
+          171
+        ],
+        "leading": [
+          172
+        ],
+        "disintegration,": [
+          175
+        ],
+        "basinward": [
+          176
+        ],
+        "rafts,": [
+          177,
+          197
+        ],
+        "demise": [
+          180
+        ],
+        "broken-off,": [
+          182
+        ],
+        "pieces": [
+          184
+        ],
+        "platform.": [
+          186
+        ],
+        "Salt": [
+          187
+        ],
+        "displacement": [
+          188
+        ],
+        "also": [
+          189
+        ],
+        "controls": [
+          190
+        ],
+        "growth": [
+          192,
+          201,
+          223
+        ],
+        "geometries": [
+          193
+        ],
+        "individual": [
+          195
+        ],
+        "keep-up": [
+          199
+        ],
+        "reef": [
+          200
+        ],
+        "(growth": [
+          202
+        ],
+        "rate": [
+          203
+        ],
+        "equal": [
+          204
+        ],
+        "sea-level": [
+          206
+        ],
+        "rise)": [
+          207
+        ],
+        "occurring": [
+          210
+        ],
+        "close": [
+          212
+        ],
+        "spatial": [
+          213
+        ],
+        "proximity.": [
+          214
+        ],
+        "Therefore,": [
+          215
+        ],
+        "interplay": [
+          217
+        ],
+        "between": [
+          218
+        ],
+        "diapirism": [
+          220
+        ],
+        "not": [
+          225
+        ],
+        "limited": [
+          226
+        ],
+        "growing": [
+          229
+        ],
+        "apexes": [
+          232
+        ],
+        "diapirs": [
+          234
+        ],
+        "more": [
+          237
+        ],
+        "complex": [
+          238
+        ],
+        "than": [
+          239
+        ],
+        "thought.": [
+          241
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-06-20T22:02:38.213706",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4390943094",
       "doi": "https://doi.org/10.1016/j.earscirev.2024.104679",
       "title": "Sediment routing systems of the eastern red sea rifted margin",
@@ -23577,1375 +24950,6 @@
         }
       ],
       "updated_date": "2026-05-07T13:39:58.223016",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4317600200",
-      "doi": "https://doi.org/10.1130/g50546.1",
-      "title": "Fragmentation, rafting, and drowning of a carbonate platform margin in a rift-basin setting",
-      "display_name": "Fragmentation, rafting, and drowning of a carbonate platform margin in a rift-basin setting",
-      "publication_year": 2023,
-      "publication_date": "2023-01-20",
-      "ids": {
-        "openalex": "https://openalex.org/W4317600200",
-        "doi": "https://doi.org/10.1130/g50546.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1130/g50546.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/g50546.1",
-        "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
-        "source": {
-          "id": "https://openalex.org/S56162041",
-          "display_name": "Geology",
-          "issn_l": "0091-7613",
-          "issn": [
-            "0091-7613",
-            "1943-2682"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078667376",
-            "display_name": "Alexander Petrovic",
-            "orcid": "https://orcid.org/0000-0003-0804-3665"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alexander Petrovic",
-          "raw_affiliation_strings": [
-            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045536244",
-            "display_name": "Thomas Lüdmann",
-            "orcid": "https://orcid.org/0000-0001-6847-5502"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I159176309",
-              "display_name": "Universität Hamburg",
-              "ror": "https://ror.org/00g30e956",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thomas Lüdmann",
-          "raw_affiliation_strings": [
-            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader M. Afifi",
-          "raw_affiliation_strings": [
-            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032690440",
-            "display_name": "Yannick Saitz",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I159176309",
-              "display_name": "Universität Hamburg",
-              "ror": "https://ror.org/00g30e956",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yannick Saitz",
-          "raw_affiliation_strings": [
-            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030083359",
-            "display_name": "Christian Betzler",
-            "orcid": "https://orcid.org/0000-0002-5757-4553"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I159176309",
-              "display_name": "Universität Hamburg",
-              "ror": "https://ror.org/00g30e956",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Betzler",
-          "raw_affiliation_strings": [
-            "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "3Faculty of Geoscience, University of Hamburg, D-20146 Hamburg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I159176309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5058223208",
-            "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Volker Vahrenkamp",
-          "raw_affiliation_strings": [
-            "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-            "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1Ali I. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Mecca 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Red Sea Research Center, King Abdullah University of Science and Technology, Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.2075,
-      "has_fulltext": false,
-      "cited_by_count": 16,
-      "citation_normalized_percentile": {
-        "value": 0.94379554,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "51",
-        "issue": "3",
-        "first_page": "242",
-        "last_page": "246"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/diapir",
-          "display_name": "Diapir",
-          "score": 0.9318420886993408
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.928775429725647
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.6887651681900024
-        },
-        {
-          "id": "https://openalex.org/keywords/salt-tectonics",
-          "display_name": "Salt tectonics",
-          "score": 0.6543155908584595
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6509997844696045
-        },
-        {
-          "id": "https://openalex.org/keywords/seafloor-spreading",
-          "display_name": "Seafloor spreading",
-          "score": 0.6219074130058289
-        },
-        {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.5712387561798096
-        },
-        {
-          "id": "https://openalex.org/keywords/mass-wasting",
-          "display_name": "Mass wasting",
-          "score": 0.5096633434295654
-        },
-        {
-          "id": "https://openalex.org/keywords/passive-margin",
-          "display_name": "Passive margin",
-          "score": 0.5030829310417175
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.4926467537879944
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.4596827030181885
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.43357178568840027
-        },
-        {
-          "id": "https://openalex.org/keywords/slumping",
-          "display_name": "Slumping",
-          "score": 0.41697120666503906
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.4042421579360962
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.37023985385894775
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.35252147912979126
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.2617543935775757
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.15296441316604614
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C199007388",
-          "wikidata": "https://www.wikidata.org/wiki/Q943898",
-          "display_name": "Diapir",
-          "level": 3,
-          "score": 0.9318420886993408
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.928775429725647
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.6887651681900024
-        },
-        {
-          "id": "https://openalex.org/C113007552",
-          "wikidata": "https://www.wikidata.org/wiki/Q631298",
-          "display_name": "Salt tectonics",
-          "level": 4,
-          "score": 0.6543155908584595
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6509997844696045
-        },
-        {
-          "id": "https://openalex.org/C117485682",
-          "wikidata": "https://www.wikidata.org/wiki/Q215920",
-          "display_name": "Seafloor spreading",
-          "level": 2,
-          "score": 0.6219074130058289
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.5712387561798096
-        },
-        {
-          "id": "https://openalex.org/C38458734",
-          "wikidata": "https://www.wikidata.org/wiki/Q1567542",
-          "display_name": "Mass wasting",
-          "level": 3,
-          "score": 0.5096633434295654
-        },
-        {
-          "id": "https://openalex.org/C201633675",
-          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
-          "display_name": "Passive margin",
-          "level": 4,
-          "score": 0.5030829310417175
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.4926467537879944
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4596827030181885
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.43357178568840027
-        },
-        {
-          "id": "https://openalex.org/C50050167",
-          "wikidata": "https://www.wikidata.org/wiki/Q4300498",
-          "display_name": "Slumping",
-          "level": 2,
-          "score": 0.41697120666503906
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.4042421579360962
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.37023985385894775
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.35252147912979126
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.2617543935775757
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.15296441316604614
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1130/g50546.1",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1130/g50546.1",
-          "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
-          "source": {
-            "id": "https://openalex.org/S56162041",
-            "display_name": "Geology",
-            "issn_l": "0091-7613",
-            "issn": [
-              "0091-7613",
-              "1943-2682"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319845",
-            "host_organization_name": "Geological Society of America",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319845"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of America"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:repository.kaust.edu.sa:10754/687231",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10754/687231",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401596",
-            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I71920554",
-            "host_organization_name": "King Abdullah University of Science and Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/I71920554"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1130/g50546.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/g50546.1",
-        "pdf_url": "https://pubs.geoscienceworld.org/gsa/geology/article-pdf/51/3/242/5794089/g50546.1.pdf",
-        "source": {
-          "id": "https://openalex.org/S56162041",
-          "display_name": "Geology",
-          "issn_l": "0091-7613",
-          "issn": [
-            "0091-7613",
-            "1943-2682"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4317600200.pdf"
-      },
-      "referenced_works_count": 35,
-      "referenced_works": [
-        "https://openalex.org/W145895407",
-        "https://openalex.org/W1578163662",
-        "https://openalex.org/W1941720726",
-        "https://openalex.org/W1970765137",
-        "https://openalex.org/W2005878247",
-        "https://openalex.org/W2032123209",
-        "https://openalex.org/W2053518653",
-        "https://openalex.org/W2059131953",
-        "https://openalex.org/W2097971927",
-        "https://openalex.org/W2103111091",
-        "https://openalex.org/W2107376091",
-        "https://openalex.org/W2120732237",
-        "https://openalex.org/W2123026455",
-        "https://openalex.org/W2129936754",
-        "https://openalex.org/W2146075665",
-        "https://openalex.org/W2148982479",
-        "https://openalex.org/W2163388900",
-        "https://openalex.org/W2167480264",
-        "https://openalex.org/W2217301490",
-        "https://openalex.org/W2223885932",
-        "https://openalex.org/W2922344528",
-        "https://openalex.org/W2922661896",
-        "https://openalex.org/W2932696668",
-        "https://openalex.org/W2996725289",
-        "https://openalex.org/W3004674535",
-        "https://openalex.org/W3047625509",
-        "https://openalex.org/W3095402549",
-        "https://openalex.org/W3213567884",
-        "https://openalex.org/W3217338408",
-        "https://openalex.org/W4284990887",
-        "https://openalex.org/W6634626505",
-        "https://openalex.org/W6675563001",
-        "https://openalex.org/W6772942698",
-        "https://openalex.org/W7055279259",
-        "https://openalex.org/W7075285496"
-      ],
-      "related_works": [
-        "https://openalex.org/W4313225307",
-        "https://openalex.org/W1981721885",
-        "https://openalex.org/W2122683637",
-        "https://openalex.org/W2319910846",
-        "https://openalex.org/W3129056341",
-        "https://openalex.org/W4251261888",
-        "https://openalex.org/W2098766905",
-        "https://openalex.org/W2085856080",
-        "https://openalex.org/W3148506367",
-        "https://openalex.org/W1867084573"
-      ],
-      "abstract_inverted_index": {
-        "650": [
-          120
-        ],
-        "Abstract": [
-          0
-        ],
-        "High-resolution": [
-          1
-        ],
-        "bathymetric": [
-          2
-        ],
-        "and": [
-          3,
-          61,
-          64,
-          70,
-          131,
-          178,
-          208,
-          221,
-          235
-        ],
-        "shallow": [
-          4
-        ],
-        "seismic": [
-          5
-        ],
-        "data": [
-          6
-        ],
-        "along": [
-          7
-        ],
-        "the": [
-          8,
-          28,
-          33,
-          44,
-          48,
-          76,
-          89,
-          92,
-          99,
-          105,
-          115,
-          128,
-          142,
-          147,
-          179,
-          191,
-          216,
-          231
-        ],
-        "northeast": [
-          9
-        ],
-        "Red": [
-          10
-        ],
-        "Sea": [
-          11
-        ],
-        "margin": [
-          12,
-          102
-        ],
-        "reveal": [
-          13
-        ],
-        "a": [
-          14,
-          23,
-          40
-        ],
-        "previously": [
-          15,
-          240
-        ],
-        "disregarded": [
-          16
-        ],
-        "mechanism": [
-          17
-        ],
-        "for": [
-          18
-        ],
-        "carbonate": [
-          19,
-          51,
-          86,
-          161
-        ],
-        "platform": [
-          20,
-          52,
-          73,
-          94,
-          101,
-          150,
-          174,
-          196,
-          222
-        ],
-        "drowning": [
-          21,
-          209
-        ],
-        "at": [
-          22
-        ],
-        "steep-flanked": [
-          24
-        ],
-        "rift": [
-          25
-        ],
-        "basin.": [
-          26
-        ],
-        "At": [
-          27
-        ],
-        "seafloor,": [
-          29
-        ],
-        "salt": [
-          30,
-          37,
-          41,
-          156,
-          166,
-          219
-        ],
-        "extrusions": [
-          31
-        ],
-        "highlight": [
-          32
-        ],
-        "influence": [
-          34
-        ],
-        "of": [
-          35,
-          47,
-          72,
-          80,
-          91,
-          107,
-          117,
-          137,
-          146,
-          165,
-          181,
-          185,
-          194,
-          233
-        ],
-        "extensional": [
-          36
-        ],
-        "tectonics,": [
-          38
-        ],
-        "with": [
-          39,
-          198
-        ],
-        "flow": [
-          42
-        ],
-        "from": [
-          43,
-          56
-        ],
-        "southern": [
-          45,
-          143
-        ],
-        "flank": [
-          46
-        ],
-        "Al": [
-          49,
-          148
-        ],
-        "Wajh": [
-          50,
-          149
-        ],
-        "that": [
-          53,
-          141,
-          160
-        ],
-        "likely": [
-          54
-        ],
-        "originates": [
-          55
-        ],
-        "below.": [
-          57
-        ],
-        "Salt-flow": [
-          58
-        ],
-        "direction,": [
-          59
-        ],
-        "morphology,": [
-          60
-        ],
-        "kilometer-sized": [
-          62
-        ],
-        "slumps": [
-          63
-        ],
-        "rotated": [
-          65
-        ],
-        "blocks": [
-          66,
-          74
-        ],
-        "indicate": [
-          67
-        ],
-        "platform-margin": [
-          68
-        ],
-        "disintegration": [
-          69
-        ],
-        "rafting": [
-          71
-        ],
-        "toward": [
-          75
-        ],
-        "southwest.": [
-          77
-        ],
-        "The": [
-          78
-        ],
-        "outlines": [
-          79
-        ],
-        "several": [
-          81
-        ],
-        "smaller": [
-          82,
-          183
-        ],
-        "detached": [
-          83
-        ],
-        "or": [
-          84,
-          124
-        ],
-        "semi-detached": [
-          85
-        ],
-        "platforms": [
-          87,
-          162,
-          228
-        ],
-        "to": [
-          88,
-          98,
-          119,
-          133,
-          155,
-          173,
-          205,
-          227
-        ],
-        "south": [
-          90
-        ],
-        "main": [
-          93
-        ],
-        "can": [
-          95
-        ],
-        "be": [
-          96,
-          134
-        ],
-        "refitted": [
-          97
-        ],
-        "larger": [
-          100
-        ],
-        "by": [
-          103
-        ],
-        "counter-moving": [
-          104
-        ],
-        "direction": [
-          106
-        ],
-        "mass": [
-          108
-        ],
-        "wasting.": [
-          109
-        ],
-        "Several": [
-          110
-        ],
-        "platforms,": [
-          111
-        ],
-        "reaching": [
-          112
-        ],
-        "heights": [
-          113
-        ],
-        "above": [
-          114
-        ],
-        "seafloor": [
-          116
-        ],
-        "up": [
-          118
-        ],
-        "m,": [
-          121
-        ],
-        "are": [
-          122
-        ],
-        "partially": [
-          123
-        ],
-        "fully": [
-          125
-        ],
-        "submerged": [
-          126
-        ],
-        "in": [
-          127,
-          135,
-          211
-        ],
-        "mesophotic": [
-          129
-        ],
-        "zone": [
-          130
-        ],
-        "appear": [
-          132
-        ],
-        "danger": [
-          136
-        ],
-        "drowning.": [
-          138
-        ],
-        "We": [
-          139
-        ],
-        "conclude": [
-          140
-        ],
-        "outer": [
-          144
-        ],
-        "rim": [
-          145
-        ],
-        "is": [
-          151,
-          224,
-          236
-        ],
-        "breaking": [
-          152
-        ],
-        "apart": [
-          153
-        ],
-        "owing": [
-          154
-        ],
-        "withdrawal,": [
-          157
-        ],
-        "which": [
-          158
-        ],
-        "indicates": [
-          159
-        ],
-        "on": [
-          163,
-          169,
-          230
-        ],
-        "top": [
-          164
-        ],
-        "sequences": [
-          167
-        ],
-        "grow": [
-          168
-        ],
-        "mobile": [
-          170
-        ],
-        "ground,": [
-          171
-        ],
-        "leading": [
-          172
-        ],
-        "disintegration,": [
-          175
-        ],
-        "basinward": [
-          176
-        ],
-        "rafts,": [
-          177,
-          197
-        ],
-        "demise": [
-          180
-        ],
-        "broken-off,": [
-          182
-        ],
-        "pieces": [
-          184
-        ],
-        "platform.": [
-          186
-        ],
-        "Salt": [
-          187
-        ],
-        "displacement": [
-          188
-        ],
-        "also": [
-          189
-        ],
-        "controls": [
-          190
-        ],
-        "growth": [
-          192,
-          201,
-          223
-        ],
-        "geometries": [
-          193
-        ],
-        "individual": [
-          195
-        ],
-        "keep-up": [
-          199
-        ],
-        "reef": [
-          200
-        ],
-        "(growth": [
-          202
-        ],
-        "rate": [
-          203
-        ],
-        "equal": [
-          204
-        ],
-        "sea-level": [
-          206
-        ],
-        "rise)": [
-          207
-        ],
-        "occurring": [
-          210
-        ],
-        "close": [
-          212
-        ],
-        "spatial": [
-          213
-        ],
-        "proximity.": [
-          214
-        ],
-        "Therefore,": [
-          215
-        ],
-        "interplay": [
-          217
-        ],
-        "between": [
-          218
-        ],
-        "diapirism": [
-          220
-        ],
-        "not": [
-          225
-        ],
-        "limited": [
-          226
-        ],
-        "growing": [
-          229
-        ],
-        "apexes": [
-          232
-        ],
-        "diapirs": [
-          234
-        ],
-        "more": [
-          237
-        ],
-        "complex": [
-          238
-        ],
-        "than": [
-          239
-        ],
-        "thought.": [
-          241
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26268,11 +26272,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.6339,
+      "fwci": 1.6341,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.81216207,
+        "value": 0.81218778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27388,7 +27392,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-19T15:47:20.252518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60779,7 +60783,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00236318,
+        "value": 0.00236304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60997,7 +61001,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-19T15:51:49.773706",
       "created_date": "2016-06-24T00:00:00"
     },
     {

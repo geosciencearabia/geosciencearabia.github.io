@@ -383,7 +383,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002318,
+        "value": 0.0002312,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -400,7 +400,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.000142,
+        "value": 0.0001419,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -417,7 +417,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001216,
+        "value": 0.000121,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -434,7 +434,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000825,
+        "value": 0.0000823,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -451,7 +451,7 @@
       {
         "id": "https://openalex.org/T12234",
         "display_name": "Mollusks and Parasites Studies",
-        "value": 0.0000719,
+        "value": 0.0000718,
         "subfield": {
           "id": "https://openalex.org/subfields/1109",
           "display_name": "Insect Science"
@@ -781,7 +781,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-06-18T12:17:54",
+    "updated_date": "2026-06-20T12:17:27",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1273,10 +1273,18 @@
           "is_corresponding": false,
           "raw_author_name": "Raymond Enay",
           "raw_affiliation_strings": [
+            "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS n o 11 France",
             "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS n o 11 France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I1294671590"
+              ]
+            },
             {
               "raw_affiliation_string": "Département des Sciences de la Terre, Université Claude Bernard, Lyon I, 27-43, boulevard du 11 Novembre, 69622 Villeurbanne Cedex etCentre de Paléontologie stratigraphie et paléocologie, UA CNRS no 11 France",
               "institution_ids": [
@@ -1723,7 +1731,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-20T20:08:15.867695",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1882,11 +1890,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 5.9338,
+      "fwci": 5.9331,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.95723247,
+        "value": 0.95724872,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2437,7 +2445,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-20T20:08:15.867695",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5761,11 +5769,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 2.5408,
+      "fwci": 2.5419,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.88520085,
+        "value": 0.88524937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6032,7 +6040,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-20T20:08:15.867695",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7663,8 +7671,8 @@
           "raw_affiliation_strings": [
             "Department of Marine Sciences, University of Connecticut, 1080 Shennecossett Road, Groton, CT 06340, USA",
             "UMR CNRS 6282 Biogéosciences, Université de Bourgogne Franche-Comté, 6, Bd Gabriel, 21000 Dijon, France",
-            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
+            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
+            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -7682,15 +7690,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
               "institution_ids": [
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I177064439"
               ]
+            },
+            {
+              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+              "institution_ids": []
             }
           ]
         }
@@ -7710,11 +7718,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 3.2462,
+      "fwci": 3.2463,
       "has_fulltext": true,
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.90046146,
+        "value": 0.90046549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8377,7 +8385,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -8400,7 +8408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10191,11 +10199,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.2367,
+      "fwci": 6.2362,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.95521948,
+        "value": 0.95521617,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10618,7 +10626,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-19T15:47:20.252518",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22024,11 +22032,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 0.4158,
+      "fwci": 0.4162,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.63925695,
+        "value": 0.63958469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22302,7 +22310,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23034,7 +23042,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37674,7 +37682,7 @@
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.14905598,
+        "value": 0.14914749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37910,7 +37918,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39989,11 +39997,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 1.0647,
+      "fwci": 1.0628,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80086957,
+        "value": 0.8005911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40316,7 +40324,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40530,11 +40538,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.8421,
+      "fwci": 10.8451,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.97185806,
+        "value": 0.97187669,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40802,7 +40810,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-20T20:08:15.867695",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41066,7 +41074,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.11223312,
+        "value": 0.11281016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41313,7 +41321,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45863,11 +45871,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 0.3554,
+      "fwci": 0.3555,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.58536585,
+        "value": 0.58544485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46120,7 +46128,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48992,7 +49000,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.09789343,
+        "value": 0.09817281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49303,7 +49311,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-20T20:08:15.867695",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50820,7 +50828,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7850512,
+        "value": 0.78504263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51316,7 +51324,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-20T22:02:38.213706",
       "created_date": "2017-04-07T00:00:00"
     },
     {
@@ -53793,7 +53801,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.09867282,
+        "value": 0.09924986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53988,7 +53996,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {

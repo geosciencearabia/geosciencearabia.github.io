@@ -13,7 +13,7 @@
     ],
     "full_name": "Abdullah M.S. Memesh",
     "works_count": 24,
-    "cited_by_count": 421,
+    "cited_by_count": 422,
     "summary_stats": {
       "2yr_mean_citedness": 0.8333333333333334,
       "h_index": 10,
@@ -264,7 +264,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000414,
+        "value": 0.0000413,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -332,7 +332,7 @@
       {
         "id": "https://openalex.org/T10421",
         "display_name": "Pleistocene-Era Hominins and Archaeology",
-        "value": 0.0000161,
+        "value": 0.000016,
         "subfield": {
           "id": "https://openalex.org/subfields/3314",
           "display_name": "Anthropology"
@@ -384,7 +384,7 @@
         "year": 2002,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 29
+        "cited_by_count": 30
       },
       {
         "year": 2010,
@@ -469,7 +469,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-06-13T12:17:50",
+    "updated_date": "2026-06-20T12:17:27",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1883,11 +1883,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.4176,
+      "fwci": 135.4112,
       "has_fulltext": true,
       "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99962306,
+        "value": 0.99962304,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2813,8 +2813,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -2972,7 +2972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-20T22:02:38.213706",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3782,11 +3782,11 @@
         "value_usd": 3660
       },
       "apc_paid": null,
-      "fwci": 32.048,
+      "fwci": 32.0468,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99371987,
+        "value": 0.99371962,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4373,8 +4373,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -4575,7 +4575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5252,8 +5252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -6357,8 +6357,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -7650,8 +7650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -9807,8 +9807,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -10472,8 +10472,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11657,8 +11657,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -12897,11 +12897,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5832,
+      "fwci": 0.5833,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.68760049,
+        "value": 0.68761034,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13181,8 +13181,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -13258,7 +13258,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-19T15:47:20.252518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13653,8 +13653,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -14607,7 +14607,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -14655,7 +14655,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -14884,11 +14884,11 @@
         "currency": "CHF",
         "value_usd": 2165
       },
-      "fwci": 2.8785,
+      "fwci": 2.8795,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.89099241,
+        "value": 0.89102925,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15283,8 +15283,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -15857,7 +15857,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-06-21T07:57:09.225873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16613,8 +16613,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -17771,8 +17771,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -19347,8 +19347,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -20718,8 +20718,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -21342,8 +21342,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -21976,8 +21976,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -22356,8 +22356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23273,8 +23273,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24196,8 +24196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -25342,8 +25342,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -26600,8 +26600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -28947,8 +28947,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -29816,8 +29816,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
