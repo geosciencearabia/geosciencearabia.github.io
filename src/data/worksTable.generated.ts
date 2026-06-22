@@ -5989,7 +5989,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1987,
     "venue": "Journal of African Earth Sciences (1983)",
     "citations": 6,
-    "fwci": 0.8468,
+    "fwci": 0.8472,
     "topics": [
       "Groundwater and Isotope Geochemistry",
       "Paleontology and Stratigraphy of Fossils",
@@ -8132,7 +8132,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 198,
-    "fwci": 15.8621,
+    "fwci": 15.868,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -8236,7 +8236,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "International Geology Review",
     "citations": 193,
-    "fwci": 19.3579,
+    "fwci": 19.3601,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -10453,7 +10453,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Earth and Planetary Science Letters",
     "citations": 2,
-    "fwci": 2.6871,
+    "fwci": 2.6435,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -10761,7 +10761,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Geochimica et Cosmochimica Acta",
     "citations": 6,
-    "fwci": 0.6413,
+    "fwci": 0.6409,
     "topics": [
       "Astro and Planetary Science",
       "Astrophysics and Star Formation Studies",
@@ -25207,7 +25207,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Proceedings of the Estonian Academy of Sciences Geology",
     "citations": 4,
-    "fwci": 3.0465,
+    "fwci": 2.9369,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -29202,8 +29202,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-11-20",
     "year": 2023,
     "venue": "Scientific Reports",
-    "citations": 27,
-    "fwci": 4.1834,
+    "citations": 28,
+    "fwci": 4.3061,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -33545,7 +33545,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.4453,
+    "fwci": 0.445,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -41689,7 +41689,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Journal of African Earth Sciences",
     "citations": 37,
-    "fwci": 4.31,
+    "fwci": 4.3138,
     "topics": [
       "Coal and Its By-products",
       "Hydrocarbon exploration and reservoir analysis",
@@ -50204,6 +50204,37 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4362580681",
+    "doi": "https://doi.org/10.3390/molecules28073173",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5062007467",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Benaafi",
+    "allAuthors": [
+      "Mohammed Benaafi",
+      "Sani I. Abba",
+      "Isam H. Aljundi"
+    ],
+    "title": "Effects of Seawater Intrusion on the Groundwater Quality of Multi-Layered Aquifers in Eastern Saudi Arabia",
+    "publicationDate": "2023-04-03",
+    "year": 2023,
+    "venue": "Molecules",
+    "citations": 24,
+    "fwci": 4.6563,
+    "topics": [
+      "Groundwater and Isotope Geochemistry",
+      "Groundwater flow and contamination studies",
+      "Geophysical and Geoelectrical Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4386774596",
     "doi": "https://doi.org/10.1039/d3va00124e",
     "program": "",
@@ -50233,37 +50264,6 @@ export const worksTable: WorkTableRecord[] = [
       "Membrane Separation Technologies",
       "Water Quality Monitoring Technologies",
       "Machine Learning and ELM"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4362580681",
-    "doi": "https://doi.org/10.3390/molecules28073173",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5062007467",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Benaafi",
-    "allAuthors": [
-      "Mohammed Benaafi",
-      "Sani I. Abba",
-      "Isam H. Aljundi"
-    ],
-    "title": "Effects of Seawater Intrusion on the Groundwater Quality of Multi-Layered Aquifers in Eastern Saudi Arabia",
-    "publicationDate": "2023-04-03",
-    "year": 2023,
-    "venue": "Molecules",
-    "citations": 22,
-    "fwci": 4.3893,
-    "topics": [
-      "Groundwater and Isotope Geochemistry",
-      "Groundwater flow and contamination studies",
-      "Geophysical and Geoelectrical Methods"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -50564,37 +50564,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4379878424",
-    "doi": "https://doi.org/10.1016/j.jksus.2023.102749",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5062007467",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Benaafi",
-    "allAuthors": [
-      "Mohammed Benaafi",
-      "Sani I. Abba",
-      "Isam H. Aljundi"
-    ],
-    "title": "State-of-the-art on the conceptual advancement of seawater intrusion: A comprehensive review, management, and possible future research direction",
-    "publicationDate": "2023-06-08",
-    "year": 2023,
-    "venue": "Journal of King Saud University - Science",
-    "citations": 14,
-    "fwci": 2.72,
-    "topics": [
-      "Groundwater and Isotope Geochemistry",
-      "Methane Hydrates and Related Phenomena",
-      "Geophysics and Gravity Measurements"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4386365539",
     "doi": "https://doi.org/10.1016/j.heliyon.2023.e19784",
     "program": "",
@@ -50622,12 +50591,43 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-09-01",
     "year": 2023,
     "venue": "Heliyon",
-    "citations": 14,
-    "fwci": 2.7313,
+    "citations": 15,
+    "fwci": 2.9102,
     "topics": [
       "Groundwater and Isotope Geochemistry",
       "Groundwater and Watershed Analysis",
       "Water Quality and Pollution Assessment"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4379878424",
+    "doi": "https://doi.org/10.1016/j.jksus.2023.102749",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5062007467",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Benaafi",
+    "allAuthors": [
+      "Mohammed Benaafi",
+      "Sani I. Abba",
+      "Isam H. Aljundi"
+    ],
+    "title": "State-of-the-art on the conceptual advancement of seawater intrusion: A comprehensive review, management, and possible future research direction",
+    "publicationDate": "2023-06-08",
+    "year": 2023,
+    "venue": "Journal of King Saud University - Science",
+    "citations": 14,
+    "fwci": 2.72,
+    "topics": [
+      "Groundwater and Isotope Geochemistry",
+      "Methane Hydrates and Related Phenomena",
+      "Geophysics and Gravity Measurements"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -50940,7 +50940,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.1199,
+    "fwci": 1.1189,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -54557,7 +54557,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1991,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 50,
-    "fwci": 3.209,
+    "fwci": 3.2111,
     "topics": [
       "Geological formations and processes",
       "Geology and Paleoclimatology Research",
@@ -55936,7 +55936,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "European Journal Of Oral Sciences",
     "citations": 6,
-    "fwci": 0.4815,
+    "fwci": 0.482,
     "topics": [
       "Oral microbiology and periodontitis research",
       "Bacterial biofilms and quorum sensing",
@@ -68916,7 +68916,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
     "citations": 23,
-    "fwci": 2.8885,
+    "fwci": 2.8891,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -70525,7 +70525,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 79,
-    "fwci": 22.951,
+    "fwci": 22.9508,
     "topics": [
       "Plant Diversity and Evolution",
       "Plant and Fungal Species Descriptions",
@@ -75542,7 +75542,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Current Biology",
     "citations": 2,
-    "fwci": 6.2624,
+    "fwci": 6.0864,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -78963,7 +78963,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "NERC Open Research Archive (Natural Environment Research Council)",
     "citations": 9,
-    "fwci": 1.2911,
+    "fwci": 1.291,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -87676,7 +87676,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4112,
+    "fwci": 135.4144,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88656,8 +88656,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 646,
-    "fwci": 56.9368,
+    "citations": 647,
+    "fwci": 56.9414,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -88819,7 +88819,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Terra Nova",
     "citations": 254,
-    "fwci": 15.6166,
+    "fwci": 15.6156,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88994,7 +88994,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Earth-Science Reviews",
     "citations": 193,
-    "fwci": 31.4066,
+    "fwci": 31.4109,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -89246,7 +89246,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Gondwana Research",
     "citations": 160,
-    "fwci": 30.3662,
+    "fwci": 30.3671,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89794,7 +89794,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Gondwana Research",
     "citations": 101,
-    "fwci": 6.4156,
+    "fwci": 6.4158,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -89830,7 +89830,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Global and Planetary Change",
     "citations": 97,
-    "fwci": 9.5172,
+    "fwci": 9.5208,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90347,7 +90347,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Communications Earth & Environment",
     "citations": 57,
-    "fwci": 6.8955,
+    "fwci": 6.9001,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -90399,40 +90399,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2803691778",
-    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5090122630",
-      "A5057911678",
-      "A5054002352"
-    ],
-    "firstAuthorLastName": "Gillespie",
-    "allAuthors": [
-      "Jack Gillespie",
-      "Stijn Glorie",
-      "А. К. Khudoley",
-      "Alan S. Collins"
-    ],
-    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
-    "publicationDate": "2018-05-26",
-    "year": 2018,
-    "venue": "Lithos",
-    "citations": 53,
-    "fwci": 3.9963,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "St Petersburg University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W3013413342",
     "doi": "https://doi.org/10.1038/s41598-020-62075-y",
     "program": "",
@@ -90455,7 +90421,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Scientific Reports",
     "citations": 46,
-    "fwci": 6.9206,
+    "fwci": 6.9203,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -91260,8 +91226,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-09-17",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 85,
-    "fwci": 4.8578,
+    "citations": 86,
+    "fwci": 4.899,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -91456,7 +91422,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Tectonics",
     "citations": 74,
-    "fwci": 5.9598,
+    "fwci": 5.9599,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -91649,7 +91615,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 66,
-    "fwci": 5.2387,
+    "fwci": 5.2386,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -91896,7 +91862,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Gondwana Research",
     "citations": 58,
-    "fwci": 7.3574,
+    "fwci": 7.3579,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -91974,7 +91940,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Terra Nova",
     "citations": 56,
-    "fwci": 5.6925,
+    "fwci": 5.6941,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -92022,7 +91988,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Gondwana Research",
     "citations": 56,
-    "fwci": 6.5455,
+    "fwci": 6.5462,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92068,7 +92034,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Precambrian Research",
     "citations": 55,
-    "fwci": 4.5407,
+    "fwci": 4.5409,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -92079,6 +92045,40 @@ export const worksTable: WorkTableRecord[] = [
       "University of South Australia",
       "Government of Ethiopia",
       "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2803691778",
+    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5054002352"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "А. К. Khudoley",
+      "Alan S. Collins"
+    ],
+    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
+    "publicationDate": "2018-05-26",
+    "year": 2018,
+    "venue": "Lithos",
+    "citations": 53,
+    "fwci": 4.0199,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "St Petersburg University"
     ]
   },
   {
@@ -92223,7 +92223,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Gondwana Research",
     "citations": 49,
-    "fwci": 4.2299,
+    "fwci": 4.2315,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -92310,7 +92310,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Gondwana Research",
     "citations": 46,
-    "fwci": 5.1083,
+    "fwci": 5.1085,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92354,7 +92354,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonophysics",
     "citations": 46,
-    "fwci": 1.822,
+    "fwci": 1.8221,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92399,7 +92399,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Tectonics",
     "citations": 45,
-    "fwci": 3.8056,
+    "fwci": 3.8083,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92715,7 +92715,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Tectonics",
     "citations": 41,
-    "fwci": 11.4394,
+    "fwci": 11.435,
     "topics": [
       "Geological and Geophysical Studies",
       "earthquake and tectonic studies",
@@ -92884,7 +92884,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Tectonics",
     "citations": 40,
-    "fwci": 4.8616,
+    "fwci": 4.8643,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -92964,7 +92964,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Gondwana Research",
     "citations": 39,
-    "fwci": 3.1724,
+    "fwci": 3.1736,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93019,7 +93019,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Lithos",
     "citations": 39,
-    "fwci": 3.8024,
+    "fwci": 3.8083,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93099,7 +93099,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonophysics",
     "citations": 37,
-    "fwci": 4.7636,
+    "fwci": 4.7831,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -93261,7 +93261,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Gondwana Research",
     "citations": 35,
-    "fwci": 3.4552,
+    "fwci": 3.4553,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -93306,7 +93306,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Journal of the Geological Society",
     "citations": 35,
-    "fwci": 2.9181,
+    "fwci": 2.9186,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93350,7 +93350,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Basin Research",
     "citations": 35,
-    "fwci": 5.2355,
+    "fwci": 5.237,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -93487,7 +93487,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geostandards and Geoanalytical Research",
     "citations": 32,
-    "fwci": 5.0817,
+    "fwci": 5.0838,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -93534,7 +93534,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 32,
-    "fwci": 8.3149,
+    "fwci": 8.3131,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -93581,7 +93581,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geoscience Frontiers",
     "citations": 31,
-    "fwci": 1.9026,
+    "fwci": 1.9042,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93774,7 +93774,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "",
     "citations": 28,
-    "fwci": 5.2194,
+    "fwci": 5.2217,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geomagnetism and Paleomagnetism Studies",
@@ -93911,7 +93911,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Journal of the Geological Society",
     "citations": 26,
-    "fwci": 3.1886,
+    "fwci": 3.1887,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -94014,7 +94014,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Journal of Geophysical Research Solid Earth",
     "citations": 25,
-    "fwci": 1.9446,
+    "fwci": 1.9457,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -94308,7 +94308,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Tectonophysics",
     "citations": 18,
-    "fwci": 2.235,
+    "fwci": 2.2379,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -94351,7 +94351,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Basin Research",
     "citations": 16,
-    "fwci": 2.9025,
+    "fwci": 2.9051,
     "topics": [
       "Geological and Geochemical Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -94396,7 +94396,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geochronology",
     "citations": 14,
-    "fwci": 2.1785,
+    "fwci": 2.1788,
     "topics": [
       "Geological and Geochemical Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -94436,7 +94436,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Journal of the Geological Society",
     "citations": 13,
-    "fwci": 1.3618,
+    "fwci": 1.362,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -94479,7 +94479,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Ore Geology Reviews",
     "citations": 9,
-    "fwci": 3.4404,
+    "fwci": 3.331,
     "topics": [
       "Geological and Geophysical Studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -94589,7 +94589,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Geochronology",
     "citations": 4,
-    "fwci": 0.1864,
+    "fwci": 0.1865,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -94623,7 +94623,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Sedimentology",
     "citations": 36,
-    "fwci": 3.8202,
+    "fwci": 3.8201,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -95275,6 +95275,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2784217459",
+    "doi": "https://doi.org/10.1016/j.gr.2018.01.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5079379016",
+      "A5057911678",
+      "A5048112525",
+      "A5054756549",
+      "A5082011068",
+      "A5052648518"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "James Hall",
+      "Stijn Glorie",
+      "Anthony Reid",
+      "Alan S. Collins",
+      "Fred Jourdan",
+      "Martin Danišík",
+      "Noreen J. Evans"
+    ],
+    "title": "Thermal history of the northern Olympic Domain, Gawler Craton; correlations between thermochronometric data and mineralising systems",
+    "publicationDate": "2018-01-10",
+    "year": 2018,
+    "venue": "Gondwana Research",
+    "citations": 17,
+    "fwci": 2.1157,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "Department of State Development",
+      "Curtin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2891537923",
     "doi": "https://doi.org/10.1016/j.gsf.2018.07.007",
     "program": "",
@@ -95358,6 +95399,52 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3191148501",
+    "doi": "https://doi.org/10.1016/j.precamres.2021.106323",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5004188350",
+      "A5003363361",
+      "A5006140134",
+      "A5073349475",
+      "A5072230623",
+      "A5056727437"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Kurt Stüwe",
+      "Tamer Abu‐Alam",
+      "Farid Mahmoud Makroum",
+      "Mahmoud M. Hassan"
+    ],
+    "title": "Age and hafnium isotope evolution of Sudanese Butana and Chad illuminates the Stenian to Ediacaran evolution of the south and east Sahara",
+    "publicationDate": "2021-07-21",
+    "year": 2021,
+    "venue": "Precambrian Research",
+    "citations": 17,
+    "fwci": 2.7973,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies Worldwide",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "University of South Australia",
+      "University of Graz",
+      "UiT The Arctic University of Norway",
+      "Mansoura University",
+      "Suez Canal University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W626574615",
     "doi": "https://doi.org/10.1016/j.tecto.2015.05.012",
     "program": "",
@@ -95399,52 +95486,6 @@ export const worksTable: WorkTableRecord[] = [
       "Chiang Mai University",
       "Chulalongkorn University",
       "Macquarie University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3191148501",
-    "doi": "https://doi.org/10.1016/j.precamres.2021.106323",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5024022389",
-      "A5004188350",
-      "A5003363361",
-      "A5006140134",
-      "A5073349475",
-      "A5072230623",
-      "A5056727437"
-    ],
-    "firstAuthorLastName": "Blades",
-    "allAuthors": [
-      "Morgan Blades",
-      "Alan S. Collins",
-      "John Foden",
-      "Justin L. Payne",
-      "Kurt Stüwe",
-      "Tamer Abu‐Alam",
-      "Farid Mahmoud Makroum",
-      "Mahmoud M. Hassan"
-    ],
-    "title": "Age and hafnium isotope evolution of Sudanese Butana and Chad illuminates the Stenian to Ediacaran evolution of the south and east Sahara",
-    "publicationDate": "2021-07-21",
-    "year": 2021,
-    "venue": "Precambrian Research",
-    "citations": 16,
-    "fwci": 2.7784,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies Worldwide",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "University of South Australia",
-      "University of Graz",
-      "UiT The Arctic University of Norway",
-      "Mansoura University",
-      "Suez Canal University"
     ]
   },
   {
@@ -95706,7 +95747,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Journal of the Geological Society",
     "citations": 10,
-    "fwci": 1.1184,
+    "fwci": 1.1189,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -95988,7 +96029,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Tectonophysics",
     "citations": 8,
-    "fwci": 1.167,
+    "fwci": 1.1674,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -96118,7 +96159,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 6,
-    "fwci": 0.9074,
+    "fwci": 0.9078,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies"
@@ -96319,7 +96360,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Geostandards and Geoanalytical Research",
     "citations": 1,
-    "fwci": 0.4851,
+    "fwci": 0.4636,
     "topics": [
       "Geological and Geochemical Analysis",
       "Clay minerals and soil interactions",
@@ -96618,47 +96659,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W2784217459",
-    "doi": "https://doi.org/10.1016/j.gr.2018.01.001",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5079379016",
-      "A5057911678",
-      "A5048112525",
-      "A5054756549",
-      "A5082011068",
-      "A5052648518"
-    ],
-    "firstAuthorLastName": "Hall",
-    "allAuthors": [
-      "James Hall",
-      "Stijn Glorie",
-      "Anthony Reid",
-      "Alan S. Collins",
-      "Fred Jourdan",
-      "Martin Danišík",
-      "Noreen J. Evans"
-    ],
-    "title": "Thermal history of the northern Olympic Domain, Gawler Craton; correlations between thermochronometric data and mineralising systems",
-    "publicationDate": "2018-01-10",
-    "year": 2018,
-    "venue": "Gondwana Research",
-    "citations": 17,
-    "fwci": 2.1124,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "Department of State Development",
-      "Curtin University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2801882573",
     "doi": "https://doi.org/10.1002/gj.3224",
     "program": "",
@@ -96953,7 +96953,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Data in Brief",
     "citations": 9,
-    "fwci": 0.8456,
+    "fwci": 0.8463,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -97230,7 +97230,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Precambrian Research",
     "citations": 2,
-    "fwci": 1.2284,
+    "fwci": 1.2081,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -97962,7 +97962,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "",
     "citations": 2,
-    "fwci": 0.3727,
+    "fwci": 0.373,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -119809,7 +119809,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Journal of Petroleum Science and Engineering",
     "citations": 15,
-    "fwci": 1.7071,
+    "fwci": 1.7072,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Petroleum Processing and Analysis",
@@ -121944,7 +121944,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Developments in petroleum science",
     "citations": 1,
-    "fwci": 1.8743,
+    "fwci": 1.8606,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Enhanced Oil Recovery Techniques",
@@ -132079,7 +132079,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Terra Nova",
     "citations": 126,
-    "fwci": 35.303,
+    "fwci": 35.4826,
     "topics": [
       "Geological and Geophysical Studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -133565,7 +133565,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1997,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 74,
-    "fwci": 5.9331,
+    "fwci": 5.9343,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -134115,7 +134115,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Palaeontology",
     "citations": 28,
-    "fwci": 3.3429,
+    "fwci": 3.3438,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -134124,6 +134124,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "China University of Geosciences (Beijing)",
       "University of British Columbia",
+      "Hungarian Natural History Museum",
       "Hungarian Academy of Sciences",
       "Université Claude Bernard Lyon 1"
     ]
@@ -137295,7 +137296,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Journal of Marine Science and Engineering",
     "citations": 18,
-    "fwci": 3.7154,
+    "fwci": 3.7166,
     "topics": [
       "Geological formations and processes",
       "Methane Hydrates and Related Phenomena",
@@ -137749,7 +137750,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "MethodsX",
     "citations": 8,
-    "fwci": 1.0505,
+    "fwci": 1.0506,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -138758,7 +138759,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2003,
     "venue": "Terra Nova",
     "citations": 64,
-    "fwci": 4.1599,
+    "fwci": 4.1598,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -140520,7 +140521,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1996,
     "venue": "Chemical Geology",
     "citations": 36,
-    "fwci": 0.9718,
+    "fwci": 0.9722,
     "topics": [
       "Radioactivity and Radon Measurements",
       "Radioactive element chemistry and processing",
@@ -144764,7 +144765,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Science",
     "citations": 270,
-    "fwci": 16.4779,
+    "fwci": 16.4764,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Plant Diversity and Evolution",
@@ -145765,44 +145766,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4313537603",
-    "doi": "https://doi.org/10.1016/j.earscirev.2022.104297",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5085007251",
-    "allAuthorOpenAlexIds": [
-      "A5085007251",
-      "A5081623474",
-      "A5101591748",
-      "A5104094821",
-      "A5050789580",
-      "A5089736361"
-    ],
-    "firstAuthorLastName": "Hussain",
-    "allAuthors": [
-      "Arif Hussain",
-      "Emma A. Morris",
-      "Khalid Al‐Ramadan",
-      "Patrick M. Shannon",
-      "Peter D. W. Haughton"
-    ],
-    "title": "Hybrid event beds (HEBs) and the ‘greywacke problem’ revisited",
-    "publicationDate": "2022-12-25",
-    "year": 2022,
-    "venue": "Earth-Science Reviews",
-    "citations": 14,
-    "fwci": 2.8469,
-    "topics": [
-      "Geological formations and processes",
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Utah",
-      "University College Dublin"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2067784425",
     "doi": "https://doi.org/10.7306/gq.1081",
     "program": "",
@@ -145833,6 +145796,44 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Marymount University",
       "Society of Economic Geologists"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4313537603",
+    "doi": "https://doi.org/10.1016/j.earscirev.2022.104297",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5081623474",
+      "A5101591748",
+      "A5104094821",
+      "A5050789580",
+      "A5089736361"
+    ],
+    "firstAuthorLastName": "Hussain",
+    "allAuthors": [
+      "Arif Hussain",
+      "Emma A. Morris",
+      "Khalid Al‐Ramadan",
+      "Patrick M. Shannon",
+      "Peter D. W. Haughton"
+    ],
+    "title": "Hybrid event beds (HEBs) and the ‘greywacke problem’ revisited",
+    "publicationDate": "2022-12-25",
+    "year": 2022,
+    "venue": "Earth-Science Reviews",
+    "citations": 14,
+    "fwci": 2.8421,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Utah",
+      "University College Dublin"
     ]
   },
   {

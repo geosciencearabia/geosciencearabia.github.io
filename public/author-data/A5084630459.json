@@ -14,7 +14,7 @@
     ],
     "full_name": "Énay, Raymond",
     "works_count": 105,
-    "cited_by_count": 1840,
+    "cited_by_count": 1841,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 21,
@@ -383,7 +383,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002312,
+        "value": 0.0002311,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -400,7 +400,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001419,
+        "value": 0.0001418,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -417,7 +417,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000121,
+        "value": 0.0001209,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -434,7 +434,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000823,
+        "value": 0.0000822,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -761,7 +761,7 @@
         "year": 2020,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 15
+        "cited_by_count": 16
       },
       {
         "year": 2021,
@@ -781,7 +781,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-06-20T12:17:27",
+    "updated_date": "2026-06-21T12:17:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1890,11 +1890,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 5.9331,
+      "fwci": 5.9343,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.95724872,
+        "value": 0.95725684,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7095,8 +7095,8 @@
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
             "Sorbonne Université, CNRS-INSU, Institut des Sciences de la Terre de Paris, iSTeP, 4 place Jussieu, 75005 Paris, France",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
           ],
           "raw_orcid": null,
@@ -7110,16 +7110,16 @@
               ]
             },
             {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
+              ]
+            },
+            {
               "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -7252,8 +7252,8 @@
           "raw_author_name": "Marie-Françoise Brunet",
           "raw_affiliation_strings": [
             "Sorbonne Université, CNRS-INSU, Institut des Sciences de la Terre de Paris, iSTeP, 4 place Jussieu, 75005 Paris, France",
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -7266,15 +7266,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
               "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
               "institution_ids": [
                 "https://openalex.org/I4210097099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -8408,7 +8408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-22T08:00:12.763002",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12689,7 +12689,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "JIARUN YIN",
           "raw_affiliation_strings": [
             "China University of Geosciences, 29 Xueyuan Lu, Beijing 100083, China; e-mail: yjr@cugb.edu.cn"
@@ -12726,7 +12726,7 @@
           "countries": [
             "CA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "PAUL L. SMITH",
           "raw_affiliation_strings": [
             "Department of Earth and Ocean Sciences, University of British Columbia, 6339 Stores Road, Vancouver, BC, V6T 1Z4, Canada; e-mail: psmith@eos.ubc.ca"
@@ -12750,6 +12750,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I2799841867",
+              "display_name": "Hungarian Natural History Museum",
+              "ror": "https://ror.org/04y1zat75",
+              "country_code": "HU",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I2799841867"
+              ]
+            },
+            {
               "id": "https://openalex.org/I7597260",
               "display_name": "Hungarian Academy of Sciences",
               "ror": "https://ror.org/02ks8qq67",
@@ -12763,13 +12773,21 @@
           "countries": [
             "HU"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "JÓZSEF PÁLFY",
           "raw_affiliation_strings": [
+            "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H-1431 Hungary; e-mail: palfy@nhmus.hu",
             "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H-1431 Hungary; e-mail: palfy@nhmus.hu",
+              "institution_ids": [
+                "https://openalex.org/I2799841867",
+                "https://openalex.org/I7597260"
+              ]
+            },
             {
               "raw_affiliation_string": "Research Group for Palaeontology, Hungarian Academy of Sciences, Hungarian National Museum, POB 137, Budapest, H‐1431 Hungary; e‐mail: palfy@nhmus.hu",
               "institution_ids": [
@@ -12801,13 +12819,20 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "RAYMOND ENAY",
           "raw_affiliation_strings": [
+            "Université Claude-Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e-mail: raymond.enay@univ-lyon1.fr",
             "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Université Claude-Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e-mail: raymond.enay@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            },
             {
               "raw_affiliation_string": "Université Claude‐Bernand Lyon 1, UFR des Sciences de la Terre, Boulevard du 11 November 1918, 69622 Villeurbanne Cedex, France 43; e‐mail: raymond.enay@univ‐lyon1.fr",
               "institution_ids": [
@@ -12820,19 +12845,30 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061872836",
+        "https://openalex.org/A5084630459",
+        "https://openalex.org/A5084687478",
+        "https://openalex.org/A5108387603"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I100532134",
+        "https://openalex.org/I141945490",
+        "https://openalex.org/I2799841867",
+        "https://openalex.org/I3125743391",
+        "https://openalex.org/I7597260"
+      ],
       "apc_list": {
         "value": 4530,
         "currency": "USD",
         "value_usd": 4530
       },
       "apc_paid": null,
-      "fwci": 3.3429,
+      "fwci": 3.3438,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.91223845,
+        "value": 0.91227806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13731,7 +13767,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-22T08:00:12.763002",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22310,7 +22346,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-22T08:00:12.763002",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23042,7 +23078,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-21T06:12:48.119943",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37918,7 +37954,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-21T06:12:48.119943",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40324,7 +40360,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-22T08:00:12.763002",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41321,7 +41357,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-22T08:00:12.763002",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46128,7 +46164,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-21T06:12:48.119943",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53996,7 +54032,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-21T07:57:09.225873",
+      "updated_date": "2026-06-21T06:12:48.119943",
       "created_date": "2025-10-10T00:00:00"
     },
     {
