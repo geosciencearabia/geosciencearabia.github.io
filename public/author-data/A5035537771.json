@@ -5157,11 +5157,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 8.844,
+      "fwci": 8.8442,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.97079417,
+        "value": 0.97079511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5550,7 +5550,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": true
@@ -5696,7 +5702,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-04T06:14:18.571774",
+      "updated_date": "2026-06-23T13:55:30.953635",
       "created_date": "2025-10-10T00:00:00"
     },
     {

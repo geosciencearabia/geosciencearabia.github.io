@@ -1883,11 +1883,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 135.4144,
+      "fwci": 135.4176,
       "has_fulltext": true,
       "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99962305,
+        "value": 0.99962306,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2807,14 +2807,19 @@
           "ror": "https://ror.org/05mjrzy91"
         },
         {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        },
+        {
           "id": "https://openalex.org/F4320335935",
           "display_name": "Royal Holloway, University of London",
           "ror": "https://ror.org/04g2vpn86"
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -2972,7 +2977,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-22T08:00:12.763002",
+      "updated_date": "2026-06-23T13:55:30.953635",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -4373,8 +4378,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -5252,8 +5257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -6357,8 +6362,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -7650,8 +7655,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -9807,8 +9812,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -10472,8 +10477,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11657,8 +11662,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -13181,8 +13186,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -13653,8 +13658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -14232,1633 +14237,6 @@
       ],
       "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2019-12-13T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3146973300",
-      "doi": "https://doi.org/10.3390/min11040350",
-      "title": "Origin and Evolution of the Late Cretaceous Reworked Phosphorite in the Sirhan-Turayf Basin, Northern Saudi Arabia",
-      "display_name": "Origin and Evolution of the Late Cretaceous Reworked Phosphorite in the Sirhan-Turayf Basin, Northern Saudi Arabia",
-      "publication_year": 2021,
-      "publication_date": "2021-03-27",
-      "ids": {
-        "openalex": "https://openalex.org/W3146973300",
-        "doi": "https://doi.org/10.3390/min11040350",
-        "mag": "3146973300"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3390/min11040350",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/min11040350",
-        "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
-        "source": {
-          "id": "https://openalex.org/S2737336974",
-          "display_name": "Minerals",
-          "issn_l": "2075-163X",
-          "issn": [
-            "2075-163X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Minerals",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5100410599",
-            "display_name": "Yunlong Zhang",
-            "orcid": "https://orcid.org/0000-0001-8315-0650"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yunlong Zhang",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-8315-0650",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101699144",
-            "display_name": "Ziying Li",
-            "orcid": "https://orcid.org/0000-0003-3575-1149"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ziying Li",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101699144",
-            "display_name": "Ziying Li",
-            "orcid": "https://orcid.org/0000-0003-3575-1149"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ziying Li",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5006640587",
-            "display_name": "Saleh M. Dini",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Saleh M. Dini",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109396102",
-            "display_name": "Mingkuan Qin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mingkuan Qin",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002668684",
-            "display_name": "Ahmed S. Banakhar",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed S. Banakhar",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100655055",
-            "display_name": "Zhixing Li",
-            "orcid": "https://orcid.org/0000-0002-4535-7623"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Zhixing Li",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100655055",
-            "display_name": "Zhixing Li",
-            "orcid": "https://orcid.org/0000-0002-4535-7623"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zhixing Li",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030898494",
-            "display_name": "Longsheng Yi",
-            "orcid": "https://orcid.org/0000-0003-4711-7663"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Longsheng Yi",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-4711-7663",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah M. Memesh",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063777274",
-            "display_name": "Abdullah M. Al Shammari",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah M. Shammari",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5072328252",
-            "display_name": "Guochen Li",
-            "orcid": "https://orcid.org/0000-0002-0655-6064"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Guochen Li",
-          "raw_affiliation_strings": [
-            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
-              "institution_ids": [
-                "https://openalex.org/I4210134214"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 12,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5006640587",
-        "https://openalex.org/A5100655055",
-        "https://openalex.org/A5101699144"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210134214",
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 2000,
-        "currency": "CHF",
-        "value_usd": 2165
-      },
-      "apc_paid": {
-        "value": 2000,
-        "currency": "CHF",
-        "value_usd": 2165
-      },
-      "fwci": 2.8795,
-      "has_fulltext": true,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.89102925,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "11",
-        "issue": "4",
-        "first_page": "350",
-        "last_page": "350"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9995999932289124,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10973",
-          "display_name": "Radioactive element chemistry and processing",
-          "score": 0.993399977684021,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1604",
-            "display_name": "Inorganic Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/phosphorite",
-          "display_name": "Phosphorite",
-          "score": 0.9822351932525635
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8557288646697998
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.7875362634658813
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.6691847443580627
-        },
-        {
-          "id": "https://openalex.org/keywords/phosphate-minerals",
-          "display_name": "Phosphate minerals",
-          "score": 0.595869243144989
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.5354912877082825
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4850555956363678
-        },
-        {
-          "id": "https://openalex.org/keywords/pelagic-sediment",
-          "display_name": "Pelagic sediment",
-          "score": 0.4746815860271454
-        },
-        {
-          "id": "https://openalex.org/keywords/tethys-ocean",
-          "display_name": "Tethys Ocean",
-          "score": 0.461020827293396
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.42720627784729004
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.24406978487968445
-        },
-        {
-          "id": "https://openalex.org/keywords/phosphate",
-          "display_name": "Phosphate",
-          "score": 0.21630996465682983
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.0750788152217865
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C30163351",
-          "wikidata": "https://www.wikidata.org/wiki/Q1424327",
-          "display_name": "Phosphorite",
-          "level": 3,
-          "score": 0.9822351932525635
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8557288646697998
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.7875362634658813
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.6691847443580627
-        },
-        {
-          "id": "https://openalex.org/C549924466",
-          "wikidata": "https://www.wikidata.org/wiki/Q3092395",
-          "display_name": "Phosphate minerals",
-          "level": 3,
-          "score": 0.595869243144989
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.5354912877082825
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4850555956363678
-        },
-        {
-          "id": "https://openalex.org/C162430325",
-          "wikidata": "https://www.wikidata.org/wiki/Q2986361",
-          "display_name": "Pelagic sediment",
-          "level": 3,
-          "score": 0.4746815860271454
-        },
-        {
-          "id": "https://openalex.org/C2777598122",
-          "wikidata": "https://www.wikidata.org/wiki/Q208136",
-          "display_name": "Tethys Ocean",
-          "level": 4,
-          "score": 0.461020827293396
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.42720627784729004
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.24406978487968445
-        },
-        {
-          "id": "https://openalex.org/C2777132085",
-          "wikidata": "https://www.wikidata.org/wiki/Q46220103",
-          "display_name": "Phosphate",
-          "level": 2,
-          "score": 0.21630996465682983
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.0750788152217865
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.3390/min11040350",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3390/min11040350",
-          "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
-          "source": {
-            "id": "https://openalex.org/S2737336974",
-            "display_name": "Minerals",
-            "issn_l": "2075-163X",
-            "issn": [
-              "2075-163X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310310987",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310310987"
-            ],
-            "host_organization_lineage_names": [
-              "Multidisciplinary Digital Publishing Institute"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Minerals",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:98fb6ee4dfba4447848a199acc1083a1",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/98fb6ee4dfba4447848a199acc1083a1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Minerals, Vol 11, Iss 350, p 350 (2021)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3390/min11040350",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/min11040350",
-        "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
-        "source": {
-          "id": "https://openalex.org/S2737336974",
-          "display_name": "Minerals",
-          "issn_l": "2075-163X",
-          "issn": [
-            "2075-163X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Minerals",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320328717",
-          "display_name": "China National Nuclear Corporation",
-          "ror": "https://ror.org/01d5ymp84"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3146973300.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3146973300.grobid-xml"
-      },
-      "referenced_works_count": 97,
-      "referenced_works": [
-        "https://openalex.org/W51574308",
-        "https://openalex.org/W1568151455",
-        "https://openalex.org/W1608680557",
-        "https://openalex.org/W1960006776",
-        "https://openalex.org/W1967043853",
-        "https://openalex.org/W1967831326",
-        "https://openalex.org/W1970315464",
-        "https://openalex.org/W1972987936",
-        "https://openalex.org/W1978080275",
-        "https://openalex.org/W1980717204",
-        "https://openalex.org/W1982838232",
-        "https://openalex.org/W1987156095",
-        "https://openalex.org/W1987688882",
-        "https://openalex.org/W1988606658",
-        "https://openalex.org/W1993896721",
-        "https://openalex.org/W1997283506",
-        "https://openalex.org/W1999178866",
-        "https://openalex.org/W1999364079",
-        "https://openalex.org/W2005726506",
-        "https://openalex.org/W2007213636",
-        "https://openalex.org/W2007986887",
-        "https://openalex.org/W2008018897",
-        "https://openalex.org/W2011801766",
-        "https://openalex.org/W2011968190",
-        "https://openalex.org/W2014728566",
-        "https://openalex.org/W2015434834",
-        "https://openalex.org/W2016379558",
-        "https://openalex.org/W2021955882",
-        "https://openalex.org/W2024887749",
-        "https://openalex.org/W2025372216",
-        "https://openalex.org/W2025859086",
-        "https://openalex.org/W2028366108",
-        "https://openalex.org/W2029292238",
-        "https://openalex.org/W2039093876",
-        "https://openalex.org/W2039869433",
-        "https://openalex.org/W2040912248",
-        "https://openalex.org/W2045387787",
-        "https://openalex.org/W2050075372",
-        "https://openalex.org/W2050670879",
-        "https://openalex.org/W2057391595",
-        "https://openalex.org/W2058476170",
-        "https://openalex.org/W2059668732",
-        "https://openalex.org/W2066134063",
-        "https://openalex.org/W2071086250",
-        "https://openalex.org/W2071172756",
-        "https://openalex.org/W2072896739",
-        "https://openalex.org/W2075496402",
-        "https://openalex.org/W2078012795",
-        "https://openalex.org/W2079215416",
-        "https://openalex.org/W2080203240",
-        "https://openalex.org/W2080382188",
-        "https://openalex.org/W2084625233",
-        "https://openalex.org/W2089841273",
-        "https://openalex.org/W2091794361",
-        "https://openalex.org/W2098123908",
-        "https://openalex.org/W2102947943",
-        "https://openalex.org/W2109217550",
-        "https://openalex.org/W2129362347",
-        "https://openalex.org/W2131050439",
-        "https://openalex.org/W2163663757",
-        "https://openalex.org/W2168040656",
-        "https://openalex.org/W2170074748",
-        "https://openalex.org/W2208117800",
-        "https://openalex.org/W2232873092",
-        "https://openalex.org/W2269272500",
-        "https://openalex.org/W2283724060",
-        "https://openalex.org/W2336717940",
-        "https://openalex.org/W2336738242",
-        "https://openalex.org/W2342151210",
-        "https://openalex.org/W2344338649",
-        "https://openalex.org/W2405276644",
-        "https://openalex.org/W2479124881",
-        "https://openalex.org/W2503651869",
-        "https://openalex.org/W2611693418",
-        "https://openalex.org/W2737693739",
-        "https://openalex.org/W2745395622",
-        "https://openalex.org/W2774346668",
-        "https://openalex.org/W2790393713",
-        "https://openalex.org/W2790944990",
-        "https://openalex.org/W2800282409",
-        "https://openalex.org/W2802333519",
-        "https://openalex.org/W2805901131",
-        "https://openalex.org/W2810132585",
-        "https://openalex.org/W2919602095",
-        "https://openalex.org/W2922373662",
-        "https://openalex.org/W2933643123",
-        "https://openalex.org/W2942164850",
-        "https://openalex.org/W2950249700",
-        "https://openalex.org/W2966308973",
-        "https://openalex.org/W2971645956",
-        "https://openalex.org/W3039188911",
-        "https://openalex.org/W3092402047",
-        "https://openalex.org/W4210348079",
-        "https://openalex.org/W6673034251",
-        "https://openalex.org/W6675573640",
-        "https://openalex.org/W6704417523",
-        "https://openalex.org/W7024133469"
-      ],
-      "related_works": [
-        "https://openalex.org/W2943036979",
-        "https://openalex.org/W186599913",
-        "https://openalex.org/W2277950489",
-        "https://openalex.org/W4315817010",
-        "https://openalex.org/W2078355203",
-        "https://openalex.org/W2920952394",
-        "https://openalex.org/W3126865347",
-        "https://openalex.org/W1574476125",
-        "https://openalex.org/W1003427104",
-        "https://openalex.org/W3146973300"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          64,
-          96,
-          119
-        ],
-        "redeposition": [
-          1
-        ],
-        "of": [
-          2,
-          37,
-          41,
-          56,
-          66,
-          84,
-          177
-        ],
-        "pristine": [
-          3,
-          94,
-          136
-        ],
-        "phosphorite": [
-          4,
-          15,
-          46,
-          62,
-          109,
-          129,
-          172
-        ],
-        "plays": [
-          5
-        ],
-        "an": [
-          6
-        ],
-        "important": [
-          7
-        ],
-        "role": [
-          8
-        ],
-        "in": [
-          9,
-          48,
-          105,
-          126,
-          145,
-          169
-        ],
-        "phosphorus": [
-          10
-        ],
-        "accumulation,": [
-          11
-        ],
-        "which": [
-          12,
-          52
-        ],
-        "created": [
-          13
-        ],
-        "reworked": [
-          14,
-          75,
-          97
-        ],
-        "extensively": [
-          16
-        ],
-        "on": [
-          17,
-          34,
-          111
-        ],
-        "the": [
-          18,
-          35,
-          38,
-          42,
-          57,
-          71,
-          74,
-          78,
-          82,
-          85,
-          93,
-          103,
-          127,
-          133,
-          164,
-          170,
-          178
-        ],
-        "continental": [
-          19
-        ],
-        "shelf.": [
-          20
-        ],
-        "This": [
-          21
-        ],
-        "paper,": [
-          22
-        ],
-        "using": [
-          23
-        ],
-        "geochemical": [
-          24,
-          123,
-          149,
-          181
-        ],
-        "analysis": [
-          25
-        ],
-        "combined": [
-          26
-        ],
-        "with": [
-          27
-        ],
-        "data": [
-          28
-        ],
-        "from": [
-          29,
-          77
-        ],
-        "petrology": [
-          30
-        ],
-        "and": [
-          31,
-          110,
-          115,
-          122,
-          144,
-          155,
-          158,
-          183,
-          185
-        ],
-        "diagenesis,": [
-          32
-        ],
-        "focuses": [
-          33
-        ],
-        "reconstruction": [
-          36
-        ],
-        "formation": [
-          39
-        ],
-        "processes": [
-          40
-        ],
-        "Late": [
-          43
-        ],
-        "Cretaceous": [
-          44
-        ],
-        "Thaniyat": [
-          45,
-          165,
-          171
-        ],
-        "deposition": [
-          47
-        ],
-        "northwestern": [
-          49
-        ],
-        "Saudi": [
-          50
-        ],
-        "Arabia,": [
-          51
-        ],
-        "is": [
-          53
-        ],
-        "a": [
-          54,
-          112,
-          140,
-          146
-        ],
-        "part": [
-          55
-        ],
-        "famous": [
-          58
-        ],
-        "large": [
-          59
-        ],
-        "Neo-Tethys": [
-          60,
-          86
-        ],
-        "Ocean’s": [
-          61,
-          87
-        ],
-        "deposit.": [
-          63
-        ],
-        "results": [
-          65
-        ],
-        "our": [
-          67
-        ],
-        "study": [
-          68
-        ],
-        "illustrate": [
-          69
-        ],
-        "that": [
-          70,
-          132
-        ],
-        "phosphorites": [
-          72
-        ],
-        "represent": [
-          73
-        ],
-        "products": [
-          76
-        ],
-        "north,": [
-          79
-        ],
-        "close": [
-          80
-        ],
-        "to": [
-          81
-        ],
-        "edge": [
-          83
-        ],
-        "shelf,": [
-          88
-        ],
-        "where": [
-          89
-        ],
-        "upwelling": [
-          90
-        ],
-        "had": [
-          91
-        ],
-        "accreted": [
-          92
-        ],
-        "phosphorite.": [
-          95,
-          118
-        ],
-        "phosphatic": [
-          98
-        ],
-        "grains": [
-          99,
-          130
-        ],
-        "were": [
-          100,
-          152
-        ],
-        "redeposited": [
-          101
-        ],
-        "near": [
-          102
-        ],
-        "shore": [
-          104
-        ],
-        "sandstone,": [
-          106
-        ],
-        "forming": [
-          107,
-          163
-        ],
-        "sandy": [
-          108
-        ],
-        "carbonate": [
-          113
-        ],
-        "platform": [
-          114
-        ],
-        "creating": [
-          116
-        ],
-        "calcareous": [
-          117
-        ],
-        "microscale": [
-          120
-        ],
-        "sedimentological": [
-          121
-        ],
-        "information": [
-          124
-        ],
-        "hosted": [
-          125
-        ],
-        "eroded": [
-          128
-        ],
-        "indicates": [
-          131
-        ],
-        "source": [
-          134
-        ],
-        "sediment,": [
-          135
-        ],
-        "phosphorite,": [
-          137
-        ],
-        "occurred": [
-          138
-        ],
-        "under": [
-          139,
-          160
-        ],
-        "fluctuating": [
-          141
-        ],
-        "geophysical": [
-          142
-        ],
-        "condition": [
-          143
-        ],
-        "relatively": [
-          147
-        ],
-        "limited": [
-          148
-        ],
-        "environment.": [
-          150
-        ],
-        "They": [
-          151
-        ],
-        "physically": [
-          153
-        ],
-        "crushed": [
-          154
-        ],
-        "transported": [
-          156
-        ],
-        "landward": [
-          157
-        ],
-        "deposited": [
-          159
-        ],
-        "oxic": [
-          161
-        ],
-        "conditions,": [
-          162
-        ],
-        "phosphorites.": [
-          166
-        ],
-        "Early": [
-          167
-        ],
-        "diagenesis": [
-          168
-        ],
-        "was": [
-          173
-        ],
-        "evidenced": [
-          174
-        ],
-        "by": [
-          175
-        ],
-        "recrystallization": [
-          176
-        ],
-        "phosphate": [
-          179
-        ],
-        "minerals,": [
-          180
-        ],
-        "depletion,": [
-          182
-        ],
-        "C": [
-          184
-        ],
-        "O": [
-          186
-        ],
-        "isotope": [
-          187
-        ],
-        "excursion.": [
-          188
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-06-22T08:00:12.763002",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W3203435426",
@@ -16613,8 +14991,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -17771,8 +16149,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -19347,8 +17725,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -20718,8 +19096,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -21342,8 +19720,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -21424,6 +19802,1633 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3146973300",
+      "doi": "https://doi.org/10.3390/min11040350",
+      "title": "Origin and Evolution of the Late Cretaceous Reworked Phosphorite in the Sirhan-Turayf Basin, Northern Saudi Arabia",
+      "display_name": "Origin and Evolution of the Late Cretaceous Reworked Phosphorite in the Sirhan-Turayf Basin, Northern Saudi Arabia",
+      "publication_year": 2021,
+      "publication_date": "2021-03-27",
+      "ids": {
+        "openalex": "https://openalex.org/W3146973300",
+        "doi": "https://doi.org/10.3390/min11040350",
+        "mag": "3146973300"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/min11040350",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/min11040350",
+        "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
+        "source": {
+          "id": "https://openalex.org/S2737336974",
+          "display_name": "Minerals",
+          "issn_l": "2075-163X",
+          "issn": [
+            "2075-163X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Minerals",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100410599",
+            "display_name": "Yunlong Zhang",
+            "orcid": "https://orcid.org/0000-0001-8315-0650"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yunlong Zhang",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8315-0650",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101699144",
+            "display_name": "Ziying Li",
+            "orcid": "https://orcid.org/0000-0003-3575-1149"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ziying Li",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101699144",
+            "display_name": "Ziying Li",
+            "orcid": "https://orcid.org/0000-0003-3575-1149"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ziying Li",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006640587",
+            "display_name": "Saleh M. Dini",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Saleh M. Dini",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109396102",
+            "display_name": "Mingkuan Qin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mingkuan Qin",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002668684",
+            "display_name": "Ahmed S. Banakhar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed S. Banakhar",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100655055",
+            "display_name": "Zhixing Li",
+            "orcid": "https://orcid.org/0000-0002-4535-7623"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zhixing Li",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100655055",
+            "display_name": "Zhixing Li",
+            "orcid": "https://orcid.org/0000-0002-4535-7623"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Zhixing Li",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030898494",
+            "display_name": "Longsheng Yi",
+            "orcid": "https://orcid.org/0000-0003-4711-7663"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Longsheng Yi",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4711-7663",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044930714",
+            "display_name": "Abdullah Memesh",
+            "orcid": "https://orcid.org/0000-0001-8551-3240"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah M. Memesh",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063777274",
+            "display_name": "Abdullah M. Al Shammari",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah M. Shammari",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Jeddah 21424, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5072328252",
+            "display_name": "Guochen Li",
+            "orcid": "https://orcid.org/0000-0002-0655-6064"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Guochen Li",
+          "raw_affiliation_strings": [
+            "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
+              "institution_ids": [
+                "https://openalex.org/I4210134214"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5006640587",
+        "https://openalex.org/A5100655055",
+        "https://openalex.org/A5101699144"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210134214",
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2165
+      },
+      "apc_paid": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2165
+      },
+      "fwci": 2.8808,
+      "has_fulltext": true,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.89107833,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "4",
+        "first_page": "350",
+        "last_page": "350"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10973",
+          "display_name": "Radioactive element chemistry and processing",
+          "score": 0.993399977684021,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1604",
+            "display_name": "Inorganic Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/phosphorite",
+          "display_name": "Phosphorite",
+          "score": 0.9822351932525635
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8557288646697998
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.7875362634658813
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.6691847443580627
+        },
+        {
+          "id": "https://openalex.org/keywords/phosphate-minerals",
+          "display_name": "Phosphate minerals",
+          "score": 0.595869243144989
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.5354912877082825
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4850555956363678
+        },
+        {
+          "id": "https://openalex.org/keywords/pelagic-sediment",
+          "display_name": "Pelagic sediment",
+          "score": 0.4746815860271454
+        },
+        {
+          "id": "https://openalex.org/keywords/tethys-ocean",
+          "display_name": "Tethys Ocean",
+          "score": 0.461020827293396
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.42720627784729004
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.24406978487968445
+        },
+        {
+          "id": "https://openalex.org/keywords/phosphate",
+          "display_name": "Phosphate",
+          "score": 0.21630996465682983
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.0750788152217865
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C30163351",
+          "wikidata": "https://www.wikidata.org/wiki/Q1424327",
+          "display_name": "Phosphorite",
+          "level": 3,
+          "score": 0.9822351932525635
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8557288646697998
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.7875362634658813
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.6691847443580627
+        },
+        {
+          "id": "https://openalex.org/C549924466",
+          "wikidata": "https://www.wikidata.org/wiki/Q3092395",
+          "display_name": "Phosphate minerals",
+          "level": 3,
+          "score": 0.595869243144989
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5354912877082825
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4850555956363678
+        },
+        {
+          "id": "https://openalex.org/C162430325",
+          "wikidata": "https://www.wikidata.org/wiki/Q2986361",
+          "display_name": "Pelagic sediment",
+          "level": 3,
+          "score": 0.4746815860271454
+        },
+        {
+          "id": "https://openalex.org/C2777598122",
+          "wikidata": "https://www.wikidata.org/wiki/Q208136",
+          "display_name": "Tethys Ocean",
+          "level": 4,
+          "score": 0.461020827293396
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.42720627784729004
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.24406978487968445
+        },
+        {
+          "id": "https://openalex.org/C2777132085",
+          "wikidata": "https://www.wikidata.org/wiki/Q46220103",
+          "display_name": "Phosphate",
+          "level": 2,
+          "score": 0.21630996465682983
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.0750788152217865
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/min11040350",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/min11040350",
+          "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
+          "source": {
+            "id": "https://openalex.org/S2737336974",
+            "display_name": "Minerals",
+            "issn_l": "2075-163X",
+            "issn": [
+              "2075-163X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Minerals",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:98fb6ee4dfba4447848a199acc1083a1",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/98fb6ee4dfba4447848a199acc1083a1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Minerals, Vol 11, Iss 350, p 350 (2021)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/min11040350",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/min11040350",
+        "pdf_url": "https://www.mdpi.com/2075-163X/11/4/350/pdf?version=1617937309",
+        "source": {
+          "id": "https://openalex.org/S2737336974",
+          "display_name": "Minerals",
+          "issn_l": "2075-163X",
+          "issn": [
+            "2075-163X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Minerals",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320328717",
+          "display_name": "China National Nuclear Corporation",
+          "ror": "https://ror.org/01d5ymp84"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3146973300.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3146973300.grobid-xml"
+      },
+      "referenced_works_count": 97,
+      "referenced_works": [
+        "https://openalex.org/W51574308",
+        "https://openalex.org/W1568151455",
+        "https://openalex.org/W1608680557",
+        "https://openalex.org/W1960006776",
+        "https://openalex.org/W1967043853",
+        "https://openalex.org/W1967831326",
+        "https://openalex.org/W1970315464",
+        "https://openalex.org/W1972987936",
+        "https://openalex.org/W1978080275",
+        "https://openalex.org/W1980717204",
+        "https://openalex.org/W1982838232",
+        "https://openalex.org/W1987156095",
+        "https://openalex.org/W1987688882",
+        "https://openalex.org/W1988606658",
+        "https://openalex.org/W1993896721",
+        "https://openalex.org/W1997283506",
+        "https://openalex.org/W1999178866",
+        "https://openalex.org/W1999364079",
+        "https://openalex.org/W2005726506",
+        "https://openalex.org/W2007213636",
+        "https://openalex.org/W2007986887",
+        "https://openalex.org/W2008018897",
+        "https://openalex.org/W2011801766",
+        "https://openalex.org/W2011968190",
+        "https://openalex.org/W2014728566",
+        "https://openalex.org/W2015434834",
+        "https://openalex.org/W2016379558",
+        "https://openalex.org/W2021955882",
+        "https://openalex.org/W2024887749",
+        "https://openalex.org/W2025372216",
+        "https://openalex.org/W2025859086",
+        "https://openalex.org/W2028366108",
+        "https://openalex.org/W2029292238",
+        "https://openalex.org/W2039093876",
+        "https://openalex.org/W2039869433",
+        "https://openalex.org/W2040912248",
+        "https://openalex.org/W2045387787",
+        "https://openalex.org/W2050075372",
+        "https://openalex.org/W2050670879",
+        "https://openalex.org/W2057391595",
+        "https://openalex.org/W2058476170",
+        "https://openalex.org/W2059668732",
+        "https://openalex.org/W2066134063",
+        "https://openalex.org/W2071086250",
+        "https://openalex.org/W2071172756",
+        "https://openalex.org/W2072896739",
+        "https://openalex.org/W2075496402",
+        "https://openalex.org/W2078012795",
+        "https://openalex.org/W2079215416",
+        "https://openalex.org/W2080203240",
+        "https://openalex.org/W2080382188",
+        "https://openalex.org/W2084625233",
+        "https://openalex.org/W2089841273",
+        "https://openalex.org/W2091794361",
+        "https://openalex.org/W2098123908",
+        "https://openalex.org/W2102947943",
+        "https://openalex.org/W2109217550",
+        "https://openalex.org/W2129362347",
+        "https://openalex.org/W2131050439",
+        "https://openalex.org/W2163663757",
+        "https://openalex.org/W2168040656",
+        "https://openalex.org/W2170074748",
+        "https://openalex.org/W2208117800",
+        "https://openalex.org/W2232873092",
+        "https://openalex.org/W2269272500",
+        "https://openalex.org/W2283724060",
+        "https://openalex.org/W2336717940",
+        "https://openalex.org/W2336738242",
+        "https://openalex.org/W2342151210",
+        "https://openalex.org/W2344338649",
+        "https://openalex.org/W2405276644",
+        "https://openalex.org/W2479124881",
+        "https://openalex.org/W2503651869",
+        "https://openalex.org/W2611693418",
+        "https://openalex.org/W2737693739",
+        "https://openalex.org/W2745395622",
+        "https://openalex.org/W2774346668",
+        "https://openalex.org/W2790393713",
+        "https://openalex.org/W2790944990",
+        "https://openalex.org/W2800282409",
+        "https://openalex.org/W2802333519",
+        "https://openalex.org/W2805901131",
+        "https://openalex.org/W2810132585",
+        "https://openalex.org/W2919602095",
+        "https://openalex.org/W2922373662",
+        "https://openalex.org/W2933643123",
+        "https://openalex.org/W2942164850",
+        "https://openalex.org/W2950249700",
+        "https://openalex.org/W2966308973",
+        "https://openalex.org/W2971645956",
+        "https://openalex.org/W3039188911",
+        "https://openalex.org/W3092402047",
+        "https://openalex.org/W4210348079",
+        "https://openalex.org/W6673034251",
+        "https://openalex.org/W6675573640",
+        "https://openalex.org/W6704417523",
+        "https://openalex.org/W7024133469"
+      ],
+      "related_works": [
+        "https://openalex.org/W2943036979",
+        "https://openalex.org/W186599913",
+        "https://openalex.org/W2277950489",
+        "https://openalex.org/W4315817010",
+        "https://openalex.org/W2078355203",
+        "https://openalex.org/W2920952394",
+        "https://openalex.org/W3126865347",
+        "https://openalex.org/W1574476125",
+        "https://openalex.org/W1003427104",
+        "https://openalex.org/W3146973300"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          64,
+          96,
+          119
+        ],
+        "redeposition": [
+          1
+        ],
+        "of": [
+          2,
+          37,
+          41,
+          56,
+          66,
+          84,
+          177
+        ],
+        "pristine": [
+          3,
+          94,
+          136
+        ],
+        "phosphorite": [
+          4,
+          15,
+          46,
+          62,
+          109,
+          129,
+          172
+        ],
+        "plays": [
+          5
+        ],
+        "an": [
+          6
+        ],
+        "important": [
+          7
+        ],
+        "role": [
+          8
+        ],
+        "in": [
+          9,
+          48,
+          105,
+          126,
+          145,
+          169
+        ],
+        "phosphorus": [
+          10
+        ],
+        "accumulation,": [
+          11
+        ],
+        "which": [
+          12,
+          52
+        ],
+        "created": [
+          13
+        ],
+        "reworked": [
+          14,
+          75,
+          97
+        ],
+        "extensively": [
+          16
+        ],
+        "on": [
+          17,
+          34,
+          111
+        ],
+        "the": [
+          18,
+          35,
+          38,
+          42,
+          57,
+          71,
+          74,
+          78,
+          82,
+          85,
+          93,
+          103,
+          127,
+          133,
+          164,
+          170,
+          178
+        ],
+        "continental": [
+          19
+        ],
+        "shelf.": [
+          20
+        ],
+        "This": [
+          21
+        ],
+        "paper,": [
+          22
+        ],
+        "using": [
+          23
+        ],
+        "geochemical": [
+          24,
+          123,
+          149,
+          181
+        ],
+        "analysis": [
+          25
+        ],
+        "combined": [
+          26
+        ],
+        "with": [
+          27
+        ],
+        "data": [
+          28
+        ],
+        "from": [
+          29,
+          77
+        ],
+        "petrology": [
+          30
+        ],
+        "and": [
+          31,
+          110,
+          115,
+          122,
+          144,
+          155,
+          158,
+          183,
+          185
+        ],
+        "diagenesis,": [
+          32
+        ],
+        "focuses": [
+          33
+        ],
+        "reconstruction": [
+          36
+        ],
+        "formation": [
+          39
+        ],
+        "processes": [
+          40
+        ],
+        "Late": [
+          43
+        ],
+        "Cretaceous": [
+          44
+        ],
+        "Thaniyat": [
+          45,
+          165,
+          171
+        ],
+        "deposition": [
+          47
+        ],
+        "northwestern": [
+          49
+        ],
+        "Saudi": [
+          50
+        ],
+        "Arabia,": [
+          51
+        ],
+        "is": [
+          53
+        ],
+        "a": [
+          54,
+          112,
+          140,
+          146
+        ],
+        "part": [
+          55
+        ],
+        "famous": [
+          58
+        ],
+        "large": [
+          59
+        ],
+        "Neo-Tethys": [
+          60,
+          86
+        ],
+        "Ocean’s": [
+          61,
+          87
+        ],
+        "deposit.": [
+          63
+        ],
+        "results": [
+          65
+        ],
+        "our": [
+          67
+        ],
+        "study": [
+          68
+        ],
+        "illustrate": [
+          69
+        ],
+        "that": [
+          70,
+          132
+        ],
+        "phosphorites": [
+          72
+        ],
+        "represent": [
+          73
+        ],
+        "products": [
+          76
+        ],
+        "north,": [
+          79
+        ],
+        "close": [
+          80
+        ],
+        "to": [
+          81
+        ],
+        "edge": [
+          83
+        ],
+        "shelf,": [
+          88
+        ],
+        "where": [
+          89
+        ],
+        "upwelling": [
+          90
+        ],
+        "had": [
+          91
+        ],
+        "accreted": [
+          92
+        ],
+        "phosphorite.": [
+          95,
+          118
+        ],
+        "phosphatic": [
+          98
+        ],
+        "grains": [
+          99,
+          130
+        ],
+        "were": [
+          100,
+          152
+        ],
+        "redeposited": [
+          101
+        ],
+        "near": [
+          102
+        ],
+        "shore": [
+          104
+        ],
+        "sandstone,": [
+          106
+        ],
+        "forming": [
+          107,
+          163
+        ],
+        "sandy": [
+          108
+        ],
+        "carbonate": [
+          113
+        ],
+        "platform": [
+          114
+        ],
+        "creating": [
+          116
+        ],
+        "calcareous": [
+          117
+        ],
+        "microscale": [
+          120
+        ],
+        "sedimentological": [
+          121
+        ],
+        "information": [
+          124
+        ],
+        "hosted": [
+          125
+        ],
+        "eroded": [
+          128
+        ],
+        "indicates": [
+          131
+        ],
+        "source": [
+          134
+        ],
+        "sediment,": [
+          135
+        ],
+        "phosphorite,": [
+          137
+        ],
+        "occurred": [
+          138
+        ],
+        "under": [
+          139,
+          160
+        ],
+        "fluctuating": [
+          141
+        ],
+        "geophysical": [
+          142
+        ],
+        "condition": [
+          143
+        ],
+        "relatively": [
+          147
+        ],
+        "limited": [
+          148
+        ],
+        "environment.": [
+          150
+        ],
+        "They": [
+          151
+        ],
+        "physically": [
+          153
+        ],
+        "crushed": [
+          154
+        ],
+        "transported": [
+          156
+        ],
+        "landward": [
+          157
+        ],
+        "deposited": [
+          159
+        ],
+        "oxic": [
+          161
+        ],
+        "conditions,": [
+          162
+        ],
+        "phosphorites.": [
+          166
+        ],
+        "Early": [
+          167
+        ],
+        "diagenesis": [
+          168
+        ],
+        "was": [
+          173
+        ],
+        "evidenced": [
+          174
+        ],
+        "by": [
+          175
+        ],
+        "recrystallization": [
+          176
+        ],
+        "phosphate": [
+          179
+        ],
+        "minerals,": [
+          180
+        ],
+        "depletion,": [
+          182
+        ],
+        "C": [
+          184
+        ],
+        "O": [
+          186
+        ],
+        "isotope": [
+          187
+        ],
+        "excursion.": [
+          188
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-06-23T13:55:30.953635",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21976,8 +21981,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -22356,8 +22361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23273,8 +23278,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24196,8 +24201,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -25342,8 +25347,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -26600,8 +26605,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -28947,8 +28952,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -29816,8 +29821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
