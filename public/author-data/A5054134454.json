@@ -12,7 +12,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 34,
-    "cited_by_count": 1126,
+    "cited_by_count": 1127,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 14,
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000867,
+        "value": 0.0000866,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000022,
+        "value": 0.0000219,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -304,7 +304,7 @@
         "year": 2001,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 533
+        "cited_by_count": 534
       },
       {
         "year": 2003,
@@ -370,7 +370,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-06-20T12:17:27",
+    "updated_date": "2026-06-25T12:17:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -4015,16 +4015,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.632,
+      "fwci": 1.6327,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.87840532,
+        "value": 0.87852639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4851,7 +4853,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-26T08:34:08.712188",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10264,20 +10266,22 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 3080,
         "currency": "USD",
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 2.4889,
+      "fwci": 2.4905,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.87414543,
+        "value": 0.8742236,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10600,7 +10604,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-20T20:08:15.867695",
+      "updated_date": "2026-06-26T08:34:08.712188",
       "created_date": "2025-10-10T00:00:00"
     },
     {

@@ -400,8 +400,8 @@
           "raw_author_name": "Wail A. Mousa",
           "raw_affiliation_strings": [
             "King Fahd University of Petroleum and Minerals 1 , Electrical Engineering Department, Dhahran, . E-mail: wailmousa@kfupm.edu.sa ",
-            "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; ",
-            "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia"
+            "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; "
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -412,13 +412,13 @@
               ]
             },
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; ",
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Earth Sciences Department, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Electrical Engineering Department, Dhahran, Saudi Arabia. E-mail: ; ",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -523,16 +523,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.8793,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.7917304,
+        "value": 0.79173078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -799,8 +801,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -1334,7 +1336,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-26T08:34:08.712188",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3577,8 +3579,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -5743,8 +5745,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -6798,16 +6800,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50026954,
+        "value": 0.44218182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7464,7 +7468,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-06-26T08:34:08.712188",
       "created_date": "2026-04-02T00:00:00"
     }
   ]
