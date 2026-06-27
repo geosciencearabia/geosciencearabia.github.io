@@ -10232,6 +10232,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4392659943",
+    "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5100637085",
+      "A5020724652",
+      "A5052716474",
+      "A5060484107",
+      "A5101316414"
+    ],
+    "firstAuthorLastName": "Li",
+    "allAuthors": [
+      "Xiaofan Li",
+      "Han Zheng",
+      "Huan Li",
+      "Scott Whattam",
+      "Wei Pi",
+      "Linlin Zeng"
+    ],
+    "title": "Finite strain, kinematic vorticity, rheological behavior and thermochronology of the Diancang Shan complex: Insights into channel flow of the southeastern Tibetan plateau",
+    "publicationDate": "2024-03-11",
+    "year": 2024,
+    "venue": "Journal of Structural Geology",
+    "citations": 4,
+    "fwci": 1.8374,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Central South University",
+      "Northwest University",
+      "State Key Laboratory of Continental Dynamics",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4409101266",
     "doi": "https://doi.org/10.1016/j.precamres.2025.107765",
     "program": "",
@@ -10268,46 +10308,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Korea Basic Science Institute",
       "Korea University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4392659943",
-    "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5100637085",
-      "A5020724652",
-      "A5052716474",
-      "A5060484107",
-      "A5101316414"
-    ],
-    "firstAuthorLastName": "Li",
-    "allAuthors": [
-      "Xiaofan Li",
-      "Han Zheng",
-      "Huan Li",
-      "Scott Whattam",
-      "Wei Pi",
-      "Linlin Zeng"
-    ],
-    "title": "Finite strain, kinematic vorticity, rheological behavior and thermochronology of the Diancang Shan complex: Insights into channel flow of the southeastern Tibetan plateau",
-    "publicationDate": "2024-03-11",
-    "year": 2024,
-    "venue": "Journal of Structural Geology",
-    "citations": 3,
-    "fwci": 1.3983,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Central South University",
-      "Northwest University",
-      "State Key Laboratory of Continental Dynamics",
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -22361,6 +22361,306 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7166105902",
+    "doi": "https://doi.org/10.5281/zenodo.20935841",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5018815834",
+      "A5107656345",
+      "A5009810098",
+      "A5013976612",
+      "A5075971327",
+      "A5124916382",
+      "A5081444035",
+      "A5033951300",
+      "A5034046654",
+      "A5134215776",
+      "A5010910479",
+      "A5086919759",
+      "A5029740838",
+      "A5073146745",
+      "A5043114681",
+      "A5091663361",
+      "A5078011030",
+      "A5034233480",
+      "A5034527051",
+      "A5067901321",
+      "A5049286867",
+      "A5139409640",
+      "A5059778018",
+      "A5056216860",
+      "A5032601901",
+      "A5064788534",
+      "A5037898760"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric C. Ferré",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen Kutterolf",
+      "Hongyan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Bathymetry",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7166135480",
+    "doi": "https://doi.org/10.5281/zenodo.20935832",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5018815834",
+      "A5107656345",
+      "A5009810098",
+      "A5013976612",
+      "A5075971327",
+      "A5124916382",
+      "A5081444035",
+      "A5033951300",
+      "A5034046654",
+      "A5134215776",
+      "A5010910479",
+      "A5086919759",
+      "A5029740838",
+      "A5073146745",
+      "A5043114681",
+      "A5091663361",
+      "A5078011030",
+      "A5034233480",
+      "A5034527051",
+      "A5067901321",
+      "A5049286867",
+      "A5139409640",
+      "A5059778018",
+      "A5056216860",
+      "A5032601901",
+      "A5064788534",
+      "A5037898760"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric C. Ferré",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen Kutterolf",
+      "Hongyan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Navigation",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7166152330",
+    "doi": "https://doi.org/10.5281/zenodo.20935831",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5018815834",
+      "A5107656345",
+      "A5009810098",
+      "A5013976612",
+      "A5075971327",
+      "A5124916382",
+      "A5081444035",
+      "A5033951300",
+      "A5034046654",
+      "A5134215776",
+      "A5010910479",
+      "A5086919759",
+      "A5029740838",
+      "A5073146745",
+      "A5043114681",
+      "A5091663361",
+      "A5078011030",
+      "A5034233480",
+      "A5034527051",
+      "A5067901321",
+      "A5049286867",
+      "A5139409640",
+      "A5059778018",
+      "A5056216860",
+      "A5032601901",
+      "A5064788534",
+      "A5037898760"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric C. Ferré",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen Kutterolf",
+      "Hongyan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Navigation",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7166200119",
+    "doi": "https://doi.org/10.5281/zenodo.20935840",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5018815834",
+      "A5107656345",
+      "A5009810098",
+      "A5013976612",
+      "A5075971327",
+      "A5124916382",
+      "A5081444035",
+      "A5033951300",
+      "A5034046654",
+      "A5134215776",
+      "A5010910479",
+      "A5086919759",
+      "A5029740838",
+      "A5073146745",
+      "A5043114681",
+      "A5091663361",
+      "A5078011030",
+      "A5034233480",
+      "A5034527051",
+      "A5067901321",
+      "A5049286867",
+      "A5139409640",
+      "A5059778018",
+      "A5056216860",
+      "A5032601901",
+      "A5064788534",
+      "A5037898760"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric C. Ferré",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen Kutterolf",
+      "Hongyan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Bathymetry",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2783004461",
     "doi": "https://doi.org/10.1007/978-3-319-71216-1",
     "program": "",
@@ -24563,8 +24863,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-01-02",
     "year": 2016,
     "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
-    "citations": 21,
-    "fwci": 4.7343,
+    "citations": 22,
+    "fwci": 4.7333,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -24637,7 +24937,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3891,
+    "fwci": 1.3889,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -24650,31 +24950,6 @@ export const worksTable: WorkTableRecord[] = [
       "Equinor (United Kingdom)",
       "Equinor (Norway)"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W3185331725",
-    "doi": "https://doi.org/10.1127/pala/2021/0114",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "A microbialite with its entombed benthic community from the Middle Triassic (Anisian-Ladinian) Muschelkalk Group of Germany",
-    "publicationDate": "2021-07-20",
-    "year": 2021,
-    "venue": "Palaeontographica Abteilung A",
-    "citations": 11,
-    "fwci": 2.8616,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological Studies and Exploration",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2556378784",
@@ -24708,8 +24983,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-11-10",
     "year": 2016,
     "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
-    "citations": 10,
-    "fwci": 1.3363,
+    "citations": 11,
+    "fwci": 1.3366,
     "topics": [
       "Paleontology and Evolutionary Biology",
       "Ichthyology and Marine Biology",
@@ -24725,6 +25000,31 @@ export const worksTable: WorkTableRecord[] = [
       "Peace Arch Hospital",
       "University of Alberta"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W3185331725",
+    "doi": "https://doi.org/10.1127/pala/2021/0114",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "A microbialite with its entombed benthic community from the Middle Triassic (Anisian-Ladinian) Muschelkalk Group of Germany",
+    "publicationDate": "2021-07-20",
+    "year": 2021,
+    "venue": "Palaeontographica Abteilung A",
+    "citations": 11,
+    "fwci": 2.8616,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W4375845990",
@@ -25819,7 +26119,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.2346,
+    "fwci": 2.2351,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -32913,6 +33213,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4412386547",
+    "doi": "https://doi.org/10.1039/d5ta02765a",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5071817303",
+      "A5057002559",
+      "A5101655110",
+      "A5042532738",
+      "A5067724271",
+      "A5017037187"
+    ],
+    "firstAuthorLastName": "Dilpazir",
+    "allAuthors": [
+      "Sobia Dilpazir",
+      "Yuda Prima Hardianto",
+      "Muhammad Imran",
+      "Mohd Yusuf Khan",
+      "Md. Abdul Aziz",
+      "Abduljamiu O. Amao",
+      "Abuzar Khan"
+    ],
+    "title": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "Journal of Materials Chemistry A",
+    "citations": 8,
+    "fwci": 1.9675,
+    "topics": [
+      "Electrocatalysts for Energy Conversion",
+      "Nanomaterials for catalytic reactions",
+      "Ammonia Synthesis and Nitrogen Reduction"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Government College University, Faisalabad"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4400900439",
     "doi": "https://doi.org/10.1016/j.ijhydene.2024.07.272",
     "program": "",
@@ -32943,46 +33283,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4412386547",
-    "doi": "https://doi.org/10.1039/d5ta02765a",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5071817303",
-      "A5057002559",
-      "A5101655110",
-      "A5042532738",
-      "A5067724271",
-      "A5017037187"
-    ],
-    "firstAuthorLastName": "Dilpazir",
-    "allAuthors": [
-      "Sobia Dilpazir",
-      "Yuda Prima Hardianto",
-      "Muhammad Imran",
-      "Mohd Yusuf Khan",
-      "Md. Abdul Aziz",
-      "Abduljamiu O. Amao",
-      "Abuzar Khan"
-    ],
-    "title": "A biomass derived jute carbon integrated FeCoNi alloy as a robust catalyst for alkaline water splitting",
-    "publicationDate": "2025-01-01",
-    "year": 2025,
-    "venue": "Journal of Materials Chemistry A",
-    "citations": 7,
-    "fwci": 1.9455,
-    "topics": [
-      "Electrocatalysts for Energy Conversion",
-      "Nanomaterials for catalytic reactions",
-      "Ammonia Synthesis and Nitrogen Reduction"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Government College University, Faisalabad"
     ]
   },
   {
@@ -33545,7 +33845,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.4419,
+    "fwci": 0.441,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -43232,7 +43532,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Fuel",
     "citations": 5,
-    "fwci": 2.5545,
+    "fwci": 2.5225,
     "topics": [
       "Petroleum Processing and Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -43503,7 +43803,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of African Earth Sciences",
     "citations": 3,
-    "fwci": 1.7821,
+    "fwci": 1.7744,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -45017,7 +45317,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Scientific Reports",
     "citations": 2,
-    "fwci": 11.0484,
+    "fwci": 10.7732,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -51168,7 +51468,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.0989,
+    "fwci": 1.0942,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -53890,7 +54190,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1990-01-01",
     "year": 1990,
     "venue": "",
-    "citations": 220,
+    "citations": 221,
     "fwci": 6.8641,
     "topics": [
       "Geology and Paleoclimatology Research"
@@ -56125,6 +56425,62 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4390776147",
+    "doi": "https://doi.org/10.1016/j.dsr.2024.104231",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5044493337",
+      "A5084551497",
+      "A5022830806",
+      "A5088578920",
+      "A5078637545",
+      "A5040357379",
+      "A5055875066",
+      "A5073737833",
+      "A5072323363",
+      "A5103273761",
+      "A5011379894"
+    ],
+    "firstAuthorLastName": "Sousa",
+    "allAuthors": [
+      "Silvia Helena de Mello e Sousa",
+      "Cíntia Yamashita",
+      "Thaisa Marques Vicente",
+      "Rafaela Nogueira Mendonça Mendes",
+      "Laëtitia Licari",
+      "Maria Virgínia Alves Martins",
+      "Bianca Sung Mi Kim",
+      "Christian Millo",
+      "Renato S. Carreira",
+      "Isabel Montoya-Montes",
+      "Michael A. Kaminski",
+      "Michel Michaelovitch de Mahiques"
+    ],
+    "title": "Living benthic foraminifera from Almirante Câmara and Grussaí canyons and adjacent slope areas (Campos Basin, Southwest Atlantic): Response to trophic and hydrodynamic conditions",
+    "publicationDate": "2024-01-09",
+    "year": 2024,
+    "venue": "Deep Sea Research Part I Oceanographic Research Papers",
+    "citations": 4,
+    "fwci": 1.6394,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Marine and coastal ecosystems",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Universidade de São Paulo",
+      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
+      "Universidade do Estado do Rio de Janeiro",
+      "University of Aveiro",
+      "Universidade Federal do Estado do Rio de Janeiro",
+      "Pontifícia Universidade Católica do Rio de Janeiro",
+      "Universidad de Las Palmas de Gran Canaria",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4285529855",
     "doi": "https://doi.org/10.47894/mpal.67.1.08",
     "program": "",
@@ -56179,62 +56535,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4390776147",
-    "doi": "https://doi.org/10.1016/j.dsr.2024.104231",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5044493337",
-      "A5084551497",
-      "A5022830806",
-      "A5088578920",
-      "A5078637545",
-      "A5040357379",
-      "A5055875066",
-      "A5073737833",
-      "A5072323363",
-      "A5103273761",
-      "A5011379894"
-    ],
-    "firstAuthorLastName": "Sousa",
-    "allAuthors": [
-      "Silvia Helena de Mello e Sousa",
-      "Cíntia Yamashita",
-      "Thaisa Marques Vicente",
-      "Rafaela Nogueira Mendonça Mendes",
-      "Laëtitia Licari",
-      "Maria Virgínia Alves Martins",
-      "Bianca Sung Mi Kim",
-      "Christian Millo",
-      "Renato S. Carreira",
-      "Isabel Montoya-Montes",
-      "Michael A. Kaminski",
-      "Michel Michaelovitch de Mahiques"
-    ],
-    "title": "Living benthic foraminifera from Almirante Câmara and Grussaí canyons and adjacent slope areas (Campos Basin, Southwest Atlantic): Response to trophic and hydrodynamic conditions",
-    "publicationDate": "2024-01-09",
-    "year": 2024,
-    "venue": "Deep Sea Research Part I Oceanographic Research Papers",
-    "citations": 3,
-    "fwci": 1.3447,
-    "topics": [
-      "Marine Biology and Ecology Research",
-      "Marine and coastal ecosystems",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Universidade de São Paulo",
-      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
-      "Universidade do Estado do Rio de Janeiro",
-      "University of Aveiro",
-      "Universidade Federal do Estado do Rio de Janeiro",
-      "Pontifícia Universidade Católica do Rio de Janeiro",
-      "Universidad de Las Palmas de Gran Canaria",
-      "King Fahd University of Petroleum and Minerals"
-    ]
   },
   {
     "workId": "https://openalex.org/W2597110619",
@@ -70346,7 +70646,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 117,
-    "fwci": 18.5543,
+    "fwci": 18.5547,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -75107,6 +75407,46 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W3022076686",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039734802",
+    "allAuthorOpenAlexIds": [
+      "A5039734802",
+      "A5078527918",
+      "A5053204048",
+      "A5039827691",
+      "A5091693941",
+      "A5065433002",
+      "A5072925053"
+    ],
+    "firstAuthorLastName": "Cantrell",
+    "allAuthors": [
+      "Dave L. Cantrell",
+      "Rayees Ahmad Shah",
+      "Jingxing Ou",
+      "Chuan Xu",
+      "Christopher Phillips",
+      "X.L. Li",
+      "Tingting Hu"
+    ],
+    "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
+    "publicationDate": "2020-04-29",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 42,
+    "fwci": 9.3346,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Houston Independent School District",
+      "Rocky Mountain Biological Laboratory"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2312299597",
     "doi": "https://doi.org/10.1111/sed.12286",
     "program": "",
@@ -75140,46 +75480,6 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Aramco (Saudi Arabia)",
       "Saudi Aramco (United States)",
       "Desert Research Institute"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3022076686",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039734802",
-    "allAuthorOpenAlexIds": [
-      "A5039734802",
-      "A5078527918",
-      "A5053204048",
-      "A5039827691",
-      "A5091693941",
-      "A5065433002",
-      "A5072925053"
-    ],
-    "firstAuthorLastName": "Cantrell",
-    "allAuthors": [
-      "Dave L. Cantrell",
-      "Rayees Ahmad Shah",
-      "Jingxing Ou",
-      "Chuan Xu",
-      "Christopher Phillips",
-      "X.L. Li",
-      "Tingting Hu"
-    ],
-    "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
-    "publicationDate": "2020-04-29",
-    "year": 2020,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 41,
-    "fwci": 9.2827,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Houston Independent School District",
-      "Rocky Mountain Biological Laboratory"
     ]
   },
   {
@@ -88533,8 +88833,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3401,
-    "fwci": 71.9487,
+    "citations": 3403,
+    "fwci": 71.9327,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88578,8 +88878,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2005-04-04",
     "year": 2005,
     "venue": "Earth-Science Reviews",
-    "citations": 927,
-    "fwci": 26.9969,
+    "citations": 928,
+    "fwci": 27.0022,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -88620,8 +88920,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 796,
-    "fwci": 25.0298,
+    "citations": 797,
+    "fwci": 25.018,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -93618,7 +93918,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 32,
-    "fwci": 8.2789,
+    "fwci": 8.2718,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -108236,8 +108536,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-02-01",
     "year": 2009,
     "venue": "Energy Procedia",
-    "citations": 169,
-    "fwci": 9.44,
+    "citations": 170,
+    "fwci": 9.4342,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geological Modeling and Analysis",
@@ -109732,43 +110032,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4401444371",
-    "doi": "https://doi.org/10.1038/s41598-024-69536-8",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5006028315",
-      "A5078588753",
-      "A5045424185",
-      "A5087068443"
-    ],
-    "firstAuthorLastName": "Harishidayat",
-    "allAuthors": [
-      "Dicky Harishidayat",
-      "Yakufu Niyazi",
-      "Heather Stewart",
-      "Abdullatif Al‐Shuhail",
-      "Alan J. Jamieson"
-    ],
-    "title": "Submarine canyon development controlled by slope failure and oceanographic process interactions",
-    "publicationDate": "2024-08-09",
-    "year": 2024,
-    "venue": "Scientific Reports",
-    "citations": 6,
-    "fwci": 2.6633,
-    "topics": [
-      "Geological formations and processes",
-      "Methane Hydrates and Related Phenomena",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "The University of Western Australia",
-      "ET Enterprises (United Kingdom)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4389450736",
     "doi": "https://doi.org/10.1029/2023ea003014",
     "program": "",
@@ -110299,6 +110562,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4401444371",
+    "doi": "https://doi.org/10.1038/s41598-024-69536-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5006028315",
+      "A5078588753",
+      "A5045424185",
+      "A5087068443"
+    ],
+    "firstAuthorLastName": "Harishidayat",
+    "allAuthors": [
+      "Dicky Harishidayat",
+      "Yakufu Niyazi",
+      "Heather Stewart",
+      "Abdullatif Al‐Shuhail",
+      "Alan J. Jamieson"
+    ],
+    "title": "Submarine canyon development controlled by slope failure and oceanographic process interactions",
+    "publicationDate": "2024-08-09",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 6,
+    "fwci": 2.6256,
+    "topics": [
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "The University of Western Australia",
+      "ET Enterprises (United Kingdom)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4403691116",
     "doi": "https://doi.org/10.1038/s41598-024-75980-3",
     "program": "",
@@ -110387,46 +110687,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4416764301",
-    "doi": "https://doi.org/10.1038/s41598-025-29863-w",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5094215875",
-      "A5078913490",
-      "A5055256846",
-      "A5077467560",
-      "A5036597341"
-    ],
-    "firstAuthorLastName": "Eleslambouly",
-    "allAuthors": [
-      "Ahmed Eleslambouly",
-      "Mohammed Y. Ali",
-      "Fateh Bouchaala",
-      "Ammar El-Husseiny",
-      "Abdullatif Al‐Shuhail",
-      "Sherif M. Hanafy",
-      "Jun Matsushima"
-    ],
-    "title": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
-    "publicationDate": "2025-11-27",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 1,
-    "fwci": 1.3607,
-    "topics": [
-      "Seismic Waves and Analysis",
-      "Seismic Imaging and Inversion Techniques",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Khalifa University of Science and Technology",
-      "King Fahd University of Petroleum and Minerals",
-      "The University of Tokyo"
     ]
   },
   {
@@ -110928,6 +111188,46 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4416764301",
+    "doi": "https://doi.org/10.1038/s41598-025-29863-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5094215875",
+      "A5078913490",
+      "A5055256846",
+      "A5077467560",
+      "A5036597341"
+    ],
+    "firstAuthorLastName": "Eleslambouly",
+    "allAuthors": [
+      "Ahmed Eleslambouly",
+      "Mohammed Y. Ali",
+      "Fateh Bouchaala",
+      "Ammar El-Husseiny",
+      "Abdullatif Al‐Shuhail",
+      "Sherif M. Hanafy",
+      "Jun Matsushima"
+    ],
+    "title": "Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation",
+    "publicationDate": "2025-11-27",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 1,
+    "fwci": 1.2951,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Khalifa University of Science and Technology",
+      "King Fahd University of Petroleum and Minerals",
+      "The University of Tokyo"
     ]
   },
   {
@@ -128187,8 +128487,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-02-14",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 112,
-    "fwci": 17.6168,
+    "citations": 113,
+    "fwci": 17.2754,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "CO2 Sequestration and Geologic Interactions",
@@ -134042,7 +134342,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 3.2466,
+    "fwci": 3.2468,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -137143,8 +137443,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 729,
-    "fwci": 13.5204,
+    "citations": 730,
+    "fwci": 13.5201,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -142382,8 +142682,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-07-09",
     "year": 2013,
     "venue": "Geosciences",
-    "citations": 103,
-    "fwci": 8.1878,
+    "citations": 104,
+    "fwci": 8.1862,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -143430,7 +143730,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1989,
     "venue": "The British Journal of Mental Subnormality",
     "citations": 18,
-    "fwci": 1.3605,
+    "fwci": 1.3609,
     "topics": [
       "Gender, Security, and Conflict",
       "Gender Diversity and Inequality"

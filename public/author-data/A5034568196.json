@@ -10,10 +10,10 @@
       "Mohammed Benaafi"
     ],
     "full_name": "Benaafi, Mohammed",
-    "works_count": 75,
+    "works_count": 76,
     "cited_by_count": 1051,
     "summary_stats": {
-      "2yr_mean_citedness": 5.233333333333333,
+      "2yr_mean_citedness": 5.064516129032258,
       "h_index": 21,
       "i10_index": 32
     },
@@ -66,7 +66,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "count": 23,
+        "count": 24,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -83,7 +83,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "count": 16,
+        "count": 17,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -153,7 +153,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0001978,
+        "value": 0.00021,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001626,
+        "value": 0.0001697,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -253,7 +253,7 @@
         "id": "39432304",
         "wikidata": "https://www.wikidata.org/wiki/Q188847",
         "display_name": "Environmental science",
-        "score": 0.7142999768257141
+        "score": 0.7818999886512756
       },
       {
         "id": "187320778",
@@ -343,8 +343,8 @@
       },
       {
         "year": 2026,
-        "works_count": 3,
-        "oa_works_count": 2,
+        "works_count": 4,
+        "oa_works_count": 3,
         "cited_by_count": 0
       }
     ],
@@ -356,7 +356,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-06-25T12:17:42",
+    "updated_date": "2026-06-26T12:17:53",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -44929,7 +44929,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -44991,7 +44991,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -45531,11 +45531,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.0989,
+      "fwci": 1.0942,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78957452,
+        "value": 0.78892865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46489,7 +46489,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-06-27T08:28:00.272161",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -76301,7 +76301,7 @@
         "id": "doi:10.3390/earth7040107",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/earth7040107",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/2673-4834/7/4/107/pdf?version=1782394945",
         "source": {
           "id": "https://openalex.org/S4210215648",
           "display_name": "Earth",
@@ -76338,7 +76338,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://doi.org/10.3390/earth7040107",
+        "oa_url": "https://www.mdpi.com/2673-4834/7/4/107/pdf?version=1782394945",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -76364,7 +76364,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohammed Benaafi",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -76482,7 +76482,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Husam Musa Baalousha",
           "raw_affiliation_strings": [
             "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -76545,8 +76545,13 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034568196",
+        "https://openalex.org/A5068126932"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 1000,
         "currency": "CHF",
@@ -76558,10 +76563,10 @@
         "value_usd": 1082
       },
       "fwci": 0,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91907733,
+        "value": 0.91368936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -76850,7 +76855,7 @@
           "id": "doi:10.3390/earth7040107",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/earth7040107",
-          "pdf_url": null,
+          "pdf_url": "https://www.mdpi.com/2673-4834/7/4/107/pdf?version=1782394945",
           "source": {
             "id": "https://openalex.org/S4210215648",
             "display_name": "Earth",
@@ -76884,7 +76889,7 @@
         "id": "doi:10.3390/earth7040107",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/earth7040107",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/2673-4834/7/4/107/pdf?version=1782394945",
         "source": {
           "id": "https://openalex.org/S4210215648",
           "display_name": "Earth",
@@ -76920,13 +76925,30 @@
           "display_name": "Clean water and sanitation"
         }
       ],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3137302080",
+          "display_name": null,
+          "funder_award_id": "INMW2614",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7165841200.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7165841200.grobid-xml"
+      },
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [],
@@ -77597,7 +77619,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-06-27T08:28:00.272161",
       "created_date": "2026-06-26T00:00:00"
     }
   ]
