@@ -8742,6 +8742,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4404428452",
+    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5036162476",
+      "A5101767240",
+      "A5081759059"
+    ],
+    "firstAuthorLastName": "Ndonfack",
+    "allAuthors": [
+      "Kevin Igor Azeuda Ndonfack",
+      "Zhiming Yang",
+      "Jinlin Zhang",
+      "Scott Whattam",
+      "Yuling Xie"
+    ],
+    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
+    "publicationDate": "2024-11-14",
+    "year": 2024,
+    "venue": "International Geology Review",
+    "citations": 13,
+    "fwci": 3.8706,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Geological Sciences",
+      "Czech Academy of Sciences, Institute of Geology",
+      "Institute of Mining",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Science and Technology Beijing"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4407964081",
     "doi": "https://doi.org/10.1016/j.gexplo.2025.107738",
     "program": "",
@@ -9853,44 +9891,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Shandong Geological Sciences Institute",
       "China Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4404428452",
-    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5036162476",
-      "A5101767240",
-      "A5081759059"
-    ],
-    "firstAuthorLastName": "Ndonfack",
-    "allAuthors": [
-      "Kevin Igor Azeuda Ndonfack",
-      "Zhiming Yang",
-      "Jinlin Zhang",
-      "Scott Whattam",
-      "Yuling Xie"
-    ],
-    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
-    "publicationDate": "2024-11-14",
-    "year": 2024,
-    "venue": "International Geology Review",
-    "citations": 12,
-    "fwci": 3.5883,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Geological Sciences",
-      "Czech Academy of Sciences, Institute of Geology",
-      "Institute of Mining",
-      "King Fahd University of Petroleum and Minerals",
-      "University of Science and Technology Beijing"
     ]
   },
   {
@@ -33845,7 +33845,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.441,
+    "fwci": 0.4407,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -51361,6 +51361,33 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4396922243",
+    "doi": "https://doi.org/10.1190/geo2023-0588.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5077467560"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Mohammed Benaafi"
+    ],
+    "title": "Investigating seawater intrusion and salinization using the integration of hydrochemical and geoelectrical techniques",
+    "publicationDate": "2024-01-09",
+    "year": 2024,
+    "venue": "Geophysics",
+    "citations": 4,
+    "fwci": 1.8361,
+    "topics": [
+      "Geophysical and Geoelectrical Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4407686865",
     "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
     "program": "",
@@ -51468,7 +51495,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.0942,
+    "fwci": 1.0926,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -51562,33 +51589,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Aligarh Muslim University",
       "Universiti Malaysia Kelantan"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4396922243",
-    "doi": "https://doi.org/10.1190/geo2023-0588.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5077467560"
-    ],
-    "firstAuthorLastName": "Hanafy",
-    "allAuthors": [
-      "Sherif M. Hanafy",
-      "Mohammed Benaafi"
-    ],
-    "title": "Investigating seawater intrusion and salinization using the integration of hydrochemical and geoelectrical techniques",
-    "publicationDate": "2024-01-09",
-    "year": 2024,
-    "venue": "Geophysics",
-    "citations": 3,
-    "fwci": 1.3809,
-    "topics": [
-      "Geophysical and Geoelectrical Methods"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -77960,8 +77960,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-01",
     "year": 2023,
     "venue": "Facies",
-    "citations": 4,
-    "fwci": 0.7904,
+    "citations": 5,
+    "fwci": 0.9761,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Methane Hydrates and Related Phenomena",
@@ -88144,7 +88144,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 32.0468,
+    "fwci": 32.0355,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -88833,7 +88833,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3403,
+    "citations": 3405,
     "fwci": 71.9327,
     "topics": [
       "Geological and Geochemical Analysis",
@@ -89093,8 +89093,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 471,
-    "fwci": 39.0939,
+    "citations": 472,
+    "fwci": 39.0935,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90884,8 +90884,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-08-31",
     "year": 2024,
     "venue": "Geoscience Frontiers",
-    "citations": 24,
-    "fwci": 11.8451,
+    "citations": 25,
+    "fwci": 11.4753,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93918,7 +93918,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 32,
-    "fwci": 8.2718,
+    "fwci": 8.2667,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -116771,8 +116771,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-09-02",
     "year": 2020,
     "venue": "Marine and Petroleum Geology",
-    "citations": 87,
-    "fwci": 5.959,
+    "citations": 88,
+    "fwci": 5.9586,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Hydrocarbon exploration and reservoir analysis",
@@ -117220,6 +117220,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4309475270",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2022.106298",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5049763880",
+      "A5087099749",
+      "A5061005201"
+    ],
+    "firstAuthorLastName": "Ho",
+    "allAuthors": [
+      "Madison Ho",
+      "Sidhant Idgunji",
+      "Jonathan L. Payne",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "Hierarchical multi-label taxonomic classification of carbonate skeletal grains with deep learning",
+    "publicationDate": "2022-11-18",
+    "year": 2022,
+    "venue": "Sedimentary Geology",
+    "citations": 18,
+    "fwci": 2.2203,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Genomics and Phylogenetic Studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Boston University Academy",
+      "Keck Graduate Institute",
+      "Stanford University",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4386136950",
     "doi": "https://doi.org/10.1038/s41598-023-40904-0",
     "program": "",
@@ -117247,42 +117283,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4309475270",
-    "doi": "https://doi.org/10.1016/j.sedgeo.2022.106298",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5049763880",
-      "A5087099749",
-      "A5061005201"
-    ],
-    "firstAuthorLastName": "Ho",
-    "allAuthors": [
-      "Madison Ho",
-      "Sidhant Idgunji",
-      "Jonathan L. Payne",
-      "Ardiansyah Koeshidayatullah"
-    ],
-    "title": "Hierarchical multi-label taxonomic classification of carbonate skeletal grains with deep learning",
-    "publicationDate": "2022-11-18",
-    "year": 2022,
-    "venue": "Sedimentary Geology",
-    "citations": 17,
-    "fwci": 2.2069,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Genomics and Phylogenetic Studies",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "Boston University Academy",
-      "Keck Graduate Institute",
-      "Stanford University",
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -120850,8 +120850,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-08",
     "year": 2022,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 11,
-    "fwci": 1.3141,
+    "citations": 12,
+    "fwci": 1.3131,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -124321,7 +124321,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "International journal of greenhouse gas control",
     "citations": 57,
-    "fwci": 4.3292,
+    "fwci": 4.3311,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -128565,8 +128565,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-09-04",
     "year": 2024,
     "venue": "Fuel",
-    "citations": 46,
-    "fwci": 10.7322,
+    "citations": 47,
+    "fwci": 10.7489,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -131105,8 +131105,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-12-25",
     "year": 2023,
     "venue": "Marine and Petroleum Geology",
-    "citations": 11,
-    "fwci": 8.114,
+    "citations": 12,
+    "fwci": 8.7552,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -134342,7 +134342,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 3.2468,
+    "fwci": 3.247,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -138298,7 +138298,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 1.9425,
+    "fwci": 1.9364,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",

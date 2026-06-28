@@ -44,7 +44,7 @@
           "ror": "https://ror.org/05hnb7x64",
           "display_name": "Bureau de Recherches Géologiques et Minières",
           "country_code": "FR",
-          "type": "facility",
+          "type": "government",
           "lineage": [
             "https://openalex.org/I4210158893"
           ]
@@ -201,7 +201,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000704,
+        "value": 0.0000703,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -424,7 +424,7 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-06-25T12:17:42",
+    "updated_date": "2026-06-27T12:18:00",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
