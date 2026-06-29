@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1295,
-    "citations": 24288
+    "citations": 24290
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 1055,
-    "citations": 29820
+    "citations": 29821
   },
   {
     "id": "https://openalex.org/T10017",
@@ -50,7 +50,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 579,
-    "citations": 11236
+    "citations": 11237
   },
   {
     "id": "https://openalex.org/T12157",
@@ -320,7 +320,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12083",
     "name": "Karst Systems and Hydrogeology",
     "publications": 21,
-    "citations": 189
+    "citations": 190
   },
   {
     "id": "https://openalex.org/T14163",
@@ -344,7 +344,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12218",
     "name": "Coal and Its By-products",
     "publications": 19,
-    "citations": 358
+    "citations": 359
   },
   {
     "id": "https://openalex.org/T11634",
@@ -1862,19 +1862,19 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10225",
     "name": "Essential Oils and Antimicrobial Activity",
     "publications": 1,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/T10920",
     "name": "Advanced Drug Delivery Systems",
     "publications": 1,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/T10704",
     "name": "Advancements in Transdermal Drug Delivery",
     "publications": 1,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/T11541",
@@ -3677,7 +3677,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 925,
-    "citations": 10581
+    "citations": 10582
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3695,7 +3695,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 170,
-    "citations": 4227
+    "citations": 4228
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3713,7 +3713,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I33849332",
     "name": "University of Malaya",
     "publications": 109,
-    "citations": 3338
+    "citations": 3339
   },
   {
     "id": "https://openalex.org/I47818738",
@@ -3977,7 +3977,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I44461941",
     "name": "University of Houston",
     "publications": 22,
-    "citations": 488
+    "citations": 489
   },
   {
     "id": "https://openalex.org/I177877127",
@@ -6917,7 +6917,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I12315562",
     "name": "Texas Tech University",
     "publications": 2,
-    "citations": 110
+    "citations": 111
   },
   {
     "id": "https://openalex.org/I4210108136",
@@ -8354,16 +8354,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 112
   },
   {
-    "id": "https://openalex.org/I102373834",
-    "name": "Bryn Mawr College",
+    "id": "https://openalex.org/I926076166",
+    "name": "Texas Tech University Health Sciences Center",
     "publications": 1,
     "citations": 110
   },
   {
-    "id": "https://openalex.org/I926076166",
-    "name": "Texas Tech University Health Sciences Center",
+    "id": "https://openalex.org/I102373834",
+    "name": "Bryn Mawr College",
     "publications": 1,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/I2803100473",

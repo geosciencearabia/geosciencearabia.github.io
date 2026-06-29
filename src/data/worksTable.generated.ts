@@ -2164,8 +2164,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-12-20",
     "year": 2021,
     "venue": "Biomaterials Science",
-    "citations": 109,
-    "fwci": 9.9796,
+    "citations": 110,
+    "fwci": 9.9792,
     "topics": [
       "Essential Oils and Antimicrobial Activity",
       "Advanced Drug Delivery Systems",
@@ -24937,7 +24937,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.3889,
+    "fwci": 1.3888,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -33845,7 +33845,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.4407,
+    "fwci": 0.4404,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -43105,6 +43105,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4399334691",
+    "doi": "https://doi.org/10.1007/s40789-024-00690-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5036709564",
+      "A5061703841",
+      "A5048429617",
+      "A5078426374"
+    ],
+    "firstAuthorLastName": "Asiwaju",
+    "allAuthors": [
+      "Lanre Asiwaju",
+      "Khairul Azlan Mustapha",
+      "Wan Hasiah Abdullah",
+      "Say Gee Sia",
+      "Mohammed Hail Hakimi"
+    ],
+    "title": "Geochemistry of Cenozoic coals from Sarawak Basin, Malaysia: implications for paleoclimate, depositional conditions, and controls on petroleum potential",
+    "publicationDate": "2024-06-04",
+    "year": 2024,
+    "venue": "International Journal of Coal Science & Technology",
+    "citations": 10,
+    "fwci": 2.285,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Coal and Its By-products"
+    ],
+    "institutions": [
+      "University of Malaya",
+      "Taiz University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4297492348",
     "doi": "https://doi.org/10.1007/s13369-022-07242-1",
     "program": "",
@@ -43155,42 +43191,6 @@ export const worksTable: WorkTableRecord[] = [
       "Jagiellonian University",
       "Instytut Nauk Geologicznych",
       "Usmanu Danfodiyo University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4399334691",
-    "doi": "https://doi.org/10.1007/s40789-024-00690-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5036709564",
-      "A5061703841",
-      "A5048429617",
-      "A5078426374"
-    ],
-    "firstAuthorLastName": "Asiwaju",
-    "allAuthors": [
-      "Lanre Asiwaju",
-      "Khairul Azlan Mustapha",
-      "Wan Hasiah Abdullah",
-      "Say Gee Sia",
-      "Mohammed Hail Hakimi"
-    ],
-    "title": "Geochemistry of Cenozoic coals from Sarawak Basin, Malaysia: implications for paleoclimate, depositional conditions, and controls on petroleum potential",
-    "publicationDate": "2024-06-04",
-    "year": 2024,
-    "venue": "International Journal of Coal Science & Technology",
-    "citations": 9,
-    "fwci": 2.1057,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Coal and Its By-products"
-    ],
-    "institutions": [
-      "University of Malaya",
-      "Taiz University"
     ]
   },
   {
@@ -51495,7 +51495,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.0926,
+    "fwci": 1.0908,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -88060,7 +88060,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 135.4129,
+    "fwci": 135.4161,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88549,7 +88549,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.8799,
+    "fwci": 2.88,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -130665,6 +130665,37 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7139925539",
+    "doi": "https://doi.org/10.1016/j.mex.2026.103875",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5080643603",
+    "allAuthorOpenAlexIds": [
+      "A5080643603",
+      "A5094009312",
+      "A5125330854"
+    ],
+    "firstAuthorLastName": "Aljurf",
+    "allAuthors": [
+      "Samer Aljurf",
+      "Israa  S. Abu-Mahfouz",
+      "Septriandi A. Chan"
+    ],
+    "title": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
+    "publicationDate": "2026-03-20",
+    "year": 2026,
+    "venue": "MethodsX",
+    "citations": 1,
+    "fwci": 17.6258,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Karst Systems and Hydrogeology"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4389081463",
     "doi": "https://doi.org/10.1306/51649humphrey2020",
     "program": "",
@@ -131012,37 +131043,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "King Abdullah University of Science and Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W7139925539",
-    "doi": "https://doi.org/10.1016/j.mex.2026.103875",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5080643603",
-    "allAuthorOpenAlexIds": [
-      "A5080643603",
-      "A5094009312",
-      "A5125330854"
-    ],
-    "firstAuthorLastName": "Aljurf",
-    "allAuthors": [
-      "Samer Aljurf",
-      "Israa  S. Abu-Mahfouz",
-      "Septriandi A. Chan"
-    ],
-    "title": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
-    "publicationDate": "2026-03-20",
-    "year": 2026,
-    "venue": "MethodsX",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Karst Systems and Hydrogeology"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -138298,7 +138298,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 1.9364,
+    "fwci": 1.9352,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",

@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 185,
-    "totalCitations": 2634,
+    "totalCitations": 2635,
     "hIndex": 26
   },
   {
@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 404,
-    "totalCitations": 19613,
+    "totalCitations": 19617,
     "hIndex": 70
   },
   {
@@ -324,7 +324,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 163,
-    "totalCitations": 2972,
+    "totalCitations": 2973,
     "hIndex": 31
   },
   {
@@ -342,7 +342,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 76,
-    "totalCitations": 1051,
+    "totalCitations": 1052,
     "hIndex": 21
   },
   {
@@ -522,7 +522,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 66,
-    "totalCitations": 703,
+    "totalCitations": 704,
     "hIndex": 15
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 254,
-    "totalCitations": 3479,
+    "totalCitations": 3480,
     "hIndex": 27
   },
   {
@@ -738,7 +738,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 122,
-    "totalCitations": 1610,
+    "totalCitations": 1611,
     "hIndex": 23
   },
   {
@@ -756,8 +756,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 43,
-    "totalCitations": 493,
-    "hIndex": 11
+    "totalCitations": 494,
+    "hIndex": 12
   },
   {
     "authorId": "idb0041-alsuwaidi-mohammad",
@@ -900,7 +900,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 14,
-    "totalCitations": 122,
+    "totalCitations": 123,
     "hIndex": 8
   },
   {
@@ -918,8 +918,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 93,
-    "totalCitations": 1010,
-    "hIndex": 17
+    "totalCitations": 1012,
+    "hIndex": 18
   },
   {
     "authorId": "idb0050-herlambang-adhipa",
