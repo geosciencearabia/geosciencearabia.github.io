@@ -568,7 +568,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-06-28T12:17:35",
+    "updated_date": "2026-06-30T12:16:19",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -658,11 +658,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 13.8898,
+      "fwci": 14.0625,
       "has_fulltext": false,
-      "cited_by_count": 173,
+      "cited_by_count": 174,
       "citation_normalized_percentile": {
-        "value": 0.98461538,
+        "value": 0.98492462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -970,7 +970,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -1005,7 +1005,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-06-10T14:10:52.464848",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2437,11 +2437,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 14.5923,
+      "fwci": 14.3478,
       "has_fulltext": false,
-      "cited_by_count": 128,
+      "cited_by_count": 129,
       "citation_normalized_percentile": {
-        "value": 0.99349649,
+        "value": 0.99337114,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2948,7 +2948,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -2979,7 +2979,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-06-16T09:24:06.705377",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34153,8 +34153,8 @@
           "raw_author_name": "Paul Baville",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5686-5554",
           "affiliations": [
@@ -34167,14 +34167,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -34397,8 +34397,8 @@
           "raw_author_name": "Christophe Antoine",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -34411,14 +34411,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -34587,11 +34587,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3849,
+      "fwci": 1.3645,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81886792,
+        "value": 0.8159627,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35037,7 +35037,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-30T13:55:48.251075",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62137,11 +62137,11 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 2.2291,
+      "fwci": 2.1314,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88521051,
+        "value": 0.87994143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62489,6 +62489,13 @@
           "funder_award_id": "41890844",
           "funder_id": "https://openalex.org/F4320322439",
           "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G1474490597",
+          "display_name": null,
+          "funder_award_id": "111 Project",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
         },
         {
           "id": "https://openalex.org/G1803178129",
@@ -63137,7 +63144,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-30T13:55:48.251075",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78620,20 +78627,20 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -78709,20 +78716,20 @@
           "is_corresponding": false,
           "raw_author_name": "Caumon, Guillaume",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Ecole Nationale Supérieure de Géologie"
+            "Ecole Nationale Supérieure de Géologie",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             }
           ]
         }
@@ -78738,7 +78745,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.138462,
+        "value": 0.13819761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79013,7 +79020,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-29T08:53:18.405633",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79241,7 +79248,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -79630,7 +79637,7 @@
           "is_accepted": false,
           "is_published": null,
           "raw_source_name": null,
-          "raw_type": "dataset"
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
@@ -79740,7 +79747,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79782,7 +79789,7 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_type": "Dataset"
       },
       "type": "dataset",
       "indexed_in": [
@@ -79968,7 +79975,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -80306,7 +80313,7 @@
           "is_accepted": false,
           "is_published": null,
           "raw_source_name": null,
-          "raw_type": "dataset"
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
@@ -80336,7 +80343,7 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "dataset"
+        "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -80416,7 +80423,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80644,7 +80651,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -81016,7 +81023,7 @@
           "is_accepted": false,
           "is_published": null,
           "raw_source_name": null,
-          "raw_type": "dataset"
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
@@ -81126,7 +81133,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-01T08:55:40.977307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
