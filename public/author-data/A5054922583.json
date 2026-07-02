@@ -22,7 +22,7 @@
     ],
     "full_name": "Abdullatif Abdulrahman Al-Shuhail",
     "works_count": 171,
-    "cited_by_count": 1299,
+    "cited_by_count": 1302,
     "summary_stats": {
       "2yr_mean_citedness": 3.096774193548387,
       "h_index": 21,
@@ -308,7 +308,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.000402,
+        "value": 0.0004019,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -325,7 +325,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0002065,
+        "value": 0.0002063,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -342,7 +342,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0001479,
+        "value": 0.0001478,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -359,7 +359,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001371,
+        "value": 0.0001368,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -376,7 +376,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001248,
+        "value": 0.0001247,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -512,7 +512,7 @@
         "year": 2020,
         "works_count": 8,
         "oa_works_count": 2,
-        "cited_by_count": 95
+        "cited_by_count": 96
       },
       {
         "year": 2021,
@@ -524,7 +524,7 @@
         "year": 2022,
         "works_count": 13,
         "oa_works_count": 10,
-        "cited_by_count": 91
+        "cited_by_count": 93
       },
       {
         "year": 2023,
@@ -570,7 +570,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-06-28T12:17:35",
+    "updated_date": "2026-07-01T12:17:10",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -16036,7 +16036,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -16049,11 +16049,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 3.5017,
+      "fwci": 3.3376,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.9198321,
+        "value": 0.9158747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16409,18 +16409,18 @@
           "landing_page_url": "http://arxiv.org/abs/1611.03754",
           "pdf_url": "https://arxiv.org/pdf/1611.03754",
           "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "id": "https://openalex.org/S4393918464",
+            "display_name": "ArXiv.org",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -16957,7 +16957,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-02T09:51:11.867554",
       "created_date": "2016-11-30T00:00:00"
     },
     {
@@ -32151,7 +32151,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5054922583"
       ],
@@ -32164,11 +32164,11 @@
         "value_usd": 3000
       },
       "apc_paid": null,
-      "fwci": 2.0484,
+      "fwci": 1.9516,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.83827893,
+        "value": 0.83025948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32517,18 +32517,18 @@
           "landing_page_url": "http://arxiv.org/abs/1703.03154",
           "pdf_url": "https://arxiv.org/pdf/1703.03154",
           "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "id": "https://openalex.org/S4393918464",
+            "display_name": "ArXiv.org",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -32547,18 +32547,18 @@
         "landing_page_url": "http://arxiv.org/abs/1703.03154",
         "pdf_url": "https://arxiv.org/pdf/1703.03154",
         "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -32661,7 +32661,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-02T09:51:11.867554",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44683,11 +44683,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.6256,
+      "fwci": 2.4625,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.88387873,
+        "value": 0.87553549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45035,7 +45035,7 @@
           "is_accepted": true,
           "is_published": true,
           "raw_source_name": "Harishidayat, D, Niyazi, Y, Stewart, H A, Al-Shuhail, A & Jamieson, A J 2024, 'Submarine canyon development controlled by slope failure and oceanographic process interactions', Scientific Reports, vol. 14, no. 1, 18486. https://doi.org/10.1038/s41598-024-69536-8",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:pubmedcentral.nih.gov:11316078",
@@ -45799,7 +45799,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-27T08:28:00.272161",
+      "updated_date": "2026-07-02T09:51:11.867554",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79665,21 +79665,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2278,
+      "fwci": 0.2168,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.56450832,
+        "value": 0.54365937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 95
       },
       "biblio": {
@@ -80276,7 +80276,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-02T09:51:11.867554",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -87211,12 +87211,12 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.0788785,
+        "value": 0.07916313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -87397,8 +87397,8 @@
           "landing_page_url": "https://hdl.handle.net/1969.1/ETD-TAMU-1993-THESIS-A316",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400291",
-            "display_name": "OakTrust (Texas A&M University Libraries)",
+            "id": "https://openalex.org/S4306401674",
+            "display_name": "OAKTRUST (Texas A&M University)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -87563,7 +87563,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-02T09:51:11.867554",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -115592,7 +115592,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T08:55:40.977307",
+      "updated_date": "2026-07-01T06:00:48.157686",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -133802,7 +133802,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T08:55:40.977307",
+      "updated_date": "2026-07-01T06:00:48.157686",
       "created_date": "2024-04-08T00:00:00"
     },
     {

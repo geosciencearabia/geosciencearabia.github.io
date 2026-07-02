@@ -166,7 +166,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5009697450",
     "year": 2021,
-    "citations": 110
+    "citations": 111
   },
   {
     "authorId": "A5009697450",
@@ -221,7 +221,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5010401681",
     "year": 2003,
-    "citations": 291
+    "citations": 292
   },
   {
     "authorId": "A5010401681",
@@ -895,11 +895,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5011750653",
-    "year": 2021,
-    "citations": 6
-  },
-  {
-    "authorId": "A5011750653",
     "year": 2020,
     "citations": 5
   },
@@ -937,6 +932,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5011750653",
     "year": 2015,
     "citations": 8
+  },
+  {
+    "authorId": "A5011750653",
+    "year": 2021,
+    "citations": 6
   },
   {
     "authorId": "A5011750653",
@@ -1766,7 +1766,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5013195813",
     "year": 2017,
-    "citations": 174
+    "citations": 175
   },
   {
     "authorId": "A5013195813",
@@ -1776,7 +1776,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5013195813",
     "year": 2019,
-    "citations": 129
+    "citations": 130
   },
   {
     "authorId": "A5013195813",
@@ -1920,12 +1920,12 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5013195813",
-    "year": 2017,
-    "citations": 5
+    "year": 2024,
+    "citations": 6
   },
   {
     "authorId": "A5013195813",
-    "year": 2024,
+    "year": 2017,
     "citations": 5
   },
   {
@@ -2351,7 +2351,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5027197211",
     "year": 2023,
-    "citations": 46
+    "citations": 47
   },
   {
     "authorId": "A5027197211",
@@ -2491,7 +2491,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5027197211",
     "year": 2024,
-    "citations": 7
+    "citations": 8
   },
   {
     "authorId": "A5027197211",
@@ -2532,11 +2532,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5027197211",
     "year": 2022,
     "citations": 9
-  },
-  {
-    "authorId": "A5027197211",
-    "year": 2022,
-    "citations": 8
   },
   {
     "authorId": "A5027197211",
@@ -2582,6 +2577,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5027197211",
     "year": 2016,
     "citations": 9
+  },
+  {
+    "authorId": "A5027197211",
+    "year": 2022,
+    "citations": 8
   },
   {
     "authorId": "A5027197211",
@@ -3371,16 +3371,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5034568196",
     "year": 2025,
-    "citations": 3
-  },
-  {
-    "authorId": "A5034568196",
-    "year": 2025,
     "citations": 2
   },
   {
     "authorId": "A5034568196",
     "year": 2024,
+    "citations": 3
+  },
+  {
+    "authorId": "A5034568196",
+    "year": 2025,
     "citations": 3
   },
   {
@@ -3506,7 +3506,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5035537771",
     "year": 2020,
-    "citations": 33
+    "citations": 34
   },
   {
     "authorId": "A5035537771",
@@ -3516,7 +3516,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5035537771",
     "year": 2021,
-    "citations": 21
+    "citations": 22
   },
   {
     "authorId": "A5035537771",
@@ -3620,11 +3620,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5035815399",
-    "year": 2012,
-    "citations": 36
-  },
-  {
-    "authorId": "A5035815399",
     "year": 1990,
     "citations": 184
   },
@@ -3690,13 +3685,13 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5035815399",
-    "year": 2011,
+    "year": 2006,
     "citations": 58
   },
   {
     "authorId": "A5035815399",
-    "year": 2006,
-    "citations": 57
+    "year": 2011,
+    "citations": 58
   },
   {
     "authorId": "A5035815399",
@@ -3712,6 +3707,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5035815399",
     "year": 2010,
     "citations": 40
+  },
+  {
+    "authorId": "A5035815399",
+    "year": 2012,
+    "citations": 37
   },
   {
     "authorId": "A5035815399",
@@ -3795,18 +3795,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5035815399",
-    "year": 2011,
-    "citations": 16
-  },
-  {
-    "authorId": "A5035815399",
     "year": 1989,
     "citations": 14
-  },
-  {
-    "authorId": "A5035815399",
-    "year": 2013,
-    "citations": 7
   },
   {
     "authorId": "A5035815399",
@@ -3892,6 +3882,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5035815399",
     "year": 2020,
     "citations": 9
+  },
+  {
+    "authorId": "A5035815399",
+    "year": 2013,
+    "citations": 7
   },
   {
     "authorId": "A5035815399",
@@ -4182,6 +4177,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5035815399",
     "year": 1986,
     "citations": 75
+  },
+  {
+    "authorId": "A5035815399",
+    "year": 2011,
+    "citations": 16
   },
   {
     "authorId": "A5035815399",
@@ -4770,11 +4770,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5038965329",
-    "year": 2003,
-    "citations": 22
-  },
-  {
-    "authorId": "A5038965329",
     "year": 1997,
     "citations": 62
   },
@@ -4782,6 +4777,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5038965329",
     "year": 1998,
     "citations": 24
+  },
+  {
+    "authorId": "A5038965329",
+    "year": 2003,
+    "citations": 22
   },
   {
     "authorId": "A5038965329",
@@ -4871,11 +4871,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5039010638",
     "year": 2020,
-    "citations": 26
-  },
-  {
-    "authorId": "A5039010638",
-    "year": 2020,
     "citations": 24
   },
   {
@@ -4887,6 +4882,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5039010638",
     "year": 2024,
     "citations": 7
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2020,
+    "citations": 26
   },
   {
     "authorId": "A5039010638",
@@ -4950,11 +4950,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5039685767",
-    "year": 2020,
-    "citations": 59
-  },
-  {
-    "authorId": "A5039685767",
     "year": 2013,
     "citations": 80
   },
@@ -4982,6 +4977,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5039685767",
     "year": 2011,
     "citations": 60
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2020,
+    "citations": 59
   },
   {
     "authorId": "A5039685767",
@@ -5035,11 +5035,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5039685767",
-    "year": 2001,
-    "citations": 19
-  },
-  {
-    "authorId": "A5039685767",
     "year": 2010,
     "citations": 30
   },
@@ -5052,6 +5047,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5039685767",
     "year": 2010,
     "citations": 22
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 19
   },
   {
     "authorId": "A5039685767",
@@ -5070,11 +5070,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5039685767",
-    "year": 2013,
-    "citations": 6
-  },
-  {
-    "authorId": "A5039685767",
     "year": 2023,
     "citations": 6
   },
@@ -5086,7 +5081,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5039685767",
     "year": 2007,
-    "citations": 35
+    "citations": 36
   },
   {
     "authorId": "A5039685767",
@@ -5107,6 +5102,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5039685767",
     "year": 2018,
     "citations": 9
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2013,
+    "citations": 6
   },
   {
     "authorId": "A5039685767",
@@ -5461,7 +5461,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5040147688",
     "year": 2016,
-    "citations": 51
+    "citations": 52
   },
   {
     "authorId": "A5040147688",
@@ -5520,18 +5520,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5040147688",
-    "year": 2019,
-    "citations": 25
-  },
-  {
-    "authorId": "A5040147688",
     "year": 2017,
     "citations": 20
-  },
-  {
-    "authorId": "A5040147688",
-    "year": 2020,
-    "citations": 15
   },
   {
     "authorId": "A5040147688",
@@ -5541,11 +5531,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5040147688",
     "year": 2009,
-    "citations": 6
-  },
-  {
-    "authorId": "A5040147688",
-    "year": 2023,
     "citations": 6
   },
   {
@@ -5600,13 +5585,18 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5040147688",
+    "year": 2019,
+    "citations": 25
+  },
+  {
+    "authorId": "A5040147688",
     "year": 2012,
     "citations": 20
   },
   {
     "authorId": "A5040147688",
-    "year": 2007,
-    "citations": 20
+    "year": 2020,
+    "citations": 15
   },
   {
     "authorId": "A5040147688",
@@ -5622,6 +5612,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5040147688",
     "year": 2016,
     "citations": 6
+  },
+  {
+    "authorId": "A5040147688",
+    "year": 2023,
+    "citations": 6
+  },
+  {
+    "authorId": "A5040147688",
+    "year": 2007,
+    "citations": 20
   },
   {
     "authorId": "A5040147688",
@@ -6006,7 +6006,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5040857714",
     "year": 2021,
-    "citations": 14
+    "citations": 15
   },
   {
     "authorId": "A5040857714",
@@ -6166,7 +6166,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5044806143",
     "year": 2009,
-    "citations": 52
+    "citations": 53
   },
   {
     "authorId": "A5044806143",
@@ -6260,11 +6260,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5044930714",
-    "year": 2012,
-    "citations": 13
-  },
-  {
-    "authorId": "A5044930714",
     "year": 2013,
     "citations": 12
   },
@@ -6272,6 +6267,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5044930714",
     "year": 2021,
     "citations": 7
+  },
+  {
+    "authorId": "A5044930714",
+    "year": 2012,
+    "citations": 13
   },
   {
     "authorId": "A5044930714",
@@ -6291,12 +6291,12 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5046466285",
     "year": 2005,
-    "citations": 928
+    "citations": 929
   },
   {
     "authorId": "A5046466285",
     "year": 2013,
-    "citations": 781
+    "citations": 782
   },
   {
     "authorId": "A5046466285",
@@ -6356,7 +6356,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5046466285",
     "year": 2011,
-    "citations": 136
+    "citations": 137
   },
   {
     "authorId": "A5046466285",
@@ -6421,7 +6421,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5046466285",
     "year": 2021,
-    "citations": 57
+    "citations": 58
   },
   {
     "authorId": "A5046466285",
@@ -6760,11 +6760,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5046466285",
-    "year": 2006,
-    "citations": 12
-  },
-  {
-    "authorId": "A5046466285",
     "year": 2021,
     "citations": 12
   },
@@ -6772,11 +6767,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5046466285",
     "year": 2023,
     "citations": 10
-  },
-  {
-    "authorId": "A5046466285",
-    "year": 2017,
-    "citations": 9
   },
   {
     "authorId": "A5046466285",
@@ -6842,6 +6832,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5046466285",
     "year": 2003,
     "citations": 18
+  },
+  {
+    "authorId": "A5046466285",
+    "year": 2006,
+    "citations": 12
+  },
+  {
+    "authorId": "A5046466285",
+    "year": 2017,
+    "citations": 9
   },
   {
     "authorId": "A5046466285",
@@ -7785,13 +7785,13 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5054134454",
-    "year": 2014,
-    "citations": 37
+    "year": 1995,
+    "citations": 55
   },
   {
     "authorId": "A5054134454",
-    "year": 1995,
-    "citations": 55
+    "year": 2014,
+    "citations": 37
   },
   {
     "authorId": "A5054134454",
@@ -7802,11 +7802,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5054134454",
     "year": 1998,
     "citations": 26
-  },
-  {
-    "authorId": "A5054134454",
-    "year": 2017,
-    "citations": 8
   },
   {
     "authorId": "A5054134454",
@@ -7822,6 +7817,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5054134454",
     "year": 2000,
     "citations": 17
+  },
+  {
+    "authorId": "A5054134454",
+    "year": 2017,
+    "citations": 8
   },
   {
     "authorId": "A5054134454",
@@ -7905,16 +7905,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5054427253",
-    "year": 2019,
-    "citations": 18
-  },
-  {
-    "authorId": "A5054427253",
-    "year": 2015,
-    "citations": 16
-  },
-  {
-    "authorId": "A5054427253",
     "year": 2011,
     "citations": 8
   },
@@ -7922,6 +7912,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5054427253",
     "year": 2009,
     "citations": 40
+  },
+  {
+    "authorId": "A5054427253",
+    "year": 2019,
+    "citations": 18
+  },
+  {
+    "authorId": "A5054427253",
+    "year": 2015,
+    "citations": 16
   },
   {
     "authorId": "A5054427253",
@@ -8806,7 +8806,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5058646530",
     "year": 2021,
-    "citations": 17
+    "citations": 18
   },
   {
     "authorId": "A5058646530",
@@ -8995,11 +8995,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5059881838",
-    "year": 2022,
-    "citations": 12
-  },
-  {
-    "authorId": "A5059881838",
     "year": 2016,
     "citations": 10
   },
@@ -9027,6 +9022,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5059881838",
     "year": 2025,
     "citations": 5
+  },
+  {
+    "authorId": "A5059881838",
+    "year": 2022,
+    "citations": 12
   },
   {
     "authorId": "A5059881838",
@@ -9285,11 +9285,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5070411489",
-    "year": 2021,
-    "citations": 19
-  },
-  {
-    "authorId": "A5070411489",
     "year": 2023,
     "citations": 16
   },
@@ -9325,11 +9320,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5070411489",
-    "year": 2024,
-    "citations": 2
-  },
-  {
-    "authorId": "A5070411489",
     "year": 1997,
     "citations": 46
   },
@@ -9350,6 +9340,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5070411489",
+    "year": 2021,
+    "citations": 19
+  },
+  {
+    "authorId": "A5070411489",
     "year": 2020,
     "citations": 12
   },
@@ -9360,18 +9355,13 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5070411489",
-    "year": 2022,
-    "citations": 9
-  },
-  {
-    "authorId": "A5070411489",
-    "year": 2022,
-    "citations": 4
-  },
-  {
-    "authorId": "A5070411489",
     "year": 2023,
     "citations": 3
+  },
+  {
+    "authorId": "A5070411489",
+    "year": 2024,
+    "citations": 2
   },
   {
     "authorId": "A5070411489",
@@ -9387,6 +9377,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5070411489",
     "year": 2022,
     "citations": 9
+  },
+  {
+    "authorId": "A5070411489",
+    "year": 2022,
+    "citations": 9
+  },
+  {
+    "authorId": "A5070411489",
+    "year": 2022,
+    "citations": 4
   },
   {
     "authorId": "A5070411489",
@@ -9775,11 +9775,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5074794653",
-    "year": 2025,
-    "citations": 2
-  },
-  {
-    "authorId": "A5074794653",
     "year": 2015,
     "citations": 16
   },
@@ -9796,7 +9791,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5074794653",
     "year": 2025,
-    "citations": 3
+    "citations": 2
   },
   {
     "authorId": "A5074794653",
@@ -9822,6 +9817,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5074794653",
     "year": 2022,
     "citations": 6
+  },
+  {
+    "authorId": "A5074794653",
+    "year": 2025,
+    "citations": 3
   },
   {
     "authorId": "A5074794653",
@@ -10065,6 +10065,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5077725431",
+    "year": 1980,
+    "citations": 19
+  },
+  {
+    "authorId": "A5077725431",
     "year": 1995,
     "citations": 34
   },
@@ -10092,11 +10097,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5077725431",
     "year": 1976,
     "citations": 27
-  },
-  {
-    "authorId": "A5077725431",
-    "year": 1980,
-    "citations": 18
   },
   {
     "authorId": "A5077725431",
@@ -10551,7 +10551,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5081811780",
     "year": 2000,
-    "citations": 343
+    "citations": 344
   },
   {
     "authorId": "A5081811780",
@@ -10565,13 +10565,13 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5081811780",
-    "year": 2012,
-    "citations": 126
+    "year": 2020,
+    "citations": 74
   },
   {
     "authorId": "A5081811780",
-    "year": 2020,
-    "citations": 74
+    "year": 2012,
+    "citations": 126
   },
   {
     "authorId": "A5081811780",
@@ -10625,17 +10625,17 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5081811780",
+    "year": 2011,
+    "citations": 27
+  },
+  {
+    "authorId": "A5081811780",
     "year": 2010,
     "citations": 27
   },
   {
     "authorId": "A5081811780",
     "year": 2010,
-    "citations": 26
-  },
-  {
-    "authorId": "A5081811780",
-    "year": 2011,
     "citations": 26
   },
   {
@@ -10692,6 +10692,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5081811780",
     "year": 2018,
     "citations": 6
+  },
+  {
+    "authorId": "A5081811780",
+    "year": 2025,
+    "citations": 1
   },
   {
     "authorId": "A5081811780",
@@ -10764,11 +10769,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "citations": 0
   },
   {
-    "authorId": "A5081811780",
-    "year": 2025,
-    "citations": 0
-  },
-  {
     "authorId": "A5084630459",
     "year": 1994,
     "citations": 430
@@ -10781,11 +10781,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5084630459",
     "year": 2004,
-    "citations": 39
-  },
-  {
-    "authorId": "A5084630459",
-    "year": 1966,
     "citations": 39
   },
   {
@@ -10816,11 +10811,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5084630459",
     "year": 1982,
-    "citations": 47
-  },
-  {
-    "authorId": "A5084630459",
-    "year": 1991,
     "citations": 47
   },
   {
@@ -10857,6 +10847,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5084630459",
     "year": 1972,
     "citations": 58
+  },
+  {
+    "authorId": "A5084630459",
+    "year": 1991,
+    "citations": 47
+  },
+  {
+    "authorId": "A5084630459",
+    "year": 1966,
+    "citations": 39
   },
   {
     "authorId": "A5084630459",
@@ -11571,7 +11571,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5103098706",
     "year": 2001,
-    "citations": 91
+    "citations": 92
   },
   {
     "authorId": "A5103098706",
@@ -11581,7 +11581,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5103098706",
     "year": 1995,
-    "citations": 75
+    "citations": 76
   },
   {
     "authorId": "A5103098706",
