@@ -861,9 +861,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -1508,9 +1508,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2003,9 +2003,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5799999833106995
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -5230,9 +5230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -5311,1288 +5311,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3000146708",
-      "doi": "https://doi.org/10.2523/iptc-19635-abstract",
-      "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
-      "display_name": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
-      "publication_year": 2020,
-      "publication_date": "2020-01-11",
-      "ids": {
-        "openalex": "https://openalex.org/W3000146708",
-        "doi": "https://doi.org/10.2523/iptc-19635-abstract",
-        "mag": "3000146708"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2523/iptc-19635-abstract",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363607700",
-          "display_name": "International Petroleum Technology Conference",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Petroleum Technology Conference",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Al-Masrahy",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042665751"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6705,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.53960396,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12383",
-        "display_name": "Aeolian processes and effects",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12383",
-          "display_name": "Aeolian processes and effects",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9961000084877014,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.9092953205108643
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8597069978713989
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.808682918548584
-        },
-        {
-          "id": "https://openalex.org/keywords/arid",
-          "display_name": "Arid",
-          "score": 0.6314718127250671
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.5972601771354675
-        },
-        {
-          "id": "https://openalex.org/keywords/deposition",
-          "display_name": "Deposition (geology)",
-          "score": 0.5463138818740845
-        },
-        {
-          "id": "https://openalex.org/keywords/prevailing-winds",
-          "display_name": "Prevailing winds",
-          "score": 0.498152494430542
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.40740180015563965
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.25252729654312134
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.08940061926841736
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.08852621912956238
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.9092953205108643
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8597069978713989
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.808682918548584
-        },
-        {
-          "id": "https://openalex.org/C150772632",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
-          "display_name": "Arid",
-          "level": 2,
-          "score": 0.6314718127250671
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.5972601771354675
-        },
-        {
-          "id": "https://openalex.org/C64297162",
-          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
-          "display_name": "Deposition (geology)",
-          "level": 3,
-          "score": 0.5463138818740845
-        },
-        {
-          "id": "https://openalex.org/C94700167",
-          "wikidata": "https://www.wikidata.org/wiki/Q1330018",
-          "display_name": "Prevailing winds",
-          "level": 2,
-          "score": 0.498152494430542
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.40740180015563965
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.25252729654312134
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.08940061926841736
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.08852621912956238
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2523/iptc-19635-abstract",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363607700",
-            "display_name": "International Petroleum Technology Conference",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Petroleum Technology Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5899999737739563
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 55,
-      "referenced_works": [
-        "https://openalex.org/W1488703263",
-        "https://openalex.org/W1520751961",
-        "https://openalex.org/W1591747868",
-        "https://openalex.org/W1906506370",
-        "https://openalex.org/W1907239309",
-        "https://openalex.org/W1969612317",
-        "https://openalex.org/W1998772235",
-        "https://openalex.org/W1999436875",
-        "https://openalex.org/W2004408791",
-        "https://openalex.org/W2010761655",
-        "https://openalex.org/W2016272372",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2067948719",
-        "https://openalex.org/W2075280574",
-        "https://openalex.org/W2091724376",
-        "https://openalex.org/W2135577914",
-        "https://openalex.org/W2145008145",
-        "https://openalex.org/W2158321973",
-        "https://openalex.org/W2181849106",
-        "https://openalex.org/W2214100280",
-        "https://openalex.org/W2233569913",
-        "https://openalex.org/W2249912291",
-        "https://openalex.org/W2312707502",
-        "https://openalex.org/W2333171062",
-        "https://openalex.org/W2335960062",
-        "https://openalex.org/W2462802418",
-        "https://openalex.org/W2485056805",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W2972853859",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W3208769113",
-        "https://openalex.org/W4242291455",
-        "https://openalex.org/W4255163653",
-        "https://openalex.org/W6629289746",
-        "https://openalex.org/W6631209941",
-        "https://openalex.org/W6635468776",
-        "https://openalex.org/W6639953506",
-        "https://openalex.org/W6642736022",
-        "https://openalex.org/W6649906031",
-        "https://openalex.org/W6650278886",
-        "https://openalex.org/W6651625264",
-        "https://openalex.org/W6667904156",
-        "https://openalex.org/W6669055585",
-        "https://openalex.org/W6680235437",
-        "https://openalex.org/W6685659992",
-        "https://openalex.org/W6688679478",
-        "https://openalex.org/W6689345358",
-        "https://openalex.org/W6698732634",
-        "https://openalex.org/W6703304961",
-        "https://openalex.org/W6719007330",
-        "https://openalex.org/W6722477232",
-        "https://openalex.org/W6768165274",
-        "https://openalex.org/W6770575612",
-        "https://openalex.org/W6803103832",
-        "https://openalex.org/W7055719650"
-      ],
-      "related_works": [
-        "https://openalex.org/W4313208625",
-        "https://openalex.org/W2768565527",
-        "https://openalex.org/W4361215143",
-        "https://openalex.org/W2370005162",
-        "https://openalex.org/W4256529885",
-        "https://openalex.org/W2368062105",
-        "https://openalex.org/W2187401607",
-        "https://openalex.org/W2039576373",
-        "https://openalex.org/W2123072599",
-        "https://openalex.org/W275363375"
-      ],
-      "abstract_inverted_index": {
-        "72": [
-          286
-        ],
-        "Petroleum": [
-          0
-        ],
-        "is": [
-          1,
-          65
-        ],
-        "common": [
-          2
-        ],
-        "and": [
-          3,
-          14,
-          32,
-          34,
-          57,
-          129,
-          141,
-          155,
-          245,
-          279,
-          307,
-          313,
-          332,
-          338,
-          361,
-          365
-        ],
-        "abundant": [
-          4
-        ],
-        "in": [
-          5,
-          8,
-          11,
-          45,
-          79,
-          92,
-          107,
-          178,
-          257,
-          335
-        ],
-        "wind-laid": [
-          6
-        ],
-        "rocks": [
-          7
-        ],
-        "many": [
-          9
-        ],
-        "places": [
-          10
-        ],
-        "the": [
-          12,
-          35,
-          53,
-          74,
-          97,
-          114,
-          159,
-          171,
-          179,
-          192,
-          203,
-          207,
-          249,
-          258,
-          269,
-          309,
-          317,
-          323,
-          343
-        ],
-        "world,": [
-          13
-        ],
-        "aeolian": [
-          15,
-          47,
-          111,
-          121,
-          133,
-          174
-        ],
-        "deposits": [
-          16
-        ],
-        "typically": [
-          17
-        ],
-        "form": [
-          18
-        ],
-        "good": [
-          19
-        ],
-        "reservoirs": [
-          20
-        ],
-        "or": [
-          21
-        ],
-        "pathways": [
-          22
-        ],
-        "for": [
-          23,
-          72,
-          223,
-          325,
-          329,
-          354
-        ],
-        "hydrocarbon": [
-          24
-        ],
-        "migration": [
-          25
-        ],
-        "due": [
-          26,
-          51
-        ],
-        "to": [
-          27,
-          52,
-          68,
-          102,
-          268,
-          296,
-          304
-        ],
-        "their": [
-          28
-        ],
-        "high": [
-          29,
-          151
-        ],
-        "initial": [
-          30
-        ],
-        "porosity": [
-          31,
-          364
-        ],
-        "permeability,": [
-          33
-        ],
-        "generally": [
-          36
-        ],
-        "great": [
-          37
-        ],
-        "lateral": [
-          38
-        ],
-        "continuity": [
-          39
-        ],
-        "of": [
-          40,
-          55,
-          76,
-          90,
-          99,
-          119,
-          153,
-          167,
-          170,
-          194,
-          260,
-          285,
-          292,
-          316,
-          363
-        ],
-        "preserved": [
-          41
-        ],
-        "elements.": [
-          42
-        ],
-        "Subsequently,": [
-          43
-        ],
-        "heterogeneity": [
-          44
-        ],
-        "such": [
-          46,
-          77
-        ],
-        "successions,": [
-          48
-        ],
-        "e.g.,": [
-          49
-        ],
-        "arising": [
-          50
-        ],
-        "juxtaposition": [
-          54
-        ],
-        "dune": [
-          56,
-          176,
-          336
-        ],
-        "interdune": [
-          58
-        ],
-        "elements,": [
-          59
-        ],
-        "can": [
-          60
-        ],
-        "be": [
-          61
-        ],
-        "problematic;": [
-          62
-        ],
-        "therefore,": [
-          63
-        ],
-        "there": [
-          64
-        ],
-        "a": [
-          66,
-          93,
-          108,
-          117,
-          150,
-          212,
-          261,
-          273,
-          282,
-          327,
-          350
-        ],
-        "need": [
-          67
-        ],
-        "develop": [
-          69
-        ],
-        "quantitative": [
-          70
-        ],
-        "models": [
-          71
-        ],
-        "predicting": [
-          73
-        ],
-        "arrangement": [
-          75
-        ],
-        "elements": [
-          78
-        ],
-        "subsurface": [
-          80,
-          127,
-          209
-        ],
-        "successions.": [
-          81,
-          161
-        ],
-        "The": [
-          82,
-          146,
-          162,
-          289
-        ],
-        "Artinskian-Kungurian": [
-          83
-        ],
-        "Upper": [
-          84
-        ],
-        "Unayzah": [
-          85
-        ],
-        "Formation": [
-          86
-        ],
-        "displays": [
-          87
-        ],
-        "widespread": [
-          88
-        ],
-        "evidence": [
-          89
-        ],
-        "deposition": [
-          91
-        ],
-        "continental": [
-          94
-        ],
-        "setting": [
-          95
-        ],
-        "under": [
-          96
-        ],
-        "influence": [
-          98
-        ],
-        "an": [
-          100
-        ],
-        "arid": [
-          101
-        ],
-        "semi-arid": [
-          103
-        ],
-        "climatic": [
-          104
-        ],
-        "regime,": [
-          105
-        ],
-        "commonly": [
-          106
-        ],
-        "wind": [
-          109,
-          298
-        ],
-        "dominated,": [
-          110
-        ],
-        "setting.": [
-          112
-        ],
-        "In": [
-          113
-        ],
-        "study": [
-          115,
-          163,
-          190,
-          294
-        ],
-        "areas,": [
-          116
-        ],
-        "number": [
-          118
-        ],
-        "distinctive": [
-          120
-        ],
-        "depositional": [
-          122
-        ],
-        "facies": [
-          123,
-          147,
-          177
-        ],
-        "are": [
-          124
-        ],
-        "recognized": [
-          125
-        ],
-        "from": [
-          126,
-          198,
-          206,
-          301
-        ],
-        "cores": [
-          128
-        ],
-        "image": [
-          130,
-          185,
-          195
-        ],
-        "logs,": [
-          131
-        ],
-        "including:": [
-          132
-        ],
-        "sand": [
-          134,
-          138,
-          175,
-          310
-        ],
-        "dune,": [
-          135
-        ],
-        "interdune/damp": [
-          136
-        ],
-        "sandflat,": [
-          137
-        ],
-        "sheets/dry": [
-          139
-        ],
-        "sandflat": [
-          140
-        ],
-        "ephemeral": [
-          142
-        ],
-        "playa": [
-          143
-        ],
-        "lake": [
-          144
-        ],
-        "palaeo-environments.": [
-          145
-        ],
-        "occur": [
-          148
-        ],
-        "with": [
-          149,
-          272,
-          281
-        ],
-        "degree": [
-          152
-        ],
-        "vertical": [
-          154
-        ],
-        "areal": [
-          156
-        ],
-        "repeatability": [
-          157
-        ],
-        "throughout": [
-          158,
-          342
-        ],
-        "studied": [
-          160,
-          251,
-          344
-        ],
-        "further": [
-          164,
-          305
-        ],
-        "investigated": [
-          165
-        ],
-        "distribution": [
-          166,
-          337
-        ],
-        "azimuthal": [
-          168,
-          210
-        ],
-        "variability": [
-          169
-        ],
-        "cross-bedded": [
-          172
-        ],
-        "sandstone's": [
-          173
-        ],
-        "Lower": [
-          180
-        ],
-        "Permian,": [
-          181
-        ],
-        "utilizing": [
-          182
-        ],
-        "microresistivity": [
-          183
-        ],
-        "borehole": [
-          184
-        ],
-        "logs.": [
-          186
-        ],
-        "A": [
-          187
-        ],
-        "palaeo-wind": [
-          188,
-          204,
-          319
-        ],
-        "data": [
-          189,
-          197,
-          221,
-          299
-        ],
-        "involved": [
-          191
-        ],
-        "analysis": [
-          193
-        ],
-        "log": [
-          196
-        ],
-        "several": [
-          199
-        ],
-        "wells.": [
-          200
-        ],
-        "To": [
-          201
-        ],
-        "investigate": [
-          202
-        ],
-        "directions": [
-          205,
-          312
-        ],
-        "measured": [
-          208
-        ],
-        "data,": [
-          211
-        ],
-        "hierarchical": [
-          213
-        ],
-        "approach": [
-          214,
-          255
-        ],
-        "was": [
-          215,
-          295
-        ],
-        "employed": [
-          216
-        ],
-        "as": [
-          217,
-          322
-        ],
-        "follows:": [
-          218
-        ],
-        "(i)": [
-          219
-        ],
-        "azimuth": [
-          220,
-          287
-        ],
-        "recorded": [
-          222
-        ],
-        "each": [
-          224,
-          230,
-          233,
-          238,
-          243
-        ],
-        "identifiable": [
-          225
-        ],
-        "bed,": [
-          226
-        ],
-        "(ii)": [
-          227
-        ],
-        "averaged": [
-          228,
-          236,
-          241,
-          247
-        ],
-        "over": [
-          229,
-          237,
-          242,
-          248
-        ],
-        "bedset": [
-          231
-        ],
-        "within": [
-          232
-        ],
-        "well,": [
-          234,
-          239
-        ],
-        "(iii)": [
-          235
-        ],
-        "(iv)": [
-          240
-        ],
-        "area,": [
-          244
-        ],
-        "(v)": [
-          246
-        ],
-        "four": [
-          250
-        ],
-        "areas.": [
-          252,
-          345
-        ],
-        "This": [
-          253,
-          346
-        ],
-        "rigorous": [
-          254
-        ],
-        "resulted": [
-          256
-        ],
-        "identification": [
-          259
-        ],
-        "resultant": [
-          262
-        ],
-        "drift": [
-          263,
-          311
-        ],
-        "direction": [
-          264,
-          284,
-          320
-        ],
-        "toward": [
-          265
-        ],
-        "east-northeast": [
-          266
-        ],
-        "(relative": [
-          267
-        ],
-        "present": [
-          270
-        ],
-        "day),": [
-          271
-        ],
-        "range": [
-          274
-        ],
-        "that": [
-          275
-        ],
-        "varied": [
-          276
-        ],
-        "between": [
-          277
-        ],
-        "40°": [
-          278
-        ],
-        "100°": [
-          280
-        ],
-        "mean": [
-          283
-        ],
-        "degrees.": [
-          288
-        ],
-        "final": [
-          290
-        ],
-        "stage": [
-          291
-        ],
-        "this": [
-          293
-        ],
-        "analyze": [
-          297
-        ],
-        "obtained": [
-          300
-        ],
-        "modern": [
-          302
-        ],
-        "analogues": [
-          303
-        ],
-        "understand": [
-          306
-        ],
-        "evaluate": [
-          308
-        ],
-        "potentials.": [
-          314
-        ],
-        "Identification": [
-          315
-        ],
-        "dominant": [
-          318
-        ],
-        "served": [
-          321
-        ],
-        "basis": [
-          324
-        ],
-        "developing": [
-          326
-        ],
-        "model": [
-          328,
-          347
-        ],
-        "palaeo-environmental": [
-          330
-        ],
-        "spatial": [
-          331
-        ],
-        "temporal": [
-          333
-        ],
-        "variations": [
-          334
-        ],
-        "planform": [
-          339
-        ],
-        "morphological": [
-          340
-        ],
-        "type": [
-          341
-        ],
-        "then": [
-          348
-        ],
-        "formed": [
-          349
-        ],
-        "principal": [
-          351
-        ],
-        "tool": [
-          352
-        ],
-        "used": [
-          353
-        ],
-        "field": [
-          355
-        ],
-        "development": [
-          356
-        ],
-        "plans": [
-          357
-        ],
-        "by": [
-          358
-        ],
-        "enabling": [
-          359
-        ],
-        "prediction": [
-          360
-        ],
-        "mapping": [
-          362
-        ],
-        "permeability": [
-          366
-        ],
-        "distributions.": [
-          367
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6862,7 +5580,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5066611492"
       ],
@@ -6879,17 +5597,17 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 1.3141,
+      "fwci": 2.1399,
       "has_fulltext": false,
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.75132561,
+        "value": 0.83445265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
-        "max": 95
+        "max": 97
       },
       "biblio": {
         "volume": "72",
@@ -8115,7 +6833,1293 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-03T08:13:44.112507",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3000146708",
+      "doi": "https://doi.org/10.2523/iptc-19635-abstract",
+      "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+      "display_name": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+      "publication_year": 2020,
+      "publication_date": "2020-01-11",
+      "ids": {
+        "openalex": "https://openalex.org/W3000146708",
+        "doi": "https://doi.org/10.2523/iptc-19635-abstract",
+        "mag": "3000146708"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/iptc-19635-abstract",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5042665751",
+            "display_name": "Mohammed Al‐Masrahy",
+            "orcid": "https://orcid.org/0000-0002-8396-3923"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed Al-Masrahy",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5042665751"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6705,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.53960396,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12383",
+        "display_name": "Aeolian processes and effects",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12383",
+          "display_name": "Aeolian processes and effects",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.9092953205108643
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8597069978713989
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.808682918548584
+        },
+        {
+          "id": "https://openalex.org/keywords/arid",
+          "display_name": "Arid",
+          "score": 0.6314718127250671
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.5972601771354675
+        },
+        {
+          "id": "https://openalex.org/keywords/deposition",
+          "display_name": "Deposition (geology)",
+          "score": 0.5463138818740845
+        },
+        {
+          "id": "https://openalex.org/keywords/prevailing-winds",
+          "display_name": "Prevailing winds",
+          "score": 0.498152494430542
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.40740180015563965
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.25252729654312134
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.08940061926841736
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.08852621912956238
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.9092953205108643
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8597069978713989
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.808682918548584
+        },
+        {
+          "id": "https://openalex.org/C150772632",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330709",
+          "display_name": "Arid",
+          "level": 2,
+          "score": 0.6314718127250671
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.5972601771354675
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.5463138818740845
+        },
+        {
+          "id": "https://openalex.org/C94700167",
+          "wikidata": "https://www.wikidata.org/wiki/Q1330018",
+          "display_name": "Prevailing winds",
+          "level": 2,
+          "score": 0.498152494430542
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.40740180015563965
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.25252729654312134
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.08940061926841736
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.08852621912956238
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2523/iptc-19635-abstract",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 55,
+      "referenced_works": [
+        "https://openalex.org/W1488703263",
+        "https://openalex.org/W1520751961",
+        "https://openalex.org/W1591747868",
+        "https://openalex.org/W1906506370",
+        "https://openalex.org/W1907239309",
+        "https://openalex.org/W1969612317",
+        "https://openalex.org/W1998772235",
+        "https://openalex.org/W1999436875",
+        "https://openalex.org/W2004408791",
+        "https://openalex.org/W2010761655",
+        "https://openalex.org/W2016272372",
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W2067948719",
+        "https://openalex.org/W2075280574",
+        "https://openalex.org/W2091724376",
+        "https://openalex.org/W2135577914",
+        "https://openalex.org/W2145008145",
+        "https://openalex.org/W2158321973",
+        "https://openalex.org/W2181849106",
+        "https://openalex.org/W2214100280",
+        "https://openalex.org/W2233569913",
+        "https://openalex.org/W2249912291",
+        "https://openalex.org/W2312707502",
+        "https://openalex.org/W2333171062",
+        "https://openalex.org/W2335960062",
+        "https://openalex.org/W2462802418",
+        "https://openalex.org/W2485056805",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W2972853859",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W3208769113",
+        "https://openalex.org/W4242291455",
+        "https://openalex.org/W4255163653",
+        "https://openalex.org/W6629289746",
+        "https://openalex.org/W6631209941",
+        "https://openalex.org/W6635468776",
+        "https://openalex.org/W6639953506",
+        "https://openalex.org/W6642736022",
+        "https://openalex.org/W6649906031",
+        "https://openalex.org/W6650278886",
+        "https://openalex.org/W6651625264",
+        "https://openalex.org/W6667904156",
+        "https://openalex.org/W6669055585",
+        "https://openalex.org/W6680235437",
+        "https://openalex.org/W6685659992",
+        "https://openalex.org/W6688679478",
+        "https://openalex.org/W6689345358",
+        "https://openalex.org/W6698732634",
+        "https://openalex.org/W6703304961",
+        "https://openalex.org/W6719007330",
+        "https://openalex.org/W6722477232",
+        "https://openalex.org/W6768165274",
+        "https://openalex.org/W6770575612",
+        "https://openalex.org/W6803103832",
+        "https://openalex.org/W7055719650"
+      ],
+      "related_works": [
+        "https://openalex.org/W4313208625",
+        "https://openalex.org/W2768565527",
+        "https://openalex.org/W4361215143",
+        "https://openalex.org/W2370005162",
+        "https://openalex.org/W4256529885",
+        "https://openalex.org/W2368062105",
+        "https://openalex.org/W2187401607",
+        "https://openalex.org/W2039576373",
+        "https://openalex.org/W2123072599",
+        "https://openalex.org/W275363375"
+      ],
+      "abstract_inverted_index": {
+        "72": [
+          286
+        ],
+        "Petroleum": [
+          0
+        ],
+        "is": [
+          1,
+          65
+        ],
+        "common": [
+          2
+        ],
+        "and": [
+          3,
+          14,
+          32,
+          34,
+          57,
+          129,
+          141,
+          155,
+          245,
+          279,
+          307,
+          313,
+          332,
+          338,
+          361,
+          365
+        ],
+        "abundant": [
+          4
+        ],
+        "in": [
+          5,
+          8,
+          11,
+          45,
+          79,
+          92,
+          107,
+          178,
+          257,
+          335
+        ],
+        "wind-laid": [
+          6
+        ],
+        "rocks": [
+          7
+        ],
+        "many": [
+          9
+        ],
+        "places": [
+          10
+        ],
+        "the": [
+          12,
+          35,
+          53,
+          74,
+          97,
+          114,
+          159,
+          171,
+          179,
+          192,
+          203,
+          207,
+          249,
+          258,
+          269,
+          309,
+          317,
+          323,
+          343
+        ],
+        "world,": [
+          13
+        ],
+        "aeolian": [
+          15,
+          47,
+          111,
+          121,
+          133,
+          174
+        ],
+        "deposits": [
+          16
+        ],
+        "typically": [
+          17
+        ],
+        "form": [
+          18
+        ],
+        "good": [
+          19
+        ],
+        "reservoirs": [
+          20
+        ],
+        "or": [
+          21
+        ],
+        "pathways": [
+          22
+        ],
+        "for": [
+          23,
+          72,
+          223,
+          325,
+          329,
+          354
+        ],
+        "hydrocarbon": [
+          24
+        ],
+        "migration": [
+          25
+        ],
+        "due": [
+          26,
+          51
+        ],
+        "to": [
+          27,
+          52,
+          68,
+          102,
+          268,
+          296,
+          304
+        ],
+        "their": [
+          28
+        ],
+        "high": [
+          29,
+          151
+        ],
+        "initial": [
+          30
+        ],
+        "porosity": [
+          31,
+          364
+        ],
+        "permeability,": [
+          33
+        ],
+        "generally": [
+          36
+        ],
+        "great": [
+          37
+        ],
+        "lateral": [
+          38
+        ],
+        "continuity": [
+          39
+        ],
+        "of": [
+          40,
+          55,
+          76,
+          90,
+          99,
+          119,
+          153,
+          167,
+          170,
+          194,
+          260,
+          285,
+          292,
+          316,
+          363
+        ],
+        "preserved": [
+          41
+        ],
+        "elements.": [
+          42
+        ],
+        "Subsequently,": [
+          43
+        ],
+        "heterogeneity": [
+          44
+        ],
+        "such": [
+          46,
+          77
+        ],
+        "successions,": [
+          48
+        ],
+        "e.g.,": [
+          49
+        ],
+        "arising": [
+          50
+        ],
+        "juxtaposition": [
+          54
+        ],
+        "dune": [
+          56,
+          176,
+          336
+        ],
+        "interdune": [
+          58
+        ],
+        "elements,": [
+          59
+        ],
+        "can": [
+          60
+        ],
+        "be": [
+          61
+        ],
+        "problematic;": [
+          62
+        ],
+        "therefore,": [
+          63
+        ],
+        "there": [
+          64
+        ],
+        "a": [
+          66,
+          93,
+          108,
+          117,
+          150,
+          212,
+          261,
+          273,
+          282,
+          327,
+          350
+        ],
+        "need": [
+          67
+        ],
+        "develop": [
+          69
+        ],
+        "quantitative": [
+          70
+        ],
+        "models": [
+          71
+        ],
+        "predicting": [
+          73
+        ],
+        "arrangement": [
+          75
+        ],
+        "elements": [
+          78
+        ],
+        "subsurface": [
+          80,
+          127,
+          209
+        ],
+        "successions.": [
+          81,
+          161
+        ],
+        "The": [
+          82,
+          146,
+          162,
+          289
+        ],
+        "Artinskian-Kungurian": [
+          83
+        ],
+        "Upper": [
+          84
+        ],
+        "Unayzah": [
+          85
+        ],
+        "Formation": [
+          86
+        ],
+        "displays": [
+          87
+        ],
+        "widespread": [
+          88
+        ],
+        "evidence": [
+          89
+        ],
+        "deposition": [
+          91
+        ],
+        "continental": [
+          94
+        ],
+        "setting": [
+          95
+        ],
+        "under": [
+          96
+        ],
+        "influence": [
+          98
+        ],
+        "an": [
+          100
+        ],
+        "arid": [
+          101
+        ],
+        "semi-arid": [
+          103
+        ],
+        "climatic": [
+          104
+        ],
+        "regime,": [
+          105
+        ],
+        "commonly": [
+          106
+        ],
+        "wind": [
+          109,
+          298
+        ],
+        "dominated,": [
+          110
+        ],
+        "setting.": [
+          112
+        ],
+        "In": [
+          113
+        ],
+        "study": [
+          115,
+          163,
+          190,
+          294
+        ],
+        "areas,": [
+          116
+        ],
+        "number": [
+          118
+        ],
+        "distinctive": [
+          120
+        ],
+        "depositional": [
+          122
+        ],
+        "facies": [
+          123,
+          147,
+          177
+        ],
+        "are": [
+          124
+        ],
+        "recognized": [
+          125
+        ],
+        "from": [
+          126,
+          198,
+          206,
+          301
+        ],
+        "cores": [
+          128
+        ],
+        "image": [
+          130,
+          185,
+          195
+        ],
+        "logs,": [
+          131
+        ],
+        "including:": [
+          132
+        ],
+        "sand": [
+          134,
+          138,
+          175,
+          310
+        ],
+        "dune,": [
+          135
+        ],
+        "interdune/damp": [
+          136
+        ],
+        "sandflat,": [
+          137
+        ],
+        "sheets/dry": [
+          139
+        ],
+        "sandflat": [
+          140
+        ],
+        "ephemeral": [
+          142
+        ],
+        "playa": [
+          143
+        ],
+        "lake": [
+          144
+        ],
+        "palaeo-environments.": [
+          145
+        ],
+        "occur": [
+          148
+        ],
+        "with": [
+          149,
+          272,
+          281
+        ],
+        "degree": [
+          152
+        ],
+        "vertical": [
+          154
+        ],
+        "areal": [
+          156
+        ],
+        "repeatability": [
+          157
+        ],
+        "throughout": [
+          158,
+          342
+        ],
+        "studied": [
+          160,
+          251,
+          344
+        ],
+        "further": [
+          164,
+          305
+        ],
+        "investigated": [
+          165
+        ],
+        "distribution": [
+          166,
+          337
+        ],
+        "azimuthal": [
+          168,
+          210
+        ],
+        "variability": [
+          169
+        ],
+        "cross-bedded": [
+          172
+        ],
+        "sandstone's": [
+          173
+        ],
+        "Lower": [
+          180
+        ],
+        "Permian,": [
+          181
+        ],
+        "utilizing": [
+          182
+        ],
+        "microresistivity": [
+          183
+        ],
+        "borehole": [
+          184
+        ],
+        "logs.": [
+          186
+        ],
+        "A": [
+          187
+        ],
+        "palaeo-wind": [
+          188,
+          204,
+          319
+        ],
+        "data": [
+          189,
+          197,
+          221,
+          299
+        ],
+        "involved": [
+          191
+        ],
+        "analysis": [
+          193
+        ],
+        "log": [
+          196
+        ],
+        "several": [
+          199
+        ],
+        "wells.": [
+          200
+        ],
+        "To": [
+          201
+        ],
+        "investigate": [
+          202
+        ],
+        "directions": [
+          205,
+          312
+        ],
+        "measured": [
+          208
+        ],
+        "data,": [
+          211
+        ],
+        "hierarchical": [
+          213
+        ],
+        "approach": [
+          214,
+          255
+        ],
+        "was": [
+          215,
+          295
+        ],
+        "employed": [
+          216
+        ],
+        "as": [
+          217,
+          322
+        ],
+        "follows:": [
+          218
+        ],
+        "(i)": [
+          219
+        ],
+        "azimuth": [
+          220,
+          287
+        ],
+        "recorded": [
+          222
+        ],
+        "each": [
+          224,
+          230,
+          233,
+          238,
+          243
+        ],
+        "identifiable": [
+          225
+        ],
+        "bed,": [
+          226
+        ],
+        "(ii)": [
+          227
+        ],
+        "averaged": [
+          228,
+          236,
+          241,
+          247
+        ],
+        "over": [
+          229,
+          237,
+          242,
+          248
+        ],
+        "bedset": [
+          231
+        ],
+        "within": [
+          232
+        ],
+        "well,": [
+          234,
+          239
+        ],
+        "(iii)": [
+          235
+        ],
+        "(iv)": [
+          240
+        ],
+        "area,": [
+          244
+        ],
+        "(v)": [
+          246
+        ],
+        "four": [
+          250
+        ],
+        "areas.": [
+          252,
+          345
+        ],
+        "This": [
+          253,
+          346
+        ],
+        "rigorous": [
+          254
+        ],
+        "resulted": [
+          256
+        ],
+        "identification": [
+          259
+        ],
+        "resultant": [
+          262
+        ],
+        "drift": [
+          263,
+          311
+        ],
+        "direction": [
+          264,
+          284,
+          320
+        ],
+        "toward": [
+          265
+        ],
+        "east-northeast": [
+          266
+        ],
+        "(relative": [
+          267
+        ],
+        "present": [
+          270
+        ],
+        "day),": [
+          271
+        ],
+        "range": [
+          274
+        ],
+        "that": [
+          275
+        ],
+        "varied": [
+          276
+        ],
+        "between": [
+          277
+        ],
+        "40°": [
+          278
+        ],
+        "100°": [
+          280
+        ],
+        "mean": [
+          283
+        ],
+        "degrees.": [
+          288
+        ],
+        "final": [
+          290
+        ],
+        "stage": [
+          291
+        ],
+        "this": [
+          293
+        ],
+        "analyze": [
+          297
+        ],
+        "obtained": [
+          300
+        ],
+        "modern": [
+          302
+        ],
+        "analogues": [
+          303
+        ],
+        "understand": [
+          306
+        ],
+        "evaluate": [
+          308
+        ],
+        "potentials.": [
+          314
+        ],
+        "Identification": [
+          315
+        ],
+        "dominant": [
+          318
+        ],
+        "served": [
+          321
+        ],
+        "basis": [
+          324
+        ],
+        "developing": [
+          326
+        ],
+        "model": [
+          328,
+          347
+        ],
+        "palaeo-environmental": [
+          330
+        ],
+        "spatial": [
+          331
+        ],
+        "temporal": [
+          333
+        ],
+        "variations": [
+          334
+        ],
+        "planform": [
+          339
+        ],
+        "morphological": [
+          340
+        ],
+        "type": [
+          341
+        ],
+        "then": [
+          348
+        ],
+        "formed": [
+          349
+        ],
+        "principal": [
+          351
+        ],
+        "tool": [
+          352
+        ],
+        "used": [
+          353
+        ],
+        "field": [
+          355
+        ],
+        "development": [
+          356
+        ],
+        "plans": [
+          357
+        ],
+        "by": [
+          358
+        ],
+        "enabling": [
+          359
+        ],
+        "prediction": [
+          360
+        ],
+        "mapping": [
+          362
+        ],
+        "permeability": [
+          366
+        ],
+        "distributions.": [
+          367
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
           "cited_by_count": 1
         }
       ],
@@ -9985,9 +9989,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13394,9 +13398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
