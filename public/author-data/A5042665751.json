@@ -12,9 +12,9 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 15,
-    "cited_by_count": 256,
+    "cited_by_count": 257,
     "summary_stats": {
-      "2yr_mean_citedness": 2.1666666666666665,
+      "2yr_mean_citedness": 2.3333333333333335,
       "h_index": 5,
       "i10_index": 3
     },
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000529,
+        "value": 0.0000528,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -236,7 +236,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000032,
+        "value": 0.0000318,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -270,7 +270,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000121,
+        "value": 0.000012,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -387,7 +387,7 @@
         "year": 2025,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 2
+        "cited_by_count": 3
       }
     ],
     "display_name_alternatives": [
@@ -399,7 +399,7 @@
     ],
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-06-17T12:17:59",
+    "updated_date": "2026-07-03T12:16:56",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -861,9 +861,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1508,9 +1508,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2003,9 +2003,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -4944,376 +4944,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4252385371",
-      "doi": "https://doi.org/10.2523/19635-abstract",
-      "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
-      "display_name": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
-      "publication_year": 2020,
-      "publication_date": "2020-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4252385371",
-        "doi": "https://doi.org/10.2523/19635-abstract"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2523/19635-abstract",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2523/19635-abstract",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363607700",
-          "display_name": "International Petroleum Technology Conference",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Petroleum Technology Conference",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Al-Masrahy",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042665751"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6656,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.72568579,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12383",
-        "display_name": "Aeolian processes and effects",
-        "score": 0.9988999962806702,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12383",
-          "display_name": "Aeolian processes and effects",
-          "score": 0.9988999962806702,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10889",
-          "display_name": "Soil erosion and sediment transport",
-          "score": 0.9968000054359436,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1111",
-            "display_name": "Soil Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.995199978351593,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.7149940729141235
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6666873097419739
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.4050271809101105
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.37253910303115845
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3613586127758026
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.34803229570388794
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.33113622665405273
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.7149940729141235
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6666873097419739
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.4050271809101105
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.37253910303115845
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3613586127758026
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.34803229570388794
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.33113622665405273
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2523/19635-abstract",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2523/19635-abstract",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363607700",
-            "display_name": "International Petroleum Technology Conference",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Petroleum Technology Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 38,
-      "referenced_works": [
-        "https://openalex.org/W51216286",
-        "https://openalex.org/W1488703263",
-        "https://openalex.org/W1520751961",
-        "https://openalex.org/W1906506370",
-        "https://openalex.org/W1907239309",
-        "https://openalex.org/W1969612317",
-        "https://openalex.org/W1999436875",
-        "https://openalex.org/W2004408791",
-        "https://openalex.org/W2016272372",
-        "https://openalex.org/W2017193315",
-        "https://openalex.org/W2051826167",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2067948719",
-        "https://openalex.org/W2075280574",
-        "https://openalex.org/W2088427166",
-        "https://openalex.org/W2091724376",
-        "https://openalex.org/W2135577914",
-        "https://openalex.org/W2145008145",
-        "https://openalex.org/W2158321973",
-        "https://openalex.org/W2166039370",
-        "https://openalex.org/W2196620403",
-        "https://openalex.org/W2214100280",
-        "https://openalex.org/W2233569913",
-        "https://openalex.org/W2249912291",
-        "https://openalex.org/W2312707502",
-        "https://openalex.org/W2333171062",
-        "https://openalex.org/W2335960062",
-        "https://openalex.org/W2462802418",
-        "https://openalex.org/W2485056805",
-        "https://openalex.org/W2620854490",
-        "https://openalex.org/W2972853859",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W4233054231",
-        "https://openalex.org/W4236490870",
-        "https://openalex.org/W6613214171",
-        "https://openalex.org/W6662571880",
-        "https://openalex.org/W6803103832",
-        "https://openalex.org/W7055719650"
-      ],
-      "related_works": [
-        "https://openalex.org/W2359031939",
-        "https://openalex.org/W2192964817",
-        "https://openalex.org/W4242274159",
-        "https://openalex.org/W2054594623",
-        "https://openalex.org/W2168123999",
-        "https://openalex.org/W1550267885",
-        "https://openalex.org/W3146489925",
-        "https://openalex.org/W2594124269",
-        "https://openalex.org/W3217465005",
-        "https://openalex.org/W2014608006"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4408385867",
       "doi": "https://doi.org/10.1111/sed.70000",
       "title": "Quantitative sedimentological analysis of the aeolian–fluvial Triassic Sherwood Sandstone Group, Cheshire Basin, <scp>UK</scp>",
@@ -5597,17 +5227,17 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.1399,
+      "fwci": 3.1929,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83445265,
+        "value": 0.89480752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
-        "max": 97
+        "max": 98
       },
       "biblio": {
         "volume": "72",
@@ -6834,14 +6464,384 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-03T08:13:44.112507",
+      "updated_date": "2026-07-04T07:58:01.006859",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4252385371",
+      "doi": "https://doi.org/10.2523/19635-abstract",
+      "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+      "display_name": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4252385371",
+        "doi": "https://doi.org/10.2523/19635-abstract"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/19635-abstract",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/19635-abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5042665751",
+            "display_name": "Mohammed Al‐Masrahy",
+            "orcid": "https://orcid.org/0000-0002-8396-3923"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed Al-Masrahy",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5042665751"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6656,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.72568579,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12383",
+        "display_name": "Aeolian processes and effects",
+        "score": 0.9988999962806702,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12383",
+          "display_name": "Aeolian processes and effects",
+          "score": 0.9988999962806702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10889",
+          "display_name": "Soil erosion and sediment transport",
+          "score": 0.9968000054359436,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1111",
+            "display_name": "Soil Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.995199978351593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.7149940729141235
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6666873097419739
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.4050271809101105
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.37253910303115845
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.3613586127758026
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.34803229570388794
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.33113622665405273
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.7149940729141235
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6666873097419739
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.4050271809101105
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.37253910303115845
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3613586127758026
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.34803229570388794
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.33113622665405273
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2523/19635-abstract",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/19635-abstract",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/13"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 38,
+      "referenced_works": [
+        "https://openalex.org/W51216286",
+        "https://openalex.org/W1488703263",
+        "https://openalex.org/W1520751961",
+        "https://openalex.org/W1906506370",
+        "https://openalex.org/W1907239309",
+        "https://openalex.org/W1969612317",
+        "https://openalex.org/W1999436875",
+        "https://openalex.org/W2004408791",
+        "https://openalex.org/W2016272372",
+        "https://openalex.org/W2017193315",
+        "https://openalex.org/W2051826167",
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W2067948719",
+        "https://openalex.org/W2075280574",
+        "https://openalex.org/W2088427166",
+        "https://openalex.org/W2091724376",
+        "https://openalex.org/W2135577914",
+        "https://openalex.org/W2145008145",
+        "https://openalex.org/W2158321973",
+        "https://openalex.org/W2166039370",
+        "https://openalex.org/W2196620403",
+        "https://openalex.org/W2214100280",
+        "https://openalex.org/W2233569913",
+        "https://openalex.org/W2249912291",
+        "https://openalex.org/W2312707502",
+        "https://openalex.org/W2333171062",
+        "https://openalex.org/W2335960062",
+        "https://openalex.org/W2462802418",
+        "https://openalex.org/W2485056805",
+        "https://openalex.org/W2620854490",
+        "https://openalex.org/W2972853859",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W4233054231",
+        "https://openalex.org/W4236490870",
+        "https://openalex.org/W6613214171",
+        "https://openalex.org/W6662571880",
+        "https://openalex.org/W6803103832",
+        "https://openalex.org/W7055719650"
+      ],
+      "related_works": [
+        "https://openalex.org/W2359031939",
+        "https://openalex.org/W2192964817",
+        "https://openalex.org/W4242274159",
+        "https://openalex.org/W2054594623",
+        "https://openalex.org/W2168123999",
+        "https://openalex.org/W1550267885",
+        "https://openalex.org/W3146489925",
+        "https://openalex.org/W2594124269",
+        "https://openalex.org/W3217465005",
+        "https://openalex.org/W2014608006"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7213,9 +7213,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9989,9 +9989,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13398,9 +13398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

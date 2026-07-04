@@ -9,7 +9,7 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 8,
-    "cited_by_count": 100,
+    "cited_by_count": 101,
     "summary_stats": {
       "2yr_mean_citedness": 6.5,
       "h_index": 4,
@@ -318,7 +318,7 @@
         "year": 2020,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 57
+        "cited_by_count": 58
       },
       {
         "year": 2023,
@@ -345,7 +345,7 @@
     ],
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
-    "updated_date": "2026-07-02T12:17:46",
+    "updated_date": "2026-07-03T12:16:56",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -852,9 +852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.5600000023841858
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -1558,9 +1558,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2691,9 +2691,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -5894,9 +5894,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4300000071525574
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
