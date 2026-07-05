@@ -290,7 +290,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0003005,
+        "value": 0.0003004,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -307,7 +307,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000275,
+        "value": 0.0002747,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -324,7 +324,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001739,
+        "value": 0.0001735,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -568,7 +568,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-07-02T12:17:46",
+    "updated_date": "2026-07-04T12:17:28",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -34151,8 +34151,8 @@
           "raw_author_name": "Paul Baville",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Association Scientifique pour la Géologie et ses Applications",
-            "GeoRessources"
+            "GeoRessources",
+            "Association Scientifique pour la Géologie et ses Applications"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5686-5554",
           "affiliations": [
@@ -34165,14 +34165,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
             }
           ]
         },
@@ -34542,8 +34542,8 @@
           "raw_author_name": "Guillaume Caumon",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Ecole Nationale Supérieure de Géologie",
-            "GeoRessources"
+            "GeoRessources",
+            "Ecole Nationale Supérieure de Géologie"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-7828-4600",
           "affiliations": [
@@ -34556,14 +34556,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
             }
           ]
         }
@@ -35035,7 +35035,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-04T07:58:01.006859",
+      "updated_date": "2026-07-05T07:55:05.734416",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78401,20 +78401,20 @@
           "is_corresponding": false,
           "raw_author_name": "Baville, Paul",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -78651,20 +78651,20 @@
           "is_corresponding": false,
           "raw_author_name": "Caumon, Guillaume",
           "raw_affiliation_strings": [
-            "Ecole Nationale Supérieure de Géologie",
-            "GeoRessources"
+            "GeoRessources",
+            "Ecole Nationale Supérieure de Géologie"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
             }
           ]
         }
@@ -78951,7 +78951,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-04T07:58:01.006859",
+      "updated_date": "2026-07-05T07:55:05.734416",
       "created_date": "2025-10-10T00:00:00"
     },
     {

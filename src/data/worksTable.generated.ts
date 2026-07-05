@@ -2590,6 +2590,37 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7125487795",
+    "doi": "https://doi.org/10.1016/j.engeos.2026.100525",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5009697450",
+    "allAuthorOpenAlexIds": [
+      "A5009697450",
+      "A5059738250",
+      "A5085007251"
+    ],
+    "firstAuthorLastName": "Malik",
+    "allAuthors": [
+      "Muhammad Hammad Malik",
+      "Ahmed Al‐Yaseri",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Evaluating calcite as a catalyst for pyrite-hydrogen reactions and hydrogen sulfide generation",
+    "publicationDate": "2026-01-23",
+    "year": 2026,
+    "venue": "Energy Geoscience",
+    "citations": 1,
+    "fwci": 5.5715,
+    "topics": [
+      "Mine drainage and remediation techniques",
+      "Industrial Gas Emission Control",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2783424239",
     "doi": "https://doi.org/10.5194/jm-37-149-2018",
     "program": "",
@@ -2916,37 +2947,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Houston"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W7125487795",
-    "doi": "https://doi.org/10.1016/j.engeos.2026.100525",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5009697450",
-    "allAuthorOpenAlexIds": [
-      "A5009697450",
-      "A5059738250",
-      "A5085007251"
-    ],
-    "firstAuthorLastName": "Malik",
-    "allAuthors": [
-      "Muhammad Hammad Malik",
-      "Ahmed Al‐Yaseri",
-      "Khalid Al‐Ramadan"
-    ],
-    "title": "Evaluating calcite as a catalyst for pyrite-hydrogen reactions and hydrogen sulfide generation",
-    "publicationDate": "2026-01-23",
-    "year": 2026,
-    "venue": "Energy Geoscience",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Mine drainage and remediation techniques",
-      "Industrial Gas Emission Control",
-      "CO2 Sequestration and Geologic Interactions"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -28040,8 +28040,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-13",
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
-    "citations": 33,
-    "fwci": 3.8287,
+    "citations": 34,
+    "fwci": 3.8285,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -33800,7 +33800,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.4294,
+    "fwci": 0.4291,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -43532,7 +43532,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Fuel",
     "citations": 5,
-    "fwci": 2.5225,
+    "fwci": 2.4148,
     "topics": [
       "Petroleum Processing and Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -43803,7 +43803,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of African Earth Sciences",
     "citations": 3,
-    "fwci": 1.7744,
+    "fwci": 1.6635,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -45317,7 +45317,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Scientific Reports",
     "citations": 2,
-    "fwci": 10.7732,
+    "fwci": 9.8471,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -51458,7 +51458,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.0268,
+    "fwci": 1.025,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -71504,7 +71504,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "International Journal of Coal Geology",
     "citations": 40,
-    "fwci": 3.6503,
+    "fwci": 3.6504,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -72450,7 +72450,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Earth-Science Reviews",
     "citations": 6,
-    "fwci": 3.0907,
+    "fwci": 3.0809,
     "topics": [
       "Plant Diversity and Evolution",
       "Fern and Epiphyte Biology",
@@ -88088,7 +88088,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 118.0261,
+    "fwci": 118.0243,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88172,7 +88172,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 47,
-    "fwci": 28.7637,
+    "fwci": 28.7627,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -90242,7 +90242,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Journal of Analytical Atomic Spectrometry",
     "citations": 92,
-    "fwci": 7.3511,
+    "fwci": 7.3538,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -90256,6 +90256,52 @@ export const worksTable: WorkTableRecord[] = [
       "Christian-Albrechts-Universität zu Kiel",
       "Clinical Research Center Kiel",
       "Institute of Geosciences"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1883337532",
+    "doi": "https://doi.org/10.1016/j.gr.2015.10.004",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5064936522",
+      "A5100352605",
+      "A5052648518",
+      "A5035248686",
+      "A5022333881"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Wenjiao Xiao",
+      "Zhiyong Zhang",
+      "Alan S. Collins",
+      "Noreen J. Evans",
+      "Brent McInnes",
+      "Johan De Grave"
+    ],
+    "title": "Mesozoic reactivation of the Beishan, southern Central Asian Orogenic Belt: Insights from low-temperature thermochronology",
+    "publicationDate": "2015-11-03",
+    "year": 2015,
+    "venue": "Gondwana Research",
+    "citations": 91,
+    "fwci": 5.1813,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "Institute of Geology and Geophysics",
+      "Chinese Academy of Sciences",
+      "Xinjiang Institute of Ecology and Geography",
+      "Curtin University",
+      "Ghent University"
     ]
   },
   {
@@ -91528,52 +91574,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "Shahid Beheshti University",
       "Tarbiat Modares University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1883337532",
-    "doi": "https://doi.org/10.1016/j.gr.2015.10.004",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5090122630",
-      "A5057911678",
-      "A5064936522",
-      "A5100352605",
-      "A5052648518",
-      "A5035248686",
-      "A5022333881"
-    ],
-    "firstAuthorLastName": "Gillespie",
-    "allAuthors": [
-      "Jack Gillespie",
-      "Stijn Glorie",
-      "Wenjiao Xiao",
-      "Zhiyong Zhang",
-      "Alan S. Collins",
-      "Noreen J. Evans",
-      "Brent McInnes",
-      "Johan De Grave"
-    ],
-    "title": "Mesozoic reactivation of the Beishan, southern Central Asian Orogenic Belt: Insights from low-temperature thermochronology",
-    "publicationDate": "2015-11-03",
-    "year": 2015,
-    "venue": "Gondwana Research",
-    "citations": 90,
-    "fwci": 5.1811,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "Institute of Geology and Geophysics",
-      "Chinese Academy of Sciences",
-      "Xinjiang Institute of Ecology and Geography",
-      "Curtin University",
-      "Ghent University"
     ]
   },
   {
@@ -92950,7 +92950,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Journal of the Geological Society",
     "citations": 43,
-    "fwci": 6.0606,
+    "fwci": 6.0609,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -101375,10 +101375,10 @@ export const worksTable: WorkTableRecord[] = [
     "firstAuthorLastName": "Gaillou",
     "allAuthors": [
       "Éloïse Gaillou",
-      "Wuyi, Wang",
-      "Post, J. E.",
+      "Wang, Wuyi",
+      "Post, Jeffrey E.",
       "J. E. King",
-      "Butler, J. E.",
+      "Butler, James E.",
       "Alan S. Collins",
       "Moses Thomas"
     ],
@@ -116731,6 +116731,51 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3010966532",
+    "doi": "https://doi.org/10.1111/sed.12729",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5075383401",
+      "A5089996625",
+      "A5050486511",
+      "A5036557426",
+      "A5103011184",
+      "A5030459624",
+      "A5078355178"
+    ],
+    "firstAuthorLastName": "Koeshidayatullah",
+    "allAuthors": [
+      "Ardiansyah Koeshidayatullah",
+      "Hilary Corlett",
+      "Jack Stacey",
+      "Peter K. Swart",
+      "Adrian J. Boyce",
+      "Hamish Robertson",
+      "Fiona Whitaker",
+      "Cathy Hollis"
+    ],
+    "title": "Evaluating new fault‐controlled hydrothermal dolomitization models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin",
+    "publicationDate": "2020-03-11",
+    "year": 2020,
+    "venue": "Sedimentology",
+    "citations": 89,
+    "fwci": 19.6196,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "University of Manchester",
+      "MacEwan University",
+      "University of Miami",
+      "Scottish Universities Environmental Research Centre",
+      "University of Bristol"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3081524168",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104687",
     "program": "",
@@ -116766,51 +116811,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Ferrara",
       "Trinity University",
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3010966532",
-    "doi": "https://doi.org/10.1111/sed.12729",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5075383401",
-      "A5089996625",
-      "A5050486511",
-      "A5036557426",
-      "A5103011184",
-      "A5030459624",
-      "A5078355178"
-    ],
-    "firstAuthorLastName": "Koeshidayatullah",
-    "allAuthors": [
-      "Ardiansyah Koeshidayatullah",
-      "Hilary Corlett",
-      "Jack Stacey",
-      "Peter K. Swart",
-      "Adrian J. Boyce",
-      "Hamish Robertson",
-      "Fiona Whitaker",
-      "Cathy Hollis"
-    ],
-    "title": "Evaluating new fault‐controlled hydrothermal dolomitization models: Insights from the Cambrian Dolomite, Western Canadian Sedimentary Basin",
-    "publicationDate": "2020-03-11",
-    "year": 2020,
-    "venue": "Sedimentology",
-    "citations": 88,
-    "fwci": 19.6116,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "University of Manchester",
-      "MacEwan University",
-      "University of Miami",
-      "Scottish Universities Environmental Research Centre",
-      "University of Bristol"
     ]
   },
   {
@@ -124349,7 +124349,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "International journal of greenhouse gas control",
     "citations": 58,
-    "fwci": 4.1769,
+    "fwci": 4.1772,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -131575,8 +131575,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-04-28",
     "year": 2010,
     "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 34,
-    "fwci": 2.0507,
+    "citations": 35,
+    "fwci": 2.0018,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -134308,7 +134308,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 3.0763,
+    "fwci": 3.0776,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -138326,7 +138326,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 6,
-    "fwci": 1.8348,
+    "fwci": 1.8329,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",

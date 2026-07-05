@@ -84,7 +84,7 @@
         "institution": {
           "id": "https://openalex.org/I129604602",
           "ror": "https://ror.org/0384j8v12",
-          "display_name": "The University of Sydney",
+          "display_name": "University of Sydney",
           "country_code": "AU",
           "type": "education",
           "lineage": [
@@ -459,7 +459,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.000085,
+        "value": 0.0000849,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -527,7 +527,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000452,
+        "value": 0.0000451,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -864,7 +864,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-07-03T12:16:56",
+    "updated_date": "2026-07-04T12:17:28",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
