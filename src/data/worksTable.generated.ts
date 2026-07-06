@@ -2967,8 +2967,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-12",
     "year": 2003,
     "venue": "Earth-Science Reviews",
-    "citations": 292,
-    "fwci": 4.3762,
+    "citations": 293,
+    "fwci": 4.3763,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -10701,6 +10701,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4200082009",
+    "doi": "https://doi.org/10.1016/j.gca.2021.12.022",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5033110755",
+      "A5074634117",
+      "A5075568187"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Whattam",
+      "R. H. Hewins",
+      "Jieun Seo",
+      "Bertrand Devouard"
+    ],
+    "title": "Refractory inclusions as Type IA chondrule precursors: Constraints from melting experiments",
+    "publicationDate": "2021-12-28",
+    "year": 2021,
+    "venue": "Geochimica et Cosmochimica Acta",
+    "citations": 7,
+    "fwci": 0.6037,
+    "topics": [
+      "Astro and Planetary Science",
+      "Astrophysics and Star Formation Studies",
+      "Planetary Science and Exploration"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Rutgers, The State University of New Jersey",
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+      "Korea University",
+      "Aix-Marseille Université",
+      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
+      "Institut de Recherche pour le Développement"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3031303321",
     "doi": "https://doi.org/10.1038/s41467-020-16570-5",
     "program": "",
@@ -11278,47 +11319,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "The University of Texas at Dallas"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4200082009",
-    "doi": "https://doi.org/10.1016/j.gca.2021.12.022",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5033110755",
-      "A5074634117",
-      "A5075568187"
-    ],
-    "firstAuthorLastName": "Whattam",
-    "allAuthors": [
-      "Scott Whattam",
-      "R. H. Hewins",
-      "Jieun Seo",
-      "Bertrand Devouard"
-    ],
-    "title": "Refractory inclusions as Type IA chondrule precursors: Constraints from melting experiments",
-    "publicationDate": "2021-12-28",
-    "year": 2021,
-    "venue": "Geochimica et Cosmochimica Acta",
-    "citations": 6,
-    "fwci": 0.6036,
-    "topics": [
-      "Astro and Planetary Science",
-      "Astrophysics and Star Formation Studies",
-      "Planetary Science and Exploration"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Rutgers, The State University of New Jersey",
-      "Centre National de la Recherche Scientifique",
-      "Sorbonne Université",
-      "Institut de minéralogie, de physique des matériaux et de cosmochimie",
-      "Korea University",
-      "Aix-Marseille Université",
-      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
-      "Institut de Recherche pour le Développement"
     ]
   },
   {
@@ -23792,33 +23792,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2029409632",
-    "doi": "https://doi.org/10.1016/j.palaeo.2009.12.007",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "Meiobenthic trace fossils comprising a miniature ichnofabric from Late Permian carbonates of the Oman Mountains",
-    "publicationDate": "2009-12-29",
-    "year": 2009,
-    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 22,
-    "fwci": 0.9923,
-    "topics": [
-      "Geological formations and processes",
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Equinor (Norway)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4388776587",
     "doi": "https://doi.org/10.1016/j.palaeo.2023.111913",
     "program": "",
@@ -24762,31 +24735,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W1445124937",
-    "doi": "https://doi.org/10.1016/b978-044452949-7/50157-1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "Meiobenthic Trace Fossils as Keys to the Taphonomic History of Shallow-Marine Epicontinental Carbonates",
-    "publicationDate": "2007-01-01",
-    "year": 2007,
-    "venue": "Elsevier eBooks",
-    "citations": 25,
-    "fwci": 3.5173,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2899742709",
     "doi": "https://doi.org/10.1016/j.earscirev.2018.11.001",
     "program": "",
@@ -24841,6 +24789,33 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Equinor (Norway)",
       "University of Ottawa"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2029409632",
+    "doi": "https://doi.org/10.1016/j.palaeo.2009.12.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Meiobenthic trace fossils comprising a miniature ichnofabric from Late Permian carbonates of the Oman Mountains",
+    "publicationDate": "2009-12-29",
+    "year": 2009,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 23,
+    "fwci": 0.9544,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
     ]
   },
   {
@@ -24937,7 +24912,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 1.346,
+    "fwci": 1.3461,
     "topics": [
       "Time Series Analysis and Forecasting",
       "Geochemistry and Geologic Mapping",
@@ -25241,6 +25216,31 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Equinor (Norway)"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W1445124937",
+    "doi": "https://doi.org/10.1016/b978-044452949-7/50157-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Meiobenthic Trace Fossils as Keys to the Taphonomic History of Shallow-Marine Epicontinental Carbonates",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "Elsevier eBooks",
+    "citations": 26,
+    "fwci": 4.0646,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3176859495",
@@ -26119,7 +26119,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 2.0602,
+    "fwci": 2.06,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -33800,7 +33800,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.4291,
+    "fwci": 0.4289,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -51458,7 +51458,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 2,
-    "fwci": 1.025,
+    "fwci": 1.024,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52983,8 +52983,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-04-20",
     "year": 2021,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 25,
-    "fwci": 6.0989,
+    "citations": 27,
+    "fwci": 5.409,
     "topics": [
       "NMR spectroscopy and applications",
       "Hydrocarbon exploration and reservoir analysis",
@@ -88088,7 +88088,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 186,
-    "fwci": 118.0243,
+    "fwci": 118.0211,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -88577,7 +88577,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.6922,
+    "fwci": 2.6925,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -91847,6 +91847,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2738122598",
+    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5031810631",
+      "A5064936522",
+      "A5057911678",
+      "A5110504212",
+      "A5060667788"
+    ],
+    "firstAuthorLastName": "Song",
+    "allAuthors": [
+      "Dongfang Song",
+      "Wenjiao Xiao",
+      "Alan S. Collins",
+      "Stijn Glorie",
+      "Chunming Han",
+      "Yongchen Li"
+    ],
+    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
+    "publicationDate": "2017-07-19",
+    "year": 2017,
+    "venue": "Precambrian Research",
+    "citations": 70,
+    "fwci": 4.337,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Sciences",
+      "Institute of Geology and Geophysics",
+      "University of Adelaide",
+      "Center for Excellence in Tibetan Plateau Earth Sciences",
+      "Xinjiang Institute of Ecology and Geography"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2021882539",
     "doi": "https://doi.org/10.1016/j.gr.2011.04.011",
     "program": "",
@@ -91915,47 +91956,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "Universidad de Jaén",
       "Universidad de Granada"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2738122598",
-    "doi": "https://doi.org/10.1016/j.precamres.2017.07.015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5031810631",
-      "A5064936522",
-      "A5057911678",
-      "A5110504212",
-      "A5060667788"
-    ],
-    "firstAuthorLastName": "Song",
-    "allAuthors": [
-      "Dongfang Song",
-      "Wenjiao Xiao",
-      "Alan S. Collins",
-      "Stijn Glorie",
-      "Chunming Han",
-      "Yongchen Li"
-    ],
-    "title": "New chronological constrains on the tectonic affinity of the Alxa Block, NW China",
-    "publicationDate": "2017-07-19",
-    "year": 2017,
-    "venue": "Precambrian Research",
-    "citations": 69,
-    "fwci": 4.5549,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Sciences",
-      "Institute of Geology and Geophysics",
-      "University of Adelaide",
-      "Center for Excellence in Tibetan Plateau Earth Sciences",
-      "Xinjiang Institute of Ecology and Geography"
     ]
   },
   {
@@ -101375,10 +101375,10 @@ export const worksTable: WorkTableRecord[] = [
     "firstAuthorLastName": "Gaillou",
     "allAuthors": [
       "Éloïse Gaillou",
-      "Wang, Wuyi",
-      "Post, Jeffrey E.",
+      "Wuyi, Wang",
+      "Post, J. E.",
       "J. E. King",
-      "Butler, James E.",
+      "Butler, J. E.",
       "Alan S. Collins",
       "Moses Thomas"
     ],
@@ -109363,8 +109363,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-04-22",
     "year": 2024,
     "venue": "Journal of environmental chemical engineering",
-    "citations": 44,
-    "fwci": 7.8544,
+    "citations": 45,
+    "fwci": 7.5035,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Methane Hydrates and Related Phenomena",
@@ -124349,7 +124349,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "International journal of greenhouse gas control",
     "citations": 58,
-    "fwci": 4.1772,
+    "fwci": 4.1775,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -128764,39 +128764,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4402100667",
-    "doi": "https://doi.org/10.1016/j.fuel.2024.132923",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5106908772",
-      "A5074883327",
-      "A5059738250"
-    ],
-    "firstAuthorLastName": "Gaduwang",
-    "allAuthors": [
-      "Adamu Kimayim Gaduwang",
-      "Bassam Tawabini",
-      "Israa S. Abu‐Mahfouz",
-      "Ahmed Al‐Yaseri"
-    ],
-    "title": "Assessing hydrogen production potential from carbonate and shale source rocks: A geochemical investigation",
-    "publicationDate": "2024-09-01",
-    "year": 2024,
-    "venue": "Fuel",
-    "citations": 17,
-    "fwci": 3.9663,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4404328718",
     "doi": "https://doi.org/10.1021/acs.energyfuels.4c04405",
     "program": "",
@@ -128826,8 +128793,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-11-13",
     "year": 2024,
     "venue": "Energy & Fuels",
-    "citations": 17,
-    "fwci": 3.9501,
+    "citations": 18,
+    "fwci": 3.9481,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal Properties and Utilization",
@@ -128840,6 +128807,39 @@ export const worksTable: WorkTableRecord[] = [
       "University of Kerbala",
       "Umm al-Qura University",
       "Institute of Construction and Architecture of the Slovak Academy of Sciences",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4402100667",
+    "doi": "https://doi.org/10.1016/j.fuel.2024.132923",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5106908772",
+      "A5074883327",
+      "A5059738250"
+    ],
+    "firstAuthorLastName": "Gaduwang",
+    "allAuthors": [
+      "Adamu Kimayim Gaduwang",
+      "Bassam Tawabini",
+      "Israa S. Abu‐Mahfouz",
+      "Ahmed Al‐Yaseri"
+    ],
+    "title": "Assessing hydrogen production potential from carbonate and shale source rocks: A geochemical investigation",
+    "publicationDate": "2024-09-01",
+    "year": 2024,
+    "venue": "Fuel",
+    "citations": 17,
+    "fwci": 3.9663,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -134308,7 +134308,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 3.0776,
+    "fwci": 3.0779,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",

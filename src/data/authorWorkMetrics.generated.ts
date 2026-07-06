@@ -221,7 +221,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5010401681",
     "year": 2003,
-    "citations": 292
+    "citations": 293
   },
   {
     "authorId": "A5010401681",
@@ -895,6 +895,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5011750653",
+    "year": 2021,
+    "citations": 7
+  },
+  {
+    "authorId": "A5011750653",
     "year": 2020,
     "citations": 5
   },
@@ -932,11 +937,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5011750653",
     "year": 2015,
     "citations": 8
-  },
-  {
-    "authorId": "A5011750653",
-    "year": 2021,
-    "citations": 6
   },
   {
     "authorId": "A5011750653",
@@ -1790,11 +1790,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5013195813",
-    "year": 2009,
-    "citations": 22
-  },
-  {
-    "authorId": "A5013195813",
     "year": 2012,
     "citations": 102
   },
@@ -1890,8 +1885,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5013195813",
-    "year": 2007,
-    "citations": 25
+    "year": 2009,
+    "citations": 23
   },
   {
     "authorId": "A5013195813",
@@ -1932,6 +1927,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5013195813",
     "year": 2025,
     "citations": 4
+  },
+  {
+    "authorId": "A5013195813",
+    "year": 2007,
+    "citations": 26
   },
   {
     "authorId": "A5013195813",
@@ -3511,7 +3511,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5035537771",
     "year": 2021,
-    "citations": 25
+    "citations": 27
   },
   {
     "authorId": "A5035537771",
@@ -7971,7 +7971,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5054922583",
     "year": 2024,
-    "citations": 44
+    "citations": 45
   },
   {
     "authorId": "A5054922583",
@@ -10231,7 +10231,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5079903196",
     "year": 2024,
-    "citations": 17
+    "citations": 18
   },
   {
     "authorId": "A5079903196",
