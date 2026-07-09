@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 87,
-    "cited_by_count": 6036,
+    "cited_by_count": 6038,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -84,7 +84,7 @@
         "institution": {
           "id": "https://openalex.org/I129604602",
           "ror": "https://ror.org/0384j8v12",
-          "display_name": "University of Sydney",
+          "display_name": "The University of Sydney",
           "country_code": "AU",
           "type": "education",
           "lineage": [
@@ -783,7 +783,7 @@
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 1038
+        "cited_by_count": 1039
       },
       {
         "year": 2014,
@@ -807,7 +807,7 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 1,
-        "cited_by_count": 153
+        "cited_by_count": 154
       },
       {
         "year": 2018,
@@ -864,7 +864,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-07-04T12:17:28",
+    "updated_date": "2026-07-08T12:17:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1219,11 +1219,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 24.1584,
+      "fwci": 24.1568,
       "has_fulltext": false,
-      "cited_by_count": 799,
+      "cited_by_count": 800,
       "citation_normalized_percentile": {
-        "value": 0.99862774,
+        "value": 0.99862768,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1529,8 +1529,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -1621,8 +1621,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 312,
@@ -1956,7 +1956,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 54
+          "cited_by_count": 55
         },
         {
           "year": 2025,
@@ -2015,7 +2015,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-09T07:52:08.696243",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3099,15 +3099,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 316,
@@ -4810,15 +4810,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 214,
@@ -5517,15 +5517,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -6661,15 +6661,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -7345,8 +7345,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -7368,8 +7368,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -8182,8 +8182,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -8195,8 +8195,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -9472,8 +9472,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -10005,15 +10005,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -10491,15 +10491,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5199999809265137,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -11999,15 +11999,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -13244,15 +13244,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 226,
@@ -14099,8 +14099,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -14112,8 +14112,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -14713,15 +14713,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -16752,8 +16752,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -16785,8 +16785,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 157,
@@ -17967,15 +17967,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -18584,8 +18584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 177,
@@ -19285,8 +19285,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -19303,8 +19303,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -19937,15 +19937,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.44999998807907104,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20508,8 +20508,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -20521,8 +20521,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -21329,15 +21329,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -23062,15 +23062,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.7300000190734863,
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -23673,8 +23673,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -23686,8 +23686,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -24312,15 +24312,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -25085,15 +25085,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -25660,8 +25660,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.4300000071525574,
-          "display_name": "Peace, Justice and strong institutions"
+          "display_name": "Peace, Justice and strong institutions",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -25678,8 +25678,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -27114,8 +27114,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -27132,8 +27132,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -28276,8 +28276,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -28289,8 +28289,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -30305,8 +30305,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -30328,8 +30328,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -31139,8 +31139,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -32520,15 +32520,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -32990,15 +32990,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.699999988079071,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -33721,8 +33721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -34114,15 +34114,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -35382,8 +35382,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.49000000953674316,
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -35400,8 +35400,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -35834,8 +35834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -36405,8 +36405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37691,15 +37691,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -38225,15 +38225,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -39583,15 +39583,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40890,15 +40890,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -42695,8 +42695,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -43038,15 +43038,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/5",
-          "score": 0.75,
-          "display_name": "Gender equality"
+          "display_name": "Gender equality",
+          "score": 0.75
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43472,15 +43472,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -44842,8 +44842,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2048987162.pdf",
@@ -45892,15 +45892,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -47778,8 +47778,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -49023,15 +49023,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6899999976158142,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49748,8 +49748,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -49761,8 +49761,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51169,15 +51169,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52112,8 +52112,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53167,15 +53167,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54292,15 +54292,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54903,15 +54903,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2248607991.pdf",
@@ -55276,8 +55276,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -55723,8 +55723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56795,15 +56795,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57835,8 +57835,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -58619,8 +58619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -59483,8 +59483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -61288,8 +61288,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62200,15 +62200,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.800000011920929,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62444,15 +62444,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62776,8 +62776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63191,8 +63191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63555,15 +63555,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63808,8 +63808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64271,8 +64271,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65021,8 +65021,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W94473743.pdf",
@@ -65790,15 +65790,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -66389,8 +66389,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -67066,8 +67066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67771,15 +67771,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68268,8 +68268,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -68755,15 +68755,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69239,8 +69239,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -70069,15 +70069,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70536,8 +70536,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71100,8 +71100,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71449,15 +71449,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/4",
-          "score": 0.5199999809265137,
-          "display_name": "Quality Education"
+          "display_name": "Quality Education",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71830,3938 +71830,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4241819938",
-      "doi": "https://doi.org/10.3133/ofr81582b",
-      "title": "Appendices of environmental geologic studies on the southeastern United States Atlantic Outer Continental Shelf, 1977-1978",
-      "display_name": "Appendices of environmental geologic studies on the southeastern United States Atlantic Outer Continental Shelf, 1977-1978",
-      "publication_year": 1981,
-      "publication_date": "1981-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4241819938",
-        "doi": "https://doi.org/10.3133/ofr81582b"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3133/ofr81582b",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3133/ofr81582b",
-        "pdf_url": "https://pubs.usgs.gov/of/1981/0582-b/report.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210194219",
-          "display_name": "Antarctica A Keystone in a Changing World",
-          "issn_l": "0196-1497",
-          "issn": [
-            "0196-1497",
-            "2331-1258",
-            "2332-4899"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316088",
-          "host_organization_name": "United States Department of the Interior",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316088"
-          ],
-          "host_organization_lineage_names": [
-            "United States Department of the Interior"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Open-File Report",
-        "raw_type": "report-component"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://pubs.usgs.gov/of/1981/0582-b/report.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5089299204",
-            "display_name": "Michael H. Bothner",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "M Bothner",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Peter Johnson",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5087466328",
-            "display_name": "James D. Doyle",
-            "orcid": "https://orcid.org/0000-0003-2941-2132"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J Doyle",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Georgia Univ.",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108624785",
-            "display_name": "F Wall",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "F Wall",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091365379",
-            "display_name": "Paul A. Schroeder",
-            "orcid": "https://orcid.org/0000-0003-2557-4644"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "P Schroeder",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Georgia Univ.",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028558751",
-            "display_name": "Steven Paul Woods",
-            "orcid": "https://orcid.org/0000-0001-6873-5722"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S Woods",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017038318",
-            "display_name": "Harley J. Knebel",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Harley Knebel",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991803",
-            "display_name": "W Ferre'jee",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "W Ferre'jee",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991804",
-            "display_name": "Watch Chief",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Watch Chief",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991786",
-            "display_name": "Patricia Forrestel",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Patricia Forrestel",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991787",
-            "display_name": "Felicity Oram",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Felicity Oram",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991788",
-            "display_name": "Michael Kerkmann",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael Kerkmann",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "Georgia Univ.",
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991789",
-            "display_name": "Franchot Scarver",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Franchot Scarver",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Alpine Geophysical",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027685674",
-            "display_name": "John Dunlavey",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Dunlavey",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Alpine Geophysical",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991790",
-            "display_name": "Prescott Heald",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Prescott Heald",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991791",
-            "display_name": "James Katsolis",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "James Katsolis",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991792",
-            "display_name": "John Eastlund",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Eastlund",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991793",
-            "display_name": "Charles Gove",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Gove",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991794",
-            "display_name": "John Ratkewitz",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Ratkewitz",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110478981",
-            "display_name": "R. R. Reynolds",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert Reynolds",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991795",
-            "display_name": "John Ripp",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Ripp",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "Georgia Univ.",
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038345922",
-            "display_name": "Orrin H. Pilkey",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Orrin Pilkey",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Duke University",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5019310233",
-            "display_name": "H. J. W. Fay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "H Fay",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Georgia Univ.",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991796",
-            "display_name": "Norman Halverson",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Norman Halverson",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Duke University",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100861103",
-            "display_name": "Sally Wood",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sally Wood",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991797",
-            "display_name": "Nick Lefteriou",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nick Lefteriou",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112793326",
-            "display_name": "Dennis Barry",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dennis Barry",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991798",
-            "display_name": "Irwin Skidaway",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Irwin Skidaway",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066052039",
-            "display_name": "Robert T. Giles",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert Giles",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5006258484",
-            "display_name": "J. D. Howard J. R. Deery",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Deery",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114003432",
-            "display_name": "Bill Neal",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bill Neal",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014956341",
-            "display_name": "Jay Van Tassell",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jay Van Tassell",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991799",
-            "display_name": "Klein Associates",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Klein Associates",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991800",
-            "display_name": "Charles Finklestein",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Finklestein",
-          "raw_affiliation_strings": [
-            "Duke University",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085865493",
-            "display_name": "Charles E. Dill",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Dill",
-          "raw_affiliation_strings": [
-            "Georgia Univ.",
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Alpine Geophysical"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991801",
-            "display_name": "John Eastland",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Eastland",
-          "raw_affiliation_strings": [
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Georgia Univ.",
-            "Alpine Geophysical",
-            "Duke University"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018644467",
-            "display_name": "Brian Harrington",
-            "orcid": "https://orcid.org/0000-0002-0734-9630"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Brian Harrington",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Duke University",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081899509",
-            "display_name": "Roger Zaunere",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Roger Zaunere",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "Duke University",
-            "Georgia Univ.",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5094991802",
-            "display_name": "Loran Readings",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I165733156",
-              "display_name": "University of Georgia",
-              "ror": "https://ror.org/00te3t702",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I165733156"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799922383",
-              "display_name": "Geophysical Survey",
-              "ror": "https://ror.org/05sbpak56",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I2799922383",
-                "https://openalex.org/I4210163714"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I170897317",
-              "display_name": "Duke University",
-              "ror": "https://ror.org/00py81415",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I170897317"
-              ]
-            }
-          ],
-          "countries": [
-            "RU",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Loran Readings",
-          "raw_affiliation_strings": [
-            "Alpine Geophysical",
-            "Duke University",
-            "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-            "Georgia Univ."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Alpine Geophysical",
-              "institution_ids": [
-                "https://openalex.org/I2799922383"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Duke University",
-              "institution_ids": [
-                "https://openalex.org/I170897317"
-              ]
-            },
-            {
-              "raw_affiliation_string": "U.S. GEOLOGICAL SURVEY OFFICE OF MARINE GEOLOGY WOODS HOLE, MASSACHUSETTS 02543 SOUTHEAST GEORGIA EMBAYMENT AREA",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Georgia Univ.",
-              "institution_ids": [
-                "https://openalex.org/I165733156"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Sta",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Sta",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "H Observer",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H Observer",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": null,
-            "display_name": "Noble",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Noble",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 42,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5089299204"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1286329397",
-        "https://openalex.org/I165733156",
-        "https://openalex.org/I170897317",
-        "https://openalex.org/I2799922383"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": true,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.7214000225067139,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.7214000225067139,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/continental-shelf",
-          "display_name": "Continental shelf",
-          "score": 0.8710052967071533
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.7157989740371704
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5538613796234131
-        },
-        {
-          "id": "https://openalex.org/keywords/atlantic-hurricane",
-          "display_name": "Atlantic hurricane",
-          "score": 0.45361804962158203
-        },
-        {
-          "id": "https://openalex.org/keywords/gulf-stream",
-          "display_name": "Gulf Stream",
-          "score": 0.4194898009300232
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.4022623300552368
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C184751465",
-          "wikidata": "https://www.wikidata.org/wiki/Q134851",
-          "display_name": "Continental shelf",
-          "level": 2,
-          "score": 0.8710052967071533
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.7157989740371704
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5538613796234131
-        },
-        {
-          "id": "https://openalex.org/C35647692",
-          "wikidata": "https://www.wikidata.org/wiki/Q2547976",
-          "display_name": "Atlantic hurricane",
-          "level": 3,
-          "score": 0.45361804962158203
-        },
-        {
-          "id": "https://openalex.org/C120221134",
-          "wikidata": "https://www.wikidata.org/wiki/Q130905",
-          "display_name": "Gulf Stream",
-          "level": 2,
-          "score": 0.4194898009300232
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.4022623300552368
-        },
-        {
-          "id": "https://openalex.org/C29141058",
-          "wikidata": "https://www.wikidata.org/wiki/Q8092",
-          "display_name": "Tropical cyclone",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3133/ofr81582b",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3133/ofr81582b",
-          "pdf_url": "https://pubs.usgs.gov/of/1981/0582-b/report.pdf",
-          "source": {
-            "id": "https://openalex.org/S4210194219",
-            "display_name": "Antarctica A Keystone in a Changing World",
-            "issn_l": "0196-1497",
-            "issn": [
-              "0196-1497",
-              "2331-1258",
-              "2332-4899"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316088",
-            "host_organization_name": "United States Department of the Interior",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316088"
-            ],
-            "host_organization_lineage_names": [
-              "United States Department of the Interior"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Open-File Report",
-          "raw_type": "report-component"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3133/ofr81582b",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3133/ofr81582b",
-        "pdf_url": "https://pubs.usgs.gov/of/1981/0582-b/report.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210194219",
-          "display_name": "Antarctica A Keystone in a Changing World",
-          "issn_l": "0196-1497",
-          "issn": [
-            "0196-1497",
-            "2331-1258",
-            "2332-4899"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316088",
-          "host_organization_name": "United States Department of the Interior",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316088"
-          ],
-          "host_organization_lineage_names": [
-            "United States Department of the Interior"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Open-File Report",
-        "raw_type": "report-component"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4241819938.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4241819938.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2063085992",
-        "https://openalex.org/W2044536674",
-        "https://openalex.org/W2105237378",
-        "https://openalex.org/W2499378858",
-        "https://openalex.org/W1984325734",
-        "https://openalex.org/W2090670176",
-        "https://openalex.org/W2068785974",
-        "https://openalex.org/W3148000779",
-        "https://openalex.org/W2064348612",
-        "https://openalex.org/W2946327900"
-      ],
-      "abstract_inverted_index": {
-        "Shelf:": [
-          0
-        ],
-        "estimates": [
-          1
-        ],
-        "and": [
-          2
-        ],
-        "rates": [
-          3
-        ],
-        "of": [
-          4
-        ],
-        "sediment": [
-          5
-        ],
-        "mixing\"": [
-          6
-        ],
-        "by": [
-          7
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-01-09T06:25:30.743933",
-      "created_date": "2022-05-12T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4387834111",
       "doi": "https://doi.org/10.7302/18381",
       "title": "Menc As Arbiter Of Taste For Secondary School Choirs.",
@@ -76089,8 +72157,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76576,8 +72644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77491,8 +73559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78046,8 +74114,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78651,8 +74719,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79285,15 +75353,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/17",
-          "score": 0.5504250526428223,
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "score": 0.5504250526428223
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
