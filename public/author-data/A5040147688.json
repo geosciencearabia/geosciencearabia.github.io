@@ -4,7 +4,6 @@
     "orcid": "https://orcid.org/0000-0002-9881-1578",
     "display_name": "Michael H. Stephenson",
     "raw_author_names": [
-      "Gabi Ogg",
       "H. STEPHENSON, MICHAEL",
       "M. H. Stephenson",
       "M. Stephenson",
@@ -21,8 +20,8 @@
       "STEPHENSON, MICHAEL H."
     ],
     "full_name": "Michael  Henry Stephenson",
-    "works_count": 163,
-    "cited_by_count": 2979,
+    "works_count": 162,
+    "cited_by_count": 2980,
     "summary_stats": {
       "2yr_mean_citedness": 1.6111111111111112,
       "h_index": 31,
@@ -162,22 +161,6 @@
         },
         "years": [
           2010
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210086287",
-          "ror": "https://ror.org/0000pmw59",
-          "display_name": "Institute of Vertebrate Paleontology and Paleoanthropology",
-          "country_code": "CN",
-          "type": "facility",
-          "lineage": [
-            "https://openalex.org/I19820366",
-            "https://openalex.org/I4210086287"
-          ]
-        },
-        "years": [
-          2019
         ]
       },
       {
@@ -369,7 +352,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000295,
+        "value": 0.0002951,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -386,7 +369,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001191,
+        "value": 0.0001192,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -420,7 +403,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000911,
+        "value": 0.0000912,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -437,7 +420,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000848,
+        "value": 0.0000849,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -631,9 +614,9 @@
       },
       {
         "year": 2019,
-        "works_count": 14,
-        "oa_works_count": 11,
-        "cited_by_count": 592
+        "works_count": 13,
+        "oa_works_count": 10,
+        "cited_by_count": 593
       },
       {
         "year": 2020,
@@ -679,7 +662,6 @@
       }
     ],
     "display_name_alternatives": [
-      "Gabi Ogg",
       "H. STEPHENSON, MICHAEL",
       "M. H. Stephenson",
       "M. Stephenson",
@@ -697,7 +679,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-07-08T12:17:11",
+    "updated_date": "2026-07-09T12:18:36",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
