@@ -383,7 +383,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002295,
+        "value": 0.0002293,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -417,7 +417,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001192,
+        "value": 0.0001191,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -434,7 +434,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000799,
+        "value": 0.0000797,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -781,7 +781,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-07-06T12:18:18",
+    "updated_date": "2026-07-10T12:16:47",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -6062,8 +6062,8 @@
           "raw_affiliation_strings": [
             "Sorbonne Université, CNRS-INSU, Institut des Sciences de la Terre de Paris, iSTeP, 4 place Jussieu, 75005 Paris, France",
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
+            "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6082,16 +6082,16 @@
               ]
             },
             {
+              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
               "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -6637,8 +6637,8 @@
           "raw_affiliation_strings": [
             "Department of Marine Sciences, University of Connecticut, 1080 Shennecossett Road, Groton, CT 06340, USA",
             "UMR CNRS 6282 Biogéosciences, Université de Bourgogne Franche-Comté, 6, Bd Gabriel, 21000 Dijon, France",
-            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
+            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
+            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6656,15 +6656,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
               "institution_ids": [
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I177064439"
               ]
+            },
+            {
+              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+              "institution_ids": []
             }
           ]
         }
@@ -7374,7 +7374,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-10T07:45:09.275182",
+      "updated_date": "2026-07-11T18:08:03.149640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22129,11 +22129,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 0.4167,
+      "fwci": 0.4138,
       "has_fulltext": false,
-      "cited_by_count": 33,
+      "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.64005185,
+        "value": 0.63756372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22407,7 +22407,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-22T06:23:43.705686",
+      "updated_date": "2026-07-11T18:08:03.149640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27630,16 +27630,16 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.5831,
+      "fwci": 1.5822,
       "has_fulltext": false,
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.82054241,
+        "value": 0.82060185,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 96
       },
       "biblio": {
@@ -27927,7 +27927,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-11T18:08:03.149640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
