@@ -333,7 +333,7 @@
     ],
     "block_key": "a herlambang",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051302005",
-    "updated_date": "2026-07-09T12:18:36",
+    "updated_date": "2026-07-12T12:17:34",
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
@@ -3705,23 +3705,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I102254642",
-              "display_name": "University of Kirkuk",
-              "ror": "https://ror.org/01pk8rb11",
+              "id": "https://openalex.org/I4405259774",
+              "display_name": "Knowledge University",
+              "ror": "https://ror.org/02pk91c23",
               "country_code": "IQ",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I102254642"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I3151615967",
-              "display_name": "University of Kurdistan Hewler",
-              "ror": "https://ror.org/00268wk31",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3151615967"
+                "https://openalex.org/I4405259774"
               ]
             }
           ],
@@ -3738,8 +3728,7 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering, College of Engineering, Knowledge University, Kirkuk Road, 44001, Erbil Kurdistan, Iraq",
               "institution_ids": [
-                "https://openalex.org/I102254642",
-                "https://openalex.org/I3151615967"
+                "https://openalex.org/I4405259774"
               ]
             }
           ]
@@ -3919,7 +3908,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5018306569"
       ],
@@ -3932,11 +3921,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 8.662,
+      "fwci": 8.6188,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.97067678,
+        "value": 0.97052812,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4402,7 +4391,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-09T07:52:08.696243",
+      "updated_date": "2026-07-13T07:31:44.756512",
       "created_date": "2025-10-10T00:00:00"
     },
     {

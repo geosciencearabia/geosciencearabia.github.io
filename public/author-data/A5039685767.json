@@ -10,12 +10,13 @@
       "Marco VECOLI",
       "Marco Vecoli",
       "Mezzetti A",
+      "Servais Thomas",
       "Vecoli, M.",
       "Vecoli, Marco"
     ],
     "full_name": "Vecoli, Marco",
     "works_count": 131,
-    "cited_by_count": 3081,
+    "cited_by_count": 3083,
     "summary_stats": {
       "2yr_mean_citedness": 0.5,
       "h_index": 34,
@@ -328,7 +329,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000389,
+        "value": 0.0003888,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -396,7 +397,7 @@
       {
         "id": "https://openalex.org/T10385",
         "display_name": "Plant Diversity and Evolution",
-        "value": 0.0000823,
+        "value": 0.0000822,
         "subfield": {
           "id": "https://openalex.org/subfields/1105",
           "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -532,7 +533,7 @@
         "year": 2011,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 380
+        "cited_by_count": 381
       },
       {
         "year": 2012,
@@ -580,7 +581,7 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 17
+        "cited_by_count": 18
       },
       {
         "year": 2020,
@@ -626,12 +627,13 @@
       "Marco VECOLI",
       "Marco Vecoli",
       "Mezzetti A",
+      "Servais Thomas",
       "Vecoli, M.",
       "Vecoli, Marco"
     ],
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-07-10T12:16:47",
+    "updated_date": "2026-07-12T12:17:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -26524,9 +26526,9 @@
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
             "Institut des Sciences de la Terre Paris (ISTEP) - UMR CNRS 7193, Université Paris 6, 75252 Paris, France",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)",
-            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
+            "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -26536,6 +26538,12 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -26549,12 +26557,6 @@
               "institution_ids": [
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210126236"
-              ]
-            },
-            {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210097099"
               ]
             }
           ]
@@ -26575,11 +26577,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 3.6505,
+      "fwci": 3.6507,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.92624045,
+        "value": 0.92624529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27119,7 +27121,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-13T07:31:44.756512",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45465,6 +45467,530 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2960545957",
+      "doi": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
+      "title": "Palynofacies, paleoenvironment and thermal maturity of early Silurian shales in Saudi Arabia (Qusaiba Member of Qalibah Formation)",
+      "display_name": "Palynofacies, paleoenvironment and thermal maturity of early Silurian shales in Saudi Arabia (Qusaiba Member of Qalibah Formation)",
+      "publication_year": 2019,
+      "publication_date": "2019-07-10",
+      "ids": {
+        "openalex": "https://openalex.org/W2960545957",
+        "doi": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
+        "mag": "2960545957"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.revpalbo.2019.06.018",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S43762691",
+          "display_name": "Review of Palaeobotany and Palynology",
+          "issn_l": "0034-6667",
+          "issn": [
+            "0034-6667",
+            "1879-0615"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Review of Palaeobotany and Palynology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5028197559",
+            "display_name": "Kaya Ertug",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kaya Ertug",
+          "raw_affiliation_strings": [
+            "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039685767",
+            "display_name": "Marco Vecoli",
+            "orcid": "https://orcid.org/0000-0001-9203-7625"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Marco Vecoli",
+          "raw_affiliation_strings": [
+            "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5048746530",
+            "display_name": "Sedat İnan",
+            "orcid": "https://orcid.org/0000-0001-5639-6831"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sedat İnan",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039685767"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3080,
+        "currency": "USD",
+        "value_usd": 3080
+      },
+      "apc_paid": null,
+      "fwci": 0.8829,
+      "has_fulltext": false,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.69733459,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "270",
+        "issue": null,
+        "first_page": "8",
+        "last_page": "18"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/palynofacies",
+          "display_name": "Palynofacies",
+          "score": 0.8968167304992676
+        },
+        {
+          "id": "https://openalex.org/keywords/maturity",
+          "display_name": "Maturity (psychological)",
+          "score": 0.856411337852478
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7343045473098755
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.630974531173706
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.1501641869544983
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C46984767",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynofacies",
+          "level": 4,
+          "score": 0.8968167304992676
+        },
+        {
+          "id": "https://openalex.org/C101433766",
+          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
+          "display_name": "Maturity (psychological)",
+          "level": 2,
+          "score": 0.856411337852478
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7343045473098755
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.630974531173706
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.1501641869544983
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.revpalbo.2019.06.018",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S43762691",
+            "display_name": "Review of Palaeobotany and Palynology",
+            "issn_l": "0034-6667",
+            "issn": [
+              "0034-6667",
+              "1879-0615"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Review of Palaeobotany and Palynology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 63,
+      "referenced_works": [
+        "https://openalex.org/W35162379",
+        "https://openalex.org/W345581524",
+        "https://openalex.org/W364087571",
+        "https://openalex.org/W787689512",
+        "https://openalex.org/W1497047052",
+        "https://openalex.org/W1528621231",
+        "https://openalex.org/W1547540587",
+        "https://openalex.org/W1599178669",
+        "https://openalex.org/W1896304009",
+        "https://openalex.org/W1964578975",
+        "https://openalex.org/W1966540965",
+        "https://openalex.org/W1967171423",
+        "https://openalex.org/W1973948464",
+        "https://openalex.org/W1982737699",
+        "https://openalex.org/W1984513230",
+        "https://openalex.org/W2001778524",
+        "https://openalex.org/W2003091363",
+        "https://openalex.org/W2007628258",
+        "https://openalex.org/W2012555894",
+        "https://openalex.org/W2014417865",
+        "https://openalex.org/W2028018572",
+        "https://openalex.org/W2036699305",
+        "https://openalex.org/W2043876474",
+        "https://openalex.org/W2046616015",
+        "https://openalex.org/W2050580822",
+        "https://openalex.org/W2051585725",
+        "https://openalex.org/W2065110112",
+        "https://openalex.org/W2068885376",
+        "https://openalex.org/W2076827470",
+        "https://openalex.org/W2088765570",
+        "https://openalex.org/W2104614970",
+        "https://openalex.org/W2143578317",
+        "https://openalex.org/W2143795174",
+        "https://openalex.org/W2151359348",
+        "https://openalex.org/W2158019769",
+        "https://openalex.org/W2162072276",
+        "https://openalex.org/W2166866809",
+        "https://openalex.org/W2170953363",
+        "https://openalex.org/W2269760075",
+        "https://openalex.org/W2339985958",
+        "https://openalex.org/W2495771092",
+        "https://openalex.org/W2565598957",
+        "https://openalex.org/W2612464251",
+        "https://openalex.org/W2751506457",
+        "https://openalex.org/W2761011283",
+        "https://openalex.org/W2785459033",
+        "https://openalex.org/W2791758229",
+        "https://openalex.org/W2792965592",
+        "https://openalex.org/W2928103387",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W3005830087",
+        "https://openalex.org/W3015449541",
+        "https://openalex.org/W3019306654",
+        "https://openalex.org/W3124096776",
+        "https://openalex.org/W3140880876",
+        "https://openalex.org/W6601454374",
+        "https://openalex.org/W6632449939",
+        "https://openalex.org/W6639790589",
+        "https://openalex.org/W6669735438",
+        "https://openalex.org/W6673052833",
+        "https://openalex.org/W6681296510",
+        "https://openalex.org/W6683867963",
+        "https://openalex.org/W6693553638"
+      ],
+      "related_works": [
+        "https://openalex.org/W2031066500",
+        "https://openalex.org/W2151588852",
+        "https://openalex.org/W2904862667",
+        "https://openalex.org/W1987923876",
+        "https://openalex.org/W2149149528",
+        "https://openalex.org/W2085237771",
+        "https://openalex.org/W2978409338",
+        "https://openalex.org/W2320420382",
+        "https://openalex.org/W2030818517",
+        "https://openalex.org/W2325222095"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-07-12T07:33:03.550515",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2752535463",
       "doi": "https://doi.org/10.1016/j.revmic.2017.06.003",
       "title": "Middle Ordovician cryptospores from the Saq-Hanadir transitional beds in the QSIM-801 well, Saudi Arabia",
@@ -46199,526 +46725,6 @@
         }
       ],
       "updated_date": "2026-07-02T09:51:11.867554",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2960545957",
-      "doi": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
-      "title": "Palynofacies, paleoenvironment and thermal maturity of early Silurian shales in Saudi Arabia (Qusaiba Member of Qalibah Formation)",
-      "display_name": "Palynofacies, paleoenvironment and thermal maturity of early Silurian shales in Saudi Arabia (Qusaiba Member of Qalibah Formation)",
-      "publication_year": 2019,
-      "publication_date": "2019-07-10",
-      "ids": {
-        "openalex": "https://openalex.org/W2960545957",
-        "doi": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
-        "mag": "2960545957"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.revpalbo.2019.06.018",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S43762691",
-          "display_name": "Review of Palaeobotany and Palynology",
-          "issn_l": "0034-6667",
-          "issn": [
-            "0034-6667",
-            "1879-0615"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Review of Palaeobotany and Palynology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5028197559",
-            "display_name": "Kaya Ertug",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kaya Ertug",
-          "raw_affiliation_strings": [
-            "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039685767",
-            "display_name": "Marco Vecoli",
-            "orcid": "https://orcid.org/0000-0001-9203-7625"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Marco Vecoli",
-          "raw_affiliation_strings": [
-            "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biostratigraphy Group, Geological Solutions Division, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5048746530",
-            "display_name": "Sedat İnan",
-            "orcid": "https://orcid.org/0000-0001-5639-6831"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sedat İnan",
-          "raw_affiliation_strings": [
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039685767"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3080,
-        "currency": "USD",
-        "value_usd": 3080
-      },
-      "apc_paid": null,
-      "fwci": 0.9153,
-      "has_fulltext": false,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.7080689,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "270",
-        "issue": null,
-        "first_page": "8",
-        "last_page": "18"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/palynofacies",
-          "display_name": "Palynofacies",
-          "score": 0.8968167304992676
-        },
-        {
-          "id": "https://openalex.org/keywords/maturity",
-          "display_name": "Maturity (psychological)",
-          "score": 0.856411337852478
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7343045473098755
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.630974531173706
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.1501641869544983
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C46984767",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynofacies",
-          "level": 4,
-          "score": 0.8968167304992676
-        },
-        {
-          "id": "https://openalex.org/C101433766",
-          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
-          "display_name": "Maturity (psychological)",
-          "level": 2,
-          "score": 0.856411337852478
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7343045473098755
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.630974531173706
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.1501641869544983
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138496976",
-          "wikidata": "https://www.wikidata.org/wiki/Q175002",
-          "display_name": "Developmental psychology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.revpalbo.2019.06.018",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2019.06.018",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S43762691",
-            "display_name": "Review of Palaeobotany and Palynology",
-            "issn_l": "0034-6667",
-            "issn": [
-              "0034-6667",
-              "1879-0615"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Review of Palaeobotany and Palynology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 63,
-      "referenced_works": [
-        "https://openalex.org/W35162379",
-        "https://openalex.org/W345581524",
-        "https://openalex.org/W364087571",
-        "https://openalex.org/W787689512",
-        "https://openalex.org/W1497047052",
-        "https://openalex.org/W1528621231",
-        "https://openalex.org/W1547540587",
-        "https://openalex.org/W1599178669",
-        "https://openalex.org/W1896304009",
-        "https://openalex.org/W1964578975",
-        "https://openalex.org/W1966540965",
-        "https://openalex.org/W1967171423",
-        "https://openalex.org/W1973948464",
-        "https://openalex.org/W1982737699",
-        "https://openalex.org/W1984513230",
-        "https://openalex.org/W2001778524",
-        "https://openalex.org/W2003091363",
-        "https://openalex.org/W2007628258",
-        "https://openalex.org/W2012555894",
-        "https://openalex.org/W2014417865",
-        "https://openalex.org/W2028018572",
-        "https://openalex.org/W2036699305",
-        "https://openalex.org/W2043876474",
-        "https://openalex.org/W2046616015",
-        "https://openalex.org/W2050580822",
-        "https://openalex.org/W2051585725",
-        "https://openalex.org/W2065110112",
-        "https://openalex.org/W2068885376",
-        "https://openalex.org/W2076827470",
-        "https://openalex.org/W2088765570",
-        "https://openalex.org/W2104614970",
-        "https://openalex.org/W2143578317",
-        "https://openalex.org/W2143795174",
-        "https://openalex.org/W2151359348",
-        "https://openalex.org/W2158019769",
-        "https://openalex.org/W2162072276",
-        "https://openalex.org/W2166866809",
-        "https://openalex.org/W2170953363",
-        "https://openalex.org/W2269760075",
-        "https://openalex.org/W2339985958",
-        "https://openalex.org/W2495771092",
-        "https://openalex.org/W2565598957",
-        "https://openalex.org/W2612464251",
-        "https://openalex.org/W2751506457",
-        "https://openalex.org/W2761011283",
-        "https://openalex.org/W2785459033",
-        "https://openalex.org/W2791758229",
-        "https://openalex.org/W2792965592",
-        "https://openalex.org/W2928103387",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W3005830087",
-        "https://openalex.org/W3015449541",
-        "https://openalex.org/W3019306654",
-        "https://openalex.org/W3124096776",
-        "https://openalex.org/W3140880876",
-        "https://openalex.org/W6601454374",
-        "https://openalex.org/W6632449939",
-        "https://openalex.org/W6639790589",
-        "https://openalex.org/W6669735438",
-        "https://openalex.org/W6673052833",
-        "https://openalex.org/W6681296510",
-        "https://openalex.org/W6683867963",
-        "https://openalex.org/W6693553638"
-      ],
-      "related_works": [
-        "https://openalex.org/W2031066500",
-        "https://openalex.org/W2151588852",
-        "https://openalex.org/W2904862667",
-        "https://openalex.org/W1987923876",
-        "https://openalex.org/W2149149528",
-        "https://openalex.org/W2085237771",
-        "https://openalex.org/W2978409338",
-        "https://openalex.org/W2320420382",
-        "https://openalex.org/W2030818517",
-        "https://openalex.org/W2325222095"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-05-05T08:41:31.759640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51569,8 +51575,8 @@
           "raw_author_name": "Aurélien Delabroye",
           "raw_affiliation_strings": [
             "Université Paul Sabatier , LMTG, UMR 5563 du CNRS, 31400 , Toulouse , France ; Université Lille 1 Laboratoire Geosystemes , FRE 3298 du CNRS, SN5, Cité Scientifique , 59655 , Villeneuve d'Ascq , France",
-            "Université Paul Sabatier, LMTG, UMR 5563 du CNRS, 31400 Toulouse, France",
-            "Université Lille 1 Laboratoire Geosystemes, FRE 3298 du CNRS, SN5, Cité Scientifique 59655 Villeneuve d’Ascq, France"
+            "Université Lille 1 Laboratoire Geosystemes, FRE 3298 du CNRS, SN5, Cité Scientifique 59655 Villeneuve d’Ascq, France",
+            "Université Paul Sabatier, LMTG, UMR 5563 du CNRS, 31400 Toulouse, France"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -51583,18 +51589,18 @@
               ]
             },
             {
+              "raw_affiliation_string": "Université Lille 1 Laboratoire Geosystemes, FRE 3298 du CNRS, SN5, Cité Scientifique 59655 Villeneuve d’Ascq, France",
+              "institution_ids": [
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "raw_affiliation_string": "Université Paul Sabatier, LMTG, UMR 5563 du CNRS, 31400 Toulouse, France",
               "institution_ids": [
                 "https://openalex.org/I134560555",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210164289"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Université Lille 1 Laboratoire Geosystemes, FRE 3298 du CNRS, SN5, Cité Scientifique 59655 Villeneuve d’Ascq, France",
-              "institution_ids": [
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I1294671590"
               ]
             }
           ]
@@ -51768,11 +51774,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0425,
+      "fwci": 4.0427,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.92604796,
+        "value": 0.92605247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -53115,7 +53121,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-13T07:31:44.756512",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -98165,19 +98171,12 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Vecoli, Marco",
+          "raw_author_name": "Servais Thomas",
           "raw_affiliation_strings": [
-            "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
             "Laboratoire de paléontologie et paleogéographie du paleozoique"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210148734"
-              ]
-            },
             {
               "raw_affiliation_string": "Laboratoire de paléontologie et paleogéographie du paleozoique",
               "institution_ids": [
@@ -98196,17 +98195,12 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Lehnert, Oliver",
+          "raw_author_name": "Lehnert Oliver",
           "raw_affiliation_strings": [
-            "Institut für Geologie und Mineralogie (Schlossgarten 5, 91054 Erlangen - Germany)",
             "Institut für Geologie und Mineralogie"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Institut für Geologie und Mineralogie (Schlossgarten 5, 91054 Erlangen - Germany)",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Institut für Geologie und Mineralogie",
               "institution_ids": []
@@ -98240,21 +98234,15 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Servais, Thomas",
+          "raw_author_name": "Vecoli Marco",
           "raw_affiliation_strings": [
-            "Institut für Geologie und Mineralogie (Schlossgarten 5, 91054 Erlangen - Germany)",
-            "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
-            "Institut für Geologie und Mineralogie",
-            "Laboratoire de paléontologie et paleogéographie du paleozoique"
+            "Laboratoire de paléontologie et paleogéographie du paleozoique",
+            "Institut für Geologie und Mineralogie"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut für Geologie und Mineralogie (Schlossgarten 5, 91054 Erlangen - Germany)",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
+              "raw_affiliation_string": "Laboratoire de paléontologie et paleogéographie du paleozoique",
               "institution_ids": [
                 "https://openalex.org/I4210148734"
               ]
@@ -98262,12 +98250,6 @@
             {
               "raw_affiliation_string": "Institut für Geologie und Mineralogie",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Laboratoire de paléontologie et paleogéographie du paleozoique",
-              "institution_ids": [
-                "https://openalex.org/I4210148734"
-              ]
             }
           ]
         }
@@ -98535,7 +98517,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-12T07:33:03.550515",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98598,7 +98580,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Dhamelincourt MC",
+          "raw_author_name": "Marie-Claire Dhamelincourt",
           "raw_affiliation_strings": [
             "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516"
           ],
@@ -98620,7 +98602,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Mezzetti A",
+          "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [
             "Géosystèmes - UMR 8157"
           ],
@@ -98671,11 +98653,11 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Cesari C",
+          "raw_author_name": "Alberto Mezzetti",
           "raw_affiliation_strings": [
             "Laboratoire Acides Nucléiques & Biophotonique",
-            "Système membranaires, photobiologie, stress et détoxication",
-            "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516"
+            "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
+            "Système membranaires, photobiologie, stress et détoxication"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -98686,14 +98668,14 @@
               ]
             },
             {
+              "raw_affiliation_string": "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "Système membranaires, photobiologie, stress et détoxication",
               "institution_ids": [
                 "https://openalex.org/I4210161675"
               ]
-            },
-            {
-              "raw_affiliation_string": "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
-              "institution_ids": []
             }
           ]
         },
@@ -98707,7 +98689,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Versteegh G",
+          "raw_author_name": "Christian Cesari",
           "raw_affiliation_strings": [
             "Géosystèmes - UMR 8157"
           ],
@@ -98729,7 +98711,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Riboulleau A.",
+          "raw_author_name": "Gerard Versteegh",
           "raw_affiliation_strings": [
             "Center for Marine Environmental Sciences [Bremen]"
           ],
@@ -98751,7 +98733,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "VECOLI, MARCO",
+          "raw_author_name": "Armelle Riboulleau",
           "raw_affiliation_strings": [
             "Géosystèmes - UMR 8157"
           ],
@@ -98775,7 +98757,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46759399,
+        "value": 0.46758014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99442,7 +99424,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-10T07:45:09.275182",
+      "updated_date": "2026-07-13T07:31:44.756512",
       "created_date": "2025-10-10T00:00:00"
     },
     {
