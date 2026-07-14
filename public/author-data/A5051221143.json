@@ -578,7 +578,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I179097149"
@@ -593,16 +593,16 @@
         "currency": "USD",
         "value_usd": 1650
       },
-      "fwci": 1.2479,
+      "fwci": 1.2175,
       "has_fulltext": true,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.81085607,
+        "value": 0.80627465,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 100
       },
       "biblio": {
@@ -1036,8 +1036,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -1418,7 +1418,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -1457,7 +1457,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-14T08:27:34.040176",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2076,16 +2076,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -2813,16 +2813,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -3535,16 +3535,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -4007,6 +4007,1192 @@
       ],
       "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1966461395",
+      "doi": "https://doi.org/10.1007/s00015-008-1255-3",
+      "title": "Apports de la gravimétrie dans la caractérisation des structures éffondrées dans la région de Nebeur (Nord Ouest de la Tunisie)",
+      "display_name": "Apports de la gravimétrie dans la caractérisation des structures éffondrées dans la région de Nebeur (Nord Ouest de la Tunisie)",
+      "publication_year": 2008,
+      "publication_date": "2008-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1966461395",
+        "doi": "https://doi.org/10.1007/s00015-008-1255-3",
+        "mag": "1966461395"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1007/s00015-008-1255-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
+        "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
+        "source": {
+          "id": "https://openalex.org/S76206574",
+          "display_name": "Swiss Journal of Geosciences",
+          "issn_l": "1661-8726",
+          "issn": [
+            "1661-8726",
+            "1661-8734"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Swiss Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5003096085",
+            "display_name": "Imen Hamdi Nasr",
+            "orcid": "https://orcid.org/0000-0002-1995-9938"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Imen Hamdi Nasr",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110558857",
+            "display_name": "Abdelhamid Ben Salem",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelhamid Ben Salem",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037420641",
+            "display_name": "Mohamed Hédi Inoubli",
+            "orcid": "https://orcid.org/0000-0002-9329-2780"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Hedi Inoubli",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015157002",
+            "display_name": "Jamel Dhifi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jamel Dhifi",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Alouani",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032718778",
+            "display_name": "A. Chaqui",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "abdelhak Chaqui",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5052382945",
+            "display_name": "V. Perthuisot",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12449238",
+              "display_name": "Université d'Orléans",
+              "ror": "https://ror.org/014zrew76",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12449238"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I142476485",
+              "display_name": "École Polytechnique",
+              "ror": "https://ror.org/05hy3tk52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I4210145102"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vincent Perthuisot",
+          "raw_affiliation_strings": [
+            "Ecole Polytechnique d’Orléans, Orléans, France",
+            "Ecole Polytechnique d’Orléans"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ecole Polytechnique d’Orléans, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I12449238"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Ecole Polytechnique d’Orléans",
+              "institution_ids": [
+                "https://openalex.org/I142476485"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 1250,
+        "currency": "EUR",
+        "value_usd": 1348
+      },
+      "apc_paid": null,
+      "fwci": 0.8777,
+      "has_fulltext": true,
+      "cited_by_count": 12,
+      "citation_normalized_percentile": {
+        "value": 0.72185544,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "101",
+        "issue": "1",
+        "first_page": "17",
+        "last_page": "27"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9976999759674072,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11405",
+          "display_name": "Geophysics and Gravity Measurements",
+          "score": 0.9941999912261963,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7120513319969177
+        },
+        {
+          "id": "https://openalex.org/keywords/bouguer-anomaly",
+          "display_name": "Bouguer anomaly",
+          "score": 0.6865619421005249
+        },
+        {
+          "id": "https://openalex.org/keywords/graben",
+          "display_name": "Graben",
+          "score": 0.5418854355812073
+        },
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.4206579327583313
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.3802509009838104
+        },
+        {
+          "id": "https://openalex.org/keywords/gravity-anomaly",
+          "display_name": "Gravity anomaly",
+          "score": 0.28042006492614746
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.06540361046791077
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.06166926026344299
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.05394333600997925
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7120513319969177
+        },
+        {
+          "id": "https://openalex.org/C56859440",
+          "wikidata": "https://www.wikidata.org/wiki/Q749598",
+          "display_name": "Bouguer anomaly",
+          "level": 4,
+          "score": 0.6865619421005249
+        },
+        {
+          "id": "https://openalex.org/C166839181",
+          "wikidata": "https://www.wikidata.org/wiki/Q192810",
+          "display_name": "Graben",
+          "level": 3,
+          "score": 0.5418854355812073
+        },
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.4206579327583313
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3802509009838104
+        },
+        {
+          "id": "https://openalex.org/C96342900",
+          "wikidata": "https://www.wikidata.org/wiki/Q1413914",
+          "display_name": "Gravity anomaly",
+          "level": 3,
+          "score": 0.28042006492614746
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.06540361046791077
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.06166926026344299
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.05394333600997925
+        },
+        {
+          "id": "https://openalex.org/C2776364302",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Oil field",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s00015-008-1255-3",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
+          "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
+          "source": {
+            "id": "https://openalex.org/S76206574",
+            "display_name": "Swiss Journal of Geosciences",
+            "issn_l": "1661-8726",
+            "issn": [
+              "1661-8726",
+              "1661-8734"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Swiss Journal of Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s00015-008-1255-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
+        "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
+        "source": {
+          "id": "https://openalex.org/S76206574",
+          "display_name": "Swiss Journal of Geosciences",
+          "issn_l": "1661-8726",
+          "issn": [
+            "1661-8726",
+            "1661-8734"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Swiss Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1966461395.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1966461395.grobid-xml"
+      },
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W34101481",
+        "https://openalex.org/W594198844",
+        "https://openalex.org/W1964155087",
+        "https://openalex.org/W1990633455",
+        "https://openalex.org/W2118623924",
+        "https://openalex.org/W2129886321",
+        "https://openalex.org/W2146420796"
+      ],
+      "related_works": [
+        "https://openalex.org/W1991108518",
+        "https://openalex.org/W2219122938",
+        "https://openalex.org/W2302763214",
+        "https://openalex.org/W1966358206",
+        "https://openalex.org/W2153710017",
+        "https://openalex.org/W2088421012",
+        "https://openalex.org/W2788244713",
+        "https://openalex.org/W2088740031",
+        "https://openalex.org/W1538451214",
+        "https://openalex.org/W2014259554"
+      ],
+      "abstract_inverted_index": {
+        "L’étude": [
+          0
+        ],
+        "des": [
+          1,
+          45,
+          51,
+          55,
+          65,
+          68,
+          115,
+          120
+        ],
+        "données": [
+          2,
+          56
+        ],
+        "gravimétriques": [
+          3,
+          53
+        ],
+        "relatives": [
+          4
+        ],
+        "á": [
+          5,
+          11,
+          63
+        ],
+        "la": [
+          6,
+          58,
+          72,
+          96,
+          113
+        ],
+        "région": [
+          7
+        ],
+        "de": [
+          8,
+          15,
+          17,
+          24,
+          30,
+          33,
+          35,
+          38,
+          49,
+          57,
+          60,
+          90,
+          95,
+          98,
+          112
+        ],
+        "Nebeur": [
+          9,
+          128
+        ],
+        "conduit": [
+          10,
+          62
+        ],
+        "une": [
+          12,
+          107
+        ],
+        "meilleure": [
+          13
+        ],
+        "compréhension": [
+          14
+        ],
+        "l’organisation": [
+          16
+        ],
+        "ses": [
+          18
+        ],
+        "structures": [
+          19,
+          69
+        ],
+        "profondes.": [
+          20
+        ],
+        "Pour": [
+          21
+        ],
+        "cela": [
+          22
+        ],
+        "l’anomalie": [
+          23
+        ],
+        "Bouguer": [
+          25,
+          150
+        ],
+        "a": [
+          26,
+          148,
+          208,
+          214
+        ],
+        "subi": [
+          27
+        ],
+        "différents": [
+          28,
+          46
+        ],
+        "types": [
+          29
+        ],
+        "traitements:": [
+          31
+        ],
+        "calcul": [
+          32
+        ],
+        "prolongements,": [
+          34
+        ],
+        "résiduelles,": [
+          36
+        ],
+        "et": [
+          37,
+          54,
+          67,
+          79
+        ],
+        "dérivées": [
+          39
+        ],
+        "selon": [
+          40
+        ],
+        "différentes": [
+          41
+        ],
+        "directions.": [
+          42
+        ],
+        "La": [
+          43
+        ],
+        "combinaison": [
+          44
+        ],
+        "résultats": [
+          47
+        ],
+        "issus": [
+          48
+        ],
+        "l’interprétation": [
+          50
+        ],
+        "cartes": [
+          52
+        ],
+        "géologie": [
+          59
+        ],
+        "surface": [
+          61
+        ],
+        "définir": [
+          64
+        ],
+        "directions": [
+          66,
+          75,
+          175
+        ],
+        "majeures": [
+          70
+        ],
+        "pour": [
+          71
+        ],
+        "région.": [
+          73
+        ],
+        "Plusieurs": [
+          74
+        ],
+        "ont": [
+          76,
+          81
+        ],
+        "été": [
+          77,
+          82
+        ],
+        "confirmées": [
+          78
+        ],
+        "d’autres": [
+          80
+        ],
+        "mises": [
+          83
+        ],
+        "en": [
+          84
+        ],
+        "évidence,": [
+          85
+        ],
+        "notamment,": [
+          86
+        ],
+        "un": [
+          87
+        ],
+        "fossé": [
+          88
+        ],
+        "d’effondrement": [
+          89
+        ],
+        "direction": [
+          91
+        ],
+        "NO–SE": [
+          92
+        ],
+        "au": [
+          93,
+          118
+        ],
+        "niveau": [
+          94,
+          119
+        ],
+        "zone": [
+          97,
+          114,
+          230
+        ],
+        "l’Oued": [
+          99
+        ],
+        "Tessa-": [
+          100
+        ],
+        "Bled": [
+          101,
+          200
+        ],
+        "el": [
+          102,
+          201
+        ],
+        "Ghorfa.": [
+          103
+        ],
+        "Ce": [
+          104
+        ],
+        "résultat": [
+          105
+        ],
+        "constitue": [
+          106
+        ],
+        "extension": [
+          108
+        ],
+        "vers": [
+          109
+        ],
+        "le": [
+          110
+        ],
+        "Nord": [
+          111
+        ],
+        "fossés": [
+          116
+        ],
+        "décrite": [
+          117
+        ],
+        "affleurements.": [
+          121
+        ],
+        "Gravity": [
+          122
+        ],
+        "data": [
+          123,
+          143
+        ],
+        "were": [
+          124
+        ],
+        "analysed": [
+          125
+        ],
+        "in": [
+          126
+        ],
+        "the": [
+          127,
+          133,
+          141,
+          145,
+          170,
+          179,
+          196,
+          228
+        ],
+        "area": [
+          129,
+          203
+        ],
+        "to": [
+          130,
+          213,
+          226
+        ],
+        "better": [
+          131
+        ],
+        "understand": [
+          132
+        ],
+        "organization": [
+          134
+        ],
+        "of": [
+          135,
+          140,
+          147,
+          162,
+          172,
+          178
+        ],
+        "its": [
+          136
+        ],
+        "underlying": [
+          137
+        ],
+        "structures.": [
+          138
+        ],
+        "Analysis": [
+          139
+        ],
+        "gravity": [
+          142,
+          163,
+          210
+        ],
+        "included": [
+          144
+        ],
+        "computation": [
+          146
+        ],
+        "complete": [
+          149
+        ],
+        "anomaly,": [
+          151,
+          211
+        ],
+        "upward": [
+          152
+        ],
+        "continuations,": [
+          153
+        ],
+        "as": [
+          154,
+          156
+        ],
+        "well": [
+          155
+        ],
+        "residual": [
+          157
+        ],
+        "and": [
+          158,
+          166,
+          176,
+          190
+        ],
+        "derivative": [
+          159
+        ],
+        "maps.": [
+          160
+        ],
+        "Comparison": [
+          161
+        ],
+        "maps,": [
+          164
+        ],
+        "geological": [
+          165
+        ],
+        "structural": [
+          167,
+          174,
+          185
+        ],
+        "maps": [
+          168
+        ],
+        "allows": [
+          169
+        ],
+        "identification": [
+          171
+        ],
+        "major": [
+          173
+        ],
+        "trends": [
+          177
+        ],
+        "study": [
+          180
+        ],
+        "area.": [
+          181
+        ],
+        "It": [
+          182
+        ],
+        "confirms": [
+          183
+        ],
+        "some": [
+          184
+        ],
+        "elements": [
+          186
+        ],
+        "gathered": [
+          187
+        ],
+        "from": [
+          188,
+          234
+        ],
+        "outcrops": [
+          189
+        ],
+        "defines": [
+          191
+        ],
+        "new": [
+          192
+        ],
+        "ones.": [
+          193
+        ],
+        "In": [
+          194
+        ],
+        "particular,": [
+          195
+        ],
+        "Oued": [
+          197
+        ],
+        "Tessa": [
+          198
+        ],
+        "–": [
+          199
+        ],
+        "Ghorfa": [
+          202
+        ],
+        "that": [
+          204,
+          231
+        ],
+        "is": [
+          205,
+          232
+        ],
+        "characterized": [
+          206
+        ],
+        "by": [
+          207,
+          218
+        ],
+        "negative": [
+          209
+        ],
+        "corresponds": [
+          212
+        ],
+        "collapsed": [
+          215
+        ],
+        "structure": [
+          216
+        ],
+        "limited": [
+          217
+        ],
+        "two": [
+          219
+        ],
+        "NW–SE": [
+          220
+        ],
+        "fault": [
+          221
+        ],
+        "systems.": [
+          222
+        ],
+        "This": [
+          223
+        ],
+        "result": [
+          224
+        ],
+        "extends": [
+          225
+        ],
+        "north": [
+          227
+        ],
+        "graben": [
+          229
+        ],
+        "described": [
+          233
+        ],
+        "outcrops.": [
+          235
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-07-14T08:27:34.040176",
+      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4385952766",
@@ -4674,16 +5860,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -5191,16 +6377,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -6149,1192 +7335,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1966461395",
-      "doi": "https://doi.org/10.1007/s00015-008-1255-3",
-      "title": "Apports de la gravimétrie dans la caractérisation des structures éffondrées dans la région de Nebeur (Nord Ouest de la Tunisie)",
-      "display_name": "Apports de la gravimétrie dans la caractérisation des structures éffondrées dans la région de Nebeur (Nord Ouest de la Tunisie)",
-      "publication_year": 2008,
-      "publication_date": "2008-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1966461395",
-        "doi": "https://doi.org/10.1007/s00015-008-1255-3",
-        "mag": "1966461395"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.1007/s00015-008-1255-3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
-        "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
-        "source": {
-          "id": "https://openalex.org/S76206574",
-          "display_name": "Swiss Journal of Geosciences",
-          "issn_l": "1661-8726",
-          "issn": [
-            "1661-8726",
-            "1661-8734"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Swiss Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5003096085",
-            "display_name": "Imen Hamdi Nasr",
-            "orcid": "https://orcid.org/0000-0002-1995-9938"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Imen Hamdi Nasr",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110558857",
-            "display_name": "Abdelhamid Ben Salem",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelhamid Ben Salem",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037420641",
-            "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Hedi Inoubli",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5015157002",
-            "display_name": "Jamel Dhifi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Jamel Dhifi",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Alouani",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032718778",
-            "display_name": "A. Chaqui",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "abdelhak Chaqui",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-            "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5052382945",
-            "display_name": "V. Perthuisot",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I12449238",
-              "display_name": "Université d'Orléans",
-              "ror": "https://ror.org/014zrew76",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I12449238"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I142476485",
-              "display_name": "École Polytechnique",
-              "ror": "https://ror.org/05hy3tk52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I142476485",
-                "https://openalex.org/I4210145102"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Vincent Perthuisot",
-          "raw_affiliation_strings": [
-            "Ecole Polytechnique d’Orléans, Orléans, France",
-            "Ecole Polytechnique d’Orléans"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ecole Polytechnique d’Orléans, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I12449238"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Polytechnique d’Orléans",
-              "institution_ids": [
-                "https://openalex.org/I142476485"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 1250,
-        "currency": "EUR",
-        "value_usd": 1348
-      },
-      "apc_paid": null,
-      "fwci": 0.8777,
-      "has_fulltext": true,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.72186736,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "101",
-        "issue": "1",
-        "first_page": "17",
-        "last_page": "27"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9976999759674072,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11405",
-          "display_name": "Geophysics and Gravity Measurements",
-          "score": 0.9941999912261963,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7120513319969177
-        },
-        {
-          "id": "https://openalex.org/keywords/bouguer-anomaly",
-          "display_name": "Bouguer anomaly",
-          "score": 0.6865619421005249
-        },
-        {
-          "id": "https://openalex.org/keywords/graben",
-          "display_name": "Graben",
-          "score": 0.5418854355812073
-        },
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.4206579327583313
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3802509009838104
-        },
-        {
-          "id": "https://openalex.org/keywords/gravity-anomaly",
-          "display_name": "Gravity anomaly",
-          "score": 0.28042006492614746
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.06540361046791077
-        },
-        {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.06166926026344299
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.05394333600997925
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7120513319969177
-        },
-        {
-          "id": "https://openalex.org/C56859440",
-          "wikidata": "https://www.wikidata.org/wiki/Q749598",
-          "display_name": "Bouguer anomaly",
-          "level": 4,
-          "score": 0.6865619421005249
-        },
-        {
-          "id": "https://openalex.org/C166839181",
-          "wikidata": "https://www.wikidata.org/wiki/Q192810",
-          "display_name": "Graben",
-          "level": 3,
-          "score": 0.5418854355812073
-        },
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.4206579327583313
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3802509009838104
-        },
-        {
-          "id": "https://openalex.org/C96342900",
-          "wikidata": "https://www.wikidata.org/wiki/Q1413914",
-          "display_name": "Gravity anomaly",
-          "level": 3,
-          "score": 0.28042006492614746
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.06540361046791077
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0.06166926026344299
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.05394333600997925
-        },
-        {
-          "id": "https://openalex.org/C2776364302",
-          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
-          "display_name": "Oil field",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s00015-008-1255-3",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
-          "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
-          "source": {
-            "id": "https://openalex.org/S76206574",
-            "display_name": "Swiss Journal of Geosciences",
-            "issn_l": "1661-8726",
-            "issn": [
-              "1661-8726",
-              "1661-8734"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Swiss Journal of Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1007/s00015-008-1255-3",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s00015-008-1255-3",
-        "pdf_url": "https://sjg.springeropen.com/counter/pdf/10.1007/s00015-008-1255-3",
-        "source": {
-          "id": "https://openalex.org/S76206574",
-          "display_name": "Swiss Journal of Geosciences",
-          "issn_l": "1661-8726",
-          "issn": [
-            "1661-8726",
-            "1661-8734"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Swiss Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W1966461395.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W1966461395.grobid-xml"
-      },
-      "referenced_works_count": 7,
-      "referenced_works": [
-        "https://openalex.org/W34101481",
-        "https://openalex.org/W594198844",
-        "https://openalex.org/W1964155087",
-        "https://openalex.org/W1990633455",
-        "https://openalex.org/W2118623924",
-        "https://openalex.org/W2129886321",
-        "https://openalex.org/W2146420796"
-      ],
-      "related_works": [
-        "https://openalex.org/W1991108518",
-        "https://openalex.org/W2219122938",
-        "https://openalex.org/W2302763214",
-        "https://openalex.org/W1966358206",
-        "https://openalex.org/W2153710017",
-        "https://openalex.org/W2088421012",
-        "https://openalex.org/W2788244713",
-        "https://openalex.org/W2088740031",
-        "https://openalex.org/W1538451214",
-        "https://openalex.org/W2014259554"
-      ],
-      "abstract_inverted_index": {
-        "L’étude": [
-          0
-        ],
-        "des": [
-          1,
-          45,
-          51,
-          55,
-          65,
-          68,
-          115,
-          120
-        ],
-        "données": [
-          2,
-          56
-        ],
-        "gravimétriques": [
-          3,
-          53
-        ],
-        "relatives": [
-          4
-        ],
-        "á": [
-          5,
-          11,
-          63
-        ],
-        "la": [
-          6,
-          58,
-          72,
-          96,
-          113
-        ],
-        "région": [
-          7
-        ],
-        "de": [
-          8,
-          15,
-          17,
-          24,
-          30,
-          33,
-          35,
-          38,
-          49,
-          57,
-          60,
-          90,
-          95,
-          98,
-          112
-        ],
-        "Nebeur": [
-          9,
-          128
-        ],
-        "conduit": [
-          10,
-          62
-        ],
-        "une": [
-          12,
-          107
-        ],
-        "meilleure": [
-          13
-        ],
-        "compréhension": [
-          14
-        ],
-        "l’organisation": [
-          16
-        ],
-        "ses": [
-          18
-        ],
-        "structures": [
-          19,
-          69
-        ],
-        "profondes.": [
-          20
-        ],
-        "Pour": [
-          21
-        ],
-        "cela": [
-          22
-        ],
-        "l’anomalie": [
-          23
-        ],
-        "Bouguer": [
-          25,
-          150
-        ],
-        "a": [
-          26,
-          148,
-          208,
-          214
-        ],
-        "subi": [
-          27
-        ],
-        "différents": [
-          28,
-          46
-        ],
-        "types": [
-          29
-        ],
-        "traitements:": [
-          31
-        ],
-        "calcul": [
-          32
-        ],
-        "prolongements,": [
-          34
-        ],
-        "résiduelles,": [
-          36
-        ],
-        "et": [
-          37,
-          54,
-          67,
-          79
-        ],
-        "dérivées": [
-          39
-        ],
-        "selon": [
-          40
-        ],
-        "différentes": [
-          41
-        ],
-        "directions.": [
-          42
-        ],
-        "La": [
-          43
-        ],
-        "combinaison": [
-          44
-        ],
-        "résultats": [
-          47
-        ],
-        "issus": [
-          48
-        ],
-        "l’interprétation": [
-          50
-        ],
-        "cartes": [
-          52
-        ],
-        "géologie": [
-          59
-        ],
-        "surface": [
-          61
-        ],
-        "définir": [
-          64
-        ],
-        "directions": [
-          66,
-          75,
-          175
-        ],
-        "majeures": [
-          70
-        ],
-        "pour": [
-          71
-        ],
-        "région.": [
-          73
-        ],
-        "Plusieurs": [
-          74
-        ],
-        "ont": [
-          76,
-          81
-        ],
-        "été": [
-          77,
-          82
-        ],
-        "confirmées": [
-          78
-        ],
-        "d’autres": [
-          80
-        ],
-        "mises": [
-          83
-        ],
-        "en": [
-          84
-        ],
-        "évidence,": [
-          85
-        ],
-        "notamment,": [
-          86
-        ],
-        "un": [
-          87
-        ],
-        "fossé": [
-          88
-        ],
-        "d’effondrement": [
-          89
-        ],
-        "direction": [
-          91
-        ],
-        "NO–SE": [
-          92
-        ],
-        "au": [
-          93,
-          118
-        ],
-        "niveau": [
-          94,
-          119
-        ],
-        "zone": [
-          97,
-          114,
-          230
-        ],
-        "l’Oued": [
-          99
-        ],
-        "Tessa-": [
-          100
-        ],
-        "Bled": [
-          101,
-          200
-        ],
-        "el": [
-          102,
-          201
-        ],
-        "Ghorfa.": [
-          103
-        ],
-        "Ce": [
-          104
-        ],
-        "résultat": [
-          105
-        ],
-        "constitue": [
-          106
-        ],
-        "extension": [
-          108
-        ],
-        "vers": [
-          109
-        ],
-        "le": [
-          110
-        ],
-        "Nord": [
-          111
-        ],
-        "fossés": [
-          116
-        ],
-        "décrite": [
-          117
-        ],
-        "affleurements.": [
-          121
-        ],
-        "Gravity": [
-          122
-        ],
-        "data": [
-          123,
-          143
-        ],
-        "were": [
-          124
-        ],
-        "analysed": [
-          125
-        ],
-        "in": [
-          126
-        ],
-        "the": [
-          127,
-          133,
-          141,
-          145,
-          170,
-          179,
-          196,
-          228
-        ],
-        "area": [
-          129,
-          203
-        ],
-        "to": [
-          130,
-          213,
-          226
-        ],
-        "better": [
-          131
-        ],
-        "understand": [
-          132
-        ],
-        "organization": [
-          134
-        ],
-        "of": [
-          135,
-          140,
-          147,
-          162,
-          172,
-          178
-        ],
-        "its": [
-          136
-        ],
-        "underlying": [
-          137
-        ],
-        "structures.": [
-          138
-        ],
-        "Analysis": [
-          139
-        ],
-        "gravity": [
-          142,
-          163,
-          210
-        ],
-        "included": [
-          144
-        ],
-        "computation": [
-          146
-        ],
-        "complete": [
-          149
-        ],
-        "anomaly,": [
-          151,
-          211
-        ],
-        "upward": [
-          152
-        ],
-        "continuations,": [
-          153
-        ],
-        "as": [
-          154,
-          156
-        ],
-        "well": [
-          155
-        ],
-        "residual": [
-          157
-        ],
-        "and": [
-          158,
-          166,
-          176,
-          190
-        ],
-        "derivative": [
-          159
-        ],
-        "maps.": [
-          160
-        ],
-        "Comparison": [
-          161
-        ],
-        "maps,": [
-          164
-        ],
-        "geological": [
-          165
-        ],
-        "structural": [
-          167,
-          174,
-          185
-        ],
-        "maps": [
-          168
-        ],
-        "allows": [
-          169
-        ],
-        "identification": [
-          171
-        ],
-        "major": [
-          173
-        ],
-        "trends": [
-          177
-        ],
-        "study": [
-          180
-        ],
-        "area.": [
-          181
-        ],
-        "It": [
-          182
-        ],
-        "confirms": [
-          183
-        ],
-        "some": [
-          184
-        ],
-        "elements": [
-          186
-        ],
-        "gathered": [
-          187
-        ],
-        "from": [
-          188,
-          234
-        ],
-        "outcrops": [
-          189
-        ],
-        "defines": [
-          191
-        ],
-        "new": [
-          192
-        ],
-        "ones.": [
-          193
-        ],
-        "In": [
-          194
-        ],
-        "particular,": [
-          195
-        ],
-        "Oued": [
-          197
-        ],
-        "Tessa": [
-          198
-        ],
-        "–": [
-          199
-        ],
-        "Ghorfa": [
-          202
-        ],
-        "that": [
-          204,
-          231
-        ],
-        "is": [
-          205,
-          232
-        ],
-        "characterized": [
-          206
-        ],
-        "by": [
-          207,
-          218
-        ],
-        "negative": [
-          209
-        ],
-        "corresponds": [
-          212
-        ],
-        "collapsed": [
-          215
-        ],
-        "structure": [
-          216
-        ],
-        "limited": [
-          217
-        ],
-        "two": [
-          219
-        ],
-        "NW–SE": [
-          220
-        ],
-        "fault": [
-          221
-        ],
-        "systems.": [
-          222
-        ],
-        "This": [
-          223
-        ],
-        "result": [
-          224
-        ],
-        "extends": [
-          225
-        ],
-        "north": [
-          227
-        ],
-        "graben": [
-          229
-        ],
-        "described": [
-          233
-        ],
-        "outcrops.": [
-          235
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-07-03T08:13:44.112507",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3131337938",
       "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
       "title": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
@@ -7736,16 +7736,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -8821,8 +8821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9169,16 +9169,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9769,8 +9769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10670,8 +10670,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -11227,16 +11227,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11965,16 +11965,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12378,16 +12378,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13118,8 +13118,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -14057,8 +14057,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14696,16 +14696,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf"
@@ -15420,8 +15420,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

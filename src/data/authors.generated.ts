@@ -162,8 +162,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 50,
-    "totalCitations": 1004,
-    "hIndex": 14
+    "totalCitations": 1006,
+    "hIndex": 15
   },
   {
     "authorId": "idb0008-abdullatif-osman",
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 254,
-    "totalCitations": 3491,
+    "totalCitations": 3492,
     "hIndex": 27
   },
   {
