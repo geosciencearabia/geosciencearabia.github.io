@@ -800,9 +800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8299999833106995,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -3578,9 +3578,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -4225,6 +4225,310 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2238788930",
+      "doi": null,
+      "title": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
+      "display_name": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
+      "publication_year": 2009,
+      "publication_date": "2009-06-13",
+      "ids": {
+        "openalex": "https://openalex.org/W2238788930",
+        "mag": "2238788930"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:generic.eprints.org:136092",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400607",
+          "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I134085113",
+          "host_organization_name": "King Fahd University of Petroleum and Minerals",
+          "host_organization_lineage": [
+            "https://openalex.org/I134085113"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "type": "dissertation",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059100961",
+            "display_name": "Ayman Al-Lehyani",
+            "orcid": "https://orcid.org/0000-0002-5595-0017"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Ayman Fazea Al-Lehyani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5595-0017",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5059100961"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": true,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10320",
+        "display_name": "Neural Networks and Applications",
+        "score": 0.38839998841285706,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10320",
+          "display_name": "Neural Networks and Applications",
+          "score": 0.38839998841285706,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/attenuation",
+          "display_name": "Attenuation",
+          "score": 0.7109235525131226
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.361223042011261
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.27862274646759033
+        },
+        {
+          "id": "https://openalex.org/keywords/optics",
+          "display_name": "Optics",
+          "score": 0.1879694163799286
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C184652730",
+          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
+          "display_name": "Attenuation",
+          "level": 2,
+          "score": 0.7109235525131226
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.361223042011261
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.27862274646759033
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.1879694163799286
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:generic.eprints.org:136092",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400607",
+            "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I134085113",
+            "host_organization_name": "King Fahd University of Petroleum and Minerals",
+            "host_organization_lineage": [
+              "https://openalex.org/I134085113"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Thesis"
+        },
+        {
+          "id": "mag:2238788930",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:generic.eprints.org:136092",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400607",
+          "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I134085113",
+          "host_organization_name": "King Fahd University of Petroleum and Minerals",
+          "host_organization_lineage": [
+            "https://openalex.org/I134085113"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/13"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2238788930.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2238788930.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2292254236",
+        "https://openalex.org/W3047281123",
+        "https://openalex.org/W2491278758",
+        "https://openalex.org/W2287589827",
+        "https://openalex.org/W3027571753",
+        "https://openalex.org/W2294775058",
+        "https://openalex.org/W3031714268",
+        "https://openalex.org/W2790562576",
+        "https://openalex.org/W3112266785",
+        "https://openalex.org/W2938332781",
+        "https://openalex.org/W2225016047",
+        "https://openalex.org/W3027555115",
+        "https://openalex.org/W3023351549",
+        "https://openalex.org/W3003295570",
+        "https://openalex.org/W2789771310",
+        "https://openalex.org/W2555561132",
+        "https://openalex.org/W3097808640",
+        "https://openalex.org/W2794388813",
+        "https://openalex.org/W1596967786",
+        "https://openalex.org/W3043609009"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2019,
+          "cited_by_count": 11
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2921983401",
       "doi": "https://doi.org/10.2118/194941-ms",
       "title": "Single Station Triaxial Seismic Event Detection, Direction Finding and Polarization Analysis",
@@ -4264,7 +4568,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -4428,23 +4732,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.02600473,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 94
-      },
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
         "issue": null,
@@ -5486,311 +5783,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2238788930",
-      "doi": null,
-      "title": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
-      "display_name": "DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS",
-      "publication_year": 2009,
-      "publication_date": "2009-06-13",
-      "ids": {
-        "openalex": "https://openalex.org/W2238788930",
-        "mag": "2238788930"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "pmh:oai:generic.eprints.org:136092",
-        "is_oa": true,
-        "landing_page_url": null,
-        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
-        "source": {
-          "id": "https://openalex.org/S4306400607",
-          "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I134085113",
-          "host_organization_name": "King Fahd University of Petroleum and Minerals",
-          "host_organization_lineage": [
-            "https://openalex.org/I134085113"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Thesis"
-      },
-      "type": "dissertation",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5059100961",
-            "display_name": "Ayman Al-Lehyani",
-            "orcid": "https://orcid.org/0000-0002-5595-0017"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Ayman Fazea Al-Lehyani",
-          "raw_affiliation_strings": [],
-          "raw_orcid": "https://orcid.org/0000-0002-5595-0017",
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5059100961"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": true,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10320",
-        "display_name": "Neural Networks and Applications",
-        "score": 0.38839998841285706,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10320",
-          "display_name": "Neural Networks and Applications",
-          "score": 0.38839998841285706,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/attenuation",
-          "display_name": "Attenuation",
-          "score": 0.7109235525131226
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.361223042011261
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.27862274646759033
-        },
-        {
-          "id": "https://openalex.org/keywords/optics",
-          "display_name": "Optics",
-          "score": 0.1879694163799286
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C184652730",
-          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
-          "display_name": "Attenuation",
-          "level": 2,
-          "score": 0.7109235525131226
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.361223042011261
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.27862274646759033
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0.1879694163799286
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "pmh:oai:generic.eprints.org:136092",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306400607",
-            "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I134085113",
-            "host_organization_name": "King Fahd University of Petroleum and Minerals",
-            "host_organization_lineage": [
-              "https://openalex.org/I134085113"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Thesis"
-        },
-        {
-          "id": "mag:2238788930",
-          "is_oa": false,
-          "landing_page_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": null,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:generic.eprints.org:136092",
-        "is_oa": true,
-        "landing_page_url": null,
-        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
-        "source": {
-          "id": "https://openalex.org/S4306400607",
-          "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I134085113",
-          "host_organization_name": "King Fahd University of Petroleum and Minerals",
-          "host_organization_lineage": [
-            "https://openalex.org/I134085113"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Thesis"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929,
-          "display_name": "Climate action"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2238788930.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2238788930.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2292254236",
-        "https://openalex.org/W3047281123",
-        "https://openalex.org/W2491278758",
-        "https://openalex.org/W2287589827",
-        "https://openalex.org/W3027571753",
-        "https://openalex.org/W2294775058",
-        "https://openalex.org/W3031714268",
-        "https://openalex.org/W2790562576",
-        "https://openalex.org/W3112266785",
-        "https://openalex.org/W2938332781",
-        "https://openalex.org/W2225016047",
-        "https://openalex.org/W3027555115",
-        "https://openalex.org/W3023351549",
-        "https://openalex.org/W3003295570",
-        "https://openalex.org/W2789771310",
-        "https://openalex.org/W2555561132",
-        "https://openalex.org/W3097808640",
-        "https://openalex.org/W2794388813",
-        "https://openalex.org/W1596967786",
-        "https://openalex.org/W3043609009"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2019,
-          "cited_by_count": 11
-        }
-      ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-07-15T18:14:33.161393",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5820,7 +5813,7 @@
         "raw_source_name": "EAGE Workshop on Non-Seismic Methods",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -5954,19 +5947,15 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.10454299,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -6609,7 +6598,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-15T18:14:33.161393",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6638,7 +6627,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -6807,14 +6796,10 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.44218182,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": "1",
@@ -7468,7 +7453,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-15T18:14:33.161393",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

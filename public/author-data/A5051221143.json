@@ -10,7 +10,7 @@
     ],
     "full_name": "Rabah Alouani",
     "works_count": 19,
-    "cited_by_count": 201,
+    "cited_by_count": 203,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -163,7 +163,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001098,
+        "value": 0.0001097,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -180,7 +180,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000197,
+        "value": 0.0000196,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -313,7 +313,7 @@
         "year": 2008,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 64
+        "cited_by_count": 65
       },
       {
         "year": 2010,
@@ -325,7 +325,7 @@
         "year": 2016,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 28
+        "cited_by_count": 29
       },
       {
         "year": 2017,
@@ -365,7 +365,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-07-12T12:17:34",
+    "updated_date": "2026-07-14T12:17:59",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2077,8 +2077,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2814,8 +2814,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3536,8 +3536,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5861,8 +5861,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6378,8 +6378,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7737,8 +7737,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8900,1187 +8900,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2991818845",
-      "doi": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
-      "title": "The Sahel Platform Reconstruction Using Geological and Seismic Data, Tunisia",
-      "display_name": "The Sahel Platform Reconstruction Using Geological and Seismic Data, Tunisia",
-      "publication_year": 2003,
-      "publication_date": "2003-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2991818845",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
-        "mag": "2991818845"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609-pdb.8.p015",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "1st EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5022714102",
-            "display_name": "Haïfa Boussiga",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Boussiga",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Alouani",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111648436",
-            "display_name": "S. Tlig",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. Tlig",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5037420641",
-            "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M.H. Inoubli",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.3287,
-      "has_fulltext": false,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.64822703,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9890999794006348,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9627000093460083,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6622153520584106
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.48499128222465515
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.36388614773750305
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.3343336582183838
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6622153520584106
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.48499128222465515
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.36388614773750305
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.3343336582183838
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609-pdb.8.p015",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "1st EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.4000000059604645,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2390279801",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W2358668433",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W1984402782"
-      ],
-      "abstract_inverted_index": {
-        "2092": [
-          33
-        ],
-        "P015": [
-          0
-        ],
-        "THE": [
-          1
-        ],
-        "SAHEL": [
-          2
-        ],
-        "PLATFORM": [
-          3
-        ],
-        "RECONSTRUCTION": [
-          4
-        ],
-        "USING": [
-          5
-        ],
-        "GEOLOGICAL": [
-          6
-        ],
-        "AND": [
-          7
-        ],
-        "SEISMIC": [
-          8
-        ],
-        "DATA": [
-          9
-        ],
-        "(TUNISIA)": [
-          10
-        ],
-        "Haïfa": [
-          11
-        ],
-        "BOUSSIGA": [
-          12
-        ],
-        "Rabah": [
-          13
-        ],
-        "ALOUANI": [
-          14
-        ],
-        "Said": [
-          15
-        ],
-        "TLIG": [
-          16
-        ],
-        "&amp;": [
-          17
-        ],
-        "Mohamed": [
-          18
-        ],
-        "Hédi": [
-          19
-        ],
-        "INOUBLI": [
-          20
-        ],
-        "Unité": [
-          21
-        ],
-        "de": [
-          22,
-          24,
-          30
-        ],
-        "Recherche": [
-          23
-        ],
-        "Géophysique": [
-          25
-        ],
-        "Appliquée": [
-          26
-        ],
-        "Faculté": [
-          27
-        ],
-        "des": [
-          28
-        ],
-        "Sciences": [
-          29
-        ],
-        "Tunis": [
-          31,
-          35
-        ],
-        "–": [
-          32,
-          34,
-          36
-        ],
-        "Tunisia": [
-          37
-        ],
-        "e-mail": [
-          38
-        ],
-        ":": [
-          39
-        ],
-        "mhedi.inoubli@fst.rnu.tn": [
-          40
-        ],
-        "Introduction": [
-          41
-        ],
-        "Previous": [
-          42
-        ],
-        "works": [
-          43
-        ],
-        "have": [
-          44
-        ],
-        "dealt": [
-          45
-        ],
-        "with": [
-          46
-        ],
-        "the": [
-          47,
-          53,
-          65,
-          90
-        ],
-        "geology": [
-          48
-        ],
-        "of": [
-          49
-        ],
-        "Paleogene": [
-          50
-        ],
-        "series": [
-          51,
-          63
-        ],
-        "in": [
-          52,
-          77,
-          85
-        ],
-        "N-S": [
-          54
-        ],
-        "axis": [
-          55
-        ],
-        "zone": [
-          56
-        ],
-        "and": [
-          57,
-          71,
-          79,
-          93
-        ],
-        "\"Tunisian": [
-          58
-        ],
-        "dorsale\"": [
-          59
-        ],
-        "(Rabhi": [
-          60
-        ],
-        "1999).": [
-          61
-        ],
-        "These": [
-          62
-        ],
-        "include": [
-          64
-        ],
-        "El": [
-          66
-        ],
-        "Haria": [
-          67
-        ],
-        "BouDabbous/El": [
-          68
-        ],
-        "Garia": [
-          69
-        ],
-        "Souar/Chérahil": [
-          70
-        ],
-        "Fortuna": [
-          72
-        ],
-        "formations": [
-          73
-        ],
-        "which": [
-          74
-        ],
-        "vary": [
-          75
-        ],
-        "regionally": [
-          76
-        ],
-        "facies": [
-          78
-        ],
-        "thicknesses": [
-          80
-        ],
-        "(Castany": [
-          81
-        ],
-        "1951;": [
-          82
-        ],
-        "Burollet": [
-          83
-        ],
-        "1956)": [
-          84
-        ],
-        "response": [
-          86
-        ],
-        "to": [
-          87
-        ],
-        "tectonism": [
-          88
-        ],
-        "during": [
-          89
-        ],
-        "Late": [
-          91
-        ],
-        "Campanian-Maastichtian": [
-          92
-        ],
-        "Upper": [
-          94
-        ],
-        "Eocene": [
-          95
-        ],
-        "(Turki": [
-          96
-        ],
-        "1985;": [
-          97
-        ],
-        "Bédir": [
-          98
-        ],
-        "et": [
-          99
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3023831708",
-      "doi": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
-      "title": "Geodynamic Reconstruction of the Sahel Platform (Tunisia) – An Integrated Approach",
-      "display_name": "Geodynamic Reconstruction of the Sahel Platform (Tunisia) – An Integrated Approach",
-      "publication_year": 2005,
-      "publication_date": "2005-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3023831708",
-        "doi": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
-        "mag": "3023831708"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609-pdb.11.p16",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "2nd EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5022714102",
-            "display_name": "Haïfa Boussiga",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Boussiga",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037420641",
-            "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M.H. Inoubli",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Alouani",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112077603",
-            "display_name": "K. Sebei",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K. Sebei",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5077890504",
-            "display_name": "M.G. Ben Jemia",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M.G. Ben Jemia",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.3069,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.65587189,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9979000091552734,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9955999851226807,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6524209380149841
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.39526253938674927
-        },
-        {
-          "id": "https://openalex.org/keywords/geodesy",
-          "display_name": "Geodesy",
-          "score": 0.3243505656719208
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6524209380149841
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.39526253938674927
-        },
-        {
-          "id": "https://openalex.org/C13280743",
-          "wikidata": "https://www.wikidata.org/wiki/Q131089",
-          "display_name": "Geodesy",
-          "level": 1,
-          "score": 0.3243505656719208
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609-pdb.11.p16",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "2nd EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3198977739",
-        "https://openalex.org/W2889939194",
-        "https://openalex.org/W2137921205",
-        "https://openalex.org/W2026870678",
-        "https://openalex.org/W2331474472",
-        "https://openalex.org/W4242696512",
-        "https://openalex.org/W2004310775",
-        "https://openalex.org/W2093834984",
-        "https://openalex.org/W1984617079",
-        "https://openalex.org/W2036251127"
-      ],
-      "abstract_inverted_index": {
-        "1": [
-          12
-        ],
-        "2092": [
-          37
-        ],
-        "P16": [
-          0
-        ],
-        "GEODYNAMIC": [
-          1
-        ],
-        "RECONSTRUCTION": [
-          2
-        ],
-        "OF": [
-          3
-        ],
-        "THE": [
-          4
-        ],
-        "SAHEL": [
-          5
-        ],
-        "PLATFORM": [
-          6
-        ],
-        "(TUNISIA)": [
-          7
-        ],
-        "–": [
-          8,
-          36
-        ],
-        "AN": [
-          9
-        ],
-        "INTEGRATED": [
-          10
-        ],
-        "APPROACH": [
-          11
-        ],
-        "H.": [
-          13
-        ],
-        "BOUSSIGA¹": [
-          14
-        ],
-        "M.H.": [
-          15
-        ],
-        "INOUBLI¹": [
-          16
-        ],
-        "R.": [
-          17
-        ],
-        "ALOUANI¹": [
-          18
-        ],
-        "K.": [
-          19
-        ],
-        "SEBEI¹": [
-          20
-        ],
-        "and": [
-          21,
-          53,
-          62,
-          73,
-          88
-        ],
-        "M.G": [
-          22
-        ],
-        "BEN": [
-          23
-        ],
-        "JEMIA²": [
-          24
-        ],
-        "¹Unité": [
-          25
-        ],
-        "de": [
-          26,
-          28,
-          34
-        ],
-        "Recherche": [
-          27
-        ],
-        "Géophysique": [
-          29
-        ],
-        "Appliquée": [
-          30
-        ],
-        "Faculté": [
-          31
-        ],
-        "des": [
-          32
-        ],
-        "Sciences": [
-          33
-        ],
-        "Tunis": [
-          35
-        ],
-        "Tunisia": [
-          38
-        ],
-        "²KUFPEC": [
-          39
-        ],
-        "Oil": [
-          40
-        ],
-        "Co": [
-          41
-        ],
-        "e-mail": [
-          42
-        ],
-        "boussiga@yahoo.fr": [
-          43
-        ],
-        "Introduction": [
-          44
-        ],
-        "Several": [
-          45
-        ],
-        "works": [
-          46
-        ],
-        "have": [
-          47,
-          66
-        ],
-        "discussed": [
-          48
-        ],
-        "the": [
-          49,
-          83,
-          85,
-          89
-        ],
-        "geology": [
-          50
-        ],
-        "of": [
-          51,
-          78
-        ],
-        "Paleogene": [
-          52
-        ],
-        "Neogene": [
-          54
-        ],
-        "series": [
-          55
-        ],
-        "within": [
-          56
-        ],
-        "N-S": [
-          57
-        ],
-        "axis": [
-          58
-        ],
-        "zone": [
-          59
-        ],
-        "Tunisian": [
-          60
-        ],
-        "“dorsale”": [
-          61
-        ],
-        "Enfidha": [
-          63
-        ],
-        "region.": [
-          64
-        ],
-        "They": [
-          65
-        ],
-        "demonstrated": [
-          67
-        ],
-        "important": [
-          68
-        ],
-        "lateral": [
-          69
-        ],
-        "changes": [
-          70
-        ],
-        "in": [
-          71
-        ],
-        "facies": [
-          72
-        ],
-        "thicknesses": [
-          74
-        ],
-        "as": [
-          75
-        ],
-        "a": [
-          76
-        ],
-        "response": [
-          77
-        ],
-        "tectonic": [
-          79
-        ],
-        "phases": [
-          80
-        ],
-        "occurred": [
-          81
-        ],
-        "during": [
-          82
-        ],
-        "Campanian-Maastrichtian": [
-          84
-        ],
-        "Upper": [
-          86,
-          90
-        ],
-        "Eocene": [
-          87
-        ],
-        "Miocene": [
-          91
-        ],
-        "times": [
-          92
-        ],
-        "(Burollet": [
-          93
-        ],
-        "1956;": [
-          94
-        ],
-        "Castany": [
-          95
-        ],
-        "1952;": [
-          96
-        ],
-        "Turki": [
-          97
-        ],
-        "1985;": [
-          98
-        ],
-        "Bédir": [
-          99
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2772907880",
       "doi": "https://doi.org/10.1007/s11595-017-1738-z",
       "title": "Inter-comparative study of quantitative methods of industrial clinker",
@@ -11228,8 +10047,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -11482,6 +10301,1173 @@
       ],
       "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2991818845",
+      "doi": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
+      "title": "The Sahel Platform Reconstruction Using Geological and Seismic Data, Tunisia",
+      "display_name": "The Sahel Platform Reconstruction Using Geological and Seismic Data, Tunisia",
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2991818845",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
+        "mag": "2991818845"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609-pdb.8.p015",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "1st EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5022714102",
+            "display_name": "Haïfa Boussiga",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Boussiga",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Alouani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111648436",
+            "display_name": "S. Tlig",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Tlig",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5037420641",
+            "display_name": "Mohamed Hédi Inoubli",
+            "orcid": "https://orcid.org/0000-0002-9329-2780"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.H. Inoubli",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9890999794006348,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9627000093460083,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6622153520584106
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.48499128222465515
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.36388614773750305
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.3343336582183838
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6622153520584106
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.48499128222465515
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.36388614773750305
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.3343336582183838
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609-pdb.8.p015",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "1st EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W1984402782"
+      ],
+      "abstract_inverted_index": {
+        "2092": [
+          33
+        ],
+        "P015": [
+          0
+        ],
+        "THE": [
+          1
+        ],
+        "SAHEL": [
+          2
+        ],
+        "PLATFORM": [
+          3
+        ],
+        "RECONSTRUCTION": [
+          4
+        ],
+        "USING": [
+          5
+        ],
+        "GEOLOGICAL": [
+          6
+        ],
+        "AND": [
+          7
+        ],
+        "SEISMIC": [
+          8
+        ],
+        "DATA": [
+          9
+        ],
+        "(TUNISIA)": [
+          10
+        ],
+        "Haïfa": [
+          11
+        ],
+        "BOUSSIGA": [
+          12
+        ],
+        "Rabah": [
+          13
+        ],
+        "ALOUANI": [
+          14
+        ],
+        "Said": [
+          15
+        ],
+        "TLIG": [
+          16
+        ],
+        "&amp;": [
+          17
+        ],
+        "Mohamed": [
+          18
+        ],
+        "Hédi": [
+          19
+        ],
+        "INOUBLI": [
+          20
+        ],
+        "Unité": [
+          21
+        ],
+        "de": [
+          22,
+          24,
+          30
+        ],
+        "Recherche": [
+          23
+        ],
+        "Géophysique": [
+          25
+        ],
+        "Appliquée": [
+          26
+        ],
+        "Faculté": [
+          27
+        ],
+        "des": [
+          28
+        ],
+        "Sciences": [
+          29
+        ],
+        "Tunis": [
+          31,
+          35
+        ],
+        "–": [
+          32,
+          34,
+          36
+        ],
+        "Tunisia": [
+          37
+        ],
+        "e-mail": [
+          38
+        ],
+        ":": [
+          39
+        ],
+        "mhedi.inoubli@fst.rnu.tn": [
+          40
+        ],
+        "Introduction": [
+          41
+        ],
+        "Previous": [
+          42
+        ],
+        "works": [
+          43
+        ],
+        "have": [
+          44
+        ],
+        "dealt": [
+          45
+        ],
+        "with": [
+          46
+        ],
+        "the": [
+          47,
+          53,
+          65,
+          90
+        ],
+        "geology": [
+          48
+        ],
+        "of": [
+          49
+        ],
+        "Paleogene": [
+          50
+        ],
+        "series": [
+          51,
+          63
+        ],
+        "in": [
+          52,
+          77,
+          85
+        ],
+        "N-S": [
+          54
+        ],
+        "axis": [
+          55
+        ],
+        "zone": [
+          56
+        ],
+        "and": [
+          57,
+          71,
+          79,
+          93
+        ],
+        "\"Tunisian": [
+          58
+        ],
+        "dorsale\"": [
+          59
+        ],
+        "(Rabhi": [
+          60
+        ],
+        "1999).": [
+          61
+        ],
+        "These": [
+          62
+        ],
+        "include": [
+          64
+        ],
+        "El": [
+          66
+        ],
+        "Haria": [
+          67
+        ],
+        "BouDabbous/El": [
+          68
+        ],
+        "Garia": [
+          69
+        ],
+        "Souar/Chérahil": [
+          70
+        ],
+        "Fortuna": [
+          72
+        ],
+        "formations": [
+          73
+        ],
+        "which": [
+          74
+        ],
+        "vary": [
+          75
+        ],
+        "regionally": [
+          76
+        ],
+        "facies": [
+          78
+        ],
+        "thicknesses": [
+          80
+        ],
+        "(Castany": [
+          81
+        ],
+        "1951;": [
+          82
+        ],
+        "Burollet": [
+          83
+        ],
+        "1956)": [
+          84
+        ],
+        "response": [
+          86
+        ],
+        "to": [
+          87
+        ],
+        "tectonism": [
+          88
+        ],
+        "during": [
+          89
+        ],
+        "Late": [
+          91
+        ],
+        "Campanian-Maastichtian": [
+          92
+        ],
+        "Upper": [
+          94
+        ],
+        "Eocene": [
+          95
+        ],
+        "(Turki": [
+          96
+        ],
+        "1985;": [
+          97
+        ],
+        "Bédir": [
+          98
+        ],
+        "et": [
+          99
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-15T18:14:33.161393",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3023831708",
+      "doi": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
+      "title": "Geodynamic Reconstruction of the Sahel Platform (Tunisia) – An Integrated Approach",
+      "display_name": "Geodynamic Reconstruction of the Sahel Platform (Tunisia) – An Integrated Approach",
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3023831708",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
+        "mag": "3023831708"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609-pdb.11.p16",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2nd EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5022714102",
+            "display_name": "Haïfa Boussiga",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Boussiga",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037420641",
+            "display_name": "Mohamed Hédi Inoubli",
+            "orcid": "https://orcid.org/0000-0002-9329-2780"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.H. Inoubli",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Alouani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112077603",
+            "display_name": "K. Sebei",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Sebei",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077890504",
+            "display_name": "M.G. Ben Jemia",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.G. Ben Jemia",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9955999851226807,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6524209380149841
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.39526253938674927
+        },
+        {
+          "id": "https://openalex.org/keywords/geodesy",
+          "display_name": "Geodesy",
+          "score": 0.3243505656719208
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6524209380149841
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.39526253938674927
+        },
+        {
+          "id": "https://openalex.org/C13280743",
+          "wikidata": "https://www.wikidata.org/wiki/Q131089",
+          "display_name": "Geodesy",
+          "level": 1,
+          "score": 0.3243505656719208
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609-pdb.11.p16",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2nd EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3198977739",
+        "https://openalex.org/W2889939194",
+        "https://openalex.org/W2137921205",
+        "https://openalex.org/W2026870678",
+        "https://openalex.org/W2331474472",
+        "https://openalex.org/W4242696512",
+        "https://openalex.org/W2004310775",
+        "https://openalex.org/W2093834984",
+        "https://openalex.org/W1984617079",
+        "https://openalex.org/W2036251127"
+      ],
+      "abstract_inverted_index": {
+        "1": [
+          12
+        ],
+        "2092": [
+          37
+        ],
+        "P16": [
+          0
+        ],
+        "GEODYNAMIC": [
+          1
+        ],
+        "RECONSTRUCTION": [
+          2
+        ],
+        "OF": [
+          3
+        ],
+        "THE": [
+          4
+        ],
+        "SAHEL": [
+          5
+        ],
+        "PLATFORM": [
+          6
+        ],
+        "(TUNISIA)": [
+          7
+        ],
+        "–": [
+          8,
+          36
+        ],
+        "AN": [
+          9
+        ],
+        "INTEGRATED": [
+          10
+        ],
+        "APPROACH": [
+          11
+        ],
+        "H.": [
+          13
+        ],
+        "BOUSSIGA¹": [
+          14
+        ],
+        "M.H.": [
+          15
+        ],
+        "INOUBLI¹": [
+          16
+        ],
+        "R.": [
+          17
+        ],
+        "ALOUANI¹": [
+          18
+        ],
+        "K.": [
+          19
+        ],
+        "SEBEI¹": [
+          20
+        ],
+        "and": [
+          21,
+          53,
+          62,
+          73,
+          88
+        ],
+        "M.G": [
+          22
+        ],
+        "BEN": [
+          23
+        ],
+        "JEMIA²": [
+          24
+        ],
+        "¹Unité": [
+          25
+        ],
+        "de": [
+          26,
+          28,
+          34
+        ],
+        "Recherche": [
+          27
+        ],
+        "Géophysique": [
+          29
+        ],
+        "Appliquée": [
+          30
+        ],
+        "Faculté": [
+          31
+        ],
+        "des": [
+          32
+        ],
+        "Sciences": [
+          33
+        ],
+        "Tunis": [
+          35
+        ],
+        "Tunisia": [
+          38
+        ],
+        "²KUFPEC": [
+          39
+        ],
+        "Oil": [
+          40
+        ],
+        "Co": [
+          41
+        ],
+        "e-mail": [
+          42
+        ],
+        "boussiga@yahoo.fr": [
+          43
+        ],
+        "Introduction": [
+          44
+        ],
+        "Several": [
+          45
+        ],
+        "works": [
+          46
+        ],
+        "have": [
+          47,
+          66
+        ],
+        "discussed": [
+          48
+        ],
+        "the": [
+          49,
+          83,
+          85,
+          89
+        ],
+        "geology": [
+          50
+        ],
+        "of": [
+          51,
+          78
+        ],
+        "Paleogene": [
+          52
+        ],
+        "Neogene": [
+          54
+        ],
+        "series": [
+          55
+        ],
+        "within": [
+          56
+        ],
+        "N-S": [
+          57
+        ],
+        "axis": [
+          58
+        ],
+        "zone": [
+          59
+        ],
+        "Tunisian": [
+          60
+        ],
+        "“dorsale”": [
+          61
+        ],
+        "Enfidha": [
+          63
+        ],
+        "region.": [
+          64
+        ],
+        "They": [
+          65
+        ],
+        "demonstrated": [
+          67
+        ],
+        "important": [
+          68
+        ],
+        "lateral": [
+          69
+        ],
+        "changes": [
+          70
+        ],
+        "in": [
+          71
+        ],
+        "facies": [
+          72
+        ],
+        "thicknesses": [
+          74
+        ],
+        "as": [
+          75
+        ],
+        "a": [
+          76
+        ],
+        "response": [
+          77
+        ],
+        "tectonic": [
+          79
+        ],
+        "phases": [
+          80
+        ],
+        "occurred": [
+          81
+        ],
+        "during": [
+          82
+        ],
+        "Campanian-Maastrichtian": [
+          84
+        ],
+        "Upper": [
+          86,
+          90
+        ],
+        "Eocene": [
+          87
+        ],
+        "Miocene": [
+          91
+        ],
+        "times": [
+          92
+        ],
+        "(Burollet": [
+          93
+        ],
+        "1956;": [
+          94
+        ],
+        "Castany": [
+          95
+        ],
+        "1952;": [
+          96
+        ],
+        "Turki": [
+          97
+        ],
+        "1985;": [
+          98
+        ],
+        "Bédir": [
+          99
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-15T18:14:33.161393",
+      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W2076473995",
@@ -11966,8 +11952,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12379,8 +12365,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14157,7 +14143,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
-      "type": "article",
+      "type": "erratum",
       "indexed_in": [
         "crossref"
       ],
@@ -14410,7 +14396,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5113097444"
       ],
@@ -14423,14 +14409,10 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.14285714,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": "38",
@@ -14697,8 +14679,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14726,7 +14708,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-13T06:13:01.061226",
+      "updated_date": "2026-07-15T18:14:33.161393",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14777,7 +14759,7 @@
         "raw_source_name": "Advances in Science, Technology &amp; Innovation",
         "raw_type": "book-chapter"
       },
-      "type": "book-chapter",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -14983,7 +14965,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5028508336",
         "https://openalex.org/A5086676053"
@@ -14995,14 +14977,10 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.45915735,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -15435,7 +15413,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-13T06:13:01.061226",
+      "updated_date": "2026-07-15T18:14:33.161393",
       "created_date": "2025-10-30T00:00:00"
     }
   ]
