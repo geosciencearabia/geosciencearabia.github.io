@@ -9166,11 +9166,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3076,
+      "fwci": 2.4934,
       "has_fulltext": false,
-      "cited_by_count": 33,
+      "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.87060775,
+        "value": 0.87451465,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10726,7 +10726,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-17T09:13:05.818461",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28586,47 +28586,35 @@
     },
     {
       "id": "https://openalex.org/W28724452",
-      "doi": null,
-      "title": "Aptian ammonite of the Sallah Formation, central Saudi Arabia",
-      "display_name": "Aptian ammonite of the Sallah Formation, central Saudi Arabia",
+      "doi": "https://doi.org/10.2113/9789990110593-03",
+      "title": "Aptian ammonite of the Sallah Formation, Central Saudi Arabia",
+      "display_name": "Aptian ammonite of the Sallah Formation, Central Saudi Arabia",
       "publication_year": 2010,
       "publication_date": "2010-01-01",
       "ids": {
         "openalex": "https://openalex.org/W28724452",
+        "doi": "https://doi.org/10.2113/9789990110593-03",
         "mag": "28724452"
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:HAL:hal-00575582v1",
+        "id": "doi:10.2113/9789990110593-03",
         "is_oa": false,
-        "landing_page_url": "https://brgm.hal.science/hal-00575582",
+        "landing_page_url": "https://doi.org/10.2113/9789990110593-03",
         "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
+        "source": null,
         "license": null,
         "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Geoarabia, 2010, Special Publication 4, Vol. 1, p. 97-106",
-        "raw_type": "info:eu-repo/semantics/article"
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
+        "raw_type": "book-chapter"
       },
-      "type": "article",
-      "indexed_in": [],
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
       "open_access": {
         "is_oa": false,
         "oa_status": "closed",
@@ -28657,7 +28645,7 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Le Nindre, Yves-Michel",
+          "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
           ],
@@ -28694,7 +28682,7 @@
             "FR"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Vaslet, Denis",
+          "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
             "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
           ],
@@ -28718,7 +28706,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Busnardo, Robert",
+          "raw_author_name": "Robert Busnardo",
           "raw_affiliation_strings": [],
           "raw_orcid": null,
           "affiliations": []
@@ -28731,11 +28719,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9044,
+      "fwci": 1.8003,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.79332461,
+        "value": 0.82296651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28746,8 +28734,8 @@
       "biblio": {
         "volume": null,
         "issue": null,
-        "first_page": null,
-        "last_page": null
+        "first_page": "97",
+        "last_page": "106"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -28959,8 +28947,22 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
+        {
+          "id": "doi:10.2113/9789990110593-03",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/9789990110593-03",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
+          "raw_type": "book-chapter"
+        },
         {
           "id": "pmh:oai:HAL:hal-00575582v1",
           "is_oa": false,
@@ -29021,11 +29023,388 @@
         "https://openalex.org/W2005291064"
       ],
       "abstract_inverted_index": {
-        "International": [
+        "2": [
+          106
+        ],
+        "30": [
+          13
+        ],
+        "ABSTRACT": [
           0
         ],
-        "audience": [
-          1
+        "The": [
+          1,
+          39,
+          93,
+          117,
+          141
+        ],
+        "Sallah": [
+          2,
+          58,
+          94,
+          104
+        ],
+        "Formation": [
+          3,
+          59,
+          85,
+          95,
+          145,
+          152,
+          162
+        ],
+        "crops": [
+          4
+        ],
+        "out": [
+          5
+        ],
+        "in": [
+          6,
+          86,
+          137
+        ],
+        "Central": [
+          7,
+          138
+        ],
+        "Saudi": [
+          8,
+          91,
+          139
+        ],
+        "Arabia": [
+          9
+        ],
+        "where": [
+          10
+        ],
+        "it": [
+          11
+        ],
+        "is": [
+          12,
+          41,
+          60,
+          124,
+          146
+        ],
+        "metres": [
+          14,
+          108
+        ],
+        "thick.": [
+          15
+        ],
+        "It": [
+          16
+        ],
+        "consists": [
+          17
+        ],
+        "of": [
+          18,
+          48,
+          67,
+          71,
+          89,
+          129,
+          153,
+          163
+        ],
+        "lagoonal": [
+          19
+        ],
+        "and": [
+          20,
+          76,
+          101,
+          155,
+          160
+        ],
+        "inter-tidal": [
+          21
+        ],
+        "sediments,": [
+          22
+        ],
+        "including": [
+          23
+        ],
+        "locally": [
+          24
+        ],
+        "a": [
+          25,
+          32,
+          97,
+          127,
+          133
+        ],
+        "marine": [
+          26
+        ],
+        "fauna,": [
+          27
+        ],
+        "which": [
+          28
+        ],
+        "were": [
+          29
+        ],
+        "deposited": [
+          30
+        ],
+        "during": [
+          31
+        ],
+        "regional": [
+          33
+        ],
+        "trangression": [
+          34
+        ],
+        "above": [
+          35
+        ],
+        "the": [
+          36,
+          45,
+          49,
+          57,
+          65,
+          81,
+          87,
+          102,
+          111,
+          121,
+          149,
+          156
+        ],
+        "Biyadh": [
+          37
+        ],
+        "Sandstone.": [
+          38
+        ],
+        "formation": [
+          40
+        ],
+        "unconformably": [
+          42
+        ],
+        "overlain": [
+          43
+        ],
+        "by": [
+          44
+        ],
+        "continental": [
+          46,
+          143
+        ],
+        "clastics": [
+          47
+        ],
+        "Huraysan": [
+          50,
+          144
+        ],
+        "Formation.": [
+          51
+        ],
+        "A": [
+          52
+        ],
+        "single": [
+          53
+        ],
+        "ammonite": [
+          54
+        ],
+        "recovered": [
+          55
+        ],
+        "from": [
+          56
+        ],
+        "here": [
+          61
+        ],
+        "conclusively": [
+          62
+        ],
+        "assigned": [
+          63
+        ],
+        "to": [
+          64,
+          69,
+          80,
+          148
+        ],
+        "top": [
+          66
+        ],
+        "Lower": [
+          68
+        ],
+        "base": [
+          70
+        ],
+        "Upper": [
+          72
+        ],
+        "Aptian": [
+          73,
+          83
+        ],
+        "Cheloniceras": [
+          74
+        ],
+        "sp.": [
+          75
+        ],
+        "supports": [
+          77
+        ],
+        "its": [
+          78
+        ],
+        "correlation": [
+          79
+        ],
+        "Early": [
+          82
+        ],
+        "Shu’aiba": [
+          84
+        ],
+        "subsurface": [
+          88
+        ],
+        "eastern": [
+          90
+        ],
+        "Arabia.": [
+          92,
+          140
+        ],
+        "forms": [
+          96
+        ],
+        "complete": [
+          98
+        ],
+        "transgressive-regressive": [
+          99
+        ],
+        "sequence": [
+          100
+        ],
+        "middle": [
+          103
+        ],
+        "unit": [
+          105
+        ],
+        "(11": [
+          107
+        ],
+        "thick)": [
+          109
+        ],
+        "contains": [
+          110
+        ],
+        "maximum": [
+          112
+        ],
+        "flooding": [
+          113
+        ],
+        "surface": [
+          114
+        ],
+        "MFS": [
+          115
+        ],
+        "K80.": [
+          116
+        ],
+        "Late": [
+          118
+        ],
+        "Aptian,": [
+          119
+        ],
+        "for": [
+          120
+        ],
+        "most": [
+          122
+        ],
+        "part,": [
+          123
+        ],
+        "interpreted": [
+          125
+        ],
+        "as": [
+          126
+        ],
+        "hiatus": [
+          128
+        ],
+        "non-deposition": [
+          130
+        ],
+        "associated": [
+          131
+        ],
+        "with": [
+          132
+        ],
+        "major": [
+          134
+        ],
+        "sea-level": [
+          135
+        ],
+        "lowstand": [
+          136
+        ],
+        "overlying": [
+          142
+        ],
+        "correlated": [
+          147
+        ],
+        "Nahr": [
+          150
+        ],
+        "Umr": [
+          151
+        ],
+        "Oman": [
+          154
+        ],
+        "United": [
+          157
+        ],
+        "Arab": [
+          158
+        ],
+        "Emirates": [
+          159
+        ],
+        "Burgan": [
+          161
+        ],
+        "Kuwait.": [
+          164
         ]
       },
       "counts_by_year": [
@@ -29046,8 +29425,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-07-17T09:13:05.818461",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W50354605",
