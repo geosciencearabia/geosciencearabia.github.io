@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 182,
-    "totalCitations": 2654,
+    "totalCitations": 2655,
     "hIndex": 26
   },
   {
@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 404,
-    "totalCitations": 19705,
+    "totalCitations": 19713,
     "hIndex": 70
   },
   {
@@ -90,7 +90,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 63,
-    "totalCitations": 2028,
+    "totalCitations": 2029,
     "hIndex": 23
   },
   {
@@ -108,7 +108,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 131,
-    "totalCitations": 3097,
+    "totalCitations": 3098,
     "hIndex": 34
   },
   {
@@ -342,7 +342,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 78,
-    "totalCitations": 1071,
+    "totalCitations": 1072,
     "hIndex": 21
   },
   {
@@ -432,7 +432,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 171,
-    "totalCitations": 1308,
+    "totalCitations": 1311,
     "hIndex": 21
   },
   {
@@ -558,7 +558,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 21,
-    "totalCitations": 292,
+    "totalCitations": 293,
     "hIndex": 8
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 254,
-    "totalCitations": 3497,
+    "totalCitations": 3498,
     "hIndex": 27
   },
   {
@@ -612,8 +612,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 13,
-    "totalCitations": 135,
-    "hIndex": 6
+    "totalCitations": 136,
+    "hIndex": 7
   },
   {
     "authorId": "idb0033-zühlke-rainer",
@@ -720,7 +720,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 31,
-    "totalCitations": 247,
+    "totalCitations": 248,
     "hIndex": 8
   },
   {
@@ -738,7 +738,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 122,
-    "totalCitations": 1630,
+    "totalCitations": 1631,
     "hIndex": 23
   },
   {
@@ -918,7 +918,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 93,
-    "totalCitations": 1027,
+    "totalCitations": 1028,
     "hIndex": 18
   },
   {
@@ -1008,7 +1008,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 86,
-    "totalCitations": 6055,
+    "totalCitations": 6056,
     "hIndex": 33
   },
   {
@@ -1061,8 +1061,8 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "",
     "orcid": "",
-    "totalPublications": 117,
-    "totalCitations": 2883,
+    "totalPublications": 118,
+    "totalCitations": 2898,
     "hIndex": 31
   },
   {

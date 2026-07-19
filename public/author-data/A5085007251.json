@@ -20,7 +20,7 @@
     ],
     "full_name": "Khalid A. Al-Ramadan",
     "works_count": 155,
-    "cited_by_count": 2459,
+    "cited_by_count": 2460,
     "summary_stats": {
       "2yr_mean_citedness": 3.8372093023255816,
       "h_index": 26,
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000889,
+        "value": 0.0000888,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -434,7 +434,7 @@
         "year": 2020,
         "works_count": 17,
         "oa_works_count": 9,
-        "cited_by_count": 173
+        "cited_by_count": 174
       },
       {
         "year": 2021,
@@ -490,7 +490,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5085007251",
-    "updated_date": "2026-07-16T15:41:36",
+    "updated_date": "2026-07-18T12:17:20",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -29142,16 +29142,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5455,
+      "fwci": 1.2467,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.8146521,
+        "value": 0.76504714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29341,7 +29341,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "   Journal of Sedimentary Research , 87  (11)   pp. 1196-1213.   (2017)      ",
+          "raw_source_name": "Journal of Sedimentary Research , 87 (11) pp. 1196-1213. (2017)",
           "raw_type": "Article"
         },
         {
@@ -29400,7 +29400,7 @@
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "   Journal of Sedimentary Research , 87  (11)   pp. 1196-1213.   (2017)      ",
+        "raw_source_name": "Journal of Sedimentary Research , 87 (11) pp. 1196-1213. (2017)",
         "raw_type": "Article"
       },
       "sustainable_development_goals": [
@@ -30484,7 +30484,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-20T22:02:38.213706",
+      "updated_date": "2026-07-19T07:52:34.831488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85203,11 +85203,11 @@
         "currency": "USD",
         "value_usd": 3070
       },
-      "fwci": 1.3792,
+      "fwci": 1.3767,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75116973,
+        "value": 0.75070895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85602,6 +85602,13 @@
           "funder_award_id": "FAR 2020",
           "funder_id": "https://openalex.org/F4320324162",
           "funder_display_name": "Università degli Studi di Ferrara"
+        },
+        {
+          "id": "https://openalex.org/G8994254433",
+          "display_name": null,
+          "funder_award_id": "PRIN 2017RX9XXXY-CM",
+          "funder_id": "https://openalex.org/F4320321873",
+          "funder_display_name": "Ministero dell’Istruzione, dell’Università e della Ricerca"
         }
       ],
       "funders": [
@@ -86612,7 +86619,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-17T09:13:05.818461",
+      "updated_date": "2026-07-19T07:52:34.831488",
       "created_date": "2025-10-10T00:00:00"
     },
     {
