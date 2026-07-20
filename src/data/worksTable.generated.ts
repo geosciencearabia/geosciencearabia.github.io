@@ -1882,7 +1882,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Estudios Geológicos",
     "citations": 2,
-    "fwci": 1.3395,
+    "fwci": 1.2273,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -7945,8 +7945,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-11-01",
     "year": 2015,
     "venue": "Nature",
-    "citations": 483,
-    "fwci": 20.7227,
+    "citations": 484,
+    "fwci": 20.7278,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -9418,6 +9418,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3214641082",
+    "doi": "https://doi.org/10.3389/feart.2021.766604",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5029417559",
+      "A5035240990",
+      "A5049736310",
+      "A5054436395"
+    ],
+    "firstAuthorLastName": "Baes",
+    "allAuthors": [
+      "Marzieh Baes",
+      "Robert J. Stern",
+      "Scott Whattam",
+      "Taras Gerya",
+      "S. V. Sobolev"
+    ],
+    "title": "Plume-Induced Subduction Initiation: Revisiting Models and Observations",
+    "publicationDate": "2021-11-15",
+    "year": 2021,
+    "venue": "Frontiers in Earth Science",
+    "citations": 23,
+    "fwci": 2.7696,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Leibniz University Hannover",
+      "GFZ Helmholtz Centre for Geosciences",
+      "The University of Texas at Dallas",
+      "King Fahd University of Petroleum and Minerals",
+      "ETH Zurich",
+      "University of Potsdam"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4200559166",
     "doi": "https://doi.org/10.1016/j.chemgeo.2021.120681",
     "program": "",
@@ -9501,46 +9541,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of British Columbia, Okanagan Campus",
       "Okanagan University College",
       "Auburn University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3214641082",
-    "doi": "https://doi.org/10.3389/feart.2021.766604",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5029417559",
-      "A5035240990",
-      "A5049736310",
-      "A5054436395"
-    ],
-    "firstAuthorLastName": "Baes",
-    "allAuthors": [
-      "Marzieh Baes",
-      "Robert J. Stern",
-      "Scott Whattam",
-      "Taras Gerya",
-      "S. V. Sobolev"
-    ],
-    "title": "Plume-Induced Subduction Initiation: Revisiting Models and Observations",
-    "publicationDate": "2021-11-15",
-    "year": 2021,
-    "venue": "Frontiers in Earth Science",
-    "citations": 22,
-    "fwci": 3.3868,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "Leibniz University Hannover",
-      "GFZ Helmholtz Centre for Geosciences",
-      "The University of Texas at Dallas",
-      "King Fahd University of Petroleum and Minerals",
-      "ETH Zurich",
-      "University of Potsdam"
     ]
   },
   {
@@ -24594,7 +24594,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 29,
-    "fwci": 21.6822,
+    "fwci": 21.8374,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -24908,7 +24908,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 12,
-    "fwci": 6.8828,
+    "fwci": 6.9003,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -33053,47 +33053,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2797578994",
-    "doi": "https://doi.org/10.1007/s12526-018-0879-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5035815399",
-      "A5020225015",
-      "A5029279962",
-      "A5002925825",
-      "A5070748180"
-    ],
-    "firstAuthorLastName": "Amao",
-    "allAuthors": [
-      "Abduljamiu O. Amao",
-      "Michael A. Kaminski",
-      "Masoud A. Rostami",
-      "Mohamad Hosein Mahmudy Gharaie",
-      "Razyeh Lak",
-      "Fabrizio Frontalini"
-    ],
-    "title": "Distribution of benthic foraminifera along the Iranian coast",
-    "publicationDate": "2018-04-09",
-    "year": 2018,
-    "venue": "Marine Biodiversity",
-    "citations": 15,
-    "fwci": 0.7084,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Isotope Analysis in Ecology",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Florida",
-      "Ferdowsi University of Mashhad",
-      "Geological Survey of Iran",
-      "University of Urbino"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W3093626874",
     "doi": "https://doi.org/10.7494/geol.2020.46.3.189",
     "program": "",
@@ -33408,6 +33367,48 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Geological Survey of India"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2797578994",
+    "doi": "https://doi.org/10.1007/s12526-018-0879-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5035815399",
+      "A5020225015",
+      "A5029279962",
+      "A5002925825",
+      "A5070748180"
+    ],
+    "firstAuthorLastName": "Amao",
+    "allAuthors": [
+      "Abduljamiu O. Amao",
+      "Michael A. Kaminski",
+      "Masoud A. Rostami",
+      "Mohamad Hosein Mahmudy Gharaie",
+      "Razyeh Lak",
+      "Fabrizio Frontalini"
+    ],
+    "title": "Distribution of benthic foraminifera along the Iranian coast",
+    "publicationDate": "2018-04-09",
+    "year": 2018,
+    "venue": "Marine Biodiversity",
+    "citations": 15,
+    "fwci": 0.55,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Florida",
+      "Ferdowsi University of Mashhad",
+      "Geological Survey of Iran",
+      "Research Institute for Earth Sciences",
+      "University of Urbino"
     ]
   },
   {
@@ -36016,6 +36017,35 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3035108166",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104521",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5028390167",
+    "allAuthorOpenAlexIds": [
+      "A5028390167",
+      "A5054297272"
+    ],
+    "firstAuthorLastName": "Mahgoub",
+    "allAuthors": [
+      "M.I. Mahgoub",
+      "Osman Abdullatif"
+    ],
+    "title": "Facies, petrography, reservoir heterogeneity and quality of the late Carboniferous-Permian Juwayl Member, Wajid Sandstone, SW Saudi Arabia",
+    "publicationDate": "2020-06-13",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 14,
+    "fwci": 1.1834,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3205365005",
     "doi": "https://doi.org/10.1016/j.jseaes.2021.104985",
     "program": "",
@@ -36554,35 +36584,6 @@ export const worksTable: WorkTableRecord[] = [
       "Universiti Sains Malaysia",
       "University of Toronto",
       "University of Azad Jammu and Kashmir"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3035108166",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104521",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5028390167",
-    "allAuthorOpenAlexIds": [
-      "A5028390167",
-      "A5054297272"
-    ],
-    "firstAuthorLastName": "Mahgoub",
-    "allAuthors": [
-      "M.I. Mahgoub",
-      "Osman Abdullatif"
-    ],
-    "title": "Facies, petrography, reservoir heterogeneity and quality of the late Carboniferous-Permian Juwayl Member, Wajid Sandstone, SW Saudi Arabia",
-    "publicationDate": "2020-06-13",
-    "year": 2020,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 13,
-    "fwci": 1.4705,
-    "topics": [
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -42324,8 +42325,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-05-26",
     "year": 2018,
     "venue": "Journal of African Earth Sciences",
-    "citations": 22,
-    "fwci": 2.9474,
+    "citations": 23,
+    "fwci": 2.4453,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -50917,7 +50918,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 3,
-    "fwci": 1.2065,
+    "fwci": 1.2056,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -90149,7 +90150,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 82,
-    "fwci": 4.6048,
+    "fwci": 4.6056,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90186,7 +90187,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Precambrian Research",
     "citations": 76,
-    "fwci": 4.789,
+    "fwci": 4.7899,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93683,7 +93684,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Nature Reviews Earth & Environment",
     "citations": 32,
-    "fwci": 6.0514,
+    "fwci": 6.0445,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -134073,7 +134074,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 2.9368,
+    "fwci": 2.9362,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",

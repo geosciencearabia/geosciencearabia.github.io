@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1300,
-    "citations": 24587
+    "citations": 24589
   },
   {
     "id": "https://openalex.org/T10109",
@@ -38,13 +38,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 664,
-    "citations": 19341
+    "citations": 19342
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 648,
-    "citations": 32263
+    "citations": 32265
   },
   {
     "id": "https://openalex.org/T13177",
@@ -56,13 +56,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 576,
-    "citations": 12525
+    "citations": 12526
   },
   {
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 347,
-    "citations": 4750
+    "citations": 4751
   },
   {
     "id": "https://openalex.org/T10995",
@@ -74,7 +74,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
     "publications": 310,
-    "citations": 15838
+    "citations": 15840
   },
   {
     "id": "https://openalex.org/T13193",
@@ -98,7 +98,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10413",
     "name": "High-pressure geophysics and materials",
     "publications": 163,
-    "citations": 13789
+    "citations": 13791
   },
   {
     "id": "https://openalex.org/T10765",
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 143,
-    "citations": 3539
+    "citations": 3540
   },
   {
     "id": "https://openalex.org/T10892",
@@ -3653,7 +3653,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 928,
-    "citations": 10724
+    "citations": 10726
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3671,7 +3671,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 170,
-    "citations": 4258
+    "citations": 4259
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3773,7 +3773,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 47,
-    "citations": 732
+    "citations": 733
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -3827,7 +3827,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I162577319",
     "name": "The University of Texas at Dallas",
     "publications": 30,
-    "citations": 5597
+    "citations": 5599
   },
   {
     "id": "https://openalex.org/I4210128123",
@@ -3995,7 +3995,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I35440088",
     "name": "ETH Zurich",
     "publications": 19,
-    "citations": 929
+    "citations": 931
   },
   {
     "id": "https://openalex.org/I4210155927",
@@ -4025,7 +4025,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I197347611",
     "name": "Korea University",
     "publications": 18,
-    "citations": 1670
+    "citations": 1671
   },
   {
     "id": "https://openalex.org/I1331816111",
@@ -4853,7 +4853,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I114112103",
     "name": "Leibniz University Hannover",
     "publications": 7,
-    "citations": 634
+    "citations": 635
   },
   {
     "id": "https://openalex.org/I4391767698",
@@ -4973,7 +4973,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I176453806",
     "name": "University of Potsdam",
     "publications": 6,
-    "citations": 789
+    "citations": 791
   },
   {
     "id": "https://openalex.org/I131249849",
@@ -5267,7 +5267,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210152878",
     "name": "GFZ Helmholtz Centre for Geosciences",
     "publications": 5,
-    "citations": 607
+    "citations": 609
   },
   {
     "id": "https://openalex.org/I121980950",
@@ -9828,6 +9828,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Laboratoire des Fluides Complexes et leurs Réservoirs",
     "publications": 1,
     "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I4405262959",
+    "name": "Research Institute for Earth Sciences",
+    "publications": 1,
+    "citations": 15
   },
   {
     "id": "https://openalex.org/I317356780",
