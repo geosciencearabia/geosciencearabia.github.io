@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 20 Jul 2026 22:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:04:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Heterogeneous Dual-Path Wide Residual Network for Accurate Land Use and Land Cover Image Classification</title>
+      <link>https://doi.org/10.3390/rs18142406</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7169759615</guid>
+      <dc:creator>Ijaz Hussain, Wei Chen, Yasir Iqbal, Anjum Iqbal, Jabir Khan, Mohammed Benaafi, Si‐Liang Li</dc:creator>
+      <dc:publisher>Remote Sensing</dc:publisher>
+      <category>Computer science</category>
+      <category>Residual</category>
+      <category>Discriminative model</category>
+      <category>Block (permutation group theory)</category>
+      <category>Land cover</category>
+      <description>Abstract: Automatic classification of remote sensing images for land use and land cover (LULC) applications encounter numerous challenges because of multi-resolution data, heterogeneous appearance and multi-spectral complexity. Existing deep learning models, especially conventional CNNs, struggle to include inherent features of objects because of their limited ability in modeling the long-range dependency and global contextual information. To address these limitations, this paper proposes a novel Heterogeneous Dual-Path Wide Residual Network (HDP-WRN) model for enhanced LULC classification. The initial feature extraction is performed using a post-activation residual block and two parallel paths using different convolutional operators with different attention mechanisms. Branch A integrates standard convolutions and Efficient Channel Attention (ECA) to extract fine-grained local textures, and Branch B merges Ghost convolutions and Convolutional Block Attention Module (CBAM) to boost global spatial channel feature extraction effectively and their complementary representations are fused for obtaining discriminative joint feature space effectively. Extensive experiments show that HDP-WRN achieves competitive performance on multiple benchmark datasets, with accuracy of 98.67% on EuroSAT, 95.11% on RSSCN, 96.13% on SIRI-WHU, and 97.24% on UC-Merced. Under our experimental setup, the proposed model outperforms the reported results of several existing methods, though direct comparisons should …&#10;Topics: Computer science, Residual, Discriminative model, Block (permutation group theory), Land cover&#10;Venue: Remote Sensing&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Integrated sequence stratigraphy, sedimentology and diagenetic evolution of lower devonian shallow-marine sandstones, Saudi Arabia</title>
       <link>https://doi.org/10.1016/j.marger.2026.207851</link>
@@ -1370,20 +1384,6 @@
       <category>Diagenesis</category>
       <category>Bioturbation</category>
       <description>Abstract: Evaluating the petrophysical properties of carbonate strata with bioturbation necessitates an insight into the heterogeneity in rock texture within burrow fillings. This study examines five separated bioturbated intervals in the upper Hanifa Formation, Saudi Arabia, focusing on burrowing style, depositional texture, diagenetic modifications, porosity, and pore system. The main goal is to understand how the pore system and porosity vary along the vertical profile within the burrow fillings of these bioturbated intervals and how they can be influenced by factors including the burrowing style, the depositional texture, and the diagenetic alterations. Based on the burrowing style, the five bioturbated intervals are categorized into intervals with bio-retextured fabric and intervals with pipe framework burrows, as determined by the results of field studies, petrographic analysis, and medical CT scanning. Data from petrographic investigation revealed that burrow fillings in intervals with a pipe framework burrowing style (intervals 1, 4, and 5) likely deposited in similar environments exhibit minor variations in grain size, with mean grain sizes of 766 ± 752 μm for interval 1, 739 ± 433 μm for interval 4, and 514 ± 341 μm for interval 5. Porosity values from micro-CT scans show 7.15 %, 4 %, and 7.75 %, respectively. In contrast, bio-retextured intervals (intervals 2 and 3) have smaller mean grain sizes of 355 ± 206 and 402 ± 148 μm, with lower total porosity values of 1.64 % and 2.…&#10;Topics: Burrow, Geology, Petrography, Diagenesis, Bioturbation&#10;Venue: International Journal of Sediment Research&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Machine learning-driven acoustic impedance inversion with globally optimized reservoir characterization for reserve estimation in carbonate reservoirs</title>
-      <link>https://doi.org/10.1016/j.rineng.2025.108571</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4416956848</guid>
-      <dc:creator>Lutfi Mulyadi Surachman, Abdulazeez Abdulraheem, SanLinn I. Kaka, Abdullatif Al‐Shuhail</dc:creator>
-      <dc:publisher>Results in Engineering</dc:publisher>
-      <category>Geology</category>
-      <category>Inversion (geology)</category>
-      <category>Carbonate</category>
-      <category>Reservoir modeling</category>
-      <category>Acoustic impedance</category>
-      <description>Abstract: Reserve estimation in carbonate reservoirs remains challenging because of the nonlinear, power-law relationships among the acoustic impedance (AI), rock physics, and petrophysical properties that govern net pay identification. This study develops a machine learning (ML)-based seismic inversion workflow that integrates multilayer perceptron (MLPR), random forest (RFR), and extra tree regression (ETR) algorithms to predict AI from seismic attributes, depth, and two-way travel time. A limited-memory Broyden-Fletcher-Goldfarb-Shanno with Boundaries (LBFGS-B) optimization minimizes the square errors between reservoir extremes and the threshold values to obtain empirical constants under defined initial values and bounds. A ± 3 % perturbation to the initial values produced the global minimum errors. The solutions of these empirical constants generate optimized porosity and permeability profiles that determine the net pay when the computed reservoir properties exceed their thresholds. Further results show that ML-based inversion provides more accurate reserve estimates than conventional band-limited impedance inversion methods do. Due to hyperparameter choices among the tested models, the ETR achieved the closest match to the true empirical values for the AI-porosity transformation and reserve estimate (a ETR = 0.1584, R ETR = 28.08 million stock tank barrels (STB)) relative to the ground truth (a true = 0.1585, R true = 29.96 million STB), confirming its robustness for evaluating th…&#10;Topics: Geology, Inversion (geology), Carbonate, Reservoir modeling, Acoustic impedance&#10;Venue: Results in Engineering&#10;Year: 2025&#10;Citations: 2</description>
     </item>
   </channel>
 </rss>

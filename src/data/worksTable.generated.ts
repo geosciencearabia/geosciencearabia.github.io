@@ -1882,7 +1882,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Estudios Geológicos",
     "citations": 2,
-    "fwci": 1.2273,
+    "fwci": 1.2259,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -2168,8 +2168,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-12-20",
     "year": 2021,
     "venue": "Biomaterials Science",
-    "citations": 117,
-    "fwci": 9.2607,
+    "citations": 118,
+    "fwci": 9.2619,
     "topics": [
       "Essential Oils and Antimicrobial Activity",
       "Advanced Drug Delivery Systems",
@@ -10721,7 +10721,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of the Geological Society",
     "citations": 5,
-    "fwci": 9.1178,
+    "fwci": 5.7252,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geochemical Analysis",
@@ -11000,7 +11000,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "New Zealand Journal of Geology and Geophysics",
     "citations": 26,
-    "fwci": 1.165,
+    "fwci": 1.0212,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -26084,7 +26084,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 4,
-    "fwci": 1.9806,
+    "fwci": 1.9808,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -31947,8 +31947,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-07-04",
     "year": 2024,
     "venue": "Energy",
-    "citations": 26,
-    "fwci": 4.6496,
+    "citations": 27,
+    "fwci": 3.6739,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geological and Geochemical Analysis",
@@ -33228,7 +33228,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Mosim Ansari",
       "Mohd Yusuf Khan",
-      "Mohammad Furquan",
+      "Mohd Yusuf Khan",
       "Mohammad Furquan",
       "Abduljamiu O. Amao",
       "Abuzar Khan",
@@ -33240,7 +33240,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.3829,
+    "fwci": 0.3818,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -40390,44 +40390,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3122880898",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2021.104930",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5059202675",
-      "A5072475576",
-      "A5037030769",
-      "A5023467994"
-    ],
-    "firstAuthorLastName": "Gharib",
-    "allAuthors": [
-      "Abbas F. Gharib",
-      "Ali Müjdat Özkan",
-      "Mohammed Hail Hakimi",
-      "Nor Syazwani Zainal Abidin",
-      "Aref Lashin"
-    ],
-    "title": "Integrated geochemical characterization and geological modeling of organic matter-rich limestones and oils from Ajeel Oilfield in Mesopotamian Basin, Northern Iraq",
-    "publicationDate": "2021-01-23",
-    "year": 2021,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 30,
-    "fwci": 3.1184,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Petroleum Processing and Analysis"
-    ],
-    "institutions": [
-      "Konya Technical University",
-      "Taiz University",
-      "Universiti Teknologi Petronas",
-      "King Saud University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4400164044",
     "doi": "https://doi.org/10.1016/j.cej.2024.153626",
     "program": "",
@@ -40473,8 +40435,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-06-30",
     "year": 2024,
     "venue": "Chemical Engineering Journal",
-    "citations": 30,
-    "fwci": 5.2536,
+    "citations": 31,
+    "fwci": 4.4536,
     "topics": [
       "Catalysis and Hydrodesulfurization Studies",
       "Catalysts for Methane Reforming",
@@ -40485,6 +40447,44 @@ export const worksTable: WorkTableRecord[] = [
       "Niroo Research Institute",
       "Institute of Physics",
       "Skolkovo Institute of Science and Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3122880898",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2021.104930",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5059202675",
+      "A5072475576",
+      "A5037030769",
+      "A5023467994"
+    ],
+    "firstAuthorLastName": "Gharib",
+    "allAuthors": [
+      "Abbas F. Gharib",
+      "Ali Müjdat Özkan",
+      "Mohammed Hail Hakimi",
+      "Nor Syazwani Zainal Abidin",
+      "Aref Lashin"
+    ],
+    "title": "Integrated geochemical characterization and geological modeling of organic matter-rich limestones and oils from Ajeel Oilfield in Mesopotamian Basin, Northern Iraq",
+    "publicationDate": "2021-01-23",
+    "year": 2021,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 30,
+    "fwci": 3.1184,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Petroleum Processing and Analysis"
+    ],
+    "institutions": [
+      "Konya Technical University",
+      "Taiz University",
+      "Universiti Teknologi Petronas",
+      "King Saud University"
     ]
   },
   {
@@ -43328,7 +43328,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Fuel",
     "citations": 5,
-    "fwci": 2.1282,
+    "fwci": 2.1161,
     "topics": [
       "Petroleum Processing and Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -43599,7 +43599,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of African Earth Sciences",
     "citations": 3,
-    "fwci": 1.3707,
+    "fwci": 1.3617,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -43655,7 +43655,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Scientific Reports",
     "citations": 3,
-    "fwci": 2.4962,
+    "fwci": 1.631,
     "topics": [
       "Enhanced Oil Recovery Techniques",
       "Petroleum Processing and Analysis",
@@ -43663,7 +43663,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Kazan Federal University",
-      "University of Babylon",
+      "Al-Mustaqbal University",
       "Sana'a University",
       "University of Petroleum",
       "Zarubezhneft",
@@ -43702,7 +43702,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Scientific Reports",
     "citations": 3,
-    "fwci": 12.1851,
+    "fwci": 11.978,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -50918,7 +50918,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 3,
-    "fwci": 1.2056,
+    "fwci": 1.2006,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52210,6 +52210,44 @@ export const worksTable: WorkTableRecord[] = [
       "Simon Fraser University",
       "University of Arusha",
       "Aga Khan University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7169759615",
+    "doi": "https://doi.org/10.3390/rs18142406",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5141207997",
+      "A5100344528",
+      "A5136615450",
+      "A5114208759",
+      "A5141184439",
+      "A5076866627"
+    ],
+    "firstAuthorLastName": "Hussain",
+    "allAuthors": [
+      "Ijaz Hussain",
+      "Wei Chen",
+      "Yasir Iqbal",
+      "Anjum Iqbal",
+      "Jabir Khan",
+      "Mohammed Benaafi",
+      "Si‐Liang Li"
+    ],
+    "title": "Heterogeneous Dual-Path Wide Residual Network for Accurate Land Use and Land Cover Image Classification",
+    "publicationDate": "2026-07-20",
+    "year": 2026,
+    "venue": "Remote Sensing",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [],
+    "institutions": [
+      "Tianjin University",
+      "Dalian University of Technology",
+      "Southeast University",
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -68735,8 +68773,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-05-23",
     "year": 2017,
     "venue": "International Journal of Coal Geology",
-    "citations": 185,
-    "fwci": 12.5367,
+    "citations": 186,
+    "fwci": 10.6998,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -68982,7 +69020,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
     "citations": 24,
-    "fwci": 2.5339,
+    "fwci": 2.5341,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -71085,8 +71123,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-10-13",
     "year": 2014,
     "venue": "Review of Palaeobotany and Palynology",
-    "citations": 52,
-    "fwci": 12.9949,
+    "citations": 53,
+    "fwci": 12.09,
     "topics": [
       "Plant Diversity and Evolution",
       "Geology and Paleoclimatology Research",
@@ -71759,7 +71797,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Palynology",
     "citations": 33,
-    "fwci": 3.8632,
+    "fwci": 3.8639,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -78847,6 +78885,60 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4380997768",
+    "doi": "https://doi.org/10.18814/epiiugs/2023/023015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5036722705",
+      "A5045906745",
+      "A5025034707",
+      "A5035033834",
+      "A5104130806",
+      "A5060685103",
+      "A5112939153",
+      "A5016221209",
+      "A5020524306",
+      "A5051388283"
+    ],
+    "firstAuthorLastName": "Chernykh",
+    "allAuthors": [
+      "V. V. Chernykh",
+      "Charles M. Henderson",
+      "Р. В. Кутыгин",
+      "Т. V. Filimonova",
+      "Guzal M. Sungatullina",
+      "M. S. Afanasieva",
+      "Т. Н. Исакова",
+      "R. Kh. Sungatullin",
+      "Michael H. Stephenson",
+      "Lucia Angiolini",
+      "Б. И. Чувашов"
+    ],
+    "title": "Global Stratotype Section and Point (GSSP) for the base-Artinskian Stage (Lower Permian)",
+    "publicationDate": "2023-06-15",
+    "year": 2023,
+    "venue": "Episodes",
+    "citations": 4,
+    "fwci": 1.1772,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "Zavaritsky Institute of Geology and Geochemistry",
+      "University of Calgary",
+      "Diamond and Precious Metal Geology Institute",
+      "Geological Institute",
+      "Kazan Federal University",
+      "Institute of Paleontology A A Borisyak",
+      "British Geological Survey",
+      "University of Milan"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1992673920",
     "doi": "https://doi.org/10.1144/jm.24.1.77",
     "program": "",
@@ -79280,60 +79372,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "British Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4380997768",
-    "doi": "https://doi.org/10.18814/epiiugs/2023/023015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5036722705",
-      "A5045906745",
-      "A5025034707",
-      "A5035033834",
-      "A5104130806",
-      "A5060685103",
-      "A5112939153",
-      "A5016221209",
-      "A5020524306",
-      "A5051388283"
-    ],
-    "firstAuthorLastName": "Chernykh",
-    "allAuthors": [
-      "V. V. Chernykh",
-      "Charles M. Henderson",
-      "Р. В. Кутыгин",
-      "Т. V. Filimonova",
-      "Guzal M. Sungatullina",
-      "M. S. Afanasieva",
-      "Т. Н. Исакова",
-      "R. Kh. Sungatullin",
-      "Michael H. Stephenson",
-      "Lucia Angiolini",
-      "Б. И. Чувашов"
-    ],
-    "title": "Global Stratotype Section and Point (GSSP) for the base-Artinskian Stage (Lower Permian)",
-    "publicationDate": "2023-06-15",
-    "year": 2023,
-    "venue": "Episodes",
-    "citations": 3,
-    "fwci": 0.8842,
-    "topics": [
-      "Geological Studies and Exploration",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena"
-    ],
-    "institutions": [
-      "Zavaritsky Institute of Geology and Geochemistry",
-      "University of Calgary",
-      "Diamond and Precious Metal Geology Institute",
-      "Geological Institute",
-      "Kazan Federal University",
-      "Institute of Paleontology A A Borisyak",
-      "British Geological Survey",
-      "University of Milan"
     ]
   },
   {
@@ -84294,8 +84332,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-09-05",
     "year": 2007,
     "venue": "Marine and Petroleum Geology",
-    "citations": 208,
-    "fwci": 5.5428,
+    "citations": 209,
+    "fwci": 5.0591,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -88313,7 +88351,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Minerals",
     "citations": 8,
-    "fwci": 2.585,
+    "fwci": 2.5852,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -88597,8 +88635,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3424,
-    "fwci": 60.2553,
+    "citations": 3427,
+    "fwci": 60.2463,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -89513,8 +89551,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-07-05",
     "year": 2016,
     "venue": "Chemical Geology",
-    "citations": 124,
-    "fwci": 11.3256,
+    "citations": 125,
+    "fwci": 9.9422,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -89977,8 +90015,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-05",
     "year": 2020,
     "venue": "Journal of Analytical Atomic Spectrometry",
-    "citations": 94,
-    "fwci": 7.3563,
+    "citations": 95,
+    "fwci": 5.811,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -90150,7 +90188,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Tectonics",
     "citations": 82,
-    "fwci": 4.6056,
+    "fwci": 4.6054,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90617,8 +90655,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-16",
     "year": 2022,
     "venue": "Geostandards and Geoanalytical Research",
-    "citations": 34,
-    "fwci": 4.8546,
+    "citations": 35,
+    "fwci": 4.1817,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -92905,43 +92943,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W1862437989",
-    "doi": "https://doi.org/10.1002/2015tc003876",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5035215595",
-      "A5000343935",
-      "A5011312843",
-      "A5084273448"
-    ],
-    "firstAuthorLastName": "Arboit",
-    "allAuthors": [
-      "Francesco Arboit",
-      "Khalid Amrouch",
-      "Alan S. Collins",
-      "Rosalind King",
-      "C.K. Morley"
-    ],
-    "title": "Determination of the tectonic evolution from fractures, faults, and calcite twins on the southwestern margin of the Indochina Block",
-    "publicationDate": "2015-06-19",
-    "year": 2015,
-    "venue": "Tectonics",
-    "citations": 41,
-    "fwci": 11.435,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "earthquake and tectonic studies",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "UCL Australia",
-      "Chiang Mai University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4281390328",
     "doi": "https://doi.org/10.1306/12162120148",
     "program": "",
@@ -92976,8 +92977,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-05-23",
     "year": 2022,
     "venue": "AAPG Bulletin",
-    "citations": 41,
-    "fwci": 11.1929,
+    "citations": 42,
+    "fwci": 9.1985,
     "topics": [
       "Geological and Geophysical Studies",
       "Hydrocarbon exploration and reservoir analysis",
@@ -92990,6 +92991,43 @@ export const worksTable: WorkTableRecord[] = [
       "University of South Australia",
       "Universidade Metropolitana de Santos",
       "Origin Energy (Australia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1862437989",
+    "doi": "https://doi.org/10.1002/2015tc003876",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5035215595",
+      "A5000343935",
+      "A5011312843",
+      "A5084273448"
+    ],
+    "firstAuthorLastName": "Arboit",
+    "allAuthors": [
+      "Francesco Arboit",
+      "Khalid Amrouch",
+      "Alan S. Collins",
+      "Rosalind King",
+      "C.K. Morley"
+    ],
+    "title": "Determination of the tectonic evolution from fractures, faults, and calcite twins on the southwestern margin of the Indochina Block",
+    "publicationDate": "2015-06-19",
+    "year": 2015,
+    "venue": "Tectonics",
+    "citations": 41,
+    "fwci": 11.435,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "UCL Australia",
+      "Chiang Mai University"
     ]
   },
   {
@@ -93283,6 +93321,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2933124471",
+    "doi": "https://doi.org/10.1144/jgs2018-159",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5059818051",
+      "A5024022389",
+      "A5012629503",
+      "A5003363361",
+      "A5073106035",
+      "A5067737483",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "N. Capogreco",
+      "Justin L. Payne",
+      "Tim J. Munson",
+      "Grant M. Cox",
+      "Stijn Glorie"
+    ],
+    "title": "Middle–late Mesoproterozoic tectonic geography of the North Australia Craton: U–Pb and Hf isotopes of detrital zircon grains in the Beetaloo Sub-basin, Northern Territory, Australia",
+    "publicationDate": "2019-03-28",
+    "year": 2019,
+    "venue": "Journal of the Geological Society",
+    "citations": 38,
+    "fwci": 3.4538,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of South Australia",
+      "Geological Survey Department"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2593264076",
     "doi": "https://doi.org/10.1016/j.tecto.2017.03.003",
     "program": "",
@@ -93323,49 +93404,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Adelaide",
       "Department of State Development",
       "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2933124471",
-    "doi": "https://doi.org/10.1144/jgs2018-159",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5059818051",
-      "A5024022389",
-      "A5012629503",
-      "A5003363361",
-      "A5073106035",
-      "A5067737483",
-      "A5057911678"
-    ],
-    "firstAuthorLastName": "Yang",
-    "allAuthors": [
-      "Bo Yang",
-      "Alan S. Collins",
-      "Morgan Blades",
-      "N. Capogreco",
-      "Justin L. Payne",
-      "Tim J. Munson",
-      "Grant M. Cox",
-      "Stijn Glorie"
-    ],
-    "title": "Middle–late Mesoproterozoic tectonic geography of the North Australia Craton: U–Pb and Hf isotopes of detrital zircon grains in the Beetaloo Sub-basin, Northern Territory, Australia",
-    "publicationDate": "2019-03-28",
-    "year": 2019,
-    "venue": "Journal of the Geological Society",
-    "citations": 37,
-    "fwci": 4.4743,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "The University of Adelaide",
-      "University of South Australia",
-      "Geological Survey Department"
     ]
   },
   {
@@ -94020,6 +94058,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4200407726",
+    "doi": "https://doi.org/10.1016/j.jseaes.2021.105037",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5073201023",
+      "A5047567431",
+      "A5100653748",
+      "A5001633563",
+      "A5089879286"
+    ],
+    "firstAuthorLastName": "Redaa",
+    "allAuthors": [
+      "Ahmad Redaa",
+      "Juraj Farkaš",
+      "Ahmed M. Hassan",
+      "Alan S. Collins",
+      "Sarah Gilbert",
+      "Stefan Löhr"
+    ],
+    "title": "Constraints from in-situ Rb-Sr dating on the timing of tectono-thermal events in the Umm Farwah shear zone and associated Cu-Au mineralisation in the Southern Arabian Shield, Saudi Arabia",
+    "publicationDate": "2021-12-06",
+    "year": 2021,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 26,
+    "fwci": 2.7704,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Abdulaziz University",
+      "The University of Adelaide",
+      "Helwan University",
+      "Macquarie University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2016643944",
     "doi": "https://doi.org/10.1016/j.jsg.2014.01.009",
     "program": "",
@@ -94119,46 +94197,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Arizona",
       "Xinjiang Institute of Ecology and Geography",
       "Institute of Geology and Geophysics"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4200407726",
-    "doi": "https://doi.org/10.1016/j.jseaes.2021.105037",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5073201023",
-      "A5047567431",
-      "A5100653748",
-      "A5001633563",
-      "A5089879286"
-    ],
-    "firstAuthorLastName": "Redaa",
-    "allAuthors": [
-      "Ahmad Redaa",
-      "Juraj Farkaš",
-      "Ahmed M. Hassan",
-      "Alan S. Collins",
-      "Sarah Gilbert",
-      "Stefan Löhr"
-    ],
-    "title": "Constraints from in-situ Rb-Sr dating on the timing of tectono-thermal events in the Umm Farwah shear zone and associated Cu-Au mineralisation in the Southern Arabian Shield, Saudi Arabia",
-    "publicationDate": "2021-12-06",
-    "year": 2021,
-    "venue": "Journal of Asian Earth Sciences",
-    "citations": 25,
-    "fwci": 3.3892,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Abdulaziz University",
-      "The University of Adelaide",
-      "Helwan University",
-      "Macquarie University"
     ]
   },
   {
@@ -94647,8 +94685,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-11-26",
     "year": 2024,
     "venue": "Precambrian Research",
-    "citations": 5,
-    "fwci": 3.6037,
+    "citations": 6,
+    "fwci": 2.6345,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geochemical Analysis",
@@ -95774,6 +95812,40 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4378187299",
+    "doi": "https://doi.org/10.1080/08120099.2023.2210635",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5059818051",
+      "A5024022389",
+      "A5054756549"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Fred Jourdan"
+    ],
+    "title": "Orogens and detritus: unravelling the Mesoproterozoic tectonic geography of northern Australia through coupled detrital thermo- and geo-chronometers",
+    "publicationDate": "2023-05-25",
+    "year": 2023,
+    "venue": "Australian Journal of Earth Sciences",
+    "citations": 11,
+    "fwci": 2.0761,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "Curtin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3161940542",
     "doi": "https://doi.org/10.1144/jgs2020-121",
     "program": "",
@@ -95813,40 +95885,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "University of Arizona",
       "V.S. Sobolev Institute of Geology and Mineralogy"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4378187299",
-    "doi": "https://doi.org/10.1080/08120099.2023.2210635",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5059818051",
-      "A5024022389",
-      "A5054756549"
-    ],
-    "firstAuthorLastName": "Yang",
-    "allAuthors": [
-      "Bo Yang",
-      "Alan S. Collins",
-      "Morgan Blades",
-      "Fred Jourdan"
-    ],
-    "title": "Orogens and detritus: unravelling the Mesoproterozoic tectonic geography of northern Australia through coupled detrital thermo- and geo-chronometers",
-    "publicationDate": "2023-05-25",
-    "year": 2023,
-    "venue": "Australian Journal of Earth Sciences",
-    "citations": 10,
-    "fwci": 2.7167,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "Curtin University"
     ]
   },
   {
@@ -96259,6 +96297,121 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4411195411",
+    "doi": "https://doi.org/10.1016/j.precamres.2025.107851",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5010409030",
+      "A5047567431",
+      "A5001633563",
+      "A5049260361",
+      "A5089879286",
+      "A5034819594",
+      "A5086493697",
+      "A5023085486",
+      "A5073201023",
+      "A5024022389",
+      "A5019411628",
+      "A5015701755",
+      "A5048008981",
+      "A5003452705",
+      "A5073130700"
+    ],
+    "firstAuthorLastName": "Loyola",
+    "allAuthors": [
+      "Cecilia Loyola",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Sarah Gilbert",
+      "Charles Verdel",
+      "Stefan Löhr",
+      "Glenn A. Brock",
+      "Graham A. Shields",
+      "Andre Baldermann",
+      "Ahmad Redaa",
+      "Morgan Blades",
+      "Darwinaji Subarkah",
+      "Caleb Bishop",
+      "Sarah Giles",
+      "Nicholas Christie‐Blick",
+      "Peter Haines"
+    ],
+    "title": "In situ Rb–Sr dating and REE analysis of glauconites and detrital feldspars from the Ediacaran/Cambrian strata: Centralian and Adelaide Superbasins, Australia",
+    "publicationDate": "2025-06-11",
+    "year": 2025,
+    "venue": "Precambrian Research",
+    "citations": 3,
+    "fwci": 2.6979,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Australian Resources Research Centre",
+      "Northern Territory Geological Survey",
+      "Macquarie University",
+      "University College London",
+      "Graz University of Technology",
+      "Nawi Graz",
+      "King Abdulaziz University",
+      "Australian National University",
+      "Lamont-Doherty Earth Observatory",
+      "Columbia University",
+      "Geological Survey of Western Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404127892",
+    "doi": "https://doi.org/10.1111/ggr.12588",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5089879286",
+      "A5085927292",
+      "A5047567431",
+      "A5023085486",
+      "A5001633563",
+      "A5086411272",
+      "A5019411628",
+      "A5024022389"
+    ],
+    "firstAuthorLastName": "Löhr",
+    "allAuthors": [
+      "Stefan Löhr",
+      "Elnaz Khazaie",
+      "Juraj Farkaš",
+      "Andre Baldermann",
+      "Sarah Gilbert",
+      "Roland Maas",
+      "Darwinaji Subarkah",
+      "Morgan Blades",
+      "Alan S. Collins"
+    ],
+    "title": "Origin and Significance of Age Variability in the Glauconite Reference Material <scp>GL</scp>‐O: Implications for <i>In Situ</i> Rb‐Sr Geochronology",
+    "publicationDate": "2024-11-07",
+    "year": 2024,
+    "venue": "Geostandards and Geoanalytical Research",
+    "citations": 2,
+    "fwci": 0.6742,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Clay minerals and soil interactions",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Macquarie University",
+      "Graz University of Technology",
+      "Nawi Graz",
+      "The University of Melbourne"
     ]
   },
   {
@@ -96678,118 +96831,76 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4411195411",
-    "doi": "https://doi.org/10.1016/j.precamres.2025.107851",
+    "workId": "https://openalex.org/W4411466226",
+    "doi": "https://doi.org/10.1016/j.precamres.2025.107869",
     "program": "",
     "primaryAuthorOpenAlexId": "A5046466285",
     "allAuthorOpenAlexIds": [
       "A5046466285",
-      "A5010409030",
+      "A5044557317",
       "A5047567431",
-      "A5001633563",
-      "A5049260361",
-      "A5089879286",
-      "A5034819594",
-      "A5086493697",
-      "A5023085486",
-      "A5073201023",
-      "A5024022389",
-      "A5019411628",
-      "A5015701755",
-      "A5048008981",
-      "A5003452705",
-      "A5073130700"
+      "A5063218145",
+      "A5043614434"
     ],
-    "firstAuthorLastName": "Loyola",
+    "firstAuthorLastName": "Noorian",
     "allAuthors": [
-      "Cecilia Loyola",
+      "Yaser Noorian",
       "Juraj Farkaš",
       "Alan S. Collins",
-      "Sarah Gilbert",
-      "Charles Verdel",
-      "Stefan Löhr",
-      "Glenn A. Brock",
-      "Graham A. Shields",
-      "Andre Baldermann",
-      "Ahmad Redaa",
-      "Morgan Blades",
-      "Darwinaji Subarkah",
-      "Caleb Bishop",
-      "Sarah Giles",
-      "Nicholas Christie‐Blick",
-      "Peter Haines"
+      "Claudio Delle Piane",
+      "Tony Hall"
     ],
-    "title": "In situ Rb–Sr dating and REE analysis of glauconites and detrital feldspars from the Ediacaran/Cambrian strata: Centralian and Adelaide Superbasins, Australia",
-    "publicationDate": "2025-06-11",
+    "title": "Controls on organic-rich shale formation in the Mesoproterozoic Beetaloo Sub-basin, Northern Territory, Australia: insights from biogeochemistry and mineralogy",
+    "publicationDate": "2025-06-19",
     "year": 2025,
     "venue": "Precambrian Research",
-    "citations": 2,
-    "fwci": 1.809,
+    "citations": 3,
+    "fwci": 1.3617,
     "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "Paleontology and Stratigraphy of Fossils"
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
     ],
     "institutions": [
       "The University of Adelaide",
-      "Australian Resources Research Centre",
-      "Northern Territory Geological Survey",
-      "Macquarie University",
-      "University College London",
-      "Graz University of Technology",
-      "Nawi Graz",
-      "King Abdulaziz University",
-      "Australian National University",
-      "Lamont-Doherty Earth Observatory",
-      "Columbia University",
-      "Geological Survey of Western Australia"
+      "Australian Resources Research Centre"
     ]
   },
   {
-    "workId": "https://openalex.org/W4404127892",
-    "doi": "https://doi.org/10.1111/ggr.12588",
+    "workId": "https://openalex.org/W4414010659",
+    "doi": "https://doi.org/10.1016/j.chemgeo.2025.123042",
     "program": "",
     "primaryAuthorOpenAlexId": "A5046466285",
     "allAuthorOpenAlexIds": [
       "A5046466285",
-      "A5089879286",
-      "A5085927292",
+      "A5067271273",
       "A5047567431",
-      "A5023085486",
+      "A5057911678",
       "A5001633563",
-      "A5086411272",
-      "A5019411628",
-      "A5024022389"
+      "A5019411628"
     ],
-    "firstAuthorLastName": "Löhr",
+    "firstAuthorLastName": "Shao",
     "allAuthors": [
-      "Stefan Löhr",
-      "Elnaz Khazaie",
+      "Zhufu Shao",
       "Juraj Farkaš",
-      "Andre Baldermann",
+      "Stijn Glorie",
+      "Alan S. Collins",
       "Sarah Gilbert",
-      "Roland Maas",
-      "Darwinaji Subarkah",
-      "Morgan Blades",
-      "Alan S. Collins"
+      "Darwinaji Subarkah"
     ],
-    "title": "Origin and Significance of Age Variability in the Glauconite Reference Material <scp>GL</scp>‐O: Implications for <i>In Situ</i> Rb‐Sr Geochronology",
-    "publicationDate": "2024-11-07",
-    "year": 2024,
-    "venue": "Geostandards and Geoanalytical Research",
+    "title": "Dating of marine authigenic minerals via in situ RbSr, UPb, and Lu–Hf: A case study from the Georgina Basin, Australia",
+    "publicationDate": "2025-09-05",
+    "year": 2025,
+    "venue": "Chemical Geology",
     "citations": 1,
-    "fwci": 0.4205,
+    "fwci": 0.8993,
     "topics": [
       "Geological and Geochemical Analysis",
-      "Clay minerals and soil interactions",
-      "Geomagnetism and Paleomagnetism Studies"
+      "Geochemistry and Elemental Analysis",
+      "Radioactive element chemistry and processing"
     ],
     "institutions": [
-      "The University of Adelaide",
-      "Macquarie University",
-      "Graz University of Technology",
-      "Nawi Graz",
-      "The University of Melbourne"
+      "The University of Adelaide"
     ]
   },
   {
@@ -97024,42 +97135,6 @@ export const worksTable: WorkTableRecord[] = [
       "Laurentian University",
       "St. Francis Xavier University",
       "University of Toliara"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4411466226",
-    "doi": "https://doi.org/10.1016/j.precamres.2025.107869",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5044557317",
-      "A5047567431",
-      "A5063218145",
-      "A5043614434"
-    ],
-    "firstAuthorLastName": "Noorian",
-    "allAuthors": [
-      "Yaser Noorian",
-      "Juraj Farkaš",
-      "Alan S. Collins",
-      "Claudio Delle Piane",
-      "Tony Hall"
-    ],
-    "title": "Controls on organic-rich shale formation in the Mesoproterozoic Beetaloo Sub-basin, Northern Territory, Australia: insights from biogeochemistry and mineralogy",
-    "publicationDate": "2025-06-19",
-    "year": 2025,
-    "venue": "Precambrian Research",
-    "citations": 2,
-    "fwci": 1.2081,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "The University of Adelaide",
-      "Australian Resources Research Centre"
     ]
   },
   {
@@ -101738,7 +101813,6 @@ export const worksTable: WorkTableRecord[] = [
       "A5001633563",
       "A5089879286",
       "A5049260361",
-      "A5109375716",
       "A5007191033"
     ],
     "firstAuthorLastName": "Shao",
@@ -101751,7 +101825,7 @@ export const worksTable: WorkTableRecord[] = [
       "Sarah Gilbert",
       "Stefan Löhr",
       "Charles Verdel",
-      "Diana Plavsa",
+      "Diana Zivak",
       "Carl Spandler"
     ],
     "title": "In-situ triple dating (Rb-Sr, Lu-Hf, U-Pb) of carbonate-hosted glauconite and bioapatite from the Middle Cambrian Georgina Basin, Australia",
@@ -103948,43 +104022,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
       "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "The University of Adelaide"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4414010659",
-    "doi": "https://doi.org/10.1016/j.chemgeo.2025.123042",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5067271273",
-      "A5047567431",
-      "A5057911678",
-      "A5001633563",
-      "A5019411628"
-    ],
-    "firstAuthorLastName": "Shao",
-    "allAuthors": [
-      "Zhufu Shao",
-      "Juraj Farkaš",
-      "Stijn Glorie",
-      "Alan S. Collins",
-      "Sarah Gilbert",
-      "Darwinaji Subarkah"
-    ],
-    "title": "Dating of marine authigenic minerals via in situ RbSr, UPb, and Lu–Hf: A case study from the Georgina Basin, Australia",
-    "publicationDate": "2025-09-05",
-    "year": 2025,
-    "venue": "Chemical Geology",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Elemental Analysis",
-      "Radioactive element chemistry and processing"
     ],
     "institutions": [
       "The University of Adelaide"
@@ -107271,8 +107308,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-07-01",
     "year": 2001,
     "venue": "GeoArabia",
-    "citations": 543,
-    "fwci": 6.8053,
+    "citations": 544,
+    "fwci": 6.8067,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -109390,6 +109427,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2790773297",
+    "doi": "https://doi.org/10.1109/msp.2017.2776798",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5006151039",
+      "A5062017167",
+      "A5024763134",
+      "A5056812780",
+      "A5024607591"
+    ],
+    "firstAuthorLastName": "McClellan",
+    "allAuthors": [
+      "James H. McClellan",
+      "Leo Eisner",
+      "Entao Liu",
+      "Naveed Iqbal",
+      "Abdullatif Al‐Shuhail",
+      "SanLinn I. Kaka"
+    ],
+    "title": "Array Processing in Microseismic Monitoring: Detection, Enhancement, and Localization of Induced Seismicity",
+    "publicationDate": "2018-03-01",
+    "year": 2018,
+    "venue": "IEEE Signal Processing Magazine",
+    "citations": 29,
+    "fwci": 1.4979,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Seismic Waves and Analysis",
+      "Seismology and Earthquake Studies"
+    ],
+    "institutions": [
+      "Georgia Institute of Technology",
+      "Czech Academy of Sciences, Institute of Rock Structure and Mechanics",
+      "University of Engineering and Technology Peshawar",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4293103392",
     "doi": "https://doi.org/10.3390/su14073754",
     "program": "",
@@ -109487,46 +109564,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2790773297",
-    "doi": "https://doi.org/10.1109/msp.2017.2776798",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5006151039",
-      "A5062017167",
-      "A5024763134",
-      "A5056812780",
-      "A5024607591"
-    ],
-    "firstAuthorLastName": "McClellan",
-    "allAuthors": [
-      "James H. McClellan",
-      "Leo Eisner",
-      "Entao Liu",
-      "Naveed Iqbal",
-      "Abdullatif Al‐Shuhail",
-      "SanLinn I. Kaka"
-    ],
-    "title": "Array Processing in Microseismic Monitoring: Detection, Enhancement, and Localization of Induced Seismicity",
-    "publicationDate": "2018-03-01",
-    "year": 2018,
-    "venue": "IEEE Signal Processing Magazine",
-    "citations": 28,
-    "fwci": 1.9035,
-    "topics": [
-      "Seismic Imaging and Inversion Techniques",
-      "Seismic Waves and Analysis",
-      "Seismology and Earthquake Studies"
-    ],
-    "institutions": [
-      "Georgia Institute of Technology",
-      "Czech Academy of Sciences, Institute of Rock Structure and Mechanics",
-      "University of Engineering and Technology Peshawar",
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -124564,7 +124601,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geoenergy",
     "citations": 5,
-    "fwci": 2.6987,
+    "fwci": 2.0011,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Drilling and Well Engineering",
@@ -128594,8 +128631,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-05-24",
     "year": 2018,
     "venue": "Journal of Structural Geology",
-    "citations": 62,
-    "fwci": 2.9605,
+    "citations": 63,
+    "fwci": 2.446,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -134074,7 +134111,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 2.9362,
+    "fwci": 2.9361,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
