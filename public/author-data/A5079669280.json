@@ -695,18 +695,18 @@
       "apc_list": {
         "value": 1890,
         "currency": "EUR",
-        "value_usd": 2190
+        "value_usd": 2390
       },
       "apc_paid": {
         "value": 1570,
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 3.1464,
+      "fwci": 2.9302,
       "has_fulltext": true,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.92670529,
+        "value": 0.92102787,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1207,8 +1207,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -1776,7 +1776,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-07-10T07:45:09.275182",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2074,18 +2074,18 @@
       "apc_list": {
         "value": 2490,
         "currency": "USD",
-        "value_usd": 2490
+        "value_usd": 3295
       },
       "apc_paid": {
         "value": 2490,
         "currency": "USD",
-        "value_usd": 2490
+        "value_usd": 3295
       },
-      "fwci": 4.1839,
+      "fwci": 3.7109,
       "has_fulltext": true,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.93640193,
+        "value": 0.92777816,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2459,7 +2459,7 @@
             "id": "https://openalex.org/S7407051236",
             "display_name": "ETH Zürich Research Collection",
             "issn_l": null,
-            "issn": [],
+            "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
@@ -2553,8 +2553,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2583394094.pdf",
@@ -3361,7 +3361,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4228,8 +4228,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -4871,8 +4871,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -5265,7 +5265,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I60342839"
@@ -5273,18 +5273,18 @@
       "apc_list": {
         "value": 3870,
         "currency": "USD",
-        "value_usd": 3870
+        "value_usd": 3790
       },
       "apc_paid": {
         "value": 3870,
         "currency": "USD",
-        "value_usd": 3870
+        "value_usd": 3790
       },
-      "fwci": 4.7852,
+      "fwci": 3.8113,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.95840276,
+        "value": 0.94523185,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5666,8 +5666,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -6441,7 +6441,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-06-09T15:46:55.921056",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7300,8 +7300,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -7786,18 +7786,18 @@
       "apc_list": {
         "value": 500,
         "currency": "USD",
-        "value_usd": 500
+        "value_usd": 530
       },
       "apc_paid": {
         "value": 519,
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.268,
+      "fwci": 1.1815,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.76784713,
+        "value": 0.74978518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8299,8 +8299,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -8882,7 +8882,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9460,8 +9460,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -9753,18 +9753,14 @@
           "raw_author_name": "Tomaso R.R. Bontognali",
           "raw_affiliation_strings": [
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
-            "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
             "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+            "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
               "institution_ids": [
                 "https://openalex.org/I1850255"
               ]
@@ -9777,6 +9773,12 @@
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
                 "https://openalex.org/I60342839"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I1850255"
               ]
             }
           ]
@@ -9795,18 +9797,18 @@
       "apc_list": {
         "value": 3870,
         "currency": "USD",
-        "value_usd": 3870
+        "value_usd": 3790
       },
       "apc_paid": {
         "value": 3870,
         "currency": "USD",
-        "value_usd": 3870
+        "value_usd": 3790
       },
-      "fwci": 1.7099,
+      "fwci": 1.4923,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81951008,
+        "value": 0.79239967,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10272,8 +10274,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -10765,7 +10767,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-08T08:33:18.762332",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11533,8 +11535,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -12180,8 +12182,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -12899,8 +12901,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -13881,18 +13883,18 @@
       "apc_list": {
         "value": 3870,
         "currency": "USD",
-        "value_usd": 3870
+        "value_usd": 3790
       },
       "apc_paid": {
         "value": 2945,
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.9068,
+      "fwci": 1.8209,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.87871769,
+        "value": 0.87404645,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14367,8 +14369,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -15112,7 +15114,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -15591,8 +15593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16264,8 +16266,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -16974,8 +16976,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -17617,10 +17619,13 @@
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
             },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17657,6 +17662,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17693,6 +17699,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17729,6 +17736,7 @@
           "raw_affiliation_strings": [
             "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
@@ -17765,6 +17773,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17801,6 +17810,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17837,6 +17847,7 @@
           "raw_affiliation_strings": [
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -17849,7 +17860,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5042396632"
       ],
@@ -17862,11 +17873,11 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 1.3981,
+      "fwci": 1.3006,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.84378017,
+        "value": 0.83308966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18248,8 +18259,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -18351,7 +18362,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18855,8 +18866,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20060,8 +20071,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -21026,8 +21037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -21950,8 +21961,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf",
@@ -23226,8 +23237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24225,7 +24236,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5085989529"
       ],
@@ -24235,18 +24246,18 @@
       "apc_list": {
         "value": 1840,
         "currency": "USD",
-        "value_usd": 1840
+        "value_usd": 2210
       },
       "apc_paid": {
         "value": 1840,
         "currency": "USD",
-        "value_usd": 1840
+        "value_usd": 2210
       },
-      "fwci": 0.5719,
+      "fwci": 0.3985,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.64626094,
+        "value": 0.53458638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24749,8 +24760,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -25344,7 +25355,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-14T06:11:07.267592",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25809,8 +25820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26858,8 +26869,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111727931.pdf",
@@ -27945,8 +27956,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -29285,8 +29296,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -30342,8 +30353,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -31857,8 +31868,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205848438.pdf",
@@ -33010,8 +33021,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -33553,8 +33564,8 @@
             {
               "raw_affiliation_string": "University of Toronto Scarborough",
               "institution_ids": [
-                "https://openalex.org/I2799376586",
-                "https://openalex.org/I185261750"
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I2799376586"
               ]
             }
           ]
@@ -34046,8 +34057,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -34069,7 +34080,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34592,8 +34603,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -34991,8 +35002,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf"
@@ -35481,8 +35492,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf",
@@ -35866,8 +35877,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414525693.pdf",
@@ -36357,8 +36368,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -36858,8 +36869,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -37440,8 +37451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -38052,8 +38063,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -38677,8 +38688,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -39241,8 +39252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -39865,8 +39876,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -40358,8 +40369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,

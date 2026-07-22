@@ -3037,7 +3037,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://doi.org/10.18261/let.55.3.3",
         "any_repository_has_fulltext": true
       },
@@ -3102,27 +3102,27 @@
           "is_corresponding": false,
           "raw_author_name": "Markus Bertling",
           "raw_affiliation_strings": [
-            ", , , ; , Marine , Senckenberg , , , ;",
-            ", , for and ,",
             "of the , and , of , , , , ,",
-            ", of Geology , of , , ,",
             "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
-            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A"
+            ", , for and ,",
+            ", of Geology , of , , ,",
+            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
+            ", , , ; , Marine , Senckenberg , , , ;"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8040-611X",
           "affiliations": [
             {
-              "raw_affiliation_string": ", , , ; , Marine , Senckenberg , , , ;",
+              "raw_affiliation_string": "of the , and , of , , , , ,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
               "institution_ids": [
-                "https://openalex.org/I4210141534"
+                "https://openalex.org/I32625721"
               ]
             },
             {
               "raw_affiliation_string": ", , for and ,",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "of the , and , of , , , , ,",
               "institution_ids": []
             },
             {
@@ -3132,15 +3132,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
-              "institution_ids": [
-                "https://openalex.org/I32625721"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
               "institution_ids": [
                 "https://openalex.org/I22465464"
+              ]
+            },
+            {
+              "raw_affiliation_string": ", , , ; , Marine , Senckenberg , , , ;",
+              "institution_ids": [
+                "https://openalex.org/I4210141534"
               ]
             }
           ]
@@ -3280,34 +3280,24 @@
           "is_corresponding": true,
           "raw_author_name": "Radek Mikuláš",
           "raw_affiliation_strings": [
-            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
-            "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
             ", , for and ,",
-            "of the , and , of , , , , ,",
+            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
             ", , , ; , Marine , Senckenberg , , , ;",
-            ", of Geology , of , , ,"
+            ", of Geology , of , , ,",
+            "of the , and , of , , , , ,",
+            "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9827-2367",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
-              "institution_ids": [
-                "https://openalex.org/I22465464"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
-              "institution_ids": [
-                "https://openalex.org/I32625721"
-              ]
-            },
             {
               "raw_affiliation_string": ", , for and ,",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "of the , and , of , , , , ,",
-              "institution_ids": []
+              "raw_affiliation_string": "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
+              "institution_ids": [
+                "https://openalex.org/I22465464"
+              ]
             },
             {
               "raw_affiliation_string": ", , , ; , Marine , Senckenberg , , , ;",
@@ -3319,6 +3309,16 @@
               "raw_affiliation_string": ", of Geology , of , , ,",
               "institution_ids": [
                 "https://openalex.org/I4210141937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "of the , and , of , , , , ,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
+              "institution_ids": [
+                "https://openalex.org/I32625721"
               ]
             }
           ]
@@ -3358,7 +3358,7 @@
           "author": {
             "id": "https://openalex.org/A5068976315",
             "display_name": "Andrew K. Rindsberg",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0744-7898"
           },
           "institutions": [
             {
@@ -3413,25 +3413,15 @@
           "is_corresponding": false,
           "raw_author_name": "Andrew K. Rindsberg",
           "raw_affiliation_strings": [
-            ", , for and ,",
-            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
             ", of Geology , of , , ,",
-            "of the , and , of , , , , ,",
+            ", , for and ,",
+            "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
             ", , , ; , Marine , Senckenberg , , , ;",
-            "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;"
+            "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
+            "of the , and , of , , , , ,"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-0744-7898",
           "affiliations": [
-            {
-              "raw_affiliation_string": ", , for and ,",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
-              "institution_ids": [
-                "https://openalex.org/I22465464"
-              ]
-            },
             {
               "raw_affiliation_string": ", of Geology , of , , ,",
               "institution_ids": [
@@ -3439,8 +3429,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "of the , and , of , , , , ,",
+              "raw_affiliation_string": ", , for and ,",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
+              "institution_ids": [
+                "https://openalex.org/I32625721"
+              ]
             },
             {
               "raw_affiliation_string": ", , , ; , Marine , Senckenberg , , , ;",
@@ -3449,10 +3445,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Geological Sciences, University of Saskatchewan, 114 Science Place, SK S7N 5E2, Canada;",
+              "raw_affiliation_string": "Geomuseum der WWU, Westfälische Wilhelms-Universität, Corrensstraße 24, 48149 Münster, Germany; Luis A",
               "institution_ids": [
-                "https://openalex.org/I32625721"
+                "https://openalex.org/I22465464"
               ]
+            },
+            {
+              "raw_affiliation_string": "of the , and , of , , , , ,",
+              "institution_ids": []
             }
           ]
         },
@@ -3501,11 +3501,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 91.1812,
+      "fwci": 87.5599,
       "has_fulltext": false,
       "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.99936534,
+        "value": 0.99935272,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4008,7 +4008,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-09T07:52:08.696243",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22212,7 +22212,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5079175759",
-            "display_name": "Francisco J. Rodrı́guez-Tovar",
+            "display_name": "Francisco J. Rodríguez‐Tovar",
             "orcid": "https://orcid.org/0000-0002-1400-2715"
           },
           "institutions": [
@@ -22261,11 +22261,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.3867,
+      "fwci": 4.4382,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.9633971,
+        "value": 0.95462745,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22657,7 +22657,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -23656,8 +23656,8 @@
             {
               "raw_affiliation_string": "Paléoenvironments et Paléobiosphère, UFR, Sciences de la Terre, Université claud Bernard Lyon 1, Villeurbanne cedex, France",
               "institution_ids": [
-                "https://openalex.org/I4210126236",
-                "https://openalex.org/I100532134"
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210126236"
               ]
             }
           ]
@@ -24541,11 +24541,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7215,
+      "fwci": 3.6005,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.92661136,
+        "value": 0.92202462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24996,7 +24996,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33859,9 +33859,9 @@
             {
               "raw_affiliation_string": "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
               "institution_ids": [
-                "https://openalex.org/I90183372",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387155970",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
             },
             {
@@ -34103,9 +34103,9 @@
             {
               "raw_affiliation_string": "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
               "institution_ids": [
-                "https://openalex.org/I90183372",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387155970",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
             },
             {
@@ -34178,9 +34178,9 @@
             {
               "raw_affiliation_string": "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
               "institution_ids": [
-                "https://openalex.org/I90183372",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387155970",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
             },
             {
@@ -34242,28 +34242,28 @@
           "raw_author_name": "Guillaume Caumon",
           "raw_affiliation_strings": [
             "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
-            "Ecole Nationale Supérieure de Géologie",
-            "GeoRessources"
+            "GeoRessources",
+            "Ecole Nationale Supérieure de Géologie"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-7828-4600",
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Lorraine, CNRS, GeoRessources, 54000 Nancy, France",
               "institution_ids": [
-                "https://openalex.org/I90183372",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387155970",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
+            },
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
             }
           ]
         }
@@ -34285,11 +34285,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.2531,
+      "fwci": 1.2532,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.79290842,
+        "value": 0.79310345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34735,7 +34735,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-19T07:52:34.831488",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36511,6 +36511,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210086287",
               "display_name": "Institute of Vertebrate Paleontology and Paleoanthropology",
               "ror": "https://ror.org/0000pmw59",
@@ -36519,16 +36529,6 @@
               "lineage": [
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I4210086287"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I19820366"
               ]
             }
           ],
@@ -36545,8 +36545,8 @@
             {
               "raw_affiliation_string": "Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China",
               "institution_ids": [
-                "https://openalex.org/I4210086287",
-                "https://openalex.org/I19820366"
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210086287"
               ]
             }
           ]
@@ -36770,16 +36770,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3366,
+      "fwci": 1.2032,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.8797128,
+        "value": 0.86703689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -37570,7 +37570,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-27T08:28:00.272161",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45970,6 +45970,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -45978,16 +45988,6 @@
               "lineage": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
               ]
             }
           ],
@@ -46066,6 +46066,16 @@
               ]
             },
             {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -46074,16 +46084,6 @@
               "lineage": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
               ]
             }
           ],
@@ -46190,6 +46190,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -46198,16 +46208,6 @@
               "lineage": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
               ]
             }
           ],
@@ -46251,11 +46251,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 1.351,
+      "fwci": 1.1606,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75797352,
+        "value": 0.71616258,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47308,7 +47308,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49993,708 +49993,6 @@
         }
       ],
       "updated_date": "2026-06-22T08:00:12.763002",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4389829158",
-      "doi": "https://doi.org/10.1007/s12549-023-00594-y",
-      "title": "Middle Miocene trace fossils from the Tenes area (NW Algeria) and their palaeoenvironmental implications",
-      "display_name": "Middle Miocene trace fossils from the Tenes area (NW Algeria) and their palaeoenvironmental implications",
-      "publication_year": 2023,
-      "publication_date": "2023-12-16",
-      "ids": {
-        "openalex": "https://openalex.org/W4389829158",
-        "doi": "https://doi.org/10.1007/s12549-023-00594-y"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12549-023-00594-y",
-        "is_oa": false,
-        "landing_page_url": "http://dx.doi.org/10.1007/s12549-023-00594-y",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S148688756",
-          "display_name": "Palaeobiodiversity and Palaeoenvironments",
-          "issn_l": "1867-1594",
-          "issn": [
-            "1867-1594",
-            "1867-1608"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Palaeobiodiversity and Palaeoenvironments",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103165750",
-            "display_name": "Abdelkrim Nemra",
-            "orcid": "https://orcid.org/0000-0001-9237-9449"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I157169809",
-              "display_name": "University of Sciences and Technology Houari Boumediene",
-              "ror": "https://ror.org/02kb89c09",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157169809"
-              ]
-            }
-          ],
-          "countries": [
-            "DZ"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdelkrim Nemra",
-          "raw_affiliation_strings": [
-            "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-9237-9449",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I157169809"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5093512438",
-            "display_name": "Jugurtha Tellal",
-            "orcid": "https://orcid.org/0009-0007-5632-2294"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I157169809",
-              "display_name": "University of Sciences and Technology Houari Boumediene",
-              "ror": "https://ror.org/02kb89c09",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157169809"
-              ]
-            }
-          ],
-          "countries": [
-            "DZ"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jugurtha Tellal",
-          "raw_affiliation_strings": [
-            "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria"
-          ],
-          "raw_orcid": "https://orcid.org/0009-0007-5632-2294",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I157169809"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Equinor ASA, Stavanger, 4035, Norway"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Equinor ASA, Stavanger, 4035, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5033147795",
-            "display_name": "Mohamed Bendella",
-            "orcid": "https://orcid.org/0000-0003-2611-7808"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I137407579",
-              "display_name": "Université Oran 1 Ahmed Ben Bella",
-              "ror": "https://ror.org/059et2b68",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210149660",
-              "display_name": "Université d'Oran 2",
-              "ror": "https://ror.org/04nz98c29",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ],
-          "countries": [
-            "DZ"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Bendella",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-2611-7808",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031196190",
-            "display_name": "Salim Belkhedim",
-            "orcid": "https://orcid.org/0000-0001-9924-1872"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I137407579",
-              "display_name": "Université Oran 1 Ahmed Ben Bella",
-              "ror": "https://ror.org/059et2b68",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210149660",
-              "display_name": "Université d'Oran 2",
-              "ror": "https://ror.org/04nz98c29",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ],
-          "countries": [
-            "DZ"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Salim Belkhedim",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-9924-1872",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5011160187",
-            "display_name": "Abdelkader Ouali Mehadji",
-            "orcid": "https://orcid.org/0000-0003-2093-4700"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I137407579",
-              "display_name": "Université Oran 1 Ahmed Ben Bella",
-              "ror": "https://ror.org/059et2b68",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210149660",
-              "display_name": "Université d'Oran 2",
-              "ror": "https://ror.org/04nz98c29",
-              "country_code": "DZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ],
-          "countries": [
-            "DZ"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelkader Ouali Mehadji",
-          "raw_affiliation_strings": [
-            "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M’naouer, BP 1524, Oran, 31000, Algeria",
-            "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M'naouer, BP 1524, Oran, 31000, Algeria"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-2093-4700",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M’naouer, BP 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I4210149660",
-                "https://openalex.org/I137407579"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M'naouer, BP 1524, Oran, 31000, Algeria",
-              "institution_ids": [
-                "https://openalex.org/I4210149660"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103165750"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I157169809"
-      ],
-      "apc_list": {
-        "value": 2290,
-        "currency": "EUR",
-        "value_usd": 2890
-      },
-      "apc_paid": null,
-      "fwci": 1.0451,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.74390667,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "104",
-        "issue": "2",
-        "first_page": "327",
-        "last_page": "362"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.7664384841918945
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.765853762626648
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7158753871917725
-        },
-        {
-          "id": "https://openalex.org/keywords/trace",
-          "display_name": "TRACE (psycholinguistics)",
-          "score": 0.5792707204818726
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.7664384841918945
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.765853762626648
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7158753871917725
-        },
-        {
-          "id": "https://openalex.org/C75291252",
-          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
-          "display_name": "TRACE (psycholinguistics)",
-          "level": 2,
-          "score": 0.5792707204818726
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12549-023-00594-y",
-          "is_oa": false,
-          "landing_page_url": "http://dx.doi.org/10.1007/s12549-023-00594-y",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S148688756",
-            "display_name": "Palaeobiodiversity and Palaeoenvironments",
-            "issn_l": "1867-1594",
-            "issn": [
-              "1867-1594",
-              "1867-1608"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Palaeobiodiversity and Palaeoenvironments",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 118,
-      "referenced_works": [
-        "https://openalex.org/W4272660",
-        "https://openalex.org/W101633874",
-        "https://openalex.org/W601647407",
-        "https://openalex.org/W635410625",
-        "https://openalex.org/W983936503",
-        "https://openalex.org/W1109724386",
-        "https://openalex.org/W1494869040",
-        "https://openalex.org/W1525245160",
-        "https://openalex.org/W1538456952",
-        "https://openalex.org/W1549880015",
-        "https://openalex.org/W1552266781",
-        "https://openalex.org/W1618233177",
-        "https://openalex.org/W1642205468",
-        "https://openalex.org/W1964819015",
-        "https://openalex.org/W1964980044",
-        "https://openalex.org/W1967150875",
-        "https://openalex.org/W1972284357",
-        "https://openalex.org/W1978002204",
-        "https://openalex.org/W1983903585",
-        "https://openalex.org/W1989164119",
-        "https://openalex.org/W1990007672",
-        "https://openalex.org/W1991674074",
-        "https://openalex.org/W1993600861",
-        "https://openalex.org/W1996296821",
-        "https://openalex.org/W2002200719",
-        "https://openalex.org/W2005854624",
-        "https://openalex.org/W2006392510",
-        "https://openalex.org/W2007748098",
-        "https://openalex.org/W2008767948",
-        "https://openalex.org/W2013195266",
-        "https://openalex.org/W2013332420",
-        "https://openalex.org/W2017445603",
-        "https://openalex.org/W2026947808",
-        "https://openalex.org/W2048779797",
-        "https://openalex.org/W2049261793",
-        "https://openalex.org/W2054385418",
-        "https://openalex.org/W2055944085",
-        "https://openalex.org/W2058088350",
-        "https://openalex.org/W2058208766",
-        "https://openalex.org/W2058366574",
-        "https://openalex.org/W2058529949",
-        "https://openalex.org/W2062059102",
-        "https://openalex.org/W2067219433",
-        "https://openalex.org/W2071553571",
-        "https://openalex.org/W2079842235",
-        "https://openalex.org/W2085416740",
-        "https://openalex.org/W2086652327",
-        "https://openalex.org/W2087200605",
-        "https://openalex.org/W2087941094",
-        "https://openalex.org/W2088381531",
-        "https://openalex.org/W2089277140",
-        "https://openalex.org/W2094496087",
-        "https://openalex.org/W2098757316",
-        "https://openalex.org/W2100430226",
-        "https://openalex.org/W2109314727",
-        "https://openalex.org/W2117244451",
-        "https://openalex.org/W2130321800",
-        "https://openalex.org/W2132895414",
-        "https://openalex.org/W2138421968",
-        "https://openalex.org/W2140299316",
-        "https://openalex.org/W2156022682",
-        "https://openalex.org/W2157158509",
-        "https://openalex.org/W2168588901",
-        "https://openalex.org/W2169292600",
-        "https://openalex.org/W2181872090",
-        "https://openalex.org/W2244250363",
-        "https://openalex.org/W2247709429",
-        "https://openalex.org/W2260752243",
-        "https://openalex.org/W2288079016",
-        "https://openalex.org/W2307965665",
-        "https://openalex.org/W2315002392",
-        "https://openalex.org/W2316894560",
-        "https://openalex.org/W2318798119",
-        "https://openalex.org/W2318862781",
-        "https://openalex.org/W2326028223",
-        "https://openalex.org/W2340209515",
-        "https://openalex.org/W2340415682",
-        "https://openalex.org/W2344228935",
-        "https://openalex.org/W2401029176",
-        "https://openalex.org/W2443067726",
-        "https://openalex.org/W2485691581",
-        "https://openalex.org/W2496085633",
-        "https://openalex.org/W2501853042",
-        "https://openalex.org/W2506047024",
-        "https://openalex.org/W2510333956",
-        "https://openalex.org/W2578297791",
-        "https://openalex.org/W2586876067",
-        "https://openalex.org/W2587430983",
-        "https://openalex.org/W2658067580",
-        "https://openalex.org/W2724294703",
-        "https://openalex.org/W2746173567",
-        "https://openalex.org/W2746280190",
-        "https://openalex.org/W2748954208",
-        "https://openalex.org/W2750512432",
-        "https://openalex.org/W2769295184",
-        "https://openalex.org/W2804652220",
-        "https://openalex.org/W2804784239",
-        "https://openalex.org/W2807993147",
-        "https://openalex.org/W2891830606",
-        "https://openalex.org/W2899414794",
-        "https://openalex.org/W2921218466",
-        "https://openalex.org/W2924029404",
-        "https://openalex.org/W2967267577",
-        "https://openalex.org/W2981288715",
-        "https://openalex.org/W2982584425",
-        "https://openalex.org/W3139572127",
-        "https://openalex.org/W3168911648",
-        "https://openalex.org/W3190022225",
-        "https://openalex.org/W4210273143",
-        "https://openalex.org/W4211075655",
-        "https://openalex.org/W4250077806",
-        "https://openalex.org/W4251775800",
-        "https://openalex.org/W4256425339",
-        "https://openalex.org/W6735151275",
-        "https://openalex.org/W6982292597",
-        "https://openalex.org/W6987468284",
-        "https://openalex.org/W7014407560",
-        "https://openalex.org/W7020128907"
-      ],
-      "related_works": [
-        "https://openalex.org/W616711343",
-        "https://openalex.org/W2090997583",
-        "https://openalex.org/W2276570023",
-        "https://openalex.org/W2165714849",
-        "https://openalex.org/W2491828709",
-        "https://openalex.org/W2768930230",
-        "https://openalex.org/W2026947808",
-        "https://openalex.org/W2495615312",
-        "https://openalex.org/W2172548929",
-        "https://openalex.org/W4242321840"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-06-13T06:13:01.061226",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55885,6 +55183,708 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4389829158",
+      "doi": "https://doi.org/10.1007/s12549-023-00594-y",
+      "title": "Middle Miocene trace fossils from the Tenes area (NW Algeria) and their palaeoenvironmental implications",
+      "display_name": "Middle Miocene trace fossils from the Tenes area (NW Algeria) and their palaeoenvironmental implications",
+      "publication_year": 2023,
+      "publication_date": "2023-12-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4389829158",
+        "doi": "https://doi.org/10.1007/s12549-023-00594-y"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12549-023-00594-y",
+        "is_oa": false,
+        "landing_page_url": "http://dx.doi.org/10.1007/s12549-023-00594-y",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S148688756",
+          "display_name": "Palaeobiodiversity and Palaeoenvironments",
+          "issn_l": "1867-1594",
+          "issn": [
+            "1867-1594",
+            "1867-1608"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Palaeobiodiversity and Palaeoenvironments",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103165750",
+            "display_name": "Abdelkrim Nemra",
+            "orcid": "https://orcid.org/0000-0001-9237-9449"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157169809",
+              "display_name": "University of Sciences and Technology Houari Boumediene",
+              "ror": "https://ror.org/02kb89c09",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157169809"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdelkrim Nemra",
+          "raw_affiliation_strings": [
+            "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9237-9449",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I157169809"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5093512438",
+            "display_name": "Jugurtha Tellal",
+            "orcid": "https://orcid.org/0009-0007-5632-2294"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157169809",
+              "display_name": "University of Sciences and Technology Houari Boumediene",
+              "ror": "https://ror.org/02kb89c09",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157169809"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jugurtha Tellal",
+          "raw_affiliation_strings": [
+            "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0007-5632-2294",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory of Geodynamics of Sedimentary Basins and Orogens, University of Science and Technology Houari Boumediene, BP 32 Bab Ezzouar, Algiers, 16111, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I157169809"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Equinor ASA, Stavanger, 4035, Norway"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Equinor ASA, Stavanger, 4035, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033147795",
+            "display_name": "Mohamed Bendella",
+            "orcid": "https://orcid.org/0000-0003-2611-7808"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I137407579",
+              "display_name": "Université Oran 1 Ahmed Ben Bella",
+              "ror": "https://ror.org/059et2b68",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I137407579"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149660",
+              "display_name": "Université d'Oran 2",
+              "ror": "https://ror.org/04nz98c29",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Bendella",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2611-7808",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I137407579"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031196190",
+            "display_name": "Salim Belkhedim",
+            "orcid": "https://orcid.org/0000-0001-9924-1872"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I137407579",
+              "display_name": "Université Oran 1 Ahmed Ben Bella",
+              "ror": "https://ror.org/059et2b68",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I137407579"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149660",
+              "display_name": "Université d'Oran 2",
+              "ror": "https://ror.org/04nz98c29",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Salim Belkhedim",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+            "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9924-1872",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d’Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I137407579"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire de Géodynamique des Bassins et Bilan Sédimentaire, Université d'Oran 2, Bir El Djir, BP. 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5011160187",
+            "display_name": "Abdelkader Ouali Mehadji",
+            "orcid": "https://orcid.org/0000-0003-2093-4700"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I137407579",
+              "display_name": "Université Oran 1 Ahmed Ben Bella",
+              "ror": "https://ror.org/059et2b68",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I137407579"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149660",
+              "display_name": "Université d'Oran 2",
+              "ror": "https://ror.org/04nz98c29",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelkader Ouali Mehadji",
+          "raw_affiliation_strings": [
+            "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M’naouer, BP 1524, Oran, 31000, Algeria",
+            "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M'naouer, BP 1524, Oran, 31000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2093-4700",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M’naouer, BP 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I137407579",
+                "https://openalex.org/I4210149660"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire de Paléontologie Stratigraphique et Paléoenvironnements, Université Mohamed Ben Ahmed, Oran 2, El-M'naouer, BP 1524, Oran, 31000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I4210149660"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103165750"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I157169809"
+      ],
+      "apc_list": {
+        "value": 2290,
+        "currency": "EUR",
+        "value_usd": 2890
+      },
+      "apc_paid": null,
+      "fwci": 0.7538,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.6456256,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "104",
+        "issue": "2",
+        "first_page": "327",
+        "last_page": "362"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/trace-fossil",
+          "display_name": "Trace fossil",
+          "score": 0.7664384841918945
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.765853762626648
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7158753871917725
+        },
+        {
+          "id": "https://openalex.org/keywords/trace",
+          "display_name": "TRACE (psycholinguistics)",
+          "score": 0.5792707204818726
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.7664384841918945
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.765853762626648
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7158753871917725
+        },
+        {
+          "id": "https://openalex.org/C75291252",
+          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
+          "display_name": "TRACE (psycholinguistics)",
+          "level": 2,
+          "score": 0.5792707204818726
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12549-023-00594-y",
+          "is_oa": false,
+          "landing_page_url": "http://dx.doi.org/10.1007/s12549-023-00594-y",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S148688756",
+            "display_name": "Palaeobiodiversity and Palaeoenvironments",
+            "issn_l": "1867-1594",
+            "issn": [
+              "1867-1594",
+              "1867-1608"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Palaeobiodiversity and Palaeoenvironments",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 118,
+      "referenced_works": [
+        "https://openalex.org/W4272660",
+        "https://openalex.org/W101633874",
+        "https://openalex.org/W601647407",
+        "https://openalex.org/W635410625",
+        "https://openalex.org/W983936503",
+        "https://openalex.org/W1109724386",
+        "https://openalex.org/W1494869040",
+        "https://openalex.org/W1525245160",
+        "https://openalex.org/W1538456952",
+        "https://openalex.org/W1549880015",
+        "https://openalex.org/W1552266781",
+        "https://openalex.org/W1618233177",
+        "https://openalex.org/W1642205468",
+        "https://openalex.org/W1964819015",
+        "https://openalex.org/W1964980044",
+        "https://openalex.org/W1967150875",
+        "https://openalex.org/W1972284357",
+        "https://openalex.org/W1978002204",
+        "https://openalex.org/W1983903585",
+        "https://openalex.org/W1989164119",
+        "https://openalex.org/W1990007672",
+        "https://openalex.org/W1991674074",
+        "https://openalex.org/W1993600861",
+        "https://openalex.org/W1996296821",
+        "https://openalex.org/W2002200719",
+        "https://openalex.org/W2005854624",
+        "https://openalex.org/W2006392510",
+        "https://openalex.org/W2007748098",
+        "https://openalex.org/W2008767948",
+        "https://openalex.org/W2013195266",
+        "https://openalex.org/W2013332420",
+        "https://openalex.org/W2017445603",
+        "https://openalex.org/W2026947808",
+        "https://openalex.org/W2048779797",
+        "https://openalex.org/W2049261793",
+        "https://openalex.org/W2054385418",
+        "https://openalex.org/W2055944085",
+        "https://openalex.org/W2058088350",
+        "https://openalex.org/W2058208766",
+        "https://openalex.org/W2058366574",
+        "https://openalex.org/W2058529949",
+        "https://openalex.org/W2062059102",
+        "https://openalex.org/W2067219433",
+        "https://openalex.org/W2071553571",
+        "https://openalex.org/W2079842235",
+        "https://openalex.org/W2085416740",
+        "https://openalex.org/W2086652327",
+        "https://openalex.org/W2087200605",
+        "https://openalex.org/W2087941094",
+        "https://openalex.org/W2088381531",
+        "https://openalex.org/W2089277140",
+        "https://openalex.org/W2094496087",
+        "https://openalex.org/W2098757316",
+        "https://openalex.org/W2100430226",
+        "https://openalex.org/W2109314727",
+        "https://openalex.org/W2117244451",
+        "https://openalex.org/W2130321800",
+        "https://openalex.org/W2132895414",
+        "https://openalex.org/W2138421968",
+        "https://openalex.org/W2140299316",
+        "https://openalex.org/W2156022682",
+        "https://openalex.org/W2157158509",
+        "https://openalex.org/W2168588901",
+        "https://openalex.org/W2169292600",
+        "https://openalex.org/W2181872090",
+        "https://openalex.org/W2244250363",
+        "https://openalex.org/W2247709429",
+        "https://openalex.org/W2260752243",
+        "https://openalex.org/W2288079016",
+        "https://openalex.org/W2307965665",
+        "https://openalex.org/W2315002392",
+        "https://openalex.org/W2316894560",
+        "https://openalex.org/W2318798119",
+        "https://openalex.org/W2318862781",
+        "https://openalex.org/W2326028223",
+        "https://openalex.org/W2340209515",
+        "https://openalex.org/W2340415682",
+        "https://openalex.org/W2344228935",
+        "https://openalex.org/W2401029176",
+        "https://openalex.org/W2443067726",
+        "https://openalex.org/W2485691581",
+        "https://openalex.org/W2496085633",
+        "https://openalex.org/W2501853042",
+        "https://openalex.org/W2506047024",
+        "https://openalex.org/W2510333956",
+        "https://openalex.org/W2578297791",
+        "https://openalex.org/W2586876067",
+        "https://openalex.org/W2587430983",
+        "https://openalex.org/W2658067580",
+        "https://openalex.org/W2724294703",
+        "https://openalex.org/W2746173567",
+        "https://openalex.org/W2746280190",
+        "https://openalex.org/W2748954208",
+        "https://openalex.org/W2750512432",
+        "https://openalex.org/W2769295184",
+        "https://openalex.org/W2804652220",
+        "https://openalex.org/W2804784239",
+        "https://openalex.org/W2807993147",
+        "https://openalex.org/W2891830606",
+        "https://openalex.org/W2899414794",
+        "https://openalex.org/W2921218466",
+        "https://openalex.org/W2924029404",
+        "https://openalex.org/W2967267577",
+        "https://openalex.org/W2981288715",
+        "https://openalex.org/W2982584425",
+        "https://openalex.org/W3139572127",
+        "https://openalex.org/W3168911648",
+        "https://openalex.org/W3190022225",
+        "https://openalex.org/W4210273143",
+        "https://openalex.org/W4211075655",
+        "https://openalex.org/W4250077806",
+        "https://openalex.org/W4251775800",
+        "https://openalex.org/W4256425339",
+        "https://openalex.org/W6735151275",
+        "https://openalex.org/W6982292597",
+        "https://openalex.org/W6987468284",
+        "https://openalex.org/W7014407560",
+        "https://openalex.org/W7020128907"
+      ],
+      "related_works": [
+        "https://openalex.org/W616711343",
+        "https://openalex.org/W2090997583",
+        "https://openalex.org/W2276570023",
+        "https://openalex.org/W2165714849",
+        "https://openalex.org/W2491828709",
+        "https://openalex.org/W2768930230",
+        "https://openalex.org/W2026947808",
+        "https://openalex.org/W2495615312",
+        "https://openalex.org/W2172548929",
+        "https://openalex.org/W4242321840"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-07-22T07:51:19.307946",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2175799887",
       "doi": "https://doi.org/10.1666/0022-3360(2002)076<0882:ipfr>2.0.co;2",
       "title": "ICHNOGENUS PHOLEUS FIEGE, 1944, REVISITED",
@@ -58304,6 +58304,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I126596746",
+              "display_name": "Jagiellonian University",
+              "ror": "https://ror.org/03bqmcz70",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126596746"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210128123",
               "display_name": "Instytut Nauk Geologicznych",
               "ror": "https://ror.org/02yxxe041",
@@ -58312,16 +58322,6 @@
               "lineage": [
                 "https://openalex.org/I4210128123",
                 "https://openalex.org/I99542240"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I126596746",
-              "display_name": "Jagiellonian University",
-              "ror": "https://ror.org/03bqmcz70",
-              "country_code": "PL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126596746"
               ]
             }
           ],
@@ -58484,11 +58484,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 2.1542,
+      "fwci": 2.1554,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.8714515,
+        "value": 0.87155227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58932,7 +58932,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-19T07:52:34.831488",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61255,8 +61255,8 @@
             {
               "raw_affiliation_string": "GeoBio-Center LMU, Richard-Wagner-Straße 10, 80333, Munich, Germany",
               "institution_ids": [
-                "https://openalex.org/I8204097",
-                "https://openalex.org/I4210110470"
+                "https://openalex.org/I4210110470",
+                "https://openalex.org/I8204097"
               ]
             },
             {
@@ -61270,7 +61270,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5013751176"
       ],
@@ -61279,11 +61279,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.948,
+      "fwci": 0.7557,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.73579483,
+        "value": 0.67551665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61579,7 +61579,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63258,6 +63258,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -63266,16 +63276,6 @@
               "lineage": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
               ]
             }
           ],
@@ -63344,6 +63344,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -63352,16 +63362,6 @@
               "lineage": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
               ]
             }
           ],
@@ -63393,16 +63393,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I37802460",
-              "display_name": "Northwest University",
-              "ror": "https://ror.org/00z3td547",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I37802460"
-              ]
-            },
-            {
               "id": "https://openalex.org/I123387679",
               "display_name": "Uppsala University",
               "ror": "https://ror.org/048a87296",
@@ -63410,6 +63400,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I123387679"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I37802460",
+              "display_name": "Northwest University",
+              "ror": "https://ror.org/00z3td547",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I37802460"
               ]
             },
             {
@@ -63514,18 +63514,18 @@
       "apc_list": {
         "value": 3070,
         "currency": "USD",
-        "value_usd": 3070
+        "value_usd": 3300
       },
       "apc_paid": {
         "value": 3070,
         "currency": "USD",
-        "value_usd": 3070
+        "value_usd": 3300
       },
-      "fwci": 1.9808,
+      "fwci": 1.9806,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.87047932,
+        "value": 0.87044553,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63875,6 +63875,13 @@
           "funder_award_id": "41890844",
           "funder_id": "https://openalex.org/F4320322439",
           "funder_display_name": "Northwest University"
+        },
+        {
+          "id": "https://openalex.org/G1474490597",
+          "display_name": null,
+          "funder_award_id": "111 Project",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
         },
         {
           "id": "https://openalex.org/G1803178129",
@@ -64523,7 +64530,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-21T08:15:58.654021",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69513,7 +69520,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://doi.org/10.18261/let.57.3.8",
         "any_repository_has_fulltext": false
       },
@@ -69545,6 +69552,7 @@
           "raw_affiliation_strings": [
             "Equinor ASA, 4035 Stavanger, Norway;"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Equinor ASA, 4035 Stavanger, Norway;",
@@ -69566,11 +69574,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5441,
+      "fwci": 0.3336,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66659155,
+        "value": 0.54814815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70513,7 +70521,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72731,22 +72739,22 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -72798,22 +72806,22 @@
           "is_corresponding": false,
           "raw_author_name": "Jiayue Wang",
           "raw_affiliation_strings": [
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -72865,22 +72873,22 @@
           "is_corresponding": false,
           "raw_author_name": "Yue Liang",
           "raw_affiliation_strings": [
-            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
-            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
+            "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+            "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
                 "https://openalex.org/I37802460",
                 "https://openalex.org/I4391767698"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
               ]
             }
           ]
@@ -72955,7 +72963,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -72968,11 +72976,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 0.74,
+      "fwci": 0.6125,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81151773,
+        "value": 0.78104913,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74037,7 +74045,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79654,8 +79662,8 @@
             {
               "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
               "institution_ids": [
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I4387155970"
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I90183372"
               ]
             },
             {
@@ -79748,8 +79756,8 @@
             {
               "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
               "institution_ids": [
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I4387155970"
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I90183372"
               ]
             }
           ]
@@ -79804,23 +79812,23 @@
           "is_corresponding": false,
           "raw_author_name": "Caumon, Guillaume",
           "raw_affiliation_strings": [
-            "ENSG - Ecole Nationale Supérieure de Géologie (2 Rue du Doyen Marcel Roubault, TSA 70605, 54518 Vandœuvre-les-Nancy Cedex - France)",
-            "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)"
+            "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
+            "ENSG - Ecole Nationale Supérieure de Géologie (2 Rue du Doyen Marcel Roubault, TSA 70605, 54518 Vandœuvre-les-Nancy Cedex - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "ENSG - Ecole Nationale Supérieure de Géologie (2 Rue du Doyen Marcel Roubault, TSA 70605, 54518 Vandœuvre-les-Nancy Cedex - France)",
+              "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
               "institution_ids": [
-                "https://openalex.org/I9769675",
+                "https://openalex.org/I4387155970",
                 "https://openalex.org/I90183372"
               ]
             },
             {
-              "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
+              "raw_affiliation_string": "ENSG - Ecole Nationale Supérieure de Géologie (2 Rue du Doyen Marcel Roubault, TSA 70605, 54518 Vandœuvre-les-Nancy Cedex - France)",
               "institution_ids": [
                 "https://openalex.org/I90183372",
-                "https://openalex.org/I4387155970"
+                "https://openalex.org/I9769675"
               ]
             }
           ]
@@ -79939,21 +79947,21 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
-            "ASGA - Association Scientifique pour la Géologie et ses Applications (2 rue du doyen Roubault, TSA 70605, F 54518 Vandoeuvre-lès-Nancy - France)"
+            "ASGA - Association Scientifique pour la Géologie et ses Applications (2 rue du doyen Roubault, TSA 70605, F 54518 Vandoeuvre-lès-Nancy - France)",
+            "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
-              "institution_ids": [
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I4387155970"
-              ]
-            },
-            {
               "raw_affiliation_string": "ASGA - Association Scientifique pour la Géologie et ses Applications (2 rue du doyen Roubault, TSA 70605, F 54518 Vandoeuvre-lès-Nancy - France)",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
+              "institution_ids": [
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I90183372"
+              ]
             }
           ]
         }
@@ -80203,7 +80211,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80446,20 +80454,20 @@
           "is_corresponding": false,
           "raw_author_name": "Antoine, Christophe",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Association Scientifique pour la Géologie et ses Applications"
+            "Association Scientifique pour la Géologie et ses Applications",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Association Scientifique pour la Géologie et ses Applications",
-              "institution_ids": []
             }
           ]
         },
@@ -80535,20 +80543,20 @@
           "is_corresponding": false,
           "raw_author_name": "Caumon, Guillaume",
           "raw_affiliation_strings": [
-            "GeoRessources",
-            "Ecole Nationale Supérieure de Géologie"
+            "Ecole Nationale Supérieure de Géologie",
+            "GeoRessources"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "GeoRessources",
               "institution_ids": [
                 "https://openalex.org/I4387155970"
               ]
-            },
-            {
-              "raw_affiliation_string": "Ecole Nationale Supérieure de Géologie",
-              "institution_ids": []
             }
           ]
         }
@@ -80835,7 +80843,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-21T08:15:58.654021",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84951,8 +84959,8 @@
             {
               "raw_affiliation_string": "College of Geosciences, China University of Petroleum, Beijing, 102249, China; Exploration and Development Research Institute of PetroChina Changqing Oilfield Company, Xi'an, 710018, China",
               "institution_ids": [
-                "https://openalex.org/I4210112595",
-                "https://openalex.org/I204553293"
+                "https://openalex.org/I204553293",
+                "https://openalex.org/I4210112595"
               ]
             }
           ]
@@ -85185,7 +85193,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -85194,7 +85202,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13006648,
+        "value": 0.08714325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85830,7 +85838,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {

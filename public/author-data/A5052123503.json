@@ -614,7 +614,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5006480587",
         "https://openalex.org/A5015584307"
@@ -626,23 +626,23 @@
       "apc_list": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
       "apc_paid": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
-      "fwci": 2.5403,
+      "fwci": 2.0925,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.8793192,
+        "value": 0.85225637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -1161,8 +1161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
@@ -1709,7 +1709,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-01T08:46:32.239190",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2312,8 +2312,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -3103,8 +3103,8 @@
             {
               "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -3160,8 +3160,8 @@
             {
               "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -3217,8 +3217,8 @@
             {
               "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -3317,8 +3317,8 @@
             {
               "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -3332,21 +3332,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0813,
+      "fwci": 0.8148,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73763211,
+        "value": 0.65263973,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 98
       },
       "biblio": {
@@ -3629,8 +3629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -4236,7 +4236,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4707,8 +4707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5804,8 +5804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -6662,8 +6662,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -7142,8 +7142,8 @@
             {
               "raw_affiliation_string": "University of Houston, Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I44461941"
+                "https://openalex.org/I44461941",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -7516,8 +7516,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -8314,7 +8314,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8684,8 +8684,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -9500,8 +9500,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -10409,8 +10409,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11010,8 +11010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -11946,8 +11946,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12739,8 +12739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -13208,8 +13208,8 @@
             {
               "raw_affiliation_string": "University of Houston, Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I44461941"
+                "https://openalex.org/I44461941",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -13681,8 +13681,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -14547,7 +14547,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15024,8 +15024,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16024,8 +16024,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16900,8 +16900,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17576,8 +17576,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18373,8 +18373,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18762,8 +18762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19367,8 +19367,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20023,8 +20023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20223,8 +20223,8 @@
             {
               "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -20280,8 +20280,8 @@
             {
               "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -20337,8 +20337,8 @@
             {
               "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -20394,8 +20394,8 @@
             {
               "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -20451,8 +20451,8 @@
             {
               "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -20466,7 +20466,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -20475,7 +20475,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08736419,
+        "value": 0.04069447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20788,8 +20788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -21184,7 +21184,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21548,8 +21548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22298,8 +22298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22911,8 +22911,8 @@
             {
               "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -22968,8 +22968,8 @@
             {
               "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -23025,8 +23025,8 @@
             {
               "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I62856769",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             },
             {
@@ -23084,7 +23084,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -23093,7 +23093,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20906586,
+        "value": 0.14990472,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23267,8 +23267,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -23790,7 +23790,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24250,8 +24250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -25234,8 +25234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26199,8 +26199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -26833,8 +26833,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -27616,7 +27616,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5133575070"
       ],
@@ -27626,18 +27626,18 @@
       "apc_list": {
         "value": 2000,
         "currency": "CHF",
-        "value_usd": 2165
+        "value_usd": 2227
       },
       "apc_paid": {
         "value": 2000,
         "currency": "CHF",
-        "value_usd": 2165
+        "value_usd": 2227
       },
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7301778,
+        "value": 0.39959677,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28034,8 +28034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -28638,7 +28638,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2026-04-15T00:00:00"
     }
   ]

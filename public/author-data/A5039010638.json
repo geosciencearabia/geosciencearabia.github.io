@@ -13,7 +13,7 @@
     ],
     "full_name": "Mohamed Omar Abouelresh",
     "works_count": 50,
-    "cited_by_count": 1007,
+    "cited_by_count": 1008,
     "summary_stats": {
       "2yr_mean_citedness": 4,
       "h_index": 15,
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002555,
+        "value": 0.0002553,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -378,7 +378,7 @@
         "year": 2017,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 223
+        "cited_by_count": 224
       },
       {
         "year": 2018,
@@ -445,7 +445,7 @@
     ],
     "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
-    "updated_date": "2026-07-17T12:17:35",
+    "updated_date": "2026-07-21T12:17:50",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -862,8 +862,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2115,16 +2115,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130009713",
               "display_name": "Suez University",
               "ror": "https://ror.org/00ndhrx30",
@@ -2132,6 +2122,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130009713"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -2251,11 +2251,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 10.6998,
+      "fwci": 10.7016,
       "has_fulltext": false,
       "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99322154,
+        "value": 0.99321988,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2639,8 +2639,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -2748,7 +2748,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-21T08:15:58.654021",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2997,7 +2997,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5046818830"
       ],
@@ -3007,18 +3007,18 @@
       "apc_list": {
         "value": 2200,
         "currency": "CHF",
-        "value_usd": 2382
+        "value_usd": 2450
       },
       "apc_paid": {
         "value": 2200,
         "currency": "CHF",
-        "value_usd": 2382
+        "value_usd": 2450
       },
-      "fwci": 5.6745,
+      "fwci": 4.6435,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.96856803,
+        "value": 0.96052264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3478,8 +3478,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -4071,7 +4071,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4289,22 +4289,22 @@
           "is_corresponding": true,
           "raw_author_name": "Ahmed E. Radwan",
           "raw_affiliation_strings": [
-            "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
-            "Exploration Department, Gulf of Suez Petroleum Company, 2400, Cairo, Egypt"
+            "Exploration Department, Gulf of Suez Petroleum Company, 2400, Cairo, Egypt",
+            "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-3011-5832",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Department, Gulf of Suez Petroleum Company, 2400, Cairo, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I130009713"
+              ]
+            },
             {
               "raw_affiliation_string": "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
               "institution_ids": [
                 "https://openalex.org/I126596746",
                 "https://openalex.org/I4210128123"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Exploration Department, Gulf of Suez Petroleum Company, 2400, Cairo, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I130009713"
               ]
             }
           ]
@@ -4421,11 +4421,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.5149,
+      "fwci": 4.8296,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.9723297,
+        "value": 0.96790511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4944,7 +4944,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5504,8 +5504,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Decent work and economic growth",
-          "id": "https://metadata.un.org/sdg/8",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -5673,16 +5673,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130009713",
               "display_name": "Suez University",
               "ror": "https://ror.org/00ndhrx30",
@@ -5690,6 +5680,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130009713"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -5703,6 +5703,7 @@
             "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "Faculty of Petroleum & Mining Engineering, Suez University, Suez, Egypt"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
@@ -5721,7 +5722,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5039010638"
       ],
@@ -5731,11 +5732,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.327,
+      "fwci": 1.9981,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.8694841,
+        "value": 0.84498726,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6237,7 +6238,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-16T08:26:57.006410",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11404,8 +11405,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -12411,8 +12412,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -13062,8 +13063,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14887,8 +14888,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15932,8 +15933,8 @@
             {
               "raw_affiliation_string": "Faculty of Petroleum and Mining Engineering, Suez Canal University, Suez, Egypt",
               "institution_ids": [
-                "https://openalex.org/I130009713",
-                "https://openalex.org/I114794399"
+                "https://openalex.org/I114794399",
+                "https://openalex.org/I130009713"
               ]
             }
           ]
@@ -15989,7 +15990,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5039010638"
       ],
@@ -16007,16 +16008,16 @@
         "currency": "EUR",
         "value_usd": 1078
       },
-      "fwci": 0.9189,
+      "fwci": 0.7384,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.77909887,
+        "value": 0.74057926,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -16410,8 +16411,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17226,7 +17227,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19628,8 +19629,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -20619,8 +20620,8 @@
           "raw_author_name": "Mohamed Omar Abouelresh",
           "raw_affiliation_strings": [
             "Centre for Environment and Water, Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-            "Centre for Environment and Water, Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Faculty of Petroleum and Mining Engineering, Suez University, Suez, Egypt"
+            "Faculty of Petroleum and Mining Engineering, Suez University, Suez, Egypt",
+            "Centre for Environment and Water, Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -20631,15 +20632,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Centre for Environment and Water, Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Faculty of Petroleum and Mining Engineering, Suez University, Suez, Egypt",
               "institution_ids": [
                 "https://openalex.org/I130009713"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centre for Environment and Water, Research Institute, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -20704,11 +20705,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.7259,
+      "fwci": 0.6355,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.62440243,
+        "value": 0.56969069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21053,7 +21054,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22889,8 +22890,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23400,8 +23401,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24393,8 +24394,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25400,8 +25401,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25976,16 +25977,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I63072094",
-              "display_name": "University of Portsmouth",
-              "ror": "https://ror.org/03ykbk197",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63072094"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130009713",
               "display_name": "Suez University",
               "ror": "https://ror.org/00ndhrx30",
@@ -26014,6 +26005,16 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I63072094",
+              "display_name": "University of Portsmouth",
+              "ror": "https://ror.org/03ykbk197",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63072094"
+              ]
             }
           ],
           "countries": [
@@ -26024,22 +26025,19 @@
           "is_corresponding": true,
           "raw_author_name": "D.K. Loydell",
           "raw_affiliation_strings": [
-            "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
-            "Bulletin of Geosciences",
+            "Center for Environment & Water, TI, King Fahd University of Petroleum and Minerals, Saudi Arabia, on",
             "Aeronian (Llandovery, Silurian) graptolitic carbonate concretions from the Qusaiba Shale Formation, Tabuk Basin, Saudi Arabia",
             "sabbatical leave from Faculty of Petroleum & Mining Engineering, Suez University, Egypt",
-            "Center for Environment & Water, TI, King Fahd University of Petroleum and Minerals, Saudi Arabia, on"
+            "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
+            "Bulletin of Geosciences"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
+              "raw_affiliation_string": "Center for Environment & Water, TI, King Fahd University of Petroleum and Minerals, Saudi Arabia, on",
               "institution_ids": [
-                "https://openalex.org/I63072094"
+                "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "Bulletin of Geosciences",
-              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Aeronian (Llandovery, Silurian) graptolitic carbonate concretions from the Qusaiba Shale Formation, Tabuk Basin, Saudi Arabia",
@@ -26054,10 +26052,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Environment & Water, TI, King Fahd University of Petroleum and Minerals, Saudi Arabia, on",
+              "raw_affiliation_string": "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
               "institution_ids": [
-                "https://openalex.org/I134085113"
+                "https://openalex.org/I63072094"
               ]
+            },
+            {
+              "raw_affiliation_string": "Bulletin of Geosciences",
+              "institution_ids": []
             }
           ]
         },
@@ -26080,16 +26082,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I63072094",
-              "display_name": "University of Portsmouth",
-              "ror": "https://ror.org/03ykbk197",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63072094"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -26108,6 +26100,16 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I63072094",
+              "display_name": "University of Portsmouth",
+              "ror": "https://ror.org/03ykbk197",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63072094"
+              ]
             }
           ],
           "countries": [
@@ -26118,19 +26120,14 @@
           "is_corresponding": false,
           "raw_author_name": "M. Abouelresh",
           "raw_affiliation_strings": [
-            "sabbatical leave from Faculty of Petroleum & Mining Engineering, Suez University, Egypt",
             "Bulletin of Geosciences",
             "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
+            "sabbatical leave from Faculty of Petroleum & Mining Engineering, Suez University, Egypt",
             "Center for Environment & Water, TI, King Fahd University of Petroleum and Minerals, Saudi Arabia, on",
             "Aeronian (Llandovery, Silurian) graptolitic carbonate concretions from the Qusaiba Shale Formation, Tabuk Basin, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "sabbatical leave from Faculty of Petroleum & Mining Engineering, Suez University, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I130009713"
-              ]
-            },
             {
               "raw_affiliation_string": "Bulletin of Geosciences",
               "institution_ids": []
@@ -26139,6 +26136,12 @@
               "raw_affiliation_string": "School of the Environment, Geography and Geosciences, University of Portsmouth, Burnaby Road, Portsmouth PO1 3QL, UK;",
               "institution_ids": [
                 "https://openalex.org/I63072094"
+              ]
+            },
+            {
+              "raw_affiliation_string": "sabbatical leave from Faculty of Petroleum & Mining Engineering, Suez University, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I130009713"
               ]
             },
             {
@@ -26158,7 +26161,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5017560397"
       ],
@@ -26170,11 +26173,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4756,
+      "fwci": 0.4311,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78253167,
+        "value": 0.76346357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26440,8 +26443,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27090,7 +27093,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28592,8 +28595,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -29841,8 +29844,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -33704,8 +33707,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -41057,8 +41060,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -43412,8 +43415,8 @@
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals; College of Petroleum Engineering and Geosciences",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
-                "https://openalex.org/I134085113"
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I4210118538"
               ]
             }
           ]
@@ -43871,7 +43874,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -45289,8 +45292,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Decent work and economic growth",
-          "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],

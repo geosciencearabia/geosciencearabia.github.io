@@ -20057,8 +20057,8 @@
           "raw_author_name": "Gerardo Clemente Martínez",
           "raw_affiliation_strings": [
             "PEMEX, Villahermosa, Tabasco, Mexico; PEMEX Exploración y Producción S.A. de C.V., Villahermosa, Mexico",
-            "PEMEX, Villahermosa, Tabasco, Mexico",
-            "PEMEX Exploración y Producción S.A. de C.V., Villahermosa, Mexico"
+            "PEMEX Exploración y Producción S.A. de C.V., Villahermosa, Mexico",
+            "PEMEX, Villahermosa, Tabasco, Mexico"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -20069,15 +20069,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "PEMEX, Villahermosa, Tabasco, Mexico",
-              "institution_ids": [
-                "https://openalex.org/I4210144131"
-              ]
-            },
-            {
               "raw_affiliation_string": "PEMEX Exploración y Producción S.A. de C.V., Villahermosa, Mexico",
               "institution_ids": [
                 "https://openalex.org/I5447759"
+              ]
+            },
+            {
+              "raw_affiliation_string": "PEMEX, Villahermosa, Tabasco, Mexico",
+              "institution_ids": [
+                "https://openalex.org/I4210144131"
               ]
             }
           ]
@@ -20530,7 +20530,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -22427,7 +22427,7 @@
               "display_name": "National Agricultural Technology Institute",
               "ror": "https://ror.org/04wm52x94",
               "country_code": "AR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210153948"
               ]
@@ -22467,7 +22467,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37126945,
+        "value": 0.29690702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23607,7 +23607,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-14T06:11:07.267592",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-12-12T00:00:00"
     }
   ]

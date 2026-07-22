@@ -511,11 +511,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6465,
+      "fwci": 0.601,
       "has_fulltext": false,
-      "cited_by_count": 189,
+      "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.70752456,
+        "value": 0.68584129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -740,8 +740,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5099999904632568
         }
       ],
@@ -828,7 +828,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1195,8 +1195,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -2208,8 +2208,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563
         }
       ],
@@ -2469,6 +2469,7 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -2489,8 +2490,8 @@
             {
               "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
               "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210148734"
               ]
             }
           ]
@@ -2587,6 +2588,7 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -2607,8 +2609,8 @@
             {
               "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
               "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210148734"
               ]
             }
           ]
@@ -2658,11 +2660,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.6263,
+      "fwci": 14.2578,
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.9888754,
+        "value": 0.98799796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2942,8 +2944,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394
         }
       ],
@@ -4177,7 +4179,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4560,8 +4562,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421
         }
       ],
@@ -5330,6 +5332,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I39804081",
               "display_name": "Sorbonne Université",
               "ror": "https://ror.org/02en5vm52",
@@ -5337,16 +5349,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I39804081"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -5364,15 +5366,15 @@
             {
               "raw_affiliation_string": "CNRS, UMR 5143 ‘Paléobiodiversité et paléoenvironnements’, Université Pierre et Marie Curie, Laboratoire de Micropaléontologie, T.46–56, E.5, case 104, 75252 Paris cedex 05, France; e-mail: crasquin@ccr.jussieu.fr",
               "institution_ids": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081"
               ]
             },
             {
               "raw_affiliation_string": "CNRS, UMR 5143 ‘Paléobiodiversité et paléoenvironnements’, Université Pierre et Marie Curie, Laboratoire de Micropaléontologie, T.46–56, E.5, case 104, 75252 Paris cedex 05, France; e-mail: crasquin@ccr.jussieu.fr",
               "institution_ids": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -5390,7 +5392,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -5434,7 +5436,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -5485,11 +5487,11 @@
         "value_usd": 4530
       },
       "apc_paid": null,
-      "fwci": 3.4566,
+      "fwci": 2.9937,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.9160416,
+        "value": 0.90190322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5794,8 +5796,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -6220,7 +6222,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6454,7 +6456,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -6491,7 +6493,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -6739,11 +6741,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 4.8135,
+      "fwci": 4.6443,
       "has_fulltext": false,
       "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.94378698,
+        "value": 0.9415519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7108,8 +7110,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -7262,7 +7264,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7791,8 +7793,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863
         }
       ],
@@ -8508,7 +8510,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -8545,7 +8547,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -8582,7 +8584,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -8693,14 +8695,14 @@
       "apc_list": {
         "value": 3070,
         "currency": "USD",
-        "value_usd": 3070
+        "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 10.8732,
+      "fwci": 10.6089,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.97816772,
+        "value": 0.97652462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8993,8 +8995,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426
         }
       ],
@@ -9117,7 +9119,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9720,8 +9722,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815
         }
       ],
@@ -11117,9 +11119,9 @@
             {
               "raw_affiliation_string": "Université de Paris VI",
               "institution_ids": [
-                "https://openalex.org/I48825208",
                 "https://openalex.org/I204730241",
-                "https://openalex.org/I39804081"
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I48825208"
               ]
             }
           ]
@@ -11171,21 +11173,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5265,
+      "fwci": 1.4228,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.86289501,
+        "value": 0.85189873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -11560,8 +11562,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137
         }
       ],
@@ -12088,7 +12090,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T17:40:00.097472",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12144,7 +12146,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://doi.org/10.5802/crgeos.217",
         "any_repository_has_fulltext": true
       },
@@ -12257,21 +12259,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.91,
+      "fwci": 4.8998,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.94948767,
+        "value": 0.93760957,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -13600,7 +13602,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-13T07:54:00.901334",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13674,7 +13676,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -13688,6 +13690,7 @@
           "raw_affiliation_strings": [
             "Laboratoire de géologie des ensembles sédimentaires, Universitéde Nancy I, UMR CNRS 5561, B.P. 239, 54506 Vandoeuvre les Nancy, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de géologie des ensembles sédimentaires, Universitéde Nancy I, UMR CNRS 5561, B.P. 239, 54506 Vandoeuvre les Nancy, France",
@@ -13710,7 +13713,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -13720,7 +13723,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -13735,6 +13738,7 @@
             "BRGM-SGN/GEO, B.P. 6009, 45060 Orléans Cedex 2, France",
             "Laboratoire de géologie des ensembles sédimentaires, Universitéde Nancy I, UMR CNRS 5561, B.P. 239, 54506 Vandoeuvre les Nancy, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BRGM-SGN/GEO, B.P. 6009, 45060 Orléans Cedex 2, France",
@@ -13763,7 +13767,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -13777,6 +13781,7 @@
           "raw_affiliation_strings": [
             "BRGM-SGN/GEO, B.P. 6009, 45060 Orléans Cedex 2, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "BRGM-SGN/GEO, B.P. 6009, 45060 Orléans Cedex 2, France",
@@ -13799,7 +13804,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -13811,6 +13816,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -13827,12 +13833,13 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléontologie, Universitéde Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeneuve d'Ascq Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléontologie, Universitéde Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeneuve d'Ascq Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210148734"
               ]
             }
           ]
@@ -13850,7 +13857,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -13862,6 +13869,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -13878,12 +13886,13 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléontologie, Universitéde Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeneuve d'Ascq Cedex, France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléontologie, Universitéde Sciences et Technologies de Lille, URA CNRS 1365, 59655 Villeneuve d'Ascq Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210148734"
               ]
             }
           ]
@@ -13897,6 +13906,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I149851306",
+              "display_name": "National Academy of Sciences of Ukraine",
+              "ror": "https://ror.org/00je4t102",
+              "country_code": "UA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I149851306"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210148445",
               "display_name": "Institute of Geological Sciences",
               "ror": "https://ror.org/054bsq212",
@@ -13905,16 +13924,6 @@
               "lineage": [
                 "https://openalex.org/I149851306",
                 "https://openalex.org/I4210148445"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I149851306",
-              "display_name": "National Academy of Sciences of Ukraine",
-              "ror": "https://ror.org/00je4t102",
-              "country_code": "UA",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I149851306"
               ]
             }
           ],
@@ -13926,6 +13935,7 @@
           "raw_affiliation_strings": [
             "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov street, 252601 Kiev, Ukraine"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Academy of Sciences of Ukraine, Institute of Geological Sciences, 55b Chaklov street, 252601 Kiev, Ukraine",
@@ -13939,7 +13949,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5052512742"
       ],
@@ -13949,14 +13959,14 @@
       "apc_list": {
         "value": 3100,
         "currency": "USD",
-        "value_usd": 3100
+        "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 6.875,
+      "fwci": 6.2045,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.96226415,
+        "value": 0.9583516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14284,8 +14294,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -14397,7 +14407,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14812,8 +14822,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137
         }
       ],
@@ -15406,8 +15416,8 @@
             {
               "raw_affiliation_string": "Collège de France et laboratoire depaléontolologie, Vra 12 CNRS, Muséum national d'histoire naturelle, 8, rue Buffon, 75005 Paris, France",
               "institution_ids": [
-                "https://openalex.org/I187986737",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I187986737"
               ]
             }
           ]
@@ -15851,7 +15861,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 12,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -15860,12 +15870,12 @@
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.07804535,
+        "value": 0.07610173,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 98
       },
       "biblio": {
@@ -16204,8 +16214,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -16294,7 +16304,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-06-22T06:23:43.705686",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16364,12 +16374,23 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
               "ror": "https://ror.org/00vn0zc62",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -16388,16 +16409,6 @@
                 "https://openalex.org/I4399657933",
                 "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -16424,9 +16435,9 @@
             {
               "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -16456,6 +16467,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -16500,9 +16512,9 @@
             {
               "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -16526,22 +16538,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
               "ror": "https://ror.org/00vn0zc62",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -16561,6 +16564,16 @@
                 "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
@@ -16576,9 +16589,9 @@
             {
               "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -16596,7 +16609,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -16633,7 +16646,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -16670,7 +16683,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -16703,12 +16716,23 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
               "ror": "https://ror.org/00vn0zc62",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -16738,16 +16762,6 @@
               "lineage": [
                 "https://openalex.org/I56067802"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -16763,9 +16777,9 @@
             {
               "raw_affiliation_string": "Géosciences Rennes, UMR 6118, Université de Rennes 1 - CNRS, 35042 Rennes cedex, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -16785,14 +16799,14 @@
       "apc_list": {
         "value": 3070,
         "currency": "USD",
-        "value_usd": 3070
+        "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.3847,
+      "fwci": 1.2485,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.79034691,
+        "value": 0.76288842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17073,8 +17087,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -17259,7 +17273,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17555,8 +17569,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7200000286102295
         }
       ],
@@ -19002,8 +19016,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -19494,6 +19508,7 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France",
@@ -19534,6 +19549,7 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France",
@@ -19556,7 +19572,7 @@
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
@@ -19570,6 +19586,7 @@
           "raw_affiliation_strings": [
             "Service Géologique National, Bureau de Recherches Géologiques et Minières, Orléans ,France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Service Géologique National, Bureau de Recherches Géologiques et Minières, Orléans ,France",
@@ -19610,6 +19627,7 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France",
@@ -19650,6 +19668,7 @@
           "raw_affiliation_strings": [
             "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Paléomagnétisme, Institut de Physique du Globe de Paris, 4 place Jussieu, 75252 Paris ,France",
@@ -19673,6 +19692,7 @@
           "raw_affiliation_strings": [
             "Directorate General of Mineral Resources, Jeddah ,Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Directorate General of Mineral Resources, Jeddah ,Saudi Arabia",
@@ -19694,6 +19714,7 @@
           "raw_affiliation_strings": [
             "Directorate General of Mineral Resources, Jeddah ,Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Directorate General of Mineral Resources, Jeddah ,Saudi Arabia",
@@ -19704,7 +19725,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5007649810"
       ],
@@ -19717,11 +19738,11 @@
         "value_usd": 4000
       },
       "apc_paid": null,
-      "fwci": 9.4252,
+      "fwci": 8.6145,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.97555556,
+        "value": 0.97202797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20085,8 +20106,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
@@ -20217,7 +20238,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20320,8 +20341,8 @@
             {
               "raw_affiliation_string": "Laboratoire de Micropaléontologie, UA 319 du CNRS, Université Pierre et Marie Curie, 4 place Jussieu, 75252 Paris Cedex 05, France",
               "institution_ids": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081"
               ]
             }
           ]
@@ -20440,7 +20461,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -20453,7 +20474,7 @@
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.1228728,
+        "value": 0.11838101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20681,8 +20702,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -20765,7 +20786,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-22T06:23:43.705686",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21600,8 +21621,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -22380,8 +22401,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -22980,8 +23001,8 @@
             {
               "raw_affiliation_string": "Sciences de la Terre, Université de Nancy I, UMR CNRS 7566, B.P. 239, 54506 Vandœuvre-lès-Nancy, France, E-mail : Alain.Izart@g2r.u-nancy.fr",
               "institution_ids": [
-                "https://openalex.org/I4210112832",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210112832"
               ]
             }
           ]
@@ -23131,11 +23152,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.3267,
+      "fwci": 0.2859,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.5964762,
+        "value": 0.56461858,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23522,8 +23543,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863
         }
       ],
@@ -24087,7 +24108,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25421,8 +25442,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -26000,7 +26021,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
+        "oa_status": "gold",
         "oa_url": "https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.227.pdf",
         "any_repository_has_fulltext": true
       },
@@ -26137,21 +26158,21 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
-            "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
+            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
+            "Department of Palaeontology (Geozentrum Vienna) (Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-              "institution_ids": [
-                "https://openalex.org/I2801780293"
-              ]
-            },
-            {
               "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
               "institution_ids": [
                 "https://openalex.org/I129774422"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
+              "institution_ids": [
+                "https://openalex.org/I2801780293"
               ]
             }
           ]
@@ -26264,11 +26285,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0092,
+      "fwci": 1.8374,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.86985709,
+        "value": 0.85813818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27414,7 +27435,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28171,8 +28192,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421
         }
       ],
@@ -28749,8 +28770,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705
         }
       ],
@@ -30004,8 +30025,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -30920,8 +30941,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -31799,8 +31820,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574
         }
       ],
@@ -34503,8 +34524,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -35614,8 +35635,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071
         }
       ],
@@ -37266,6 +37287,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210105918",
+              "display_name": "Normandie Université",
+              "ror": "https://ror.org/01k40cz91",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210105918"
+              ]
+            },
+            {
               "id": "https://openalex.org/I98702875",
               "display_name": "Université de Caen Normandie",
               "ror": "https://ror.org/051kpcy16",
@@ -37274,16 +37305,6 @@
               "lineage": [
                 "https://openalex.org/I4210105918",
                 "https://openalex.org/I98702875"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210105918",
-              "display_name": "Normandie Université",
-              "ror": "https://ror.org/01k40cz91",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210105918"
               ]
             }
           ],
@@ -37827,7 +37848,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38676,6 +38697,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -38730,6 +38752,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -38779,6 +38802,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -39231,7 +39255,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40014,8 +40038,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4300000071525574
         }
       ],
@@ -40224,6 +40248,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -40278,6 +40303,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -40327,6 +40353,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -40633,7 +40660,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40701,6 +40728,7 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -40741,6 +40769,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -40853,7 +40882,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15169518,
+        "value": 0.15172632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41068,8 +41097,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568
         }
       ],
@@ -41389,7 +41418,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

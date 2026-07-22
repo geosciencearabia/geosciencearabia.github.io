@@ -12,7 +12,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 34,
-    "cited_by_count": 1156,
+    "cited_by_count": 1157,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -304,7 +304,7 @@
         "year": 2001,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 543
+        "cited_by_count": 544
       },
       {
         "year": 2003,
@@ -370,7 +370,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-07-19T12:17:05",
+    "updated_date": "2026-07-21T12:17:50",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -924,9 +924,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -2371,9 +2371,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -3682,9 +3682,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -4340,9 +4340,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -5345,9 +5345,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -5565,8 +5565,8 @@
             {
               "raw_affiliation_string": "URA 1364 du CNRS, Laboratoire de Paléontologie et Stratigraphie, Université de Rennes I, 35042 Rennes cedex, France",
               "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -5694,11 +5694,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 5.6886,
+      "fwci": 5.584,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.95669369,
+        "value": 0.95530146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6000,9 +6000,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6113,7 +6113,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6183,13 +6183,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -6199,6 +6199,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -6220,13 +6221,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
               "country_code": "FR",
-              "type": "government",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ],
@@ -6244,9 +6245,9 @@
             {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -6443,11 +6444,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 6.6491,
+      "fwci": 6.4815,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.9591041,
+        "value": 0.95776326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6752,9 +6753,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -6936,7 +6937,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7948,12 +7949,23 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
               "ror": "https://ror.org/00vn0zc62",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -7983,16 +7995,6 @@
               "lineage": [
                 "https://openalex.org/I56067802"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -8009,9 +8011,9 @@
             {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -8134,11 +8136,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 4.0917,
+      "fwci": 3.9886,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.9284095,
+        "value": 0.92587119,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8375,9 +8377,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -8491,7 +8493,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8638,6 +8640,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -8679,9 +8682,9 @@
             {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -8769,11 +8772,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 3.5803,
+      "fwci": 3.49,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.91598658,
+        "value": 0.91290461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9055,9 +9058,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -9178,7 +9181,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9596,9 +9599,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -9819,6 +9822,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -9858,9 +9862,9 @@
             {
               "raw_affiliation_string": "Laboratoire de Sédimentologie et Paléontologie Géosciences, UPR 4661 du CNRS Université de Rennes 1 F-35042 Rennes, cedex France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             }
           ]
@@ -9877,11 +9881,11 @@
         "value_usd": 2620
       },
       "apc_paid": null,
-      "fwci": 2.72,
+      "fwci": 2.6755,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.91341287,
+        "value": 0.9099204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10190,9 +10194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10275,7 +10279,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11775,7 +11779,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -11798,13 +11802,21 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1327553481",
+                "https://openalex.org/I154202486",
+                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210157108",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
+                "https://openalex.org/I4405257220",
+                "https://openalex.org/I4405260085"
               ]
             }
           ],
@@ -11821,9 +11833,9 @@
             {
               "raw_affiliation_string": "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I4210157108",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I161929037",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I4210157108"
               ]
             }
           ]
@@ -11977,11 +11989,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 1.1806,
+      "fwci": 1.1342,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82797861,
+        "value": 0.82192088,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12406,9 +12418,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -12571,7 +12583,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15477,6 +15489,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -15827,9 +15840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -15877,7 +15890,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16181,9 +16194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -16282,6 +16295,7 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
@@ -16623,9 +16637,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -16673,7 +16687,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17082,9 +17096,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -17873,9 +17887,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -18426,9 +18440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/17",
           "display_name": "Partnerships for the goals",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/17"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -19486,9 +19500,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -19782,9 +19796,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -21801,9 +21815,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -22213,9 +22227,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -22582,9 +22596,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -22923,9 +22937,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
