@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002071,
+        "value": 0.000207,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001687,
+        "value": 0.0001686,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.000147,
+        "value": 0.0001469,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -653,8 +653,8 @@
           "raw_author_name": "Isam H. Aljundi",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Membrane and Water Security, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia; Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-            "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membrane and Water Security, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Interdisciplinary Research Center for Membrane and Water Security, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-0714-8580",
           "affiliations": [
@@ -665,13 +665,13 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membrane and Water Security, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membrane and Water Security, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -694,11 +694,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 6.7029,
+      "fwci": 6.695,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.98093915,
+        "value": 0.98093544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1479,7 +1479,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2239,9 +2239,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -3649,9 +3649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4000000059604645,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -4038,16 +4038,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 4100,
+        "value": 3970,
         "currency": "USD",
         "value_usd": 3970
       },
       "apc_paid": null,
-      "fwci": 4.3216,
+      "fwci": 4.3165,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.95490414,
+        "value": 0.95489537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4498,7 +4498,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4903,8 +4903,8 @@
           "raw_author_name": "Isam H. Aljundi",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Centre for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia; Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Centre for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+            "Interdisciplinary Research Centre for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -4915,13 +4915,13 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "raw_affiliation_string": "Interdisciplinary Research Centre for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "Interdisciplinary Research Centre for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -4944,11 +4944,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 4.1452,
+      "fwci": 4.1403,
       "has_fulltext": false,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.95101417,
+        "value": 0.95092127,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5452,9 +5452,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -5559,7 +5559,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2023-04-28T00:00:00"
     },
     {
@@ -5854,16 +5854,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 3870,
+        "value": 3790,
         "currency": "USD",
         "value_usd": 3790
       },
       "apc_paid": null,
-      "fwci": 2.9024,
+      "fwci": 2.9026,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.91736887,
+        "value": 0.91734739,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6464,7 +6464,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9009,9 +9009,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9768,8 +9768,9 @@
         "source": {
           "id": "https://openalex.org/S4210179989",
           "display_name": "International Journal of Applied Earth Observation and Geoinformation",
-          "issn_l": "1569-8432",
+          "issn_l": "0303-2434",
           "issn": [
+            "0303-2434",
             "1569-8432",
             "1872-826X"
           ],
@@ -10134,20 +10135,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2250,
+        "value": 2400,
         "currency": "USD",
         "value_usd": 2400
       },
       "apc_paid": {
-        "value": 2250,
+        "value": 2400,
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 4.0495,
+      "fwci": 4.0448,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.94988907,
+        "value": 0.94976164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10476,8 +10477,9 @@
           "source": {
             "id": "https://openalex.org/S4210179989",
             "display_name": "International Journal of Applied Earth Observation and Geoinformation",
-            "issn_l": "1569-8432",
+            "issn_l": "0303-2434",
             "issn": [
+              "0303-2434",
               "1569-8432",
               "1872-826X"
             ],
@@ -10538,8 +10540,9 @@
         "source": {
           "id": "https://openalex.org/S4210179989",
           "display_name": "International Journal of Applied Earth Observation and Geoinformation",
-          "issn_l": "1569-8432",
+          "issn_l": "0303-2434",
           "issn": [
+            "0303-2434",
             "1569-8432",
             "1872-826X"
           ],
@@ -11211,7 +11214,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12024,9 +12027,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -13489,9 +13492,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -14698,9 +14701,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15185,20 +15188,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1750,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
       "apc_paid": {
-        "value": 1750,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 6.4056,
+      "fwci": 6.3902,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.97389905,
+        "value": 0.97378256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16419,7 +16422,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18216,9 +18219,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -19601,9 +19604,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.550000011920929,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -20262,9 +20265,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21971,16 +21974,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.8627,
+      "fwci": 1.863,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.816533,
+        "value": 0.81661113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22222,9 +22225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22346,7 +22349,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-16T13:24:37.021932",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22641,20 +22644,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1700,
+        "value": 2000,
         "currency": "USD",
         "value_usd": 2000
       },
       "apc_paid": {
-        "value": 1700,
+        "value": 2000,
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 3.1728,
+      "fwci": 3.1738,
       "has_fulltext": true,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.90584218,
+        "value": 0.90590196,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23116,9 +23119,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -23834,7 +23837,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24324,9 +24327,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -26944,16 +26947,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 3450,
+        "value": 3500,
         "currency": "USD",
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.4993,
+      "fwci": 1.4976,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.79669353,
+        "value": 0.79640386,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27337,9 +27340,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -27456,7 +27459,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28244,9 +28247,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -29468,9 +29471,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30419,20 +30422,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1750,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
       "apc_paid": {
-        "value": 1750,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.2479,
+      "fwci": 2.243,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86827372,
+        "value": 0.8681387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30886,9 +30889,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -31642,7 +31645,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31832,20 +31835,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1250,
+        "value": 1450,
         "currency": "USD",
         "value_usd": 1450
       },
       "apc_paid": {
-        "value": 1250,
+        "value": 1450,
         "currency": "USD",
         "value_usd": 1450
       },
-      "fwci": 2.098,
+      "fwci": 2.0935,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.8533437,
+        "value": 0.85321101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32272,9 +32275,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -32885,7 +32888,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33567,9 +33570,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -34355,9 +34358,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -34846,16 +34849,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.2063,
+      "fwci": 1.8118,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86483337,
+        "value": 0.83438155,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35367,7 +35370,704 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4401767308",
+      "doi": "https://doi.org/10.1007/s13369-024-09494-5",
+      "title": "Delineation of the Optimal Groundwater Recharge Zone in Taif Basin, Western Saudi Arabia: Implication for Groundwater Sustainability",
+      "display_name": "Delineation of the Optimal Groundwater Recharge Zone in Taif Basin, Western Saudi Arabia: Implication for Groundwater Sustainability",
+      "publication_year": 2024,
+      "publication_date": "2024-08-20",
+      "ids": {
+        "openalex": "https://openalex.org/W4401767308",
+        "doi": "https://doi.org/10.1007/s13369-024-09494-5"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s13369-024-09494-5",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s13369-024-09494-5",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210185304",
+          "display_name": "Arabian Journal for Science and Engineering",
+          "issn_l": "1319-8025",
+          "issn": [
+            "1319-8025",
+            "2191-4281",
+            "2193-567X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal for Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034672880",
+            "display_name": "Ahmed M. Al‐Areeq",
+            "orcid": "https://orcid.org/0000-0003-0618-8190"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ahmed M. Al-Areeq",
+          "raw_affiliation_strings": [
+            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0618-8190",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030254447",
+            "display_name": "Amran A. Al Aghbari",
+            "orcid": "https://orcid.org/0000-0001-5696-4544"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amran A. Al Aghbari",
+          "raw_affiliation_strings": [
+            "College of Engineering and Physics, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Engineering and Physics, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027133282",
+            "display_name": "Shakhawat Chowdhury",
+            "orcid": "https://orcid.org/0000-0002-0329-2630"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shakhawat Chowdhury",
+          "raw_affiliation_strings": [
+            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113343630",
+            "display_name": "Mohammed S. Al-Suwaiyan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed S. Al-Suwaiyan",
+          "raw_affiliation_strings": [
+            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030371811",
+            "display_name": "Isam H. Aljundi",
+            "orcid": "https://orcid.org/0000-0002-0714-8580"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam Aljundi",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034672880"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3090,
+        "currency": "USD",
+        "value_usd": 3090
+      },
+      "apc_paid": null,
+      "fwci": 0.8131,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.65434888,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "50",
+        "issue": "3",
+        "first_page": "2109",
+        "last_page": "2122"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12543",
+        "display_name": "Groundwater and Watershed Analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12543",
+          "display_name": "Groundwater and Watershed Analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9958000183105469,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10330",
+          "display_name": "Hydrology and Watershed Management Studies",
+          "score": 0.9939000010490417,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/groundwater-recharge",
+          "display_name": "Groundwater recharge",
+          "score": 0.9146870374679565
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.8204606771469116
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.7146365642547607
+        },
+        {
+          "id": "https://openalex.org/keywords/sustainability",
+          "display_name": "Sustainability",
+          "score": 0.6277145147323608
+        },
+        {
+          "id": "https://openalex.org/keywords/depression-focused-recharge",
+          "display_name": "Depression-focused recharge",
+          "score": 0.5176499485969543
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.502208948135376
+        },
+        {
+          "id": "https://openalex.org/keywords/water-resource-management",
+          "display_name": "Water resource management",
+          "score": 0.4793684780597687
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.4753662943840027
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.43630093336105347
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.2457457184791565
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.20241069793701172
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.15174010396003723
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.07610756158828735
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C174091901",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Groundwater recharge",
+          "level": 4,
+          "score": 0.9146870374679565
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.8204606771469116
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.7146365642547607
+        },
+        {
+          "id": "https://openalex.org/C66204764",
+          "wikidata": "https://www.wikidata.org/wiki/Q219416",
+          "display_name": "Sustainability",
+          "level": 2,
+          "score": 0.6277145147323608
+        },
+        {
+          "id": "https://openalex.org/C187606762",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
+          "display_name": "Depression-focused recharge",
+          "level": 5,
+          "score": 0.5176499485969543
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.502208948135376
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.4793684780597687
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4753662943840027
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.43630093336105347
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.2457457184791565
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.20241069793701172
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.15174010396003723
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.07610756158828735
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s13369-024-09494-5",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s13369-024-09494-5",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210185304",
+            "display_name": "Arabian Journal for Science and Engineering",
+            "issn_l": "1319-8025",
+            "issn": [
+              "1319-8025",
+              "2191-4281",
+              "2193-567X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal for Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W71683706",
+        "https://openalex.org/W1989319038",
+        "https://openalex.org/W2043561677",
+        "https://openalex.org/W2091337353",
+        "https://openalex.org/W2123771479",
+        "https://openalex.org/W2128831146",
+        "https://openalex.org/W2278830514",
+        "https://openalex.org/W2341489499",
+        "https://openalex.org/W2520077707",
+        "https://openalex.org/W2914012905",
+        "https://openalex.org/W3005761411",
+        "https://openalex.org/W3007712371",
+        "https://openalex.org/W3008544501",
+        "https://openalex.org/W3008649749",
+        "https://openalex.org/W3021753068",
+        "https://openalex.org/W3032905851",
+        "https://openalex.org/W3100271107",
+        "https://openalex.org/W3157307553",
+        "https://openalex.org/W3162826256",
+        "https://openalex.org/W3164285708",
+        "https://openalex.org/W3179531231",
+        "https://openalex.org/W3192551383",
+        "https://openalex.org/W3197596670",
+        "https://openalex.org/W4200192709",
+        "https://openalex.org/W4302286523",
+        "https://openalex.org/W4362580681",
+        "https://openalex.org/W4381112748",
+        "https://openalex.org/W4382136343",
+        "https://openalex.org/W4385147007",
+        "https://openalex.org/W4386137375",
+        "https://openalex.org/W4390614086",
+        "https://openalex.org/W4390826128",
+        "https://openalex.org/W4396952078",
+        "https://openalex.org/W4399216600"
+      ],
+      "related_works": [
+        "https://openalex.org/W2312857012",
+        "https://openalex.org/W2232202086",
+        "https://openalex.org/W4313478716",
+        "https://openalex.org/W4307730513",
+        "https://openalex.org/W1598482965",
+        "https://openalex.org/W4312116679",
+        "https://openalex.org/W2125007802",
+        "https://openalex.org/W3197247591",
+        "https://openalex.org/W2569512405",
+        "https://openalex.org/W3008350115"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37352,9 +38052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -37585,7 +38285,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -37647,7 +38347,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -38187,11 +38887,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.1955,
+      "fwci": 1.1898,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.78185444,
+        "value": 0.78066701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39145,7 +39845,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -40256,16 +40956,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.7785,
+      "fwci": 1.4678,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.82845086,
+        "value": 0.78633698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40508,9 +41208,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -40604,7 +41304,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41660,9 +42360,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -42926,9 +43626,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -43023,703 +43723,6 @@
         }
       ],
       "updated_date": "2026-07-22T07:51:19.307946",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4401767308",
-      "doi": "https://doi.org/10.1007/s13369-024-09494-5",
-      "title": "Delineation of the Optimal Groundwater Recharge Zone in Taif Basin, Western Saudi Arabia: Implication for Groundwater Sustainability",
-      "display_name": "Delineation of the Optimal Groundwater Recharge Zone in Taif Basin, Western Saudi Arabia: Implication for Groundwater Sustainability",
-      "publication_year": 2024,
-      "publication_date": "2024-08-20",
-      "ids": {
-        "openalex": "https://openalex.org/W4401767308",
-        "doi": "https://doi.org/10.1007/s13369-024-09494-5"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s13369-024-09494-5",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s13369-024-09494-5",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210185304",
-          "display_name": "Arabian Journal for Science and Engineering",
-          "issn_l": "1319-8025",
-          "issn": [
-            "1319-8025",
-            "2191-4281",
-            "2193-567X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal for Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034672880",
-            "display_name": "Ahmed M. Al‐Areeq",
-            "orcid": "https://orcid.org/0000-0003-0618-8190"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ahmed M. Al-Areeq",
-          "raw_affiliation_strings": [
-            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-0618-8190",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030254447",
-            "display_name": "Amran A. Al Aghbari",
-            "orcid": "https://orcid.org/0000-0001-5696-4544"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Amran A. Al Aghbari",
-          "raw_affiliation_strings": [
-            "College of Engineering and Physics, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Engineering and Physics, King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027133282",
-            "display_name": "Shakhawat Chowdhury",
-            "orcid": "https://orcid.org/0000-0002-0329-2630"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shakhawat Chowdhury",
-          "raw_affiliation_strings": [
-            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113343630",
-            "display_name": "Mohammed S. Al-Suwaiyan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed S. Al-Suwaiyan",
-          "raw_affiliation_strings": [
-            "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil and Environmental Engineering, King Fahd University of Petroleum and Minerals (KFUPM, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials (IRC-CBM), King Fahd University of Petroleum and Minerals (KFUPM), 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam Aljundi",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5034672880"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
-        "value_usd": 3090
-      },
-      "apc_paid": null,
-      "fwci": 0.8317,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.68706415,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "50",
-        "issue": "3",
-        "first_page": "2109",
-        "last_page": "2122"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12543",
-        "display_name": "Groundwater and Watershed Analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12543",
-          "display_name": "Groundwater and Watershed Analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9958000183105469,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10330",
-          "display_name": "Hydrology and Watershed Management Studies",
-          "score": 0.9939000010490417,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/groundwater-recharge",
-          "display_name": "Groundwater recharge",
-          "score": 0.9146870374679565
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.8204606771469116
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.7146365642547607
-        },
-        {
-          "id": "https://openalex.org/keywords/sustainability",
-          "display_name": "Sustainability",
-          "score": 0.6277145147323608
-        },
-        {
-          "id": "https://openalex.org/keywords/depression-focused-recharge",
-          "display_name": "Depression-focused recharge",
-          "score": 0.5176499485969543
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.502208948135376
-        },
-        {
-          "id": "https://openalex.org/keywords/water-resource-management",
-          "display_name": "Water resource management",
-          "score": 0.4793684780597687
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.4753662943840027
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.43630093336105347
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.2457457184791565
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.20241069793701172
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.15174010396003723
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.07610756158828735
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C174091901",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Groundwater recharge",
-          "level": 4,
-          "score": 0.9146870374679565
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.8204606771469116
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.7146365642547607
-        },
-        {
-          "id": "https://openalex.org/C66204764",
-          "wikidata": "https://www.wikidata.org/wiki/Q219416",
-          "display_name": "Sustainability",
-          "level": 2,
-          "score": 0.6277145147323608
-        },
-        {
-          "id": "https://openalex.org/C187606762",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670986",
-          "display_name": "Depression-focused recharge",
-          "level": 5,
-          "score": 0.5176499485969543
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.502208948135376
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.4793684780597687
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4753662943840027
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.43630093336105347
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.2457457184791565
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.20241069793701172
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.15174010396003723
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.07610756158828735
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s13369-024-09494-5",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s13369-024-09494-5",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210185304",
-            "display_name": "Arabian Journal for Science and Engineering",
-            "issn_l": "1319-8025",
-            "issn": [
-              "1319-8025",
-              "2191-4281",
-              "2193-567X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal for Science and Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W71683706",
-        "https://openalex.org/W1989319038",
-        "https://openalex.org/W2043561677",
-        "https://openalex.org/W2091337353",
-        "https://openalex.org/W2123771479",
-        "https://openalex.org/W2128831146",
-        "https://openalex.org/W2278830514",
-        "https://openalex.org/W2341489499",
-        "https://openalex.org/W2520077707",
-        "https://openalex.org/W2914012905",
-        "https://openalex.org/W3005761411",
-        "https://openalex.org/W3007712371",
-        "https://openalex.org/W3008544501",
-        "https://openalex.org/W3008649749",
-        "https://openalex.org/W3021753068",
-        "https://openalex.org/W3032905851",
-        "https://openalex.org/W3100271107",
-        "https://openalex.org/W3157307553",
-        "https://openalex.org/W3162826256",
-        "https://openalex.org/W3164285708",
-        "https://openalex.org/W3179531231",
-        "https://openalex.org/W3192551383",
-        "https://openalex.org/W3197596670",
-        "https://openalex.org/W4200192709",
-        "https://openalex.org/W4302286523",
-        "https://openalex.org/W4362580681",
-        "https://openalex.org/W4381112748",
-        "https://openalex.org/W4382136343",
-        "https://openalex.org/W4385147007",
-        "https://openalex.org/W4386137375",
-        "https://openalex.org/W4390614086",
-        "https://openalex.org/W4390826128",
-        "https://openalex.org/W4396952078",
-        "https://openalex.org/W4399216600"
-      ],
-      "related_works": [
-        "https://openalex.org/W2312857012",
-        "https://openalex.org/W2232202086",
-        "https://openalex.org/W4313478716",
-        "https://openalex.org/W4307730513",
-        "https://openalex.org/W1598482965",
-        "https://openalex.org/W4312116679",
-        "https://openalex.org/W2125007802",
-        "https://openalex.org/W3197247591",
-        "https://openalex.org/W2569512405",
-        "https://openalex.org/W3008350115"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-07-07T14:30:12.667765",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44111,9 +44114,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [
@@ -44676,1002 +44679,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W7117488147",
-      "doi": "https://doi.org/10.1007/s10333-025-01055-2",
-      "title": "Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia",
-      "display_name": "Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia",
-      "publication_year": 2025,
-      "publication_date": "2025-12-29",
-      "ids": {
-        "openalex": "https://openalex.org/W7117488147",
-        "doi": "https://doi.org/10.1007/s10333-025-01055-2"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s10333-025-01055-2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s10333-025-01055-2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S73408372",
-          "display_name": "Paddy and Water Environment",
-          "issn_l": "1611-2490",
-          "issn": [
-            "1611-2490",
-            "1611-2504"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Paddy and Water Environment",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5087168718",
-            "display_name": "Naseem Akhtar",
-            "orcid": "https://orcid.org/0000-0002-0211-6854"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139322472",
-              "display_name": "Universiti Sains Malaysia",
-              "ror": "https://ror.org/02rgb2k63",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139322472"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210161365",
-              "display_name": "Libyan Academy",
-              "ror": "https://ror.org/05s3qq987",
-              "country_code": "LY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210161365"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I885383172",
-              "display_name": "National University of Malaysia",
-              "ror": "https://ror.org/00bw8d226",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ],
-          "countries": [
-            "LY",
-            "MY"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Naseem Akhtar",
-          "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-            "Libyan Centre for Research and Studies of Water, Soil and Combatting Desertification, Sabratha, Libya",
-            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-0211-6854",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Libyan Centre for Research and Studies of Water, Soil and Combatting Desertification, Sabratha, Libya",
-              "institution_ids": [
-                "https://openalex.org/I4210161365"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Muhammad Izzuddin Syakir",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139322472",
-              "display_name": "Universiti Sains Malaysia",
-              "ror": "https://ror.org/02rgb2k63",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Muhammad Izzuddin Syakir",
-          "raw_affiliation_strings": [
-            "Centre for Global Sustainability Studies, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centre for Global Sustainability Studies, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037392174",
-            "display_name": "Syahidah Akmal Muhammad",
-            "orcid": "https://orcid.org/0000-0003-4721-1019"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139322472",
-              "display_name": "Universiti Sains Malaysia",
-              "ror": "https://ror.org/02rgb2k63",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Syahidah Akmal Muhammad",
-          "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024473066",
-            "display_name": "Aznan Fazli Ismail",
-            "orcid": "https://orcid.org/0000-0001-7733-2888"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I885383172",
-              "display_name": "National University of Malaysia",
-              "ror": "https://ror.org/00bw8d226",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Aznan Fazli Ismail",
-          "raw_affiliation_strings": [
-            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5049066509",
-            "display_name": "Mohamad Shaiful Md Yusuff",
-            "orcid": "https://orcid.org/0000-0002-1889-0342"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139322472",
-              "display_name": "Universiti Sains Malaysia",
-              "ror": "https://ror.org/02rgb2k63",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamad Shaiful Md. Yusuff",
-          "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064450267",
-            "display_name": "Leila Bouida",
-            "orcid": "https://orcid.org/0000-0003-4045-0172"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139322472",
-              "display_name": "Universiti Sains Malaysia",
-              "ror": "https://ror.org/02rgb2k63",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Leila Bouida",
-          "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I139322472"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5095460378",
-            "display_name": "Hamza Mohamed Flafel",
-            "orcid": "https://orcid.org/0009-0002-1364-983X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210116937",
-              "display_name": "Center for Solar Energy Research and Studies",
-              "ror": "https://ror.org/02dsehb09",
-              "country_code": "LY",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210116937"
-              ]
-            }
-          ],
-          "countries": [
-            "LY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hamza Mohamed Flafel",
-          "raw_affiliation_strings": [
-            "Department of Environmental Science, Faculty of Environment & Natural Resources, Wadi Al-Shatti University, Brack Al-Shatti, Libya",
-            "Libyan Center for Studies and Research in Environmental Science and Technology, Brack Al-Shatti, Libya"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Environmental Science, Faculty of Environment & Natural Resources, Wadi Al-Shatti University, Brack Al-Shatti, Libya",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Libyan Center for Studies and Research in Environmental Science and Technology, Brack Al-Shatti, Libya",
-              "institution_ids": [
-                "https://openalex.org/I4210116937"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5001435644",
-            "display_name": "Pahmi Husain",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210135673",
-              "display_name": "Universitas Nahdlatul Wathan Mataram",
-              "ror": "https://ror.org/04dfxm579",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210135673"
-              ]
-            }
-          ],
-          "countries": [
-            "ID"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Pahmi Husain",
-          "raw_affiliation_strings": [
-            "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia",
-              "institution_ids": [
-                "https://openalex.org/I4210135673"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102075737",
-            "display_name": "Taskin Ahmed",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I171210897",
-              "display_name": "Aligarh Muslim University",
-              "ror": "https://ror.org/03kw9gc02",
-              "country_code": "IN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I171210897"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Taskin Ahmed",
-          "raw_affiliation_strings": [
-            "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India",
-              "institution_ids": [
-                "https://openalex.org/I171210897"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5018844662",
-            "display_name": "Mohammad Muqtada Ali Khan",
-            "orcid": "https://orcid.org/0000-0001-9737-3177"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I226432",
-              "display_name": "Universiti Malaysia Kelantan",
-              "ror": "https://ror.org/0463y2v87",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I226432"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Muqtada Ali Khan",
-          "raw_affiliation_strings": [
-            "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I226432"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5037392174",
-        "https://openalex.org/A5087168718"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139322472",
-        "https://openalex.org/I4210161365",
-        "https://openalex.org/I885383172"
-      ],
-      "apc_list": {
-        "value": 2690,
-        "currency": "EUR",
-        "value_usd": 3490
-      },
-      "apc_paid": null,
-      "fwci": 0.5765,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.73260158,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "24",
-        "issue": "1",
-        "first_page": "115",
-        "last_page": "137"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12543",
-        "display_name": "Groundwater and Watershed Analysis",
-        "score": 0.3140999972820282,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12543",
-          "display_name": "Groundwater and Watershed Analysis",
-          "score": 0.3140999972820282,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.1964000016450882,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10572",
-          "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 0.09950000047683716,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/drawdown",
-          "display_name": "Drawdown (hydrology)",
-          "score": 0.8736000061035156
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.7864999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/irrigation",
-          "display_name": "Irrigation",
-          "score": 0.6890000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.6324999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.588100016117096
-        },
-        {
-          "id": "https://openalex.org/keywords/hydraulic-conductivity",
-          "display_name": "Hydraulic conductivity",
-          "score": 0.5838000178337097
-        },
-        {
-          "id": "https://openalex.org/keywords/yield",
-          "display_name": "Yield (engineering)",
-          "score": 0.5676000118255615
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.5669999718666077
-        },
-        {
-          "id": "https://openalex.org/keywords/hydraulics",
-          "display_name": "Hydraulics",
-          "score": 0.4607999920845032
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777038186",
-          "wikidata": "https://www.wikidata.org/wiki/Q5306028",
-          "display_name": "Drawdown (hydrology)",
-          "level": 4,
-          "score": 0.8736000061035156
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.7864999771118164
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.7142999768257141
-        },
-        {
-          "id": "https://openalex.org/C88862950",
-          "wikidata": "https://www.wikidata.org/wiki/Q11453",
-          "display_name": "Irrigation",
-          "level": 2,
-          "score": 0.6890000104904175
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.6324999928474426
-        },
-        {
-          "id": "https://openalex.org/C33556824",
-          "wikidata": "https://www.wikidata.org/wiki/Q179509",
-          "display_name": "Hydrogeology",
-          "level": 2,
-          "score": 0.588100016117096
-        },
-        {
-          "id": "https://openalex.org/C63184880",
-          "wikidata": "https://www.wikidata.org/wiki/Q2783041",
-          "display_name": "Hydraulic conductivity",
-          "level": 3,
-          "score": 0.5838000178337097
-        },
-        {
-          "id": "https://openalex.org/C134121241",
-          "wikidata": "https://www.wikidata.org/wiki/Q899301",
-          "display_name": "Yield (engineering)",
-          "level": 2,
-          "score": 0.5676000118255615
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.5669999718666077
-        },
-        {
-          "id": "https://openalex.org/C169961344",
-          "wikidata": "https://www.wikidata.org/wiki/Q177784",
-          "display_name": "Hydraulics",
-          "level": 2,
-          "score": 0.4607999920845032
-        },
-        {
-          "id": "https://openalex.org/C204983608",
-          "wikidata": "https://www.wikidata.org/wiki/Q2111958",
-          "display_name": "Productivity",
-          "level": 2,
-          "score": 0.4180999994277954
-        },
-        {
-          "id": "https://openalex.org/C176205827",
-          "wikidata": "https://www.wikidata.org/wiki/Q5435593",
-          "display_name": "Farm water",
-          "level": 4,
-          "score": 0.37459999322891235
-        },
-        {
-          "id": "https://openalex.org/C126343540",
-          "wikidata": "https://www.wikidata.org/wiki/Q889514",
-          "display_name": "Crop yield",
-          "level": 2,
-          "score": 0.37290000915527344
-        },
-        {
-          "id": "https://openalex.org/C118518473",
-          "wikidata": "https://www.wikidata.org/wiki/Q11451",
-          "display_name": "Agriculture",
-          "level": 2,
-          "score": 0.3386000096797943
-        },
-        {
-          "id": "https://openalex.org/C159390177",
-          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
-          "display_name": "Soil science",
-          "level": 1,
-          "score": 0.3384999930858612
-        },
-        {
-          "id": "https://openalex.org/C153823671",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
-          "display_name": "Water resources",
-          "level": 2,
-          "score": 0.33570000529289246
-        },
-        {
-          "id": "https://openalex.org/C87717796",
-          "wikidata": "https://www.wikidata.org/wiki/Q146326",
-          "display_name": "Environmental engineering",
-          "level": 1,
-          "score": 0.31839999556541443
-        },
-        {
-          "id": "https://openalex.org/C149207113",
-          "wikidata": "https://www.wikidata.org/wiki/Q26534",
-          "display_name": "Water use",
-          "level": 2,
-          "score": 0.29739999771118164
-        },
-        {
-          "id": "https://openalex.org/C47568318",
-          "wikidata": "https://www.wikidata.org/wiki/Q656586",
-          "display_name": "Alluvial plain",
-          "level": 2,
-          "score": 0.2816999852657318
-        },
-        {
-          "id": "https://openalex.org/C159750122",
-          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
-          "display_name": "Soil water",
-          "level": 2,
-          "score": 0.2800999879837036
-        },
-        {
-          "id": "https://openalex.org/C69823785",
-          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
-          "display_name": "Alluvium",
-          "level": 2,
-          "score": 0.2775000035762787
-        },
-        {
-          "id": "https://openalex.org/C126691448",
-          "wikidata": "https://www.wikidata.org/wiki/Q2028919",
-          "display_name": "Magnitude (astronomy)",
-          "level": 2,
-          "score": 0.27390000224113464
-        },
-        {
-          "id": "https://openalex.org/C2776182401",
-          "wikidata": "https://www.wikidata.org/wiki/Q7973769",
-          "display_name": "Water storage",
-          "level": 3,
-          "score": 0.2732999920845032
-        },
-        {
-          "id": "https://openalex.org/C2780797713",
-          "wikidata": "https://www.wikidata.org/wiki/Q625376",
-          "display_name": "Water quality",
-          "level": 2,
-          "score": 0.2689000070095062
-        },
-        {
-          "id": "https://openalex.org/C148043351",
-          "wikidata": "https://www.wikidata.org/wiki/Q4456944",
-          "display_name": "Current (fluid)",
-          "level": 2,
-          "score": 0.25119999051094055
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s10333-025-01055-2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s10333-025-01055-2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S73408372",
-            "display_name": "Paddy and Water Environment",
-            "issn_l": "1611-2490",
-            "issn": [
-              "1611-2490",
-              "1611-2504"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Paddy and Water Environment",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 79,
-      "referenced_works": [
-        "https://openalex.org/W640524136",
-        "https://openalex.org/W1569528324",
-        "https://openalex.org/W1974973169",
-        "https://openalex.org/W1977850182",
-        "https://openalex.org/W2004108598",
-        "https://openalex.org/W2009130439",
-        "https://openalex.org/W2012344934",
-        "https://openalex.org/W2052977807",
-        "https://openalex.org/W2059741201",
-        "https://openalex.org/W2065463790",
-        "https://openalex.org/W2093668377",
-        "https://openalex.org/W2108934303",
-        "https://openalex.org/W2112986594",
-        "https://openalex.org/W2143776182",
-        "https://openalex.org/W2144658440",
-        "https://openalex.org/W2155347783",
-        "https://openalex.org/W2161644011",
-        "https://openalex.org/W2162287782",
-        "https://openalex.org/W2165613323",
-        "https://openalex.org/W2170423174",
-        "https://openalex.org/W2247993221",
-        "https://openalex.org/W2260734462",
-        "https://openalex.org/W2284839778",
-        "https://openalex.org/W2336710613",
-        "https://openalex.org/W2478719391",
-        "https://openalex.org/W2618393405",
-        "https://openalex.org/W2753617882",
-        "https://openalex.org/W2755905524",
-        "https://openalex.org/W2808812587",
-        "https://openalex.org/W2886293974",
-        "https://openalex.org/W2892049703",
-        "https://openalex.org/W2893214210",
-        "https://openalex.org/W2900882491",
-        "https://openalex.org/W2910884672",
-        "https://openalex.org/W2911864505",
-        "https://openalex.org/W2917269896",
-        "https://openalex.org/W2922953345",
-        "https://openalex.org/W2934134129",
-        "https://openalex.org/W2938584928",
-        "https://openalex.org/W2943754030",
-        "https://openalex.org/W2954204052",
-        "https://openalex.org/W2964496498",
-        "https://openalex.org/W2964946495",
-        "https://openalex.org/W2966722893",
-        "https://openalex.org/W2972570273",
-        "https://openalex.org/W2980325481",
-        "https://openalex.org/W2980882505",
-        "https://openalex.org/W3000608305",
-        "https://openalex.org/W3004972303",
-        "https://openalex.org/W3008377746",
-        "https://openalex.org/W3033047697",
-        "https://openalex.org/W3038386346",
-        "https://openalex.org/W3039004909",
-        "https://openalex.org/W3041755218",
-        "https://openalex.org/W3046521247",
-        "https://openalex.org/W3046834006",
-        "https://openalex.org/W3096964480",
-        "https://openalex.org/W3110776498",
-        "https://openalex.org/W3111342273",
-        "https://openalex.org/W3126337041",
-        "https://openalex.org/W3135713009",
-        "https://openalex.org/W3163643311",
-        "https://openalex.org/W3190137384",
-        "https://openalex.org/W3207804712",
-        "https://openalex.org/W3213816487",
-        "https://openalex.org/W4206402561",
-        "https://openalex.org/W4210927912",
-        "https://openalex.org/W4213018897",
-        "https://openalex.org/W4213229350",
-        "https://openalex.org/W4214830838",
-        "https://openalex.org/W4220724401",
-        "https://openalex.org/W4225371750",
-        "https://openalex.org/W4229742236",
-        "https://openalex.org/W4241256420",
-        "https://openalex.org/W4281249707",
-        "https://openalex.org/W4282600382",
-        "https://openalex.org/W4285792011",
-        "https://openalex.org/W4362638703",
-        "https://openalex.org/W4386284105"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-06-13T06:13:01.061226",
-      "created_date": "2025-12-29T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2592077334",
       "doi": "https://doi.org/10.1007/s12517-017-2860-0",
       "title": "Analysis of lineaments within the Wajid Group, SW Saudi Arabia, and their tectonic significance",
@@ -45927,16 +44934,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.6425,
+      "fwci": 0.6426,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.6512716,
+        "value": 0.65128989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46154,9 +45161,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -46264,7 +45271,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46580,13 +45587,17 @@
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 3210,
+        "currency": "USD",
+        "value_usd": 3210
+      },
       "apc_paid": null,
       "fwci": 0.6522,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.63408394,
+        "value": 0.6341132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46876,9 +45887,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -47015,7 +46026,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47736,9 +46747,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -48822,16 +47833,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.8889,
+      "fwci": 0.7477,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.72470588,
+        "value": 0.6729902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49133,9 +48144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -49227,7 +48238,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-12T07:33:03.550515",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49504,16 +48515,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 3880,
+        "value": 3640,
         "currency": "USD",
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.7005,
+      "fwci": 1.6929,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.81390715,
+        "value": 0.81309218,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49860,9 +48871,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -49978,7 +48989,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50312,16 +49323,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2690,
-        "currency": "EUR",
+        "value": 3390,
+        "currency": "USD",
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.681,
+      "fwci": 0.6794,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.68581412,
+        "value": 0.68497554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50611,9 +49622,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -50714,7 +49725,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50979,21 +49990,21 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2290,
-        "currency": "EUR",
+        "value": 2890,
+        "currency": "USD",
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 1.7557,
+      "fwci": 1.4366,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82502171,
+        "value": 0.78650583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 97
       },
       "biblio": {
@@ -51317,7 +50328,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-02T06:12:58.138171",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52727,6 +51738,1002 @@
       "created_date": "2025-10-30T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7117488147",
+      "doi": "https://doi.org/10.1007/s10333-025-01055-2",
+      "title": "Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia",
+      "display_name": "Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia",
+      "publication_year": 2025,
+      "publication_date": "2025-12-29",
+      "ids": {
+        "openalex": "https://openalex.org/W7117488147",
+        "doi": "https://doi.org/10.1007/s10333-025-01055-2"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s10333-025-01055-2",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s10333-025-01055-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S73408372",
+          "display_name": "Paddy and Water Environment",
+          "issn_l": "1611-2490",
+          "issn": [
+            "1611-2490",
+            "1611-2504"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Paddy and Water Environment",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087168718",
+            "display_name": "Naseem Akhtar",
+            "orcid": "https://orcid.org/0000-0002-0211-6854"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139322472",
+              "display_name": "Universiti Sains Malaysia",
+              "ror": "https://ror.org/02rgb2k63",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210161365",
+              "display_name": "Libyan Academy",
+              "ror": "https://ror.org/05s3qq987",
+              "country_code": "LY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210161365"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I885383172",
+              "display_name": "National University of Malaysia",
+              "ror": "https://ror.org/00bw8d226",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ],
+          "countries": [
+            "LY",
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Naseem Akhtar",
+          "raw_affiliation_strings": [
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Libyan Centre for Research and Studies of Water, Soil and Combatting Desertification, Sabratha, Libya",
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0211-6854",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Libyan Centre for Research and Studies of Water, Soil and Combatting Desertification, Sabratha, Libya",
+              "institution_ids": [
+                "https://openalex.org/I4210161365"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Muhammad Izzuddin Syakir",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139322472",
+              "display_name": "Universiti Sains Malaysia",
+              "ror": "https://ror.org/02rgb2k63",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Muhammad Izzuddin Syakir",
+          "raw_affiliation_strings": [
+            "Centre for Global Sustainability Studies, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Global Sustainability Studies, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037392174",
+            "display_name": "Syahidah Akmal Muhammad",
+            "orcid": "https://orcid.org/0000-0003-4721-1019"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139322472",
+              "display_name": "Universiti Sains Malaysia",
+              "ror": "https://ror.org/02rgb2k63",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Syahidah Akmal Muhammad",
+          "raw_affiliation_strings": [
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024473066",
+            "display_name": "Aznan Fazli Ismail",
+            "orcid": "https://orcid.org/0000-0001-7733-2888"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I885383172",
+              "display_name": "National University of Malaysia",
+              "ror": "https://ror.org/00bw8d226",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aznan Fazli Ismail",
+          "raw_affiliation_strings": [
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049066509",
+            "display_name": "Mohamad Shaiful Md Yusuff",
+            "orcid": "https://orcid.org/0000-0002-1889-0342"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139322472",
+              "display_name": "Universiti Sains Malaysia",
+              "ror": "https://ror.org/02rgb2k63",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamad Shaiful Md. Yusuff",
+          "raw_affiliation_strings": [
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064450267",
+            "display_name": "Leila Bouida",
+            "orcid": "https://orcid.org/0000-0003-4045-0172"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139322472",
+              "display_name": "Universiti Sains Malaysia",
+              "ror": "https://ror.org/02rgb2k63",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Leila Bouida",
+          "raw_affiliation_strings": [
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5095460378",
+            "display_name": "Hamza Mohamed Flafel",
+            "orcid": "https://orcid.org/0009-0002-1364-983X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210116937",
+              "display_name": "Center for Solar Energy Research and Studies",
+              "ror": "https://ror.org/02dsehb09",
+              "country_code": "LY",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210116937"
+              ]
+            }
+          ],
+          "countries": [
+            "LY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamza Mohamed Flafel",
+          "raw_affiliation_strings": [
+            "Department of Environmental Science, Faculty of Environment & Natural Resources, Wadi Al-Shatti University, Brack Al-Shatti, Libya",
+            "Libyan Center for Studies and Research in Environmental Science and Technology, Brack Al-Shatti, Libya"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Science, Faculty of Environment & Natural Resources, Wadi Al-Shatti University, Brack Al-Shatti, Libya",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Libyan Center for Studies and Research in Environmental Science and Technology, Brack Al-Shatti, Libya",
+              "institution_ids": [
+                "https://openalex.org/I4210116937"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001435644",
+            "display_name": "Pahmi Husain",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210135673",
+              "display_name": "Universitas Nahdlatul Wathan Mataram",
+              "ror": "https://ror.org/04dfxm579",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210135673"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pahmi Husain",
+          "raw_affiliation_strings": [
+            "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I4210135673"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102075737",
+            "display_name": "Taskin Ahmed",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I171210897",
+              "display_name": "Aligarh Muslim University",
+              "ror": "https://ror.org/03kw9gc02",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I171210897"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Taskin Ahmed",
+          "raw_affiliation_strings": [
+            "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India",
+              "institution_ids": [
+                "https://openalex.org/I171210897"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5018844662",
+            "display_name": "Mohammad Muqtada Ali Khan",
+            "orcid": "https://orcid.org/0000-0001-9737-3177"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I226432",
+              "display_name": "Universiti Malaysia Kelantan",
+              "ror": "https://ror.org/0463y2v87",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I226432"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Muqtada Ali Khan",
+          "raw_affiliation_strings": [
+            "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I226432"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5037392174",
+        "https://openalex.org/A5087168718"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139322472",
+        "https://openalex.org/I4210161365",
+        "https://openalex.org/I885383172"
+      ],
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "apc_paid": null,
+      "fwci": 0.3966,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.63142225,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "24",
+        "issue": "1",
+        "first_page": "115",
+        "last_page": "137"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12543",
+        "display_name": "Groundwater and Watershed Analysis",
+        "score": 0.3140999972820282,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12543",
+          "display_name": "Groundwater and Watershed Analysis",
+          "score": 0.3140999972820282,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.1964000016450882,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.09950000047683716,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/drawdown",
+          "display_name": "Drawdown (hydrology)",
+          "score": 0.8736000061035156
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.7864999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/irrigation",
+          "display_name": "Irrigation",
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.6324999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogeology",
+          "display_name": "Hydrogeology",
+          "score": 0.588100016117096
+        },
+        {
+          "id": "https://openalex.org/keywords/hydraulic-conductivity",
+          "display_name": "Hydraulic conductivity",
+          "score": 0.5838000178337097
+        },
+        {
+          "id": "https://openalex.org/keywords/yield",
+          "display_name": "Yield (engineering)",
+          "score": 0.5676000118255615
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.5669999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/hydraulics",
+          "display_name": "Hydraulics",
+          "score": 0.4607999920845032
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777038186",
+          "wikidata": "https://www.wikidata.org/wiki/Q5306028",
+          "display_name": "Drawdown (hydrology)",
+          "level": 4,
+          "score": 0.8736000061035156
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.7864999771118164
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.7142999768257141
+        },
+        {
+          "id": "https://openalex.org/C88862950",
+          "wikidata": "https://www.wikidata.org/wiki/Q11453",
+          "display_name": "Irrigation",
+          "level": 2,
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.6324999928474426
+        },
+        {
+          "id": "https://openalex.org/C33556824",
+          "wikidata": "https://www.wikidata.org/wiki/Q179509",
+          "display_name": "Hydrogeology",
+          "level": 2,
+          "score": 0.588100016117096
+        },
+        {
+          "id": "https://openalex.org/C63184880",
+          "wikidata": "https://www.wikidata.org/wiki/Q2783041",
+          "display_name": "Hydraulic conductivity",
+          "level": 3,
+          "score": 0.5838000178337097
+        },
+        {
+          "id": "https://openalex.org/C134121241",
+          "wikidata": "https://www.wikidata.org/wiki/Q899301",
+          "display_name": "Yield (engineering)",
+          "level": 2,
+          "score": 0.5676000118255615
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.5669999718666077
+        },
+        {
+          "id": "https://openalex.org/C169961344",
+          "wikidata": "https://www.wikidata.org/wiki/Q177784",
+          "display_name": "Hydraulics",
+          "level": 2,
+          "score": 0.4607999920845032
+        },
+        {
+          "id": "https://openalex.org/C204983608",
+          "wikidata": "https://www.wikidata.org/wiki/Q2111958",
+          "display_name": "Productivity",
+          "level": 2,
+          "score": 0.4180999994277954
+        },
+        {
+          "id": "https://openalex.org/C176205827",
+          "wikidata": "https://www.wikidata.org/wiki/Q5435593",
+          "display_name": "Farm water",
+          "level": 4,
+          "score": 0.37459999322891235
+        },
+        {
+          "id": "https://openalex.org/C126343540",
+          "wikidata": "https://www.wikidata.org/wiki/Q889514",
+          "display_name": "Crop yield",
+          "level": 2,
+          "score": 0.37290000915527344
+        },
+        {
+          "id": "https://openalex.org/C118518473",
+          "wikidata": "https://www.wikidata.org/wiki/Q11451",
+          "display_name": "Agriculture",
+          "level": 2,
+          "score": 0.3386000096797943
+        },
+        {
+          "id": "https://openalex.org/C159390177",
+          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+          "display_name": "Soil science",
+          "level": 1,
+          "score": 0.3384999930858612
+        },
+        {
+          "id": "https://openalex.org/C153823671",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+          "display_name": "Water resources",
+          "level": 2,
+          "score": 0.33570000529289246
+        },
+        {
+          "id": "https://openalex.org/C87717796",
+          "wikidata": "https://www.wikidata.org/wiki/Q146326",
+          "display_name": "Environmental engineering",
+          "level": 1,
+          "score": 0.31839999556541443
+        },
+        {
+          "id": "https://openalex.org/C149207113",
+          "wikidata": "https://www.wikidata.org/wiki/Q26534",
+          "display_name": "Water use",
+          "level": 2,
+          "score": 0.29739999771118164
+        },
+        {
+          "id": "https://openalex.org/C47568318",
+          "wikidata": "https://www.wikidata.org/wiki/Q656586",
+          "display_name": "Alluvial plain",
+          "level": 2,
+          "score": 0.2816999852657318
+        },
+        {
+          "id": "https://openalex.org/C159750122",
+          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+          "display_name": "Soil water",
+          "level": 2,
+          "score": 0.2800999879837036
+        },
+        {
+          "id": "https://openalex.org/C69823785",
+          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
+          "display_name": "Alluvium",
+          "level": 2,
+          "score": 0.2775000035762787
+        },
+        {
+          "id": "https://openalex.org/C126691448",
+          "wikidata": "https://www.wikidata.org/wiki/Q2028919",
+          "display_name": "Magnitude (astronomy)",
+          "level": 2,
+          "score": 0.27390000224113464
+        },
+        {
+          "id": "https://openalex.org/C2776182401",
+          "wikidata": "https://www.wikidata.org/wiki/Q7973769",
+          "display_name": "Water storage",
+          "level": 3,
+          "score": 0.2732999920845032
+        },
+        {
+          "id": "https://openalex.org/C2780797713",
+          "wikidata": "https://www.wikidata.org/wiki/Q625376",
+          "display_name": "Water quality",
+          "level": 2,
+          "score": 0.2689000070095062
+        },
+        {
+          "id": "https://openalex.org/C148043351",
+          "wikidata": "https://www.wikidata.org/wiki/Q4456944",
+          "display_name": "Current (fluid)",
+          "level": 2,
+          "score": 0.25119999051094055
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s10333-025-01055-2",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s10333-025-01055-2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S73408372",
+            "display_name": "Paddy and Water Environment",
+            "issn_l": "1611-2490",
+            "issn": [
+              "1611-2490",
+              "1611-2504"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Paddy and Water Environment",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 79,
+      "referenced_works": [
+        "https://openalex.org/W640524136",
+        "https://openalex.org/W1569528324",
+        "https://openalex.org/W1974973169",
+        "https://openalex.org/W1977850182",
+        "https://openalex.org/W2004108598",
+        "https://openalex.org/W2009130439",
+        "https://openalex.org/W2012344934",
+        "https://openalex.org/W2052977807",
+        "https://openalex.org/W2059741201",
+        "https://openalex.org/W2065463790",
+        "https://openalex.org/W2093668377",
+        "https://openalex.org/W2108934303",
+        "https://openalex.org/W2112986594",
+        "https://openalex.org/W2143776182",
+        "https://openalex.org/W2144658440",
+        "https://openalex.org/W2155347783",
+        "https://openalex.org/W2161644011",
+        "https://openalex.org/W2162287782",
+        "https://openalex.org/W2165613323",
+        "https://openalex.org/W2170423174",
+        "https://openalex.org/W2247993221",
+        "https://openalex.org/W2260734462",
+        "https://openalex.org/W2284839778",
+        "https://openalex.org/W2336710613",
+        "https://openalex.org/W2478719391",
+        "https://openalex.org/W2618393405",
+        "https://openalex.org/W2753617882",
+        "https://openalex.org/W2755905524",
+        "https://openalex.org/W2808812587",
+        "https://openalex.org/W2886293974",
+        "https://openalex.org/W2892049703",
+        "https://openalex.org/W2893214210",
+        "https://openalex.org/W2900882491",
+        "https://openalex.org/W2910884672",
+        "https://openalex.org/W2911864505",
+        "https://openalex.org/W2917269896",
+        "https://openalex.org/W2922953345",
+        "https://openalex.org/W2934134129",
+        "https://openalex.org/W2938584928",
+        "https://openalex.org/W2943754030",
+        "https://openalex.org/W2954204052",
+        "https://openalex.org/W2964496498",
+        "https://openalex.org/W2964946495",
+        "https://openalex.org/W2966722893",
+        "https://openalex.org/W2972570273",
+        "https://openalex.org/W2980325481",
+        "https://openalex.org/W2980882505",
+        "https://openalex.org/W3000608305",
+        "https://openalex.org/W3004972303",
+        "https://openalex.org/W3008377746",
+        "https://openalex.org/W3033047697",
+        "https://openalex.org/W3038386346",
+        "https://openalex.org/W3039004909",
+        "https://openalex.org/W3041755218",
+        "https://openalex.org/W3046521247",
+        "https://openalex.org/W3046834006",
+        "https://openalex.org/W3096964480",
+        "https://openalex.org/W3110776498",
+        "https://openalex.org/W3111342273",
+        "https://openalex.org/W3126337041",
+        "https://openalex.org/W3135713009",
+        "https://openalex.org/W3163643311",
+        "https://openalex.org/W3190137384",
+        "https://openalex.org/W3207804712",
+        "https://openalex.org/W3213816487",
+        "https://openalex.org/W4206402561",
+        "https://openalex.org/W4210927912",
+        "https://openalex.org/W4213018897",
+        "https://openalex.org/W4213229350",
+        "https://openalex.org/W4214830838",
+        "https://openalex.org/W4220724401",
+        "https://openalex.org/W4225371750",
+        "https://openalex.org/W4229742236",
+        "https://openalex.org/W4241256420",
+        "https://openalex.org/W4281249707",
+        "https://openalex.org/W4282600382",
+        "https://openalex.org/W4285792011",
+        "https://openalex.org/W4362638703",
+        "https://openalex.org/W4386284105"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-23T08:03:31.855105",
+      "created_date": "2025-12-29T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2167330935",
       "doi": "https://doi.org/10.3906/yer-1206-2",
       "title": "Reservoir characterization of the Burqan Formation sandstone from Midyan Basin, northwestern Saudi Arabia",
@@ -53319,9 +53326,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -54256,16 +54263,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.1712,
+      "fwci": 0.1522,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.39322207,
+        "value": 0.33745528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54520,9 +54527,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -54605,7 +54612,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54812,20 +54819,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1800,
+        "value": 2460,
         "currency": "USD",
         "value_usd": 2460
       },
       "apc_paid": {
-        "value": 1800,
+        "value": 2460,
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 0.454,
+      "fwci": 0.4529,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.63899371,
+        "value": 0.63871419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55824,7 +55831,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56014,7 +56021,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5043208531"
       ],
@@ -56022,16 +56029,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2690,
-        "currency": "EUR",
+        "value": 3390,
+        "currency": "USD",
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.9498,
+      "fwci": 0.6631,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.72216749,
+        "value": 0.63749232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56428,7 +56435,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-13T06:13:01.061226",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56830,9 +56837,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -57679,25 +57686,25 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1700,
+        "value": 2000,
         "currency": "USD",
         "value_usd": 2000
       },
       "apc_paid": {
-        "value": 1700,
+        "value": 2000,
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 0.1351,
+      "fwci": 0.1349,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.37337366,
+        "value": 0.37329079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -58111,9 +58118,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5099999904632568,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -58860,7 +58867,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59462,9 +59469,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -59994,9 +60001,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -61073,9 +61080,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -62134,9 +62141,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -66683,9 +66690,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -67240,9 +67247,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.7400000095367432
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -68276,9 +68283,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -68716,9 +68723,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -69834,9 +69841,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -72234,9 +72241,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -76912,9 +76919,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5572254657745361,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5572254657745361
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -80502,7 +80509,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-21T05:56:28.042755",
       "created_date": "2026-07-21T00:00:00"
     }
   ]

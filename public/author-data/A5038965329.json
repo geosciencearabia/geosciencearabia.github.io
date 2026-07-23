@@ -12,7 +12,7 @@
     ],
     "full_name": "Vaslet, Denis",
     "works_count": 44,
-    "cited_by_count": 1514,
+    "cited_by_count": 1515,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 21,
@@ -44,7 +44,7 @@
           "ror": "https://ror.org/05hnb7x64",
           "display_name": "Bureau de Recherches Géologiques et Minières",
           "country_code": "FR",
-          "type": "facility",
+          "type": "government",
           "lineage": [
             "https://openalex.org/I4210158893"
           ]
@@ -316,7 +316,7 @@
         "year": 1990,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 271
+        "cited_by_count": 272
       },
       {
         "year": 1992,
@@ -424,7 +424,7 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-07-20T12:17:43",
+    "updated_date": "2026-07-22T12:17:52",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -740,8 +740,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5099999904632568
         }
       ],
@@ -1195,8 +1195,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -2208,8 +2208,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],
@@ -2944,8 +2944,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394
         }
       ],
@@ -4562,8 +4562,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6499999761581421
         }
       ],
@@ -5796,8 +5796,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -7110,8 +7110,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -7793,8 +7793,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863
         }
       ],
@@ -8693,16 +8693,16 @@
         "https://openalex.org/I4210158893"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 10.6089,
+      "fwci": 10.5973,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.97652462,
+        "value": 0.97653061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8995,8 +8995,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426
         }
       ],
@@ -9119,7 +9119,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9722,8 +9722,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.41999998688697815
         }
       ],
@@ -11562,8 +11562,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137
         }
       ],
@@ -12262,18 +12262,26 @@
       "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.8998,
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 4.8954,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93760957,
+        "value": 0.93747191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -13602,7 +13610,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13957,16 +13965,16 @@
         "https://openalex.org/I1294671590"
       ],
       "apc_list": {
-        "value": 3100,
+        "value": 3260,
         "currency": "USD",
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 6.2045,
+      "fwci": 6.2099,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.9583516,
+        "value": 0.95838809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14294,8 +14302,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -14407,7 +14415,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14822,8 +14830,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137
         }
       ],
@@ -16214,8 +16222,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -16797,16 +16805,16 @@
         "https://openalex.org/I56067802"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.2485,
+      "fwci": 1.2467,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.76288842,
+        "value": 0.76280466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17087,8 +17095,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -17273,7 +17281,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17569,8 +17577,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7200000286102295
         }
       ],
@@ -19016,8 +19024,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -20106,8 +20114,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -20702,8 +20710,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -21621,8 +21629,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -22401,8 +22409,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -23543,8 +23551,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863
         }
       ],
@@ -25442,8 +25450,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -26158,21 +26166,21 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
-            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
-            "Department of Palaeontology (Geozentrum Vienna) (Austria)"
+            "Department of Palaeontology (Geozentrum Vienna) (Austria)",
+            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
               "institution_ids": [
                 "https://openalex.org/I2801780293"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
               ]
             }
           ]
@@ -26283,18 +26291,26 @@
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.8374,
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 1.8358,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85813818,
+        "value": 0.8580419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -27435,7 +27451,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28192,8 +28208,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -28770,8 +28786,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705
         }
       ],
@@ -30025,8 +30041,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -30941,8 +30957,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -31820,8 +31836,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6800000071525574
         }
       ],
@@ -34524,8 +34540,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -35635,8 +35651,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.699999988079071
         }
       ],
@@ -40038,8 +40054,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4300000071525574
         }
       ],
@@ -41097,8 +41113,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568
         }
       ],

@@ -944,9 +944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.49000000953674316,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1622,9 +1622,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2117,18 +2117,26 @@
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 3.4831,
+      "apc_list": {
+        "value": 3210,
+        "currency": "USD",
+        "value_usd": 3210
+      },
+      "apc_paid": {
+        "value": 3210,
+        "currency": "USD",
+        "value_usd": 3210
+      },
+      "fwci": 3.0503,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93061775,
+        "value": 0.91959837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 99
       },
       "biblio": {
@@ -3143,7 +3151,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3482,16 +3490,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.1261,
+      "fwci": 1.8965,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.86006315,
+        "value": 0.84139163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3746,9 +3754,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth",
           "score": 0.4099999964237213,
-          "display_name": "Decent work and economic growth"
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -3831,7 +3839,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4126,13 +4134,17 @@
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
       "apc_paid": null,
-      "fwci": 2.8992,
+      "fwci": 2.8976,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.90081604,
+        "value": 0.90080564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4472,7 +4484,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5023,9 +5035,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5447,20 +5459,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2140,
+        "value": 2300,
         "currency": "USD",
         "value_usd": 2300
       },
       "apc_paid": {
-        "value": 2140,
+        "value": 2300,
         "currency": "USD",
         "value_usd": 2300
       },
-      "fwci": 4.9516,
+      "fwci": 4.9519,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.93661362,
+        "value": 0.93661651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5788,9 +5800,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6587,7 +6599,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7477,9 +7489,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9413,20 +9425,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 500,
+        "value": 530,
         "currency": "USD",
         "value_usd": 530
       },
       "apc_paid": {
-        "value": 500,
+        "value": 530,
         "currency": "USD",
         "value_usd": 530
       },
-      "fwci": 32.0915,
+      "fwci": 31.8643,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99393853,
+        "value": 0.99389335,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10463,7 +10475,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2026-03-21T00:00:00"
     },
     {
@@ -10553,6 +10565,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10589,6 +10602,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10625,6 +10639,7 @@
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10661,6 +10676,7 @@
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10697,6 +10713,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10733,6 +10750,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10769,6 +10787,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10805,6 +10824,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10841,6 +10861,7 @@
           "raw_affiliation_strings": [
             "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10877,6 +10898,7 @@
           "raw_affiliation_strings": [
             "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10913,6 +10935,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10949,6 +10972,7 @@
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -10961,7 +10985,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 12,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5054922583"
       ],
@@ -10969,16 +10993,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.9403,
+      "fwci": 1.5015,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83170395,
+        "value": 0.77961718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11303,9 +11327,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -11399,7 +11423,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11706,20 +11730,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2600,
+        "value": 1890,
         "currency": "USD",
         "value_usd": 1890
       },
       "apc_paid": {
-        "value": 2600,
+        "value": 1890,
         "currency": "USD",
         "value_usd": 1890
       },
-      "fwci": 3.9656,
+      "fwci": 3.9103,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.91233997,
+        "value": 0.91031311,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12981,7 +13005,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2026-03-03T00:00:00"
     },
     {
@@ -14557,9 +14581,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7799999713897705,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -15033,9 +15057,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15547,25 +15571,25 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 500,
+        "value": 530,
         "currency": "USD",
         "value_usd": 530
       },
       "apc_paid": {
-        "value": 500,
+        "value": 530,
         "currency": "USD",
         "value_usd": 530
       },
-      "fwci": 0.9903,
+      "fwci": 0.9904,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.81700032,
+        "value": 0.81705426,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -15990,9 +16014,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -16613,7 +16637,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20430,9 +20454,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5299999713897705,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -21883,9 +21907,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23575,9 +23599,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -23997,7 +24021,11 @@
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 3210,
+        "currency": "USD",
+        "value_usd": 3210
+      },
       "apc_paid": null,
       "fwci": null,
       "has_fulltext": false,
@@ -24265,7 +24293,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24673,9 +24701,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25997,8 +26025,8 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
@@ -26006,7 +26034,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16157291,
+        "value": 0.11676962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26198,9 +26226,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5699999928474426,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -26283,7 +26311,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {

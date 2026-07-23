@@ -1091,8 +1091,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -2300,16 +2300,16 @@
         "https://openalex.org/I141945490"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 2.0641,
+      "fwci": 2.0637,
       "has_fulltext": false,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.87974471,
+        "value": 0.87971777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2654,8 +2654,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -2882,7 +2882,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3430,8 +3430,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -3746,7 +3746,7 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
@@ -3755,12 +3755,12 @@
       "has_fulltext": false,
       "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.16051594,
+        "value": 0.16045845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -4033,8 +4033,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -4185,7 +4185,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4907,8 +4907,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -5608,8 +5608,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -7757,8 +7757,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -8238,8 +8238,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -8414,6 +8414,7 @@
           "raw_affiliation_strings": [
             "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan",
@@ -8450,6 +8451,7 @@
           "raw_affiliation_strings": [
             "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan",
@@ -8486,6 +8488,7 @@
           "raw_affiliation_strings": [
             "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan, Department of Applied Geological and Environmental Sciences, Amman 11942, Jordan",
@@ -8498,20 +8501,24 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I114972647"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 2720,
+        "currency": "USD",
+        "value_usd": 2720
+      },
       "apc_paid": null,
-      "fwci": 6.4407,
+      "fwci": 5.2709,
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.96300496,
+        "value": 0.95287862,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8880,8 +8887,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.9100000262260437,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -9018,7 +9025,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9556,8 +9563,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -10108,8 +10115,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -12829,7 +12836,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5013553375",
         "https://openalex.org/A5040373852",
@@ -12842,16 +12849,16 @@
         "https://openalex.org/I157392197"
       ],
       "apc_list": {
-        "value": 2890,
-        "currency": "EUR",
+        "value": 3690,
+        "currency": "USD",
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 0.6231,
+      "fwci": 0.5813,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.67366814,
+        "value": 0.64972232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13433,8 +13440,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -13578,7 +13585,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-19T15:47:20.252518",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14038,8 +14045,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -14777,8 +14784,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -15528,7 +15535,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -15536,21 +15543,21 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2090,
-        "currency": "EUR",
+        "value": 2690,
+        "currency": "USD",
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5163,
+      "fwci": 1.3711,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.79866601,
+        "value": 0.7754574,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -15882,8 +15889,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -15987,7 +15994,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-19T15:47:20.252518",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16454,8 +16461,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -17348,7 +17355,7 @@
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
@@ -17657,8 +17664,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -17805,7 +17812,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18250,8 +18257,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -18912,8 +18919,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -19979,6 +19986,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -20015,6 +20023,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -20051,6 +20060,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -20087,6 +20097,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -20099,7 +20110,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -20107,16 +20118,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 2.7706,
+      "fwci": 2.32,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.88882151,
+        "value": 0.86665041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20432,8 +20443,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -20567,7 +20578,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-04-17T18:11:37.981687",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20709,7 +20720,7 @@
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
@@ -21027,8 +21038,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -21124,7 +21135,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21587,8 +21598,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -22539,7 +22550,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5087995404"
       ],
@@ -22547,16 +22558,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.8723,
+      "fwci": 0.7701,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.75869555,
+        "value": 0.72677717,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23006,7 +23017,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T15:47:20.252518",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23608,8 +23619,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -24231,8 +24242,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -25155,7 +25166,7 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
@@ -25440,8 +25451,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -25523,7 +25534,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25705,16 +25716,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.7532,
+      "fwci": 1.753,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.85190991,
+        "value": 0.85188547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26092,8 +26103,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -26218,7 +26229,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26378,8 +26389,8 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2790,
-        "currency": "EUR",
+        "value": 3590,
+        "currency": "USD",
         "value_usd": 3590
       },
       "apc_paid": null,
@@ -26387,7 +26398,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.1503006,
+        "value": 0.14143279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26722,8 +26733,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -26824,7 +26835,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27434,8 +27445,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -28076,7 +28087,7 @@
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
@@ -28085,7 +28096,7 @@
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.14053468,
+        "value": 0.14058547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28289,8 +28300,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -28366,7 +28377,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28879,8 +28890,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -30613,16 +30624,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.2958,
+      "fwci": 1.2964,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.78482184,
+        "value": 0.78492137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30931,8 +30942,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -30998,7 +31009,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32019,8 +32030,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -32219,6 +32230,7 @@
             "Department of Geology and Mineralogy, University of Jordan, Amman, Jordan",
             "Department of Geology and Mineralogy, University of Jordan, Amman Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology and Mineralogy, University of Jordan, Amman, Jordan",
@@ -32245,8 +32257,8 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2790,
-        "currency": "EUR",
+        "value": 3590,
+        "currency": "USD",
         "value_usd": 3590
       },
       "apc_paid": null,
@@ -32254,7 +32266,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.03162889,
+        "value": 0.02990971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32586,7 +32598,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33051,8 +33063,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -34022,8 +34034,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -34891,8 +34903,8 @@
         "https://openalex.org/I114432678"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
@@ -34900,7 +34912,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72547453,
+        "value": 0.72548954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35261,8 +35273,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -35360,7 +35372,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35581,7 +35593,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -35589,16 +35601,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.7307,
+      "fwci": 1.5182,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86673671,
+        "value": 0.84845111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35900,7 +35912,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T15:47:20.252518",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36154,7 +36166,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -36162,16 +36174,16 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2790,
-        "currency": "EUR",
+        "value": 3590,
+        "currency": "USD",
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.0305,
+      "fwci": 0.9254,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77659269,
+        "value": 0.75812266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36432,8 +36444,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -36516,7 +36528,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-16T07:32:37.131356",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36714,7 +36726,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -36722,21 +36734,21 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.4758,
+      "fwci": 0.4043,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.68840204,
+        "value": 0.65140078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 96
       },
       "biblio": {
@@ -37144,7 +37156,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-19T15:47:20.252518",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37788,8 +37800,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -38016,19 +38028,19 @@
           "is_corresponding": true,
           "raw_author_name": "J.V. Pérez-Peña",
           "raw_affiliation_strings": [
-            "Instituto Andaluz de Geofísica, Universidad de Granada, Campus de Cartuja, 18071 Granada, Spain",
-            "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain"
+            "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain",
+            "Instituto Andaluz de Geofísica, Universidad de Granada, Campus de Cartuja, 18071 Granada, Spain"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Instituto Andaluz de Geofísica, Universidad de Granada, Campus de Cartuja, 18071 Granada, Spain",
+              "raw_affiliation_string": "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain",
               "institution_ids": [
                 "https://openalex.org/I173304897"
               ]
             },
             {
-              "raw_affiliation_string": "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain",
+              "raw_affiliation_string": "Instituto Andaluz de Geofísica, Universidad de Granada, Campus de Cartuja, 18071 Granada, Spain",
               "institution_ids": [
                 "https://openalex.org/I173304897"
               ]
@@ -38126,21 +38138,21 @@
           "is_corresponding": false,
           "raw_author_name": "G. Booth-Rea",
           "raw_affiliation_strings": [
-            "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
-            "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain"
+            "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain",
+            "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
-              "institution_ids": [
-                "https://openalex.org/I4210095677"
-              ]
-            },
-            {
               "raw_affiliation_string": "Departamento de Geodinámica, Universidad de Granada, Campus de Fuentenueva, 18071 Granada, Spain",
               "institution_ids": [
                 "https://openalex.org/I173304897"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210095677"
               ]
             }
           ]
@@ -38267,7 +38279,7 @@
         "https://openalex.org/I173304897"
       ],
       "apc_list": {
-        "value": 3100,
+        "value": 3260,
         "currency": "USD",
         "value_usd": 3260
       },
@@ -38276,7 +38288,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.72667333,
+        "value": 0.72668842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38686,8 +38698,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -38839,7 +38851,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39308,8 +39320,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -41146,19 +41158,27 @@
           "is_corresponding": false,
           "raw_author_name": "Ghaleb Jarrar",
           "raw_affiliation_strings": [
+            "Nb, Zn, Y, Ni SD3 36.11633",
+            "Ni AK15 35.58267",
             "Ca, Fe 169",
+            "Ga AK11 35.58267",
+            "Sc, Hf, Sn, W, Cu, Ta SR5 35.67067",
             ", Cr, Y, Nb, Pb, Th SD1 36.11633 31.3893",
+            ", Cr, Cu, Pb, Zn, Nb SD7 36.11633",
             "Department of Geology, University of Jordan, Amman, 11942 Jordan;",
             "Ga SD9 36.11633",
-            "Sc, Hf, Sn, W, Cu, Ta SR5 35.67067",
-            ", Cr, Cu, Pb, Zn, Nb SD7 36.11633",
-            "Ga AK2 35.58267",
-            "Ga AK11 35.58267",
-            "Ni AK15 35.58267",
-            "Nb, Zn, Y, Ni SD3 36.11633"
+            "Ga AK2 35.58267"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Nb, Zn, Y, Ni SD3 36.11633",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Ni AK15 35.58267",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Ca, Fe 169",
               "institution_ids": [
@@ -41166,7 +41186,19 @@
               ]
             },
             {
+              "raw_affiliation_string": "Ga AK11 35.58267",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Sc, Hf, Sn, W, Cu, Ta SR5 35.67067",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": ", Cr, Y, Nb, Pb, Th SD1 36.11633 31.3893",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": ", Cr, Cu, Pb, Zn, Nb SD7 36.11633",
               "institution_ids": []
             },
             {
@@ -41180,27 +41212,7 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Sc, Hf, Sn, W, Cu, Ta SR5 35.67067",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": ", Cr, Cu, Pb, Zn, Nb SD7 36.11633",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Ga AK2 35.58267",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Ga AK11 35.58267",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Ni AK15 35.58267",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Nb, Zn, Y, Ni SD3 36.11633",
               "institution_ids": []
             }
           ]
@@ -41272,7 +41284,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.4646557,
+        "value": 0.4647265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42325,7 +42337,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42667,8 +42679,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -43653,8 +43665,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -44672,8 +44684,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -45478,16 +45490,22 @@
           "is_corresponding": false,
           "raw_author_name": "N. Petit-Maire",
           "raw_affiliation_strings": [
+            "FRANCE",
             "University of Jordan, Amman, JORDAN",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "FRANCE"
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
@@ -45495,9 +45513,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
-                "https://openalex.org/I4210124937"
+                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -45507,14 +45525,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
             },
             {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
@@ -45522,12 +45540,6 @@
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
               ]
             }
           ]
@@ -45642,16 +45654,38 @@
           "is_corresponding": false,
           "raw_author_name": "P. Sanlaville",
           "raw_affiliation_strings": [
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "FRANCE",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
+            "University of Jordan, Amman, JORDAN"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
             {
               "raw_affiliation_string": "FRANCE",
               "institution_ids": [
@@ -45667,32 +45701,10 @@
               ]
             },
             {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
                 "https://openalex.org/I114972647"
               ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
             }
           ]
         },
@@ -45806,25 +45818,29 @@
           "is_corresponding": false,
           "raw_author_name": "A. Abed",
           "raw_affiliation_strings": [
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
             "University of Jordan, Amman, JORDAN",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "FRANCE"
+            "FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210154333"
+              ]
+            },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
                 "https://openalex.org/I4210158690"
               ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
@@ -45839,23 +45855,19 @@
               ]
             },
             {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "raw_affiliation_string": "FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I4210104693"
               ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
               ]
             }
           ]
@@ -45970,20 +45982,36 @@
           "is_corresponding": false,
           "raw_author_name": "S. Yasin",
           "raw_affiliation_strings": [
-            "University of Jordan, Amman, JORDAN",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA"
+            "University of Jordan, Amman, JORDAN"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I114972647"
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
               ]
             },
             {
@@ -46001,25 +46029,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I114972647"
               ]
             }
           ]
@@ -46134,16 +46146,22 @@
           "is_corresponding": false,
           "raw_author_name": "R. Bourrouilh",
           "raw_affiliation_strings": [
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
             "University of Jordan, Amman, JORDAN",
-            "FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA"
+            "FRANCE"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
@@ -46153,9 +46171,13 @@
               ]
             },
             {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
-                "https://openalex.org/I4210124937"
+                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -46174,16 +46196,6 @@
               "raw_affiliation_string": "FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
               ]
             }
           ]
@@ -46298,16 +46310,22 @@
           "is_corresponding": false,
           "raw_author_name": "P. Carbonel",
           "raw_affiliation_strings": [
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "FRANCE",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE"
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "University of Jordan, Amman, JORDAN"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
               "institution_ids": []
@@ -46319,27 +46337,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
               "raw_affiliation_string": "FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
               ]
             },
             {
@@ -46348,6 +46354,12 @@
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
               ]
             }
           ]
@@ -46462,32 +46474,26 @@
           "is_corresponding": false,
           "raw_author_name": "M. Fontugne",
           "raw_affiliation_strings": [
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "FRANCE",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE"
+            "FRANCE",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "University of Jordan, Amman, JORDAN"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
               ]
             },
             {
@@ -46499,19 +46505,25 @@
               ]
             },
             {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
               ]
             }
           ]
@@ -46626,16 +46638,40 @@
           "is_corresponding": false,
           "raw_author_name": "J.L. Reyss",
           "raw_affiliation_strings": [
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "University of Jordan, Amman, JORDAN",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "FRANCE"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
@@ -46653,30 +46689,6 @@
               "institution_ids": [
                 "https://openalex.org/I4210104693"
               ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
             }
           ]
         },
@@ -46790,42 +46802,20 @@
           "is_corresponding": false,
           "raw_author_name": "Ai Yongde",
           "raw_affiliation_strings": [
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "FRANCE",
             "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE"
+            "FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "University of Jordan, Amman, JORDAN",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -46835,12 +46825,34 @@
               ]
             },
             {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210154333"
               ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             }
           ]
         },
@@ -46955,12 +46967,12 @@
           "raw_author_name": "A.R. Berger",
           "raw_affiliation_strings": [
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "FRANCE",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
             "University of Jordan, Amman, JORDAN",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE"
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -46973,8 +46985,16 @@
               ]
             },
             {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
@@ -46995,16 +47015,8 @@
               ]
             },
             {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             }
           ]
         }
@@ -47172,7 +47184,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -47262,6 +47274,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -47298,6 +47311,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -47334,6 +47348,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -47370,6 +47385,7 @@
           "raw_affiliation_strings": [
             "Department of Geology, The University of Jordan, Amman, 11942, Jordan"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, The University of Jordan, Amman, 11942, Jordan",
@@ -47382,7 +47398,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -47390,8 +47406,8 @@
         "https://openalex.org/I114972647"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
@@ -47399,7 +47415,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06613589,
+        "value": 0.05610225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47676,8 +47692,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -47749,7 +47765,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48092,8 +48108,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -48153,8 +48169,10 @@
         "source": {
           "id": "https://openalex.org/S4306530189",
           "display_name": "Sky and Telescope",
-          "issn_l": null,
-          "issn": null,
+          "issn_l": "0037-6604",
+          "issn": [
+            "0037-6604"
+          ],
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
@@ -48199,7 +48217,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -48210,7 +48228,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34561228,
+        "value": 0.34571137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48299,8 +48317,10 @@
           "source": {
             "id": "https://openalex.org/S4306530189",
             "display_name": "Sky and Telescope",
-            "issn_l": null,
-            "issn": null,
+            "issn_l": "0037-6604",
+            "issn": [
+              "0037-6604"
+            ],
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
@@ -48354,7 +48374,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-05T08:41:31.759640",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2020-09-21T00:00:00"
     },
     {
@@ -49670,8 +49690,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],

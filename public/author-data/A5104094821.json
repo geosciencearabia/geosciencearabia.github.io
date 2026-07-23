@@ -14,7 +14,7 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 137,
+    "cited_by_count": 138,
     "summary_stats": {
       "2yr_mean_citedness": 4,
       "h_index": 8,
@@ -164,7 +164,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000318,
+        "value": 0.0000317,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -284,7 +284,7 @@
         "year": 2009,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 12
       },
       {
         "year": 2012,
@@ -346,7 +346,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-07-16T12:16:06",
+    "updated_date": "2026-07-22T12:17:52",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -2333,20 +2333,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1800,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
       "apc_paid": {
-        "value": 1800,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 0.923,
+      "fwci": 0.9231,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.68848866,
+        "value": 0.68846351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2646,9 +2646,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -3306,7 +3306,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3831,9 +3831,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -7549,9 +7549,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -8725,9 +8725,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -9066,8 +9066,8 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2290,
-        "currency": "EUR",
+        "value": 2890,
+        "currency": "USD",
         "value_usd": 2890
       },
       "apc_paid": null,
@@ -9075,7 +9075,7 @@
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.1106219,
+        "value": 0.11056106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9422,9 +9422,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -9502,7 +9502,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10051,9 +10051,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -11922,21 +11922,21 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.5322,
+      "fwci": 1.2636,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77531317,
+        "value": 0.72471043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 97
       },
       "biblio": {
@@ -12329,7 +12329,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14000,12 +14000,12 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1800,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
       "apc_paid": {
-        "value": 1800,
+        "value": 2100,
         "currency": "USD",
         "value_usd": 2100
       },
@@ -14013,7 +14013,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.48858364,
+        "value": 0.48860232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14986,7 +14986,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15294,20 +15294,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 1570,
-        "currency": "EUR",
+        "value": 2090,
+        "currency": "USD",
         "value_usd": 2090
       },
       "apc_paid": {
-        "value": 1570,
-        "currency": "EUR",
+        "value": 2090,
+        "currency": "USD",
         "value_usd": 2090
       },
-      "fwci": 0.9037,
+      "fwci": 0.8998,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6467766,
+        "value": 0.64579015,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16277,7 +16277,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16789,9 +16789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -17657,9 +17657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],

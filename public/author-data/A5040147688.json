@@ -21,7 +21,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 162,
-    "cited_by_count": 3008,
+    "cited_by_count": 3009,
     "summary_stats": {
       "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 31,
@@ -421,7 +421,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000847,
+        "value": 0.0000846,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -581,7 +581,7 @@
         "year": 2013,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 96
+        "cited_by_count": 97
       },
       {
         "year": 2014,
@@ -680,7 +680,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-07-21T12:17:50",
+    "updated_date": "2026-07-22T12:17:52",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -912,11 +912,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 15.278,
+      "fwci": 15.2805,
       "has_fulltext": true,
-      "cited_by_count": 310,
+      "cited_by_count": 312,
       "citation_normalized_percentile": {
-        "value": 0.9983985,
+        "value": 0.99839845,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2183,7 +2183,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 43
+          "cited_by_count": 45
         },
         {
           "year": 2025,
@@ -2214,7 +2214,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-16T13:24:37.021932",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9237,21 +9237,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "Chuanshanian North America",
-            "Saxonian Autunian Russia Western Europe China",
             "Asselian Thuringian",
-            "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
+            "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
+            "Chuanshanian North America",
+            "Saxonian Autunian Russia Western Europe China"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Chuanshanian North America",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Saxonian Autunian Russia Western Europe China",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Asselian Thuringian",
               "institution_ids": []
@@ -9261,6 +9253,14 @@
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
+            },
+            {
+              "raw_affiliation_string": "Chuanshanian North America",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Saxonian Autunian Russia Western Europe China",
+              "institution_ids": []
             }
           ]
         }
@@ -9276,11 +9276,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.4222,
+      "fwci": 8.424,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.96777617,
+        "value": 0.96777275,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10114,7 +10114,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10232,20 +10232,20 @@
         "https://openalex.org/I139290333"
       ],
       "apc_list": {
-        "value": 1875,
+        "value": 2530,
         "currency": "USD",
         "value_usd": 2530
       },
       "apc_paid": {
-        "value": 1875,
+        "value": 2530,
         "currency": "USD",
         "value_usd": 2530
       },
-      "fwci": 2.1682,
+      "fwci": 2.1684,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.86824044,
+        "value": 0.86830345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11350,7 +11350,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15688,8 +15688,8 @@
           "raw_author_name": "Paul A. Selden",
           "raw_affiliation_strings": [
             "Paleontological Institute and Department of Geology, University of Kansas, 1475 Jayhawk Blvd, Lawrence, Kansas 66045, USA. selden@ku.edu",
-            "Department of Palaeontology, Natural History Museum, London, UK",
-            "Paleontological Institute and Department of Geology, University of Kansas, Lawrence, USA"
+            "Paleontological Institute and Department of Geology, University of Kansas, Lawrence, USA",
+            "Department of Palaeontology, Natural History Museum, London, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -15700,15 +15700,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Palaeontology, Natural History Museum, London, UK",
-              "institution_ids": [
-                "https://openalex.org/I1336856363"
-              ]
-            },
-            {
               "raw_affiliation_string": "Paleontological Institute and Department of Geology, University of Kansas, Lawrence, USA",
               "institution_ids": [
                 "https://openalex.org/I146416000"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Palaeontology, Natural History Museum, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I1336856363"
               ]
             }
           ]
@@ -15864,16 +15864,16 @@
         "https://openalex.org/I146416000"
       ],
       "apc_list": {
-        "value": 3920,
-        "currency": "GBP",
+        "value": 6290,
+        "currency": "USD",
         "value_usd": 6290
       },
       "apc_paid": null,
-      "fwci": 6.0301,
+      "fwci": 6.0299,
       "has_fulltext": true,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
-        "value": 0.96387545,
+        "value": 0.96389001,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16270,7 +16270,7 @@
           "landing_page_url": null,
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4377196433",
+            "id": "https://openalex.org/S4377196427",
             "display_name": "Flanders Marine Institute (Flanders Marine Institute)",
             "issn_l": null,
             "issn": null,
@@ -16603,7 +16603,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17977,11 +17977,11 @@
           "raw_author_name": "Jawad Afzal",
           "raw_affiliation_strings": [
             "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan;",
-            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
             "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK"
+            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
+            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -17989,12 +17989,6 @@
               "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan;",
               "institution_ids": [
                 "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
               ]
             },
             {
@@ -18021,6 +18015,12 @@
               "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
               ]
             }
           ]
@@ -18074,28 +18074,16 @@
           "raw_author_name": "Mark Williams",
           "raw_affiliation_strings": [
             "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
-            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
-            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
-            "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
+            "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
+            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -18116,6 +18104,18 @@
             },
             {
               "raw_affiliation_string": "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
+              "institution_ids": [
+                "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -18172,10 +18172,10 @@
           "raw_affiliation_strings": [
             "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
             "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
+            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
             "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK"
+            "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -18192,6 +18192,18 @@
               ]
             },
             {
+              "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
+              "institution_ids": [
+                "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
               "raw_affiliation_string": "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333",
@@ -18203,18 +18215,6 @@
               "institution_ids": [
                 "https://openalex.org/I153648349",
                 "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
               ]
             }
           ]
@@ -18268,9 +18268,9 @@
           "raw_author_name": "Richard J. Aldridge",
           "raw_affiliation_strings": [
             "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK;",
+            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
             "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
-            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
             "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
@@ -18280,6 +18280,13 @@
               "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester, LE1 7RH, UK;",
               "institution_ids": [
                 "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I153648349",
+                "https://openalex.org/I36001604"
               ]
             },
             {
@@ -18293,13 +18300,6 @@
               "raw_affiliation_string": "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I153648349",
-                "https://openalex.org/I36001604"
               ]
             },
             {
@@ -18365,22 +18365,16 @@
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
-            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Richard J. Aldridge [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK",
             "Melanie J. Leng [[email protected]], NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan"
+            "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
+            "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+            "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -18398,17 +18392,23 @@
               ]
             },
             {
-              "raw_affiliation_string": "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
               "raw_affiliation_string": "Jawad Afzal [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and National Centre of Excellence in Geology, University of Peshawar, Peshawar, Khyber Pakhtunkhwa, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I153648349",
                 "https://openalex.org/I36001604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Michael H. Stephenson [[email protected]], British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Mark Williams [[email protected]], Department of Geology, University of Leicester, Leicester, LE1 7RH, UK and British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I153648349"
               ]
             }
           ]
@@ -18419,13 +18419,17 @@
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
+      "apc_list": {
+        "value": 3300,
+        "currency": "USD",
+        "value_usd": 3300
+      },
       "apc_paid": null,
-      "fwci": 0.8184,
+      "fwci": 0.8185,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.73363905,
+        "value": 0.73369353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19661,7 +19665,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19817,8 +19821,8 @@
           "raw_affiliation_strings": [
             "Equinor ASA",
             "Norwegian University of Science and Technology",
-            "Norwegian University of Science and Technology, 7031 Trondheim, Norway",
-            "Equinor ASA, 7053 Trondheim, Norway"
+            "Equinor ASA, 7053 Trondheim, Norway",
+            "Norwegian University of Science and Technology, 7031 Trondheim, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -19835,15 +19839,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Norwegian University of Science and Technology, 7031 Trondheim, Norway",
-              "institution_ids": [
-                "https://openalex.org/I204778367"
-              ]
-            },
-            {
               "raw_affiliation_string": "Equinor ASA, 7053 Trondheim, Norway",
               "institution_ids": [
                 "https://openalex.org/I49324905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Norwegian University of Science and Technology, 7031 Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I204778367"
               ]
             }
           ]
@@ -19972,11 +19976,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.191,
+      "fwci": 3.1912,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.93217496,
+        "value": 0.93217651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20976,7 +20980,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22970,11 +22974,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.6739,
+      "fwci": 2.6748,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.89143993,
+        "value": 0.89143868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23302,7 +23306,7 @@
           "landing_page_url": "http://www.sciencedirect.com/science/article/pii/S0264817217302404",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4377196364",
+            "id": "https://openalex.org/S4306402014",
             "display_name": "Nottingham ePrints (University of Nottingham)",
             "issn_l": null,
             "issn": null,
@@ -24508,7 +24512,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25018,8 +25022,8 @@
           "raw_affiliation_strings": [
             "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "School of Geography, Geology and the Environment University of Leicester University Road Leicester LE1 7RH UK",
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
-            "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK"
+            "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK",
+            "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-2084-0501",
           "affiliations": [
@@ -25036,15 +25040,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
               "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
               ]
             }
           ]
@@ -25252,11 +25256,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 3.3549,
+      "fwci": 2.8464,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.92129359,
+        "value": 0.90482243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26643,7 +26647,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -35821,8 +35825,8 @@
           "raw_author_name": "Irfan U. Jan",
           "raw_affiliation_strings": [
             "\n Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom;\n National Centre of Excellence in Geology, University of Peshawar, Pakistan",
-            "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom",
-            "National Centre of Excellence in Geology, University of Peshawar, Pakistan"
+            "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
+            "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35834,15 +35838,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
               "raw_affiliation_string": "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I36001604"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I153648349"
               ]
             }
           ]
@@ -35910,7 +35914,7 @@
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.84583695,
+        "value": 0.84583866,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36860,7 +36864,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48659,20 +48663,20 @@
         "https://openalex.org/I189158943"
       ],
       "apc_list": {
-        "value": 2790,
-        "currency": "EUR",
+        "value": 3590,
+        "currency": "USD",
         "value_usd": 3590
       },
       "apc_paid": {
-        "value": 2790,
-        "currency": "EUR",
+        "value": 3590,
+        "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 0.9147,
+      "fwci": 0.6898,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.70058904,
+        "value": 0.60299946,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49930,7 +49934,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59103,7 +59107,7 @@
           "countries": [
             "NL"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Emma ter Mors",
           "raw_affiliation_strings": [
             "Leiden University, Department of Social and Organizational Psychology, P.O. Box 9555, 2300 RB Leiden, The Netherlands"
@@ -60208,23 +60212,19 @@
       "institutions": [],
       "countries_distinct_count": 6,
       "institutions_distinct_count": 14,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5044029994"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I121797337"
-      ],
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3980,
         "currency": "USD",
         "value_usd": 3980
       },
       "apc_paid": null,
-      "fwci": 2.8297,
+      "fwci": 2.8296,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.91699004,
+        "value": 0.91698174,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -60721,7 +60721,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66792,21 +66792,21 @@
           "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
-            "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
-            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK"
+            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
+            "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
               ]
             }
           ]
@@ -66893,13 +66893,17 @@
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
+      "apc_list": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
       "apc_paid": null,
       "fwci": 0.8289,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.73603916,
+        "value": 0.73606604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68100,7 +68104,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -83091,8 +83095,8 @@
         "https://openalex.org/I1118541"
       ],
       "apc_list": {
-        "value": 2890,
-        "currency": "EUR",
+        "value": 3690,
+        "currency": "USD",
         "value_usd": 3690
       },
       "apc_paid": null,
@@ -83100,7 +83104,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.37606143,
+        "value": 0.36248822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83528,7 +83532,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -83916,11 +83920,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1806,
+      "fwci": 1.1344,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.8379893,
+        "value": 0.83238292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84263,7 +84267,7 @@
           "landing_page_url": "http://eprints.nottingham.ac.uk/44462/",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402013",
+            "id": "https://openalex.org/S4306402014",
             "display_name": "Nottingham ePrints (University of Nottingham)",
             "issn_l": null,
             "issn": null,
@@ -85114,7 +85118,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2017-07-31T00:00:00"
     },
     {
@@ -86396,8 +86400,8 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences; Quaid-i-Azam University Islamabad; Pakistan, 45320",
             "Department of Geodynamics and Sedimentology; University of Vienna; Austria",
-            "Department of Geodynamics and Sedimentology, University of Vienna, Austria",
-            "Department of Earth Sciences, Quaid-i-Azam University Islamabad, Pakistan, 45320"
+            "Department of Earth Sciences, Quaid-i-Azam University Islamabad, Pakistan, 45320",
+            "Department of Geodynamics and Sedimentology, University of Vienna, Austria"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -86414,15 +86418,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Geodynamics and Sedimentology, University of Vienna, Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Earth Sciences, Quaid-i-Azam University Islamabad, Pakistan, 45320",
               "institution_ids": [
                 "https://openalex.org/I12469534"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geodynamics and Sedimentology, University of Vienna, Austria",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
               ]
             }
           ]
@@ -86778,11 +86782,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.2519,
+      "fwci": 0.252,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.56946039,
+        "value": 0.5696039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -87678,7 +87682,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -110791,8 +110795,8 @@
             "British Geological Survey",
             "CGG, Tyn-y-Coed, Llanrhos, Llandudno LL30 1SA, UK",
             "School of Geography, Geology and the Environment, University of Leicester",
-            "School of Geography, Geology and the Environment, University of Leicester, Leicester LE1 7RH, UK",
-            "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
+            "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
+            "School of Geography, Geology and the Environment, University of Leicester, Leicester LE1 7RH, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-2084-0501",
           "affiliations": [
@@ -110813,15 +110817,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, Leicester LE1 7RH, UK",
+              "institution_ids": [
+                "https://openalex.org/I153648349"
               ]
             }
           ]
@@ -110988,11 +110992,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1809,
+      "fwci": 0.1805,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.31666463,
+        "value": 0.31652668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -112171,7 +112175,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {

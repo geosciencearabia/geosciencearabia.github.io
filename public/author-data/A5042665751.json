@@ -860,8 +860,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -878,8 +878,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1507,15 +1507,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -2299,8 +2299,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 127,
@@ -3593,21 +3593,21 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.5322,
+      "fwci": 1.2636,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77531317,
+        "value": 0.72471043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 97
       },
       "biblio": {
@@ -3904,8 +3904,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -4000,7 +4000,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-07T14:30:12.667765",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4111,8 +4111,8 @@
           "raw_affiliation_strings": [
             "1 Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
             "2 Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-            "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
-            "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
+            "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+            "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -4130,15 +4130,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
-              "institution_ids": [
-                "https://openalex.org/I130828816"
-              ]
-            },
-            {
               "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
+              "institution_ids": [
+                "https://openalex.org/I130828816"
               ]
             }
           ]
@@ -4296,16 +4296,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3316,
+      "fwci": 0.3315,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.51361708,
+        "value": 0.51355051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -4601,15 +4601,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -5532,7 +5532,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5855,8 +5855,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -5868,8 +5868,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -7049,15 +7049,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -7582,8 +7582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -8722,15 +8722,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -10177,8 +10177,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11436,8 +11436,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12284,8 +12284,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13360,15 +13360,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14351,8 +14351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -15818,8 +15818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -17356,15 +17356,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8767217397689819
+          "score": 0.8767217397689819,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,

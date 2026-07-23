@@ -173,7 +173,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000087,
+        "value": 0.0000869,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -1037,8 +1037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -2806,8 +2806,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -3761,8 +3761,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -4653,16 +4653,16 @@
         "https://openalex.org/I4210158893"
       ],
       "apc_list": {
-        "value": 3070,
+        "value": 3300,
         "currency": "USD",
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 10.6089,
+      "fwci": 10.5973,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.97652462,
+        "value": 0.97653061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4969,8 +4969,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -5079,7 +5079,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5666,8 +5666,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf"
@@ -8023,8 +8023,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -8278,12 +8278,18 @@
           "is_corresponding": true,
           "raw_author_name": "Benoît Issautier",
           "raw_affiliation_strings": [
+            "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
             "BRGM, Geology Division, Sedimentary Basin Unit, Orléans, France",
-            "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France",
-            "BRGM, Water Division, Deep Aquifer Unit, Orléans, France"
+            "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
             {
               "raw_affiliation_string": "BRGM, Geology Division, Sedimentary Basin Unit, Orléans, France",
               "institution_ids": [
@@ -8293,12 +8299,6 @@
             {
               "raw_affiliation_string": "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
             }
           ]
         },
@@ -8414,11 +8414,11 @@
         "value_usd": 3980
       },
       "apc_paid": null,
-      "fwci": 2.524,
+      "fwci": 2.5241,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.8767341,
+        "value": 0.87675853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8818,8 +8818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -8964,7 +8964,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9575,8 +9575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -11272,8 +11272,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -12775,8 +12775,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -13649,18 +13649,26 @@
       "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.8998,
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 4.8954,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93760957,
+        "value": 0.93747191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -14068,8 +14076,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -14989,7 +14997,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15412,8 +15420,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf"
@@ -16875,8 +16883,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -17666,8 +17674,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -18237,13 +18245,21 @@
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.4028,
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 0.403,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.63998441,
+        "value": 0.64006754,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18641,8 +18657,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1056795926.pdf",
@@ -19141,7 +19157,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19616,8 +19632,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf"
@@ -20423,8 +20439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf"
@@ -21311,8 +21327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf"
@@ -22464,8 +22480,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -24116,8 +24132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -25082,8 +25098,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf"
@@ -25790,21 +25806,21 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
-            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
-            "Department of Palaeontology (Geozentrum Vienna) (Austria)"
+            "Department of Palaeontology (Geozentrum Vienna) (Austria)",
+            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
               "institution_ids": [
                 "https://openalex.org/I2801780293"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
               ]
             }
           ]
@@ -25915,18 +25931,26 @@
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.8374,
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 1.8358,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85813818,
+        "value": 0.8580419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -26395,8 +26419,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -27067,7 +27091,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27451,8 +27475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf"
@@ -28518,8 +28542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -29016,8 +29040,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29883,8 +29907,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -30241,8 +30265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31501,8 +31525,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32032,8 +32056,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33242,8 +33266,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -34632,8 +34656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35118,8 +35142,8 @@
         "https://openalex.org/I4210093967"
       ],
       "apc_list": {
-        "value": 2390,
-        "currency": "EUR",
+        "value": 2990,
+        "currency": "USD",
         "value_usd": 2990
       },
       "apc_paid": null,
@@ -35401,8 +35425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -35471,7 +35495,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36212,8 +36236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -37410,8 +37434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38077,8 +38101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2252368023.pdf"
@@ -40066,8 +40090,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41377,8 +41401,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42715,8 +42739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43179,8 +43203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43755,8 +43779,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44227,8 +44251,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
