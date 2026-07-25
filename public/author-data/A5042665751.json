@@ -859,9 +859,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -1506,9 +1506,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -4111,8 +4111,8 @@
           "raw_affiliation_strings": [
             "1 Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
             "2 Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-            "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-            "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K"
+            "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
+            "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -4130,15 +4130,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "raw_affiliation_string": "Fluvial, Eolian & Shallow-Marine Research Group, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, U.K",
               "institution_ids": [
                 "https://openalex.org/I130828816"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -4296,11 +4296,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3315,
+      "fwci": 0.3316,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.51355051,
+        "value": 0.51355422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4600,9 +4600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -5532,7 +5532,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-25T09:21:30.201066",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5854,9 +5854,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -7048,9 +7048,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -8721,9 +8721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -13359,9 +13359,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -17355,9 +17355,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8767217397689819,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8767217397689819
         }
       ],
       "awards": [],

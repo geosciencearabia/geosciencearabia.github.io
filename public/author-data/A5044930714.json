@@ -2752,9 +2752,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4329,9 +4329,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5827,9 +5827,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6932,9 +6932,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10648,13 +10648,17 @@
           "is_corresponding": false,
           "raw_author_name": "M. ELHAG",
           "raw_affiliation_strings": [
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
             "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
             "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,"
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
               "institution_ids": [
@@ -10672,10 +10676,6 @@
               "institution_ids": [
                 "https://openalex.org/I39706905"
               ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
             }
           ]
         },
@@ -10725,17 +10725,17 @@
           "is_corresponding": false,
           "raw_author_name": "Y. MUFRREH",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
             "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
             "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia"
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I185163786"
               ]
             },
             {
@@ -10749,9 +10749,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I185163786"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -10868,7 +10868,7 @@
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.84523534,
+        "value": 0.84524848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11047,9 +11047,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11634,7 +11634,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-25T09:21:30.201066",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12891,9 +12891,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -16273,9 +16273,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17851,9 +17851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18527,9 +18527,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19235,7 +19235,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -19283,7 +19283,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -19492,7 +19492,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -19540,7 +19540,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -19769,11 +19769,11 @@
         "currency": "CHF",
         "value_usd": 2227
       },
-      "fwci": 2.5852,
+      "fwci": 2.5853,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.87848454,
+        "value": 0.87847941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20154,9 +20154,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20742,7 +20742,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T05:54:00.624950",
+      "updated_date": "2026-07-25T09:21:30.201066",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20935,21 +20935,21 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
-            "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
+            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
+            "Department of Palaeontology (Geozentrum Vienna) (Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-              "institution_ids": [
-                "https://openalex.org/I2801780293"
-              ]
-            },
-            {
               "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
               "institution_ids": [
                 "https://openalex.org/I129774422"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
+              "institution_ids": [
+                "https://openalex.org/I2801780293"
               ]
             }
           ]
@@ -21070,11 +21070,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 1.8358,
+      "fwci": 1.8308,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.8580419,
+        "value": 0.85777858,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22220,7 +22220,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-25T09:21:30.201066",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25124,9 +25124,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25800,9 +25800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
