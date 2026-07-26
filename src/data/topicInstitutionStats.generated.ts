@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1300,
-    "citations": 24629
+    "citations": 24632
   },
   {
     "id": "https://openalex.org/T10109",
@@ -44,25 +44,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 648,
-    "citations": 32310
+    "citations": 32311
   },
   {
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 578,
-    "citations": 11371
+    "citations": 11372
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 576,
-    "citations": 12544
+    "citations": 12546
   },
   {
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 347,
-    "citations": 4756
+    "citations": 4758
   },
   {
     "id": "https://openalex.org/T10995",
@@ -74,13 +74,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
     "publications": 310,
-    "citations": 15859
+    "citations": 15860
   },
   {
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 279,
-    "citations": 5132
+    "citations": 5133
   },
   {
     "id": "https://openalex.org/T10271",
@@ -140,7 +140,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13205",
     "name": "Geological and Geophysical Studies Worldwide",
     "publications": 112,
-    "citations": 2070
+    "citations": 2071
   },
   {
     "id": "https://openalex.org/T11757",
@@ -3653,7 +3653,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 929,
-    "citations": 10756
+    "citations": 10757
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3713,13 +3713,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I201726411",
     "name": "United Arab Emirates University",
     "publications": 95,
-    "citations": 4744
+    "citations": 4745
   },
   {
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 94,
-    "citations": 992
+    "citations": 993
   },
   {
     "id": "https://openalex.org/I49324905",
@@ -3755,7 +3755,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
     "publications": 53,
-    "citations": 418
+    "citations": 419
   },
   {
     "id": "https://openalex.org/I176601375",
@@ -3773,7 +3773,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 47,
-    "citations": 733
+    "citations": 734
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -3881,7 +3881,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I185163786",
     "name": "King Abdulaziz University",
     "publications": 25,
-    "citations": 1257
+    "citations": 1258
   },
   {
     "id": "https://openalex.org/I190397597",
@@ -3971,7 +3971,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I40120149",
     "name": "University of Oxford",
     "publications": 21,
-    "citations": 620
+    "citations": 621
   },
   {
     "id": "https://openalex.org/I189158943",
@@ -4817,7 +4817,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210160113",
     "name": "Government of Northwest Territories",
     "publications": 8,
-    "citations": 11
+    "citations": 12
   },
   {
     "id": "https://openalex.org/I34403800",
@@ -6293,7 +6293,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I8991828",
     "name": "Pukyong National University",
     "publications": 3,
-    "citations": 39
+    "citations": 40
   },
   {
     "id": "https://openalex.org/I4210100002",

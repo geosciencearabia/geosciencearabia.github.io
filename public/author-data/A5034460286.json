@@ -5090,20 +5090,20 @@
           "is_corresponding": false,
           "raw_author_name": "John J.G. Reijmer",
           "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia",
-            "1188JB Amstelveen, the Netherlands"
+            "1188JB Amstelveen, the Netherlands",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1188JB Amstelveen, the Netherlands",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, KFUPM, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "1188JB Amstelveen, the Netherlands",
-              "institution_ids": []
             }
           ]
         },
@@ -5197,11 +5197,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8962,
+      "fwci": 0.8965,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.67130884,
+        "value": 0.67142132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5730,7 +5730,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-25T15:57:00.446498",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {

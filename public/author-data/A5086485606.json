@@ -15,7 +15,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 49,
-    "cited_by_count": 992,
+    "cited_by_count": 993,
     "summary_stats": {
       "2yr_mean_citedness": 2.1666666666666665,
       "h_index": 16,
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000704,
+        "value": 0.0000703,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -259,7 +259,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000358,
+        "value": 0.0000357,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -407,7 +407,7 @@
         "year": 2023,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 76
+        "cited_by_count": 77
       },
       {
         "year": 2024,
@@ -440,7 +440,7 @@
     ],
     "block_key": "r zuhlke",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
-    "updated_date": "2026-07-22T12:17:52",
+    "updated_date": "2026-07-25T12:16:36",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1592,8 +1592,8 @@
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals  Dhahran 31261 Saudi Arabia",
             "Department of Earth Sciences, Faculty of Science Vrije Universiteit Amsterdam  De Boelelaan 1085 Amsterdam 1081 HV The Netherlands",
             "Department of Geosciences – Geology University of Fribourg  Chemin du Musée 6 Fribourg CH‐1700 Switzerland",
-            "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia"
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+            "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5807-1256",
           "affiliations": [
@@ -1616,15 +1616,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I865915315"
-              ]
-            },
-            {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I865915315"
               ]
             }
           ]
@@ -1645,11 +1645,11 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 5.4769,
+      "fwci": 5.4626,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.97419451,
+        "value": 0.97404147,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3043,7 +3043,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22356,8 +22356,8 @@
           "raw_affiliation_strings": [
             "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
             "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
-            "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-            "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany"
+            "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
+            "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -22374,15 +22374,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            },
-            {
               "raw_affiliation_string": "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
               "institution_ids": [
                 "https://openalex.org/I901980530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
               ]
             }
           ]
@@ -23001,7 +23001,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-25T09:21:30.201066",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {

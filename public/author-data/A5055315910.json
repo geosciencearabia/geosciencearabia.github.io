@@ -19211,23 +19211,13 @@
           "is_corresponding": false,
           "raw_author_name": "Alex E. Peden",
           "raw_affiliation_strings": [
-            "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
-            "British Columbia",
             "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
-            "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library"
+            "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
+            "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
+            "British Columbia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
-              "institution_ids": [
-                "https://openalex.org/I136199984"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Columbia",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
               "institution_ids": [
@@ -19235,10 +19225,20 @@
               ]
             },
             {
+              "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
               "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
               "institution_ids": [
                 "https://openalex.org/I136199984"
               ]
+            },
+            {
+              "raw_affiliation_string": "British Columbia",
+              "institution_ids": []
             }
           ]
         },
@@ -19278,15 +19278,25 @@
           "is_corresponding": false,
           "raw_author_name": "G. W. Hughes",
           "raw_affiliation_strings": [
-            "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
-            "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
             "British Columbia",
-            "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library"
+            "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
+            "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
+            "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
+              "raw_affiliation_string": "British Columbia",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
               "institution_ids": [
                 "https://openalex.org/I136199984"
               ]
@@ -19295,16 +19305,6 @@
               "raw_affiliation_string": "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
               "institution_ids": [
                 "https://openalex.org/I1301826503"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Columbia",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr Library",
-              "institution_ids": [
-                "https://openalex.org/I136199984"
               ]
             }
           ]
@@ -19321,7 +19321,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.43996551,
+        "value": 0.43974995,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19680,7 +19680,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-25T09:21:30.201066",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {

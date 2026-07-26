@@ -18,7 +18,7 @@
     ],
     "full_name": "Abdulkader M. Alafifi",
     "works_count": 79,
-    "cited_by_count": 1861,
+    "cited_by_count": 1862,
     "summary_stats": {
       "2yr_mean_citedness": 4.038461538461538,
       "h_index": 17,
@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002405,
+        "value": 0.0002403,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0001181,
+        "value": 0.0001179,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -330,7 +330,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000477,
+        "value": 0.0000476,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -490,7 +490,7 @@
         "year": 2023,
         "works_count": 11,
         "oa_works_count": 10,
-        "cited_by_count": 300
+        "cited_by_count": 301
       },
       {
         "year": 2024,
@@ -507,7 +507,7 @@
       {
         "year": 2026,
         "works_count": 3,
-        "oa_works_count": 2,
+        "oa_works_count": 3,
         "cited_by_count": 0
       }
     ],
@@ -526,7 +526,7 @@
     ],
     "block_key": "a alafifi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
-    "updated_date": "2026-07-22T12:17:52",
+    "updated_date": "2026-07-25T12:16:36",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -17385,8 +17385,8 @@
           "raw_affiliation_strings": [
             "Ali I. Al-Naimi Petroleum Engineering Reasearch center, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Dipartimento di Scienze della Terra e dell’Ambiente, Università di Pavia, Pavia, Italy",
-            "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
-            "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)"
+            "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)",
+            "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -17403,15 +17403,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
-              "institution_ids": [
-                "https://openalex.org/I25217355"
-              ]
-            },
-            {
               "raw_affiliation_string": "KAUST - King Abdullah University of Science and Technology [Saudi Arabia] (King Abdullah University of Science and Technology P.O.Box 55455 Jeddah 21534, Saudi Arabia - Arabie saoudite)",
               "institution_ids": [
                 "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIPV - Università degli Studi di Pavia [Italia] = University of Pavia [Italy] = Université de Pavie [Italie] (Corso Strada Nuova, 65 - Pavie - Italie)",
+              "institution_ids": [
+                "https://openalex.org/I25217355"
               ]
             }
           ]
@@ -17877,11 +17877,11 @@
         "currency": "USD",
         "value_usd": 3295
       },
-      "fwci": 2.7899,
+      "fwci": 2.7885,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9082807,
+        "value": 0.90821053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19081,7 +19081,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-25T15:57:00.446498",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27478,8 +27478,8 @@
             "Applied Geosciences",
             "King Abdullah University of Science and Technology",
             "TNO innovation for life",
-            "Ali l. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Thuwal, 23955, Kingdom of Saudi Arabia",
-            "Applied Geosciences, TNO innovation for life, Utrecht, 3584 CB, The Netherlands"
+            "Applied Geosciences, TNO innovation for life, Utrecht, 3584 CB, The Netherlands",
+            "Ali l. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Thuwal, 23955, Kingdom of Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8203-2027",
           "affiliations": [
@@ -27506,14 +27506,14 @@
               "institution_ids": []
             },
             {
+              "raw_affiliation_string": "Applied Geosciences, TNO innovation for life, Utrecht, 3584 CB, The Netherlands",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "Ali l. Al-Naimi Petroleum Engineering Research Center, King Abdullah University of Science and Technology, Thuwal, 23955, Kingdom of Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I71920554"
               ]
-            },
-            {
-              "raw_affiliation_string": "Applied Geosciences, TNO innovation for life, Utrecht, 3584 CB, The Netherlands",
-              "institution_ids": []
             }
           ]
         },
@@ -27778,11 +27778,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3271,
+      "fwci": 1.3143,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77000433,
+        "value": 0.76778361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28787,7 +28787,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-16T13:24:37.021932",
+      "updated_date": "2026-07-26T07:53:14.480251",
       "created_date": "2025-10-10T00:00:00"
     },
     {
